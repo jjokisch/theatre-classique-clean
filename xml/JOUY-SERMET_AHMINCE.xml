@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AH ! MINCE ! MONOLOGUE.</title>
+				<author type="texte" ISNI="0000 0000 5191 2895">Jules JOUY (1855-1897)</author>
+				<author type="texte" ISNI="0000 0000 4841 5740">Julien SERMET (1855-1906)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<publisher>Texte établi par Paul FIEVRE, juin 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, juillet 2023</publisher>
+				<idno>JOUY-SERMET_AHMINCE</idno>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>vers</type>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 4-YTH-5091">https://gallica.bnf.fr/ark:/12148/bpt6k9629244g</permalien>
+			</SourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text>
+<front>
+	<docTitle>
+		<titlePart type="main">AH ! MINCE !</titlePart>
+		<titlePart type="sub">MONOLOGUE</titlePart>
+		<titlePart type="sub">Crée par LIBERT, à la Scala</titlePart>
+	</docTitle>
+	<docDate value="1884">1894 Tous droits réservés.</docDate>
+	<docAuthor id="JOUY, SERMET ">Paroles de JULES JOUY et JULIEN SERMET</docAuthor>
+	<docImprint>
+		<editor id="LIBRAIRIE LA LANTERNE DES CURÉS">LIBRAIRIE DE LA LANTERNE DES CURÉS, 10, JEAN-LANTIER. Propriété pour tous pays.</editor>
+	</docImprint>
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="LIBERT" sex="1" type="H" statut="récitant" age="A" stat_amour="néant">LIBERT</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>AH ! MINCE !</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LIBERT"><speaker/>
+<poem type="strophe">
+<lg n="1">
+	<l id="1">Un soir, à la fêt' de Font'nay.</l>
+	<l id="2">On tirait le feu d'artifice,</l>
+	<l id="3">Pendant qu' la premièr' bombe tonnait,</l>
+	<l id="4">Dans la foule, adroit'ment je m' glisse,</l>
+	<l id="5">Non, tout' ma vi', j' m'en souviendrai !</l>
+	<l id="6">On 'n n'a pas idée en province !.</l>
+	<l id="7">Fallait voir c' qn'on était serré !....</l>
+	<l id="8">Ah ! mince !</l>
+</lg>
+<lg n="2">
+	<l id="9">J'avais devant moi, par bonheur,</l>
+	<l id="10">Un' bell' fille assez riche en graisse,</l>
+	<l id="11">Et dont les form's plein's de rondeur</l>
+	<l id="12">M' garantissaient contre la presse,</l>
+	<l id="13">Tout près d'ell' j'étais p'letonné,</l>
+	<l id="14">M' faisant tout p'tit d'peur qu'on n' m'évince.</l>
+	<l id="15">Vrai, c' que c'était capitonné !</l>
+	<l id="16">Ah ! mince !</l>
+</lg>
+<lg n="3">
+	<l id="17">En la r'gardant bien, j' m'aperçus</l>
+	<l id="18">Qu'elle était d'une beauté rare,</l>
+	<l id="19">Elle avait des appas cossus,</l>
+	<l id="20">Des épaul's en marbr' de carrare,</l>
+	<l id="21">Des bras couverts d'un' peau d' satin,</l>
+	<l id="22">Un' taill' fine à ruiner un prince,</l>
+	<l id="23">Et des yeux noirs, d'un libertin !</l>
+	<l id="24">Ah ! mince !</l>
+</lg>
+<lg n="4">
+	<l id="25">Autour de nous, on la r'luquait.</l>
+	<l id="26">J'en était jaloux, comm' on l'pense,</l>
+	<l id="27">Justement, l'on tirait l'bouquet,</l>
+	<l id="28">J'mets à profit la circonstance,</l>
+	<l id="29">Tandis qu'éclataient les pétards,</l>
+	<l id="30">Dans le dos, tout douc'ment, j'la pince.</l>
+	<l id="31">EU' se r'tourne et m'iance un d'ces r'gards</l>
+	<l id="32">Ah ! mince !</l>
+</lg>
+<lg n="5">
+	<l id="33">Bref, elle et moi, par le mêm' train,</l>
+	<l id="34">De Paris, nous fim's le voyage,</l>
+	<l id="35">A cause du monde le long du ch'min</l>
+	<l id="36">Je m' montrai sag' comme une image.</l>
+	<l id="37">Seul'ment, en passant dans un coin :</l>
+	<l id="38">Désert comme une ru' d' province</l>
+	<l id="39">Je lui donne un becot d' marsouin....</l>
+	<l id="40">Ah ! mince !</l>
+</lg>
+<lg n="6">
+	<l id="41">Enflammé je lui fais la cour</l>
+	<l id="42">Pendant huit jours ! Puis ma conquête</l>
+	<l id="43">Dans son log'ment 1u' Bourg-Tibourg-</l>
+	<l id="44">Un beau soir s'laisse apn'ler poulette</l>
+	<l id="45">Mais tout à coup j' dis n nart moi...</l>
+	<l id="46">Ben vrai ! Si jamais on m'y r'pince !</l>
+	<l id="47">Vous allez comprendre pourquoi !</l>
+	<l id="48">Ah ! mince !</l>
+</lg>
+<lg n="7">
+	<l id="49">Ses épaul's ? de la poudr' de riz !</l>
+	<l id="50">Ses bras de neige ? un' couch' de plâtre !</l>
+	<l id="51">Ses yeux noirs? des yeux d'merlans frits!</l>
+	<l id="52">Ses ch'veux ? un' perruqu' de théâtre !</l>
+	<l id="53">Sa taill' fine ? un mat d'batiment</l>
+	<l id="54">Sa jambe ronde ? une viai' pince !</l>
+	<l id="55">Quand je vis cet assortiment !</l>
+	<l id="56">Ah ! mince !</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

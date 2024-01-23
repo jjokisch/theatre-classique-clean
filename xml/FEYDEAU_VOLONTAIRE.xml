@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE VOLONTAIRE, MONOLOGUE.</title>
+				<author type="texte" ISNI="0000 0001 2118 4695">FEYDEAU, Georges (1862-1921)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, septembre 2019</editor>
+				<publisher>publié par Paul FIEVRE, septembre 2019.</publisher>
+				<idno>FEYDEAU_VOLONTAIRE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-Yth-21581">https://gallica.bnf.fr/ark:/12148/bpt6k761662</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE VOLONTAIRE</titlePart>
+			<titlePart type="sub">MONOLOGUE COMIQUE EN VERS</titlePart>
+			<titlePart type="sub">DIT PAR FELIX GALIPAUX, du Palais-Royal.</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés</docDate>
+		<docAuthor id="FEYDEAU, Georges">GEORGES FEYDEAU</docAuthor>
+		<docImprint>
+			<editor id="RUAULT">PARIS, PAUL OLLENDORFF, ÉDITEUR, 28 bis, rue de Richelieu, 28 bis.</editor>
+			<printer>Imprimerie Générale de Chtillon-sur-Seine - A. Pichat.</printer>
+		</docImprint>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="UN SOLDAT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN SOLDAT</role>.</castItem> 
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+</front>
+<body>
++<div1 type="acte" n="1"><head>LE VOLONTAIRE</head>
+<stage type="toward">À Léon Landau.</stage>
+<div2 type="scene" n="1"><head/>
+<sp who="UN SOLDAT"><speaker/>
+	<l id="1">Excusez ! C'est moi.... L'on prétend</l>
+	<l id="2">Que le ministre de la guerre</l>
+	<l id="3">Est ici ? C'est vrai ? - Justement</l>
+	<l id="4">J'ai plus d'une plainte à lui faire...</l>
+	<l id="5">Depuis trois jours, de mon état,</l>
+	<l id="6">Monsieur, si parmi nous vous êtes,</l>
+	<l id="7">Apprenez que je suis soldat...</l>
+	<l id="8">Quel métier ! Mille baïonnettes !</l>
+	<l id="9">Vous dire à quel point j'en suis las !</l>
+	<l id="10">... Comme ministre de la guerre,</l>
+	<l id="11">Nous ne savez peut-être pas</l>
+	<l id="12">Bien ce que c'est qu'un militaire ?</l>
+	<l id="13">Affreux ! - J'ai pincé dans trois jours</l>
+	<l id="14">Vingt jours de salle de police ;</l>
+	<l id="15">Si cela doit durer toujours,</l>
+	<l id="16">J'en aurai dix fois mon service.</l>
+	<l id="17">... Lundi j'arrive ; un vieux sergent</l>
+	<l id="18">Me dit: « Holà ! cré mill'tonnerre,</l>
+	<l id="19">C'qu'on salu'donc plus maintenant ?</l>
+	<l id="20">- Pardon, Monsieur le militaire</l>
+	<l id="21">Fais-je alors, mais je ne crois pas</l>
+	<l id="22">Avoir l'honneur de vous connaître ;</l>
+	<l id="23">Et je vous vois du haut en bas</l>
+	<l id="24">Sans parvenir à vous remettre.</l>
+	<l id="25">- F'rez deux jours sall'polic' crebleu !</l>
+	<l id="26">C'est qu'ça donc ? Vot'nom un peu vite ? »</l>
+	<l id="27">Tout abasourdi, voyant bleu,</l>
+	<l id="28">Je tends ma carte de visite :</l>
+	<l id="29">« C'qui m'a donné pareil crétin ?</l>
+	<l id="30">F'rez deux jours ! M'entendez ? Tonnerre !</l>
+	<l id="31">Cretin ! Oui... t-a-i-n tin ! »</l>
+	<l id="32">Et j'ai mes quatre jours à faire.</l>
+	<l id="33">Non, c'est révoltant, quoi qu'on dise,</l>
+	<l id="34">De s'entendre à tous les moments</l>
+	<l id="35">Punir à la moindre bêtise</l>
+	<l id="36">Par de vulgaires ignorants ;</l>
+	<l id="37">Par des gens qui, soir et matin,</l>
+	<l id="38">Dans un style de télégraphe</l>
+	<l id="39">Viennent vous traiter de « crétin ! »</l>
+	<l id="40">Sans même y mettre l'orthographe.</l>
+	<l id="41">... Enfin avant-hier, c'est plus fort !</l>
+	<l id="42">L'on nous commande à l'exercice</l>
+	<l id="43">- Vous allez voir si j'avais tort. -</l>
+	<l id="44">« Portez arme ! » Belle malice 1</l>
+	<l id="45">Moi qui ne suis pas un gogo,</l>
+	<l id="46">Tout seul je reste l'arme à terre.</l>
+	<l id="47">« Eh bien ! hurle-t-on, grand nigaud</l>
+	<l id="48">Pour quand ? - Oui, bernick ! Petit père !</l>
+	<l id="49">Je n'aurai pas porté plus tôt</l>
+	<l id="50">L'arme, que, la chose est certaine,</l>
+	<l id="51">Il me faudra, tout aussitôt</l>
+	<l id="52">La reposer ! C'est pas la peine. »</l>
+	<l id="53">Bien v'lan ! Autre punition.</l>
+	<l id="54">Oui ! - Tenez, on nous crie en face</l>
+	<l id="55">Plus tard : « droite conversion ! »</l>
+	<l id="56">Et chacun de tourner sur place.</l>
+	<l id="57">Quant à moi, je ne bronche pas.</l>
+	<l id="58">Honte ! Est-ce ainsi que l'on débauche,</l>
+	<l id="59">Que l'on débauche des soldats !</l>
+	<l id="60">Mon père est député de gauche,</l>
+	<l id="61">Honneur à son opinion !</l>
+	<l id="62">À son parti je me rallie.</l>
+	<l id="63">« Qui ? moi ! Faire conversion</l>
+	<l id="64">À droite ? Jamais de la vie ! »</l>
+	<l id="65">Ça m'a valu ni plus ni moins,</l>
+	<l id="66">Deux jours de salle de police !</l>
+	<l id="67">Je les ferai ! Mais néanmoins,</l>
+	<l id="68">Je crierai haut à l'injustice...</l>
+	<l id="69">Avant d'entrer au régiment</l>
+	<l id="70">Je m'étais fait, plein de prudence,</l>
+	<l id="71">Au colonel sournoisement</l>
+	<l id="72">Recommander avec instance.</l>
+	<l id="73">Sitôt l'exercice fini,</l>
+	<l id="74">Couvant dans mon coeur ma colère,</l>
+	<l id="75">Je demande à monter chez lui</l>
+	<l id="76">Pour lui détailler mon affaire.</l>
+	<l id="77">Il me reçoit d'un air grognon :</l>
+	<l id="78">- D'ailleurs c'est toujours de la sorte, -</l>
+	<l id="79">« C'est vous qu'on nomme Potiron ?</l>
+	<l id="80">- Pruneau ! Mon colonel. - N'importe !</l>
+	<l id="81">Pruneau, Potiron, c'est tout un.</l>
+	<l id="82">C'est toujours chose qui se mange,</l>
+	<l id="83">Et faut pas faire le malin</l>
+	<l id="84">Savez, orénom ! Ou je vous range 1</l>
+	<l id="85">Vous m'êtes recommandé vous !...</l>
+	<l id="86">Par chose !... Que je me rappelle !</l>
+	<l id="87">Un de vos parents ?... Vertuchoux !</l>
+	<l id="88">Ce crétin !... Comment qu'on l'appelle ?</l>
+	<l id="89">Un nom en «off» ? Ah ! Oui : «Trucard» -</l>
+	<l id="90">- Non, mon colonel : « La Rusée ».</l>
+	<l id="91">- Là dessus le voilà qui part,</l>
+	<l id="92">Qui monte comme une fusée</l>
+	<l id="93">« Crénom ! « La Rusée » ou « Trucard »</l>
+	<l id="94">C'est peut-être pas même chose ?</l>
+	<l id="95">Me prenez donc pour un jobard ?</l>
+	<l id="96">Faut pas nous la faire à la pose !</l>
+	<l id="97">Quand vous m'aurez bien regardé ?</l>
+	<l id="98">Coucherez ce soir à la caisse !</l>
+	<l id="99">Allez !... M'êtes recommandé,</l>
+	<l id="100">Vous !... Soignerai! Faut que ça cesse ! »</l>
+	<l id="101">Moi j'écumais : « Ah ! C'est cela ?</l>
+	<l id="102">J'irai me plaindre ! » II devient bistre :</l>
+	<l id="103">« Crénom !... Prison ! Ce crétin-là !...</l>
+	<l id="104">Et pouvez vous plaindre au ministre !...</l>
+	<l id="105">Mais certainement que j'irai !</l>
+	<l id="106">Ah ! Bien, si vous croyez me faire</l>
+	<l id="107">Peur ! » Et sans plus hésiter, j'ai</l>
+	<l id="108">Couru bien vite au ministère</l>
+	<l id="109">Et me voilà ! - Vous savez tout</l>
+	<l id="110">Monsieur, et voyez mes supplices,</l>
+	<l id="111">Comprenez-vous qu'on soit à bout</l>
+	<l id="112">Devant toutes ces injustices.</l>
+	<l id="113">Bien non ! C'est trop d'obsession !</l>
+	<l id="114">Assez du métier militaire,</l>
+	<l id="115">Acceptez ma démission.</l>
+	<l id="116">Et ramenez-moi chez ma mère.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

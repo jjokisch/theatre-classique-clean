@@ -1,0 +1,1967 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>IL N'Y A PLUS D'ENFANTS, COMÉDIE.</title>
+				<author type="texte" ISNI="0000 0001 1575 476X ">Pierre-Jean-Baptiste NOUGARET (1742-1823)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<publisher>Texte établi par Paul FIEVRE, mai 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, juin 2023</publisher>
+ 				<idno>NOUGARET_ILNYAPLUSDENFANTS</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1771-1780</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote=" BnF LLA 8-YTH-8861">http://gallica.bnf.fr/ark:/12148/bpt6k8711031</permalien>
+				<refNum/>
+			</SourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text>
+<front>
+	<docTitle>
+		<titlePart type="main">IL N'Y A PLUS D'ENFANTS</titlePart>
+		<titlePart type="sub">COMÉDIE</titlePart>
+		<titlePart type="sub">Représentée à Choisy-le-Roi devant SA MAJESTÉ, pour les Enfants de l'Ambigu Comique, le Mercredi 8 avril 1772.</titlePart>
+	</docTitle>
+	<docDate value="1772">M. DC. LXXII. Par expresse Commandement de sa Majesté.</docDate>
+		<docAuthor id="NOUGARET, Pierre"/>
+	<docImprint>
+		<printer id="BALLARD">DE L'IMPRIMERIE de PIERRE-ROBERT-CHRISTOPHE BALLARD, seul imprimeur, pour la Musique de la chambre et Menus-Plaisirs du Roi, et seul imprimeur de la Grande Chapelle de Sa Majesté.</printer>
+		<acheveImprime value="1642-05-30">Achevé d'imprimer le dernier Mai 1642.</acheveImprime>
+	</docImprint>
+	<performance>
+			<premiere date="1772-04-08" location="Choisy-le-Roi">Représentée à Choisy-le-Roi devant SA MAJESTÉ, pour les Enfants de l'Ambigu Comique, le Mercredi 8 avril 1772.</premiere>
+		</performance>
+		
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="MADAME SIMONE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME SIMONE</role>, La Demoiselle Cléophile.</castItem>
+		<castItem><role id="MONSIEUR CRISTOPHE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR CRISTOPHE</role>, Le Sieur Talon, le cadet.</castItem>
+		<castItem><role id="LOLOTTE" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">LOLOTTE</role>, Fille de Madame Simone, La Deoiselle Rousseau.</castItem>
+		<castItem><role id="TONTON" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">TONTON</role>, La Demoiselle Henriette Paulin. La Demoiselle Durand.</castItem>
+		<castItem><role id="SUZETTE" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">SUZETTE</role>, amie de Lolotte et de Tonton. La Demoiselle Tonton.</castItem>
+		<castItem><role id="CÉSARINE" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">CÉSARINE</role>, amie de Lolotte et de Tonton. La Demoiselle Rivière.</castItem>
+		<castItem><role id="CRISPIN" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">CRISPIN</role>, Fils de Madame Simone, Le Sieur Bordier.</castItem>
+		<castItem><role id="FRANÇOIS" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">FRANÇOIS</role>, Amant de Lolotte, et Camarade de Crispin , Le Sieur Talon, l'aîné.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">ARLEQUIN</role>, Neveu de M. Cristophe, et Camarade de François et de Crispin, Le Sieur Moreau.</castItem>
+		<castItem><role id="TROUPE D'ENFANTS" sex="9" type="H" statut="E" age="E" stat_amour="néant">TROUPE D'ENFANTS</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est dans l'appartement de Madame Simone.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>IL N'Y A PLUS D'ENFANTS</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Crispin, Arlequin, Lolotte, Tonton, Suzette, Troupe d'enfants.
+</stage>
+<stage type="play">À la levée du rideau, on voit les jeunes acteurs de la Pièce jouer à Colin-Maillard ; mais en s'agitant beaucoup, et en se livrant à une gaité folle, ainsi que sont ordinairement des enfants abandonnés à eux-mêmes.</stage>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="hide">, les yeux bandés.
+</stage>
+<p id="1">
+	<s id="1">Bon je tiens quelqu'un.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="2">
+	<s id="1">Qui est-ce ? </s>
+	<s id="2">Devinez.</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="touch">, touchant celle qu'il tient.
+</stage>
+<p id="3">
+	<s id="1">C'est... c'est ma soeur Lolotte.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="4">
+	<s id="1">Non, car c'est mon amie Suzette. </s>
+</p>
+<stage type="laugh">Ils se mettent tous à rire. </stage>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN.</speaker>
+<p id="5">
+	<s id="1">Quoi, je ne vous attraperai pas ! </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="6">
+	<s id="1">Casse-cou. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<note type="L">Quinze vingt : ou l'hôpital des Quinze-Vingts (avec deux majuscules), hôpital fondé à Paris par saint Louis pour trois cents aveugles.</note>
+<p id="7">
+	<s id="1">Il faut le mener aux Quinze-Vingts. </s>
+</p>
+<stage type="laugh">Elle rit.</stage>
+<p id="8">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Ah ! </s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage>, attrapant Tonton.
+</stage>
+<p id="9">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour le coup, je vous tiens. </s>
+</p>
+</sp>
+<sp who="SUZETTE"><speaker>SUZETTE.</speaker>
+<p id="10">
+	<s id="1">Ah, vous trichez, Monsieur ; vous voyez.</s>
+</p> 
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="11">
+	<s id="1">Nous sommes perdus ! </s>
+	<s id="2">J'entends venir Maman.</s>
+</p> 
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="dress">, ôtant son bandeau. 
+</stage>
+<p id="12">
+	<s id="1">Eh ! </s>
+	<s id="2">Vite , que je me mette à écrire. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="13">
+	<s id="1">Faisons semblant de travailler à ma broderie.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="14">
+	<s id="1">Qu'ai-je donc fait de mon fil, de mon aiguille ?</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN. </speaker>
+<p id="15">
+	<s id="1">Je n'ai pas encore achevé ma page.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="toward">, à ses deux amies. 
+</stage>
+<p id="16">
+	<s id="1">Mettez-vous à coudre auprès de moi, comme si de rien n'était.</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à ses deux Camarades. 
+</stage>
+<p id="17">
+	<s id="1">Asseyez-vous-là, vous autres : vous direz que vous ne faites que d'arriver.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="18">
+	<s id="1">Je vais lire dans ton Rudiment, Musa, Musus, Domine, Dominorus.</s>
+</p> 
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="laugh">, en riant. 
+</stage>
+<p id="19">
+	<s id="1">Là, là, remettez-vous, ma chère soeur, et vous aussi, mon pauvre frère ; je n'ai point entendu venir Maman.</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="20">
+	<s id="1">Pourquoi nous faire une telle peur ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="21">
+	<s id="1">Vraiment, sans cette petite ruse, j'aurais été le Colin-Maillard.</s>
+</p> 
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN.</speaker>
+<p id="22">
+	<s id="1">Voyez un peu cette petite sotte. </s>
+	<s id="2">Elle est cause que j'ai fait le pâté le plus énorme... </s>
+	<s id="3">Voilà ma page toute gâtée.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="23">
+	<s id="1">Bon, bon ; tu diras que c'est dans la chaleur de la composition. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="24">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour le coup, voici Maman.</s>
+</p>
+<stage type="work">Ils se mettent tous à travailler.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les acteurs Précédents ; Madame Simone.
+</stage>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE</speaker><stage type="entrance">, en entrant. 
+</stage>
+<p id="1">
+	<s id="1">J'ai oublié l'échantillon de cette robe... </s>
+	<s id="2">Mais que vois je ! </s>
+	<s id="3">Le cercle est nombreux. </s>
+	<s id="4">Vous viendrez donc toujours les détourner ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="2">
+	<s id="1">C'est aujou[r]d'hui vacance, Madame_Simone.</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN. </speaker>
+<p id="3">
+	<s id="1">Oui, ma chère Maman, et ils font venus... </s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>MADAME SIMONE. </speaker>
+<p id="4">
+	<s id="1">Je le vois bien qu'ils font venus. </s>
+	<s id="2">Mais, encore une fois, qu'ils se tiennent chez eux. </s>
+	<s id="3">Et vous, Mesdemoiselles, que faites vous ici ? </s>
+</p>
+</sp>
+<sp who="SUZETTE"><speaker>SUZETTE. </speaker>
+<p id="5">
+	<s id="1">Madame , nous travaillons avec mes bonnes amies. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="6">
+	<s id="1">Nous nous donnons des tâches ; j'ai bientôt fait la mienne. </s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN.</speaker>
+<p id="7">
+	<s id="1">Je vous promets, Maman, que nous ne faisons pas de bruit. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="8">
+	<s id="1">À la bonne-heure. </s>
+	<s id="2">Je consens que vous restiez ensemble le reste de l'après-dîner, si vous êtes sages. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="kiss">, embrassant sa mère, 
+</stage>
+<p id="9">
+	<s id="1">La bonne petite Maman ! </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="10">
+	<s id="1">Tenez-vous tranquilles. </s>
+	<s id="2">Arlequin, comment se porte votre oncle, Monsieur_Cristophe ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="11">
+	<s id="1">À merveille, Madame ; il a aussi bon appétit que moi. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="12">
+	<s id="1">C'est un honnête_homme, je l'estime. </s>
+	<s id="2">Je vais chez mon Marchand_d_étoffes. </s>
+	<s id="3">Au moins, mes enfants, que je ne reçoive pas de plaintes de vous : la Bonne me rendra compte de vos actions.</s>
+</p> 
+<stage type="exit/drop">Elle sort après avoir pris quelque chose dans un sac à ouvrage.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lolotte, Tonton, Suzette, Césarine, Crispin, François, Arlequin, etc. 
+</stage>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="write/stop">, cessant d'écrire. 
+</stage>
+<p id="1">
+	<s id="1">La voilà partie ; réjouissons-nous.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="stop">, quittant son ouvrage. 
+</stage>
+<p id="2">
+	<s id="1">Elle ne sera pas sitôt de retour ; allons nous divertir dans le jardin.</s>
+</p> 
+</sp>
+<sp who="TOUS ENSEMBLE"><speaker>TOUS ENSEMBLE.</speaker>
+<p id="3">
+	<s id="1">C'est bien dit.</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN. </speaker>
+<p id="4">
+	<s id="1">Oui, oui, nous pourrons mieux courir. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="5">
+	<s id="1">L'aimable Lolotte a toujours raison.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="6">
+	<s id="1">Ah, comme je vais sauter !</s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN.</speaker>
+<p id="7">
+	<s id="1">Allons, qui m'aime me suive.</s>
+</p>
+</sp>
+<sp who="SUZETTE"><speaker>SUZETTE. </speaker>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">J'arriverai la première. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="9">
+	<s id="1">Non, non, ce fera moi. </s>
+</p>
+<stage type="exit">Ils sortent en courant et en chantant.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> François, Arlequin.
+</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="1">
+	<s id="1">Que fais-tu donc là ? </s>
+	<s id="2">Est-ce que tu veux rester ici ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="2">
+	<s id="1">Je ne suis pas en train de me divertir aujourd'hui. </s>
+	<s id="2">Laisse-moi. </s>
+	<s id="3">Va t'amuser avec les autres.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="3">
+	<s id="1">J'entends ; ton Régent n'est guère content de toi : cela t'inquiète ? </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="4">
+	<s id="1">Je me moque bien de lui. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="5">
+	<s id="1">Tu as peut-être eu des pinçons qui font encore à faire ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="6">
+	<s id="1">Serait-ce là un sujet de chagrin pour moi !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="closer">, s'approchant de son oreille. 
+</stage>
+<p id="7">
+	<s id="1">Ah ! </s>
+	<s id="2">J'y fuis. </s>
+	<s id="3">Tu crains d'avoir demain le fouet au Collège ? </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="8">
+	<s id="1">Plût au ciel que ce ne fût que cela ! </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="9">
+	<s id="1">Je suis ton serviteur. </s>
+	<s id="2">Le fouet n'est point une bagatelle ; il en cuit quelquefois.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="10">
+	<s id="1">Tiens, mon cher Arlequin, je te préfère à tous mes camarades ; et je vais t'avouer un grand secret.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="11">
+	<s id="1">Voyons, voyons ce que c'est. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="12">
+	<s id="1">Apprends... que je fuis amoureux. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="13">
+	<s id="1">Amoureux ! </s>
+	<s id="2">De quelque friandise, sans doute, ou bien de quelques fruits que tu ne peux attraper. </s>
+	<s id="3">Oh, si je puis t'aider... </s>
+	<s id="3">À condition que j'en aurai la moitié.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="14">
+	<s id="1">Que tu es loin de pénétrer ce qui se passe dans mon coeur ! </s>
+	<s id="2">J'aime, oui, j'aime avec transport la plus jolie fille qu'il soit possible de voir.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<note type="L">Sabot : Sorte de toupie de forme conique en bas et cylindrique en haut, que font pirouetter les enfants. [L]</note>
+<note type="L">Poussette : Jeu d'enfants qui consiste à mettre deux épingles en croix, en poussant l'une contre l'autre, celle qui se trouve dessus gagnant le coup. [L]</note>
+<p id="15">
+	<s id="1">Mais tu es fou. </s>
+	<s id="2">Est-ce à notre âge qu'on doit s'aviser d'être amoureux ? </s>
+	<s id="3">Tu ne dois songer qu'à fouetter ton sabot, qu'à jouer au volant, ou bien à la poussette.</s>
+</p> 
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="16">
+	<s id="1">Je n'ai de plaisir qu'à m'occuper de ma jolie maîtresse. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="17">
+	<s id="1">Eh, quelle est donc cette beauté si charmante ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="18">
+	<s id="1">Peux tu le demander, puisque tu connais Lolotte ? </s>
+	<s id="2">Quand je la vois , le coeur me bat... </s>
+	<s id="3">Oh, il me bat d'une force étonnante ; je veux toujours être avec elle , et quand j'y suis, au lieu d'être joyeux, j'éprouve un embarras qui me cause de la peine... et du plaisir : son idée me suit partout.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="19">
+	<s id="1">Malpeste ! </s>
+	<s id="2">Quel transport ! </s>
+	<s id="3">Mais tu es bien jeune pour être amoureux.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="20">
+	<s id="1">Oh, je grandirai, je grandirai ; et dans quelques années je pourrai demander Lolotte en mariage.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="21">
+	<s id="1">Oui, avec le temps , les petits deviennent grands... </s>
+	<s id="2">Tu sais la chanson ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="22">
+	<s id="1">Laisse-là ta chanson. </s>
+	<s id="2">Je n'ai, point encore eu la force de découvrir mon amour ; je ne fais même comment m'y prendre : c'est ce qui me rend triste et rêveur.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<note type="L">Jean Despautère (1460-1520) : Auteur d'une grammaire latine.</note>
+<p id="23">
+	<s id="1">Que ne demandes-tu conseil à ton Régent ? </s>
+	<s id="2">Ces Messieurs-là font souvent plus habiles à courtiser les belles, qu'à enseigner les règles_du_Despautère et de la Syntaxe.</s>
+</p> 
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="24">
+	<s id="">Peux-tu plaisanter, quand je suis tout-à-fait malheureux !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="25">
+	<s id="1">Ma foi, tu me fais pitié. </s>
+	<s id="2">Je me charge de te servir auprès de l'objet de ta tendresse, et de l'instruire de tes sentiments.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="26">
+	<s id="1">Ah, mon cher Arlequin, sois sûr de ma reconnaissance ; j'acquitterai tes devoirs, je ferai tes thèmes, tes versions ; tu n'auras qu'à te reposer.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="27">
+	<s id="1">C'est à merveille. </s>
+	<s id="2">Mais j'ai ouï dire que pour réussir en amour, on devait commencer par faire des présents. </s>
+	<s id="3">Il faut que je donne quelque chose de ta part à Mademoiselle Lolotte : aurais-tu de l'argent ? </s>
+	<s id="4">Car pour moi, je n'ai pas le fou, grâce aux brioches , et surtout aux petits-pâtés.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="28">
+	<s id="1">J'ai apporté dans ma poche une belle petite poupée, dont tu lui feras présent de ma part. </s>
+	<s id="2">Tiens, la voilà.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="29">
+	<s id="1">Comment diable ! </s>
+	<s id="2">Cela doit lui toucher le coeur.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="30">
+	<s id="1">J'entends quelqu'un : c'est justement Lolotte ; tache de faire quelque chose en ma faveur : je te laisse avec elle.</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="31">
+	<s id="1">Allez allez, laissez moi faire... </s>
+	<s id="2">Le pauvre petit Amour, il est encore à la bavette.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage type="hide"> Lolotte, Arlequin, caché.
+</stage>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="1">
+	<s id="1">Il faut donc venir vous chercher... </s>
+	<s id="2">Ils n'y sont pas. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, se montrant.
+</stage>
+<p id="2">
+	<s id="1">Oh que si, oh que si ; me voilà.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="3">
+	<s id="1">Est-ce que vous ne venez pas avec nous au jardin ?... </s>
+	<s id="2">Où est donc François ?</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="4">
+	<s id="1">Il est de ce côté-là. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="exit">, voulant sortir. 
+</stage>
+<p id="5">
+	<s id="1">Je vais le chercher. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="pull/touch">, retenant Lolotte par le bras. 
+</stage>
+<p id="6">
+	<s id="1">Arrêtez, Mademoiselle_Lolotte ; j'ai quelque chose à vous dire. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="7">
+	<s id="1">De quoi s'agit-il ? </s>
+	<s id="2">Dépêchez-vous, que j'aille rejoindre mes bonnes amies.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="8">
+	<s id="1">Un moment de patience. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="9">
+	<s id="1">Qu'avez vous-là sous votre bras ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="10">
+	<s id="1">Vous allez le savoir. </s>
+	<s id="2">Apprenez que vous voyez en moi un Ambassadeur ; ainsi, du respect.</s>
+</p> 
+
+<stage type="walk/proud">Il marche fièrement. </stage>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="11">
+	<s id="1">Qu'est-ce que tout cela signifie ? </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="12">
+	<s id="">Avant de m'expliquer d'avantage, je vais vous faire un présent magnifique.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="13">
+	<s id="1">Ah, ah, voyons donc.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="14">
+	<s id="1">Vous ferez enchantée de posséder un pareil joujou. </s>
+</p>
+<stage type="show">Il lui présente une poupée. </stage>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="proud">, dédaigneusement. 
+</stage>
+<p id="15">
+	<s id="1">Quoi ? </s>
+	<s id="2">Une Poupée ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="16">
+	<s id="1">Examinez sa grâce ; et ce qu'il y a de singulier, c'est que [...], quoiqu'elle ressemble aux femmes, il lui manque la parole.</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="17">
+	<s id="1">C'est bien à moi, vraiment, qu'il faut donner une poupée ! </s>
+	<s id="2">Fi donc.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="18">
+	<s id="">Mais il me semble que rien n'est plus convenable.</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="19">
+	<s id="1">Il me prend pour un enfant : ah, l'imbécile !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="20">
+	<s id="1">Mais quel âge avez-vous donc, Mademoiselle_Lolotte, pour faire ainsi la grande fille ?</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="21">
+	<s id="1">Oh, l'on ne doit plus me traiter comme un enfant ; j'ai bientôt dix_ans_et_demi.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="22">
+	<s id="1">Comment diable ! </s>
+	<s id="2">Vous pourriez être une vieille, grand'mère.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="23">
+	<s id="1">Allez , Monsieur_Arlequin ; gardez votre poupée : vous avez autant d'esprit qu'elle.</s>
+</p>
+<stage type="exit">Elle sort.</stage>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="24">
+	<s id="">J'ai, vraiment, bien réussi.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> FRANÇOIS, ARLEQUIN. 
+</stage>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage>, accourant. 
+</stage>
+<p id="1">
+	<s id="1">Eh bien, mon cher Arlequin, conte moi vite ce que tu as fait, ce quelle à dit. </s>
+	<s id="2">Je suis d'une impatience....</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="2">
+	<s id="1">Oui, oui , j'ai fait des merveilles. </s>
+	<s id="2">Tiens voilà ta poupée ; je te conseille d'en faire présent à ta Maîtresse : tu n'auras sûrement qu'à te louer de sa douceur.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="3">
+	<s id="1">Quoi ! </s>
+	<s id="2">La cruelle Lolotte a refusé mon présent ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="4">
+	<s id="1">Le mal peut, encore se réparer. </s>
+	<s id="2">Puisqu'elle n'aime plus à s'amuser avec des poupées, vous verrez qu'elle sera flattée d'avoir un amant.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="5">
+	<s id="1">Mais elle a dédaigné ce qui venait de moi.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="6">
+	<s id="1">Elle trouvera qu'un joli garçon vaut beaucoup mieux qu'une poupée. </s>
+	<s id="2">Il faut que tu lui déclares ton amour.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="7">
+	<s id="1">Je n'en aurai jamais la force, encore si elle était prévenue...</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="8">
+	<s id="1">Eh bien, je me charge de porter les premières paroles ; mais tu me promets d'avoir après plus, de hardiesse.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="9">
+	<s id="1">Oh ! Oui ; j'aurai moins d'embarras dès que le secret de mon coeur lui fera connu.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="think"> refléchissant. 
+</stage>
+<p id="10">
+	<s id="1">Attends... </s>
+	<s id="2">Il me vient une idée excellente... </s>
+	<s id="3">Oui... </s>
+	<s id="4">Sans doute... </s>
+	<s id="5">L'habit de cadet_Cliquetin, que ton père destine à lui succéder, est à-peu-près de ma taille... </s>
+	<s id="6">Je l'engagerai... </s>
+	<s id="7">Oh ! </s>
+	<s id="8">Je suis sûr du succès.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="61">
+	<s id="1">Instruis-moi de ton dessein.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="62">
+	<s id="">Viens, suis-moi, et tu avoueras que, pour me récompenser, tu ne saurais me payer trop de bonbons.</s>
+</p> 
+<stage type="exit">Ils sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="entrance/location">, entrant par le côté opposé.
+</stage>
+<p id="1">
+	<s id="1">Je ne trouve point François, je ne sais ce qu'il est devenu.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Lolotte, Tonton.
+</stage>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="entrance/laugh">, arrive en riant. 
+</stage>
+<p id="1">
+	<s id="1">Ah, ah, ah. </s>
+	<s id="2">Qu'elle a été surprise !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="2">
+	<s id="1">Qui vous fait donc tant rire, ma soeur ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="3">
+	<s id="1">Vous en rirez, aussi. </s>
+	<s id="2">Ah, ah, ah. </s>
+	<s id="3">Mais attendez que j'aie repris mon sérieux.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="4">
+	<s id="1">La petite folle aura fait sans doute quelque nouvelle espièglerie.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="5">
+	<s id="1">Vous allez tout savoir, ma soeur... </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Rien n'est plus comique !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="6">
+	<s id="1">Voyons, je vous écoute.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="7">
+	<s id="1">Voici l'histoire. </s>
+	<s id="2">Ayant envie de goûter, je suis sortie du jardin pour aller chercher la Bonne. </s>
+	<s id="3">Comme j'approchais de la cuisine, il m'a semblé entendre parler quelqu'un ; je me suis arrêtée pour écouter ; j'ai remarqué qu'on parlait bas ; la curiosité m'a pris, et j'ai vu par un petit trou, que la Bonne était avec le Domestique de mon oncle, et qu'il s'est mis tout d'un coup à l'embrasser. </s>
+	<s id="4">Aussitôt j'ai poussé la porte, et je suis entrée en éclatant de rire. </s>
+	<s id="5">Oh, que ma subite apparition les a déconcertés ! </s>
+	<s id="6">Ils ont resté tous les deux immobiles comme des statues. </s>
+	<s id="7">Enfin, le pauvre Champagne s'est retiré sans ouvrir la bouche ; notre Bonne, qui était rouge comme du feu, m'a grondée sans trop savoir ce qu'elle disait ; et je suis accourue pour vous faire part de l'aventure.</s>
+</p>
+<stage type="laugh">Elle rit.</stage>
+<p id="8">
+	<s id="1">Ah, ah, ah. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="9">
+	<s id="1">Mais, Tonton, tu n'es qu'une folle ; je ne vois rien là qui soit digne d'attention.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="10">
+	<s id="1">Je suis donc plus fine que vous, moi, ma chère soeur. </s>
+	<s id="2">Je comprends qu'il y avait du mystère. </s>
+	<s id="3">Un tête-à-tête ?</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="11">
+	<s id="1">C'est une chose toute simple.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="12">
+	<s id="1">Oh ! </s>
+	<s id="2">Que nenni ; c'est comme l'histoire que j'ai entendue raconter.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="13">
+	<s id="1">Qu'est-ce que c'est donc que cette histoire ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="14">
+	<s id="1">Suffit. </s>
+	<s id="2">Je vous la dirai une autre fois. </s>
+	<s id="3">J'en reviens à la Bonne. </s>
+	<s id="4">Pourquoi a-t-elle été si troublée en me voyant ?</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="15">
+	<s id="1">Parce que vous lui avez fait peur.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="16">
+	<s id="1">Mais je fais une réflexion. </s>
+	<s id="2">La Bonne paraissait bien contente des caresses de Champagne ; il y a donc du plaisir à se laisser embrasser par les garçons.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="17">
+	<s id="1">Vous êtes une petite sotte, et vos questions n'ont pas le sens commun.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="18">
+	<s id="1">Oh ! </s>
+	<s id="2">Je me doute bien de ce qu'il en est ; et puis, je sais le moyen de me rendre plus savante.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="19">
+	<s id="1">Eh ! </s>
+	<s id="2">Quel est-il, ce moyen ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="20">
+	<s id="1">J'embrasserai d'autres hommes ! </s>
+	<s id="2">Que mon vieil oncle... </s>
+	<s id="3">Mais je vais courir dans le jardin...</s>
+</p>
+<stage type="sing">Elle chante en sortant ; Voilà, voilà la petite Laitière.</stage>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="21">
+	<s id="1">Comme elle est rusée pour son âge !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Madame Simone, Lolotte.
+</stage>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="1">
+	<s id="1">Où est votre soeur ? </s>
+	<s id="2">Où est votre frère ?</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="2">
+	<s id="1">Ils sont tous dans le jardin, Maman.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="3">
+	<s id="1">Et que faites-vous ici toute seule ? </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="4">
+	<s id="1">J'allais les retrouver, quand vous êtes entrée.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="5">
+	<s id="1">Au lieu d'être la plus raisonnable, comme l'aînée, vous êtes la première à donner l'exemple aux autres. </s>
+	<s id="2">Fi, c'est honteux.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="6">
+	<s id="1">Ma petite maman, vous me grondez toujours.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="7">
+	<s id="1">C'est que vous le méritez, Mademoiselle, Voyez comme elle se tient ! </s>
+	<s id="2">Baissez la vue ; n'ayez pas l'air d'une folle.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="8">
+	<s id="1">Je ne dois donc regarder personne ?</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="9">
+	<s id="1">Une honnête fille doit rarement lever les yeux.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="10">
+	<s id="1">Mais quand on les a beaux, il faut bien les faire voir.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="11">
+	<s id="">Taisez-vous, petite sotte, la coquetterie est de trop à votre âge. </s>
+	<s id="2">Tiens, ma chère, un temps viendra que les hommes te diront que tu es aimable, que tu es jolie ; mais c'est autant de mensonges.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="12">
+	<s id="1">Il me semble pourtant que j'aurais bien du plaisir à les croire.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="13">
+	<s id="1">Tu aurais grand tort. </s>
+	<s id="2">Entre nous soit dit, ma fille, ce ne font que des traîtres, des perfides ; il faut t'en défier, et les fuir avec soin.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="14">
+	<s id="1">Mais, ma bonne Maman, vous ne les fuyez pas, vous, les hommes.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE</speaker><stage>, embarrassée.
+</stage>
+<p id="15">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, ... j'ai de l'expérience... </s>
+	<s id="3">Je sais me garantir du danger.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="16">
+	<s id="1">Eh bien, quand j'aurai de l'expérience, je saurai me tenir aussi sur mes gardes. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="17">
+	<s id="1">Mais je ne veux pas directement que vous soyez trop instruite. </s>
+	<s id="2">Voyez un peu cette raisonneuse.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Les précédents, Monsieur Cristophe. 
+</stage>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="1">
+	<s id="1">Bonjour, Madame Simone. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="2">
+	<s id="1">Votre servante, Monsieur_Cristophe. </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE.</speaker>
+<p id="3">
+	<s id="1">Eh bien, vos enfants vous sont-ils toujours enrager ? </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="4">
+	<s id="1">Hélas ! </s>
+	<s id="2">Plus que jamais. </s>
+	<s id="3">Cette petite fille-là surtout me fera tourner la tête. </s>
+	<s id="4">Ça vous raisonne, ça veut en savoir autant que sa mère. </s>
+	<s id="5">Allez, Mademoiselle, allez reprendre votre ouvrage : que je vous voie lever les yeux !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage>, à part, en fe remettant à son ouvrage. 
+</stage>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="3">Que le[s] mères font grondeuses ! </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="6">
+	<s id="1">Vraiment ! </s>
+	<s id="2">Je fais ce qu'il en coûte d'avoir des enfants. </s>
+	<s id="3">Je n'ai qu'un neveu, grâce au Ciel ? </s>
+	<s id="4">Mais c'est le plus grand pendard ! </s>
+	<s id="5">Il ne songe qu'à jouer, qu'à courir ; j'ai beau le morigéner ; il est indocile à la correction. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="7">
+	<s id="1">Votre petit Arlequin est pourtant charmant.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="8">
+	<s id="1">Le petit drôle n'est que trop éveillé. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="9">
+	<s id="1">Chacun a ses peines, Monsieur_Cristophe.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="10">
+	<s id="1">C'est bien vrai, Madame Simone. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="11">
+	<s id="1">Vous n'êtes pas si à plaindre que moi ; vous ne restez pas veuf avec trois enfants ; et d'ailleurs, vous êtes un richard. </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE.</speaker>
+<p id="12">
+	<s id="1">Que de soins ! </s>
+	<s id="2">Que de travaux m'a coûté le peu que je possède.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="13">
+	<s id="1">Vous vous plaignez toujours, et vous vous faites trop peu d'honneur de votre bien.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE.</speaker>
+<note type="L">Six-corps : Six corps de marchands ; corps de métiers et marchands de Paris.</note>
+<p id="14">
+	<s id="1">Que voulez-vous dire ? </s>
+	<s id="2">Ne me sais-je pas considérer ? </s>
+	<s id="3">J'ai eu l'honneur d'être syndic et marguillier ; et je suis l'un des anciens des Six-Corps. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="15">
+	<s id="1">Il est vrai que tout le monde vous estime. </s>
+	<s id="2">Mais trop d'économie... </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE.</speaker>
+<p id="16">
+	<s id="1">Laissons cela. </s>
+	<s id="2">Il fait aujourd'hui le plus beau temps du monde ; allons faire un tour de promenade. </s>
+	<s id="3">J'ai quelque chose dans la tête que je vous communiquerai peut-être ; et nous pourrons parler plus à notre aise qu'ici. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="17">
+	<s id="1">Oui, vous avez raison.</s>
+</p> 
+<stage type="aparte/exit">À part en sortant. </stage>
+<p id="18">
+	<s id="1">L'honnête_homme que ce Monsieur_Cristophe ! </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE</speaker><stage type="aparte/exit">, à part en sortant. 
+</stage>
+<p id="19">
+	<s id="1">La brave femme que cette Madame_Simone !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="alone/watch">, seule, en regardant sortir sa mère.
+</stage>
+<p id="1">
+	<s id="1">Elle me défendra encore d'aller avec les hommes... </s>
+	<s id="2">Elle y va bien, elle... </s>
+	<s id="3">Oh ! </s>
+	<s id="4">C'est bon, c'est bon... </s>
+	<s id="5">Mais...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Lolotte, Arlequin, en Facteur de la Petite-Poste, plusieurs Lettres à la main.
+</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="1">
+	<s id="1">Seriez-vous par hasard Mademoiselle_Lolotte? </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="2">
+	<s id="1">Oui ; pourquoi ?</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="3">
+	<s id="">C'est que j'ai une Lettre que je ne dois remettre qu'à vous-même.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="4">
+	<s id="1">Eh, de qui est-elle ? </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="5">
+	<s id="1">Elle est... </s>
+	<s id="3">Elle est d'un amant, puisqu'il faut vous le dire.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="6">
+	<s id="1">D'un Amant ! </s>
+	<s id="2">Dépêchez-vous de me la donner ; je tremble qu'on ne vienne nous surprendre.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="aparte">, à part.
+</stage>
+<p id="7">
+	<s id="1">La petite friponne !</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="8">
+	<s id="1">Ma foi, vive la Petite-poste_de_Paris ! </s>
+	<s id="2">Nous sommes les Messagers, les Postillons de L'Amour ; aussi sommes-nous plus chargés de lettres galantes que de toutes autres dépêches. </s>
+	<s id="3">Sans nous, que de tendres, commerces languiraient ; que de Rendez-vous feraient manqués ; et combien de pauvres maris l'échapperaient belle ! </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="9">
+	<s id="1">Mais, Monsieur de la Petite-Poste, trêve de discours, et remettez-moi ma Lettre.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="10">
+	<s id="1">Attendez que je la cherche. </s>
+	<s id="2">Toutes mes lettres sont écrites par des personnes de ma connaissance et de mon quartier. </s>
+	<s id="3">Je vois à l'écriture de celle-ci de quoi il s'agit. </s>
+	<s id="4">Elle est d'une beauté.... de quinze à soixante ans ; je me doute qu'elle se plaint tendrement à son vainqueur qu'il l'abandonne après l'avoir ruinée... </s>
+	<s id="5">Celle-là est d'une Agnès qui se plaint, sans doute, à son amant quelle a de grands maux de coeur, quoiqu'elle engraissé tous les jours... </s>
+	<s id="6">Malpeste ! </s>
+	<s id="7">En voici une de certain gros Bénéficier, adressée à Monsieur_Détergeant, Maître_Apothicaire : je gage qu'il lui demande un remède contre les indigestions... </s>
+	<s id="8">Ce petit poulet, qui sent l'ambre, est d'un Abbé qui montre en ville modes, et le secret de la toilette... </s>
+	<s id="9">Les Bons voilà votre affaire.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="11">
+	<s id="1">J'ai crû qu'il ne finirait jamais. </s>
+</p>
+<stage type="read">Elle lit. </stage>
+<p id="12">
+	<s id="1">« Mademoiselle, l'habitude de vous voir dès ma plus tendre enfance, m'a fait connaître tout votre mérite, et m'a fait éprouver le pouvoir a de vos charmes. </s>
+	<s id="2">Je sens que je vous aime, et que je vous adore, et que ce sera pour toute ma vie. </s>
+	<s id="3">Excuserez-vous la hardiesse de votre fidèle Amant ? </s>
+	<s id="4">François_Dumont ».</s>
+</p> 
+<stage type="read">Après avoir lu. </stage>
+<p id="13">
+	<s id="1">Que viens-je d'apprendre ! </s>
+	<s id="2">Quel bonheur ! </s>
+	<s id="3">François m'aime : ah ! </s>
+	<s id="4">Que mon coeur va se plaire à le payer de retour !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="14">
+	<s id="1">Je vois que mon message vous a fait plaisir ; eh ! </s>
+	<s id="2">Bien, reconnaissez Arlequin, sous l'habit d'un facteur de la Petite-Poste.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="15">
+	<s id="1">Ah ! </s>
+	<s id="2">Monsieur_Arlequin, quelle tromperie !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="16">
+	<s id="1">C'est à François d'achever le reste. </s>
+	<s id="2">Tenez, il vient fort à propos.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Les Acteurs précédents, François.
+</stage>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="1">
+	<s id="1">Je suis toute interdite.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage type="aparte">, à part. 
+</stage>
+<p id="2">
+	<s id="1">Je n'ose m'approcher.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="low/toward">, bas à François.
+</stage>
+<p id="3">
+	<s id="1">Allons donc ; je l'ai rendu douce comme un agneau.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage type="closer/shy">, s'approchant timidement. 
+</stage>
+<p id="4">
+	<s id="1">Votre serviteur, Mademoiselle_Lolotte.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="5">
+	<s id="1">Votre servante, Monsieur_François.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage type="low/toward">, bas à Arlequin. 
+</stage>
+<p id="6">
+	<s id="1">Je tremble ; je ne fais que lui dire. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="low/toward">, bas à François. 
+</stage>
+<p id="7">
+	<s id="1">Du courage. </s>
+	<s id="2">Allons, ferme. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="8">
+	<s id="">Vous vous portez bien aujourd'hui, Mademoiselle_Lolotte ? </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward">, à part.
+</stage>
+<p id="9">
+	<s id="1">La peste du nigaud ! </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="10">
+	<s id="1">Je suis de la meilleure humeur du monde ! </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, bas à François. 
+</stage>
+<p id="11">
+	<s id="1">Tu vois qu'elle te donne beau jeu. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="12">
+	<s id="1">Vous avez reçu une lettre .... que j'ai pris la liberté de vous écrire ? </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="13">
+	<s id="1">Oui ; et je l'ai trouvé charmante.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="14">
+	<s id="1">C'est ... qu'il est bien vrai que je vous aime. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, à part. 
+</stage>
+<p id="15">
+	<s id="1">Le voilà pourtant qui se dégourdit.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Les Acteurs précédents, Tonton.
+</stage>
+<sp who="TONTON"><speaker>TONTON</speaker><stage>, au fond du Théâtre.
+</stage>
+<p id="1">
+	<s id="1">Que font-ils donc là ? </s>
+	<s id="2">Motus ; épions-les.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="2">
+	<s id="1">Maman et ma bonne m'ont dit que les hommes n'étaient que des trompeurs : vous leur ressemblerez peut-être ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="3">
+	<s id="1">Oh ! </s>
+	<s id="2">Non, ma chère Lolotte. </s>
+	<s id="3">Je ne puis douter que je ne ressente pour vous un véritable amour ; j'ai entendu mon grand frère protester à la fille de notre voisin qu'il n'adorait qu'elle : eh bien, tous les sentiments qu'il exprimait, vous me les faites éprouver.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="location">, au fond du Théâtre. 
+</stage>
+<p id="4">
+	<s id="1">Oui-dà !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="5">
+	<s id="1">J'aurais peut-être tort de vous croire. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage>, au fond du Théâtre. 
+</stage>
+<p id="6">
+	<s id="1">Ma chère soeur s'attendrit. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="7">
+	<s id="1">La passion de mon grand frère m'a éclairé sur la mienne ; elle m'a découvert que mon coeur s'ouvre déjà au doux feu de l'amour, et que c'est pour Lolotte qu'il brûlera sans cesse.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="aparte">, à part. 
+</stage>
+<p id="8">
+	<s id="1">Il a pris ces belles phrases là dans quelque livre. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="location">, au fond du Théâtre. 
+</stage>
+<p id="9">
+	<s id="1">Ah ! </s>
+	<s id="2">Comme il en dégoise ! </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="10">
+	<s id="1">Eh bien, François, puisque vous êtes sincère, je veux l'être aussi. </s>
+	<s id="2">Je suis enchantée de votre amour ; car enfin, l'on doit être plus charmé d'inspirer l'amitié que la haine ; et je ne vois point de mal à çà.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON</speaker><stage type="closer/location">, se mettant entre François et sa soeur. 
+</stage>
+<p id="11">
+	<s id="1">À merveille, ma soeur ; j'ai tout entendu. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="12">
+	<s id="1">Ô ciel ! </s>
+	<s id="2">Elle va nous trahir.</s>
+</p> 
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Vous aimez les garçons ! </s>
+	<s id="4">Que j'aurai de plaisir à le publier ?</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="14">
+	<s id="1">Ma chère Tonton, vous allez me perdre.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="15">
+	<s id="1">Bon ! </s>
+	<s id="2">Il n'y a pas de mal à ça, disiez-vous tout_à_l_heure. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage type="toward">, à Tonton. 
+</stage>
+<p id="16">
+	<s id="1">Voulez-vous chagriner votre soeur ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="17">
+	<s id="1">Elle fait trop la raisonnable. </s>
+	<s id="2">Je vais tout dire à maman. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="18">
+	<s id="1">La petite méchante ! </s>
+	<s id="2">Que j'aurais de plaisir à lui voir donner le fouet.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="19">
+	<s id="1">Qu'Arlequin est drôle avec sa mascarade ! </s>
+</p>
+<stage type="laugh">Elle rit.</stage>
+<p id="20">
+	<s id="1">Ah, ah, ah. </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="21">
+	<s id="1">Tonton, je t'en prie, ne me fais pas gronder par maman. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="22">
+	<s id="1">Tenez, je suis bonne fille ; que me donnerez vous pour que je me taise ?</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="23">
+	<s id="1">Oh ! </s>
+	<s id="2">Tout ce que tu voudras ; mon serein, mon toutou, et jusqu'à mon petit chat. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="24">
+	<s id="1">Je remplirai vos poches de bonbons. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="25">
+	<s id="1">Et moi, je vous ferai présent d'un beau carrosse, qui roulera tout seul.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="26">
+	<s id="1">Je ne veux point de tout cela.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="27">
+	<s id="1">Que vous faut-il donc ?</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="28">
+	<s id="1">Oh ! </s>
+	<s id="2">Voyez vous, il me faut un amoureux. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="29">
+	<s id="1">Vous badinez, sans_doute. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="30">
+	<s id="1">Non, je parle très sérieusement. </s>
+	<s id="2">Je fais que toutes les jeunes filles ont grand foin d'en avoir : serais-je la seule qui n'en ait point ? </s>
+	<s id="3">Oui, il me faut un amant qui me débite de jolies choses, qui me fasse rire, et qui finisse par me régaler de bonbons, de croquets et de plaisir des Dames.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="31">
+	<s id="1">La petite masque !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="32">
+	<s id="1">Il faut la satisfaire. </s>
+	<s id="2">Eh bien, je promet de vous choisir un amoureux, qui sera là, tout-à-fait gentil.</s>
+</p> 
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="33">
+	<s id="1">À la bonne-heure. </s>
+	<s id="2">Soyez certaine de ma discrétion. </s>
+	<s id="3">Si vous me manquez de parole, je dirai tout, et je saurai bien me choisir moi-même un amoureux qui soit de mon goût.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="34">
+	<s id="1">Ne craignez rien ; nous vous en serions plutôt faire un de sucre.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="35">
+	<s id="1">Je ne veux point d'un amoureux qui se mange.</s>
+</p> 
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Lolotte, François, Arlequin. 
+</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="1">
+	<s id="1">Nous voilà tous d'accord ; il ne manque plus qu'une petite bagatelle : la mère sait elle ton amour ? </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="2">
+	<s id="1">Non vraiment. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="3">
+	<s id="1">Il faudra pourtant l'en informer : comment t'y prendras-tu ?</s>
+</p> 
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="4">
+	<s id="1">Je ne fais pas trop.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="5">
+	<s id="1">C'est là le diable ! </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="6">
+	<s id="1">La démarche me paraît embarrassante.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<note type="L">Baigneuse : Ancienne coiffure de femme. [L]</note>
+<p id="7">
+	<s id="1">Tu as raison... </s>
+	<s id="2">Attends, j'imagine... </s>
+	<s id="3">Eh bien, tiens, pour t'aguerrir figure-toi que je suis la mère. </s>
+	<s id="4">J'ai entendu si souvent répéter les mêmes choses... </s>
+	<s id="5">Bon ; voilà justement sa pelisse, endossons-la. </s>
+	<s id="6">J'aurai l'air d'être en robe de chambre ; qu'importe ?... </s>
+	<s id="7">Mettons aussi cette baigneuse... </s>
+	<s id="8">C'est l'essentiel. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="8">
+	<s id="1">Mais, mais quelle folie ! </s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="9">
+	<s id="1">Prêtons-nous à ton badinage ; je le trouve divertissant.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="10">
+	<s id="1">Là ; la mère sera nonchalamment assise sur sa chaise longue ; vous entrerez doucement tous les deux les yeux baissés ; la contenance timide, et François portera la parole. </s>
+	<s id="2">Allons, Commencez.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="11">
+	<s id="1">Il me fait rire.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="12">
+	<s id="1">Songe que c'est du sérieux.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="13">
+	<s id="1">Eh bien, voyons donc. </s>
+	<s id="2">Madame, j'ai bien, l'honneur de vous saluer.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, adoucissant sa voix, et faisant la révérence. 
+</stage>
+<p id="14">
+	<s id="1">Votre servante, Monsieur_François. </s>
+	<s id="2">Eh bien, comment vont les plaisirs ? </s>
+	<s id="3">Êtes-vous toujours un petit coquin ?</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS</speaker><stage type="emabrassed">, d'un air embarrassé.
+</stage>
+<p id="15">
+	<s id="1">Madame... en vérité... </s>
+	<s id="2">Pourquoi me faire une telle question ?</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="16">
+	<s id="1">C'est que la jeunesse d'à_présent est si libertine ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Qu'elle est différente de celle d'autrefois ! </s>
+	<s id="4">Les honnêtes femmes ne le savent que trop, et celles qui ne le sont pas, encore plus.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="17">
+	<s id="1">Ah, Madame ! </s>
+	<s id="2">J'ai tellement envie d'être sage, que je viens vous prier de m'accorder la main de Mademoiselle_Lolotte.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="18">
+	<s id="1">Bon , bon, ! </s>
+	<s id="2">Vous êtes trop jeune.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="19">
+	<s id="1">J'aimerai votre fille plus longtemps.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="20">
+	<s id="1">Ah, maman ! </s>
+	<s id="2">Faites mon bonheur. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="21">
+	<s id="1">Mes enfants, il me paraît que l'amour est diantrement précoce chez vous. </s>
+	<s id="2">Apprenez qu'autrefois l'on savait à peine à quarante ans ce que c'était qu'aimer ; c'était une pitié, une horreur, </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="22">
+	<s id="1">L'on est plus sensible actuellement. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="23">
+	<s id="1">On allait à l'école avec la barbe au menton. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="24">
+	<s id="1">De nos jours, l'on s'instruit de bonne heure.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<note type="L">Agnès : Jeune fille très innocente et très timide. Cette fille est une Agnès. La fausse Agnès, comédie de Destouches. [L]</note>
+<p id="25">
+	<s id="1">En un mot, au temps-passé l'on voyait des fils de famille vivre dans l'innocence jusqu'à leur majorité ; et des Agnès de vingt ans.</s>
+</p> 
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS.</speaker>
+<p id="26">
+	<s id="1">Aujourd'hui c'est toute autre chose. </s>
+	<s id="2">Consentez à mon mariage. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="27">
+	<s id="1">Cela ne va pas si vite que votre tête, jeune-homme. </s>
+	<s id="2">Êtes-vous riche ? </s>
+	<s id="3">Car les talents et le mérite, ne sont rien sans l'argent.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="28">
+	<s id="1">Ma fortune est honnête ; et d'ailleurs, nous nous aimons. </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="29">
+	<s id="1">Oh ! </s>
+	<s id="2">Je regarde votre amour comme une bagatelle. </s>
+	<s id="3">C'est votre bien, c'est votre bien seul qui peut me tenter. </s>
+	<s id="4">Au sujet de la dot, ma fille aura peu de chose de mon vivant, je vous en avertis. </s>
+	<s id="5">Voyez si la marchandise vous convient.</s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="30">
+	<s id="1">Le bonheur d'être votre gendre me suffit.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="31">
+	<s id="1">La réponse est honnête ; elle m'intéresse en votre faveur. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="32">
+	<s id="1">Ah, Madame ! </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="33">
+	<s id="1">Allons, pour me remercier, baisez-moi la main. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="34">
+	<s id="1">Mais ceci est de trop, je pense.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="35">
+	<s id="1">Point du tout. </s>
+	<s id="2">Baise-moi la main, c'est l'essentiel de la cérémonie... </s>
+	<s id="3">D'où vient ce dégoût ? </s>
+	<s id="4">Oh ! </s>
+	<s id="5">Tu me la baiseras... </s>
+</p>
+<stage type="follow">Il le poursuit.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Les précédents, Madame Simone. 
+</stage>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="1">
+	<s id="1">Je vous surprends, vraiment, dans un bel équipage.</s>
+</p> 
+</sp>
+<sp who="MADAME SIMONE"><speaker>ARLEQUIN</speaker><stage type="aparte">, à part.
+</stage>
+<p id="2">
+	<s id="1">Où diable me fourrer ? </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="3">
+	<s id="1">Parlez, Monsieur_le_drôle, que signifie cette mascarade ?</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="embarrassed">, embarrassé. 
+</stage>
+<p id="4">
+	<s id="">C'est que... C'est que... Madame </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE.</speaker>
+<p id="5">
+	<s id="1">Eh bien, quoi ? </s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
+<p id="6">
+	<s id="1">C'est que nous étions à jouer une Comédie. </s>
+	<s id="2">François faisait l'Amoureux ; Mademoiselle_Lolotte, l'Amante ; et moi je représentais la mère.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="7">
+	<s id="1">Voulez-vous quitter ces habits ! </s>
+	<s id="2">Voyez un peu, ce petit drôle-là ! </s>
+	<s id="3">Et vous, Mademoiselle, voilà donc comme vous êtes raisonnable ?</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE. </speaker>
+<p id="8">
+	<s id="1">Maman... </s>
+	<s id="2">Pardonnez-moi... </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="9">
+	<s id="1">Je vous apprendrai à mettre tout en désordre quand je n'y suis pas. </s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><stage> Les précédents, Tonton, Troupe d'enfants.
+</stage>
+<stage type="entrance">Ils arrivent en dansant en rond. </stage>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="danse">, menant la danse. 
+</stage>
+<p id="1">
+	<s id="1">Et toujours va qui danse... </s>
+</p>
+</sp>
+<sp who="CRISPIN"><speaker>MADAME SIMONE. </speaker>
+<p id="2">
+	<s id="1">Bon Dieu ! </s>
+	<s id="2">Quel vacarme ! </s>
+	<s id="3">Attendez, je vais vous faire danser de la bonne manière.</s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON. </speaker>
+<p id="3">
+	<s id="1">Nous ne vous savions pas là, Maman.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="4">
+	<s id="1">Vous allez me le payer. </s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="18"><head>SCÈNE XVIII et dernière.</head><stage> Les précédents, Monsieur Cristophe.
+</stage>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="1">
+	<s id="1">Vous me paraissez en colère, Madame_Simone. </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="2">
+	<s id="1">Je suis charmée de vous voir, Monsieur_Cristophe. </s>
+	<s id="2">Vous m'aviez quittée, disiez-vous, pour une affaire de conséquence.</s>
+</p> 
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage type="aparte">, à part. 
+</stage>
+<p id="3">
+	<s id="1">Comme elle se radoucit ! </s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE.</speaker>
+<p id="4">
+	<s id="1">C'est vrai, mais j'ai pensé qu'il ne fallait pas que la journée finit sans m'être clairement expliqué avec vous.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="5">
+	<s id="1">Vous n'avez qu'à parler. </s>
+</p>
+<stage type="toward">Aux enfants. </stage>
+<p id="6">
+	<s id="1">Retirez-vous, vous autres.</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="low/toward">, bas, à Lolotte et à François.
+</stage>
+<p id="7">
+	<s id="1">Tâchons de les écouter. </s>
+</p>
+<stage type="exit/location">Les enfants se retirent au fond du Théâtre.</stage>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="8">
+	<s id="1">C'est trop balancer. </s>
+	<s id="2">Je vais vous parler tout franchement ; là, tout rondement. </s>
+	<s id="3">La triste chose que le veuvage, Madame_Simone !</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="9">
+	<s id="1">Hélas ! </s>
+	<s id="2">Qui le fait mieux que moi ?</s>
+</p> 
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="10">
+	<s id="1">Voilà six_mois que vous êtes veuve : que le temps doit vous durer ! </s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="11">
+	<s id="1">Il me semble qu'il n'y a qu'un jour que mon pauvre mari est mort.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="12">
+	<s id="1">Vous n'êtes pas lasse d'un si long veuvage ? </s>
+	<s id="2">Vos yeux me disent que si.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="13">
+	<s id="1">Je veux être fidèle à la mémoire du défunt.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="14">
+	<s id="1">Ma foi, je vous avouerai que je ne saurais me piquer de tant de confiance. </s>
+	<s id="2">Mon veuvage m'ennuie ; le vôtre doit vous peser : eh bien, si vous vouliez, nous nous en déferions l'un et l'autre.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="15">
+	<s id="1">Et comment cela ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="16">
+	<s id="1">En nous mariant ensemble. </s>
+	<s id="2">Moi, je vais tout de suite au fait, comme vous voyez.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="17">
+	<s id="1">Je vais me piquer de la même franchise. </s>
+	<s id="2">Une veuve n'est jamais fâchée d'en perdre le nom. </s>
+	<s id="3">J'accepte votre main avec joie.</s>
+</p> 
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE. </speaker>
+<p id="18">
+	<s id="1">Ma chère Madame_Simone, que je vous aime !</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE</speaker><stage>, accourant. 
+</stage>
+<p id="19">
+	<s id="1">Maman, Maman, je prends part à votre bonheur. </s>
+	<s id="2">Mais rendez-moi heureuse aussi.</s>
+</p> 
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE</speaker><stage type="low/toward">, bas à Monsieur Cristophe. 
+</stage>
+<p id="20">
+	<s id="1">Ils nous écoutaient.</s>
+</p>
+</sp>
+<sp who="MONSIEUR CRISTOPHE"><speaker>MONSIEUR CRISTOPHE</speaker><stage type="low/toward">, bas à Madame Simone. 
+</stage>
+<p id="21">
+	<s id="1">Paix, paix ; ils n'ont peut-être pas tout entendu.</s>
+</p> 
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="22">
+	<s id="1">Permettez-moi, Madame, de prétendre un jour au bonheur d'épouser ma chère Lolotte. </s>
+	<s id="2">Nous nous aimons, et nous ferons tous les deux contents comme de petits Rois.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="23">
+	<s id="1">Vous êtes fous, mes chers enfants.</s>
+</p>
+</sp>
+<sp who="LOLOTTE"><speaker>LOLOTTE.</speaker>
+<p id="24">
+	<s id="1">Mais, Maman, devez-vous être fâchée que nous suivions votre exemple ? </s>
+	<s id="2">Vous aimez Monsieur_Cristophe ; moi j'aime François : rien de si naturel. </s>
+</p>
+</sp>
+<sp who="TONTON"><speaker>TONTON.</speaker>
+<p id="25">
+	<s id="1">Oui-dà ! </s>
+	<s id="2">Ma soeur veut être bientôt mariée ; mais j'aurai mon tour, j'aurai mon tour.</s>
+</p> 
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<p id="26">
+	<s id="1">Eh bien, je veux me marier aussi.</s>
+</p>
+<stage type="toward">À Tonton. </stage>
+<p id="27">
+	<s id="1">Tenez, prenez-moi.</s>
+</p>
+</sp>
+<sp who="MADAME SIMONE"><speaker>MADAME SIMONE. </speaker>
+<p id="28">
+	<s id="1">Oh ! </s>
+	<s id="2">Il n'y a plus d'enfants, il n'y a plus d'enfants. </s>
+	<s id="3">Venez, mon cher Cristophe ; allons tout préparer pour notre mariage : nous longerons après à celui de notre petite famille. </s>
+</p>
+</sp>
+<sp who="FRANÇOIS"><speaker>FRANÇOIS. </speaker>
+<p id="29">
+	<s id="1">Quel bonheur !</s>
+</p>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward">, aux enfants. 
+</stage>
+<p id="30">
+	<s id="1">Mes chers amis, vive la joie !</s>
+</p> 
+</sp>
+<sp who="CRISPIN"><speaker>CRISPIN. </speaker>
+<p id="31">
+	<s id="1">Oui, en attendant le jour des noces, sautons, divertissons nous ; et souhaitons qu'on devienne si sage, si raisonnable à notre âge, que ce ne soit qu'à cet égard que le proverbe soit fondé à dire : il n'y a plus d'enfants.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>LE SEUL BANDIT DU VILLAGE, VAUDEVILLE</title>
+				<author type="texte" ISNI="0000 0001 2137 1490">Tristan BERNARD (1866-1947) </author>
+			</titleStmt>
+			<publicationStmt>	
+				<publisher>Texte établi par Paul FIEVRE août 2022</publisher>
+				<publisher>Publié par Paul FIEVRE décembre 2022</publisher>
+				<idno>BERNARDT_SEULBANDIT</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Vaudeville</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1891-1900</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YF-1452 (1)">https://gallica.bnf.fr/ark:/12148/bpt6k3350961g</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+<front>
+	<docTitle>
+	    <titlePart part="main">LE SEUL BANDIT DU VILLAGE</titlePart>
+		<titlePart part="sub">VAUDEVILLE EN UN ACTE</titlePart> 
+		<titlePart part="sub">Représenté pour la première fois, à Paris, sur le Théâtre des Capucines, le 10 novembre 1898.</titlePart>
+	</docTitle>
+   <docDate value="1904">1904.</docDate>
+   <docAuthor id="BERNARD, Tristan">de TRISTAN BERNARD.</docAuthor>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="ARSÈNE" sex="1" type="H" statut="bourgeois" age="V" stat_amour="">ARSÈNE</role>.</castItem>
+		<castItem><role id="LE GENTLEMEN FARMER" sex="1" type="H" statut="aristocrate" age="V" stat_amour="">LE GENTLEMAN FARMER</role>.</castItem>
+		<castItem><role id="LE BARON" sex="1" type="H" statut="baron" age="V" stat_amour="">LE BARON</role>.</castItem>
+		<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut="commissaire" age="V" stat_amour="">LE COMMISSAIRE</role>.</castItem>
+		<castItem><role id="LA BARONNE" sex="2" type="H" statut="baron" age="V" stat_amour="">LA BARONNE</role>.</castItem>
+		<castItem><role id="JULIE" sex="2" type="H" statut="femme de chambre" age="V" stat_amour="">JULIE</role>, femme de chambre.</castItem>
+	</castList>
+	<set location="château" country="France" periode="XXème" gps=""/>
+	<note>Extrait de : Théâtre de Tristan Bernard, Paris : Calmann-Lévy, 1908-1917, pp 193-210.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE SEUL BANDIT DU VILLAGE</head>
+<stage type="decor">La scène représente une chambre à coucher dans un château. On aperçoit à droite ou à gauche, deuxième plan, le pied d'un lit enfonçant dans une sorte d'alcôve. Devant le lit, un fauteuil. Du côté du lit, premier plan, la porte d'un cabinet à robes. Une autre porte au fond. En face du lit, une fenêtre. Mobilier élégant.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> La Bonne, puis Arsène.
+</stage>
+<stage type="entrance/carry/light">La bonne entre, en précédant Arsène, un bougeoir à la main.</stage>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="costume">, vêtu comme un vagabond, de vêtements déchirés et rapiécés.
+</stage>
+<p id="1">
+	<s id="1">Vous êtes sûre que personne nous a vus ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="2">
+	<s id="1">Mais non, mais non. </s>
+	<s id="2">Attendez-moi quelques instants. </s>
+	<s id="3">Je remonte tout de suite. </s>
+	<s id="4">Je vais voir au bas de l'escalier si j'ai bien refermé la porte de service.</s>
+</p>
+<stage type="exit">Elle sort.</stage>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="location">, à l'avant-scène.
+</stage>
+<p id="3">
+	<s id="1">...Y a rien d'aussi ennuyant que de s'introduire pour voler chez des gens qu'on ne connaît pas... </s>
+	<s id="2">Et puis, c'est bête, c'est maladroit... </s>
+	<s id="3">On ne devrait jamais voler que chez des gens qu'on connaît... </s>
+	<s id="4">Il faut voler là où qu'on a coutume de fréquenter, et là où votre présence n'a rien d'extraordinaire. </s>
+	<s id="5">Quand on voit un mal vêtu comme moi dans une aussi belle chambre, on pense tout de suite que sa place n'est pas ici... </s>
+	<s id="6">Mais quoi ? </s>
+	<s id="7">Je me dis toujours ces choses-là quand c'est trop tard pour refuser... </s>
+	<s id="8">Quand on me propose une affaire, je ne réfléchis pas. </s>
+	<s id="9">Je vois l'occasion, je dis : faut pas la manquer, et je marche... </s>
+	<s id="10">C'est que la saison est tellement dure !</s>
+</p>
+<stage type="sit/watch">S'asseyant sur le fauteuil, et consultant un petit calepin.</stage>
+<p id="4">
+	<s id="1">Quand je pense à ce que j'ai volé depuis un mois : quatre... cinq... six... poules... et une brouette cassée. </s>
+	<s id="2">Ma plus belle affaire a été le porte-monnaie d'une dame, où il n'y avait qu'une pièce de quarante_sous sans couronne et un bout de taffetas gommé. </s>
+	<s id="3">Le mois dernier avait été meilleur, à cause de l'incendie de l'épicerie : j'ai sauvé une caisse de chocolat... </s>
+	<s id="4">Sans parler d'un vieux monsieur que j'ai retiré des flammes à mon second voyage. </s>
+	<s id="5">Ce qui m'a fait une petite prime de quinze_francs.</s>
+</p>
+<stage type="sit">Il s'assoit.</stage>
+<p id="5">
+	<s id="1">Il fait bon dans ce fauteuil. </s>
+	<s id="2">Si j'avais un fauteuil comme ça, et du pain et du fromage à discrétion, j'en connais un qui se retirerait des affaires.</s>
+</p>
+<stage type="noise/stand/entrance">On entend du bruit. Arsène se lève précipitamment. Entre la bonne.</stage>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="6">
+	<s id="1">Voilà. </s>
+	<s id="2">Pas de danger. </s>
+	<s id="3">Madame ne sera guère ici avant une demi-heure. </s>
+	<s id="4">Elle est allée reconduire Monsieur jusqu'au tournant du parc.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="7">
+	<s id="1">Il part à Paris, votre monsieur ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="8">
+	<s id="1">Mais oui. </s>
+	<s id="2">C'est pour ça qu'il fallait profiter de cette nuit-là. </s>
+	<s id="3">C'est la première nuit qu'il s'absente. </s>
+	<s id="4">Depuis son mariage, il n'a pas découché.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="9">
+	<s id="1">C'est un vieux monsieur ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="10">
+	<s id="1">Et quinteux ! </s>
+	<s id="2">Et grognon ! </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Le sale bonhomme !</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="11">
+	<s id="1">Expliquez-moi ce qu'il y a à faire.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="12">
+	<s id="1">Ça n'est pas sorcier. </s>
+	<s id="2">Vous allez vous installer dans ce cabinet à robes, et vous attendrez que madame soit couchée. </s>
+	<s id="3">Quand vous jugerez qu'elle dormira, vous sortirez à pas de loup et vous lui prendrez ses ciels qu'elle pose toujours sur ce petit guéridon. </s>
+	<s id="4">Puis, vous irez à cette porte qu'elle aura fermée, vous l'ouvrirez doucement, et vous me donnerez les clefs. </s>
+	<s id="5">Je serai dans le couloir. </s>
+	<s id="6">Je n'aurai plus qu'à descendre au salon où j'ouvrirai le coffre-fort. </s>
+	<s id="7">Je prendrai les papiers que veut avoir Monsieur_Niquedan, celui qui se présente contre notre monsieur à la députation. </s>
+	<s id="8">Je les lui porterai dès ce soir. </s>
+	<s id="9">Je toucherai la somme et je vous remettrai trois cents francs. </s>
+	<s id="10">On m'a donné mon compte ici, il y a deux jours. </s>
+	<s id="11">Je ne suis pas fâchée de leur jouer ce petit tour-là.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="13">
+	<s id="1">Mais pourquoi est-ce que vous n'avez pas pris ces clefs vous-même ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="14">
+	<s id="1">Parce que Madame s'enferme toujours le soir, après m'avoir renvoyée.</s>
+</p>	
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="listen/sad">, qui a écouté ce récit avec abattement.
+</stage>
+<p id="15">
+	<s id="1">Enfin !... </s>
+	<s id="2">C'est bien compliqué tout ça ! </s>
+	<s id="3">Il faut que je vous prévienne d'une chose. </s>
+	<s id="4">Si votre Madame se réveille, je ne lui toucherai pas un cheveu. </s>
+	<s id="5">Je n'ai apporté ni instrument contondant, ni aucune arme à feu. </s>
+	<s id="6">En fait d'armes, je n'ai même pas un cure-dent sur moi.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="16">
+	<s id="1">Elle ne se réveillera pas, soyez tranquille.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="17">
+	<s id="1">Moi, vous savez, donner des coups de lingue, c'est pas ma spécialité. </s>
+	<s id="2">Une fois, je me suis évanoui dans un château pour avoir tué un traversin.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="18">
+	<s id="1">Un traversin ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="19">
+	<s id="1">Oui, c'était chez un garde. </s>
+	<s id="2">J'étais venu la nuit, j'avais forcé la porte. </s>
+	<s id="3">Je m'étais rué sur le lit... </s>
+	<s id="4">Seulement mon garde n'avait pas couché là. </s>
+	<s id="5">Je me suis aperçu le matin que j'avais tapé dans un lit vide...</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="20">
+	<s id="1">Mais il ne s'agit pas de toucher à Madame. </s>
+	<s id="2">Elle a toujours été gentille pour moi, elle. </s>
+	<s id="3">C'est une brave dame tout à fait, et il faut vraiment que ça soye mon intérêt, pour que j'y fasse du tort.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="21">
+	<s id="1">C'est donc bien entendu que, si elle se met à crier, je m'excuse. </s>
+	<s id="2">Je veux bien voler ce que vous voudrez, à part ça. </s>
+	<s id="3">Y a-t-il ici quéque bibelot qui vous fasse plaisir ? </s>
+	<s id="4">Je ne sais pas, moi : voyez ce qui peut faire votre affaire. </s>
+	<s id="5">Parce que, dame, une fois que je serai sorti, je ne rentrerai pas... </s>
+	<s id="6">Tout de même, j'aimerais mieux être ailleurs, qu'ici... </s>
+	<s id="7">Ah ! </s>
+	<s id="8">Marguerite ! </s>
+	<s id="9">Pourquoi est-ce que vous m'avez choisi ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="22">
+	<s id="1">Je ne m'appelle pas Marguerite.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="23">
+	<s id="1">C'est possible... </s>
+	<s id="2">Vous n'avez pas vu jouer la Tour_de_Nesle ? </s>
+	<s id="3">Y a une femme qui s'appelle Marguerite. </s>
+	<s id="4">Ah ! </s>
+	<s id="5">Marguerite ! </s>
+	<s id="6">Pourquoi est-ce que vous m'avez choisi ?</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="24">
+	<s id="1">Il n'y a que vous de voleur dans le village.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="25">
+	<s id="1">C'est vrai. </s>
+	<s id="1">Il faut être un propre à rien comme moi pour venir travailler dans un trou pareil.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="26">
+	<s id="1">Voici le moment de vous cacher. </s>
+	<s id="2">Entrez dans ce cabinet à robes...</s>
+</p>
+<stage type="entrance">Il entre à gauche.</stage>
+<p id="27">
+	<s id="1">Je vous laisse la porte entr'ouverte. </s>
+	<s id="2">Vous guetterez madame. </s>
+	<s id="3">Quand vous verrez qu'elle dort, vous sortirez doucement...</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="28">
+	<s id="1">Ah ! </s>
+	<s id="2">Ne parlez pas de ça, vous l'avez déjà dit. </s>
+	<s id="3">Rien que d'y penser, ça me fait mal au coeur. </s>
+	<s id="4">Parlez-moi plutôt de mes trois_cents_francs. </s>
+	<s id="5">Dire que le mois dernier, j'ai refusé une place de professeur de bicyclette dans un manège.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="29">
+	<s id="1">Il fallait accepter.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="30">
+	<s id="1">On m'a dit que c'était fatigant... </s>
+	<s id="2">Écoutez, Marguerite...</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="31">
+	<s id="1">Qu'est-ce qu'elle fait, Marguerite ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="32">
+	<s id="1">Si je réussis dans mon entreprise, vous m'avez promis...</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="33">
+	<s id="1">Tout ce que vous voudrez.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="34">
+	<s id="1">Quoi ? </s>
+	<s id="2">Non, simplement ce qui est convenu : trois_cents_francs.</s>
+</p>
+<stage type="watch">La regardant de côté.</stage>
+<p id="35">
+	<s id="1">Je pense pas à ça pour le moment.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="36">
+	<s id="1">À quoi ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="37">
+	<s id="1">À rien.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="38">
+	<s id="1">Je vais chercher Madame...</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="39">
+	<s id="1">Prenez votre temps, prenez votre temps.</s>
+</p>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage type="entrance"> Arsène, seul, puis La Baronne et La Bonne
+</stage>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="1">
+	<s id="1">Celui qui regarderait ce qui se passe dans moi, en ce moment... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Là là là là !...</s>
+</p>
+<stage type="wave">Après avoir secoué la tête comme pour chasser une idée.</stage>
+<p id="2">
+	<s id="1">Qu'est-ce que je vais faire avec mes trois cents francs ?... </s>
+	<s id="2">Je vais commencer par m'acheter une bicyclette comme ça, je pourrai aller travailler dans tout l'arrondissement, excepté toutefois à Marcigny... </s>
+	<s id="3">Parce qu'il y a une côte trop dure... </s>
+	<s id="4">Je m'achèterai un vieux clou de cinquante_francs, et je l'échangerai contre une machine beaucoup plus belle quand je trouverai une occasion. </s>
+	<s id="5">On en trouve comme ça de très bien au bord du trottoir...</s>
+</p>
+<stage type="listen/away/back">Il va écouter à la porte du fond et revient à l'avant-scène.</stage>
+<p id="3">
+	<s id="1">Et puis, qui sait ? </s>
+	<s id="2">Je retournerai peut-être à Paris... </s>
+	<s id="3">J'allais tous les dimanches aux courses... </s>
+	<s id="4">J'étais en relations avec les gens les plus chics... à la sortie... </s>
+	<s id="5">C'est toujours moi qui demandais le cocher Hubert de l'avenue_Kléber, et le cocher Justin de l'avenue_d_Antin. </s>
+	<s id="6">Ah ! </s>
+	<s id="7">c'était le bon temps... </s>
+	<s id="8">Zut ! </s>
+	<s id="9">J'entends monter l'escalier... </s>
+	<s id="10">Si quelqu'un voulait ma place, je la lui céderais dans de bonnes conditions.</s>
+</p>
+<stage type="entrance/location/open">Il entre dans le cabinet à robes dont il laisse la porte entr'ouverte. On l'aperçoit dans l'entrebâillement. La baronne et sa bonne entrent par la porte du fond.</stage>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="4">
+	<s id="1">Julie, vous pouvez aller vous coucher.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="5">
+	<s id="1">Madame se déshabillera seule ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="6">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="LA BONNE"><speaker>LA BONNE.</speaker>
+<p id="7">
+	<s id="1">Je vais fermer les volets.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="strong">, vivement.
+</stage>
+<p id="8">
+	<s id="1">Non... </s>
+	<s id="2">Je laisserai la fenêtre ouverte. </s>
+	<s id="3">Il fait un peu chaud... </s>
+	<s id="4">Allez.</s>
+</p>
+<stage type="exit/dress/follow">Exit la bonne. La baronne, pendant ce qui suit, ôte son chapeau.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Arsène, dans le cabinet à robes, La Baronne 
+</stage> 
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="listen">, aux écoutes.
+</stage>
+<p id="1">
+	<s id="1">Il n'y a pas à dire, ma place n'est pas ici. </s>
+	<s id="2">La place d'un vagabond est partout, excepté dans un cabinet à robes... </s>
+	<s id="3">Je suis chez des étrangers. </s>
+	<s id="4">On est bien dur pour les voleurs. </s>
+	<s id="5">Si on savait toutes les gênes et toutes les humiliations qu'on a dans ce métier-là ! </s>
+	<s id="6">Enfin, cette dame ouvrirait la porte et me demanderait ce que je viens faire ici, je ne serais pas à mon aise.</s>
+</p>
+<stage type="watch/location">Regardant le fond du cabinet.</stage>
+<p id="2">
+	<s id="1">C'est triste, ici. </s>
+	<s id="2">Il y a des robes qui doivent sentir bon. </s>
+	<s id="3">Mais j'ai le nez bouché...</s>
+</p>
+<stage type="watch/location">Regardant la porte.</stage>
+<p id="3">
+	<s id="1">Heureusement qu'il me vient un peu de lumière. </s>
+	<s id="2">Ça m'égaie un peu. </s>
+	<s id="3">Quand cette lumière s'éteindra, je verrai que la baronne est couchée.</s>
+</p>
+<stage type="closer/location/close">Pendant cette dernière phrase, la baronne s'est approchée du cabinet à robes. Elle en ferme la porte.</stage>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="location/watch">, allant jusqu'à la fenêtre et regardant au dehors.
+</stage>
+<p id="4">
+	<s id="1">Personne encore. </s>
+	<s id="2">Le fossé est sombre... </s>
+	<s id="3">Le champ en face est faiblement éclairé par la lune... </s>
+	<s id="4">Triste décor pour une première faute... </s>
+	<s id="5">Dans cinq minutes il sera ici...</s>
+</p>
+<stage type="location">Descendant à l'avant-scène.</stage>
+<p id="5">
+	<s id="1">C'est curieux, cet événement décisif ne produit en moi qu'une impression bien faible... </s>
+	<s id="2">Évidemment, ça me fait quelque chose de tromper mon mari. </s>
+	<s id="3">Mais quand je compare cette impression avec l'idée que je me faisais de la première faute ! </s>
+	<s id="4">La première faute ! </s>
+	<s id="5">Comme ces mots avaient une importance dans mes rêves de jeune fille. </s>
+	<s id="6">C'était plus grave encore, plus imposant que la nuit nuptiale... </s>
+	<s id="7">Et ça va être encore plus toc, j'en ai peur... </s>
+	<s id="8">Mon mariage au moins s'était accompli au milieu d'un appareil solennel, et de gens qui me regardaient, qui m'enviaient... </s>
+	<s id="9">L'adultère manque décidément de musique et de spectateurs. </s>
+	<s id="10">Seul à seul, dans le silence d'une chambre, c'est d'un froid !...</s>
+</p>
+<stage type="">Elle va à la fenêtre et revient à l'avant-scène.</stage>
+<p id="6">
+	<s id="1">Quand, cédant aux pressantes sollicitations de ce gentleman-farmer, je lui ai permis de venir ce soir... </s>
+	<s id="2">C'est curieux ce que j'y tenais peu. </s>
+	<s id="3">Seulement mon mari s'absentait, il fallait profiter de l'occasion. </s>
+	<s id="4">L'occasion ! </s>
+	<s id="5">C'est bête ! </s>
+	<s id="6">Mais les raisonnements les plus sages échouaient contre cette idée fixe : mon mari s'en allait, il fallait le tromper. </s>
+	<s id="7">Le tromper ! </s>
+	<s id="8">C'était du nouveau, de l'inconnu. </s>
+	<s id="9">Ah ! </s>
+	<s id="10">tous les raisonnements ne pèsent pas lourd, quand ils vous conseillent le statu_quo.</s>
+</p>
+<stage type="away/location/back">Elle va à la fenêtre et revient à l'avant-scène.</stage>
+<p id="7">
+	<s id="1">Ce gentleman-farmer a pour lui d'être élégant et distingué. </s>
+	<s id="2">C'est évidemment ce qu'il y a de mieux dans le pays. </s>
+	<s id="3">Et puis, il m'a laissé entendre qu'il m'aimait. </s>
+	<s id="4">C'est bien difficile, quand on se trouve avec un gentleman-farmer qui vous aime, de ne pas l'aimer soi-même, un petit peu... </s>
+	<s id="5">Il est onze heures.</s>
+</p>
+<stage type="watch/location">Elle regarde la fenêtre, puis tourne la tête du côté opposé.</stage>
+<p id="8">
+	<s id="1">J'entends le cri de la hulotte. </s>
+	<s id="2">C'est lui... </s>
+	<s id="3">Il imite d'une façon parfaite les cris de tous les animaux et des automobiles. </s>
+	<s id="4">Il est convenu qu'il doit venir avec deux serviteurs muets et une grande planche que ses serviteurs enverront par-dessus le fossé, en l'abaissant comme un pont-levis sur l'appui de la fenêtre.</s>
+</p>
+<stage type="watch">On voit l'extrémité d'une planche qui entre par la fenêtre.</stage>
+<p id="9">
+	<s id="1">Je n'ose pas regarder.</s>
+</p>
+<stage type="turn/watch/entrance/jump">Elle se retourne. Le gentleman apparaît sur la planche. Il saute à terre.</stage> 
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Arsène, dans le cabinet à robes, La Baronne, LeGentleman Farmer. 
+</stage> 
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN FARMER</speaker><stage type="touch">, posant un doigt sur ses lèvres.
+</stage>
+<p id="1">
+	<s id="1">Je ne fais que passer. </s>
+	<s id="2">Bonjour.</s>
+</p>
+<stage type="serious">Avec recueillement.</stage>
+<p id="2">
+	<s id="1">Ma bien-aimée ! </s>
+	<s id="2">J'hésitais à venir ; mais il fallait bien vous prévenir. </s>
+	<s id="3">Votre mari a des soupçons. </s>
+	<s id="4">Vous le croyez sur la route de Paris ? </s>
+	<s id="5">Pas du tout ! </s>
+	<s id="6">Il est allé jusqu'à la première station. </s>
+	<s id="7">Il revient sur un tricycle à pétrole, en ramenant derrière lui dans une petite voiture le commissaire_de_police de la ville voisine.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="3">
+	<s id="1">Dépêchez-vous de partir, alors.</s>
+</p>
+</sp>
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN FARMER.</speaker>
+<p id="4">
+	<s id="1">J'ai le temps.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="5">
+	<s id="1">C'est très courageux d'être venu, rien que pour me prévenir.</s>
+</p>
+</sp>
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN FARMER.</speaker>
+<p id="6">
+	<s id="1">Oui... </s>
+	<s id="2">C'est même imprudent. </s>
+	<s id="3">Mais j'ai vingt-cinq_ans. </s>
+	<s id="4">Si je ne fais pas de ces belles imprudences à vingt-cinq_ans, à quel âge donc que j'en ferai ?... </s>
+	<s id="5">Ne suis-je pas gentilhomme ? </s>
+	<s id="6">Et ne sied-il pas qu'à notre époque de veulerie démocratique les gentilshommes donnent l'exemple des belles témérités.</s>
+</p>
+<stage type="sad">Tristement.</stage>
+<p id="7">
+	<s id="1">Du panache... </s>
+	<s id="2">Du panache...</s>
+</p>
+<stage type="quiet">D'un ton simple.</stage>
+<p id="8">
+	<s id="1">Et puis la planche était achetée. </s>
+	<s id="2">Les hommes étaient commandés. </s>
+	<s id="3">Il fallait en profiler. </s>
+	<s id="4">D'autant plus que votre mari ne se doutera jamais que j'aie pu venir par ici... </s>
+	<s id="5">N'entendez-vous pas de bruit à la porte de la cour ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="9">
+	<s id="1">Si ! </s>
+	<s id="2">Sauvez-vous !</s>
+</p>
+</sp>
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN FARMER.</speaker>
+<p id="10">
+	<s id="1">Fuyons ensemble !</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="11">
+	<s id="1">Vous m'effrayez ?</s>
+</p>
+</sp>
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN FARMER.</speaker>
+<p id="12">
+	<s id="1">Je n'insiste pas... </s>
+	<s id="2">Je m'en vais... </s>
+	<s id="3">Un baiser...</s>
+</p>
+<stage type="kiss">Il l'embrasse.</stage>
+<p id="13">
+	<s id="1">Adieu... </s>
+	<s id="2">Tenez, voici une pièce de vers de cent_cinquante vers, que j'ai fait faire pour vous, par mon plus jeune frère... </s>
+	<s id="3">Et puis, voici mon portrait... </s>
+	<s id="4">Un mouchoir_de_batiste taché de mon sang... </s>
+	<s id="5">Un gant...</s>
+</p>
+<stage type="search">Cherchant.</stage>
+<p id="14">
+	<s id="1">... J'avais aussi une fleur... </s>
+	<s id="2">Je l'avais mise dans cette poche-là.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="15">
+	<s id="1">Allez, allez... </s>
+	<s id="2">Vous me la donnerez une autre fois... </s>
+	<s id="3">J'entends des pas dans l'escalier...</s>
+</p>
+</sp>
+<sp who="LE GENTLEMAN FARMER"><speaker>LE GENTLEMAN</speaker><stage type="touch">, le pied sur le rebord de la fenêtre.
+</stage>
+<p id="16">
+	<s id="1">La première fois que monsieur votre mari s'absentera pour de bon, ne manquez pas de me prévenir. </s>
+	<s id="2">J'imaginerai, Madame, quelque moyen de vous venir voir, qui soit encore plus extraordinaire que celui que j'employai aujourd'hui. </s>
+	<s id="3">Adieu... </s>
+	<s id="4">Ma bien-aimée !</s>
+</p>
+<stage type="exit/location">Il s'en va par la fenêtre au moment où l'on frappe à la porte.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> La Baronne, Le Baron, puis Le Commissaire de Police et Arsène.
+</stage>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="location">, à la fenêtre.
+</stage>
+<p id="1">
+	<s id="1">Retirez votre planche.</s>
+</p>
+<stage type="close/hit">On voit la planche disparaître. La baronne referme la fenêtre. Coups prolongés à la porte.</stage>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="location">, à la porte.
+</stage>
+<p id=" 2">
+	<s id="1">Qui est là ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="3">
+	<s id="1">Moi.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="4">
+	<s id="1">Qui ça, vous ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="5">
+	<s id="1">Moi, Octave.</s>
+</p>	
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="open">, ouvrant la porte.
+</stage>
+<p id="6">
+	<s id="1">Comment, vous n'êtes donc pas parti ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="7">
+	<s id="1">Non, et vous savez pourquoi je suis revenu.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="8">
+	<s id="1">Non... </s>
+	<s id="2">Je ne comprends rien à ce que vous voulez dire.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="show">, désignant le personnage qui l'accompagne.
+</stage>
+<p id="8">
+	<s id="1">Monsieur le commissaire_de_police...</s>
+</p>
+<stage type="strong">D'un ton ferme.</stage>
+<p id="9">
+	<s id="1">Écoutez, Madame, ne perdons pas de temps en dénégations inutiles. </s>
+	<s id="2">Un homme s'est introduit ici tout à l'heure.</s>
+</p>
+<stage type="frighten">La baronne tressaille.</stage>
+<p id="10">
+	<s id="1">Le groom a vu Julie introduire un homme par cette porte.</s>
+</p>
+<stage type="show/estonish/sign">Il montre la porte du fond. La baronne le regarde avec étonnement ; puis elle pousse un soupir de soulagement.</stage>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="proud">, le prenant de haut.
+</stage>
+<p id="11">
+	<s id="1">Ah ! </s>
+	<s id="2">Il est entré par la porte de cette chambre ! </s>
+	<s id="3">Vous êtes bien renseigné, Monsieur. </s>
+	<s id="4">Ils vous ont donné de bonnes indications... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Vous venez me surprendre. </s>
+	<s id="7">Mais commencez vos recherches, Messieurs ! </s>
+	<s id="8">Qu'attendez-vous donc ? </s>
+	<s id="9">Il est là, mon amant. </s>
+	<s id="10">Il est caché. </s>
+	<s id="11">Il est dans cet appartement. </s>
+	<s id="12">Oui, j'ai un amant, Monsieur. </s>
+	<s id="13">Je ne suis pas fâché de vous le dire devant Monsieur. </s>
+	<s id="14">Il est jeune, il est beau, il est cent fois plus élégant que vous. </s>
+	<s id="15">Il a de la race, il a de l'allure. </s>
+	<s id="16">Mais cherchez-le donc. </s>
+	<s id="17">Où peut-il bien être ? </s>
+	<s id="18">Ne serait-il pas sous le lit ? </s>
+	<s id="19">Non, il est plutôt dans ce cabinet à robes. </s>
+	<s id="20">Voilà la cachette des amants. </s>
+	<s id="21">Allez-y donc.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="12">
+	<s id="1">Voyons, Hermance, me serais-je trompé ? </s>
+	<s id="2">M'aurait-on mal renseigné ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="13">
+	<s id="1">Mais non. </s>
+	<s id="2">On ne vous a pas trompé. </s>
+	<s id="3">Puisque je vous dis qu'il est là.</s>
+</p>
+<stage type="toward/toward">Au commissaire, en lui désignant la porte du cabinet.</stage>
+<p id="14">
+	<s id="1">Ouvrez cette porte, Monsieur, puisqu'on vous dit qu'il y a un homme là.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE</speaker><stage>, allant au cabinet à robes et ouvrant la porte.
+</stage>
+<p id="15">
+	<s id="1">Voyons... </s>
+	<s id="2">En effet, il y a un homme là !</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="estonish">, frappée de stupeur.
+</stage>
+<p id="16">
+	<s id="1">Il y a un homme là !</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="17">
+	<s id="1">Ah ! </s>
+	<s id="2">Femme perfide !... </s>
+	<s id="3">Sortez, monsieur ! </s>
+	<s id="4">Sortez, godelureau ! </s>
+	<s id="5">Gandin musqué !</s>
+</p>
+<stage type="exit/estonish">Arsène sort du cabinet. Stupéfaction prolongée.</stage>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="location/toward">, à l'avant-scène, à lui-même.
+</stage>
+<p id="18">
+	<s id="1">Je ne sais pas si, d'après la loi, le fait d'être trouvé dans une maison habitée, la nuit, peut entraîner une poursuite pour vol, du moment que le vol n'est pas consommé. </s>
+	<s id="2">Je voudrais bien être renseigné là-dessus.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="toward/furious">, à la baronne, avec une rage sourde.
+</stage>
+<p id="19">
+	<s id="1">Ainsi donc, c'est avec cet homme... </s>
+	<s id="2">Mais ce sont des moeurs du bas-empire !...</s>
+</p>
+<stage type="frighten/toward">La baronne recule effarée, au commissaire.</stage>
+<p id="20">
+	<s id="1">Je suis absolument écrasé ! </s>
+	<s id="2">Mais tout de même, j'aime encore mieux ça. </s>
+	<s id="3">Le fait de choisir un individu pareil correspond évidemment à un état morbide... </s>
+	<s id="4">Je ne suis pas l'époux d'une femme coupable, mais d'une malade.</s>
+	</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="listen">, entendant ces derniers mots.
+</stage>
+<p id="21">
+	<s id="1">Monsieur, de pareils soupçons sont horribles, sont affreux. </s>
+	<s id="2">Je ne connais pas cet homme.</s>
+</p>
+<stage type="toward">Au commissaire.</stage>
+<p id="22">
+	<s id="1">C'est un voleur qui s'est introduit là.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE.</speaker>
+<p id="23">
+	<s id="1">Oui, c'est là votre système de défense... </s>
+	<s id="2">Je pense que monsieur l'adoptera également, comme la galanterie lui en fait un devoir.</s>
+</p>
+<stage type="toward/location">À Arsène qui s'est tenu à l'écart.</stage>
+<p id="24">
+	<s id="1">Vous êtes un voleur, paraît-il, Monsieur ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage>, vivement.
+</stage>
+<p id="25">
+	<s id="1">Pas du tout, monsieur. </s>
+	<s id="2">Je ne suis pas un voleur ! </s>
+	<s id="3">Les apparences sont contre moi. </s>
+	<s id="4">Mais je ne suis pas un voleur ! </s>
+	<s id="5">Si je me suis introduit ici...</s>
+</p>
+<stage type="estonish">Illuminé d'une idée subite.</stage>
+<p id="26">
+	<s id="1">C'est une histoire de femme !</s>
+</p>
+</sp>
+<sp who="LE BARON, LE COMMISSAIRE"><speaker>LE BARON et LE COMMISSAIRE</speaker><stage>, ensemble.
+</stage>
+<p id="27">
+	<s id="1">Ah ! </s>
+	<s id="2">Le goujat !</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="28">
+	<s id="1">Voilà ce qui arrive, Madame, aux femmes qui, comme vous, vont chercher leurs amants dans les bas-fonds de la société. </s>
+	<s id="2">Voilà les délicatesses qu'elles y trouvent.</s>
+</p>
+<stage type="toward">Au commissaire.</stage>
+<p id="29">
+	<s id="1">Laissez-moi châtier cet homme.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE.</speaker>
+<p id="30">
+	<s id="1">Non, monsieur, je regrette, mais je ne peux pas. </s>
+	<s id="2">Ne vous emballez pas, d'ailleurs... </s>
+	<s id="3">Je crois que vous faites fausse route... </s>
+	<s id="4">Cet homme doit être un voleur, puisqu'il se défend d'en être un. </s>
+	<s id="5">S'il était autre chose qu'un voleur, il dirait qu'il en est un. </s>
+	<s id="6">C'est irréfutable...</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="toward">, à lui-même.
+</stage>
+<p id="31">
+	<s id="1">En somme, je n'ai rien volé, je n'ai encore commis aucun crime. </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Si j'avais un code dans la main. </s>
+	<s id="4">On devrait toujours avoir un petit code sur soi. </s>
+	<s id="5">Il y a des éditions minces comme ça, du Code_pénal, qui coûtent soixante-quinze_centimes.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE</speaker><stage type="toward">, au baron.
+</stage>
+<p id="32">
+	<s id="1">Voulez-vous un bon conseil, Monsieur ? </s>
+	<s id="2">Faites vos excuses à votre dame... </s>
+	<s id="3">Et arrangez-vous pour que nous puissions étouffer cette affaire-là. </s>
+	<s id="4">La présence de cet homme chez vous, l'excuse qu'il en donnera, tout cela ferait courir dans le village des fables ridicules.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="33">
+	<s id="1">Tenez, voilà mille_francs. </s>
+	<s id="2">Donnez-les-lui.</s>
+</p>
+<stage type="closer/touch">Le baron va à la baronne et lui tend la main. Elle la lui donne après une hésitation.</stage>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE</speaker><stage type="toward">, à Arsène.
+</stage>
+<p id="34">
+	<s id="1">Comment vous appelez-vous ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="35">
+	<s id="1">Arsène, c'est mon petit nom.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE.</speaker>
+<p id="36">
+	<s id="1">Et votre autre nom ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="37">
+	<s id="1">Aussi Arsène.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE.</speaker>
+<p id="38">
+	<s id="1">Quels sont vos moyens d'existence ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="39">
+	<s id="1">Marchand_de_confettis d'occasion.</s>
+</p>
+</sp>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISSAIRE.</speaker>
+<p id="40">
+	<s id="1">Écoutez. </s>
+	<s id="2">Il y a un train à minuit_trente pour Paris. </s>
+	<s id="3">Je vais vous y conduire. </s>
+	<s id="4">Voici mille_francs que vous donne Monsieur, ici présent, pour quitter le pays sans retard. </s>
+	<s id="5">Et tachez que je ne vous y repince pas ; sans ça je vous fais coffrer.</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE</speaker><stage type="toward">, au baron.
+</stage>
+<p id="41">
+	<s id="1">Merci, monsieur... </s>
+	<s id="2">Vous êtes bon. </s>
+	<s id="3">Mais je ne suis pas un ingrat. </s>
+	<s id="4">Je vais vous donner un conseil. </s>
+	<s id="5">Ne laissez pas dans votre coffre-fort les papiers qui s'y trouvent. </s>
+	<s id="6">Ils ne sont pas en sûreté.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="42">
+	<s id="1">Comment savez-vous ?</s>
+</p>
+</sp>
+<sp who="ARSÈNE"><speaker>ARSÈNE.</speaker>
+<p id="43">
+	<s id="1">Ne cherchez pas à comprendre... </s>
+	<s id="2">Il se passe depuis dix_minutes des choses où je ne comprends rien.</s>
+</p>
+<stage type="">Avec sérénité.</stage>
+<p id="44">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Vous voyez, je ne cherche pas à comprendre... </s>
+	<s id="3">Vous me donnez mille_francs, ça me suffit.</s>
+</p>
+<stage type="toward">Au public.</stage>
+<p id="45">
+	<s id="1">C'est très moral ce qui m'arrive là. </s>
+	<s id="2">Si j'avais été canaille, j'aurais touché trois_cents_francs. </s>
+	<s id="3">Je reste honnête (d'ailleurs, malgré moi !) et ça me rapporte mille_francs. </s>
+	<s id="4">C'est une leçon que je n'oublierai pas tant que durera... ce billet de mille_francs...</s>
+</p>
+<stage type="away/location">Allant vers le fond.</stage>
+<p id="46">
+	<s id="1">Au revoir, Monsieur ; au revoir, Madame. </s>
+	<s id="2">J'ai déchiré mon paletot à un clou dans votre cabinet. </s>
+	<s id="3">Mais je ne vous réclame rien.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

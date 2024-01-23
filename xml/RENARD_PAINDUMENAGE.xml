@@ -1,0 +1,2075 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LE PAIN DU MÉNAGE, COMÉDIE.</title>
+			<author type="texte" ISNI="0000 0000 4101 0695">Jules RENARD (1813-1877)</author>
+		</titleStmt>
+		<publicationStmt>
+			<editor>Texte établi par Paul FIEVRE mars 2023.</editor>
+			<publisher>Publié par Paul FIEVRE, avril 2023</publisher>
+			<idno>RENARD_PAINDUMENAGE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>			
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien/>
+		</SourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE PAIN DU MÉNAGE</titlePart>
+		</docTitle> 
+		<docDate value="1898">1898.</docDate>
+		<docAuthor id="RENARD, Jules">Jules RENARD.</docAuthor>
+		<docImprint>
+			<editor>PARIS, François Bernouard.</editor>
+			<copyright>Tous droits de reproduction, de traduction et de représentation réservés pour tous les pays, y compris la Suède et la Norvège.</copyright>
+		</docImprint>
+	<div type="">
+		<p>À TRISTATN BERNARD</p>
+		<p>Souvenir de notre affectueuse entente.</p>
+	</div>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="MARTHE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MARTHE</role>, au Figaro le 18 MArs 1898 : Melle Marthe BRANDÈS, aux Mathurins Melle Blanche TOUTAIN, Au Gymnase Melle Andrée MÉGARD, À la Renaissance. Melle Jane HELLER</castItem>
+		<castItem><role id="PIERRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">PIERRE</role>, au Figaro le 18 MArs 1898 : M. Lucien GUITRY, aux Mathurins : M. TARIDE, Au Gymnase : M. GÉMIER, À la Renaissance : M. FRÉDAL.</castItem>
+    </castList>
+	<set location="Province" country="France" periode="XIXème" gps="">À la gare d'une petite ville.</set>
+	<note>Tiré de "Les Oeuvres de Jules Renard : 1864-1910. Vol. 9". - Paris : François Bernouard. pp 41-78  </note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE PAIN DE MÉNAGE</head>
+<stage type="decor">Un salon de campagne, – fenêtres sur jardin, – porte à droite et àgauche.</stage> 
+<div2 type="scene" n="1"><head>PIERRE, MARTHE.</head>
+<stage type="location/furniture">Pierre se promène d'une fenêtre à l'autre. Marthe est assise près d'une table à thé.</stage>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<stage type="extonish">Elle a la figure étonnée et rieuse d'une femme qui ne veut pas croire ce qu'on vient de lui dire.</stage>
+<p id="1">
+	<s id="1">Comment ! </s>
+	<s id="2">Depuis que vous êtes marié, vous n'avez jamais eu de maîtresse ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="2">
+	<s id="1">Jamais.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="3">
+	<s id="1">Vous pouvez bien me le dire, puisque nous causons librement. </s>
+	<s id="2">N'ayez pas peur qu'on vous entende !...</s>
+</p>
+<stage type="show/decor">Elle désigne un des côtés du chalet.</stage>
+<p id="4">
+	<s id="1">Votre femme veille près de sa petite fille qui était toute grognon au dîner ; elle craint une mauvaise nuit, mais ce ne sera rien.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="5">
+	<s id="1">Je l'espère.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="6">
+	<s id="1">Les dents, peut-être ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="7">
+	<s id="1">Sans doute, je ne sais pas.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="8">
+	<s id="1">Chère petite ! </s>
+	<s id="2">Sa maman ne la quitterait pas pour vous surprendre aux pieds d'une autre femme. </s>
+	<s id="3">Allons, dites-le moi.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="9">
+	<s id="1">Je vous le dis : jamais.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="10">
+	<s id="1">Vous ne me le diriez pas.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="11">
+	<s id="1">Je vous le dirais, pour me faire valoir.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="12">
+	<s id="1">Au moins, vous avez eu des tentations ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="13">
+	<s id="1">Non !... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Si, une.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="14">
+	<s id="1">Dites ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="15">
+	<s id="1">Je me rappelle qu'un jour, dans la rue, à je ne sais quel passage de princes exotiques, j'ai bousculé une jeune dame pas mal, très bien, ma foi, qui a daigné sourire à mes excuses. </s>
+	<s id="2">Il y avait tant de monde, sans compter un kiosque de journaux qui ne voulait pas se déranger, qu'elle ne voyait rien, ni moi non plus. </s>
+	<s id="3">Nous nous sommes mis à l'écart. </s>
+	<s id="4">Comme je lui débitais des galanteries vagues, elle m'a donné son adresse exacte et elle m'a invité à lui faire une visite. </s>
+	<s id="5">Je ne l'ai pas faite. </s>
+	<s id="6">J'ai envoyé à ma place une boîte à gants, vide.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="16">
+	<s id="1">Pourquoi vide ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="17">
+	<s id="1">Parce que ça coûte moins cher.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="18">
+	<s id="1">C'était si peu de chose, votre dame ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="19">
+	<s id="1">C'est ce que j'ai de plus mondain à vous offrir. </s>
+	<s id="2">Le reste ne vaut pas un aveu.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="20">
+	<s id="1">Si, si, ça m'intéresse, je raffole de ces confidences.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="21">
+	<s id="1">Je me rappelle qu'une autre fois... </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Non...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="22">
+	<s id="1">Si, si !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="23">
+	<s id="1">... je regardais une petite bonne qui venait d'entrer à la maison. </s>
+	<s id="2">Elle essuyait les meubles de mon cabinet de travail avec une application sournoise. </s>
+	<s id="3">Elle rôdait d'un pied de table à un bâton de chaise. </s>
+	<s id="4">Il faisait lourd, orageux. </s>
+	<s id="5">Elle reluisait comme une tartine. </s>
+	<s id="6">Elle m'agaçait. </s>
+	<s id="7">Brusquement... vous me faites rougir... </s>
+	<s id="8">Je l'ai embrassée un bon coup.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="24">
+	<s id="1">Quelle horreur ! </s>
+	<s id="2">Sur la joue ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="25">
+	<s id="1">Je ne sais pas, au juger, sans voir. </s>
+	<s id="2">Et je me suis sauvé !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="26">
+	<s id="1">Oh ! </s>
+	<s id="2">Le lâche !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="27">
+	<s id="1">Lâche et méchant, car au premier prétexte je l'ai fait flanquer à la porte. </s>
+	<s id="2">Je ne sais pas si elle a compris quelque chose à son aventure.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="28">
+	<s id="1">Elle aurait dû demander des explications à votre femme. </s>
+	<s id="2">Et une autre fois ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="29">
+	<s id="1">C'est tout. </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Dame ! </s>
+	<s id="4">Ce n'est pas riche. </s>
+	<s id="5">Ayez pitié d'un pauvre homme. </s>
+	<s id="6">Il y a des maris fidèles. </s>
+	<s id="è">J'en suis un.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="30">
+	<s id="1">Vous croyez à la fidélité des hommes ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="31">
+	<s id="1">Je crois à la mienne, je suis bien forcé. </s>
+	<s id="2">Je crois encore à celle de votre mari. </s>
+	<s id="3">Et vous ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="32">
+	<s id="1">Sans effort. </s>
+	<s id="2">Et depuis combien d'années êtes-vous marié ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="33">
+	<s id="1">Douze. </s>
+	<s id="2">Je me suis marié jeune, dès que j'ai eu l'âge de raison.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE</speaker><stage type="stand/ironic"> se lève, moqueuse.
+</stage>
+<p id="34">
+	<s id="1">Douze !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="35">
+	<s id="1">Et je ne compte pas les mois de fiançailles.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="36">
+	<s id="1">Laissez-moi vous regarder.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="37">
+	<s id="1">Regardez, regardons-nous. </s>
+	<s id="2">Je ne me lasserai pas le premier. </s>
+	<s id="3">Ça m'est égal d'avoir l'air ridicule devant vous. </s>
+	<s id="4">Je sais que vous ne vous fiez pas aux apparences.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="38">
+	<s id="1">Vous, ridicule ! </s>
+	<s id="2">Vous méritez du bronze et une niche. </s>
+	<s id="3">Vous êtes un saint.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="39">
+	<s id="1">Mais vous qui faites le malin, voulez-vous me dire si vous avez eu des amants ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="40">
+	<s id="1">Cette question, à moi ! </s>
+	<s id="2">Des amants, au pluriel ! </s>
+	<s id="3">Pourquoi faire ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="41">
+	<s id="1">Pour tromper plusieurs fois votre mari... </s>
+	<s id="2">J'exagère ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="42">
+	<s id="1">Totalement.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="43">
+	<s id="1">Vous n'avoueriez pas.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="44">
+	<s id="1">Mais si, ça me ferait valoir.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="45">
+	<s id="1">Comme on a dû vous faire la cour ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="46">
+	<s id="1">Pas tant que vous croyez.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="47">
+	<s id="1">Cette blague !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="48">
+	<s id="1">Non, coquetterie à part. </s>
+	<s id="2">Jeune fille, j'ai mis en flamme, comme toutes les jeunes filles, un coeur ou deux ; on a fait une chute de cheval sous mes fenêtres...</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="49">
+	<s id="1">Oh !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="50">
+	<s id="1">On l'a faite adroitement, ça compte tout de même et je m'en honore ; mais depuis, rien. </s>
+	<s id="3">Une fois mariée, je n'ai pas eu la curiosité de regarder par la fenêtre.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="51">
+	<s id="1">Craignez-vous que votre mari écoute ?... </s>
+	<s id="2">La chasse d'aujourd'hui l'a rompu. </s>
+	<s id="3">Il dort – </s>
+</p>
+<stage type="show/decor">Pierre désigne l'autre côté du chalet.</stage>
+<p id="52">
+	<s id="1">– dans son lit, en toute sécurité. </s>
+	<s id="2">Vous osez me dire qu'aucun homme ne s'est encore risqué.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="53">
+	<s id="1">Je le soutiens.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="54">
+	<s id="1">La mémoire vous fait défaut, on vous a écrit des lettres ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="55">
+	<s id="1">On savait bien que mon mari, après les avoir lues, m'aurait défendu de répondre.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="56">
+	<s id="1">C'est fort.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="57">
+	<s id="1">C'est comme ça.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="58">
+	<s id="1">Je me demande à quoi les hommes qui vous connaissent occupent leurs loisirs.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="59">
+	<s id="1">Mon ami, ces choses-là se passent à peu près de la même façon dans tous les milieux. </s>
+	<s id="2">Les hommes, sans cesse à_l_affût, il est vrai, ne s'approchent pourtant que si on leur fait signe.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="60">
+	<s id="1">Quel signe ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="61">
+	<s id="1">Oh ! </s>
+	<s id="2">Il varie avec le milieu et il échappe aux indifférents comme vous. </s>
+	<s id="3">Mais il y a toujours un signe.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="62">
+	<s id="1">Faites-le, pour voir.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="63">
+	<s id="1">Non, je ne veux pas faire de signe, à personne. </s>
+	<s id="2">Voilà mon secret.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="64">
+	<s id="1">Quoi ! </s>
+	<s id="2">Vous n'avez rien à la conscience que je pourrais vous reprocher : une peccadille, une tache imperceptible ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="65">
+	<s id="1">Il n'y a pas que vous d'immaculé, mon ami. </s>
+	<s id="2">Je vous assure que je vous le dirais. </s>
+	<s id="3">Entre nous, ça n'a aucune importance.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="66">
+	<s id="1">Aucune. </s>
+	<s id="2">Vous voyez bien que, vous aussi, vous n'êtes qu'une honnête femme, et vous ne serez jamais qu'une honnête femme.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="67">
+	<s id="1">Vous me dites ça avec mépris.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="68">
+	<s id="1">Je vous le dis avec respect : vous ne serez jamais qu'une honnête femme.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="69">
+	<s id="1">Oh ! </s>
+	<s id="2">Oh !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="70">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="71">
+	<s id="1">Vous m'engagez trop. </s>
+	<s id="2">Je suis une honnête femme jusqu'à présent. </s>
+	<s id="3">Mais je ne crie pas, sur les toits, que je serai toujours une honnête femme. </s>
+	<s id="4">Est-ce que je le sais ? </s>
+	<s id="5">À la vérité, je n'en sais rien. </s>
+	<s id="6">Je n'ai aucune envie de tromper Alfred, et pourtant je serais désolée d'avoir la certitude de ne jamais le tromper. </s>
+	<s id="7">Ce serait là une certitude un peu niaise, un peu humiliante. </s>
+	<s id="8">Je réponds d'hier, je réponds même d'aujourd'hui. </s>
+	<s id="9">Je ne prétends pas que ce soit héroïque, mais c'est déjà suffisant.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="72">
+	<s id="1">Et vous faites vos réserves pour l'avenir.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="73">
+	<s id="1">Je fais la part de l'imprévu, des heures de crise, où tout ce qu'on s'était juré et rien, c'est la même chose. </s>
+	<s id="2">Je refuse de prononcer des voeux de fidélité éternels. </s>
+	<s id="3">Je suis une honnête femme qui doute quelquefois de sa résistance. </s>
+	<s id="4">Ma vie, jusqu'à ce jour, a glissé droite et légère, sur une glace pure. </s>
+	<s id="5">Mais il faut craindre l'accident. </s>
+	<s id="6">Je le crains. </s>
+	<s id="7">Je l'imagine, et je frissonne de peur. </s>
+	<s id="8">C'est très agréable.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="74">
+	<s id="1">Voilà ! </s>
+	<s id="2">Voilà ! </s>
+	<s id="3">Vous parlez en femme qui n'est pas sotte. </s>
+	<s id="4">Vous tomberez, s'il le faut, demain ou après-demain. </s>
+	<s id="5">On ne peut pas fixer la date d'un accident.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="75">
+	<s id="1">J'accorde seulement qu'il est possible.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="76">
+	<s id="1">Probable.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="77">
+	<s id="1">Non, il me répugne de préciser davantage. </s>
+	<s id="2">L'idée perverse m'amuse d'abord, mais je sens vite que la chose n'aurait rien de drôle, n'importe quand et n'importe avec qui. </s>
+	<s id="3">Pour que l'image de l'adultère ne me fasse pas baisser d'écoeurement les yeux, il faut qu'elle reste dans le vague et le lointain.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="78">
+	<s id="1">Elle peut vous mener loin.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="79">
+	<s id="1">Je ne suis pas pressée.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="80">
+	<s id="1">Ni moi, ni votre mari non plus, ni ma femme non plus. </s>
+	<s id="2">Ainsi, dans ce rustique chalet, où nous vous offrons, pour quelques semaines d'automne, une hospitalité amicale, il y a réunies quatre personnes mariées, et, par un hasard extraordinaire, ces quatre personnes sont toutes les quatre d'une fidélité à l'abri des coups de foudre. </s>
+	<s id="3">Vous aimez bien votre mari, votre mari vous aime bien, ma femme m'aime bien et j'aime bien ma femme. </s>
+	<s id="4">Sous le même toit, sur deux ménages, il y a deux ménages modèles. </s>
+	<s id="5">Deux sur deux ! </s>
+	<s id="-">Nous réalisons le maximum... sauf erreur.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="81">
+	<s id="1">Moi, je n'en cherche pas.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="82">
+	<s id="1">Vous auriez tort : votre mari est jeune, beau garçon...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="83">
+	<s id="1">Distingué.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="84">
+	<s id="1">Beau garçon, plus beau garçon que moi. </s>
+	<s id="2">Il est moins fort, mais il a une bonne santé.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="85">
+	<s id="1">Excellente ; un peu sujet aux migraines.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="86">
+	<s id="1">Ce n'est pas grave. </s>
+	<s id="2">Cela vient de ce qu'il possède, dans toute l'acception du mot, la plus jolie femme de Paris.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="87">
+	<s id="1">Une des plus jolies femmes.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="88">
+	<s id="1">Oh ! </s>
+	<s id="2">Pendant que j'y étais !... </s>
+	<s id="3">Et comme il vous aime beaucoup...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="89">
+	<s id="1">Beaucoup.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="90">
+	<s id="1">Et que vous l'aimez beaucoup...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="91">
+	<s id="1">Beaucoup.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="92">
+	<s id="1">Je conclus que vous ne vous ennuyez pas.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="93">
+	<s id="1">Rarement. </s>
+	<s id="2">Mais plaignez-vous donc. </s>
+	<s id="3">Vous n'êtes pas mal.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="94">
+	<s id="1">Je suis mieux que ça.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="95">
+	<s id="1">Quant à votre femme...</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="96">
+	<s id="1">Vous avez une manière discrète d'insister sur mes mérites personnels !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="97">
+	<s id="1">C'est que j'ai hâte de faire l'éloge de votre femme, qui vaut encore mieux que vous, quel que soit votre prix. </s>
+	<s id="2">C'est une perle.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE</speaker><stage type="serious">, gravement.
+</stage>
+<p id="98">
+	<s id="">Inestimable.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="99">
+	<s id="1">Elle a un genre de beauté bien à elle.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="100">
+	<s id="1">Et bien à moi.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="101">
+	<s id="1">Je ne lui connais que des qualités : elle les a toutes.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="102">
+	<s id="1">Elle a même des vertus. </s>
+	<s id="2">C'est la seule femme de notre monde qui ait des vertus.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="103">
+	<s id="1">La seule ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="104">
+	<s id="1">Ne réclamez pas. </s>
+	<s id="2">Une vertu, une vraie vertu, c'est trop sérieux pour vous.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="105">
+	<s id="1">Ah ! </s>
+	<s id="2">Et citez-moi, s'il vous plaît, une vertu à laquelle je ne puisse prétendre.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="106">
+	<s id="1">Je cite au hasard, la première venue, la bonté.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="107">
+	<s id="1">Je ne suis pas bonne ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="108">
+	<s id="1">Si, de cette espèce de bonté qui n'abîme pas le teint.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="109">
+	<s id="1">Comment ? </s>
+	<s id="2">Je ne suis pas bonne pour mon mari, pour mes enfants, mes amis ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="110">
+	<s id="1">Et pour vos pauvres. </s>
+	<s id="2">En effet, votre mari vous brutalise, vos enfants sont des monstres que les photographes se disputent, vos amis vous assomment de compliments, et les pauvres ne vous disent même pas merci ; cependant vous n'en voulez ni aux uns, ni aux autres. </s>
+	<s id="3">Et comme toute votre bonté y passe, vous n'en avez jamais de reste.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="111">
+	<s id="1">Votre femme est plus généreuse ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="112">
+	<s id="1">Oh ! </s>
+	<s id="2">N'essayez pas de lutter. </s>
+	<s id="3">Dans n'importe quelle occasion de se dévouer, Berthe vous battrait.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="113">
+	<s id="1">Exemple ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="114">
+	<s id="1">Exemple : Si votre mari vous trompait, que feriez-vous ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE</speaker><stage type="hesitate">, sans hésiter.
+</stage>
+<p id="115">
+	<s id="1">J'ai deux projets, à mon choix : Premièrement, si mon mari me trompe, je le trompe tout de suite, tout de suite, avec le plus voisin de ses amis. </s>
+	<s id="2">Et ce sera si vite fait, que mon mari et moi, nous ne saurons même plus lequel des deux aura commencé.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="116">
+	<s id="1">Quoique vulgarisée, cette méthode ne me déplaît pas. </s>
+	<s id="2">Nous habitons la même rue à Paris : j'ai des chances. </s>
+	<s id="3">Voyons l'autre.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="117">
+	<s id="1">Le soir même du jour où je m'apercevrai de quel que chose, et chaque soir, jusqu'à ce que la leçon profite, je me ferai si tendre et si exigeante, que mon mari ne paraîtra plus à sa maîtresse qu'un amant hors de service.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="118">
+	<s id="1">C'est assez original, mais d'une exécution pénible.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="119">
+	<s id="1">C'est un tour de force. </s>
+	<s id="2">Je peux ne pas réussir, mais si je réussis, quel dédain pour Alfred, quand je l'aurai ruiné !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="120">
+	<s id="1">Comme vous êtes bonne !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="121">
+	<s id="1">Je suis juste.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="122">
+	<s id="1">La bonté se moque un peu de la justice.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="123">
+	<s id="1">Que ferait donc votre femme à ma place ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="124">
+	<s id="1">Je la questionne souvent. </s>
+	<s id="2">– “Que ferais-tu ? lui dis-je. </s>
+	<s id="3">– Ne parlons pas de ça, dit-elle. </s>
+	<s id="4">– Parlons-en ; tout arrive. </s>
+	<s id="5">– Je ne peux pas croire que ce malheur puisse m'arriver. </s>
+	<s id="6">– Moi non plus, mais je suppose. </s>
+	<s id="7">– Tais-toi, dit-elle, tu me tourmentes. </s>
+	<s id="8">– Ma chère petite, lui dis-je, il est impossible que tu n'aies pas tes idées sur l'adultère, une théorie comme toutes les femmes. </s>
+	<s id="9">Tu y penses quelquefois. </s>
+	<s id="10">– Jamais, dit-elle. </s>
+	<s id="11">– Penses-y donc un instant, réfléchis une minute et réponds : c'est pour rire. </s>
+	<s id="12">Si je te trompais, que ferais-tu ? </s>
+	<s id="13">– J'aurais beaucoup de chagrin. </s>
+	<s id="14">– Je l'espère bien. </s>
+	<s id="15">D'ailleurs, j'en aurais peut-être plus que toi. </s>
+	<s id="16">Mais après ? </s>
+	<s id="17">Te vengerais-tu ? </s>
+	<s id="18">Me pardonnerais-tu ? </s>
+	<s id="18">Que ferais-tu ? </s>
+	<s id="19">– Rien, rien." </s>
+	<s id="20">– Et si j'insiste encore, elle se met d'avance à pleurer.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="125">
+	<s id="1">C'est ce que vous appelez de la bonté ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="126">
+	<s id="1">C'est ce que toutes les femmes qui en sont incapables appellent de la bêtise.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="127">
+	<s id="1">Mais, mon ami, quand on a une femme comme la vôtre, on reste chez soi.</s>
+</p>
+<stage type="away">Elle s'éloigne.</stage>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="128">
+	<s id="1">C'est ce que je fais, depuis douze ans. </s>
+	<s id="2">Bonsoir !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE</speaker><stage type="quiet">, avec simplicité.
+</stage>
+<p id="129">
+	<s id="1">Oh ! </s>
+	<s id="2">Pardon ! </s>
+	<s id="3">Bonsoir.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="130">
+	<s id="1">Naturellement, bonsoir ! </s>
+	<s id="2">Puisque vous êtes la plus heureuse des femmes, et moi le plus heureux des hommes, puisque l'union de nos ménages est indéchirable, que faisons-nous là, tous deux, à dix heures passées, tandis que ma femme veille et que votre mari dort ? </s>
+	<s id="3">Ça ne vaut rien au bonheur de se coucher si tard. </s>
+	<s id="4">Allez le rejoindre ! </s>
+	<s id="5">Je vais la retrouver.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="131">
+	<s id="1">Allons.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="132">
+	<s id="1">Car il est inexplicable, notre faible pour ce sujet de conversation. </s>
+	<s id="2">Dès que nous sommes seuls, dans ce salon, dans le jardin, ou à la promenade, tout à coup votre oeil s'anime et je sens que je vais briller : "Que pensez-vous de l'amour ?"</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="133">
+	<s id="1">"Avez-vous un amant ?"</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="134">
+	<s id="1">"Aurez-vous bientôt une maîtresse ? </s>
+	<s id="2">Où la mettrez-vous ?" </s>
+	<s id="3">C'est notre petit jeu préféré.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="135">
+	<s id="1">Il est innocent, puisqu'il se termine chaque fois par le double éloge de votre femme et de mon mari.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="136">
+	<s id="1">Mais pourquoi parlons-nous d'autre chose en leur présence ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="137">
+	<s id="1">On ne parle bien de ces choses-là qu'à deux.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="138">
+	<s id="1">Mais alors, Madame, c'est avec votre mari qu'il faut en parler. </s>
+	<s id="2">Et je vous en défie. </s>
+	<s id="3">Vous ne tarderiez guère à bâiller. </s>
+	<s id="4">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="139">
+	<s id="1">Parce qu'Alfred peut m'aimer sans me parler d'amour. </s>
+	<s id="2">C'est un passionné qui serre les dents. </s>
+	<s id="3">Il déteste ce genre de conversation. </s>
+	<s id="4">Il le trouve stupide. </s>
+	<s id="5">Il prétend qu'on n'y dit que des sottises.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="140">
+	<s id="1">Les imbéciles, mais vous et moi ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="142">
+	<s id="1">Nous sommes les deux personnes les plus spirituelles que nous connaissions.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="143">
+	<s id="1">Et n'est-ce pas que vous prenez plaisir à nos bavardages ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="144">
+	<s id="1">Oui, je l'avoue.</s>
+</p>
+<stage type="sit">Ils se sont assis.</stage>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="145">
+	<s id="1">Un plaisir que vous ne devez pas à votre mari que vous aimez, et que vous me devez, à moi que vous n'aimez pas, que vous n'aimez pas ! </s>
+	<s id="2">Ce qui m'est bien égal, puisque je ne vous aime pas.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="146">
+	<s id="1">Dieu merci ! </s>
+	<s id="2">Je le dirais tout de suite à votre femme.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="147">
+	<s id="1">Berthe refuserait de vous croire. </s>
+	<s id="2">Elle est très tranquille. </s>
+	<s id="3">Nous sommes tous très tranquilles. </s>
+	<s id="4">Mais puisque sans nous aimer, chère madame, nous ne nous plaisons qu'à parler d'amour, qu'est-ce que ce plaisir qui ne mène à rien ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="148">
+	<s id="1">Le plaisir toujours à la mode, le plaisir de flirter.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="149">
+	<s id="1">Oh ! </s>
+	<s id="2">Flirter, ce mot-là m'énerve. </s>
+	<s id="3">Flirt ! </s>
+	<s id="4">Flirt ! </s>
+	<s id="5">C'est crispant comme une automobile sous_pression. </s>
+	<s id="6">Laissez donc aux Anglais leurs petits bouts de mots. </s>
+	<s id="7">Qu'ils aient au moins ça en Angleterre.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="150">
+	<s id="1">Je ne tiens pas aux mots. </s>
+	<s id="2">Mettons que ce soit un plaisir platonique.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="151">
+	<s id="1">Oh ! </s>
+	<s id="2">Platonique ! </s>
+	<s id="3">C'est encore plus laid. </s>
+	<s id="4">Ça sent l'office et la pharmacie. </s>
+	<s id="5">De grâce, choisissez vos expressions, quand il s'agit...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="152">
+	<s id="1">De quoi ? </s>
+	<s id="2">Il me semble que vous n'êtes plus clair.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="153">
+	<s id="1">De notre bonheur même. </s>
+	<s id="2">Oui, oui, oui, ce plaisir d'être là, seuls, l'un près de l'autre, de dire des riens, avec mystère, de célébrer, avec pompe, les louanges de nos ménages et de traiter comme des psychologues professionnels, mais en cachette, toutes les questions de l'amour, c'est la preuve que vous vous vantez et que je me vante et que votre bonheur parfait est surfait.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="154">
+	<s id="1">Vous vous trompez ; moi, je suis absolument heureuse.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="155">
+	<s id="1">Ce n'est pas vrai !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="156">
+	<s id="1">Mon ami, prenez garde.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="157">
+	<s id="1">Oh ! </s>
+	<s id="2">Je prends garde. </s>
+	<s id="3">Je me garde de toute plaisanterie vulgaire sur votre mari. </s>
+	<s id="4">C'est un homme que je place très haut dans mon estime et qui me vaut bien.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="158">
+	<s id="1">Vous le flattez.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="159">
+	<s id="1">Je lui rends justice.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="160">
+	<s id="1">C'est réciproque.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="161">
+	<s id="1">Entendu. </s>
+	<s id="2">Mais il y a des choses qu'il ne sait pas vous dire comme je vous les dirais. </s>
+	<s id="3">Et cela vous manque, si, si. </s>
+	<s id="4">Êtes-vous femme, oui ou non ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="162">
+	<s id="1">Non. </s>
+	<s id="2">– Quelles choses ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="163">
+	<s id="1">Il ne sait pas vous dire, comme moi, que vous êtes une femme d'un goût exquis et que vous vous habillez... comme une fleur !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="164">
+	<s id="1">Berthe aussi s'habille très bien.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="165">
+	<s id="1">Elle ne porte que du classique. </s>
+	<s id="2">– Il ne se rappelle pas, comme moi, votre mari, certain chapeau de l'année dernière, tout chargé de cerises rouges. </s>
+	<s id="3">Il fallait être vous, pour porter, avec une témérité de vieux révolutionnaire, un chapeau de cette crânerie. </s>
+	<s id="4">Il éclatait sur le boulevard. </s>
+	<s id="5">Il affolait les yeux. </s>
+	<s id="6">On ne voyait que vos cerises. </s>
+	<s id="7">Il devait donner l'envie aux gamins d'y grimper et de ne pas vous en laisser une. </s>
+	<s id="8">Et il vous allait ! </s>
+	<s id="9">Il vous allait !</s>
+</p>	
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="166">
+	<s id="1">Il m'allait bien, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="167">
+	<s id="1">Il vous allait comme le beau temps à la nature.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="168">
+	<s id="1">C'est gentil, ça.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="169">
+	<s id="1">Tiens, parbleu ! </s>
+	<s id="2">Je vous crois. </s>
+	<s id="4">Et ces gentillesses-là, est-ce votre mari qui vous les dirait ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="170">
+	<s id="1">Il m'en a dit.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE. </speaker>
+<p id="171">
+	<s id="1">Il ne vous en dit plus.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="172">
+	<s id="1">Quelques-unes.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="173">
+	<s id="1">Pas souvent.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="174">
+	<s id="1">Quelquefois.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="175">
+	<s id="1">Il vous en dira de moins en moins, je vous l'affirme. </s>
+	<s id="2">Et je le trouve excusable. </s>
+	<s id="3">C'est fatigant à la longue. </s>
+	<s id="4">Il a perdu l'habitude. </s>
+	<s id="5">Je parie qu'il ne vous dit pas que vous êtes intelligente?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="176">
+	<s id="1">Oh ! </s>
+	<s id="2">Ça !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="177">
+	<s id="1">Je ne veux pas dire que vous ne faites que rouler dans votre tête des pensées de Pascal. </s>
+	<s id="2">Mais vous avez l'intelligence du geste, du regard, du sourire, de la réplique ! </s>
+	<s id="3">À chaque trait qui vous frappe, vous étincelez.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="178">
+	<s id="1">Je place mon mot, comme une autre, à l'occasion. </s>
+	<s id="2">C'est moins un mot d'esprit qu'un mot du coeur.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="179">
+	<s id="1">Cet air modeste ! </s>
+	<s id="2">Mais vous êtes une Parisienne exceptionnelle et rayonnante, qui sait tout, qui lit tout, qui peut tout dire et tout juger. </s>
+	<s id="3">Car c'est incroyable : vous auriez le droit d'être frivole, évaporée, aérienne, et vous avez du bon sens, du gros bon sens.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="180">
+	<s id="1">J'ai mes petites idées et j'y tiens.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="181">
+	<s id="1">C'est énorme. </s>
+	<s id="2">Plus intelligente, vous le seriez trop. </s>
+	<s id="3">Vous ne laisseriez rien aux messieurs qui vous détesteraient. </s>
+	<s id="4">Voilà ce que votre mari ne vous dit jamais. </s>
+	<s id="5">Il ne vous dit même plus que vous êtes jolie.</s>
+</p>
+<stage type="dream">Marthe déjà rêveuse ne répond pas.</stage>
+<p id="182">
+	<s id="1">Je m'en doutais. </s>
+	<s id="2">Et pourtant il le sait ; d'ailleurs tout le monde le sait : vous êtes unanimement jolie.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="183">
+	<s id="1">Mais il est de plus en plus gentil. </s>
+	<s id="2">Qu'est-ce qu'il a donc, ce soir ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="184">
+	<s id="1">Je ne vous accable pas d'injures, hein ! </s>
+	<s id="2">Essayez de vous fâcher.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="185">
+	<s id="1">Je ne peux pas.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="186">
+	<s id="1">Mettez-vous en colère parce que je vous dis que lorsque vous montez les Champs-Élysées, il y a, de chaque côté de l'avenue, un mouvement de curiosité, un vif remue-ménage de chaises. </s>
+	<s id="2">Tout s'incline sur votre sillage, votre cocher se dresse avec plus de style, et parmi les voitures qui semblent s'arrêter, la vôtre roule comme un char vers l'Arc-de-Triomphe !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE. </speaker>
+<stage type="laugh">Elle rit.</stage>
+<p id="187">
+	<s id="1">Ça, c'est drôle.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="188">
+	<s id="1">Oh ! </s>
+	<s id="2">ce rire musical ! </s>
+	<s id="3">Cette alouette qui part de votre bouche ! </s>
+	<s id="4">Et le soir, au théâtre, si quelqu'un murmure : La jolie femme ! </s>
+	<s id="5">– Je n'ai pas besoin de chercher des yeux. </s>
+	<s id="6">Je devine que vous êtes dans la salle. </s>
+	<s id="7">Aussitôt, je sens que je vais passer une bonne soirée. </s>
+	<s id="8">La pièce que j'écoute moins me paraît meilleure et le lustre éclaire double !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="178">
+	<s id="1">Et vous dites que c'est fatigant ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="179">
+	<s id="1">Et je suis à peine en train. </s>
+	<s id="2">Vous n'imaginez pas le nombre de fois que je pourrais vous répéter que vous êtes non une jolie femme, mais la jolie femme, l'idéale !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="180">
+	<s id="1">Oh ! </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Où voulez-vous que je me mette ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="181">
+	<s id="1">Plus près de moi...</s>
+</p>
+<stage type="away">Marthe se recule. </stage>
+<p id="182">
+	<s id="1">Et je vous en dirais bien d'autres. </s>
+	<s id="2">Je vous dirais toutes vos grâces, et je ne me priverais pas de vous en inventer, si vous n'étiez une honnête femme, si je n'étais un homme fidèle. </s>
+	<s id="3">Mais il nous faut, ma chère amie, renoncer tous deux aux déclarations d'amour, moi à les faire, vous à les entendre.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="182">
+	<s id="1">C'est dommage.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="183">
+	<s id="1">C'est absurde. </s>
+	<s id="2">Je vous disais tout à l'heure que je n'étais pas homme à me moquer de votre mari. </s>
+	<s id="3">Je ne suis pas assez méprisable pour faire de l'ironie à propos de ma femme que j'aime du fond du coeur, que j'admire.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="184">
+	<s id="1">Je ne vous le permettrais pas.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="185">
+	<s id="1">Mais après douze ans de ménage, je ne peux pas, moi qui aime tant ça, moi qui suis né exprès pour ça, filer à ses pieds des phrases d'amour. </s>
+	<s id="2">Ce serait du gaspillage.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="176">
+	<s id="1">Berthe ne se plaindrait peut-être point.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="177">
+	<s id="1">Évidemment. </s>
+	<s id="2">Elle serait très sensible. </s>
+	<s id="3">Elle rougirait étonnée. </s>
+	<s id="4">Mais elle est si bonne ménagère que, dans sa surprise, elle me répondrait quelque chose comme : Tu vas renverser mon café !... </s>
+	<s id="5">Et désormais, ce sera toujours ainsi, j'aurai toujours peur, si je m'abandonne, de casser quelque objet de ménage.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="178">
+	<s id="1">Je comprends. </s>
+	<s id="2">Je comprends.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="179">
+	<s id="1">N'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="180">
+	<s id="1">Oui, vous finissez par aimer Berthe comme une soeur.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="181">
+	<s id="1">Presque. </s>
+	<s id="2">Entre elle et moi, si ce n'est pas encore de l'amitié, c'est déjà de l'amour retenu, alangui, incolore et dépouillé de ses fleurs. </s>
+	<s id="3">Tenez ! </s>
+	<s id="4">Je songe à ces faux arbres nains, secs et sans écorce, qu'on voit dans les cages des jardins_zoologiques. Les oiseaux, par nécessité, s'en contentent, mais pas les fleurs !</s>
+</p>
+<stage type="estonish">Étonnement de Marthe.</stage>
+<p id="182">
+	<s id="1">Ça n'a aucun rapport, mais sentez-vous ce que je veux dire ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="183">
+	<s id="1">Oh ! </s>
+	<s id="2">Très bien ! </s>
+	<s id="3">Très bien ! </s>
+	<s id="4">Comme si vous m'expliquiez mes rêves, mes rêvasseries plutôt. </s>
+	<s id="5">Bah ! </s>
+	<s id="6">Pour quelques fleurs !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="184">
+	<s id="1">Comment ! </s>
+	<s id="2">Pour quelques fleurs ! </s>
+	<s id="3">En fait de bonheur, rien n'est facultatif. </s>
+	<s id="4">Tant qu'on n'a pas tout, on a le droit de réclamer.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="185">
+	<s id="1">Notre part est déjà très enviable.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="186">
+	<s id="1">Oh ! </s>
+	<s id="2">D'accord. </s>
+	<s id="3">Je ne me révolte pas, je ne souffre pas le martyre, ni vous non plus. </s>
+	<s id="4">Nos ménages ne sont pas des enfers. </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Si nous avions le moindre prétexte, le plus léger grief, nous ne sommes pas plus maladroits que d'autres. </s>
+	<s id="7">Nous nous acquitterions d'un banal adultère, comme tout le monde. </s>
+	<s id="8">C'est bien difficile de tromper un mari ou une femme qui le méritent !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="187">
+	<s id="1">Et ils en sont indignes !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="188">
+	<s id="1">Ah ! </s>
+	<s id="2">S'ils le méritaient !... </s>
+	<s id="3">Je vous promets que ce ne serait pas long. Le droit, le devoir d'un homme qui n'aime plus une femme, c'est de courir en aimer une autre, immédiatement, afin que sur ce triste monde où elle est si rare, il ne se perde pas une parcelle de joie.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="189">
+	<s id="1">Et ils ne veulent pas nous mettre dans la nécessité d'obéir à ce devoir. </s>
+	<s id="2">Rien à faire. </s>
+	<s id="3">Les misérables !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="190">
+	<s id="1">Je vous donne ma parole que quelquefois j'ai de fichus moments. </s>
+	<s id="2">Je rage tout seul. </s>
+	<s id="3">Pour me calmer j'ouvre un livre de vers. </s>
+	<s id="4">Je me crie des vers à tue-tête, et je me gonfle de lyrisme, jusque-là, jusqu'aux yeux.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="191">
+	<s id="1">Et cela vous calme ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="192">
+	<s id="1">Toujours. </s>
+	<s id="2">Aucune mauvaise pensée ne résiste à un beau vers.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="193">
+	<s id="1">Vous n'êtes pas difficile à soigner.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="194">
+	<s id="1">Non. </s>
+	<s id="2">C'est infaillible, mais, hélas ! </s>
+	<s id="3">Momentané ; ma gorge s'enroue vite, le volume me tombe des mains, mes yeux se dégrisent et je revois bientôt mon bonheur infini et plat, pareil au vôtre, bête à pleurer.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="195">
+	<s id="1">Tant pis, nous sommes heureux d'un bonheur auquel il faut se résigner.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="196">
+	<s id="1">Ce n'est pas du bonheur, c'est de la béatitude. </s>
+	<s id="2">Encore serait-elle supportable, aujourd'hui, si on pouvait en dire : Oh ! ça ne durera pas ! </s>
+	<s id="3">– Mais j'ai à peine trente-cinq ans, moi, Madame. </s>
+	<s id="4">Je ne fais que commencer. </s>
+	<s id="5">Et vous, quel âge ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="197">
+	<s id="1">Je n'ai pas fini non plus.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="198">
+	<s id="1">Et vous êtes jolie pour vivre un siècle.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="199">
+	<s id="1">Une de mes grand'mères, qui était une beauté, a vécu quatre-vingt-sept ans.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="200">
+	<s id="1">C'est désolant ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Nous en viderons des coupes de joie, aux noces d'argent, aux noces d'or !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="201">
+	<s id="1">Aux noces de diamant.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="202">
+	<s id="1">Rien que des orgies, toute la vie, jusqu'à la mort !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="203">
+	<s id="1">C'est accablant.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="204">
+	<s id="1">C'est trop, c'est trop ; j'en arriverais à dire des choses révoltantes. </s>
+	<s id="2">Écoutez : je suis sûr que les veufs qui paraissent si à plaindre...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE. </speaker>
+<p id="205">
+	<s id="1">Ils ne le sont pas ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="206">
+	<s id="1">Oui, ils se lamentent d'abord, ils se désespèrent, et pourtant, j'en suis sûr, comme le liseron dans l'ombre noire d'un sapin, cette petite pensée sauvage lève bientôt dans leur douleur : à présent, c'est inévitable, je ne peux plus y échapper, il faudra, tôt ou tard, que je connaisse une autre femme !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="207">
+	<s id="1">Touchante petite pensée à porter, en médaillon, sur le coeur.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="208">
+	<s id="1">Elle finit par consoler.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="209">
+	<s id="1">Enfin nous ne sommes pas veufs. </s>
+	<s id="2">Quel remède ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="210">
+	<s id="1">Un congé, un congé renouvelable de temps en temps. </s>
+	<s id="2">On n'a même pas ses dimanches. </s>
+	<s id="3">Je n'en peux plus. </s>
+	<s id="4">J'ai trop promis, par abus de confiance en ma sagesse. </s>
+	<s id="5">Je me dégage, je me donne de l'air, il faut que je marche un peu. </s>
+	<s id="6">Venez avec moi faire un tour... de promenade, à mon bras, sous les arbres.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="211">
+	<s id="1">Au clair de cette lune ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="212">
+	<s id="1">Elle nous attend : Venez, je suis las de ne pouvoir qu'aimer. </s>
+	<s id="2">J'ai besoin d'adorer. </s>
+	<s id="3">Dites : voulez-vous que je vous adore ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="213">
+	<s id="1">Je voudrais bien.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="214">
+	<s id="1">Ne refusez pas ce que j'ai de meilleur, ma façon de faire la cour à une femme, de lui prodiguer les tendresses fugitives, les menus soins, les petits cadeaux, les galanteries, les bagatelles nécessaires, et de lui parler une langue inconnue d'elle. </s>
+	<s id="2">Je vous jure que je suis un vrai poète et que je possède le don de charmer. </s>
+	<s id="3">Il ne me servait plus à rien. </s>
+	<s id="4">Il n'était pas perdu. </s>
+	<s id="5">Je le gardais, sans savoir pour qui. </s>
+	<s id="6">C'était pour vous, c'était pour vous ! </s>
+	<s id="7">Je vous apporte toutes mes économies d'adoration.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="215">
+	<s id="1">Taisez-vous, oh ! </s>
+	<s id="2">Taisez-vous, je ne veux pas de vos présents de magicien.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="216">
+	<s id="1">Et moi, je veux vous enchanter...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="217">
+	<s id="1">Mais taisez-vous donc ; vous nous feriez faire des folies.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="218">
+	<s id="1">Oui, oui, soyons enfin un peu fous. </s>
+	<s id="2">Je ne vous demande pas des choses compliquées. </s>
+	<s id="3">Faisons enfin une bêtise. </s>
+	<s id="4">Vous ne répondez pas... </s>
+	<s id="5">Qu'est-ce que vous soupirez ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="219">
+	<s id="1">Hélas ! </s>
+	<s id="2">Une bêtise.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="220">
+	<s id="1">Une belle bêtise.</s>
+</p>
+<stage type="stand">Marthe se lève.</stage>
+<p id="221">
+	<s id="1">Marthe !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE</speaker><stage>, tristement.
+</stage>
+<p id="222">
+	<s id="">Nous ne sommes pas assez bêtes ! </s>
+</p>
+<stage type="happy">Puis presque gaiement.</stage>
+<p id="223">
+	<s id="1">Non, non, votre idée n'est pas pratique. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Elle est séduisante, elle n'est pas pratique.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="224">
+	<s id="1">Oh ! </s>
+	<s id="2">Mon amie, vous allez faire la raisonnable.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="225">
+	<s id="1">Il est temps.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="226">
+	<s id="1">Je sais par coeur vos raisons.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="227">
+	<s id="1">Je ne raisonne pas que pour vous, je raisonne aussi pour moi, pour me convaincre, et il m'en coûte.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="228">
+	<s id="1">Une parole aimable est toujours bonne à prendre. </s>
+	<s id="2">Je vous remercie.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="229">
+	<s id="1">Au fond, vous savez, je suis de votre avis. </s>
+	<s id="2">Ce serait excitant, ce petit congé, ce repos du mariage, cette trêve aux affections quotidiennes du foyer. </s>
+	<s id="3">On mettrait sur la porte : relâche à l'intérieur, et, comme vous dites, on irait faire un tour... qui durerait ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="230">
+	<s id="1">Ce qu'il durerait : je ne peux pas vous le dire à un quart d'heure près.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="231">
+	<s id="1">C'est ce qui s'appelle s'engager à fond, et cela vaut bien que je brise ma vie.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="232">
+	<s id="1">Être adorée huit jours, le bon Dieu lui-même n'est sûr de ça avec personne.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="233">
+	<s id="1">Et, cher adorateur, comme récompense, qu'exigeriez-vous ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="234">
+	<s id="1">Rien.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="235">
+	<s id="1">Si peu ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="236">
+	<s id="1">Une femme adorée ainsi accorde tout sans qu'on l'exige.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="237">
+	<s id="1">Nous y voilà, aux réalités !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="238">
+	<s id="1">Nous y voilà, parce que vous y faites allusion. </s>
+	<s id="2">Vous, les femmes, vous pensez toujours à ça !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="239">
+	<s id="1">Et vous n'y pensez jamais, vous, les hommes !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="240">
+	<s id="1">Pas tout de suite. </s>
+	<s id="2">Il va sans dire que, l'heure venue, je saurais très bien embrasser une femme.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="241">
+	<s id="1">Oui, n'est-ce pas, tout de même ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="242">
+	<s id="1">Oh ! </s>
+	<s id="2">Vous aviez l'air de me comprendre, vous ne me comprenez plus. </s>
+	<s id="3">Mais non, mais non, il ne s'agit pas de scandale, de vies brisées, d'histoires malpropres. </s>
+	<s id="4">Je n'imaginais, moi, que quelque chose de rare, de bref, de très doux et d'inoffensif, un feu de paille où nous n'aurions brûlé que des sentiments, et qui n'aurait pas fait plus de mal à nos coeurs que ce rayon de lune n'altère le vitrail qu'il traverse.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="243">
+	<s id="1">Mais, troubadour, charmant troubadour que vous êtes, soyez donc simple une fois dans votre vie. </s>
+	<s id="2">Un congé, ça se passe quelque part. </s>
+	<s id="3">Je suis prête. </s>
+	<s id="4">Partons.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="244">
+	<s id="1">Chère Marthe !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="245">
+	<s id="1">Oui, partons. </s>
+	<s id="2">Je ne tiens plus à mes fragiles raisons et je ne doute plus de votre sincérité. </s>
+	<s id="3">Il n'est pas possible qu'un homme comme vous se fasse un jeu d'étourdir une femme avec des mots, sans savoir où il l'entraîne. </s>
+	<s id="4">Vous le savez. </s>
+	<s id="5">Je vous crois, je vous crois, et c'est moi qui vous dis maintenant : partons, mon ami, partons vite. </s>
+	<s id="6">Ah !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="246">
+	<s id="1">Quand vous voudrez, Marthe.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="247">
+	<s id="1">Tout de suite, oh ! </s>
+	<s id="2">Tout de suite !... </s>
+	<s id="3">Ne me laissez pas me ressaisir. </s>
+	<s id="4">Partons, comme vous êtes, comme je suis, sans malle, sans toilettes. </s>
+	<s id="5">Fuyons vite, vite. </s>
+	<s id="6">Où allons-nous ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="248">
+	<s id="1">Où vous voudrez.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="249">
+	<s id="1">Vous n'êtes pas fixé ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="250">
+	<s id="1">Mais si, mais si, n'importe où, à la mer, à la montagne (vous êtes femme à ne déparer aucun paysage), au bout du monde.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="251">
+	<s id="1">A Marseille.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="252">
+	<s id="1">Au paradis !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="253">
+	<s id="1">Le paradis n'est pas sur l'Indicateur. </s>
+	<s id="3">Je vous affirme que nous n'irions pas jusqu'à Nice et que notre voyage au_bout_du_monde s'arrêterait à Marseille, à treize_heures de Paris. </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Je vous accorde sans peine que votre lyrisme peut supporter ce trajet. </s>
+	<s id="5">Mais là, après une nuit d'hôtel (car nous aurions dormi côte à côte, inévitablement, il aurait bien fallu), là, dans ces rues qui sentent l'huile, le savon et la prose, sous ce soleil commercial, tout fondrait, tout sécherait, mon teint de blonde et votre éclat romanesque.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="254">
+	<s id="1">C'est à ce point que les voyages vous déforment ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="255">
+	<s id="1">Telle est, mon ami, la farce que nous jouerait la seconde ville de France.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="256">
+	<s id="1">La troisième.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="257">
+	<s id="1">Oui, la troisième, si vous voulez ! </s>
+	<s id="2">Moins penauds, toutefois, si nous avions eu la précaution de prendre un billet d'aller et retour afin de revenir économiquement par le rapide.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="258">
+	<s id="1">Et malheur à qui nous l'aurait fait manquer ! </s>
+	<s id="2">Tout cela est un triomphe facile.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="259">
+	<s id="1">Et la rentrée, hein ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">La rentrée.</s>
+</p>
+<stage type="show">Elle désigne les deux portes des deux ménages.</stage>
+<p id="260">
+	<s id="1">Est-ce que vous apercevez d'ici leurs figures ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="261">
+	<s id="1">Il y a une bonne distance.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="262">
+	<s id="1">Ils croiraient peut-être simplement rêver, ou peut-être qu'ils prendraient aussi leur congé.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="263">
+	<s id="1">Ils seraient libres.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="264">
+	<s id="1">N'espérez pas qu'ils en profiteraient. </s>
+	<s id="2">Il faudrait les affronter comme des juges. </s>
+	<s id="3">J'ai froid !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="265">
+	<s id="1">Vous avez peur ? </s>
+	<s id="2">Votre mari vous tuerait peut-être !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="266">
+	<s id="1">Me tuerait-il ? </s>
+	<s id="2">Se tuerait-il ! </s>
+	<s id="3">Ou l'aventure lui paraîtrait-elle du plus haut comique ! </s>
+	<s id="4">Je ne sais, mais je devine nettement l'accueil de votre femme. </s>
+	<s id="5">Pauvre Berthe ! </s>
+	<s id="6">Je la vois à l'épreuve, avec sa bonté d'ange, sa bonté à tout faire, dont vous abusez un peu, mon ami, dont j'abuse moi-même, car, je l'ai remarqué, depuis que nous vivons ensemble, à la campagne, je ne prends de la vie commune que les plaisirs, et je lui laisse les corvées. </s>
+	<s id="7">Oh ! </s>
+	<s id="8">Avec elle, vous ne seriez pas en péril de mort. </s>
+	<s id="9">Aucune scène. </s>
+	<s id="10">Ni reproche, ni mépris. </s>
+	<s id="11">Votre honte ne se verrait pas sur son visage. </s>
+	<s id="12">Elle ne dirait rien. </s>
+	<s id="13">Elle éviterait de vous regarder. </s>
+	<s id="14">Elle vous mettrait à table. Elle vous servirait elle-même. </s>
+	<s id="15">Elle vous laisserait seul réparer vos forces ; et cette femme de l'Évangile irait pleurer à la cuisine.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="267">
+	<s id="1">Vous êtes gaie. </s>
+	<s id="2">Vous êtes sinistre.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="268">
+	<s id="1">Et une fois rafraîchi, débarbouillé, tout neuf, qui serait embêté et furieux contre lui et contre moi ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="269">
+	<s id="1">Oh ! </s>
+	<s id="2">Contre vous !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="270">
+	<s id="1">Qui ne me trouverait plus ni élégante, ni spirituelle, ni jolie, et me refuserait un coup de chapeau ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="271">
+	<s id="1">C'est moi.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE</speaker><stage>, très énervée.
+</stage>
+<p id="272">
+	<s id="1">Vous voyez comme j'ai raison.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="273">
+	<s id="1">Je n'insiste plus.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="274">
+	<s id="1">Il n'y avait pas moyen, hélas ! </s>
+	<s id="2">Pas moyen.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="275">
+	<s id="1">C'est fâcheux !... </s>
+	<s id="2">Même, si au lieu d'être calme et poli, j'étais entreprenant.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="276">
+	<s id="1">Que voulez-vous dire ? </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Vous vous dites : "Naïf, j'aurais dû..." </s>
+	<s id="4">Oui, à propos ! </s>
+	<s id="5">Peut-être que la violence !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="277">
+	<s id="1">Dame !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="278">
+	<s id="1">Oh ! non, ne vous repentez pas, laissez en paix
+la force armée.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="279">
+	<s id="1">Vous savez, on dit toujours ça, pour faire l'homme. </s>
+	<s id="2">En réalité...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="280">
+	<s id="1">Vous seriez aussi gêné que moi. Je vous connais, votre imagination a une envergure d'aigle et un appétit de moineau. </s>
+	<s id="2">Il vous suffit de déplacer un meuble pour croire que vous déménagez, et d'ouvrir la fenêtre pour croire que vous êtes libre. </s>
+	<s id="3">La liberté dehors fait trop de poussière.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="281">
+	<s id="1">Faut-il s'en entendre dire ? </s>
+	<s id="2">Vous devenez bien mauvaise.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="282">
+	<s id="1">Et il vous suffit de baiser la main d'une femme pour croire que vous trompez la vôtre.</s>
+</p>
+<stage type="wave">Elle lui tend la main. </stage>
+<p id="283">
+	<s id="1">Tenez, mon ami, voilà !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="284">
+	<s id="1">C'est une petite, toute petite, toute mignonne compensation.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="285">
+	<s id="1">Dire que vous vous faites sermonner encore !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="286">
+	<s id="1">Un grand garçon comme moi, je ne le ferai plus.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="287">
+	<s id="1">Vous devriez m'être reconnaissant !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="288">
+	<s id="1">Croyez à ma sincère gratitude.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="289">
+	<s id="1">Ne craignez pas que je vous en veuille, au moins.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="290">
+	<s id="1">Ah ! </s>
+	<s id="2">Je savais bien que vous étiez bonne !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="291">
+	<s id="1">Vous m'avez dit des mots qui ne blessent pas une femme mortellement.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="292">
+	<s id="1">Je ne retire rien.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="293">
+	<s id="1">Vous m'avez gâtée.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="294">
+	<s id="1">J'ai improvisé de mon mieux.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="295">
+	<s id="1">Vous m'avez traitée comme une déesse. </s>
+	<s id="2">Vous m'avez émue.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="296">
+	<s id="1">Pas trop.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="297">
+	<s id="1">Vous m'avez presque troublée et si mon amitié...</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="298">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous mêlez les genres.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="299">
+	<s id="1">Vous ne voulez pas de mon amitié ?</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="300">
+	<s id="1">Non, pas ce soir.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="301">
+	<s id="1">D'une amitié cordiale !</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="302">
+	<s id="1">Oh ! </s>
+	<s id="2">Cordiale : une amitié de jour de l'an ! </s>
+	<s id="3">Non, sans cérémonies. </s>
+	<s id="4">Demain ; à demain les affaires sympathiques !</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="303">
+	<s id="1">Adieu. </s>
+	<s id="2">Rentrons dans nos cages dorées. </s>
+	<s id="3">Vous là, près de Berthe, moi ici...</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="304">
+	<s id="1">Près d'Alfred ?</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="305">
+	<s id="1">Près d'Alfred.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="306">
+	<s id="1">Et je ne suis pas jaloux... </s>
+	<s id="2">Tout de même, dites, ce vilain Alfred qui dort comme un égoïste, qui ronfle...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="307">
+	<s id="1">Oh ! </s>
+	<s id="2">À peine, il ronronne.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="308">
+	<s id="1">Accordez-moi la faveur délicate de le laisser tranquille, ce soir. </s>
+	<s id="2">Ne le réveillez pas.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="309">
+	<s id="1">C'est promis.</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="310">
+	<s id="1">Merci.</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="311">
+	<s id="1">En échange ?...</s>
+</p>
+</sp>
+<sp who="PIERRE"><speaker>PIERRE.</speaker>
+<p id="312">
+	<s id="1">Oh ! </s>
+	<s id="2">Je le jure...</s>
+</p>
+</sp>
+<sp who="MARTHE"><speaker>MARTHE.</speaker>
+<p id="313">
+	<s id="1">Votre femme ne doit pas dormir. </s>
+	<s id="2">Je suis certaine qu'elle veille toujours, près de la lampe, sa fillette calmée. </s>
+	<s id="3">Elle vous attend. </s>
+	<s id="4">Approchez-vous d'elle, sans bruit, et, de tout votre coeur, embrassez-la bien.</s>
+</p>
+<stage type="decor">RIDEAU.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

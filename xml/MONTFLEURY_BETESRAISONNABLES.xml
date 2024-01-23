@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LES BÊTES RAISONNABLES, COMÉDIE</title>
+			<author type="texte" ISNI="0000 0001 0907 1137">Antoine Jacob dit MONTFLEURY (1639-1685)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE, septembre 2022.</editor>
+			<publisher>publié par Paul FIEVRE, octobre 2022</publisher>
+			<idno>MONTFLEURY_BETESRAISONNABLES</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1661-1670</periode>
+			<taille>250-500</taille>
+			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k209989t</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES BÊTES RAISONNABLES</titlePart>
+			<titlePart type="sub">COMÉDIE EN UN ACTE</titlePart>
+		</docTitle> 
+		<docDate value="1661">1661.</docDate>
+		<docAuthor id="MONTFLEURY, Antoine Jacob dit">PAR A.J. MONTFLEURY</docAuthor>
+		<performance>
+			<premiere date="1661" location="Hôtel de Bourgogne">Représenté pour la première fois, au théâtre de l'Hôtel de Bourgogne, en 1661.</premiere>
+		</performance>
+		<castList><head>ACTEURS.</head>
+			<castItem><role id="CIRCÉ" sex="2" type="H" statut="magicienne" age="A" stat_amour="">CIRCÉ</role>.</castItem>
+			<castItem><role id="ULYSSE" sex="1" type="H" statut="roi" age="A" stat_amour="">ULYSSE</role>.</castItem>
+			<castItem><role id="DIPUS" sex="1" type="H" statut="courtisan" age="A" stat_amour="">DIPUS</role>, courtisan changé en cheval.</castItem>
+			<castItem><role id="AGLAPHEMOS" sex="1" type="H" statut="docteur" age="A" stat_amour="">AGLAPHEMOS</role>, docteur changé en âne.</castItem>
+			<castItem><role id="CÉPHISE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">CÉPHISE</role>, changée en biche.</castItem>
+			<castItem><role id="PHILIPIN" sex="1" type="H" statut="valet" age="A" stat_amour="">PHILIPIN</role>, valet de Dipus, changé en lion.</castItem>
+		</castList>
+		<set location="Île de Circé" country="Pays mythologique" periode="XVIIème" gps="">La scène est dans l'île enchantée de Circé.</set>
+	</front>
+	<note>Texte issu de Victor Fournel, "Les contemporains de Molière : recueil de comédies, rares ou peu connues, jouées de 1650 à 1680 ...", Paris, Librairie de Firmin Didot Frères, Fils et compagnie, 1863. Tome premier. pp. 221-238</note>
+<body>
+<div1 type="acte" n="1"><head>LES BÊTES RAISONNABLES </head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="1">Quitte ces lieux, Ulysse, où ton coeur abattu</l>
+	<l id="2">Aux charmes de Circé fait céder ta vertu.</l>
+	<l id="3">Il est temps de revoir te chère Pénélope.</l>
+	<l id="4">Sors de ce labyrinthe où l'amour t'enveloppe,</l>
+	<l id="5">De cette île enchantée où cent monstres divers</l>
+	<l id="6">Te font appréhender un semblable revers.</l>
+	<l id="7">Tel pour avoir servi son amoureuse flamme...</l>
+	<l id="8" syll="4" part="i">Mais Circé vient...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Circé, Ulysse.	
+</stage>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="8" syll="6" part="m">Ulysse est bien pensif.</l>	
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="8" syll="2" part="f">Madame,</l>
+	<l id="9">L'ennui que je ressens de vous abandonner</l>
+	<l id="10">Vous devrait empêcher de vous en étonner.</l>
+	<l id="11">Les destins ont rendu mon départ nécessaire ;</l>
+	<l id="12" syll="4" part="i">Il faut partir.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="12" syll="8" part="f">Crains-tu si peu pour me déplaire ?</l>
+	<l id="13">Ton bonheur n'est-il pas dans cette île parfait ?</l>
+	<l id="14">N'y possèdes-tu pas tous les biens à souhaits ?</l>
+	<l id="15">Mon coeur n'est pas un bien qui te puisse suffire !</l>
+	<l id="16" syll="6" part="i">Tu veux m'abandonner !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="16" syll="6" part="f">Quoi que vous puissiez dire,</l>
+	<l id="17">Jamais un bien présent ne nous rend satisfaits :</l>
+	<l id="18">La crainte et le désir, par de divers effets,</l>
+	<l id="19">Jusque dans l'avenir emportant nos pensées,</l>
+	<l id="20">Nous cachent le présent et les choses passées, </l>
+	<l id="21">Et font que l'on voit moins, dans cet état contraint,</l>
+	<l id="22">Les biens dont on jouit que les maux que l'on craint.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="23">Quelle craint en ces lieux te peut troubler ? Demande,</l>
+	<l id="24">Souhaite, parle, agis, et si tu veux, commande,</l>
+	<l id="25" syll="6" part="i">Et ne me quitte point.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="25" syll="6" part="f">Que ces pleurs ont d'appas !</l>
+	<l id="26">Cessez de les verser, ou ne vous fâchez pas</l>
+	<l id="27">Si, plutôt que de voir de si charmantes larmes,</l>
+	<l id="28">Ma fuite garantit ma vertu de leurs charmes.</l>
+	<l id="29">Mais, ô Dieux ! Quels objets se présentent à moi !</l>
+<stage type="entrance">Ici se présentent quatre animaux.</stage>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="30">Ces animaux jadis se sont vus comme toi :</l>
+	<l id="31">Cet âne que tu vois était docteur ; la biche</l>
+	<l id="32">Était femme d'un grec qui fut jadis fort riche ;</l>
+	<l id="33">La lion fut valet, le cheval courtisan?</l>
+	<l id="34">Qui fut de la vertu le premier partisan.</l>
+	<l id="35" syll="6" part="i">Je les ai transformés.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="35" syll="6" part="f">Que leur malheur me touche !</l>
+	<l id="36">Madame, vous pouvez d'un mot de votre bouche,</l>
+	<l id="37" syll="6" part="i">Faire changer leur sort.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="37" syll="6" part="f">Il est vrai je le puis.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="38">Au nom de notre amour dissipez leurs ennuis ?</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="39">Ne faut-il que cela pour contenter Ulysse ?</l>
+	<l id="40">J'y consens : il n'est rien que pour toi je ne fisse.</l>
+	<l id="41">Tu pourras leur parler dans peu fort librement ; </l>
+	<l id="42">Je vais les envoyer ici dans un moment,</l>
+	<l id="43">Tels qu'ils étaient avant cette métamorphose,</l>
+	<l id="44" syll="1" part="i">Mais...</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="44" syll="1" part="m">Quoi !</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="44" syll="10" part="f">Tu dois aussi me promettre une chose,</l>
+	<l id="45">Autrement je ne puis t'accorder un tel point :</l>
+	<l id="46">C'est à condition qu'ils ne changeront point,</l>
+	<l id="47" syll="6" part="i">Si leur coeur n'y consent.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="47" syll="6" part="f">Elle a trop de justice.</l>
+	<l id="48" syll="6" part="i">Pour n'y pas consentir.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="48" syll="6" part="f">Tu vas les voir Ulysse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> La Docteur, Ulysse.
+</stage>
+<note type="C">La scène 3 n'a pas été conservée dans l'édition consultée.</note>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="49">Devenir homme ! Ô dieux ! Quel comble de malheurs !</l>
+	<l id="50">Qui pourrait s'empêcher de répandre des pleurs ?</l>
+	<l id="51" syll="6" part="i">Quel fatal contre-temps !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="51" syll="6" part="f">Cesse de les répandre ;</l>
+	<l id="52">Écoute auparavant ce que je veux t'apprendre :</l>
+	<l id="53">Si ton coeur n'y consent tu ne saurais changer.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="54">Je respire à ces mots, et suis hors de danger.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="55" syll="3" part="i">Quel danger ?</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="55" syll="6" part="f">Quel danger d'être parmi le monde ?</l>
+	<l id="56">Plutôt qu'y retourner que le ciel me confonde !</l>
+	<l id="57">Je sais ce qu'en vaut l'aune et n'y retourne plus. </l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="58">Qui peut autoriser un semblable refus ?</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="59">Si pour m'autoriser l'exemple peut suffire,</l>
+	<l id="60">J'en ai deux_mille en mains que je vais te décrire :</l>
+	<l id="61">Mon sort te semblera si beau, si glorieux,</l>
+	<l id="62">Que tu verras qu'il fut envié par les Dieux !</l>
+	<l id="63">Jupin, de tous les Dieux le premier et le maître,</l>
+	<l id="64">Envia les plaisirs attachés à cet être,</l>
+	<l id="65">Et trouva notre sort si charmant et si beau</l>
+	<l id="66">Qu'il se changea lui même une fois en taureau ;</l>
+	<l id="67">Et Junon souhaitant une forme nouvelle,</l>
+	<l id="68">Voulut paraître un jour nourrice de Sémèle.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="69">Mais quoi ! Ce sont des Dieux ; ils font ce qui leur plaît.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="70">Mais pour être éclairci quitte ton intérêt ;</l>
+	<l id="71">Chaque Dieu mille fois en une autre nature</l>
+	<l id="72">De celles qu'il aimait a changé la figure :</l>
+	<l id="73">Daphné par Apollon fut changée en laurier,</l>
+	<l id="74">Io le fut en vache, et l'on ne peut nier</l>
+	<l id="75">Que Proserpine même, avec sa blonde tresse,</l>
+	<l id="76">Par le seigneur Pluton fut changée en diablesse ;</l>
+	<l id="77">Et je crois que Pluton fit fort facilement</l>
+	<l id="78">Et sans aucun effort ce dernier changement,</l>
+	<l id="79">Car l'on assurer que la double traîtresse</l>
+	<l id="80">Étant femme elle était du moins demi-diablesse.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="81">Pourquoi tant mépriser le destin des humains ?</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="82">M'en demander la cause, et pourquoi je m'en plains !</l>
+	<l id="83">C'est pour le peu d'état que le plupart des hommes</l>
+	<l id="84">Font des habiles gens dans le siècle où nous sommes.</l>
+	<l id="85">Il n'est point de science à qui quelque lourdaud,</l>
+	<l id="86">Faisant le bel esprit, n'attribue un défaut : </l>
+	<l id="87">Tels, faisant les Catons et les grands politiques,</l>
+	<l id="88">Les nomment des poisons et des pestes publiques,</l>
+	<l id="89">Sans même en excepter mathématicien, </l>
+	<l id="90">Philosophe, orateur, ou bien géotien ;</l>
+	<l id="91">Grammairien, docteur, theurgien, cosmimètre,</l>
+	<l id="92">Astronome, devin, médecin, géomètre,</l>
+	<l id="93">Métoposcope, poète ou chiromancien,</l>
+<note type="L">Géomancien : Celui, celle qui pratique la géomancie : Art prétendu de deviner l'avenir en jetant une poignée de poussière ou de terre au hasard sur une table, pour juger des événements futurs par les lignes et les figures qui en résultent. [L]</note>
+	<l id="94">Alchimiste, astrologue, ou géomancien ;</l>
+	<l id="95">Et, pour une raison et meilleure et dernière,</l>
+<note type="L">Péculier : Particulier ; privilégié [L]</note>
+	<l id="96">Sans une exception pour moi péculière.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="97">Les plaisantes raisons que vous m'alléguez là !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="98">Ergo, ce syllogisme est fait en barbara :</l>
+	<l id="99">Je soutiens et conclus, dans le siècle où nous sommes,</l>
+	<l id="100">Qu'il vaut mieux mille fois être ânes que d'être hommes.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="101">Quel était ton emploi devant un tel malheur ?</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="102" syll="6" part="i">Dites plutôt bonheur.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="102" syll="3" part="m">Bonheur soit. </l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="102" syll="3" part="f">De docteur.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="103">Et depuis qu'en ces lieux Circé changea ton être,</l>
+	<l id="104">En quel autre animal t'a-t-elle fait paraître ?</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="105" syll="4" part="i">En âne qui...</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="105" syll="8" part="f">Suffit, je m'étais bien douté</l>
+	<l id="106">Que le raisonnement que tu m'as apporté</l>
+	<l id="107">Ne pouvait pas venir d'un autre qu'un âne.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="108">Je maintiens ma raison et bonne et diaphane.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="109" syll="6" part="i">Mais te changer en âne !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="109" syll="6" part="f">Oui ; t'en étonnes-tu ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="110">Un animal abject, stupide, sans vertu !</l>
+	<l id="111">Ma surprise en ces lieux se trouve sans seconde.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="112">Comment s'en étonner ? Il en est tant au monde !</l>
+	<l id="113">Ânes dedans le ville, ânes dans le faubourg,</l>
+	<l id="114">Ânes dans le province, ânes dedans la cour,</l>
+	<l id="115">Ânes dedans les champs, ânes aux compagnies,</l>
+	<l id="116">Ânes dedans les bals, ânes aux comédies,</l>
+	<l id="117">Ânes fort négligés, ânes fort ajustés,</l>
+	<l id="118">Mélancolique, gais, sérieux, éventés ;</l>
+	<l id="119">Ânes dans les barreaux, ânes dans les écoles,</l>
+	<l id="120">Ânes dans les effets, ânes dans les paroles,</l>
+	<l id="121">Ânes dedans la chaise aux universités,</l>
+	<l id="122">Ânes petits et grands, bâtés et non bâtés,</l>
+	<l id="123">Ânes sans changement et sans métamorphose,</l>
+	<l id="124">Enfin ânes partout ; je ne vois autre chose.</l>
+	<l id="125">C'est pourquoi j'aime mieux être bêtifié</l>
+	<l id="126" syll="4" part="i">Que d'être homme.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="126" syll="8" part="f">Ce fou devrait être lié :</l>
+	<l id="127">De tout raisonnement cet homme est incapable,</l>
+	<l id="128">À son dam. Celui-ci sera plus raisonnable,</l>
+	<l id="129">Et comme il me paraît un peu moins avisé,</l>
+	<l id="130">De le persuader il sera plus aisé.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Philipin, Ulysse.
+</stage>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="131">Qui diable m'a rendu ma première figure ?</l>
+	<l id="132">Je ne suis plus lion, ah ! L'étrange aventure !</l>
+	<l id="133">J'ai beau me regarder, il n'est rien si certain ;</l>
+	<l id="134">Je l'étais toutefois encore ce matin.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="135">C'est à moi que tu dois une faveur si grande.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="136" syll="4" part="i">À vous, Monsieur !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="136" syll="2" part="m">À moi.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="136" syll="6" part="f">Le Diable vous le rende !</l>
+	<l id="137">Mais comme donc à vous ? Êtes vous l'héritier</l>
+	<l id="138">De la belle Circé ? Savez-vous le métier ?</l>
+	<l id="139">Avez-vous acheté sa charge de sorcière ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="140">Que cet homme est grossier, qu'il a peu de lumière !</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="141">Puisque vous avez eu tant de bonté pour moi,</l>
+	<l id="142">Et que vous m'avez mis dans l'état que je vois,</l>
+	<l id="143">Par une faveur grande, illustre, et peu commune,</l>
+	<l id="144">Eh ! De grâce, Monsieur, faites m'en encore une :</l>
+	<l id="145" syll="6" part="i">Que je retourne en bête !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="145" syll="" part="f">Ah ! Discours ennuyeux !</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="146">Qui peut faire un plaisir en peut bien faire deux.</l>
+	<l id="147" syll="6" part="i">Faut-il tant de façons ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="147" syll="6" part="f">Mais quoi, perfide traître,</l>
+	<l id="148">Préférer les plaisirs attachés à cet être </l>
+	<l id="149" syll="" part="i">Aux charmantes douceurs ?...</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="149" syll="6" part="f">Mais, Monsieur, s'il vous plaît,</l>
+	<l id="150">De grâce laissez là le monde comme il est.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="151">Te faire une faveur, c'est donc te faire injure !</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="152">Je me trouve, Monsieur, fort bien de ma nature :</l>
+	<l id="153" syll="6" part="i">Que je ne change point.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="153" syll="6" part="f">Quoi ! Tu peux mépriser !...</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="154">Monsieur, ne songez point à me désabuser :</l>
+	<l id="155" syll="6" part="i">Ce serait temps perdu.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="155" syll="6" part="f">La plus parfaite image</l>
+	<l id="156">De la divinité ! Son plus parfait ouvrage.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="157">L'honnête homme, Monsieur, comme on dit aujourd'hui,</l>
+	<l id="158">Ne se mêla jamais des affaires d'autrui.</l>
+<stage type="aparte">À part.</stage>
+	<l id="159">Je croyais que ce fut un homme, c'est un diable,</l>
+	<l id="160" syll="6" part="i">Il faut bien qu'il le soit.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="160" syll="6" part="f">Un chef d'oeuvre admirable</l>
+	<l id="161">Peut donc être à tes yeux un objet de mépris !</l>
+	<l id="162">L'homme dont la valeur est sans borne et sans prix</l>
+	<l id="163">Te semble moins heureux que l'état d'une bête ?</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="164" syll="3" part="i">Mais, Monsieur...</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="164" syll="9" part="f">Qui peut donc t'avoir mis à la tête</l>
+	<l id="165">Un si bas sentiment du destin des humains ?</l>
+	<l id="166" syll="6" part="i">. . . . . . . . . . . . . </l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="166" syll="6" part="f">Lorsque j'étais en Grèce,</l>
+	<l id="167">La plus lâche poltron, le plus efféminé</l>
+	<l id="168">M'a fait trembler de peur ; mais le chance a tourné,</l>
+	<l id="169">Car maintenant c'est moi qui fait trembler les autres.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="170">Quoi ! Tu peux préférer de tels destins aux nôtres : </l>
+	<l id="171" syll="6" part="i">Des bêtes sans raison ?</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="171" syll="6" part="f">Parlez-en comme il faut,</l>
+	<l id="172">Monsieur,  que savez-vous quel est votre défaut ?</l>
+	<l id="173">Tel est bête souvent qui ne pense pas l'âtre.</l>
+	<l id="174">Avec votre destin, votre sort, et votre être,</l>
+	<l id="175" syll="6" part="i">Vous me la baillez belle :</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="175" syll="6" part="f">En est-il de plus fou</l>
+	<l id="176" syll="4" part="i">Que ce dernier ?</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="176" syll="2" part="m">Monsieur !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="176" syll="3" part="m">Que veux-tu ?</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="176" syll="3" part="f">Savez-vous </l>
+	<l id="177">Pourquoi partout le monde on inventa le mode</l>
+	<l id="178" syll="6" part="i">De se faire servir ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="178" syll="6" part="f">C'est qu'elle est fort commode.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="179">Il vous en faut, ma foi, de la commodité :</l>
+	<l id="180">Est-il après cela chez vous de l'équité ?</l>
+	<l id="181">Non, car les animaux, les plus débiles mêmes ;</l>
+	<l id="182">Qui valent mieux que vous, se servent bien eux-mêmes :</l>
+	<l id="183">Un lion ne sert point un lion ; un cheval,</l>
+	<l id="184" syll="6" part="i">Ne sert point un cheval.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="184" syll="6" part="f">C'est notre plus grand mal </l>
+	<l id="185">D'être toujours contraints d'avoir à notre suite</l>
+	<l id="186">Des brutaux, des coquins, sans soin et sans conduite,</l>
+	<l id="187">Des traîtres, ne sont bons qu'à noyer.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="188">On n'est jamais blâmé que par ceux du métier.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="189">Je veux, en quatre mots, sans parler de services,</l>
+	<l id="190">De tous les animaux te faire voir les vices,</l>
+	<l id="191">Afin que ton esprit, connaissant leur défaut,</l>
+	<l id="192">Puisse dans ce moment en juger comme il faut :</l>
+	<l id="193">Le tigre est trop cruel,l'ours est trop plein de rage,</l>
+	<l id="194">Le sanglier affreux aime trop le carnage,</l>
+	<l id="195">Le cheval est trop fier, le renard est trop fin,</l>
+	<l id="196">Le loup est carnassier, le singe trop badin,</l>
+	<l id="197">Le lion trop fougueux, et l'âne trop stupide,</l>
+	<l id="198">L'éléphant trop pesant, le lièvre trop timide,</l>
+	<l id="199">Le chameau, comme on sait, est trop vindicatif,</l>
+	<l id="200">Le bouc est trop vilain, et le cerf trop craintif ;</l>
+	<l id="201">Il n'est point d'animaux sans des défauts semblables,</l>
+	<l id="202" syll="6" part="i">Tous sont des monstres enfin.</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="202" syll="6" part="f">Et les hommes tous diables.</l>
+	<l id="203">Pour mieux répondre encor, chacun des animaux</l>
+	<l id="204">N'a jamais pour le plus qu'un seul de ces défauts ;</l>
+	<l id="205">Mais s'il m'en souvient, les hommes, ce me semble,</l>
+	<l id="206">Ont pour le plus souvent tous les vices ensembles</l>
+	<l id="207">Tel est larron, cruel, traître, fou, babillard,</l>
+<note type="L">Paillard : Personne de vie dissolue. [L]</note>
+	<l id="208">Rusé, méchant, fougueux, fourbe, badin, paillard ;</l>
+	<l id="209">Tel autre est orgueilleux, imposteur, homicide,</l>
+	<l id="210">Tel autre cauteleux, et flatteur, et timide,</l>
+	<l id="211">Tel autre médisant, et fait le fanfaron,</l>
+	<l id="212">Tel autre grand causeur, mercenaire et poltron,</l>
+	<l id="213">Tel autre est rapporteur, incommode, bizarre,</l>
+	<l id="214">Tel autre téméraire, importun, fat, avare,</l>
+	<l id="215">Sans compter tous les sots dont je ne parle pas.</l>
+	<l id="216">Pour toutes ces raisons je m'en vais de ce pas ;</l>
+	<l id="217" syll="4" part="i">Adieu, Monsieur.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="217" syll="8" part="f">Nommer cette petite faveur ?</l>
+	<l id="218" syll="6" part="i">Tu ne mérites pas...</l>
+</sp>
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
+	<l id="218" syll="6" part="f">Je renonce au mérite ; </l>
+	<l id="219">Je ne mérite rien, Monsieur, assurément.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="220">Je ne puis revenir de mon étonnement.</l>
+	<l id="221" syll="6" part="i">Mais j'aperçois Circé.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Circé, Ulysse.
+</stage>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="221" syll="6" part="f">Qu'à fait l'adroit Ulysse ?</l>
+	<l id="222">À combien de cette île a-t-il rendu service ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="223">À pas un jusqu'ici : dans leur aveuglement</l>
+	<l id="224" syll="8" part="i">Ils préfèrent leur être au nôtre.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="224" syll="4" part="f">Assurément</l>
+	<l id="225">Ulysse n'a pas fait agir son éloquence.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="226">Mon coeur est si surpris de leur extravagance</l>
+	<l id="227">Qu'il doute que Circé, dans un tel changement,</l>
+	<l id="228">Leur ait, avec leur corps, rendu leur jugement.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="229">Ulysse, ce reproche est trop plein d'injustice :</l>
+	<l id="230">Je consens à tes yeux que le Ciel me punisse</l>
+	<l id="231">Si tu ne les as vus, dans ce même moment,</l>
+	<l id="232">Tel que le Ciel les fit avant leur changement.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="233" syll="6" part="i">Il les fit donc bien fous !</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="233" syll="6" part="f">C'est une maladie</l>
+	<l id="234">Dont beaucoup sont atteints pendant toute leur vie.</l>
+	<l id="235" syll="4" part="i">Mais ce docteur ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="235" syll="8" part="f">Les dieux voulant vous obliger</l>
+	<l id="236">Connaissant bien qu'en âne on le devait changer,</l>
+	<l id="237">Y travaillèrent tous, sans doute, par avance.</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="238">Cessons de raisonner sur leur extravagance :</l>
+	<l id="239">Pour t'ôter tout sujet de te plaindre de moi,</l>
+	<l id="240">Je veux faire en ce jour encor plus pour toi ;</l>
+	<l id="241">Je vais t'en envoyer deux autres, et ta peine.</l>
+	<l id="242">Peut-être cette fois ne sera pas si vaine.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="243" syll="6" part="i">Que vos rares bontés !...</l>
+</sp>
+<sp who="CIRCÉ"><speaker>CIRCÉ.</speaker>
+	<l id="243" syll="6" part="f">Lorsque l'on aime bien,</l>
+	<l id="244">Il est bien malaisé que l'on refuse rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="245">Ceux qui viennent seront plus traitables peut-être,</l>
+	<l id="246">Car pour moins, je sais bien qu'ils ne peuvent pas l'être.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Ulysse, Céphise.
+</stage>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="247">Si je ne suis déçu, je vois quelqu'un venir ;</l>
+	<l id="248">C'est une femme, ô Dieux ! Je veux l'entretenir.</l>
+	<l id="249" syll="6" part="i">Si je peux obliger...</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="249" syll="6" part="f">J'ai changé de figure ;</l>
+	<l id="250">De biche que j'étais je suis femme, et je jure</l>
+	<l id="251">Que je ne sais à qui l'avantage en est dû.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="252" syll="4" part="i">À moi, Madame.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="252" syll="8" part="f">À toi ? De quoi te mêles-tu ?</l>
+	<l id="253">M'avoir tiré d'un être agréable, paisible,</l>
+	<l id="254" syll="6" part="i">Doux, charmant, sans ennuis !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="254" syll="6" part="f">Ce reproche est sensible </l>
+	<l id="255">À qui n'a prétendu que de vous obliger.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="256">Tu crois donc m'obliger en me faisant changer ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="257">Sans doute, car enfin quelles douceurs cet être</l>
+	<l id="258" syll="6" part="i">Peut-il avoir pour vous ?</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="258" syll="6" part="f">Tu ne les peux connaître.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="259">Si j'ignore les biens qu'ici vous possédez,</l>
+	<l id="260">Du moins connais-je bien tous ceux que vous perdez.</l>
+	<l id="261">Est-il rien de plus heureux que l'état d'une femme ?</l>
+	<l id="262">Quels soucis, quels ennuis peuvent troubler son âme ?</l>
+	<l id="263">C'est une sexe qui fut de tout temps adoré,</l>
+	<l id="264">Aimé, chéri de tous, estimé, révéré,</l>
+	<l id="265">Plein d'esprit, plein de feu, galant, parfait, sincère,</l>
+	<l id="266">Sans vanter sa beauté, car elle est ordinaire.</l>
+	<l id="267">Ce beau sexe qui fait, par cent charmes divers,</l>
+	<l id="268">Le plus belle moitié de ce vaste univers,</l>
+	<l id="269">DE toutes les faveurs que le ciel nous a faites</l>
+	<l id="270" syll="6" part="i">Est seul incomparable.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="270" syll="6" part="f">Ah ! Trêve de fleurettes !</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="271">Sa vertu, sa prudence et sa discrétion</l>
+	<l id="272">Causent à tous moments notre admiration.</l>
+	<l id="273">Les hommes les plus fiers, épris de tant de charmes,</l>
+	<l id="274">Cèdent avec plaisir et mettent bas les armes,</l>
+	<l id="275">Et plus_ou_moins vos coeurs ont la bonté pour eux,</l>
+	<l id="276">Plus_ou_moins leurs destins leur semblent bienheureux.</l>
+	<l id="277">De tous les immortels les plus parfaits ouvrages</l>
+	<l id="278">N'ont rien de comparable à ces grands avantages.</l>
+	<l id="279">Sans ce sexe, qui peut tout charmer, en ce jour,</l>
+	<l id="280">L'homme n'eut jamais su ce que c'est que l'amour ;</l>
+	<l id="281">Il faut, pour être heureux, être épris de sa flamme :</l>
+	<l id="282">Un homme sans amour est un corps privé d'âme,</l>
+	<l id="283">Et comme ce beau sexe entre tient notre amour,</l>
+	<l id="284">Sans lui rien ne pourrait nous conserver le jour.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="285">Où trouver maintenant l'avantage d'une être. </l>
+	<l id="286">Si, presque à tout moment, l'homme s'érige en maître,</l>
+	<l id="287">Veut avoir le dessus ? Encore pour cela</l>
+	<l id="288" syll="2" part="i">Passe.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="288" syll="10" part="f">Le beau discours que vous m'alléguez là !</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="289">Il est vrai qu'étant fille, alors que l'on peut plaire,</l>
+	<l id="290">On a quelque bon temps, mais il ne dure gère,</l>
+	<l id="291">Et quand le mariage a conjoint deux amants,,</l>
+	<l id="292">Une femme, ma foi, passe bien mal son temps.</l>
+	<l id="293">Après cinq ou six nuit, bonsoir : la jalousie.</l>
+	<l id="294">Des hommes bien souvent brouille la fantaisie ;</l>
+	<l id="295">Il faut être sujette à ces hommes brutaux,</l>
+	<l id="296">Volages, inconstant, parjures, inégaux :</l>
+	<l id="297" syll="6" part="i">Cela fait enrager.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="297" syll="6" part="f">Il est cent mille femmes</l>
+	<l id="298">Pour qui tous leurs maris voudraient donner leurs âmes.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="299">Une autre chose m'embarrasse l'esprit :</l>
+	<l id="300">Quand de se divertir une femme a le bruit;</l>
+	<l id="301">On la tient aussitôt couverte d'infamie ;</l>
+	<l id="302">Mais les hommes, oui-dà, c'est la galanterie !</l>
+	<l id="303">Quelle en est la raison ? Et pourquoi devez-vous,</l>
+	<l id="304">Alors que bon vous semble, avoir cela sur nous ?</l>
+	<l id="305">. . . . . . . . . . . . . . . . . . . . .</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="306">Je vais en quatre mots vous répondre à ces choses ;</l>
+	<l id="307">Si notre sexe au vôtre est toujours préféré,</l>
+	<l id="308">C'est que l'esprit de l'homme est bien plus éclairé,</l>
+	<l id="309">Plus solide, plus fort, et moins sujet au change.</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="310">Plus éclaire, dis-tu ? Bons Dieux ! Le chose étrange !</l>
+	<l id="311">Il en est parmi nous qui, plus d'un an durant,</l>
+	<l id="312">Instruisaient aisément l'homme le plus savant.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="313" syll="2" part="i">Mais qui ?</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="313" syll="10" part="f">Cette Cassandre à la ville de Troie</l>
+	<l id="314">A prédit ses destins, ses malheurs et sa joie ;</l>
+	<l id="315">De plus, elle a prédit qu'un jour une Sapho</l>
+	<l id="316">Deviendrait l'ornement d'une siècle tout nouveau,</l>
+	<l id="317">Et qu'aussi tôt après une telle naissance,</l>
+	<l id="318">L'agrément, la vertu, l'esprit et la science</l>
+	<l id="319" syll="6" part="i">Tomberaient en quenouille.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="319" syll="6" part="f">Ah ! Le plaisant discours !</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="320">Oui, j'aime mieux cent fois voir abréger mes jours</l>
+	<l id="321" syll="6" part="i">Que de devenir femme.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="321" syll="6" part="f">Ah ! Qu'elle est insensée !</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="322">D'un si long entretien je me sens offensée ;</l>
+	<l id="323" syll="2" part="i">Adieu.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="323" syll="4" part="m">Deux mots encor...</l>
+</sp>
+<sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
+	<l id="323" syll="6" part="f">Je vais prier Circé</l>
+	<l id="324" syll="6" part="i">De vouloir me changer.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="324" syll="6" part="f">Ô Dieux ! Qui l'eut pensé ? </l>
+	<l id="325">Être bête est donc si grand avantage ?</l>
+	<l id="326">Tous ces gens sont bien fous, ou je suis bien peu sage.</l>
+	<l id="327">Il faut bien que Circé ne leur ai pas rendu</l>
+	<l id="328">Leur esprit, mais que dis-je, ils n'en ont jamais eu,</l>
+	<l id="329">Ils sont fous naturels. Quelqu'un s'offre à ma vue ;</l>
+	<l id="330">Ma peine dans ces lieux ne sera pas perdue,</l>
+	<l id="331">Si j'en oblige un seul à vouloir conserver</l>
+	<l id="332">Le bel être où les Dieux avaient su l'élever.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Dipus, Ulysse.
+</stage>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="333">Laquais, où diable suis-je ? Ou bien je n'y vois goutte,</l>
+	<l id="334" syll="9" part="i">Ou je ne suis plus bête à présent.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="334" syll="3" part="f">Il en doute !</l>
+	<l id="335">Il vaut bien deux témoins en cette occasion.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="336">De qui puis-je savoir par quelle nation</l>
+	<l id="337">Cette île est habitée ? Ah ! J'aperçois un homme.</l>
+	<l id="338">Pouvez-vous m'enseigner comment ce lieu se nomme ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="339">C'est l'île de Circé ; pour votre changement,</l>
+	<l id="340">L'amour qu'elle ressent pour moi dans ce moment </l>
+	<l id="341" syll="3" part="i">L'a causé.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="341" syll="9" part="f">Vous aimez cette infâme sorcière ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="342">Oui, je l'aime, et de plus, ce n'est qu'à ma prière</l>
+	<l id="343" syll="10" part="i">Qu'elle vous a remis dans cet être.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="343" syll="2" part="f">Sais tu</l>
+	<l id="344">Qu'elle n'a jamais su ce que c'est que vertu ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="345">Les vertus pour l'amour n'ont que de faibles armes :</l>
+	<l id="346">Elles sont contre lui sans pouvoir et sans charmes,</l>
+	<l id="347">Et lorsque nous aimons, nous ne regardons pas,</l>
+	<l id="348">Pourvu que notre objet ait pour nous des appas,</l>
+	<l id="349">S'il a tant de vertus ; car pour  lors, notre flamme</l>
+	<l id="350">Exile pour jamais la raison de notre âme,</l>
+	<l id="351">Et ne consulte rien en cette occasion</l>
+	<l id="352">Que notre aveuglement et notre passion. </l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="353">Pourquoi m'as-tu remis dans ma forme première ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="354" syll="4" part="i">Pour t'emmener.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="354" syll="8" part="f">Plutôt je perdrais la lumière.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="355" syll="6" part="i">Quelle en est la raison ?</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="355" syll="6" part="f">Sais-tu bien qui je fus ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="356" syll="1" part="i">Non.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="356" syll="11" part="f">Je fus courtisan à la Cour de Picus.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="357">Cette condition est fort avantageuse</l>
+	<l id="358" syll="6" part="i">Et pleine de douceur.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="358" syll="6" part="f">Dis plutôt malheureuse.</l>
+	<l id="359">Quoi ! Je pourrais, après ce qui m'est arrivé,</l>
+	<l id="360">REtourner à la Cour où je fus élevé,</l>
+	<l id="361">Où les meilleurs moeurs devenaient corrompues ;</l>
+	<l id="362">Où toutes les vertus n'étaient jamais connues,</l>
+	<l id="363">Où, pour tout dire enfin, avec impunité</l>
+	<l id="364">Se pratiquaient le vice et la méchanceté ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="365">La Cour est l'ornement des endroits qu'elle occupe ?</l>
+	<l id="366" syll="6" part="i">Et le bonheur du peuple.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="366" syll="6" part="f">À d'autres ! Une dupe.</l>
+	<l id="367">Demeurerait d'accord d'un semblable discours :</l>
+	<l id="368">Mais je sais le dégât qu'elle cause toujours.</l>
+	<l id="369">Lorsque les courtisans passent par une ville,</l>
+	<l id="370">Le soin qu'on prend pour eux est toujours inutile :</l>
+	<l id="371">On a beau les servir et les bien recevoir,</l>
+	<l id="372">Être dans le respect, être dans le devoir,</l>
+	<l id="373">Oui, par tout le pays qui leur sert de passage</l>
+	<l id="374">Ils font un tel dégât, ils font un tel ravage,</l>
+	<l id="375">Lorsqu'ils sentent venir leur départ à peu près,</l>
+	<l id="376">Qu'il y paraît toujours près de neuf mois après...</l>
+	<l id="377">On a beau leur cacher les femmes et les filles,</l>
+	<l id="378">Dire qu'il ne faut pas diffamer les familles,</l>
+	<l id="379">Qu'il faut ne point piller, point causer de malheur,</l>
+	<l id="380">Éviter le désordre et vivre avec douceur,</l>
+	<l id="381">Qu'il faut de leur pays observer la police,</l>
+	<l id="382">Malgré toutes les lois et toute leur justice,</l>
+	<l id="383">Ces discours et ces soins sont toujours superflus,</l>
+	<l id="384">La réprimande est vaine, ils passent par-dessus.</l> 
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="385">Si toujours le mépris d'une semblable vie</l>
+	<l id="386">D'y retourner jamais t'a fait perdre l'envie,</l>
+	<l id="387">Ton coeur dans ce moment ne doit pas mépriser</l>
+	<l id="388">La raison que j'apporte à te désabuser :</l>
+	<l id="389">Apprends donc que les Dieux et leurs sacrés oracles</l>
+	<l id="390">Te feront voir la fin de tous ces grands obstacles ;</l>
+	<l id="391">Qu'ils promettent au monde un monarque nouveau,</l>
+	<l id="392">Indomptable, vaillant, vertueux, parfait, beau,</l>
+	<l id="393">Généreux, et de qui la célèbre alliance</l>
+	<l id="394">Mettra toute le terre en bonne intelligence ;</l>
+	<l id="395">Qu'il doit être l'appui des temples de Thémis,</l>
+	<l id="396">Qu'il sera redouté de tous ses ennemis,</l>
+	<l id="397">Un autre Hercule enfin, qui, né par un miracle,</l>
+	<l id="398">Ne doit à sa valeur jamais trouver d'obstacle ;</l>
+	<l id="399">Que, pour lors, les vertus banniront de sa Cour</l>
+	<l id="400">Les vices enchaînés, pour régner à leur tout.</l>
+	<l id="401">Enfin ce Mars qu'un jour la terre aura pour maître,</l>
+	<l id="402">A fait des envieux même avant de naître.</l>
+	<l id="403">Pour combler de bonheur ce règne glorieux</l>
+	<l id="404">Un ministre prudent est promis par les Dieux,</l>
+	<l id="405">Des les exploits fameux, les vertus et la gloire</l>
+	<l id="406">Sont gravés par avance au temple de mémoire. </l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="407">Ah ! Si je le savais je serais consolé.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage> prononce l'Oracle.
+	</stage>
+	<l id="408">Écoute donc comment l'oracle en a parlé.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="409">Ne me fais point languir, dépêche de m'apprendre</l>
+	<l id="410">Dès ce même moment ce qu'on en peut attendre.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage> prononce l'Oracle.
+</stage>
+<stage type="title">ORACLE.</stage>
+	<l id="411">Un prince deux fois couronné</l>
+	<l id="412">Rendra son règne fortuné,</l>
+	<l id="413">Sera craint et chéri sur la terre et sur l'onde,</l>
+	<l id="414">C'est un arrêt des Dieux. Les Vertus et l'Amour</l>
+	<l id="415">Sous son beau règle quelque jour</l>
+	<l id="416">Rendront la paix à tout le monde.</l>
+	<l id="417">Ce monarque aura pour appuis</l>
+	<l id="418">Un ministre digne de lui,</l>
+	<l id="419">Et le peuple, en ce temps plus heureux que le nôtre,</l>
+	<l id="420">Goûtera les douceurs d'un bonheur peu commun,</l>
+	<l id="421">Puisqu'il aura le bras de l'un</l>
+	<l id="422">Et les sage conseils de l'autre.</l>
+</sp>
+<sp who="DIPUS"><speaker>DIPUS.</speaker>
+	<l id="423">Ah ! Puisqu'il est ainsi, si tu peux m'obliger</l>
+	<l id="424">Jusqu'à forcer Circé de ne me plus changer,</l>
+	<l id="425">L'espérance que j'ai de voir un tel monarque</l>
+	<l id="426">Ma rendra satisfait, si toutefois la Parque</l>
+	<l id="427">Devant un tel bonheur n'abrège point mes jours.</l>
+	<l id="428">Partons, abandonnons cette île pour toujours.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

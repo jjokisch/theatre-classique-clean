@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>PREMIER DIALOGUE DES JEUX CHAMPÊTRES, COMÉDIE</title>
+				<author type="text" ISNI="0000 0001 2138 6051">GENLIS, Stéphanie-Félicité Du Crest de (1746-1830)</author>
+			</titleStmt>
+			<publicationStmt>
+				<editor>Texte établi par Paul Fièvre, décembre 2018.</editor>
+				<publisher>Publié par Paul FIEVRE, janvier 2023.</publisher>
+				<idno>GENLIS_PREMIERDIALOGUE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>dialogue</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1821-1830</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF ARS RESERVE 16-Z-23378">https://gallica.bnf.fr/ark:/12148/bpt6k15186021</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PREMIER DIALOGUE</titlePart>
+			<titlePart type="sub">DES JEUX CHAMPÊTRES DES ENFANTS</titlePart>
+		</docTitle> 
+		<docDate value="1829">1829</docDate>
+		<docAuthor id="GENLIS, Madame de"/>
+		<docImprint>
+			<printer>À PARIS, A. MARC, Libraire, Auteur et éditeur du Dictionnaire des romans, Rue Rameau N°11. Quartier du Palais Royal. </printer>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="ICÉLIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">ICÉLIE</role>, agée de 18 ans.</castItem>
+			<castItem><role id="LÉONILLE" sex="2" type="H" statut="enfant" age="E" stat_amour="néant">LÉONILLE</role>, agée de 12 ans, soeur d'Icélie.</castItem>
+			<castItem><role id="LOUIS" sex="1" type="H" statut="enfant" age="E" stat_amour="néant">LOUIS</role>, frère d'Icélie et de Léonille.</castItem>
+		</castList>
+		<set location="Campagne" country="France" periode="XVIIIème" link=""/>
+		<note>Extrait de LES JEUX CHAMPÊTRES DES ENFANTS et l'île Par Madame la Comtesse de Genlis, orné de huit gravures. TROISIÈME ÉDITION, 1829. pp. 1-7</note>
+	</front>
+<body>
+<div1 type="act" n="1"><head>PRINTEMPS, MOIS D'AVRIL.</head>
+<div2 type="scene" n="1"><head>PREMIER DIALOGUE.</head>
+<stage type="entrance/sit/read">Entre Icélie (âgée de 18 ans), Léonille (âgée de 12), soeur d'Icélie, et Louis (âgé de 10), frère d'Icélie et de Léonille. Ces trois personnages sont tous les trois assis devant une table, regardant un herbier fait par Icélie.</stage>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="1">
+	<s id="1">Ah ! </s>
+	<s id="2">Ma soeur, que ton herbier est joli !</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="2">
+	<s id="1">Joli ! </s>
+	<s id="2">Comme çà ; il n'y a ni fraises, ni cerises, ni noisettes !</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="3">
+	<s id="1">Comme tu es gourmand ! </s>
+	<s id="2">Tu ne t'embarrasses guère des fleurs ; tu ne songes qu'au solide, qu'à ce qui se mange.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<note type="L">Baguenaudier : Arbrisseau d'ornement fort commun en Europe. |L]</note>
+<p id="4">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Pas du tout, car je regrette tout autant les marrons d'Inde, les boules_de_neige, les baguenaudiers....</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Fort bien, tout ce qui te sert de joujoux.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="6">
+	<s id="1">N'est-il pas bien naturel de s'occuper de ce qui nourrit et de ce qui amuse ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="7">
+	<s id="1">Mais, en effet, cela n'est pas trop déraisonnable. </s>
+	<s id="2">Écoute, Louis : veux-tu faire un herbier d'un genre tout nouveau ? </s>
+	<s id="3">Par exemple, de toutes les plantes que tu aimes, et qui servent à tes jeux et à tes amusements ?</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="8">
+	<s id="1">Oui, oui, voilà une belle idée ; je le veux bien.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="9">
+	<s id="1">Cela sera charmant, je t'aiderai.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="10">
+	<s id="1">Et moi aussi.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="11">
+	<s id="1">Mais, c'est que nous ne savons pas faire d'herbier.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="12">
+	<s id="1">Je vous l'apprendrai ; rien n'est plus facile.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="13">
+	<s id="1">Commençons tout de suite.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="14">
+	<s id="1">Ce sera pour demain ; en vous levant vous irez chacun cueillir une plante à votre gré, vous mettrez ces fleurs entre deux feuilles de choux, vous les laisserez là deux ou trois heures, ensuite vous me les apporterez et nous les dessécherons ensemble.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="15">
+	<s id="1">Fort bien, mais tu nous promets que ce ne sera pas une leçon ? </s>
+	<s id="2">Car des leçons j'en ai bien assez, Dieu merci, et je n'ai plus d'application de reste, je t'en avertis.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="16">
+	<s id="1">Ce ne se sera qu'un badinage. </s>
+	<s id="2">Nous ferons un joli petit recueil qui ne servira qu'à te rappeler tes amusements.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="17">
+	<s id="1">Ah ! Cela m'enchante, ce recueil sera une espèce de souvenir....</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="18">
+	<s id="1">Mais pour nous deux ?</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker> 
+<p id="19">
+	<s id="1">Certainement ; tu sais bien que j'aime a partager tout avec toi.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="20">
+	<s id="1">Et moi de même.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="21">
+	<s id="1">À demain donc.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="">
+	<s id="1">Oui, ma soeur, et en attendant nous allons, Léonille et moi, faire une course dans le jardin, pour réfléchir au choix des deux plantes que nous t'apporterons demain.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

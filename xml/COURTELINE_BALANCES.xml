@@ -1,0 +1,891 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LES BALANCES, COMÉDIE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, mars 2023</editor>
+			<publisher>Publié par Paul FIEVRE, avril 2023</publisher>
+			<idno>COURTELINE_BALANCES</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1901-1910</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k56733047</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES BALANCES</titlePart>
+			<titlePart type="sub">Représentée pour la première fois au Théâtre Antoine, le 26 novembre 1901.</titlePart>
+		</docTitle> 
+		<docDate value="1929"/>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ALBIN MICHEL, ÉDITEUR, 59 RUE DES MATHURINS.</editor>
+			<printer id="BRULLIARD">Établissement André Brulliard. - Saint-Dizier (Hautes-Marne). 1929.</printer>
+		</docImprint>		
+		<performance>
+			<premiere date="1901-11-26" location="Théâtre Antoine">Représentée pour la première fois au Théâtre Antoine, le 26 novembre 1901.</premiere>
+		</performance>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LA BRIGE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LE BRIGE</role>, M. Dumény.</castItem>
+			<castItem><role id="LONJUMEL" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LONJUMEL</role>, M. Leubas.</castItem>
+			<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour="néant">L[UN DOMESTIQUE]</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de "Théâtre III" de Georges Courteline de l'Académie Goncourt, Paris, Ernest Flammarion Éditeur, 1894. pp 291-323</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LES BALANCES</head>
+<stage type="location/furniture/decor">La scène se passe chez Lonjumel. - Ameublement sobre et sombre de petit avocat de province.</stage>
+<div2 type="scene" n="1"><head/>
+<stage type="sit/location/furniture/read">Au lever du rideau, Lonjumel est en scène, assis à sa table de travail et consultant ses dossiers.</stage>
+<sp who="UN DOMESTIQUE"><speaker>UN DOMESTIQUE</speaker><stage>, sur le seuil de la porte.
+</stage>
+<p id="1">
+	<s id="1">Monsieur_La_Brige demande si monsieur est visible.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="2">
+	<s id="1">Faites entrer Monsieur_La_Brige.</s>
+</p>
+<stage type="">Entre La Brige.</stage>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Te voilà, malfaiteur ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="4">
+	<s id="1">Comment va ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="5">
+	<s id="1">Sais-tu que je me demande si je dois te donner la main. </s>
+	<s id="2">Tu deviens très compromettant.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="6">
+	<s id="">Les rideaux sont baissés.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="smile">, souriant.
+</stage>
+<p id="7">
+	<s id="1">C'est vrai.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="8">
+	<s id="1">Et puis je viens te voir en client ; ça me donne droit à des égards.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="9">
+	<s id="1">Bah ! </s>
+	<s id="2">Encore une délicatesse avec les juges de ton pays ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="10">
+	<s id="">Ne m'en parle pas !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="11">
+	<s id="1">Je me disais, aussi !... </s>
+	<s id="2">Car il y a bien six_mois que je n'ai lu ton nom dans la Gazette_des_Tribunaux ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="12">
+	<s id="1">Il y en a sept tout rond puisque nous sommes en juin et que, pour la dernière fois, j'ai écopé en décembre. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Un rien, d'ailleurs, une misère : huit_jours d'emprisonnement, vingt-cinq_francs d'amende et deux_cents_francs de dommages-intérêts, comme coupable d'avoir été traité de filou par un voleur de grands chemins.</s>
+</p>
+<stage type="laugh">Rires de Lonjumel.</stage>
+<p id="13">
+	<s id="1">Tu ris ? </s>
+	<s id="2">Je ne dis rien que je ne prouve. </s>
+	<s id="3">C'était le 5_novembre_dernier, je sortais...</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="14">
+	<s id="1">Assieds-toi.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="15">
+	<s id="1">Merci.</s>
+</p>
+<stage type="sit">Il s'assied.</stage>
+<p id="16">
+	<s id="1">Je sortais...</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="show">, lui présentant une boîte de cigarettes.
+</stage>
+<p id="17">
+	<s id="1">Fumes-tu ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="get">, prenant une cigarette.
+</stage>
+<p id="18">
+	<s id="1">Je ne fais que ça... </s>
+	<s id="2">Je sortais de Sainte-Pélagie, où j'étais demeuré un mois à l'abri des coups de soleil, rapport à un gredin qui, me devant cinq_cents_francs, avait été, par jugement en bonne et due forme, condamné à me les rembourser.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="estonish">, effaré.
+</stage>
+<p id="19">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="20">
+	<s id="1">Quoi ? </s>
+	<s id="2">Quoi.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="21">
+	<s id="1">Qu'est-ce que tu me chantes ? </s>
+	<s id="2">Tu as été mis en prison parce qu'on te devait de l'argent ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="22">
+	<s id="1">Bien entendu.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="23">
+	<s id="1">Pardonne à l'étonnement d'un avocat de province qui croyait connaître la Loi, pour lui avoir, pendant vingt ans, troussé les jupes et exploré les dessous.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="24">
+	<s id="">Les putains ont ceci de gentil qu'elles le sont toujours un peu plus qu'on ne pensait. Tel honnête homme acoquiné à une gueuse se croit à l'abri des surprises, qui demeure un beau jour stupéfait à voir son fumier embelli d'une turpitude nouvelle, et admirant par quel miracle la peste s'est faite choléra.</s>
+</p>
+<stage type="throw">Jetant sa cigarette.</stage>
+<p id="25">
+	<s id="1">Ah çà, mais c'est du coeur de chêne.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="26">
+	<s id="1">Prends-en une autre.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="27">
+	<s id="1">Pardon. </s>
+	<s id="2">Merci. </s>
+	<s id="3">- Donc Rambouille...</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="28">
+	<s id="1">Joli numéro !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="29">
+	<s id="1">Oui ; le banditisme accepté dans toute sa putréfaction, et le marloutage légitime dans toute sa fétidité. </s>
+	<s id="2">- Donc, Rambouille me devait cinq cents francs. Las de perdre mon temps à les lui réclamer, de me casser éternellement le nez à une porte éternellement close, et de m'acheminer vers la ruine, lentement, trois sous par trois sous, en inutiles frais de timbres-poste, je pris enfin le parti d'assigner devant les juges ce drôle qui ne s'attarda même pas à discuter, reconnaissant le bien-fondé de ma créance et excipant purement et simplement d'insolvabilité légale.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="30">
+	<s id="1">Quelle fripouille !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="31">
+	<s id="1">Ce honteux système de défense ne fut couronné de nul succès. </s>
+	<s id="2">- Je te demanderai une troisième cigarette ; celle-ci vient de se casser dans ma main comme du verre.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="32">
+	<s id="1">Prends donc.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="33">
+	<s id="1">Pardon. </s>
+	<s id="2">- Un jugement, dont les attendus tenaient le milieu entre le tutu et le simple caleçon_de_bain, le condamna au paiement, non seulement du principal, mais encore des frais du procès. </s>
+	<s id="3">Malheureusement, la loi voulant que dans les causes entre particuliers, le gagnant paie pour le perdant si le perdant est insolvable, je me vis invité par le Greffe à solder sans délai... </s>
+	<s id="4">Non, mais écoute ça.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="34">
+	<s id="1">J'écoute.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="35">
+	<s id="1">... Six_cent_soixante-dix-sept_francs, montant du jugement qui m'allouait vingt-cinq_louis sans d'ailleurs me les faire avoir, la contrainte par corps étant abolie depuis 1867. </s>
+	<s id="2">Que penses-tu que je fis ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="36">
+	<s id="1">Tu n'avais qu'à payer.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="37">
+	<s id="1">Il le faut croire, puisque m'y étant refusé (mon petit bien prudemment garé et mon petit appartement mis au nom d'une tierce personne), je fus appréhendé au col et fourré à Sainte-Pélagie, en vertu de cette même contrainte par corps dont les citoyens ne bénéficient plus, mais dont l'État continue, lui, à recueillir les avantages. </s>
+	<s id="2">- Tu en as encore une ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="38">
+	<s id="1">Une quoi ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="39">
+	<s id="1">Une cigarette. </s>
+	<s id="2">La mienne m'a crevé dans les doigts comme une groseille à maquereau.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="40">
+	<s id="1">Prends la boîte de ton côté.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="41">
+	<s id="">Je suis confus.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="42">
+	<s id="1">Mais non, mais non.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="43">
+	<s id="1">Ma peine purgée, la malchance voulut que j'eusse soif et qu'entré boire un bock dans un petit café, je m'emparasse d'un journal qui traînait sur la table à portée de ma main. </s>
+	<s id="2">À cette vue : "Ne vous gênez pas, me cria une espèce d'enflé qui prenait un mêlé-cassis, à côté de moi. </s>
+	<s id="3">Ce n'est pas à vous, ce journal-là ! </s>
+	<s id="4">Voulez-vous bien me rendre ça tout de suite. </s>
+	<s id="5">En voilà encore un filou !"</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="44">
+	<s id="1">Un filou ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="45">
+	<s id="1">Un filou.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="46">
+	<s id="1">Tu cognas ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="47">
+	<s id="1">J'eusse pu le faire. </s>
+	<s id="2">Mais la Loi, qui ne permet pas ce qu'autoriseraient les biceps, refuse aux gens le droit à se faire justice eux-mêmes. </s>
+	<s id="3">Je me bornai donc à hausser les épaules en disant : "Vous en êtes un autre." </s>
+	<s id="4">Bon ! </s>
+	<s id="5">Ne voilà t'y pas mon homme qui se dresse comme un ressort à boudin, se déclare insulté, requiert le témoignage de deux vieux imbéciles qui jouaient au jacquet, et m'assigne, deux jours après, en police_correctionnelle ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="48">
+	<s id="1">Il fallait le poursuivre reconventionnellement.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="49">
+	<s id="1">Je n'y manquai point.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="50">
+	<s id="1">À la bonne heure.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="51">
+	<s id="1">Malheureusement, il arriva que je me présentai à l'audience caparaçonné de probité, cependant que mon adversaire justifiait, lui, preuves en main, d'une condamnation à cinq ans de réclusion pour vol avec effraction dans une maison habitée. </s>
+	<s id="2">Le résultat, tu le prévois : le mot "filou", qui, de lui à moi, constituait une injure simple, de moi à lui devenait une diffamation ; d'où pénalités différentes, selon qu'au Code il est écrit, et comme tu n'en ignores pas. </s>
+	<s id="3">Je connus la satisfaction d'entendre condamner à seize francs d'amende le sympathique cambrioleur, tandis que je filai, moi, à Fresnes, méditer loin des courants d'air sur la différence qu'il y a entre "filou" et "filou", et rechercher en vertu de quelles lois mystérieuses un même corps peut peser deux onces dans un des plateaux de la balance et trois kilos cinq cents dans l'autre. </s>
+	<s id="4">Du coup, ma foi, j'en eus assez.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="happy">, égayé.
+</stage>
+<p id="52">
+	<s id="1">Pas possible !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="53">
+	<s id="1">Depuis longtemps, une lassitude m'était venue ; une vague tristesse, le sourd chagrin de ne plus me sentir chez nous, chez moi ;... comme si le pays qui me voit vieux, n'était plus celui qui me vit naître. </s>
+	<s id="2">- Mon cher, je nourris un soupçon, je porte en moi une pensée affreuse.</s>
+</p>
+<stage type="watch">Mouvement d'attention de Lonjumel.</stage>
+<note type="L">Paraclet : Consolateur, nom affecté au Saint-Esprit. [L] Ici, sens métaphorique.</note>
+<p id="54">
+	<s id="1">Je crois qu'un anarchiste, - non le stérile idiot qui surine au petit bonheur du coup_de_poignard les Chefs_d_État et les Impératrices, mais un inspiré, entends-tu ?... </s>
+	<s id="2">Un Paraclet du crime, doté à son berceau du génie de la malfaisance ! - ... </s>
+	<s id="3">Je crois, dis-je, qu'un anarchiste, ayant soudoyé les concierges de Bicêtre, de Charenton, de Ville-Evrard et autres lieux, obtint d'eux qu'ils ouvrissent, une nuit, les portes des maisons de santé !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="55">
+	<s id="1">Oh ! </s>
+	<s id="2">Sacristi !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="56">
+	<s id="1">Et aussitôt, les fous, lâchés, s'échappèrent de leurs cabanons.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="57">
+	<s id="1">Oh ! </s>
+	<s id="2">Sacrédié !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="58">
+	<s id="1">Avec la complicité du gouvernement, qui sut tout mais n'osa rien dire, ils se répandirent par les routes, par les villes, par les campagnes, semant le trouble, étonnant les populations de leurs actes extravagants et de leurs discours insensés.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="59">
+	<s id="1">Oh ! </s>
+	<s id="2">Sacrebleu !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="60">
+	<s id="1">Tout d'abord, les gens d'esprit sain les regardèrent passer en riant, comme on regarde passer les masques, mais le moment ne tarda pas où ils commencèrent à s'entre-regarder, eux, pris d'inquiétude, en proie au doute ; car si le propre de la raison est de se méfier d'elle-même, combien est persuasive l'éloquence des déments à prêcher qu'ils sont la sagesse !... </s>
+	<s id="2">Bientôt les carottes furent cuites : le mal dégringola dans le pire qui sombra dans l'irréparable. </s>
+	<s id="3">Insurgés contre le bon sens, les fous montèrent à l'assaut !... </s>
+	<s id="4">Ce fut un joli spectacle. Devant eux, les baguettes au poing, Messieurs les snobs battaient la charge, et leur soif d'inédit, de sensations nouvelles, d'horizons impénétrés, s'étanchait aux promesses de la vieille chanson de route rythmée aux peaux d'âne des tambours : "Y a la goutte à boire là-haut ; y a la goutte à boire". </s>
+	<s id="5">En queue, boitait mais avançait tout de même, l'arrière-garde des timorés, les imbéciles qui craignent de passer pour des niais en ne marchant pas avec leur siècle, tandis que plus haut que les têtes, des camisoles de force, déployées au soleil, flottaient comme des étendards.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="61">
+	<s id="1">Oh ! </s>
+	<s id="2">Sacrebleu ! </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Sacrédié ! </s>
+	<s id="5">Oh ! </s>
+	<s id="6">Sacristi !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="62">
+	<s id="1">Enfin la citadelle fut prise, conquise avec l'aide de Dieu, - lequel, agacé, à la longue, d'être mis à la porte de partout, s'était cruellement vengé en donnant aux fous la victoire ; - et de cet instant : " Bonjour, Luc !" ; pareillement le singe de la fable qui apercevait quelque chose mais ne distinguait pas très bien, on commença à ne plus comprendre nettement le pourquoi de ceci, le parce que de cela. </s>
+	<s id="2">Vue à travers le délire de la foule, la vie n'apparut plus aux rares survivants épargnés par la catastrophe, qu'avec le flou déformé d'une silhouette glissant sur un verre dépoli. </s>
+	<s id="3">Les mots perdirent leur valeur, les faits leur signification. </s>
+	<s id="4">On ne mit plus au point ni les hommes ni les choses, et tel, qui se coucha dieu un soir, s'éveilla cuvette le lendemain. </s>
+	<s id="5">En vérité, je te demande pardon ; tu dois me prendre pour le monsieur qui joue les Alceste en province. </s>
+	<s id="6">C'est une tartine du Misanthrope que je te sers là entre deux repas.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="smile">, souriant.
+</stage>
+<p id="63">
+	<s id="1">J'allais dire : Le_Songe_d_Athalie.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="64">
+	<s id="1">Il y a encore ça.</s>
+</p>
+<stage type="narration">À compter de cette réplique, La Brige ayant enfin trouvé une cigarette à son goût, tentera en vain de se procurer du feu ; ceci à l'aide d'allumettes placées à portée de sa main, et qui, frottées au bois de la table, aux rayures du porte-allumettes, au fond de culotte même de La Brige, refuseront de s'enflammer, avec une opiniâtreté touchante.</stage>
+<p id="65">
+	<s id="1">Quoi qu'il en soit, trop de petits riens m'avaient, je te le répète, rendu la maison odieuse ; depuis le mal devenu propre à chacun de vouloir gouverner les autres, jusqu'aux cigarettes infumables et aux allumettes qui ne prennent pas. </s>
+	<s id="2">Je résolus de tirer mon chapeau à une élite dont la tournure d'esprit avait cessé de me faire rire, et, retiré aux champs, - loin du bal, si j'ose m'exprimer ainsi, - d'y vivre, les nerfs enfin calmes, en la société des cochons. </s>
+	<s id="3">Je dis : des vrais cochons ; et par de "vrais cochons", j'entends des cochons pour de bon ; non de ces cochons à deux pieds et sans plumes dont Platon entretenait les philosophes d'Athènes, mais de ces délicieux compagnons aux oreilles en feuilles de choux, à la queue en mèche_de_vrille, aux yeux ruisselants d'intelligence, dont le seul aspect suffisait à réjouir le grand saint Antoine qui se montrait pourtant assez méticuleux dans le choix de ses relations. </s>
+	<s id="4">- Un de mes amis, qui était une crapule, possédait à deux pas d'ici une petite propriété dont il cherchait à se défaire : je lui offris de me la céder. </s>
+	<s id="5">Il m'en demanda cent mille francs ; je lui en proposai six mille ; nous tombâmes d'accord à sept mille cinq cents. </s>
+	<s id="6">Huit jours après, j'étais chez moi. </s>
+	<s id="7">- Tu me suis ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="66">
+	<s id="1">Pas à pas.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="67">
+	<s id="1">La maison me plaisait fort... </s>
+	<s id="2">- Oh ! </s>
+	<s id="3">Flûte !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="68">
+	<s id="1">Qu'est-ce qui te prend ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="wave">, la main secouée dans le vide.
+</stage>
+<p id="69">
+	<s id="1">Est-ce bête !... </s>
+	<s id="2">Un éclat d'allumette taillé en fer de lance, qui vient de m'entrer dans la peau comme un lardoir dans de l'escalope. </s>
+	<s id="3">C'est douloureux comme tout. </s>
+	<s id="4">- Où en étais-je ?... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Oui : - La maison me plaisait fort ; pratique, salubre, aérée, irréprochable en un mot, à cela près que son toit d'ardoises appelait quelques réparations, et qu'elle même empiétait un peu sur le trottoir.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage>, très simplement.
+</stage>
+<p id="70">
+	<s id="1">Ah ah.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="71">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="72">
+	<s id="1">Ah ah.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="73">
+	<s id="1">Quoi, ah ah ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="74">
+	<s id="1">Je dis : Ah ah.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="75">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="76">
+	<s id="1">Pourquoi je dis : ah ah ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="impatient">, impatienté.
+</stage>
+<p id="77">
+	<s id="1">Évidemment ! </s>
+	<s id="2">Tu dis :"Ah ah" ; eh bien, pourquoi dis-tu "Ah ah" ? </s>
+	<s id="3">On ne dit pas "Ah ah" comme ça, sans motif, à propos de rien.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="78">
+	<s id="1">Aussi ai-je, pour dire "Ah ah", des raisons connues de moi seul, que je t'exposerai tout au long quand le moment en sera venu. </s>
+	<s id="2">- De quoi t'inquiètes-tu ? </s>
+	<s id="3">Continue.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="79">
+	<s id="1">Une semaine ou deux s'écoulèrent. </s>
+	<s id="2">Un matin que je fumais une pipe devant ma porte en regardant fonctionner les couvreurs qui, à_califourchon sur l'arête de mon toit, arrachaient comme des dents les ardoises gâtées pour en mettre des neuves à la place, le garde-champêtre vint à passer. </s>
+	<s id="3">- Zut !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="80">
+	<s id="1">Encore un éclat de bois ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="wave">, l'ongle aux dents.
+</stage>
+<p id="81">
+	<s id="1">... Une goutte de soufre bouillant qui s'est faufilée sous mon ongle... </s>
+	<s id="2">Tu n'as pas idée comme ça me gêne !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="82">
+	<s id="1">Veux-tu un peu d'huile ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="83">
+	<s id="1">Pas la peine. </s>
+	<s id="2">- Qu'est-ce que je disais donc ? </s>
+	<s id="3">Ah oui ! </s>
+	<s id="4">- Le garde-champêtre vint à passer. </s>
+	<s id="5">Il leva le nez, et, à la même minute, parut frappé de folie furieuse. </s>
+	<s id="6">"En bas ! En bas, les couvreurs ! hurla-t-il. Descendez ! ... et plus vite que ça, ou vous allez voir, tout à l'heure, si je ne monte pas vous botter le derrière !" </s>
+	<s id="7">Je m'étais approché souriant, croyant à un malentendu, mais je n'eus pas le temps d'ouvrir la bouche. </s>
+	<s id="8">"Qu'est-ce que vous venez m'embêter, vous ? poursuivit le garde-champêtre qui avait reçu de l'éducation. </s>
+	<s id="9">Fermez donc votre garde-manger ; ça pourrait attirer les rats." - </s>
+	<s id="10">"Mais, objectai-je, je fais réparer ma maison." </s>
+	<s id="11">- "Justement, reprit-il ; vous n'en avez pas le droit."</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage>, triomphant.
+</stage>
+<p id="84">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="85">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="86">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="87">
+	<s id="1">Quoi, ah ! </s>
+	<s id="2">Ah ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="88">
+	<s id="1">Je dis : Ah ah !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="89">
+	<s id="1">Ça recommence ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="90">
+	<s id="1">Oui, mais en majeur, même chanson, autre mélodie. </s>
+	<s id="2">Entre le "Ah ! ah !" d'à présent et le "Ah ah" de tout à l'heure, le sens-tu, le demi-ton ? </s>
+	<s id="3">L'apprécies-tu, la nuance ?</s>
+</p>
+<stage type="laugh">Riant.</stage>
+<p id="91">
+	<s id="1">Eh ! </s>
+	<s id="2">Mon bon, je savais d'avance le dénouement de ton histoire qui tenait tout entière dans son commencement. </s>
+	<s id="">Le garde-champêtre, s'il avait tort dans la forme, avait raison dans le principe. </s>
+	<s id="3">Tu n'avais, en effet, pas le droit de faire réparer ta maison.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="92">
+	<s id="1">À cause ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="93">
+	<s id="1">À cause qu'en termes techniques elle était frappée d'alignement ; autrement dit, qu'en empiétant sur le trottoir, elle prenait le pas sur les maisons voisines et détruisait ainsi l'harmonie de la rue, puisqu'elle en tuait la perspective.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="94">
+	<s id="1">Je ne pouvais pourtant pas la repousser à coups de pied ou en trancher la partie avançante avec un fil à couper le beurre.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="95">
+	<s id="1">Non ; mais des règlements sont là, qui, tout en reconnaissant à un propriétaire le droit de louer ou d'occuper une maison frappée d'alignement, lui refusent celui de la faire restaurer, de ralentir en quoi que ce soit l'action destructive du temps, sous les coups duquel, fatalement, elle s'écroulera un jour ou l'autre, d'usure et de vétusté. </s>
+	<s id="2">Soyons justes ; on ne peut exiger d'un état de choses anormal qu'il se prolonge à l'infini.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="96">
+	<s id="1">Tu parles d'or. </s>
+	<s id="2">Il n'en est pas moins vrai que, depuis le passage des couvreurs, ma maison restait trépanée, portait au crâne une plaie ouverte par laquelle la pluie et la grêle entraient comme des nourrices dans le parc_Montsouris. </s>
+	<s id="3">En même temps, la brise légère, folâtrant parmi mes ardoises, les mêlait comme des dominos : d'où un vacarme insupportable, compliqué des clameurs d'un mendiant matinal, qui, quotidiennement, dès l'aube, me venait arracher aux douceurs du sommeil en vociférant sous ma fenêtre : Ah ! </s>
+	<s id="4">Ne t'éveille pas encore ! </s>
+	<s id="5">Il y a une justice au ciel. </s>
+	<s id="6">Un jour, la brise s'étant faite ouragan, une ardoise se fit hirondelle. </s>
+	<s id="7">Oiselle partie sur l'aile des vents, elle plana d'abord dans ce sens-ci, puis s'abattit, dans ce sens-là, sur le visage du chanteur, lequel cessa immédiatement de chanter, rapport à ce que l'huis de sa bouche, prolongé jusqu'à son oreille, ne se prêtait plus à l'émission de l'ut_dièse avec l'élasticité et la perfection voulue. </s>
+	<s id="8">C'était un homme rancunier. </s>
+	<s id="9">Armé de l'article_320, qui prévoit et punit le délit de blessure par imprudence, il m'assigna...</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="hide">, la main aux yeux.
+</stage>
+<p id="97">
+	<s id="1">Crénom d'un chien !</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="98">
+	<s id="1">Qu'est-ce qu'il y a ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="99">
+	<s id="1">... du phosphore_enflammé qui m'a sauté dans l'oeil... </s>
+	<s id="2">Tu n'as pas idée comme ça me cuit.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="100">
+	<s id="1">Veux-tu un peu d'eau ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="101">
+	<s id="1">Inutile. </s>
+	<s id="2">- Tu disais ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="102">
+	<s id="1">Je ne sais plus... </s>
+	<s id="2">Ah oui ! </s>
+	<s id="3">- Armé de l'article_320, il m'assigna devant les juges du canton auxquels j'exposai mon cas : l'interdiction à moi faite de consolider ma baraque, dès lors, pour moi, l'impossibilité de l'empêcher de tomber par morceaux sur </s>
+	<s id="4">la figure des passants. Je croyais l'argument sans réplique.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="103">
+	<s id="1">Tu te trompais.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="104">
+	<s id="1">Du tout au tout ! </s>
+	<s id="2">Comme il me fut très clairement expliqué : étranger à mes différends avec l'administration et payé pour juger en fait, le tribunal n'avait qu'à constater le délit et qu'à apprécier le dommage. </s>
+	<s id="3">Or, une ardoise à moi, enfuie d'un toit à moi, avait-elle ou n'avait-elle pas détérioré le faciès du plaignant ? </s>
+	<s id="4">Toute la question était là. Ainsi parla le président dont l'allocution aboutit à une condamnation en six_jours de prison avec application de la loi_Bérenger, et en 1500_francs de dommages et intérêts.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="105">
+	<s id="1">Ce n'était pas cher.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<note type="L">Oénates : habitation. [L]</note>
+<p id="106">
+	<s id="1">Un cadeau !... </s>
+	<s id="2">C'est bien. </s>
+	<s id="3">L'incident clos, je regagne mes pénates, et qu'est-ce que je trouve sous ma porte ?... un avis de la Préfecture m'enjoignant de faire ravaler mon immeuble dans le plus bref délai possible, conformément à la circulaire_sur_le_ravalement_décennal. </s>
+	<s id="4">Je m'incline. </s>
+	<s id="5">Les maçons, mandés, arrivent le lendemain vêtus de blanc, coiffés d'auges, hérissés d'échelles qu'ils appliquent puis escaladent, tandis qu'accouru sur leurs traces, le garde-champêtre, hors de lui, leur crie à_tue-tête d'en descendre ! </s>
+	<s id="6">En vain je tente de placer un mot, j'invoque l'ordre auquel j'obéis ; cet homme bien élevé m'envoie paître, me dit de boucher mon sucrier crainte que les mouches n'entrent dedans, et passant outre au préfet, qu'il ignore, dresse contre moi procès-verbal au nom du maire, qu'il représente. Le pis est que les maçons ayant battu en retraite, j'étais, six semaines après, poursuivi de nouveau à la requête de la Voirie, pour infraction aux ordonnances sur le ravalement des maisons. </s>
+	<s id="7">Les nerfs commencent à me faire mal. Lettres, réponses, répliques, ripostes. Démarche auprès du maire qui ne connaît qu'une chose : l'intérêt de la localité ; puis auprès du préfet qui n'en connaît que deux : la salubrité et l'hygiène. </s>
+	<s id="8">Je m'emballe. </s>
+	<s id="9">Le préfet tire un cordon de sonnette et dit à son garçon de bureau : « Mettez monsieur à la porte. » </s>
+	<s id="10">Énergiquement déterminé à n'en avoir pas le démenti, je rapplique d'une traite à la mairie où je tombe sur le garde-champêtre qui m'accueille par ces mots : « Bandit !... Quand aurez-vous fini d'assassiner le peuple ? » </s>
+	<s id="11">J'apprends alors qu'en mon absence, une ardoise, une deuxième ardoise, échappée au toit paternel, s'était venue planter comme une bêche dans le cuir d'un marchand_de_quatre-saisons qui ahurissait le quartier en hurlant : « Les pommes de terre ! » sous prétexte de les crier ! </s>
+	<s id="12">- Et voilà, mon cher, où j'en suis. </s>
+	<s id="13">Retraîné en correctionnelle pour reblessure par imprudence (plus cette complication que la loi_Bérenger va naturellement m'égorger de sa clémence à deux tranchants) ; deux fois en faute pour m'être deux fois incliné devant les institutions qui régissent le doux pays de France ; acculé à l'obligation de faire ravaler ma maison, sous peine de contravention, et de ne pas la faire ravaler, sous peine de procès-verbal ; conspué, haï, ridicule ; j'expie cruellement ma folle ambition, le sot rêve où je m'étais complu, de vivre en paix avec tout le monde en ne faisant de mal à personne, uniquement soucieux des poules de ma basse-cour, des cochons de ma porcherie et des iris de mon jardin.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage type="think">, après avoir réfléchi. 
+</stage>
+<p id="107">
+	<s id="1">Sans vouloir donner à tes... crimes plus d'importance qu'ils n'en ont, je te dois pourtant la vérité. </s>
+	<s id="2">Tu t'es mis dans un mauvais cas.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="watch">, l'oeil au ciel.
+</stage>
+<p id="108">
+	<s id="1">Je me suis mis !!!... </s>
+	<s id="2">- Alors, c'est grave ?... </s>
+	<s id="3">Sérieusement ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="109">
+	<s id="1">D'autant plus grave, cher ami, que je cherche vainement dans toute cette histoire d'une limpidité de cristal, le je-ne-sais-quoi, ce petit rien du tout d'eau bourbeuse où l'astuce d'un bon avocat trouve toujours à pêcher un argument de défense.</s>
+</p>
+<stage type="wave">Mouvement de La Brige.</stage>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL</speaker><stage>, avec éclat.
+</stage>
+<p id="110">
+	<s id="1">On n'innocente pas un homme qui n'a rien fait !... ou alors c'est très difficile.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="111">
+	<s id="">Bref ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="112">
+	<s id="1">Laisse-moi réfléchir. </s>
+	<s id="2">Je cherche. </s>
+</p>
+<stage id="3">Un temps. Puis :</stage>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="113">
+	<s id="1">Tu es assuré ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="114">
+	<s id="1">Certainement.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="115">
+	<s id="1">Pour beaucoup ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="116">
+	<s id="1">Pour une forte somme.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="117">
+	<s id="1">Ah. </s>
+	<s id="2">- Dis-moi ; tu parlais du bon Dieu, tout à l'heure. </s>
+	<s id="3">Est-ce que tu le connais ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="117">
+	<s id="1">Oui et non. </s>
+	<s id="2">Je le connais pour avoir entendu parler de lui ; mais notre intimité ne va pas jusqu'à jouer au billard ensemble.</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="118">
+	<s id="1">C'est regrettable.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="119">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="120">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="121">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="122">
+	<s id="1">Parce qu'il y a tout à attendre de la fréquentation des personnes haut placées... </s>
+	<s id="2">Le bon Dieu, en somme, c'est la foudre...</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="123">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="124">
+	<s id="1">La foudre, c'est l'incendie...</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="125">
+	<s id="1">Et puis ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="126">
+	<s id="1">L'incendie, c'est l'indemnité ; et l'indemnité, c'est...</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="127">
+	<s id="1">C'est ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<note type="">Purotin :  Personne misérable. [L]</note>
+<p id="128">
+	<s id="1">Dame !... </s>
+	<s id="2">C'est l'achat d'une seconde maison, cette fois à l'alignement des autres, et dont le toit, en bon état, ne menace plus les purotins ni les marchands de pommes de terre.</s>
+</p>
+<stage type="silence/watch">Long silence. Les deux hommes se regardent fixement.</stage>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="129">
+	<s id="1">Pourquoi me regardes-tu ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="130">
+	<s id="1">Pour rien. </s>
+	<s id="2">- Pourquoi ris-tu ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="131">
+	<s id="1">Je ne ris pas.</s>
+</p>
+<stage type="">Nouveau silence. </stage>
+<p id="132">
+	<s id="1">Enfin :</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE</speaker><stage type="wave">, hochant la tête.
+</stage>
+<p id="133">
+	<s id="A">Sais-tu que tu en as de bonnes et que tu me donnes là un beau conseil ?</s>
+</p>
+</sp>
+<sp who="LONJUMEL"><speaker>LONJUMEL.</speaker>
+<p id="134">
+	<s id="1">Penses-tu que je te l'aurais donné, si je te croyais homme à le suivre ?</s>
+</p>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="135">
+	<s id="1">Tu es un bon garçon ; je t'aime de tout mon coeur. </s>
+	<s id="2">Tout de même, il est drôle de penser que des honnêtes gens comme nous puissent en venir, même par plaisanterie, à accepter l'idée de s'habiller en brigands pour obtenir leur juste dû, et à solliciter du crime ce que le bien-fondé de leur cause a inutilement imploré de l'imbécillité des choses et de la mauvaise grâce des hommes. </s>
+</p>
+<stage type="narration">Lonjumel lui tend la main. Mais La Brige, qui n'a pas renoncé à l'espoir de fumer ! - Enfin ! - Une cigarette, vient de dépister une allumette dernière, oubliée dans un coin du meuble. Il s'en empare en hâte. Avec mille précaution, Il la frotte au drap de sa culotte, à la semelle de sa bottine, aux lames du parquet, aux montants de le porte. Vains espoirs !... Efforts superflus. Alors, souriant et résigné : </stage>
+</sp>
+<sp who="LA BRIGE"><speaker>LA BRIGE.</speaker>
+<p id="136">
+	<s id="1">Et puis, vas donc mettre le feu avec des allumettes pareilles !</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

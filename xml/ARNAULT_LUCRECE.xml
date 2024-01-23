@@ -1,0 +1,2266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LUCRÈCE, TRAGÉDIE</title>
+			<author type="texte" ISNI="0000 0001 1036 2142">Antoine Vincent ARNAULT (1766-1834)</author>
+		</titleStmt>
+		<publicationStmt>
+			<editor>Texte établi par Paul FIEVRE, octobre 2023.</editor>
+			<publisher>Publié par Paul FIEVRE, novembre 2023.</publisher>
+			<idno>ARNAULT_LUCRECE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Tragédie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Cinq actes</structure>
+			<type>vers</type>
+			<periode>1791-1800</periode>
+			<taille>1250-1500</taille>
+			<permalien cote="BnF LLA 8-YTH-10374">https://gallica.bnf.fr/ark:/12148/bpt6k5801143b</permalien>
+		</SourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LUCRÈCE</titlePart>
+			<titlePart type="sub">TRAGÉDIE en cinq actes, en vers.</titlePart>
+		</docTitle> 
+		<docDate value="1792">1792.</docDate>
+		<docAuthor id="ARNAULT, Antoine Vincent"/>
+		<docImprint>
+			<acheveImprime value="1792-08-05">Commencée d'imprimer le 5 aouût 1792, et achevée le 7 de Septembre.</acheveImprime>
+		</docImprint>
+		<performance>
+			<premiere date="1792-05-04" location="Théâtre de la Nation (Française) ">Représentée pour la première fois le 4 mai 1792 sur le Théâtre de la Nation (Française) .</premiere>
+		</performance>
+	<div type="epitre"><head>ÉPITRE DÉDICATOIRE.</head>
+		<p>J'espérais quelque succès de Lucrèce quand je sollicitai la saveur de vous la dédier. Le succès de Lucrèce avait été au dessous du médiocre, quand vous avez exigé que j'usasse de votre permission. Ceci fait assez connaître le sentiment qui vous fait hommage de cet ouvrage et celui qui vous porte à l'accepter.</p>
+		<signature>ARNAULT</signature>
+		<p>À Parìs, ce 4 août 1792.</p>
+	</div>
+	<castList><head>PERSONNAGES. ACTEURS.</head>
+		<castItem><role id="TARQUIN" sex="1" type="H" statut="roi" age="A" stat_amour="">TARQUIN</role>, le Superbe, Roi de Rome. Monsieur Naudet.</castItem>
+		<castItem><role id="SEXTUS" sex="1" type="H" statut="prince" age="J" stat_amour="">SEXTUS</role>, fils de Tarquin, Monsieur St. Fal.</castItem>
+		<castItem><role id="TARQUIN COLLATIN" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">TARQUIN COLLATIN</role>. M. Dupont.</castItem>
+		<castItem><role id="JUNIUS BRUTUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">JUNIUS BRUTUS</role>. Monsieur St. Prix.</castItem>
+		<castItem><role id="SPURIUS LUCRÉTIUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">SPURIUS LUCRÉTIUS</role>, père de Lucrèce. M. Vanhove.</castItem>
+		<castItem><role id="ARONS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">ARONS</role>, Conjuré. M. Jules Fleury.</castItem>
+		<castItem><role id="MUTIUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">MUTIUS</role>, Conjuré depuis surnommé SCAEVOLA. Monsieur Fleury.</castItem>
+		<castItem><role id="HORACE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">HORACE</role>, Conjuré, depuis surnommé COCLES. Monsieur Duval.</castItem>
+		<castItem><role id="VALÉRIUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">VALÉRIUS</role>, Conjuré, depuis surnommé PUBLICOLA. Monsieur Marsy.</castItem>
+		<castItem><role id="ALBIN" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">ALBIN</role>, Conjuré. Monsieur Dunant.</castItem>
+		<castItem><role id="ICILE" sex="1" type="H" statut="esclave" age="A" stat_amour="">ICILE</role>, Esclave et confident de Sextus. Monsieur Ernest-Vanhove.</castItem>
+		<castItem><role id="LUCRÈCE" sex="2" type="H" statut="aristocrate" age="A" stat_amour="">LUCRÈCE</role>, épouse de Collatin. Melle Raucourt.</castItem>
+		<castItem><role id="PEUPLE ROMAIN" sex="1" type="H" statut="peuple" age="A" stat_amour="">PEUPLE ROMAIN</role>.</castItem>
+		<castItem><role id="SOLDATS ROMAINS" sex="1" type="H" statut="soldat" age="A" stat_amour="">SOLDATS ROMAINS</role>.</castItem>
+		<castItem><role id="DÉPUTÉS DES RUTULES" sex="1" type="H" statut="député" age="A" stat_amour="">DÉPUTÉS DES RUTULES</role>.</castItem>
+		<castItem><role id="CONJURÉS" sex="1" type="H" statut="conjuré" age="A" stat_amour="">CONJURÉS</role>.</castItem>
+		<castItem><role id="FEMMES DE LUCRÈCE" sex="2" type="H" statut="peuple" age="A" stat_amour="">FEMMES DE LUCRÈCE</role>.</castItem>
+	</castList>
+	<set location="Rome" country="Italie" periode="VIème avent JC" gps="41.8739875, 12.564167">La scène, au premier acte, est au Camp d'Ardée : pendant, les quatre suivants à Collatie.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<stage type="decor">Le Théâtre représente le Camp de Tarquin devant Ardu. Sextus, plongé dans une profonde rêverie, soit de sa tente.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Sextus, Icile.
+</stage>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1">Quel trouble vous agite, et quels tourments secrets</l>
+	<l id="2">Ont banni loin de vous le sommeil et la paix ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="3" syll="6" part="i">Icile, il faut partir.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="3" syll="6" part="f">Quoi, lorsque sa victoire</l>
+	<l id="4">Sous ces murs chancelants va combler votre gloire,</l>
+	<l id="5">Lorsqu'Ardée est soumise, et que sur ses remparts</l>
+	<l id="6">Vous allez des Tarquins placer les étendards !...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="7" syll="6" part="i">Icile, il faut me suivre.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="7" syll="6" part="f">Esclave, ami fidèle,</l>
+	<l id="8">Je ne vous quitte pas. Mais, Sextus, Si mon zèle,</l>
+	<l id="9">Si mon attachement éprouvé tant de fois,</l>
+	<l id="10">Sur vos plus chers secrets m'a donné quelques droits,</l>
+	<l id="11">Que votre coeur se fie à ce coeur qui vous aime !</l>
+	<l id="12" syll="6" part="i">Où portez-vous vos pas ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="12" syll="6" part="f">Eh, le fais-je moi-même !</l>
+	<l id="13">Ah, si dans l'Univers il est quelques climats</l>
+	<l id="14">Où le chagrin rongeur ne nous poursuive pas,</l>
+	<l id="15">Où, tous les sentiments qui déchirent mon âme,</l>
+	<l id="16">Le dépit qui l'aigrit, la fureur qui l'enflamme</l>
+	<l id="17">Dans nos coeurs consolés s'éteignent pour toujours,</l>
+	<l id="18">C'est là qu'est le repos, et c'est là que je cours.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="19">Ainsi, depuis trois jours, l'ennui qui vous dévore,</l>
+	<l id="20">Bien loin de se calmer, semble s'accroître encore.</l>
+	<l id="21" syll="8" part="i">Voulez-vous plus longtemps cacher ?...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="21" syll="4" part="f">L'infortuné</l>
+	<l id="22">Qu'à d'éternels remords le crime a condamné,</l>
+	<l id="23">Dans la nuit des cachots, soUs le poids de ses chaînes,</l>
+	<l id="24">A quelquefois connu, le calme au sein des peines :</l>
+	<l id="25">Et moi, soit que mes yeux se ferment au sommeil,</l>
+	<l id="26">Soit que le désespoir avance mon réveil,</l>
+	<l id="27">Une image semblable à l'ombre vengeresse</l>
+	<l id="28">S'attache à tous mes pas, et me poursuit sans cesse.</l>
+	<l id="29" syll="6" part="i">Elle est là ; je la vois...</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="29" syll="6" part="f">Ô malheureux destin !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="30">Sais-tu si nos soldats ont revu Collatin ?</l>
+	<l id="31" syll="4" part="i">Reparaît-il ?</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="31" syll="8" part="f">Jamais une plus longue absence</l>
+	<l id="32">N'a prouvé pour la gloire autant d'indifférence.</l>
+	<l id="33">Dans ces jours de triomphe ; amant plus que soldat.</l>
+	<l id="34">Oubliant et l'honneur et lui-même et l'État,</l>
+	<l id="35">Livré dans son Palais aux soins de sa tendresse,</l>
+	<l id="36">Dans l'Univers entier il ne voit que Lucrèce.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="37">Qui peut s'en étonner ! Gloire, honneur, est-il rien</l>
+	<l id="38">D'un prix si haut, si cher, qui ne le cède au sien !</l>
+	<l id="39">Heureux époux, bien loin qu'avec toi je l'accuse,</l>
+	<l id="40">Mon coeur le justifie et mon dépit l'excuse !</l>
+	<l id="41">Heureux qui part l'amour de son amour payé,</l>
+	<l id="42">Oubliant l'Univers, en peut-être oublié !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="43" syll="4" part="i">Que dites-vous !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="43" syll="8" part="f">Je sens que ma fureur redouble.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="44" syll="6" part="i">J'entends du bruit... On vient.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="44" syll="6" part="f">Dissimulons ce trouble :</l>
+	<l id="45" syll="3" part="i">C'est Tarquin.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="45" syll="9" part="f">Les vaincus ont vers lui député.</l>
+	<l id="46">C'est ici qu'il leur doit dicter sa volonté.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les mêmes, Tarquin, Soldats Romains, Députés de la Ville d'Ardée.
+</stage>
+<sp who="TARQUIN"><speaker>TARQUIN</speaker><stage type="toward">, aux Députés.
+	</stage>
+	<l id="47">Auriez-vous prétendu, par tant de résistance,</l>
+	<l id="48">Savoir jusqu'où Tarquin porterait la clémence ;</l>
+	<l id="49">Et quand vos faibles murs ne sauraient m'arrêter,</l>
+	<l id="50">Ne pouvant plus combattre, espérez-vous traiter !</l>
+	<l id="51">C'est trop vous abuser, ou bien mal me connaître,</l>
+	<l id="52">Tarquin peut pardonner ; mais c'est quand il est maître.</l>
+	<l id="53">Dans tout ce qui résiste il voit ses ennemis.</l>
+	<l id="54">C'est peu d'être vaincu, si l'on n'est pas soumis.</l>
+	<l id="55">Allez donc ; et qu'Ardée enfin m'ouvre ses portes :</l>
+	<l id="56">Ou dans trois jours l'aurore aura vu mes cohortes</l>
+	<l id="57">Montrer en quels malheurs se doit précipiter</l>
+	<l id="58">Tout Peuple, s'il en est, qui vous ose imiter.</l>
+	<l id="59">Sur son propre destin qu'Ardée ici prononce,</l>
+	<l id="60">Cédez ou périssez : c'est ma seule réponse.</l>
+	<l id="61">Sur les pas de Sextus, que dès demain, Soldats,</l>
+	<l id="62">On s'apprête à voler à de nouveaux combats.</l>
+<stage type="exit">Les Députés se retirent. La Garde de Tarquin et Icile occupent le fond du Théâtre.</stage>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="63">Aux projets de mon coeur quel obstacle funeste !...</l>
+</sp>
+<sp who="TARQUIN"><speaker>TARQUIN.</speaker>
+	<l id="64" syll="6" part="i">Vous vous troublez, mon fils !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="64" syll="6" part="f">Honneur que je déteste!</l>
+</sp>
+<sp who="TARQUIN"><speaker>TARQUIN.</speaker>
+	<l id="65">Entre tous les Romains, quand je vous préférais,</l>
+	<l id="66">J'attendais de la joie, et non pas des regrets.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="67">À quelque illustre sang que je doive la vie,</l>
+	<l id="68">Si la splendeur par moi n'en fut pas démentie,</l>
+	<l id="69">Et si toutes les fois qu'il fallut vous venger,</l>
+	<l id="70">On a vu mon audace égaler le danger,</l>
+	<l id="71">Gardez-vous de penser que ma vertu chancelle :</l>
+	<l id="72">Offrez-moi plus de risque, et j'aurai plus de zèle.</l>
+	<l id="73">La grandeur du péril fait l'honneur du succès;</l>
+	<l id="74">Et la gloire facile a pour moi peu d'attraits.</l>
+	<l id="75">Pour illustrer mon nom, j'ai fait assez peut-être.</l>
+	<l id="76">Par d assez grands exploits si je l'ai fait connaître.</l>
+	<l id="77">Souffrez que Collatin réclame pour le sien</l>
+	<l id="78">Un honneur qui ne peut en ajouter au mien.</l>
+	<l id="79">Qu'à l'éclat de son sang sa gloire enfin réponde :</l>
+	<l id="80">Quiconque est né Tarquin doit un héros au monde.</l>
+</sp>
+<sp who="TARQUIN"><speaker>TARQUIN.</speaker>
+	<l id="81">C'est à vous, chaque jour, par un succès nouveau,</l>
+	<l id="82">D'ajouter à l'éclat d'un nom déjà si beau.</l>
+	<l id="83">Par trop d'illusion votre âme est abusée :</l>
+	<l id="84">Moins que vous ne croyez la victoire est aisée.</l>
+	<l id="85">Depuis trois mois enfin les fiers enfants de Mars</l>
+	<l id="86">Ont par de vains efforts fatigué ces remparts :</l>
+	<l id="87">Paraissez et prouvez que du bras d'un seul homme</l>
+	<l id="88">Dépendait La fortune et d'Ardée et de Rome.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="89">Eh bien, si tant de gloire est le prix du vainqueur,</l>
+	<l id="90">À Collatin, je dois en réserver l'honneur !</l>
+	<l id="91">L'ambition par qui mon âme est dominée,</l>
+	<l id="92">À ma seule grandeur ne fut jamais bornée !</l>
+	<l id="93">Un autre soin l'occupe ; et quelque soit mon rang,</l>
+	<l id="94">C'est s'illustrer encor que d'illustrer son sang.</l>
+</sp>
+<sp who="TARQUIN"><speaker>TARQUIN.</speaker>
+	<l id="95">C'est avoir pour ce rang beaucoup d'indifférence,</l>
+	<l id="96">Ou dans l'art de régner bien peu d'expérience ;</l>
+	<l id="97">Que de céder Sa gloire et prétendre qu'un Roi</l>
+	<l id="98">S'illustre dans celui qu'il rend égal à foi.</l>
+	<l id="99">Loin d'emprunter d'autrui ce qu'il donne lui même, </l>
+	<l id="100">C'est de son propre éclat que brille un diadème.</l>
+	<l id="101">Qui chérit la grandeur ne la partage pas :</l>
+	<l id="102">Les grands bienfaits, mon fils, ont fait les grands ingrats.</l>
+	<l id="103">Aux plus affreux revers plus d'un monarque en bute, </l>
+	<l id="104">Par trop de confiance a préparé sa chute.</l>
+	<l id="105">L'art de tout conserver est l'art de tout prévoir ;</l>
+	<l id="106">C'est le grand art d'un Roi jaloux de son pouvoir :</l>
+	<l id="107">Bien loin d'anéantir la distance imposante</l>
+	<l id="108">Qui sépare les Rois de la foule inconstante ;</l>
+	<l id="109">Il se montre élevé sur les faibles humains,</l>
+	<l id="110">Autant que l'est un Dieu sur tous les Souverains.</l>
+	<l id="111">Contemplez Servius ; voyez dans quels abîmes</l>
+	<l id="112">L'avait jeté l'oubli de ces sages maximes.</l>
+	<l id="113">Tous les rangs confondus, tout ordre interverti,</l>
+	<l id="114">Avec la Royauté l'État anéanti :</l>
+	<l id="115">On l'avait avilie, afin de la détruire.</l>
+	<l id="116">Il mourut, et j'osai me saisir de l'Empire,</l>
+	<l id="117">Et monter en Vainqueur sur ce trône ébranlé,</l>
+	<l id="118">Sans qu'a le raffermir Rome meut appelé,</l>
+	<l id="119">À ployer en silence elle se vit contraindre :</l>
+	<l id="120">Peu jaloux d être aimé, je sus me faire craindre.</l>
+	<l id="121">Je n'avais pas d'amis ; mais j'avais des Soldats....</l>
+	<l id="122">Devenu tout puissant par d'heureux attentats,</l>
+	<l id="123">Je fis porter mon joug aux plus superbes tètes,</l>
+	<l id="124">Cependant j'étendais l'État par mes conquêtes :</l>
+	<l id="125">Mais autant ma rigueur pesait sur le Romain,</l>
+	<l id="126">Autant pour les vaincus je me montrais humain ;</l>
+	<l id="127">Me ménageant en eux un appui nécessaire.</l>
+	<l id="128">Si jamais le destin me devenait contraire.</l>
+	<l id="129">Ainsi ma politique affermit à la fois</l>
+	<l id="130">Et la grandeur de Rome et la grandeur des Rois :</l>
+	<l id="131">Et mon règne déjà justifié et secondé</l>
+	<l id="132">Le sort qui lui promet la conquête du Monde.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="133" syll="4" part="i">Que veut Arons ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Tarquin, Arons, Sextus, Icile dans le fond. 
+</stage> 
+<sp who="ARONS"><speaker>ARONS.</speaker>
+	<l id="133" syll="8" part="f">Seigneur, il est temps d'arrêter</l>
+	<l id="134">Les dangereux complots qui sont prêts d'éclater.</l>
+	<l id="135">Le tumulte est dans Rome : on s'assemble, on conspire</l>
+	<l id="136">Parmi les Conjurés qui menacent l'Empire,</l>
+	<l id="137">On a compté, dit-on, jusqu'à ce Junius</l>
+	<l id="138">Si tristement connu sous le nom de Brutus,</l>
+	<l id="139">Depuis ce jour fatal où votre ordre sévère</l>
+	<l id="140">Lui ravit sa raison et son père et son frère.</l>
+	<l id="141">Tout est prêt ; et bientôt la moindre occasion</l>
+	<l id="142">Servira de prétexte à la rébellion.</l>
+	<l id="143">Ah ! Daignez écouter votre sujet fidèle !</l>
+	<l id="144">Rendez-vous à l'avis que lui dicte son zèle ;</l>
+	<l id="145">Quittez ce camp, Seigneur. Laissez à d'autres bras</l>
+	<l id="146">La conduite du Siège et le soin des combats ;</l>
+	<l id="147">Et, par un prompt retour confondant leurs intrigues</l>
+	<l id="148">De ces mutins obscurs déconcertés les ligues.</l>
+	<l id="149">De tout bon citoyen venez câliner l'effroi :</l>
+	<l id="150">Rendez la paix à Rome en lui rendant son Roi.</l>
+</sp>
+<sp who="TARQUIN"><speaker>TARQUIN.</speaker>
+	<l id="151">Je sais quel est Arons ; je connais Sa prudence,</l>
+	<l id="152">Et dans l'art des conseils sa longue expérience ;</l>
+	<l id="153">Mais, malgré son avis, dans ce soulèvement</l>
+	<l id="154">Je ne vois qu'un motif pour m'assurer du camp.</l>
+	<l id="155">De ces faibles complots il n'est rien que je craigne,</l>
+	<l id="156">Tant que je régnerai sur ceux par qui l'on règne.</l>
+	<l id="157">Mon empire est ici : ce font les seuls soldats</l>
+	<l id="158">Qui de tout temps ont fait le destin des États ;</l>
+	<l id="159">Et leur Chef, quel que soit le nom dont il se nomme,</l>
+	<l id="160">S'il est Roi de l'armée, est aussi Roi de Rome.</l>
+	<l id="161">Arons, portez-en l'ordre. Avant la fin du jour</l>
+	<l id="162">Que l'heureux Collatin soit ici de retour :</l>
+	<l id="163">Qu'il remplace mon fils ; et que ses mains soient prêtes</l>
+	<l id="164">À mettre enfin Ardée au rang de mes conquîtes.</l>
+<stage type="exit">Arons sort.</stage>
+	<l id="165">Vous, cependant à Rome, allez rendre la paix ;</l>
+	<l id="166">Des factieux, Sextus, éclairez les projets.</l>
+	<l id="167">Quant à cet insensé que je ne saurais craindre,</l>
+	<l id="168">À ce Brutus bien moins à redouter qu'a plaindre,</l>
+	<l id="169">Qu'il vive. On peut de lui tirer la vérité.</l>
+	<l id="170">Mais poursuivez le reste avec sévérité.</l>
+	<l id="171">Je remets en vos mains le glaive et la puissance ;</l>
+	<l id="172">Sévissez ; et songez qu'une sage vengeance</l>
+	<l id="173">Souvent dans le passé réprima l'avenir.</l>
+	<l id="174">Pour apprendre à régner, apprenez à punir.</l>
+<stage type="exit">Il sort avec sa suite.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Icile, Sextus.
+</stage>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="175">Ainsi le sort vous sert au gré de votre envie,</l>
+	<l id="176" syll="6" part="i">Seigneur. Allons à Rome.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+<note type="L">Collatie : ou Collatia, ville située à l'est de Rome au bout de la via Collatia. </note>
+	<l id="176" syll="6" part="f">Allons à Collatie.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="177">Quand ailleurs ce devoir vous appelle en ce jour,</l>
+	<l id="178" syll="10" part="i">Quel intérêt y peut guider vos pas ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="178" syll="2" part="f">L'amour.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="179">Eh ! Depuis quand Sextus a-t-il tant de faiblesse ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="180">Depuis deux ans ; depuis qu'il aperçut Lucrèce,</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="181">Lucrèce, que l'hymen unit à Collatin.....</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="182">Lucrèce, qu'à Sextus devait unir Tarquin.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="183" syll="3" part="i">Que dites-vous !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="183" syll="9" part="f">Icile, il n'est plus temps de taire</l>
+	<l id="184">D'un feu trop concentré le pénible mystère.</l>
+	<l id="185">Fatigué de l'effort qu'il me coûte à cacher,</l>
+	<l id="186">C'est par pitié pour moi que je veux m'épancher.</l>
+	<l id="187">Dans Gabie encor libre, aux murs de tes ancêtres,</l>
+	<l id="188">Loin de Rome et de moi, tu n'avais pas de maître</l>
+	<l id="189">Quand l'innocent auteur du trouble où tu me vois</l>
+	<l id="190">Enchanta mes regards pour la première fois.</l>
+	<l id="191">Ardent, impétueux, d'illusions avide, </l>
+	<l id="192">Un instinct de plaisir avait été mon guide :</l>
+	<l id="193">Et dans la volupté de dégoûts consumé,</l>
+	<l id="194">Je voulais être heureux, et n'avais pas aimé.</l>
+	<l id="195">Ce charme impérieux qui subjugue les âmes,</l>
+	<l id="196">N'a jamais enfanté de plus rapides flammes</l>
+	<l id="197">Rendre ce coeur sensible et briser son orgueil,</l>
+	<l id="198">Fut l'effet d'un moment et celui d'un coup d'oeil.</l>
+	<l id="199">J'osai, dans mon amour espérer que Lucrèce</l>
+	<l id="200">Ne dédaignerait pas un sceptre et ma tendresse :</l>
+	<l id="201">Je mis à ses genoux et l'Empire et Sextus ;</l>
+	<l id="202">Et sa réponse, ami, ne fut pas un refus.</l>
+	<l id="203">Tarquin même à mes voeux n'eut pas été contraire,</l>
+	<l id="204">Mais pour mon désespoir Lucrèce avait un père.</l>
+	<l id="205">Tu ne le connais pas cet altier Spurius,</l>
+	<l id="206">Ce hardi zélateur des lois de Servius,</l>
+	<l id="207">Qui, dans l'égarement de son âme hautaine,</l>
+	<l id="208">Des fils de Romulus voudrait briser la chaîne ;</l>
+	<l id="209">Et parmi les débris de cette royauté,</l>
+<note type="C">On lit "libérité", il s'agit très probablement de liberté.</note>
+	<l id="210">Sur le trône écroulé fonder la liberté.</l>
+	<l id="211">Fils des Rois, jusqu'à lui quand j'ai daigné descendre,</l>
+	<l id="212">À peine le superbe a-t-il daigné m'entendre.</l>
+	<l id="213">« Renonce à ton espoir, a-t-il dit ; non, mon sang</l>
+	<l id="214">Ne s'alliera jamais à celui du Tyran.</l>
+	<l id="215">Dans un roi, mon égal, je chérissais un homme ;</l>
+	<l id="216">Mais Servius est mort, et Tarquin règne à Rome.</l>
+	<l id="217">Usurpateur du trône, assassin de mon Roi :</l>
+	<l id="218">Qu'il soit puni, Sextus, et ma fille est à toi.»</l>
+	<l id="219">Juge si j'aime, Icile ! Il me tint ce langage,</l>
+	<l id="220">Et tout son sang n'a pas expié cet outrage.</l>
+	<l id="221">Bien plus, pour le fléchir je n'ai rien épargné ;</l>
+	<l id="222">Tel dans Rome autrefois Servius a régné ;</l>
+	<l id="223">Tel léguera Sextus : et sa main tutélaire</l>
+	<l id="224">Fera pour les Romains ce qu'il eût voulu faire.</l>
+	<l id="225">Rien ne put le fléchir ; je conjurais en vain.</l>
+	<l id="226">C'est alors qu'à Gabie envoyé par Tarquin.</l>
+	<l id="227">J'osai par mon adresse en tenter la conquête,</l>
+	<l id="228">Et que le diadème enfin ceignit ma tête.</l>
+	<l id="229">Tant de gloire eût jadis assuré mon bonheur.</l>
+	<l id="230">Mais qu'importe la gloire au repos de mon coeur !</l>
+	<l id="231">Toujours plus amoureux, apprenant que mon père</l>
+	<l id="232">Aux pieds de ces remparts avait porté la guerre,</l>
+	<l id="233">J'accours ; et, pour ce camp oubliant mes États,</l>
+	<l id="234">Je vole, en apparence, à de nouveaux combats :</l>
+	<l id="235">Mais, pressé par l'honneur moins que par ma faiblesse,</l>
+	<l id="236">J'ai voulu seulement m'approcher de Lucrèce.</l>
+	<l id="237">Mon retour se célèbre. Un splendide festin,</l>
+	<l id="238">Rassemble la jeunesse aux tentes de Tarquin.</l>
+	<l id="239">On se livre à la joie au milieu des alarmes,</l>
+	<l id="240">Et la voix du plaisir se mêle au bruit des armes.</l>
+	<l id="241">Par une double ivresse un convive emporté,</l>
+	<l id="242">De celle qui le charme exaltant la beauté,</l>
+	<l id="243">« Est-il, dit Collatin, de beauté qui ne cède</l>
+	<l id="244">Au cher et chaste objet que mon amour possède ! »</l>
+	<l id="245">Il en est, m'écriai-je ; et Rome et l'Univers</l>
+	<l id="246">N'offrent pas de rivale a celle que je sers.</l>
+	<l id="247">Chacun au premier rang portant celle qu'il aime.</l>
+	<l id="248">On proposa bientôt d'en juger par soi-même,</l>
+	<l id="249">Et notre diligence égalant notre amour,</l>
+	<l id="250">Nous arrivons à Rome avant la fin du jour.</l>
+	<l id="251">Au milieu des plaisirs, dans la magnificence,</l>
+	<l id="252">Les femmes oubliaient les ennuis de l'absence ;</l>
+	<l id="253">Et le luxe importun qui chargeait leurs appâts</l>
+	<l id="254">Éblouissait les yeux et ne les charmait pas.</l>
+	<l id="255">À son inquiétude une seule livrée,</l>
+	<l id="256">Aux murs de Collatie obscure et retirée,</l>
+	<l id="257">Consacre ses moments et ses soins les plus doux</l>
+	<l id="258">Au tissu que ses doigts filent pour un époux.</l>
+	<l id="259">La modeste rougeur dont son front se colore</l>
+	<l id="260">À nos regards surpris la rend plus belle encore.</l>
+	<l id="261">Elle se précipite aux bras de Collatin ;</l>
+	<l id="262">Dieux ? Quel affreux supplice a déchiré mon sein !</l>
+	<l id="263">Transporté d'une rage égale à ma tendresse,</l>
+	<l id="264">Dans cette épouse, ami, je reconnais Lucrèce !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="265">Ah ! Mon maître, calmez ces regrets superflus !</l>
+	<l id="266">L'amour doit expirer, quand l'espoir ne vit plus...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="267">Stupide, anéanti dans ma surprise extrême,</l>
+	<l id="268">J'accusai tous mes sens, je doutai de moi-même ;</l>
+	<l id="269">J'avouai ma défaite : et pressant mon retour,</l>
+	<l id="270">Dans ce camp assoupi je devançai le jour.</l>
+	<l id="271">Là, tout ce que l'amour au désespoir inspire</l>
+	<l id="272">A régné tour-à-tour dans ce coeur qu'il déchire :</l>
+	<l id="273">L'abattement, la haine, et la crainte et l'espoir,</l>
+	<l id="274">Le projet de la fuir, le besoin de la voir ;</l>
+	<l id="275">Et dans mon indulgence et dans ma rage extrême,</l>
+	<l id="276">Vingt fois dans un moment, je m'oppose à moi-même ;</l>
+	<l id="277">Je maudis les ennuis où j'aime à me plonger ;</l>
+	<l id="278">Je crains de l'oublier, et tremble d'y songer :</l>
+	<l id="279">Ai-je enfin résolu de la fuir, la cruelle !</l>
+	<l id="280">Soudain je la revois plus touchante et plus belle.</l>
+	<l id="281">Si je cède au pouvoir qui m'entraîne à ses pieds,</l>
+	<l id="282">Son crime se retrace à mes sens effrayés.</l>
+	<l id="283">Et mon âme, de haine cet d'amour enflammée,</l>
+	<l id="284">M'apprend trop que jamais je ne l'ai tant aimée.</l>
+	<l id="285" syll="9" part="i">Mais c'est trop balancer... Partons.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="285" syll="3" part="f">Non ; demeure,</l>
+	<l id="286">Et commandes en homme à vos sens égarés.</l>
+	<l id="287">Quel projet formez-vous ? Quelle est votre espérance ?</l>
+	<l id="288">Votre amour n'a déjà que trop de violence :</l>
+	<l id="289">Quand pour en triompher vous devez tout tenter.</l>
+	<l id="290">Pourquoi chercher l'objet qui le doit augmenter ;</l>
+	<l id="291">Et vous-même, attisant le feu qui vous dévore,</l>
+	<l id="292">Joindre à de trop grands maux des maux plus grands encore ?</l>
+	<l id="293">Je lis dans votre coeur ; j'entrevois quel dessein</l>
+	<l id="294">Vous a fait en ce Camp rappeler Collatin.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="295">J'en atteste des Dieux la majesté suprême,</l>
+	<l id="296" syll="6" part="i">Ce coeur est innocent.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="296" syll="6" part="f">Ah ! Doutez de vous-même !</l>
+	<l id="297">Je sais jusqu'où Sextus pourrait être emporté.</l>
+	<l id="298">Dans votre égarement, vous seriez-vous flatté</l>
+	<l id="299">D'une espérance vaine autant qu'injurieuse ?</l>
+	<l id="300">Songez que la plus belle est la plus vertueuse ;</l>
+	<l id="301" syll="4" part="i">Que Lucrèce !...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="301" syll="8" part="f">J'aurais conservé quelque espoir ?</l>
+	<l id="302">Il ne m'en reste qu'un, celui de la revoir.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="303">Évitez-la plutôt, quand vous devez tout craindre, </l>
+	<l id="304">D'un transport qui déjà vous a tout soit enfreindre.</l>
+	<l id="305">Indifférent surtout, avez-vous en ce jour</l>
+	<l id="306">D'autres voeux, d'autres soins que ceux de votre amour ;</l>
+	<l id="307">Et dans ce même instant, à cet amour extrême,</l>
+	<l id="308">N'immolez-vous pas Rome, et Tarquin et vous-même ?</l>
+	<l id="309">Vous m'avez entendu, Seigneur... Vous vous troublez,</l>
+	<l id="310">La raison luirait-elle à vos yeux dessillés ?</l>
+	<l id="311">Qu'en faveur de vous-même un ami vous fléchisse !</l>
+	<l id="312">Arrêtez-vous à temps au bord du précipice.</l>
+	<l id="313">L'honneur et le devoir vous en font une loi ;</l>
+	<l id="314" syll="10" part="i">S'y refuser, Sextus, c'est se perdre.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="314" syll="2" part="f">Suis-moi.</l>
+<stage type="exit">Ils sortent.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<stage type="decor">Le Théâtre représente le Vestibule du Palais de Collatin.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Spirius, Collatin.
+</stage>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="315">Croirai-je, Spurius, ce que je viens d'entendre ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="316">J'en ai de sûrs garants et j'aime à vous l'apprendre.</l>
+	<l id="317">De ses fers, Collatin, le Romain s'est lassé ;</l>
+	<l id="318">Et Tarquin sur son Trône est enfin menacé.</l>
+	<l id="319">Sénateurs, Plébéiens, qu'un même zèle enflamme,</l>
+	<l id="320">Ainsi qu'un intérêt, semblent n'avoir qu'une âme.</l>
+	<l id="321">Mais on ignore encor quel génie, en secret,</l>
+	<l id="322">Invisible et présent conduit ce grand projet.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="323">Ce génie à mes yeux n'est qu'un hardi coupable.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="324">Au vengeur des Romains donner un nom semblable !</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="325">Je n'y vois qu'un rebelle armé contre ses Rois.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="326">Je n'y vois que l'appui de l'État et des Lois,</l>
+	<l id="327" syll="3" part="i">Un Romain.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="327" syll="9" part="f">Comme lui je suis Romain dans l'âme ;</l>
+	<l id="328">Le public intérêt non moins que lui m'enflamme.</l>
+	<l id="329">Qu'il pense en factieux, je pense en citoyen ;</l>
+	<l id="330">Et dans un moindre mal ma raison voit un bien.</l>
+	<l id="331">Prévoit-on, sans effroi, tous les malheurs qu'attire</l>
+	<l id="332">Ce mouvement subit qui renverse un Empire ?</l>
+	<l id="333">Dans l'arène qu'il ouvre à la dissension,</l>
+	<l id="334">L'ambition combat contre l'ambition.</l>
+	<l id="335">L'intérêt, détruisant tout lien légitime,</l>
+	<l id="336">Sert de mesure au droit comme il eu sert au crime.</l>
+	<l id="337">Par des moyens affreux, on suit d'affreux projets :</l>
+	<l id="338">Et l'État sans pouvoir, sans lois et sans sujets,</l>
+	<l id="339">Dans les convulsions de la guerre civile.</l>
+	<l id="340">Pour un Tyran qui tombe, en voit renaître mille,</l>
+	<l id="341">S'il ne succombe pas, il guérit lentement</l>
+	<l id="342">De ce mal qui sur tout s'attache également.</l>
+	<l id="343">Ah, quels que soient les maux qu'ait fait un Roi barbare,</l>
+	<l id="344">Qu'un prince généreux aisément les répare !</l>
+	<l id="345">Accablant pour plusieurs, et pour plusieurs léger,</l>
+	<l id="346">Ce fléau n'est enfin qu'un fléau passager :</l>
+	<l id="347">Et souvent sous la loi qu'un citoyen abhorre,</l>
+	<l id="348">Un autre citoyen se croit heureux encore.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="349">Qu'importe, Collatin, ce trouble d'un moment,</l>
+	<l id="350">S'il nous prépare un bien général et constant !</l>
+	<l id="351">D'autant moins dangereux qu'il nous paraît extrême,</l>
+	<l id="352">Le désordre a son terme et se détruit lui-même.</l>
+	<l id="353">L'État plus éprouvé qu'affaissé par son poids,</l>
+	<l id="354">N'en sent que mieux le prix de la paix et des lois.</l>
+	<l id="355">Qu'elles règnent ces lois que Tarquin veut éteindre ;</l>
+	<l id="356">Qu'il soit enfin puni d'avoir pu les enfreindre :</l>
+	<l id="357">Qu'avec l'usurpateur Rome exile aujourd'hui,</l>
+	<l id="358">Quiconque le regrette ou pense comme lui.</l>
+	<l id="359">Près du malheur public, leur malheur n'est qu'une ombre.</l>
+	<l id="360">L'intérêt de l'État est celui du grand nombre ;</l>
+	<l id="361">Celui du Peuple enfin. Eh, quel bonheur honteux</l>
+	<l id="362">Peut-on connaître au sein d'un peuple malheureux ?</l>
+	<l id="363">Ce bonheur, s'il en est au milieu des entraves,</l>
+	<l id="364">Est fait pour les Tyrans ou fait pour les esclaves.</l>
+	<l id="365">Le vrai Citoyen porte un coeur compatissant :</l>
+	<l id="366">Témoin de l'infortune, il n'en est pas exempt.</l>
+	<l id="367">Périsse l'insensé qui, sourd à la nature,</l>
+	<l id="368">De sa voix gémissante étouffe le murmure ;</l>
+	<l id="369">Qui, d'un oeil insensible et d'un coeur endurci,</l>
+	<l id="370">Voit répandre des pleurs sans en répandre aussi ;</l>
+	<l id="371">Qui de toute pitié s'affranchit par prudence,</l>
+	<l id="372">Et concentre en lui seul son étroite existence !</l>
+	<l id="373">Étranger aux amis dont il est entouré,</l>
+	<l id="374">Et parmi les humains des humains séparé,</l>
+	<l id="375">Au jour du désespoir c'est en vain qu'il réclame</l>
+	<l id="376">La pitié qui jamais n'a réchauffe son âme ;</l>
+	<l id="377">Et le malheur auquel il ne peut compatir</l>
+	<l id="378">Du malheur qui l'attend ne saurait l'avertir.</l>
+	<l id="379">Ouvrez enfin les yeux sur votre erreur extrême ;</l>
+	<l id="380">Voyez les maux de Rome, et tremblez pour vous-même.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="381" syll="2" part="i">Pour moi !</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="381" syll="10" part="f">Pour vous. Eh quoi, n'apercevez vous pas</l>
+	<l id="382">L'abîme par vous-même entr'ouvert sous vos pas !</l>
+	<l id="383">Quand aux ardents regards d'une avide jeunesse,</l>
+	<l id="384">Votre imprudence offrait ses attraits de Lucrèce,</l>
+	<l id="385">Puissiez vous chèrement n'avoir pas acheté</l>
+	<l id="386">Le succès qui plut tant à votre vanité !</l>
+	<l id="387">Être heureux sans éclat est l'art de toujours l'être :</l>
+	<l id="388">On risque son bonheur, quand on le fait connaître.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="389">Mon bonheur contre tout n'est-il pas affermi ?</l>
+	<l id="390">Lucrèce est mon épouse, et Sextus mon ami.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="391">Plus il est votre ami, plus je vous trouve à plaindre :</l>
+	<l id="392">Moins que son amitié sa haine était à craindre.</l>
+	<l id="393">Sachez... Lucrèce vient. Quel déplaisirs secrets</l>
+	<l id="394">D'un coeur longtemps si calme ont pu troubler la paix ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les mêmes, Lucrèce.
+</stage>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="395">Cher épouse, il est temps de rompre le silence ;</l>
+	<l id="396">Ou c'est trop de tendresse ou trop d'indifférence.</l>
+	<l id="397">Par un doute outrageant c'est offenser ma foi,</l>
+	<l id="398">Que d'avoir plus longtemps des secrets avec moi.</l>
+	<l id="399">Parlez, éclaircissez le doute qui m'oppresse ;</l>
+	<l id="400">Laissez-moi lire encor dans le coeur de Lucrèce,</l>
+	<l id="401">Dans ce coeur généreux, tendre, fier, ingénu,</l>
+	<l id="402">Et qui tout à l'amour, est tout à la vertu.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="403">Un an s'est écoulé depuis que l'hyménée</l>
+	<l id="404">À la vôtre, Seigneur, unit ma destinée ;</l>
+	<l id="405">Et cette année, au gré d'un mutuel amour,</l>
+	<l id="406">Dans sa course rapide, a passé comme un jour.</l>
+	<l id="407">Tant qu'il n'importa pas au règne plus durable</l>
+	<l id="408">D'un bonheur que longtemps je crus inaltérable ;</l>
+	<l id="409">J'avais pensé devoir vous celer un secret</l>
+	<l id="410">Que ma bouche aujourd'hui vous révèle à regret.</l>
+	<l id="411">Avant que Spurius eut à votre tendresse</l>
+	<l id="412">Confié le destin de l'heureuse Lucrèce,</l>
+	<l id="413">Lucrèce fut aimée ; et le fils de Tarquin,</l>
+	<l id="414">M'avait offert son trône et demandait ma main ;</l>
+	<l id="415">Mais en vain : ni son rang ni son amour sincère,</l>
+	<l id="416">Jamais en sa faveur n'ont pu fléchir mon père :</l>
+	<l id="417">Et lui-même bientôt docile à son devoir,</l>
+	<l id="418">Fut au sein des combats porter son désespoir.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="419">Tandis que des Tarquins il suivait les maximes</l>
+	<l id="420">Que ses premiers exploits étaient des premiers crimes ;</l>
+	<l id="421">Et que des Gabiens trahissant l'amitié, </l>
+	<l id="422">D'un indigne esclavage il payait leur pitié,</l>
+	<l id="423">Mon choix vous préférait au fils du Roi_de_Rome.</l>
+	<l id="424">Ce n'était qu'un Monarque, et je voulais un homme.</l>
+	<l id="425">Le sort de mes vieux ans aurait été trop doux,</l>
+	<l id="426">Si, non moins bon Romain que généreux époux, </l>
+	<l id="427">Dans tous les Citoyens chérissant ma famille,</l>
+	<l id="428">Vous aimiez Rome autant que vous aimez ma fille.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="429">Mon coeur également toutes deux les chérit...</l>
+<stage type="toward">À Lucrèce.</stage>
+	<l id="430">Mais calmez la terreur qui trouble votre esprit.</l>
+	<l id="431">Lucrèce, quel est donc ce grand sujet de crainte ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="432">La flamme de Sextus n'est pas encore éteinte ;</l>
+	<l id="433">Si j'en crois ses regards où j'ai vu tout son coeur,</l>
+	<l id="434">Il ne m'aima jamais avec plus de fureur.</l>
+	<l id="435">Tandis qu'en sa présence à mes transports en proie,</l>
+	<l id="436">Sur votre heureux retour je témoignais ma joie,</l>
+	<l id="437">Avez-vous observé quel sombre abattement.</l>
+	<l id="438">Succéda tout-à-coup à son étonnement ?</l>
+	<l id="439">Tout entier abîmé dans sa douleur farouche,</l>
+	<l id="440">Ses soupirs mal formés expiraient sur sa bouche :</l>
+	<l id="441">Et ses yeux égarés, exprimant tour-à-tour</l>
+	<l id="442">Le dépit, la douleur, la surprise et l'amour,</l>
+	<l id="443">Un signe trop certain m'offraient sur son visage</l>
+	<l id="444">Du plus affreux malheur le plus affreux présage.</l>
+	<l id="445">J'en ai frémi longtemps ; et même entre vos bras</l>
+	<l id="446">L'effroi qui me poursuit ne se dissipe pas.</l>
+	<l id="447">Ah ! De votre bonheur si votre âme est jalouse,</l>
+	<l id="448">Et si vous.chérissez celui de votre épouse,</l>
+	<l id="449">Au nom de votre amour promettez que Sextus</l>
+	<l id="450">Dans ces lieux, cher époux, ne reparaîtra plus.</l>
+	<l id="451">Le noir pressentiment dont mon coeur n'est pas maître.</l>
+	<l id="452">De la bonté du Ciel est un avis peut-être.</l>
+	<l id="453">À ce jour qui nous luit ne fermons pas les yeux :</l>
+	<l id="454">La terreur quelquefois est un bienfait des Dieux.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="455">Est-ce un bienfait des Dieux que cette crainte vaine</l>
+	<l id="456">Qu'un instant et qu'un mot vont dissiper sans peine !</l>
+	<l id="457">Du secret de Sextus par lui-même informé,</l>
+	<l id="458">Je sais qu'il aime ailleurs autant qu'il est aimé.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="459" syll="4" part="i">Il se pourrait !</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="459" syll="8" part="f">Sans doute il a trop fait paraître</l>
+	<l id="460">Un dépit qu'il eût dit dissimuler peut-être ;</l>
+	<l id="461">Mais il faut pardonner à l'amant irrité</l>
+	<l id="462">De l'aveu qu'à son coeur coûtait votre beauté,</l>
+	<l id="463">Et qui n'a pu vous voir occuper sans tristesse</l>
+	<l id="464">Le rang où son amour élevait sa maîtresse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les mêmes, Arons.
+</stage>
+<sp who="ARONS"><speaker>ARONS.</speaker>
+<note type="L">Rutules : Peuple du Latium, au sud de Rome, dont la capitale est Ardée. [WIKIPEDIA]</note>
+	<l id="465">Le Rutule vaincu, pressé de toutes parts,</l>
+	<l id="466">Réduit au seul abri de ses faibles remparts,</l>
+	<l id="467">A vu nos fiers Romains appelant les batailles,.</l>
+	<l id="468">D'un cercle plus étroit enceindre ses murailles.</l>
+	<l id="469">L'assaut va se donner pour diriger les coups,</l>
+	<l id="470">Et l'armée et le Roi n'attendent plus que vous.</l>
+	<l id="471">Venez, guidez nos pas : par votre diligence, </l>
+	<l id="472">Justifiez, Seigneur, la publique espérance ;</l>
+	<l id="473">Justifiez Sextus qui vous cède aujourd'hui</l>
+	<l id="474">Un honneur qui devait n'appartenir qu'a lui.</l>
+	<l id="475">Oui, c'est son amitié, c'est son généreux zèle,</l>
+	<l id="476">Qui vous ont obtenu cette gloire immortelle.</l>
+	<l id="477">Venez : qu'on reconnaisse a vos heureux exploits</l>
+	<l id="478">Le digne enfant de Rome et le pur sang des Rois.</l>
+	<l id="479" syll="6" part="i">C'est l'ordre de Tarquin.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="479" syll="6" part="f">Je lui serai fidèle :</l>
+	<l id="480">À de pareilles lois est-on jamais rebelle ?</l>
+	<l id="481">Et quelque fut le bras que Tarquin eût choisi,</l>
+	<l id="482">Sans doute il n'eut pas craint d'être désobéi !</l>
+	<l id="483">Sextus ne sera pas trompé dans son attente.</l>
+	<l id="484">Au milieu des combats, son amitié contente ;</l>
+	<l id="485">Me verra soutenir par de nobles efforts,</l>
+	<l id="486">Et le rang où j'arrive, et le sang dont je sors.</l>
+	<l id="487" syll="8" part="i">Je marche sur vos pas. Allez.</l>
+<stage type="exit">Arons sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Spurius, Lucrèce, COLLATIN.
+</stage>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="487" syll="4" part="f">Eh bien, mon père,</l>
+	<l id="488">L'amitié de Sextus peut-elle être sincère ;</l>
+	<l id="489">Et de pareils bienfaits de la part d'un ami,</l>
+	<l id="490">Témoignent-ils qu'il aime et qu'il serve à demi ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="491">Sans m'avoir convaincu, ce procédé m'étonne :</l>
+	<l id="492">Plus il est généreux, et plus je le soupçonne.</l>
+	<l id="493">Le bien même est suspect, quand il vient des tyrans ;</l>
+	<l id="494">Et je crains les Tarquins jusques dans leurs présents.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="495">C'est aussi se livrera trop d'inquiétude ;</l>
+	<l id="496">Et ce soupçon chez moi serait ingratitude.</l>
+	<l id="497">Mon coeur reconnaissant dédaigne de chercher</l>
+	<l id="498">Quel piège dangereux tant d'honneur peut cacher.</l>
+	<l id="499">Je ne vois qu'un bienfait ; et je me plais à croire</l>
+	<l id="500">Que le sang des Tarquins a des droits à leur gloire.</l>
+	<l id="501">Je pense, en l'acceptant, n'avoir rien hasardé ;</l>
+	<l id="502">Et, si j'ai des regrets, c'est d'avoir trop tardé.</l>
+	<l id="503" syll="6" part="i">Rejoindrez-vous le Camp ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="503" syll="6" part="f">Oui, je vous y veux suivre,</l>
+	<l id="504">Je ne partage pas l'erreur qui vous enivre ;</l>
+	<l id="505">Tant que vous dormirez, je veillerai pour vous.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="506" syll="3" part="i">Vous partez !</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="506" syll="9" part="f">Le devoir l'ordonne à votre époux.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="507" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="507" syll="10" part="f">Séchez vos pleurs, ô ma chère Lucrèce !</l>
+	<l id="508">Sa voix n'est pas toujours contraire à la tendresse.</l>
+	<l id="509">Bientôt me rappelant au séjour du bonheur,</l>
+	<l id="510">Il fera pour l'amour ce qu'il fait pour l'honneur.</l>
+<stage type="exit">Lucrèce sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> SPURIUS, COLLATIN, BRUTUS, dfefinde la Scène. 
+</stage> 
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="511" syll="2" part="i">Eh quoi !...</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="511" syll="10" part="f">Justifions la faveur qui me nomme.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="512">Quel espoir m'abusait ! Ô malheureuse Rome,</l>
+	<l id="513">D'enfants dégénérés, hélas, qu'attendrais-tu !</l>
+	<l id="514">La vertu de l'esclave est leur seule vertu.</l>
+	<l id="515">Oui : le tyran mettrait un terme à sa puissance,</l>
+	<l id="516">Avant qu'il en trouvât à leur obéissance.</l>
+	<l id="517">Romains, c'est donc en vain que de la liberté</l>
+	<l id="518">Vos yeux ont un moment entrevu la clarté.</l>
+	<l id="519">Servius est tombé. Tarquin règne ; et le Tibre,</l>
+	<l id="520">Qui s'enorgueillissait de voir un peuple libre,</l>
+	<l id="521">En vain le redemande à ce Peuple énervé,</l>
+	<l id="522">Indigne d'un bonheur qu'il n'a pas conservé.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="523">C'est ainsi que votre âme, indépendante, austère,</l>
+	<l id="524">Nourrit ses noirs chagrins,de maux qu'elle exagère.</l>
+	<l id="525">Ce Roi que vous pleurez, ce Servius enfin</l>
+	<l id="526">Vous le regrettiez moins, haïssant moins Tarquin ?</l>
+	<l id="527">Quelque soient les bienfaits que son règne rassemble,</l>
+	<l id="528">N'est-on grand en effet qu'autant qu'on lui ressemble ?</l>
+	<l id="529">J'avouerai que Tarquin s'égarant quelque fois,</l>
+	<l id="530">De son sceptre aux Romains fit trop sentir le poids ;</l>
+	<l id="531">J'avouerai qu'abusé par sa fausse prudence.</l>
+	<l id="532">Trop souvent la terreur signala sa puissance :</l>
+	<l id="533">Mais, tout en le blâmant, j'admire quel éclat</l>
+	<l id="534">Son règne glorieux répand sur cet État.</l>
+	<l id="535">Invincible en ses camps, en ses murs embellie,</l>
+	<l id="536">Je vois Rome annoncer des fers à l'Italie.</l>
+<note type="L">Gabie : Ancienne ville du Latium, à 20 km à l'est de Rome. [WIKIPEDIA]</note>
+	<l id="537">Gabie est sous nos lois. Entre nos ennemis</l>
+	<l id="538">En est-il qui ne soit tributaire ou soumis !</l>
+	<l id="539">Qui nous bravait jadis aujourd'hui nous révère,</l>
+	<l id="540">Et, lorsqu'enfin la paix a remplacé la guerre ;</l>
+	<l id="541">La féconde industrie occupe tous ces bras</l>
+	<l id="542">Qui servaient la Patrie au milieu des combats.</l>
+	<l id="543">Ceux qui la défendaient aujourd'hui l'embellissent ;</l>
+	<l id="544">Du Tibre emprisonné les flots domptés mugissent ;</l>
+	<l id="545">Des Canaux sont creusés, des ponts sont suspendus ;</l>
+	<l id="546">Rome voit s'élever ses murs plus étendus :</l>
+	<l id="547">Et, des vains monuments dédaignant l'art frivole,</l>
+	<l id="548">Sur sa Roche imprenable assoit le_Capitole.</l>
+	<l id="549">MaIs que veulent de moI ces ombres quI s'embrassent,</l>
+	<l id="550">Et de leurs bras sanglants toutes deux m'entrelacent ?</l>
+	<l id="551">Dans mon sein tout-à-coup mon sang s'est arrêté,</l>
+	<l id="552">Et de joie et d'horreur mon coeur a palpité.</l>
+	<l id="553">Ah ! Je vous reconnais, ombre auguste ! Ombre chère !</l>
+	<l id="554">Ô mon père, est-ce vous ! Est-ce vous, ô mon frère !</l>
+	<l id="555">À l'amour de Brutus si promptement ravis, </l>
+	<l id="556">Vous, que s'il eût vengés il eût déjà suivis !</l>
+	<l id="557">Tous deux chérissant Rome et tous deux aimés d'elle,</l>
+	<l id="558">L'un en était l'espoir et l'autre le modèle,</l>
+	<l id="559">Quelle main de vos jours précipita la fin ?</l>
+	<l id="560">Qui vous dois-je immoler ?.... Ils ont nommé Tarquin.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="561">Ces forfaits sont les siens. Un Tigre, une furie,</l>
+	<l id="562">Cinq lustres ont en paix dévoré la Patrie.</l>
+	<l id="563">Enrichi de ses biens, de son sang enivré,</l>
+	<l id="564">Aux fureurs de Tarquin fut il rien de sacré !</l>
+	<l id="565">Il vit pourtant ; il règne : et Rome, qu'il opprime,</l>
+	<l id="566">.Semble, pour le punir, attendre encore un crime,</l>
+	<l id="567">Loin de l'attendre, osons venger et prévenir,</l>
+	<l id="568">Et nos malheurs passés et nos maux à venir.</l>
+	<l id="569">L'Enfer nous le commande, et le Ciel nous seconde.</l>
+	<l id="570">La cause des Romains est la cause du Monde.</l>
+	<l id="571">Osons déterminer tous ces esprits flottants ;</l>
+	<l id="572" syll="6" part="i">Donnons l'exemple à Rome.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<stage type="watch">Après avoir observé Collatin.</stage>
+	<l id="572" syll="6" part="f">Il n'est pas encor temps. </l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<stage type="decor">Le Théâtre représente l'intérieur de l'appartement de Lucrèce. Ses femmes dans le fond de la scène, à droite, font occupées à des ouvrages de laine.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE. </speaker>
+	<l id="573">Ainsi Sextus est libre.... Il est libre... Et son âme</l>
+	<l id="574">Pour un nouvel objet et m'oublie et s'enflamme.</l>
+	<l id="575">Mais lorsque sur son coeur je ne prétends plus rien,</l>
+	<l id="576">Quel trouble inattendu s'élève dans le mien !</l>
+	<l id="577">Quelle erreur, quel délire étrange, inconcevable,</l>
+	<l id="578">À mes yeux, malgré moi, le fait voir en coupable,</l>
+	<l id="579">Et quand il accomplit ce que j'ai souhaité,</l>
+	<l id="580">Lui reproche en secret son infidélité ?</l>
+	<l id="581">Inutiles soucis... Depuis que l'hyménée</l>
+	<l id="582">Par les noeuds les plus saints fixa ma destinée,</l>
+	<l id="583">Ai-je formé jamais le plus léger espoir</l>
+	<l id="584">Qui put blesser mes voeux et trahir mon devoir ?</l>
+	<l id="585">Non, non ; c'est envers moi me montrer trop sévère ;</l>
+	<l id="586">C'est trop m'épouvanter d'une vaine chimère.</l>
+	<l id="587">D'un esprit inquiet l'ouvrage et le tourment,</l>
+	<l id="588">Que ma raison, plus sage, apprécie et dément.</l>
+	<l id="589">Ma vertu me rassure et je me rends justice ;</l>
+	<l id="590">Des écarts de l'eSprit le coeur n'est pas complice.</l>
+	<l id="591">Fuyez, vaines terreurs, fantômes de la nuit,</l>
+	<l id="592">Qu'à son premier rayon se jour naissant détruit.</l>
+<stage type="toward">À ses femmes.</stage>
+	<l id="593">Compagnes de Lucrèce, achevez votre ouvrage.</l>
+	<l id="594">Tandis que mon époux signale son courage,</l>
+	<l id="595">Hâtez-vous d'embellir, au gré de mon amour,</l>
+	<l id="596">Le tissu dont je veux le parer au retour,</l>
+	<l id="597">L'effroi saisit mon coeur et tout mon sang se glace,</l>
+	<l id="598">Quand je songe aux périls qu'affronte son audace ;</l>
+	<l id="599">Quand je le vois, terrible au milieu des soldats,</l>
+	<l id="600">Semblable en tout au Dieu qui préside aux combats,</l>
+	<l id="601">Je m'abandonne alors à ma douleur stérile ;</l>
+	<l id="602">L'épouse d'un héros ne dort jamais tranquille.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Lucrèce, Sextus, Icile, Femmes.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="603">Tu la vois.... Qu'elle est belle ! Ah ! deviez-vous jamais</l>
+	<l id="604">À tant de perfidie allier tant d'attraits.</l>
+	<l id="605" syll="3" part="i">Dieux cruels !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="605" syll="9" part="f">Quel transport s'empare de votre âme !</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="606" syll="6" part="i">Que vois-je ? Ô ciel ! Sextus...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="606" syll="6" part="f">Rassurez-vous, Madame.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="607">Lorsque Rome et l'honneur demandent votre bras,</l>
+	<l id="608">Quel motif en ces lieux a pu guider vos pas ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="609">Un ordre de Tarquin.... Si vous daignez m'entendre,</l>
+	<l id="610">Ordonnez qu'on s'éloigne et vous allez l'apprendre.</l>
+<stage type="exit">Icile et les Femmes de Lucrèce se retirent dans le vestibule dont la porte reste ouverte. Icile sort au signe que lui fait Sextus.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lucrece, Sextus.
+</stage>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="611">Ah ! Souffrez, avant tout, lorsque je vous revois,</l>
+	<l id="612">Que j'acquitte envers vous tout ce que je vous dois.</l>
+	<l id="613">Ce haut rang dans lequel mon époux vous succède,</l>
+	<l id="614">Cet honneur éclatant que l'amitié lui cède ;</l>
+	<l id="615">Ces bienfaits.... Mais, Seigneur, quel effrayant courroux,</l>
+	<l id="616" syll="6" part="i">Dans vos yeux égarés...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="616" syll="6" part="f">Vous en offensez-vous ?</l>
+	<l id="617">Plus justement peut-être un coeur trompé murmure</l>
+	<l id="618">D'un calme, qui sied mal au front d'une parjure.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="619" syll="4" part="i">Qui, moi, parjure !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="619" syll="8" part="f">Vous. Ce coeur qui me trahit,</l>
+	<l id="620">Mille fois avant moi ne vous l'a-t-il pas dit ?</l>
+	<l id="621">Tout ce qui s'offre à vous, tout ce qui vous approche?</l>
+	<l id="622">Ne vous en fait-il pas un éternel reproche ?</l>
+	<l id="623" syll="6" part="i">Qu'étiez-vous qu'êtes-vous ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="623" syll="6" part="f">Seigneur, je vous entends.</l>
+	<l id="624">Je commence à percer ces secrets importants,</l>
+	<l id="625">Qui de tous ses témoins redoutant la présence,</l>
+	<l id="626">Ne s'expliquaient que trop malgré votre silence ;</l>
+	<l id="627">Mais, je ne devais pas les pénétrer d'abord ;</l>
+	<l id="628">Mon coeur est sans soupçons comme il est sans remord.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="629">Pour vous justifier que pourrez-vous me dire ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="630">Je ne dirai qu'un mot et ce mot doit suffire.</l>
+	<l id="631" syll="4" part="i">Je suis Romaine.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="631" syll="2" part="m">Eh bien ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="631" syll="6" part="f">Ignorez-vous quels droits</l>
+	<l id="632">Sur ses enfants, un père a reçu de nos lois ?</l>
+	<l id="633">De nos Rois le plus grand, puis qu'il est le plus sage,</l>
+	<l id="634">Numa, pour consommer son immortel ouvrage ;</l>
+	<l id="635">Pour assurer aux lois un empire éternel,</l>
+	<l id="636">Appuya leur pouvoir du pouvoir paternel.</l>
+	<l id="637">Telle est l'autorité, redoutable, suprême,</l>
+	<l id="638">Qui, plus forte que moi, disposa de moi-même ;</l>
+	<l id="639">Quels que fussent mes voeux, Seigneur, j'ai dû céder</l>
+	<l id="640">Aux désirs de celui qui pouvait commander.</l>
+	<l id="641">Rejeter un hymen qu'il désirait conclure,</l>
+	<l id="642">C'était avec les lois offenser la nature.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="643">La nature, est-ce vous qui l'osez réclamer ?</l>
+	<l id="644">N'avez-vous pas perdu le droit de la nommer ;</l>
+	<l id="645">Quand aux Autels_des_Dieux, sans remord et sans crainte,</l>
+	<l id="646">Vous avez de ses lois violé la plus sainte ;</l>
+	<l id="647">Et parjure à vous même, abrogé, sans retour,</l>
+	<l id="648">Des droits d'autant plus chers qu'ils naissent de l'amour.</l>
+	<l id="649">Je fais tout ce qu'on doit au sacré caractère,</l>
+	<l id="650">Qu'un préjugé sublime attache au front d'un père.</l>
+	<l id="651">De nos Dieux, comme un père est l'image à nos yeux,</l>
+	<l id="652">Je veux qu'on le révère à l'égal de nos Dieux :</l>
+	<l id="653">Qu'on rende avec usure à sa faible existence,</l>
+	<l id="654">Les soins qu'il prodiguait à notre faible enfance.</l>
+	<l id="655">Mais à ce culte seul je borne mon devoir.</l>
+	<l id="656">Je ne reconnais pas cet étrange pouvoir</l>
+	<l id="657">Qui d'un père absolu consacrant le caprice,</l>
+	<l id="658">De tous mes sentiments prescrit le sacrifice ;</l>
+	<l id="659">Et, de mon propre coeur faisant taire la voix,</l>
+	<l id="660">M'ordonne de haïr, ou d'aimer à son choix.</l>
+	<l id="661">L'amour ne s'astreint pas à tant d'obéissance.</l>
+	<l id="662">On connaît de Tarquin l'orgueil et la puissance,</l>
+	<l id="663">Eh bien, j'atteste ici la majesté des Dieux,</l>
+	<l id="664">Et ce feu dévorant que j'ai pris dans vos yeux,</l>
+	<l id="665">Qu'il eut de son pouvoir écrasé ma faiblesse,</l>
+	<l id="666">Sans m'avoir pu contraindre à trahir ma tendresse,</l>
+	<l id="667">Qu'il m'eût arraché tout, rang, fortune, grandeur.</l>
+	<l id="668">Avant que d'arracher un parjure à mon coeur.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="669">Je suis juste, Sextus. Et, bien loin que je blâme?</l>
+	<l id="670">Le nouveau sentiment qui règne dans votre âme,</l>
+	<l id="671">J'ai dû, me dégageant, dégager votre foi,</l>
+	<l id="672">Et je vous applaudis d'en user comme moi.</l>
+	<l id="673">Aimez, soyez aimé ; dans des noeuds que j'approuve,</l>
+	<l id="674">Puissiez-vous rencontrer le bonheur que j'éprouve !</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="675">De quel affreux bonheur, de quels noeuds parlez-vous ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="676">Cet aveu qui par vous fut fait à mon époux, </l>
+	<l id="677" syll="6" part="i">Cette beauté pour qui...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="677" syll="6" part="f">Je vous comprends, cruelle ;</l>
+	<l id="678">Il était doux pour vous de me croire infidèle.</l>
+	<l id="679">Imiter votre crime eut été l'excuser.</l>
+	<l id="680">Mais il est doux pour moi de vous désabuser :</l>
+	<l id="681">Fait pour justifier mon désespoir extrême</l>
+	<l id="682">Cet aveu n'eut jamais d'autre objet que vous-même.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="683" syll="6" part="i">Quoi ! Vous aimez toujours...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="683" syll="6" part="f">Toujours avec transport.</l>
+	<l id="684">Celle qui d'un seul mot peut décider mon sort.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage>, à part.
+	</stage>
+	<l id="685">Mon coeur semble avec lui d'accord pour me confondre,</l>
+	<l id="686">Dans quel trouble il me jette et comment lui répondre !</l>
+	<l id="687" syll="3" part="i">Quel supplice !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="687" syll="9" part="f">Lucrèce, eh quoi, vous frémissez ?</l>
+	<l id="688" syll="4" part="i">Vous vous taisez...</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="688" syll="8" part="f">Sextus, c'est vous apprendre assez</l>
+	<l id="689">Qu'il vous faut désormais condamner au silence,</l>
+	<l id="690">Ce malheureux amour dont mon devoir s'offense.</l>
+	<l id="691">Dans ces lieux plus longtemps cessez de m'arrêter,</l>
+	<l id="692">Je deviendrais coupable à vous plus écouter.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="693">Oui, vous l'êtes, perfide ! Oui, vous êtes coupable,</l>
+	<l id="694">D'un forfait aussi grand qu'il est irréparable.</l>
+	<l id="695">Mais tout affreux qu'il soit, il peut-être oublié,</l>
+	<l id="696">Prononcez un seul mot et tout est expié</l>
+	<l id="697" syll="3" part="i">M'aimez-vous ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="697" syll="9" part="f">Est-ce à moi que ce discours s'adresse ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="698" syll="6" part="i">Connaissez-vous Sextus ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="698" syll="6" part="f">Connaissez-vous Lucrèce ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="699">Sachez que ce silence ordonne mon trépas.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="700">Sachez qu'à cet aveu, je ne survivrais pas..</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="701">Il m'aurait consolé des peines de la vie.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="702">Il couvrirait mes jours de honte et d'infamie.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="703" syll="2" part="i">Mourons...</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="703" syll="2" part="m">Sextus !</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="703" syll="8" part="f">Cessez vos efforts superflus,</l>
+	<l id="704" syll="3" part="i">Ou parlez.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="704" syll="9" part="f">Ô tourment !... Mais j'aperçois Brutus ;</l>
+	<l id="705">L'ami de mon époux. Ah ! Je sens qu'à sa vue,</l>
+	<l id="706">Ma vertu toute entière à mon âme est rendue.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les précédents, Brutus.
+</stage>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="707" syll="6" part="i">Approchez amis fidèles.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="707" syll="6" part="f">En croirai-je mes yeux ?</l>
+	<l id="708">Brutus, cet insensé, ce traître dans ces lieux !</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="709">Exemple infortuné ces misères humaines,</l>
+	<l id="710">L'amitié quelque fois y consola ses peines.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="711">Oui, souvent vous rendez à ce coeur abattu,</l>
+	<l id="712">Le calme que possède et donné la vertu.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="713">Sur un point important satisfais mon envie,</l>
+	<l id="714">Si malgré tes malheurs tu peux chérir la vie...</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="715">Pour les infortunés la vie est un tourment,</l>
+	<l id="716">Toujours insupportable et toujours renaissant.</l>
+	<l id="717">Si ce jour, d'une année, où l'ennui me dévore</l>
+	<l id="718">N'est que le précurseur d'un jour plus lent encore ;</l>
+	<l id="719">Après avoir souffert s'il faut encor souffrir,</l>
+	<l id="720">Le seul voeu qui me reste est le voeu de mourir.</l>
+	<l id="721">Mais, lorsque dans un coeur contraint à la constance,</l>
+	<l id="722">L'abattement n'a pas desséché l'espérance;</l>
+	<l id="723">Lorsque la volonté, souveraine du sort,</l>
+	<l id="724">Pour ses hardis projets craint recueil de la mort.</l>
+	<l id="725">Alors, malgré les maux dont elle est poursuivie,</l>
+	<l id="726">Par effort de courage, on aime encor la vie.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="727" syll="5" part="i">Tu la chérirais ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="727" syll="1" part="m">Oui.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+<note type="L">Dans l'édition originale, on lit "Approche" au lieu de "Viens donc", un erratum est présent en fin d'ouvrage.</note>
+	<l id="727" syll="6" part="f">Viens donc.... Éclaircis-moi</l>
+	<l id="728">Un bruit, qui dans le Camp a passé jusqu'au Roi ;</l>
+	<l id="729">Atteste que, des tiens embrassant la vengeance, </l>
+	<l id="730">De coupables complots tu connais l'existence.</l>
+	<l id="731" syll="8" part="i">Que m'apprendre rapport, Brutus ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="731" syll="4" part="f">La vérité.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="732">On pourrait faire grâce à ta témérité.</l>
+	<l id="733">Si tu veux te soustraire aux plus affreux supplices,</l>
+	<l id="734">À l'instant même, il faut me nommer tes complices,</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="735" syll="3" part="i">Je le veux.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="735" syll="3" part="m">Parle donc.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="735" syll="6" part="f">Ce sont tous les Romains.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="736" syll="9" part="i">Et leurs instigateurs, quels sont ils ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="736" syll="3" part="f">Les Tarquins.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="737" syll="3" part="i">Insensé ? </l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="737" syll="9" part="f">Des fardeaux que sur lui l'on entasse.</l>
+	<l id="738">Si le Peuple Romain et s'indigne et se lasse ;</l>
+	<l id="739">S'agitant dans ses fers dont on veut l'écraser,</l>
+	<l id="740">S'il consulte sa force et cherche à les briser :</l>
+	<l id="741">Tarquin seul l'a voulu, la douleur qui l'obsède</l>
+	<l id="742">Contraint l'être souffrant à courir au remède.</l>
+	<l id="743">Plus il sent dans son sein les tourments augmenter,</l>
+	<l id="744">Plus, pour s'en affranchir, il est prêt à tenter.</l>
+	<l id="745">Ainsi le désespoir nous rend notre courage.</l>
+	<l id="746">Ainsi la Liberté renaît de l'esclavage.</l>
+	<l id="747">Tous les fléaux unis, la perte de nos biens,</l>
+	<l id="748">L'exil ou le trépas des meilleurs citoyens,</l>
+	<l id="749">Cinq lustres d'attentats, de meurtres, de rapines,</l>
+	<l id="750">Malgré la paix dans Rome entassant les ruines ;</l>
+	<l id="751">Voilà ce dont frémit tout coeur vraiment Romain</l>
+	<l id="752">Et c'est Tarquin lui seul qui détrône Tarquin.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="753">D'aujourd'hui seulement je conçois ta démence.</l>
+	<l id="754">Mais frémis, que sur toi cet excès d'insolence</l>
+	<l id="755">Ne provoque d'un Roi l'inévitable bras.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="756">Ta générosité ne me trahira pas.</l>
+	<l id="757" syll="6" part="i">Je me confie à toi.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="757" syll="6" part="f">Peux-tu me méconnaître ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="758">Et qu'importe à Brutus quel homme tu peux être !</l>
+	<l id="759">Es-tu Romain, c'est tout ce que je veux savoir,</l>
+	<l id="760">Et c'est t'apprendre assez quel en est le devoir ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="761">Qui ? Moi, me rallier à des sujets rebelles !</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="762">S'ils le sont aux Tarquins, à Rome ils sont fidèles.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="763">Sais-tu que tôt ou tard, des mutins sont soumis.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="764">Sais-tu que, tôt ou tard, des tyrans sont punis.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+<note type="L">Tibre : Fleuve qui traverse Rome et qui en est un des symboles.</note>
+	<l id="765">Brutus et ses pareils pourraient l'apprendre au Tibre...</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="766">Ou montrer ce qu'on peut quand on veut être libre.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="767">Avec ce vain désir que crois-tu pouvoir ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="768" syll="1" part="i">Tout.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="768" syll="11" part="f">Ah ! Je sens qu'à la fin ma fureur est à bout.</l>
+	<l id="769">Ouvre les yeux et crains d'irriter davantage</l>
+	<l id="770">Le fils de ce Tarquin que ton délire outrage,</l>
+	<l id="771" syll="4" part="i">Je suis Sextus.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="771" syll="8" part="f">Sextus ! Je m'en étais douté.</l>
+	<l id="772">Je te crois fils d'un Roi, tu crains la vérité.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="773" syll="3" part="i">Crains la mort. </l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="773" syll="9" part="f">Arrêtez, Sextus !... En ma présence,</l>
+	<l id="774">Pouvez-vous vous livrer à tant de violence !</l>
+	<l id="775">N'avez-vous pas pitié de son égarement ?</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="776">Elle me fuit, et moi, dans mon étonnement,</l>
+	<l id="777">À ses yeux, j'ai tremblé de punir le perfide,</l>
+	<l id="778">À ses yeux c'est aussi me montrer trop timide ;</l>
+	<l id="779">Et quand une infidèle ose tant demander,</l>
+	<l id="780">L'amant qu'elle A trahi doit-il tant accorder ?</l>
+	<l id="781">Ainsi, tous les tourmenTs se disputent mon âme</l>
+	<l id="782">Que sa fureur non-moins que son amour enflamme.</l>
+	<l id="783">Outragé dans mes feux, dans ma gloire outragé,</l>
+	<l id="784">Ni le fils ni l'amant ne peut être vengé.</l>
+<stage type="light">Il commence à faire nuit.</stage>
+	<l id="785">Et qu'importe Brutus et tout ce que peut dire</l>
+	<l id="786">Un furieux qu'égare un éternel délire !</l>
+	<l id="787">D'un écart de raison plus longtemps s'offenser,</l>
+	<l id="788">Ce serait l'imiter moins que le surpasser.</l>
+	<l id="789">Plus que mon père enfin lui serai-je sévère ?</l>
+	<l id="790">Je lui dois ma pitié bien plus que ma colère :</l>
+	<l id="791">Qu'il vive ; et que mon coeur ne peut-il en ce jour,</l>
+	<l id="792">Comme de la fureur triompher de l'amour.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Sextus, Icile.
+</stage>
+<stage type="light">La nuit commence à tomber.</stage>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="793">Seigneur, le jour pâlit, bientôt la nuit plus sombre.</l>
+	<l id="794">Sur Rome et sur ses murs va déployer son ombre ;</l>
+	<l id="795">Et l'heure est expirée où d'éternels adieux</l>
+	<l id="796">Vous devaient sans retour arracher de ces lieux.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="797" syll="3" part="i">Laisse-moi. </l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="797" syll="9" part="f">Pardonnez à l'excès de mon zèle ;</l>
+	<l id="798">Mais un grand intérêt à Rome vous appelle.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="799">Un plus grand intérêt enchaîne ici mon pas.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="800">Aux ordres de Tarquin n'obéirez-vous pas.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="801">Différer d'un moment serait-ce être coupable ?</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="802">La perte d'un moment peut être irréparable.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="803" syll="6" part="i">Je reverrai l'ingrate...</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="803" syll="6" part="f">Ah ! Si je vous en crois,</l>
+	<l id="804">Vous venez de la voir pour la dernière fois.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="805">Ai-je une volonté dans ce désordre extrême</l>
+	<l id="806">D'un coeur incessamment en guerre avec lui-même ?</l>
+	<l id="807">Faible jouet, au gré du sort qui le poursuit.</l>
+	<l id="808">D'une erreur qu'à l'instant une autre erreur détruit.</l>
+	<l id="809">Hélas ! Loin d'ajouter au tourment qui m'accable,</l>
+	<l id="810">Cher ami, prends pitié de ce coeur misérable,</l>
+	<l id="811">De ce coeur qu'à ce point l'amour a pu changer?</l>
+	<l id="812">Qu'impunément Brutus ait osé l'outrager.</l>
+	<l id="813">En vain pour m'arracher à ce séjour funeste</l>
+	<l id="814">Ma raison veut user du pouvoir qui lui reste ;</l>
+	<l id="815">J'y résiste, non pas sans un secret effroi...</l>
+	<l id="816">Eh bien, fidèle Icile, approche, entraîne-moi,</l>
+	<l id="817" syll="6" part="i">J'y consens, je le veux.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="817" syll="6" part="f">Oui, Seigneur, et j'admire</l>
+	<l id="818">De l'austère raison quel est sur vous l'empire.</l>
+	<l id="819" syll="2" part="i">Partons.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="819" syll="10" part="f">Qui, moi ? Briser un aussi cher lien !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="820" syll="6" part="i">Hésiteriez-vous ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="820" syll="1" part="m">Non.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="820" syll="5" part="f">Que résolvez-vous ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="821" syll="1" part="i">Rien.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="821" syll="3" part="m">Je vous suis.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="821" syll="2" part="m">Reste.</l>
+</sp>
+<stage type="exit">Il sort.</stage>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="ICILE"><speaker>ICILE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="821" syll="6" part="f">Hélas ! Le désespoir l'égare.</l>
+	<l id="822">Quel délire effrayant de son esprit s'empare ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Lucrèce, Icile.
+</stage>
+<sp who="ICILE"><speaker>ICILE</speaker><stage type="kneel">, au genoux de Lucrèce.
+	</stage>
+	<l id="823">Écoutez-moi, Madame, et souffrez sans courroux,</l>
+	<l id="824">Qu'un serviteur fidèle embrasse vos genoux,</l>
+	<l id="825">Qu'un esclave à vos pieds implore pour son maître</l>
+	<l id="826">L'intérêt qu'il a droit de prétendre peut-être.</l>
+	<l id="827">Infortuné Sextus ! Son coeur désespéré</l>
+	<l id="828">De rage, de douleur et d'amour dévoré.</l>
+	<l id="829">Adorant tout ensemble et détestant vos charmes,</l>
+	<l id="830">Au plus froid des mortels arracherait des larmes.</l>
+	<l id="831">Prévenez les excès auxquels pourrait monter</l>
+	<l id="832">Ce coeur qu'amour égare et qu'il peut seul dompter.</l>
+	<l id="833">Dans ses emportements il fut toujours extrême,</l>
+	<l id="834">Et je crains moins encor pour lui que pour vous-même,</l>
+	<l id="835">À l'honneur c'est assez qu'il soit sacrifié.</l>
+	<l id="836">Si l'austère vertu n'exclut pas la pitié ;</l>
+	<l id="837">Rendez-vous à sa voix par ma voix implorée,</l>
+	<l id="838">Rassurez l'amitié devant vous éplorée.</l>
+	<l id="839">Madame, par l'amour qui l'en a détourné,</l>
+	<l id="840">À la raison Sextus plut être ramené.</l>
+	<l id="841">Éclairez cet esprit dont il vous rend maîtresse ;</l>
+	<l id="842">Et que le sentiment inspiré par Lucrèce,</l>
+	<l id="843">S'il ne peut s'affaiblir dans ce coeur combattu,</l>
+	<l id="844">S'y montre digne d'elle et se change en vertu.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="845">Lève-toi. Je t'approuve. Esclave, un si beau zèle</l>
+	<l id="846">Est moins d'un serviteur que d'un ami fidèle.</l>
+	<l id="847">Je veux tout employer, au gré de tes souhaits</l>
+	<l id="848">Pour adoucir des maux qu'innocemment j'ai faits.</l>
+	<l id="849">Je reverrai Sextus. Cet effort peu vulgaire,</l>
+	<l id="850">Sans doute, à bien des yeux paraîtrait téméraire ;</l>
+	<l id="851">Mais, ferme en son devoir, un coeur comme le mien,</l>
+	<l id="852">Quoiqu'il ose beaucoup sait ne hasarder rien.</l>
+	<l id="853">Dans une heure en ce lieu ton maître peut se rendre :</l>
+	<l id="854">Pour la dernière fois je consens à l'entendre.</l>
+	<l id="855">Lucrèce à ses regards va s'offrir sans détours,</l>
+	<l id="856">Le rendre à la raison, ou le soir pour toujours.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="BRUTUS"><speaker>BRUTUS</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="857">Tout est su. C'est en vain qu'une feinte démence,</l>
+	<l id="858">En cachant mes desseins, assurait ma vengeance.</l>
+	<l id="859">Ce bonheur n'a-t-il lui, que pour s'évanouir</l>
+	<l id="860">À l'heure, à l'instant même où j'en croyais jouir !</l>
+	<l id="861">Les timides Romains craignent plus qu'ils n'espèrent :</l>
+	<l id="862">Les Tarquins ont agi tandis qu'ils délibèrent.</l>
+	<l id="863">Peuple faible... En effet le ciel t'a dû former</l>
+	<l id="864">Pour servir, comme il fit Tarquin pour opprimer.</l>
+	<l id="865">Ah ! qu'il serve....Ou plutôt, dans ce péril extrême , </l>
+	<l id="866">Forçons-le d'être libre en dépit de lui-même ;</l>
+	<l id="867">Frappons les derniers coups, et plaçons les Romains,</l>
+	<l id="868">Entre une perte sûre et des succès certains,</l>
+	<l id="869">Ô murs du Capitole, ô Cité que j'adore !</l>
+	<l id="870">Esclave jusqu'ici, tu n'es pas Rome encore :</l>
+	<l id="871">Que ton sort s'accomplisse. À mon aspect je veux</l>
+	<l id="872">Entendre répéter à tes enfants heureux :</l>
+	<l id="873">Quand Brutus sommeillait, aux jours de l'esclavage.</l>
+	<l id="874">Tous étaient en délire, et lui seul était sage,</l>
+	<l id="875">Que son nom des Tyrans à jamais redouté</l>
+	<l id="876">Soit immortel ainsi que notre liberté.</l>
+	<l id="877">De cette même main qui gagnait les batailles,</l>
+	<l id="878">Le divin Romulus éleva nos murailles :</l>
+	<l id="879">Numa, plus grand que lui, par de sages liens, </l>
+	<l id="880">Réunit des guerriers changés en citoyens:</l>
+	<l id="881">Ce qu'ils ont préparé, Brutus seul le consomme ;</l>
+	<l id="882">Brutus, qui la rend libre, a lui seul fondé Rome.</l>
+<stage type="entrance">Sextus parait.</stage>
+	<l id="883" syll="6" part="i">Sextus !... Dissimulons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Sextus, Brutus.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="883" syll="6" part="f">D'un oeil sombre incertain, </l>
+	<l id="884" syll="6" part="i">Brutus me considère.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="884" syll="6" part="f">Est-ce toi Collatin ?</l>
+	<l id="885" syll="3" part="i">Écoute.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="885" syll="9" part="f">L'insensé me méconnaît encore !</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="886">Quel chagrin te poursuit ? Quel ennui te dévore ?</l>
+	<l id="887">Loin du camp, Collatin, avant le point du jour,</l>
+	<l id="888">Quel motif, en ces lieux, a pressé ton retour ?</l>
+	<l id="889">Tu frémis... Tu frémis... Par un sanglant outrage,</l>
+	<l id="890">Le Tyran aurait-il offensé ton courage ?</l>
+	<l id="891">Tu l'as bien mérité, toi qui l'as défendu ;</l>
+	<l id="892">Toi, dont le sang pour lui, mille fois répandu...</l>
+	<l id="893">Fais du coeur des Tarquins une plus sage étude ;</l>
+	<l id="894">Leur plaisir le plus doux est dans l'ingratitude.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="895">Tu te trompes, Brutus ; et dans peu tu sauras</l>
+	<l id="896">Si pour être des Rois les Tarquins sont ingrats.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="897">S'ils ne l'étaient, leur perte eut elle été jurée ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="898">S'ils l'étaient, ta ruine eut été différée.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="899">On peut les prévenir. Ose te joindre à nous ;</l>
+	<l id="900">Aux coups, qu'on va frapper, ose joindre tes coups.</l>
+	<l id="901">Demain, tombe le joug qu'ils imposaient au Tibre,</l>
+	<l id="902">Demain, leur règne expire et demain Rome est libre.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="903">Pour détrôner Tarquin suffit-il de vouloir ;</l>
+	<l id="904">Ébranler ce colosse est-il en ton pouvoir ;</l>
+	<l id="905">Du faire des grandeurs, sa fortune confiante</l>
+	<l id="906">Se rit des vains efforts de ta haine impuissante.</l>
+	<l id="907">La splendeur de l'état et sa stabilité</l>
+	<l id="908">N'ont qu'une même base avec la Royauté.</l>
+	<l id="909">Aux premiers mouvements, vois-tu Rome alarmée,</l>
+	<l id="910">Vois tu les Sénateurs, la Noblesse, l'armée ;</l>
+	<l id="911">Ralliés par la gloire et par leurs intérêts,</l>
+	<l id="912">D'un souffle et d'un coup d'oeil renverser tes projets.</l>
+	<l id="913" syll="10" part="i">À tant d'efforts uni qu'opposes tu ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="913" syll="2" part="f">La haine</l>
+	<l id="914">Qui fermente en secret dans toute âme Romaine ;</l>
+	<l id="915">Qu'un quart de siècle a vu chaque jour s'augmenter,</l>
+	<l id="916">Qui n'attend que de moi le signal d'éclater :</l>
+	<l id="917">Des noms, par des forfaits horriblement illustres.</l>
+	<l id="918">Un règne, ou pour mieux dire, un crime de cinq lustres.</l>
+	<l id="919">Qui de chaque famille ayant frappé l'appui,</l>
+	<l id="920">Y dût laisser aussi l'horreur qu'on a pour lui ;</l>
+	<l id="921">Ceux qu'à trembler pour soi les maux d'un autre enseignent.</l>
+	<l id="922">Ceux qui n'ont jamais craint et même ceux qui craignent,</l>
+	<l id="923">Celui qui pourrait perdre et celui qui perdit ;</l>
+	<l id="924">Faible, fort, opulent, indigent, grands, petit,</l>
+	<l id="925">Sénat, peuple, guerriers, appuis, enfants de Rome ;</l>
+	<l id="926">Brutus, s'il est sensé ; Collatin, s'il est homme.</l>
+	<l id="927">Mais de ce grand projet, les moyens éclaircis, </l>
+	<l id="928">Détermineraient ils ton courage indécis ?</l>
+	<l id="929">Es-tu bien mon ami ? Puis-je, avec constance, </l>
+	<l id="930">Déposer dans ton sein ce secret de vengeance?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="931" syll="2" part="i">Parle ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="931" syll="10" part="f">Le jour est pris. L'instant est désigné,</l>
+	<l id="932">Tout est prêt ; tout éclate et Tarquin a régné.</l>
+	<l id="933">De nos fiers citoyens les bouillantes cohortes,</l>
+	<l id="934">Ces vrais remparts de Rome en garderont les portes.</l>
+	<l id="935">Aux passages des ponts les uns seront placés ;</l>
+	<l id="936">D'autres le long du Tibre, avec art dispersés,</l>
+	<l id="937">D'autres au Capitole ; et ce roc, qui nous brave,</l>
+	<l id="938">Ces murs, sous un tyran, l'effroi de Rome esclave,</l>
+	<l id="939">De notre liberté le Temple et les garants.</l>
+	<l id="940">Deviendront désormais l'effroi de nos tyrans...</l>
+	<l id="941">Dans tes yeux égarés d'où naît cette surprise ?</l>
+	<l id="942">Est-ce admiration d'une telle entreprise ?</l>
+	<l id="943">Est-ce doute ? Est-ce crainte ?... Un Romain se troubler !</l>
+	<l id="944">Ah ! C'est au seul Tarquin désormais à trembler ?</l>
+	<l id="945">Douterait-il du sort que le ciel lui destine,</l>
+	<l id="946">S'il savait quels mortels ont juré sa ruine ?</l>
+	<l id="947" syll="10" part="i">Connais tous ces héros. Connais leurs noms.</l>
+<stage type="give">Il donne une liste à Sextus.</stage>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="read">, lit.
+	</stage>
+	<l id="947" syll="2" part="f">Brutus !...</l>
+	<l id="948">Brutus et ses deux fils ! Tibérínus, Titus !...</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="949">Que l'horreur des tyrans avec moi les confonde !</l>
+	<l id="950">Je leur donnai l'exemple ; ils le donnent au monde.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="951">Horace, Mutius, Valérius, Albin...</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="952">Un nom manque à ces noms. M'entends-tu, Collatin ?</l>
+	<l id="953">Conserve-les ; et, soit que contraire, ou propice,</l>
+	<l id="954">La faveur du destin nous serve ou nous trahisse,</l>
+	<l id="955">Ou vainqueurs, ou vaincus, timide citoyen,</l>
+	<l id="956">Rougis, parmi ces noms de ne pas voir le tien.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="toward">, à lui-même.
+	</stage>
+	<l id="957">L'étonnement, l'horreur, le mépris qu'il inspire,</l>
+	<l id="958">Peuvent seuls égaler l'excès de ce délire,</l>
+	<l id="959">De ce lâche complot, la fortune et les Dieux</l>
+	<l id="960">Ont enfin découvert le mystère à mes yeux ;</l>
+	<l id="961">Et dans l'affreux désordre où mon âme est plongée.</l>
+	<l id="962">De mon propre intérêt leur bonté s'est chargée. </l>
+	<l id="963">Ils ont fait mon devoir. Amour, cruel poison,</l>
+	<l id="964">À quel point de Sextus troubles-tu la raison ?...</l>
+	<l id="965">Quand Brutus me parlait, quelle exécrable idée,</l>
+	<l id="966">Malgré moi, renaissait dans mon âme obsédée ?</l>
+	<l id="967">Lucrèce !... À cette horreur, moi, je consentirais !</l>
+	<l id="968">Du sein de tes foyers, moi, je t'arracherais !</l>
+	<l id="969">Outrageant tous les droits... Ô désespoir, ô rage...</l>
+	<l id="970">Ô trop juste transport d'un amour qu'on outrage !</l>
+	<l id="971">Cher et coupable espoir, oui, tu seras rempli.</l>
+	<l id="972">Et déjà, dans mon coeur, le crime est accompli.</l>
+	<l id="973">Le crime, qu'ai-je dit ? Et quelle erreur m'égare ?</l>
+	<l id="974">Quoi, déjà le remord de mon âme s'empare !</l>
+	<l id="975">Un crime... En serait-ce un que de reconquérir</l>
+	<l id="976">Un bien, qui de tout temps, me dut appartenir ?</l>
+	<l id="977">Ma raison, trop timide, et m'aveugle et m'abuse ;</l>
+	<l id="978">Dans mon crime, après tout, mon crime a son excuse.</l>
+	<l id="979">L'amour qui les causa doit finir nos malheurs ;</l>
+	<l id="980">Et le Trône est d'un prix à payer bien des pleurs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Sextus, Icile.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="981">Est-ce toi que j'entends, ami fidèle ? Approche.</l>
+	<l id="982">Désormais à ton maître, épargna le reproche.</l>
+	<l id="983">Connais ce que Brutus tramait contre son Roi.</l>
+	<l id="984">Le secret du complot n'en est plus un pour moi.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="985">De tant d'atrocité se peut-il qu'il convienne ?</l>
+	<l id="986" syll="10" part="i">Quelle main vous livra cette liste ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="986" syll="2" part="f">La sienne.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="987">Que tardez vous, Seigneur ? Ses yeux peuvent s'ouvrir</l>
+	<l id="988">Sur l'important secret qu'il vient de découvrir.</l>
+	<l id="989">M'en croirez-vous ? Muni de ces puissants indices ;</l>
+	<l id="990">Par un prompt châtiment surprenez ses complices.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="991">Peut-on nous écouter ? Des regards indiscrets...</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="992">Lucrèce retirée au fond de son Palais...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="993">La nuit peut elle, ami, d'un voile encor plus sombre,</l>
+	<l id="994">Favoriser nos pas égarés dans son ombre ?</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="995">Partons. Jamais la nuit par plus d'obscurité,</l>
+	<l id="996">N'invita le coupable à la sécurité.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="997" syll="3" part="i">Le coupable !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="997" syll="7" part="m">Accablons les Conjurés.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="997" syll="2" part="f">Écoute,</l>
+	<l id="998">Sur ta fidélité je n'eus jamais de doute.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="999" syll="6" part="i">C'est m'en récompenser.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="999" syll="6" part="f">Je compte sur ta foi.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1000">Ce discours, ces regards, tout me glace d'effroi.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1001">C'est trop combattre un feu que je ne puis éteindre,</l>
+	<l id="1002">Un amour que j'irrite en voulant le contraindre.</l>
+	<l id="1003">Ami, c'est trop souffrir, le sort en est jeté ;</l>
+	<l id="1004">C'en est fait, j'obéis à la nécessité.</l>
+	<l id="1005" syll="2" part="i">Marchons.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1005" syll="10" part="f">Où vous conduit le trouble qui vous presse ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1006" syll="3" part="i">De ces lieux...</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1006" syll="3" part="m">Achevez...</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1006" syll="3" part="m">Arrachons....</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1006" syll="1" part="m">Qui ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1006" syll="2" part="f">Lucrèce.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1007">Lucrèce ! Que ce bras se dessèche, Seigneur,</l>
+	<l id="1008">Avant qu'il contribue à cet excès d'horreur,</l>
+	<l id="1009">Non ? Jamais votre amour n'a résolu ce crime.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1010">Tout est justifié par l'amour qui m'anime.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1011">Aux dépens de l'estime il n'est pas de bonheur.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1012">Monter au rang des Rois, serait-ce un déshonneur ?</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1013" syll="6" part="i">Par un forfait ? Sans_doute.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1013" syll="3" part="m">Icile !...</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1013" syll="3" part="f">L'infamie</l>
+	<l id="1014">S'accroît de tout l'éclat dont la faute est suivie.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1015">De tant d'austérité je puis être offensé.</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1016">J'ai dit ce qu'à ma place un autre aurait pensé.</l>
+	<l id="1017" syll="4" part="i">Je vous chéris.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1017" syll="8" part="f">Cessez un discours qui me brave.</l>
+	<l id="1018">Lorsque de ses projets on s'ouvre à son esclave,</l>
+	<l id="1019">Un Esclave aurait-il tant de témérité</l>
+	<l id="1020">Qu'à censurer son maître il se crut invité !</l>
+	<l id="1021">C'est votre bras et non votre avis qu'on demande.</l>
+	<l id="1022">Je ne consulte pas, Icile, je commande.</l>
+	<l id="1023">Obéir sans murmure est votre unique loi ;</l>
+	<l id="1024">Et c'est à l'Univers à prononcer sur moi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Lucrèce, Sextus, Icile.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1025">La voici !... le respect que fa présence inspire...</l>
+	<l id="1026">Ô Lucrèce !... Ô vertu, quel est donc ton empire ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1027">À mon aspect, Sextus, cessez de vous troubler,</l>
+	<l id="1028">Un reste de pitié m'engage à vous parler.</l>
+	<l id="1029">De vos emportements je sais la violence ;</l>
+	<l id="1030">Mais sur vous en effet si j'ai quelque puissance,</l>
+	<l id="1031">De ce vain désespoir modérez les éclats ;</l>
+	<l id="1032">Tant de fureur m'afflige et ne m'étonne pas.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1033">Sur ce coeur malheureux, par telle erreur extrême</l>
+	<l id="1034">Réclamez-vous des droits abjurés par vous-mêmes ?</l>
+	<l id="1035">Est-ce Lucrèce, enfin, que j'entends accuser,</l>
+	<l id="1036">Un transport que peut-être elle doit excuser.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1037">Sextus, si les malheurs que ce [délire] apprête</l>
+	<l id="1038">Ne devaient retombe[r] que sur ma seule tête,</l>
+	<l id="1039">Ainsi que de remord, ce coeur exempt d'effroi,</l>
+	<l id="1040">Ne craindrait rien, n'ayant à craindre que pour soi.</l>
+	<l id="1041">Quelque soit le destin dont la rigueur l'opprime,</l>
+	<l id="1042">La vertu ne connaît de malheur que le crime.</l>
+	<l id="1043">Toutefois, devant vous, je veux en convenir,</l>
+	<l id="1044">Je ne puis, sans terreur, contempler l'avenir.</l>
+	<l id="1045">Je tremble, mais pour vous, des maux que vous prépare</l>
+	<l id="1046">L'amour qui vous séduit, l'erreur qui vous égare :</l>
+	<l id="1047">Erreur, à qui par vous tout est sacrifié,</l>
+	<l id="1048">Pour qui vous trahissez l'honneur et l'amitié.</l>
+	<l id="1049">Réveillez-vous , il n'a que trop duré ce songe ;</l>
+	<l id="1050">Voyez l'abaissement dans lequel il vous plonge ;</l>
+	<l id="1051">Voyez et rougissez! Quoi ! Celui dont les mains</l>
+	<l id="1052">Doivent porter le sceptre et régir les humains,</l>
+	<l id="1053">Chancelant, abattu par un léger orage,</l>
+	<l id="1054">Du dernier des mortels n'aurait pas le courage ?</l>
+	<l id="1055">Je le vois succomber sans avoir combattu !</l>
+	<l id="1056">Tout est faiblesse en qui tout doit être vertu !</l>
+	<l id="1057">Pour gouverner l'État, il monte au rang suprême,'</l>
+	<l id="1058">Et timide, il ne peut se gouverner lui-même !</l>
+	<l id="1059">La passion excuse un court égarement ;</l>
+	<l id="1060">Mais il a trop duré si c'est plus d'un moment.</l>
+	<l id="1061">Ce qui fut une erreur devient alors un crime.</l>
+	<l id="1062">S'en affranchir, Sextus, est un effort sublime.</l>
+	<l id="1063">Je l'exige, et j'attends ce généreux retour,</l>
+	<l id="1064">Du devoir, de l'honneur et même de l'amour.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1065">N'exigez rien de moi : l'amour que l'on offense,</l>
+	<l id="1066">S'il ne devient fureur, devient indifférence.</l>
+	<l id="1067">Ce Sextus, qu'à vos lois le bonheur eut soumis,</l>
+	<l id="1068">Est le plus révolté de tous vos ennemis.</l>
+	<l id="1069">Que prétend votre coeur d'un amour qu'il outrage,</l>
+	<l id="1070">On n'a des droits sur lui qu'autant qu'on le partage.</l>
+	<l id="1071" syll="11" part="i">Pour me parler ainsi, m'aimez-vous encor ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1071" syll="1" part="f">Oui.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1072">Vous m'aimez !... À ce mot mon trouble évanouir...</l>
+	<l id="1073">Vous m'aimez !... Qu'ai-je dit ? Quelle erreur est la mienne ?</l>
+	<l id="1074">Bien, trop inespéré, pour qu'enfin je l'obtienne !</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1075">J'ai dit la vérité, Seigneur ; j'ai dû l'oser.</l>
+	<l id="1076">Un coeur droit peut la taire et non la déguiser.</l>
+	<l id="1077">Je ne rétracte pas l'aveu que j'ai dû faire.</l>
+	<l id="1078">Il n'est pas imprudent puisqu'il est nécessaire ;</l>
+	<l id="1079">Je rougirais d'un crime et non d'un sentiment.</l>
+	<l id="1080">L'amour peut se glisser dans un coeur innocent ;</l>
+	<l id="1081">Mais qu'il y soit vaincu bien loin que de t'abattre.</l>
+	<l id="1082">La honte est de céder et non pas de combattre.</l>
+	<l id="1083">Qui l'a voulu, toujours a triomphé de soi ;</l>
+	<l id="1084">Et vous pourrez du moins le tenter d'après moi.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1085">Ah ! C'est trop peu, cruelle ; et c'est trop en entendre.</l>
+	<l id="1086">Lorsque tout m'est rendu, pourquoi tout me reprendre ?</l>
+	<l id="1087">Pourquoi charmer ensemble et désoler mon coeur,</l>
+	<l id="1088">Et par votre tendresse et par votre rigueur ?</l>
+	<l id="1089">Soyez-moi toute entière, ou cruelle ou propice.</l>
+	<l id="1090">Quelle que fut l'horreur de mon premier supplice,</l>
+	<l id="1091">Il était moins affreux à ce coeur partagé,</l>
+	<l id="1092">Que le nouvel abîme où je suis replongé.</l>
+	<l id="1093">Avec un malheureux que vous sert-il de feindre ?</l>
+	<l id="1094">Vous êtes plus coupable et j'en suis plus à plaindre ;</l>
+	<l id="1095">Et loin d'être abusé par ce lâche détour,</l>
+	<l id="1096">Tout est haine à mes yeux, quand tout n'est pas amour.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1097">Un seul mot de Lucrèce aurait dû vous suffire ;</l>
+	<l id="1098">Mais puisque vous doutez je n'ai plus rien à dire.</l>
+	<l id="1099">Mon seul désir, Sextus, comme mon seul devoir</l>
+	<l id="1100">Était de vous résoudre à ne me plus revoir.</l>
+	<l id="1101">Pour obtenir de vous une faveur si grande</l>
+	<l id="1102">Amante, je priais, épouse je commande.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1103">Du doute d'un moment, ah ! C'est trop me punir.</l>
+	<l id="1104">Puis-je me croire aimé, quand je m'entends bannir ?</l>
+	<l id="1105">N'est-il que cet effort pour prouver que votre âme :</l>
+	<l id="1106">Du malheureux Sextus partage enfin la flamme ?</l>
+	<l id="1107">Dans mon bonheur affreux, ne pourrai-je, en ce jour,</l>
+	<l id="1108">Qu'à vos seules rigueurs connaître votre amour ?</l>
+	<l id="1109">J'en réclame, Lucrèce, une preuve plus sûre.</l>
+	<l id="1110">Ah ! Ferez-vous pour lui moins que pour la nature ?</l>
+	<l id="1111">Et, loin qu'à votre coeur il dicte enfin la loi,</l>
+	<l id="1112">Ne serez-vous jamais forte que contre moi ?</l>
+	<l id="1113">Il est venu l'instant d'abjurer toute crainte,</l>
+	<l id="1114">D'aimer avec courage, ou de haïr sans feinte.</l>
+	<l id="1115">Expliquez-vous. Un père, en d'exécrables noeuds</l>
+	<l id="1116">A pu vous engager en dépit de vos voeux.</l>
+	<l id="1117">Le devoir les forma ; que le devoir les brise.</l>
+	<l id="1118">À les anéantir, oui, tout vous autorise,</l>
+	<l id="1119">Et vous n'ignorez pas, au défaut de la loi,</l>
+	<l id="1120">Qu'il n'est rien d'impossible à l'héritier d'un Roi ;</l>
+	<l id="1121">Et qu'amant généreux non moins qu'amant fidèle.</l>
+	<l id="1122">Je vous conduis au trône où mon destin m'appelle.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1123">Vous me connaissez mal, Sextus ; et ce discours.</l>
+	<l id="1124">Où vos affreux projets ont paru sans détours,</l>
+	<l id="1125">Prouve, à l'étonnement d'un coeur qui les abhorre,</l>
+	<l id="1126">Que je vous connaissais cent fois plus mal encore.</l>
+	<l id="1127">Ces noeuds, Sextus, ces noeuds auxquels vous insultez,</l>
+	<l id="1128">Ces noeuds que je chéris et que vous détestez,</l>
+	<l id="1129">Le devoir les forma, le devoir les resserre.</l>
+	<l id="1130">Mon bonheur n'a que trop justifié mon père ;</l>
+	<l id="1131">Et, loin de l'acculer, mon coeur doit se bénir</l>
+	<l id="1132">De me sauver l'horreur de vous appartenir.</l>
+<stage type="exit">Il va pour sortir.</stage>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1133">C'en est trop ! Arrêtez, inflexible Lucrèce.</l>
+	<l id="1134">Vous connaissez mon coeur, mes projets , ma tendresse ;</l>
+	<l id="1135">Aux autels de l'hymen qu'a souillés votre foi,</l>
+	<l id="1136">Vous savez qu'un époux vous fut offert en moi.</l>
+	<l id="1137">Sans plus tarder, au gré de l'amour qui m'enflamme,</l>
+	<l id="1138">Venez y révoquer des voeux que je réclame.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1139">Le délire intéresse et non pas la fureur,</l>
+	<l id="1140">Vous me fîtes pitié, vous me faites horreur.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1141" syll="10" part="i">Oui, de cette fureur redoutez tout.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1141" syll="2" part="f">Perfide !</l>
+	<l id="1142">C'est pour le crime seul que mon coeur est timide.</l>
+	<l id="1143" syll="4" part="i">Je ne crains rien.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1143" syll="8" part="f">Cruelle !... Eh bien, je m'y résous.</l>
+	<l id="1144">Je n'aurai pas été moins barbare que vous.</l>
+	<l id="1145">Assimilons notre âme à votre âme inhumaine,</l>
+	<l id="1146">Et puisque l'on me hait, méritons cette haine.</l>
+	<l id="1147">Usons du seul moyen qui soit en mon pouvoir,</l>
+	<l id="1148">S'il fait frémir l'amour, il plaît au désespoir.</l>
+<stage type="threat">Il porte la main à son poignard.</stage>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1149" syll="4" part="i">Que faites-vous ?</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1149" syll="2" part="m">Tremblez.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1149" syll="6" part="f">Ne crains pas que j'échappe.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1150" syll="5" part="i">Marchez sur mes pas.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1150" syll="1" part="m">Non.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="1150" syll="2" part="m">Rebelle !</l>
+</sp>
+<sp who="ICILE"><speaker>ICILE.</speaker>
+	<l id="1150" syll="3" part="m">Arrêtez...</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1150" syll="1" part="f">Frappe.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="kneel">, aux genoux de Lucrèce.
+	</stage>
+	<l id="1151">Cher et funeste objet de tendresse et d'effroi,</l>
+	<l id="1152">De ma propre fureur sauve toi, fauve moi.</l>
+	<l id="1153" syll="6" part="i">Prends pitié de tous deux.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1153" syll="6" part="f">Eh quoi ? Pourrais-tu croire</l>
+	<l id="1154">Que la vie à mes yeux, l'emportât sur la gloire ?</l>
+	<l id="1155">Quelque soit le transport qui fasse agir ton coeur,</l>
+	<l id="1156">Arrache-moi le jour, ou laisse-moi l'honneur.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Sextus, Icile.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS</speaker><stage type="lost">, égaré.
+	</stage>
+	<l id="1157">L'Honneur, et c'est toujours à cette absurde idole,</l>
+	<l id="1158">À ce vain préjugé que sa froideur m'immole !</l>
+	<l id="1159">L'honneur ! À ce seul mot dans mon coeur déchiré</l>
+	<l id="1160">S'est accru la fureur dont il est dévoré :</l>
+	<l id="1161">Ainsi que mon amour je sens qu'elle est extrême ;</l>
+	<l id="1162">Malheur à toi, Lucrèce et malheur à moi-même !</l>
+<stage type="entrance/frighten">Il entre dans la chambre de Lucrèce. Ici, il se retire en exprimant son horreur.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<stage type="decor">Le Théâtre représente un vestibule,</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Valerius, Mutius, Horace, Albin, Conjurés. Brutus, qui les écoute et les observe en silence.
+</stage>
+<sp who="VALÉRIUS"><speaker>VALÉRIUS.</speaker>
+	<l id="1163">Vous, en qui la prudence au courage est unie,</l>
+	<l id="1164">Enfants de Rome, armés contre la tyrannie,</l>
+	<l id="1165">Impétueux Horace, indompté Mutius,</l>
+	<l id="1166">Sombre Brutus, Albin, Curion, Décius,</l>
+	<l id="1167">Quel piège, au même instant, en ce palais rassemble</l>
+	<l id="1168">Des Conjurés surpris de s'y trouver ensemble ?</l>
+	<l id="1169">De Rome ici mandés par un secret avis,</l>
+	<l id="1170">Doit-on nous y servir ou sommes-nous trahis ?</l>
+	<l id="1171">Le tyran, d'un seul coup, veut-il finir la guerre</l>
+	<l id="1172">Qu'allait déclarer Rome aux tyrans de la terre ?</l>
+</sp>
+<sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="1173">Je n'en saurais douter, nous sommes découverts ;</l>
+	<l id="1174">Romains, il faut s'attendre aux plus affreux revers.</l>
+	<l id="1175">L'héritier de Tarquin, digne en tout de son père,</l>
+	<l id="1176">De nos vastes desseins pénétrant le mystère,</l>
+	<l id="1177">La menace à la bouche, égaré, furieux,</l>
+	<l id="1178">Avant le jour naissant est sorti de ces lieux.</l>
+	<l id="1179">Dans l'horrible transport qu'il appelle justice,</l>
+	<l id="1180">Il nous a réservés au plus affreux supplice.</l>
+	<l id="1181">L'horreur à ce récit vous a pénétrés tous :</l>
+	<l id="1182">Vous frémissez, Romains, j'ai frémi comme vous.</l>
+	<l id="1183">Écraser ses tyrans au péril de sa vie ;</l>
+	<l id="1184">À son dernier soupir affranchir la Patrie ;</l>
+	<l id="1185">Du trépas, à ce prix, qui ne serait jaloux ?</l>
+	<l id="1186">Mais inutile à Rome, il est affreux pour nous.</l>
+</sp>
+<sp who="MUTIUS"><speaker>MUTIUS.</speaker>
+	<l id="1187">Oubliez-vous, Albin, que Rome nous contemple ?</l>
+	<l id="1188">Qu'à la postérité, nous servirons d'exemple ?</l>
+	<l id="1189">Ce trépas qu'un tyran me fait envisager,</l>
+	<l id="1190">N'est qu'un forfait de plus que Rome doit venger ;</l>
+	<l id="1191">Mais le feu du bûcher, avant qu'il nous consume,</l>
+	<l id="1192">Pourrait bien dévorer le bourreau qui l'allume.</l>
+	<l id="1193">Si nous sommes trahis, si la rigueur du Sort</l>
+	<l id="1194">Ne nous a plus laissé que le choix de la mort ;</l>
+	<l id="1195">Vous en étonnez-vous ? Et votre âme abusée</l>
+	<l id="1196">Crut elle ne former qu'une entreprise aisée ?</l>
+	<l id="1197">D'un honneur sans péril vous étiez-vous flatté,</l>
+	<l id="1198">Et moins sûr du succès, auriez-vous moins tenté ?</l>
+	<l id="1199">Certes, de nos deux coeurs, grande est la différence ;</l>
+	<l id="1200">Quand Mutins de Rome embrassa la vengeance,</l>
+	<l id="1201">Bien loin d'être ébloui de ce hardi dessein,</l>
+	<l id="1202">Il en vit les dangers, le succès incertain.</l>
+	<l id="1203">Il prévit que le monstre, à sa fureur en_butte,</l>
+	<l id="1204">Pourrait, même en tombant, l'écraser sous sa chute ;</l>
+	<l id="1205">Et l'aspect du trépas, qui vous trouble aujourd'hui,</l>
+	<l id="1206">N'a rien de surprenant, ni de nouveau pour lui.</l>
+	<l id="1207">Mourons ; mais sans souffrir, que, du tyran complice,</l>
+	<l id="1208">Le Licteur insolent nous entraîne au supplice ;</l>
+	<l id="1209">Qu'on nous mène à la mort où nous pouvons courir.</l>
+	<l id="1210">Mourons ; mais en héros, mais sans nous avilir :</l>
+	<l id="1211">Sans soumettre à la hache une tête flétrie ;</l>
+	<l id="1212">Et méritons du moins les pleurs de la Patrie,</l>
+	<l id="1213">Même au sein des dangers renaissants sous nos pas,</l>
+	<l id="1214">Ne pourrait-on trouver un utile trépas ?</l>
+	<l id="1215">C'est en vain que leur foule en ce jour me menace ;</l>
+	<l id="1216">Je sens avec leur nombre augmenter mon audace.</l>
+	<l id="1217">C'est quand tout est perdu qu'il faut tout espérer !</l>
+	<l id="1218">Amis, quittons ces lieux, et, sans plus différer,</l>
+	<l id="1219">Tandis qu'à nous surprendre à Rome on se prépare,</l>
+	<l id="1220">Au milieu de son camp surprenons un barbare.</l>
+	<l id="1221">De ce trône usurpé, que son crime insulta,</l>
+	<l id="1222">Que sanglant il descende ainsi qu'il y monta,</l>
+	<l id="1223">À ma juste fureur il n'est plus de limites.</l>
+	<l id="1224">Seul, j'irai le chercher parmi les satellites ;</l>
+	<l id="1225">L'immoler à leurs yeux, et, quelque soit mon sort,</l>
+	<l id="1226">Un tel succès n'est pas trop [payé] par la mort.</l>
+	<l id="1227">En expirant, du moins, j'aurai délivré Rome,</l>
+	<l id="1228">Et le salut de tous n'aura coûté qu'un homme.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE.</speaker>
+	<l id="1229">Oui, Romains, c'est ainsi qu'il vous faut conjurer</l>
+	<l id="1230">La tempête sur nous prête à se déclarer.</l>
+	<l id="1231">Que, loin de l'arrêter, Tarquin lui-même avance,</l>
+	<l id="1232">Ce complot qu'il a cru dissoudre en sa naissance.</l>
+	<l id="1233">De quel indigne effroi vous paraissez troublés ?</l>
+	<l id="1234">Loin de faire trembler, est-ce vous qui tremblez ?</l>
+	<l id="1235">Généreux Mutius, qu'est-ce donc qui t'arrête ?</l>
+	<l id="1236">Faudrait-il tant de bras contre une seule tête ?</l>
+	<l id="1237">À cet honneur sans eux ne pouvons-nous courir ?</l>
+	<l id="1238">Deux Romains sont bien forts quand ils veulent mourir.</l>
+	<l id="1239" syll="1" part="i">Viens.</l>
+</sp>
+<sp who="MUTIUS"><speaker>MUTIUS.</speaker>
+	<l id="1239" syll="11" part="f">Je vois de Lucrèce et l'époux et le père.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les précédents, Collatin, une lettre à la main, Spurius. 
+</stage> 
+<sp who="VALÉRIUS"><speaker>VALÉRIUS.</speaker>
+	<l id="1240">Apprends nous, Collatin, quel important mystère,</l>
+	<l id="1241">En ton propre Palais nous a tous réunis ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1242" syll="4" part="i">Vous le saurez.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE.</speaker>
+	<l id="1242" syll="6" part="f">Quel trouble a glacé vos esprits ?</l>
+</sp>
+<sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="1243">À quels affreux malheurs devons-nous nous attendre ?</l>
+</sp>
+<sp who="VALÉRIUS"><speaker>VALÉRIUS.</speaker>
+	<l id="1244">Cet écrit contient-il ce qu'il nous faut apprendre ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1245">Non, Romains. Le motif qui nous rappelle loi,</l>
+	<l id="1246">Par cet écrit fatal ne peut être éclairci.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1247">Dans le camp de Tarquin tout reposait encore,</l>
+	<l id="1248">Mes voeux seuls accusaient la lenteur de l'aurore ;</l>
+	<l id="1249">Quand, par un jour douteux un esclave éclairé</l>
+	<l id="1250">Dans ma tente entrouverte a soudain pénétré.</l>
+	<l id="1251">Qui t'amène à cette heure, ai-je dit, que m'annonce...</l>
+	<l id="1252">Lui, muet, consterné, me laisse pour réponse.</l>
+	<l id="1253">Cet écrit, où d'abord dans les mots mal tracés,</l>
+	<l id="1254">Je n'ai vu que les pleurs qui les ont effacés.</l>
+<stage type="laugh">Il rit.</stage>
+<poem type="vers">
+<lg n="1">
+	<l id="1255">Objet d'estime et de tendresse,</l>
+	<l id="1256">Époux, que de ce nom j'ose encore appeler,</l>
+	<l id="1257">Père, de qui je crains d'affliger la vieillesse,</l>
+	<l id="1258">Venez, ma douleur vous en presse.</l>
+	<l id="1259">Accourez cet écrit ne peut vous révéler</l>
+	<l id="1260">Ce qui cause la honte et les pleurs de Lucrèce.</l>
+</lg>
+</poem>
+	<l id="1261">À ces mots, étonné, tremblant, anéanti,</l>
+	<l id="1262">Suivi de Spurius, je suis soudain parti.</l>
+	<l id="1263">Nous arrivons. J'apprends qu'en sa douleur profonde</l>
+	<l id="1264">Lucrèce avec horreur fuit le jour et le monde.</l>
+	<l id="1265">En vain de mon retour je l'ai fait avertir,</l>
+	<l id="1266">De son appartement refusant de sortir,</l>
+	<l id="1267">Et dans son désespoir toute entière abîmée,</l>
+	<l id="1268">À tout soulagement sa grande âme est fermée.</l>
+	<l id="1269">Quel malheur effroyable aussi bien qu'imprévu</l>
+	<l id="1270">A pu, jusqu'à ce point, accabler se vertu ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1271">Quelque soit le malheur dont ce jour nous menace,</l>
+	<l id="1272">Ma constance a déjà prévenu ma disgrâce.</l>
+	<l id="1273">Hors la faiblesse, ami, le sort doit me donner</l>
+	<l id="1274">Le sentiment auquel je dois m'abandonner.</l>
+	<l id="1275">Sois homme : à l'infortune opposons le courage ;</l>
+	<l id="1276">Aux forfaits ; la rigueur ; la vengeance à l'outrage,</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III et DERNIÈRE.</head><stage> Les précédents, Lucrèce, dans le plus grand désordre.
+</stage>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1277" syll="6" part="i">Est-ce vous, chère épouse ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1277" syll="6" part="f">Arrête ! Éloigne-toi !</l>
+	<l id="1278">Des transports aussi purs ne sont plus faits pour moi.</l>
+	<l id="1279">Ne vois plus, dans l'objet de cet amour extrême,</l>
+	<l id="1280">Qu'un objet d'infamie en horreur à lui-même.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1281" syll="4" part="i">Que dites-vous ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1281" syll="8" part="f">Des pleurs s'échappent de tes yeux.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1282">Quels sont ces étrangers assemblés en ces lieux ?</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1283">Des Romains, des amis, que ta douleur afflige.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1284">Ne vous séparez pas ; demeurez, je l'exige.</l>
+	<l id="1285">L'aspect d'aucun Romain ne peut m'être importun.</l>
+	<l id="1286">Le malheur a rendu notre intérêt commun.</l>
+	<l id="1287">Votre tyran n'a point un fils qui dégénère ;</l>
+	<l id="1288">Et Sextus, en un mot, est digne de son père.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1289" syll="2" part="i">Sextus !</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1289" syll="10" part="f">En votre absence, il vint dans ce palais.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1290" syll="6" part="i">Qui l'y put amener ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1290" syll="6" part="f">Le plus noir des forfaits.</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1291" syll="3" part="i">Je frémis.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1291" syll="3" part="m">Poursuivez.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1291" syll="6" part="f">Sextus, ô honte ! Ô crime !</l>
+	<l id="1292">Ce désordre, ces pleurs, ce trouble qui m'opprime...</l>
+</sp>
+<sp who="SPURIUS"><speaker>SPURIUS.</speaker>
+	<l id="1293" syll="3" part="i">Quels discours !</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1293" syll="9" part="f">De terreur tous mes sens sont glacés !</l>
+	<l id="1294" syll="3" part="i">Achevez.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1294" syll="3" part="m">Je ne puis.</l>
+</sp>
+<sp who="COLLATIN"><speaker>COLLATIN.</speaker>
+	<l id="1294" syll="3" part="m">Je le veux.</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1294" syll="3" part="f">Frémissez,</l>
+	<l id="1295">Trop malheureux époux, trop infortuné père !</l>
+	<l id="1296">Un ravisseur perfide, un infâme adultère ;</l>
+	<l id="1297">Sextus, dans les transports de sa lâche fureur...</l>
+	<l id="1298">Sextus.... Ma main n'a pu retracer cette horreur...</l>
+	<l id="1299">Si j'en ai dit assez pour armer votre rage,</l>
+	<l id="1300">Épargnez-moi l'affront d'en dire davantage.</l>
+	<l id="1301">Ce coeur d'autant plus fier qu'il est humilié,</l>
+	<l id="1302">Ne vient pas mendier une vaine pitié :</l>
+	<l id="1303">Il est un autre espoir auquel j'ose prétendre ;</l>
+	<l id="1304">Un bien que je réclame et que j'ai droit d'attendre ;</l>
+	<l id="1305" syll="11" part="i">La vengeance, en un mot, qui me la promet ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1305" syll="1" part="f">Moi ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1306" syll="3" part="i">Toi, Brutus ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1306" syll="3" part="m">Moi, Lucrèce ?</l>
+</sp>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
+	<l id="1306" syll="6" part="f">Oui, je l'attends de toi.</l>
+	<l id="1307">Ce seul mot, pour Lucrèce est un trait de lumière :</l>
+	<l id="1308">Il m'a développé ton âme toute entière.</l>
+	<l id="1309">Malgré le faux dehors qu'elle avait revêtu,</l>
+	<l id="1310">En ton délire, ami, j'admirais ta vertu.</l>
+	<l id="1311">Mon coeur en croit ton coeur. Tu tiendras promesse.</l>
+	<l id="1312">Je meurs contente, adieu, venge Rome et Lucrèce.</l>
+<stage type="suicide/pain">Elle se frappe. Spurius et Collatin, sont abîmés dans la douleur.</stage>
+</sp>
+<sp who="VALÉRIUS"><speaker>VALÉRIUS.</speaker>
+	<l id="1313" syll="3" part="i">Elle expire.</l>
+</sp>
+<sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="1313" syll="3" part="m">Ô douleur !</l>
+</sp>
+<sp who="MUTIUS"><speaker>MUTIUS.</speaker>
+	<l id="1313" syll="2" part="m">Ô crime !</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE.</speaker>
+	<l id="1313" syll="4" part="f">Ô jour d'effroi !</l>
+<stage type="silence">Grand silence.</stage>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1314">Tout tremble, tout frémit, tout pleure autour de moi.</l>
+	<l id="1315">Est-ce là le tribut que ces mânes attendent ?</l>
+	<l id="1316">Ce ne font pas des pleurs, c'est du sang qu'ils demandent.</l>
+	<l id="1317">Ils l'obtiendront. Ô vous, mânes que je chéris,</l>
+	<l id="1318">D'attraits et de vertus froids et sacrés débris !</l>
+	<l id="1319">Ô toi, qui m'implorais à ton heure suprême,</l>
+	<l id="1320">Lucrèce, entends ma voix. J'en jure par toi-même ;</l>
+	<l id="1321">J'en jure, par ce fer de tes flancs retiré,</l>
+	<l id="1322">Ce fer, qu'un sang pudique a teint et consacré ;</l>
+	<l id="1323">Que Tarquin, que Tullie et leur infâme race,</l>
+	<l id="1324">Expieront aujourd'hui ce crime et leur audace,</l>
+	<l id="1325">Et qu'au rang d'où ce bras va les précipiter,</l>
+	<l id="1326">Nul mortel désormais n'osera remonter.</l>
+</sp>
+<sp who="LES CONJURÉS"><speaker>LES CONJURÉS.</speaker>
+	<l id="1327" syll="4" part="i">Nous le jurons.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1327" syll="8" part="f">Romains, oui, j'en ai l'assurance,</l>
+	<l id="1328">Ce jour qui voit le crime en verra la vengeance.</l>
+	<l id="1329">Cette mort a donné le signal attendu</l>
+	<l id="1330">Dans Rome et dans le camp par mes fils entendu.</l>
+	<l id="1331">De notre Liberté le monument s'élève,</l>
+	<l id="1332">Et dans un même instant se commence et s'achève.</l>
+	<l id="1333">Croyez-en ce Brutus qui d'un voile imposteur</l>
+	<l id="1334">De vos hardis projets enveloppant l'auteur,</l>
+	<l id="1335">Dans l'ombre et le silence en ourdissait la trame.</l>
+	<l id="1336">Vous n'êtes que le bras du corps dont il est l'âme.</l>
+	<l id="1337">Fatigué de servir et de dissimuler,</l>
+	<l id="1338">C'est lui qui dans ces lieux vous a fait rassembler ;</l>
+	<l id="1339">Qui, pour déterminer plus d'une âme indécise,</l>
+	<l id="1340">Loin de désavouer son illustre entreprise,</l>
+	<l id="1341">De l'infâme Sextus confirmant les soupçons,</l>
+	<l id="1342">Remit entre ses mains son secret et nos noms.</l>
+	<l id="1343">J'ai voulu, quand sur vous j'appelais les orages</l>
+	<l id="1344">Par le nécessité ranimer vos courages ;</l>
+	<l id="1345">Et de votre péril appuyant mes projets,</l>
+	<l id="1346">Rendre un beau désespoir garant de nos succès.</l>
+	<l id="1347">Les Tarquins ont fait plus : leur exécrable rage,</l>
+	<l id="1348">Romains, de ma prudence a consommé l'ouvrage.</l>
+	<l id="1349">Regardez cet objet de douleur et d'effroi...</l>
+	<l id="1350">Et vous, restez muets, plus éloquents que moi,</l>
+	<l id="1351">Parlez aux citoyens, persuadez l'armée ;</l>
+	<l id="1352">Offerts à tous les yeux dans la ville alarmée,</l>
+	<l id="1353">Créez vous des vengeurs : que le père, l'époux,</l>
+	<l id="1354">Vous contemple, frémisse et se rallie à nous.</l>
+	<l id="1355">La nature et les lois sont du parti de Rome.</l>
+	<l id="1356">Pour embrasser sa cause il suffira d'être homme.</l>
+<stage type="get/exit">Les conjurés enlèvent le corps de Lucrèce et sortent pour le montrer au Peuple.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

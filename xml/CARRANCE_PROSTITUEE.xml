@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA PROSTITUÉE, MONOLOGUE</title>
+				<author type="texte" ISNI="0000 0001 2134 883X">Évariste CARRANCE  (1840-1916)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, juillet 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, août 2023</publisher>
+				<idno>CARRANCE_DIVORCE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>Moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote=" Collection numérique : Fonds régional : Aquitaine">https://gallica.bnf.fr/ark:/12148/bpt6k39249n</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA PROSTITUÉE</titlePart>
+			<titlePart type="sub">Prix : 50 centimes</titlePart>
+			<titlePart type="sub">HUITIÈME ÉDITION</titlePart>
+		</docTitle> 
+		<docDate value="1884">1884</docDate>
+		<docAuthor id="CARRANCE, Évariste">ÉVARISTE CARRANCE</docAuthor>
+		<docImprint>
+			<editor id="MASSON">AGEN, LIBRAIRIE DU COMITÉ POÉTIQUE ET DE LA REVUE FRANÇAISE, 6, rue du saumon, 8</editor>
+			<printer id="LENTHERIC">AGEN, V. LENTHERIC, Imprimeur du Comité Poétique</printer>
+		</docImprint>		
+	<div type="lettre"><head>Lettre de M. Alfred Naquet, Sénateur de Vaucluse</head>
+		<adresse>À M. ÉVARISTE CARRANCE</adresse>
+		<p>Paris, juin</p>
+		<p>Monsieur</p>
+		<p>Vous me demandez quelques lignes pour les publier en tête de la brochure que vous allez faire paraître sur le divorce.</p>
+		<p>Que puis-je vous dire ? Que je vous remercie au nom de la vérité, dont il faut assurer le complet triomphe, dès que vous faites pour achever de déraciner ce qui reste de l'absurde préjugé sur lequel et vécu le régime de 1816.</p>
+		<p>Croyez, Monsieur, à mes meilleurs sentiments.</p>
+		<signature>A. NAQUET.</signature>
+	</div>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LA PROSTITUÉE" sex="2" type="H" statut="prostituée" age="A" stat_amour="néant">LA PROSTITUÉE</role></castItem>
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps=""/>
+	<note>Texte extrait de "Le divorce, la prostituée : monologues en vers,  précédés d'une lettre de M. Alfred Naquet".- Agen : Librairie du comité poétique et de la revue française. pp 6-8.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LA PROSTITUÉE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LA PROSTITUÉE"><speaker/>
+<poem type="strophes">
+<lg n="1">
+	<l id="1">Voulez-vous m'écouter, Monsieur_le_commissaire ?</l>
+	<l id="2">Mon histoire n'est point méchante ou téméraire :</l>
+	<l id="3">Vos agents m'ont surprise et conduite en prison,</l>
+	<l id="4">Car la faiblesse a tort, et la force a raison.</l>
+	<l id="5">Avant de condamner, on doit toujours entendre !</l>
+	<l id="6">Mon état fait horreur ! J'en conviens : je dois vendre</l>
+	<l id="7">Mon corps pour quelques sous, et je vais chaque jour,</l>
+	<l id="8">Flétrir les mots sacrés de tendresse et d'amour ;</l>
+	<l id="9">Mais ne comprenez-vous ce qu'il en coûte à l'âme.</l>
+	<l id="10">Avant de s'engager dans cette route infâme ?</l>
+	<l id="11">Écoutez !... Le travail s'arrête brusquement ;</l>
+	<l id="12">On connaît de la faim l'indicible tourment ;</l>
+	<l id="13">On râle auprès de vous... Alors, la mère abdique,</l>
+	<l id="14">Et pour sauver l'enfant, devient... femme publique !</l>
+</lg>
+<lg n="2">
+	<l id="15">Mon récit sera court ; c'est un récit poignant.</l>
+	<l id="16">Avez-vous jamais vu pleurer un pauvre enfant</l>
+	<l id="17">Que la faim courbe en deux sur un grabat de paille ?</l>
+	<l id="18">Ah ! Personne ne rit et personne ne raille.</l>
+	<l id="19">C'est une chose triste, allez ; on sent le coeur</l>
+	<l id="20">Qui se laisse envahir par la sombre terreur.</l>
+	<l id="21">Dieu s'efface et n'est plus que l'esprit des ténèbres ;</l>
+	<l id="22">Les rayons du soleil sont pâles et funèbres ;</l>
+	<l id="23" syll="8" part="i">Vous criez... Votre enfant se meurt ! </l>
+</lg>
+<lg n="3">
+	<l id="23" syll="4" part="f">Ô désespoir !</l>
+	<l id="24">Vous avez trente fois fouillé dans le tiroir</l>
+	<l id="25">Qui gardait autrefois votre épargne modeste ;</l>
+	<l id="26">Mais le tiroir est vide et pas un sou ne reste :</l>
+	<l id="27">Pas de pain, pas de feu, le petit va mourir !</l>
+</lg>
+<lg n="4">
+	<l id="28">Sur le cours, on entend les amis du plaisir,</l>
+	<l id="29">Ils sont heureux... ils ont du pain pour la famille.</l>
+	<l id="30">Mon petit va mourir comme son regard brille !</l>
+	<l id="31">À me faire un adieu suprême il se résout ;</l>
+	<l id="32">La fièvre a redressé son corps, il est debout</l>
+	<l id="33">Il s'approche de moi, chancelant et livide ;</l>
+	<l id="34">Il vient... Entendez-vous de cette lèvre aride</l>
+	<l id="35">S'échapper ces deux mots : J'AI FAIM ! Entendez-vous !</l>
+</lg>
+<lg n="5">
+	<l id="36">J'entendis cet appel, et, tombant ci genoux,</l>
+	<l id="37">Je demandai pardon à l'être chaste et frêle.</l>
+	<l id="38">Oh ! Monsieur, je me dis que j'étais criminelle,</l>
+	<l id="39">Et, ne pouvant répondre au cri de mon enfant,</l>
+	<l id="40">Je lui donnai, tremblante, un verre de mon sang !</l>
+	<l id="41">Mon fils se ranima, comme un sourire d'ange</l>
+	<l id="42">Effleura ce visage à la pâleur étrange :</l>
+	<l id="43">Je le vis s'endormir presque calme et vermeil.</l>
+</lg>
+<lg n="6">
+	<l id="44">Moi, tandis qu'il dormait, j'attendais le réveil,</l>
+	<l id="45">Car la terrible faim, un instant assouvie,</l>
+	<l id="46">Allait venir encor. - Oh ! L'implacable envie,</l>
+	<l id="47">Contre tous les puissants contre tous les heureux,</l>
+	<l id="48">Me torturait. - Le ciel me paraissait affreux.</l>
+	<l id="49">De grands nuages noirs la lune était voilée.</l>
+	<l id="50">Je descendis alors, pieds nus, échevelée,</l>
+	<l id="51">Et devant un passant je m'arrêtai soudain</l>
+</lg>
+<lg n="7">
+	<l id="52">Le passant prit mon corps, et me donna du pain.</l>
+	<l id="53">Et depuis, chaque soir que le besoin nous compte,</l>
+	<l id="54">Je nourris mon enfant du produit de ma honte !</l>
+	<l id="55">Et, rêvant quelquefois à l'honnête passé,</l>
+	<l id="56">Je sers d'amusement à ce monde insensé.</l>
+	<l id="57">Ouvrez-moi la prison, Monsieur_le_commissaire,</l>
+	<l id="58">Mon récit est fini ? – Je connais mon affaire.</l>
+	<l id="59" syll="6" part="i">Deux mois sans voir l'enfant !</l>
+	<l id="59" syll="6" part="f">Si l'on savait combien</l>
+	<l id="60">Je l'aime, ce petit, c'est mon unique bien !</l>
+	<l id="61">C'est en mon coeur meurtri le seul amour qui vibre.</l>
+</lg>
+<lg n="8">
+	<l id="62">Le commissaire dit Femme, vous êtes libre !</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

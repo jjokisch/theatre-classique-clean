@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LE BOUT DE L'AN, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>COURTELINE_BOUTDELAN</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE BOUT DE L'AN</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES..</head>
+			<castItem><role id="L'HUISSIER-AUDIENCIER" sex="1" type="H" statut="huissier" age="A" stat_amour="néant">L'HUISSIER-AUDIENCIER</role>.</castItem>
+			<castItem><role id="LE GASTEUX DE LA ROCHE TARPÉIENNE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LE GASTEUX DE LA ROCHE TARPÉIENNE</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="A" statut="président " age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 157-163</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE BOUT DE L'AN</head>
+<div2 type="scene" n="1"><head/>
+<sp who="L'HUISSIER-AUDIENCIER"><speaker>L'HUISSIER-AUDIENCIER</speaker><stage type="call">, appelant.
+</stage>
+<p id="1">
+	<s id="1">Le ministère public contre Le Gasteux_de_la_Roche_Tarpéienne !</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX DE LA ROCHE TARPÉIENNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="2">
+	<s id="1">Que dira la marquise_douairière ?...</s>
+</p>
+<stage type="stand">Il se lève et, entre les deux municipaux assis à ses côtés sur le banc de la correctionnelle, il apparaît costumé en sauvage.</stage>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="3">
+	<s id="1">Le Gasteux, vous êtes prévenus d'avoir causé du scandale dans un lieu affecté au culte. </s>
+	<s id="2">Jeudi dernier, le jour de la mi-Carême, vous avez pénétré au moment des Vêpres dans l'église_de_la_Trinité, grotesquement affublé du déguisement que vous portez encore et avec lequel vous avez été été arrêté – un costume de roi_nègre, je pense.</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX DE LA ROCHE TARPÉIENNE</speaker><stage type="quiet">, très simple.
+</stage>
+<p id="4">
+	<s id="1">Behauzin.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="5">
+	<s id="1">Cela est possible. </s>
+	<s id="2">Vous n'en avez pas moins pénétré dans l'église, au grand émoi des fidèles assemblés ; puis, comme le suisse voulait vous faire sortir, arguant avec raison de l'inconvenance de votre tenue, vous l'avez abreuvé d'injures, le traitant de croquant et de bélître, disant que vous lui feriez bâiller les étrivières, etc. etc.</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX DE LA ROCHE TARPÉIENNE.</speaker>
+<p id="6">
+	<s id="1">Je voulais faire dire une messe de bout de l'an à l'intention de feu mon oncle.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="7">
+	<s id="1">Vous auriez pu attendre au lendemain.</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX DE LA ROCHE TARPÉIENNE.</speaker>
+<p id="8">
+	<s id="1">Impossible. </s>
+	<s id="2">C'eût été trop tard. Une messe de bout de l'an se mange chaude le jour anniversaire du décès de la personne.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="9">
+	<s id="1">Si bien qu'il vous fallait la vôtre à l'instant même ?</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX DE LA ROCHE TARPÉIENNE.</speaker>
+<p id="10">
+	<s id="1">Sans doute.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="11">
+	<s id="1">En vérité, c'est inimaginable!... </s>
+	<s id="2">Alors oui ? </s>
+	<s id="3">Vous croyez qu'on rentre dans une église se faire dire une messe de bout de l'an à quatre heures de l'après-midi, comme on rentre chez le pharmacien acheter de l'antipyrine ?</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX</speaker><stage type="seilence">, après un silence.
+</stage>
+<p id="12">
+	<s id="1">J'étais ivre.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Je n'en doute pas.</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX.</speaker>
+<p id="14">
+	<s id="1">Mais je jure n'avoir pas eu un seul instant une intention blasphématoire !... </s>
+	<s id="2">En somme, c'était simple comme bonjour. </s>
+	<s id="3">L'anniversaire de feu mon oncle tombait le jour de la mi-carême, en sorte qu'une messe de bout de l'an avait été, le matin, célébrée à cette occasion. </s>
+	<s id="4">Cette messe, je m'étais juré d'y assister et j'y aurais assisté en effet si je n'eusse, après de longues hésitations, opté pour le Dahomey. </s>
+	<s id="5">( Que celui qui n'a pas, une fois sacrifié le devoir au plaisir, la vertu à la volupté, me jette la première pierre.)  </s>
+	<s id="6">Bref je revêtis le présent déguisement et m'en fus déjeuner en joyeuse compagnie, dans un café du boulevard. </s>
+	<s id="7">Vers trois heures, des fumées de liquides généreux commencèrent à faire germer en ma conscience des remords de bon_aloi. </s>
+	<s id="8">Devant mes yeux se dressa le fantôme de mon oncle me reprochant d'avoir négligé ses mânes, et de lui avoir posé un lapin... </s>
+	<s id="9">Un quart d'heure plus tard, la chartreuse aidant, je versais des torrents de larmes et décidais de racheter les torts en faisant dire tout exprès pour le mort une messe payée de mes deniers.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="15">
+	<s id="1">C'est alors que vous vous rendez à l'église_de_la_Trinité.</s>
+</p>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX.</speaker>
+<p id="16">
+	<s id="1">Parfaitement, j'en franchis le seuil et je jetais au suisse mon porte-monnaie. </s>
+	<s id="2">« Tiens, mon drôle, prends cette bourse et va-moi quérir le curé. » </s>
+	<s id="3">Mais comme le suisse parlait d'aller quérir les sergents de ville : « Or ça m'écriais-je, qu'est-ce ceci ? </s>
+	<s id="4">Sur mon honneur, voilà un impudent coquin ! </s>
+	<s id="5">Voyez-moi ce carême-prenant, avec son chapeau à plumes, qui se permet de manquer de respect à des personnes de qualité ! </s>
+	<s id="6">Tu périras sous le bâton, drôle ! </s>
+	<s id="7">Holà, quelqu'un ! </s>
+	<s id="8">Champagne ! </s>
+	<s id="9">Bourgogne ! </s>
+	<s id="10">Picard ! </s>
+	<s id="11">Qu'on s'empare de ce bélître et qu'on lui baille les étrivières. » </s>
+	<s id="12">Que vous dirai-je ?... </s>
+	<s id="13">C'était un homme robuste, plus robuste que moi cent fois. De sa dextre, il saisit le collet de mon costume, cependant que de sa main gauche il empoignait le maillot par le fond... Des agents vinrent, vous savez le reste.</s>
+</p>
+<stage type="declamate">Le tribunal délibère puis condamne Le Gasteux de la Roche Tarpéienne à huit jours d'emprisonnement.</stage>
+</sp>
+<sp who="LE GASTEUX"><speaker>LE GASTEUX</speaker><stage type="exit">, emmené à part.
+</stage>
+<p id="17">
+	<s id="">Que dira la marquise_douairière ?...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

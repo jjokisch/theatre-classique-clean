@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>SECOND DIALOGUE DES JEUX CHAMPÊTRES, COMÉDIE</title>
+				<author type="text" ISNI="0000 0001 2138 6051">GENLIS, Stéphanie-Félicité Du Crest de (1746-1830)</author>
+			</titleStmt>
+			<publicationStmt>
+				<editor>Texte établi par Paul Fièvre, décembre 2018.</editor>
+				<publisher>Publié par Paul FIEVRE, janvier 2023.</publisher>
+				<idno>GENLIS_SECONDDIALOGUE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>dialogue</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1821-1830</periode>
+				<taille>(mesure non pertinente</taille>
+				<permalien cote="BnF ARS RESERVE 16-Z-23378">https://gallica.bnf.fr/ark:/12148/bpt6k15186021</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">SECOND DIALOGUE</titlePart>
+			<titlePart type="sub">DES JEUX CHAMPÊTRES DES ENFANTS</titlePart>
+		</docTitle> 
+		<docDate value="1829">1829</docDate>
+		<docAuthor id="GENLIS, Madame de"/>
+		<docImprint>
+			<printer>À PARIS, A. MARC, Libraire, Auteur et éditeur du Dictionnaire des romans, Rue Rameau N°11. Quartier du Palais Royal. </printer>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="ICÉLIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">ICÉLIE</role>, agée de 18 ans.</castItem>
+			<castItem><role id="LÉONILLE" sex="2" type="H" statut="enfant" age="E" stat_amour="néant">LÉONILLE</role>, agée de 12 ans, soeur d'Icélie.</castItem>
+			<castItem><role id="LOUIS" sex="1" type="H" statut="enfant" age="E" stat_amour="néant">LOUIS</role>, frère d'Icélie et de Léonille.</castItem>
+		</castList>
+		<set location="Campagne" country="France" periode="XVIIIème" link=""/>
+		<note>Extrait de LES JEUX CHAMPÊTRES DES ENFANTS et l'île Par Madame la Comtesse de Genlis, orné de huit gravures. TROISIÈME ÉDITION, 1829. pp. 8-22</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>SECOND DIALOGUE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="1">
+	<s id="1">Ma soeur, ma soeur, nous t'apportons quatre fleurs, au lieu de deux ; j'en ai cueilli deux et ma soeur autant : tiens, regarde, les voilà posées bien proprement dans les feuilles de choux.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="2">
+	<s id="1">Pour qu'elles soient mieux encore, je te donnerai ce soir une petite boîte de fer-blanc, dans laquelle tu mettras à l'avenir les feuilles de choux. Mais voyons.</s>
+</p>
+<stage type="get">Elle soulève les feuilles de choux. </stage>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">La violette et le muguet.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="4">
+	<s id="1">C'est de ma soeur.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<note type="L">Le pissenlit, en latin, dens leonis, dent de lion. Le pissenlit se mange en salade et sert en médecine à purifier le sang.</note>
+<p id="5">
+	<s id="1">Le pissenlit et la marguerite des champs...</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="6">
+	<s id="1">C'est de moi; je les ai apportées doubla pour jouer avec l'une des deux.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="7">
+	<s id="">C'est fort bien imaginé.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="8">
+	<s id="1">Commençons par jouer, nous dessécherons après. </s>
+	<s id="2">Je vais voir comment tu m'aimes.</s>
+</p>
+<stage type="give">Il donne l'une des marguerites à Icèlie.</stage>
+<p id="9">
+	<s id="1">Tiens, arrache une à une les feuilles de cette fleur, en disant : Je vous aime, un peu beaucoup, passionnément, pas du tout. </s>
+	<s id="2">Mais qu'est-ce que tu fais donc là ? </s>
+	<s id="3">Ce n'est pas comme çà.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="10">
+	<s id="1">Je fais ce que tu me dis, j'arrache les feuilles.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="11">
+	<s id="1">Il faut arracher les feuilles de la fleur et non de la tige.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="12">
+	<s id="1">Explique-toi donc ! </s>
+	<s id="2">Ce que tu appelles les feuilles de la fleur, se nomme des pétales ; c'est la tige qui porte les feuilles, qui sont toujours vertes.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Je ne savais pas cela. </s>
+	<s id="3">Les pétales, je m'en ressouviendrai pour que tu ne te trompes plus une autre fois, quand nous jouerons. </s>
+	<s id="4">Allons, recommence sur la fleur, arrache les pétales un à un, et dis les mots à mesure.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE</speaker><stage type="work/enthousiasm">, fait ce qu'il désire et elle finit par prononcer le mot passionnément et elle dit :
+</stage>
+<p id="14">
+	<s id="1">Ton jeu n'est pas menteur.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS</speaker><stage type="kiss">, embrassant Icélie.
+</stage>
+<p id="15">
+	<s id="1">Je l'aime bien mieux à présent.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE</speaker><stage type="toward">, à Icélie.
+</stage>
+<p id="16">
+	<s id="1">Regarde donc mon muguet et mes violettes, quel charmant bouquet !</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS</speaker><stage>, à Léonille.
+</stage>
+<p id="17">
+	<s id="1">Elle s'occupera de toi quand elle aura vu mon pissenlit ; tiens, souffle sur cette petite boule si légère, je soufflerai ensuite, et puis toujours l'un après l'autre, et celui qui soufflera le dernier brin aura gagné.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="18">
+	<s id="1">Et gagné quoi ?</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="19">
+	<s id="1">La première tartelette qu'on nous donnera.</s>
+</p>
+<stage type="blow">Ils soufflent tous les trois, l'un après l'autre.</stage>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="20">
+	<s id="1">À moi la première tartelette.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="21">
+	<s id="1">Tu n'en auras que la moitié.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="22">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="23">
+	<s id="1">Il en restait encore un petit brin, gros comme un petit cheveu, et je viens de le faire envoler.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="24">
+	<s id="1">C'est tricher.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<stage type="explicit">On doit à une Anglaise, Madame Delany, un moyen de conserver la figure des plantes, d'une manière plus agréable et beaucoup plus durable. Elle a fait ainsi un herbier composé de neuf cent soixante et dix espèces ; elle commença cet ouvrage à l'âge de soixante et quatorze ans, lorsque sa vue affaiblie ne lui permettait plus de peindre, et elle continua jusqu'à quatre-vingt deux ans. Sa méthode consiste à développer toutes les parties de la plante, à les étendre sur des papiers de leur couleur, ensuite à découper les papiers et à les coller sur un fond noir ou brun. Le dessin sans doute doit être parfaitement exact, mais il semble ( ce que ne dit point M. Deleuze dans les ouvrages duquel on a pris ce détail ), il semble qu'il soit nécessaire, en suivant cette méthode, de peindre les queues, les épines, et de donner quelques touches de couleur aux papiers collés, afin de représenter les nuances et le travail des feuilles.</stage>
+<note type="L">Gomme arabique : gomme fournie par plusieurs plantes du genre acacia, de la famille des légumineuses mimosées. [L]</note>
+<p id="25">
+	<s id="1">Allons, ne perdons point de temps, desséchons ces deux plantes ; mettons-les bien à plat entre ces deux feuilles de papier gris, et posons sur le tout ce gros livre in-48. </s>
+	<s id="2">Nous les retournerons demain, nous les remettrons encore en presse; et puis nous les poserons sur des feuilles de papier blanc, eu assujettissant les tiges avec des morceaux Imperceptibles de papier collés avec de la gomme_arabique. </s>
+	<s id="3">Nous écrirons le nom au bas de chaque plante, et voilà ce qui s'appelle dessécher.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="26">
+	<s id="1">À présent tu vas arranger ma violette et mon muguet.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="27">
+	<s id="1">Volontiers, tu as fait là un joli choix.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<stage type="explicit">Les fleurs desséchées de violette, prises en infusion, sont béchiques, c'est-à dire bonnes pour la poitrine. On tire une teinture de ses fleurs, et l'expérience a prouvé que, pour la faire belle, il faut qu'elle soit faite dans un vase d'étain. La teinture de violette est une couleur d'épreuve très commode. Les chimistes, en général, distinguent et divisent les sels en acides, en alkalis, et en neutres. Lorsqu'on veut connaître si un fluide contient de l'acide ou de l'alkali, on jette quelques gouttes de la teinture de violette ; si le fluide contient de l'acide, il se colore en rouge; s'il contient de l'alkali, il se colore en vert.</stage>
+<p id="28">
+	<s id="1">C'est si joli la violette ! </s>
+	<s id="2">J'en aime même l'infusion qu'on nous donne dans nos rhumes, mais quand on y met du sucre et du lait. </s>
+	<s id="3">Dis-moi, fait-on aussi de l'infusion de muguet ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="29">
+	<s id="1">Non ; mais on en fait une poudre sternutatoire, c'est-à-dire, qui fait éternuer. Pour revenir à la violette, connais-tu les jolies devises qu'on, a fait sur cette fleur ?</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="30">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="31">
+	<s id="1">J'aime bien les devises. </s>
+	<s id="2">J'ai feuilleté tout le grand livre de devises de papa, c'est bien amusant ; mais la violette n'y est pas.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="32">
+	<s id="">Vous savez que la violette est presque toujours cachée sous les feuilles.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="33">
+	<s id="1">Oui, c'est pourquoi on dit la timide, la modeste violette.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="34">
+	<s id="1">On peut bien être modeste sans vouloir se cacher. </s>
+	<s id="2">Léonille, quand tu as ta belle robe de taffetas couleur de rose, tu serais bien fâchée de te cacher ?</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="35">
+	<s id="1">Je suis bien aise de montrer les dons de maman.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="36">
+	<s id="1">Léonille a raison, et ta comparaison, mon cher Louis, n'est pas juste ; la parure et la beauté de la violette sont une partie d'elle-même et ne la quittent jamais ; la belle robe de Léonille est étrangère à sa personne ; enfin tu n'ignores pas que Léonille qui a une si belle mémoire, qui sait tant de vers, et si bien l'histoire, la géographie, pour son âge, et qui joue si joliment du piano, n'a aucun empressement de montrer son instruction et ses talents. </s>
+	<s id="2">Cependant ces choses-là lui appartiennent : si elle n'était pas aussi raisonnable, elle en tirerait vanité ; c'est-à-dire qu'elle serait pédante et bavarde ; elle est tout le contraire, parce qu'elle est modeste.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="37">
+	<s id="1">J'entends, j'entends, j'ai eu tort. </s>
+	<s id="2">Dis-nous la devise de la violette.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<stage type="explcit">Dans les devises on appelle la représentation de l'objet le corps de la devise ; et les paroles qui expriment la pensée, s'appellent l'âme de la devise.</stage>
+<p id="38">
+	<s id="">La voici : Une fleur de violette, et ces mots il faut me chercher.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="39">
+	<s id="1">C'est ce que j'ai fait.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="40">
+	<s id="1">Icélie, veux-tu, pour avancer notre herbier, que nous t'apportions encore ce soir quatre plantes ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="41">
+	<s id="1">J'y consens.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="42">
+	<s id="1">Nous nous retrouverons ici au retour de la promenade.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

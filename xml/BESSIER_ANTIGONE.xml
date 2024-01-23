@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>ANTIGONE, SCÈNE LYRIQUE</title>
+				<author type="texte" ISNI="0000 0001 1474 4543">Fernand BEISSIER (1858-1936)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Paul FIEVRE, avril 2023</editor>
+				<publisher>Publié par Paul FIEVRE, mai 2023</publisher>
+				<idno>BESSIER_ANTIGONE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Scène lyrique</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF ARS 4-RF-51303"/>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ANTIGONE</titlePart>
+			<titlePart type="sub">SCÈNE LYRIQUE</titlePart>
+			<titlePart type="sub">PRIX : 30 CENTIMES</titlePart>
+		</docTitle> 
+		<docDate value="1893">1893</docDate>
+		<docAuthor id="BESSIER, Fernand">PAR FERNAND BESSIER</docAuthor>
+		<docImprint>
+			<editor id="FIRMIN DIDOT">Paris : Firmin-Didot.</editor>
+			<printer>IMPRIMERIE GÉNÉRALE DE CHATILLON-SUR SEINE. A. PICHAT.</printer>
+		</docImprint>
+		<castList><head>PERSONNAGE</head>
+			<castItem><role id="CRÉON" sex="1" type="H" statut="roi" age="A" stat_amour="néant">CRÉON</role>, roi de Thèbes.</castItem>
+			<castItem><role id="HÉMON" sex="1" type="H" statut="prince" age="A" stat_amour="néant">HÉMON</role>, son fils.</castItem>
+			<castItem><role id="ANTIGONE" sex="2" type="H" statut="prince" age="A" stat_amour="néant">ANTIGONE</role>, fille d'OEdipe.</castItem>
+		</castList>
+		<set location="Thèbes" country="Grèce" periode="Temps mythologiques" gps="38.322579, 23.320431">La scène aux environs de Thèbes. – Temps héroïques de la Grèce.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ANTIGONE</head>
+<stage type="decor/music/entrance">Le souterrain sacré où Antigone doit être enterrée vivante. On y accède par un escalier de quelques marches taillées dans le roc. Tout autour d'énormes piliers se dressent, s'enfonçant dans l'ombre. Par l'entrée supérieure large ouverte, on voit l'aurore poindre. Au loin, par instants, résonnent les accords d'une marche funèbre, qui se rapproche peu à peu.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="entrance/desparated/costume">, paraît à l'entrée du souterrain, désespéré, les vêtements en désordre, se soutenant à peine.
+	</stage>
+	<l id="1">M'y voici donc enfin ! Menace, ni prière,</l>
+	<l id="2">N'ont pu fléchir mon père ! Antigone mourra ;</l>
+	<l id="3">Et l'aurore qui luit, est l'aurore dernière</l>
+	<l id="4">Qui pour elle luira.</l>
+	<l id="5">Pour avoir, de ses mains, donné la sépulture</l>
+	<l id="6">Aux morts sur qui pesait un arrêt odieux,</l>
+	<l id="7">On la jette vivante à l'horrible torture</l>
+	<l id="8">De la tombe. Mais vous, divinités des cieux,</l>
+	<l id="9">Permettrez-vous qu'un crime aussi noir s'accomplisse ?</l>
+	<l id="10">Ô Soleil, tu ne peux éclairer son supplice !</l>
+	<l id="11">Replonge dans la nuit ton orbe aux rayons d'or.</l>
+	<l id="12">La nature est en deuil ! Pourquoi briller encor ?</l>
+	<l id="13">Sous la douleur mon coeur succombe ;</l>
+	<l id="14">Le rêve au jour s'est effacé !</l>
+	<l id="15">Et pour nous c'est sur une tombe</l>
+	<l id="16">Que la fleur d'amour a poussé.</l>
+	<l id="17">Mais tu ne peux m'être ravie,</l>
+	<l id="18">Toi qui m'appartiens sans retour :</l>
+	<l id="19">Partageant ta mort ou ta vie,</l>
+	<l id="20">Je vis ou meurs de ton amour.</l>
+<stage type="music/sing">La marche funèbre se rapproche, et la voix d'Antigone se fait entendre.</stage>
+</sp>
+<sp who="ANTIGONE"><speaker>LA VOIX D'ANTIGONE.</speaker>
+	<l id="21">Aux funèbres chants des sistres d'airain,</l>
+	<l id="22">Sonne, au jour qui luit, cette dernière heure.</l>
+	<l id="23">Mais la mort est douce à qui souffre et pleure,</l>
+	<l id="24">Et les pleurs ont seuls fleuri mon chemin.</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="away/frighten">, reculant épouvanté.
+	</stage>
+	<l id="25">Eux !... Déjà !... Le front couronné de verveine,</l>
+	<l id="26">Sous de longs voiles blancs cachant ses blonds cheveux,</l>
+	<l id="27">Elle vient, douce vierge immolée à leur haine,</l>
+	<l id="28">N'en gardant nulle trace en son coeur généreux.</l>
+	<l id="29">Mais je suis là... je t'aime... Espère encore !</l>
+<stage type="hide/music/entrance/costume">Il se cache dans l'ombre d'un pilier. La marche funèbre retentit. Antigone paraît, entourée des prêtres, à l'entrée du souterrain. Elle est vêtue de blanc et couronnée de verveine. Elle s'arrête sur le seuil.</stage>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="30">Fuyez de mon coeur, regrets superflus !</l>
+	<l id="31">Adieu le printemps, l'amour et l'aurore !</l>
+	<l id="32">De nouvelles fleurs demain vont éclore.</l>
+	<l id="33">Et mes yeux, hélas ! Ne les verront plus.</l>
+<stage type="narration">Lentement elle descend les marches de l'escalier ; puis les prêtres s'éloignent, laissant des soldats garder l'entrée du souterrain ; Antigone vient tomber assise sur une pierre, comme perdue en une triste rêverie, tandis que peu à peu au loin meurent les derniers accords de la marche funèbre.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Antigone, Hémon.
+</stage>
+<stage type="entrance/frighten/shout">Hémon tout à coup surgit devant elle ; Antigone pousse un cri d'effroi et recule terrifiée.</stage>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="34" syll="10" part="i">Dieux immortels ! Hémon ! Ici ! Toi ! toi !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="34" syll="2" part="f">Moi-même !</l>
+	<l id="35">Mon père, en te frappant, a cru nous désunir ;</l>
+	<l id="36">Mais l'amour est plus fort que la mort. Et je t'aime !</l>
+	<l id="37">Dans la vie ou la mort nous allons nous unir.</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="38" syll="3" part="i">Que dis-tu ?</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="38" syll="9" part="f">Que je viens t'arracher au supplice</l>
+	<l id="39" syll="3" part="m">Ou mourir !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="39" syll="3" part="m">Justes Cieux !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="39" syll="6" part="f">As-tu douté de moi ?</l>
+	<l id="40">Qu'un même destin pour nous s'accomplisse,</l>
+	<l id="41" syll="6" part="i">Qu'il nous frappe ou nous sauve !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="hugh">, l'entourant de ses bras.
+	</stage>
+	<l id="41" syll="6" part="f">Ah ! Qu'il t'épargne, toi !</l>
+<stage type="together">Ensemble.</stage>
+</sp>
+<sp who="ANTIGONE. HÉMON"><speaker>ANTIGONE, HÉMON.</speaker>
+	<l id="42">Va, laisse-moi, je t'en conjure </l>
+	<l id="43">   Rien ne peut me rendre parjure</l>
+	<l id="44">Et fuis loin de ce noir séjour ! </l>
+	<l id="45">   Ma vie est à toi sans retour,</l>
+	<l id="46">Ta mort doublerait ma torture ; </l>
+	<l id="47">   Je veux ma part de ta torture ;</l>
+	<l id="48">Vis par pitié ! vis par amour ! </l>
+	<l id="49">   Comme ma part de ton amour !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="">, suppliante, s'arrachant de ses bras.
+	</stage>
+	<l id="50" syll="6" part="i">Je dois seule mourir !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="50" syll="6" part="f">Sans toi, pourrais-je vivre ?</l>
+	<l id="51" syll="10" part="i">Et pourrais-tu vivre sans moi ?</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="enthousiasm">, avec élan.
+	</stage>
+	<l id="51" syll="1" part="m">Non !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="51" syll="1" part="f">Viens,</l>
+	<l id="52">Alors fuyons ! Mon bras brise tes liens</l>
+	<l id="53" syll="4" part="i">Et te délivre !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="53" syll="3" part="m">Quoi ? Tu voudrais ?...</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="get">, tirant son épée.
+	</stage>
+	<l id="53" syll="8" part="f">Je veux cette épée à la main,</l>
+	<l id="54">À travers tes bourreaux, te frayer un chemin !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les mêmes, Créon.
+</stage>
+<sp who="CRÉON"><speaker>CRÉON</speaker><stage type="entrance/closer/location">, paraissant à l'entrée du souterrain et s'avançant au-devant de son fils.
+	</stage>
+	<l id="55">Alors, ô parricide,</l>
+	<l id="56">Frappe d'abord ton roi, car tu ne passeras</l>
+	<l id="57" syll="4" part="i">Que sur mon corps !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="shout/frighten">, pousse un cri et recule épouvantée.
+	</stage>
+	<l id="57" syll="2" part="m">Créon !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="drop">, laissant tomber son épée.
+	</stage>
+	<l id="57" syll="3" part="m">Mon père !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON.</speaker>
+	<l id="57" syll="3" part="f">Fils perfide !</l>
+	<l id="58" syll="3" part="i">Fils ingrat !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="closer/pray">, s'avançant suppliante vers lui.
+	</stage>
+	<l id="58" syll="3" part="m">Par pitié !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON</speaker><stage type="push/closer/location">, la repousse et marche toujours droit à son fils.
+	</stage>
+	<l id="58" syll="6" part="f">J'avais suivi tes pas !</l>
+	<l id="59">Me voici !... N'écoutant que ton amour infâme,</l>
+	<l id="60">Frappe donc ! Que crains-tu ? Pour sauver cette femme,</l>
+	<l id="61">Brave les dieux et foule aux pieds nos lois !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="">, tendant les mains vers lui.
+	</stage>
+	<l id="62" syll="2" part="i">Je l'aime !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON</speaker><stage type="show/dress">, découvrant sa poitrine.
+	</stage>
+	<l id="62" syll="6" part="f">Alors, frappe ! Tu vois</l>
+	<l id="63">Je suis seul, et ma mort sera sa délivrance.</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="frighten/get">, affolé, ramasse son épée.
+	</stage>
+	<l id="64" syll="6" part="i">Ah ! Ne me tentez pas !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="closer">, se précipitant entre eux.
+	</stage>
+	<l id="64" syll="4" part="m">Grâce pour lui !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON.</speaker>
+	<l id="64" syll="2" part="f">Jamais !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage>, jette son épée et tombe à genoux devant lui.
+	</stage>
+	<l id="65">Mon père... pardonnez... Une horrible souffrance</l>
+	<l id="66">Égare ma raison... Pensez si je l'aimais...</l>
+	<l id="67" syll="2" part="i">Pitié !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON.</speaker>
+	<l id="67" syll="10" part="f">Jamais ! L'arrêt que notre loi proclame</l>
+	<l id="68">De son crime est la seule rançon.</l>
+<stage type="toward">À Hémon.</stage>
+	<l id="69">Éteins en ton coeur cette impure flamme.</l>
+	<l id="70">Comme un infernal poison,</l>
+	<l id="71">Elle aurait consumé ton âme</l>
+	<l id="72">Pour mieux égarer ta raison.</l>
+<stage type="together">Ensemble.</stage>
+</sp>
+<sp who="CRÉON, HÉMON"><speaker>CRÉON, HÉMON.</speaker>
+	<l id="73">La loi dicte l'arrêt suprême. </l>
+	<l id="74">   Sur vos dieux alors anathème,</l>
+	<l id="75">Le Ciel l'exige, incline-toi. </l>
+	<l id="76">   Si telle est leur cruelle loi !</l>
+	<l id="77">Garde ton coeur contre toi-même ; </l>
+	<l id="78">   Je brave leur arrêt suprême,</l>
+	<l id="79">Mon fils, obéis à ton roi. </l>
+	<l id="80">   Et la mort la garde pour moi.</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+	<l id="81">Du destin c'est l'arrêt suprême :</l>
+	<l id="82">Il faut obéir à sa loi !</l>
+	<l id="83">Si tu m'aimes comme je t'aime,</l>
+	<l id="84">À la mort abandonne-moi !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON.</speaker>
+	<l id="85" syll="6" part="i">Reviens à toi, mon fils !</l>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="toward">, à Hémon.
+	</stage>
+	<l id="85" syll="6" part="f">À mon tour, je t'implore !</l>
+	<l id="86">Qu'importe de mourir à qui vécut l'amour ?</l>
+	<l id="87">La fleur, qui se flétrit au déclin d'un beau jour,</l>
+	<l id="88">Alors qu'à peine elle venait d'éclore</l>
+	<l id="89">Emporte son parfum, comme j'emporterai</l>
+	<l id="90" syll="2" part="i">Ton coeur !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="90" syll="10" part="f">Tu le veux donc ? Alors j'obéirai !</l>
+<stage type="toward/get">À Créon, en ramassant son épée et lui montrant Antigone.</stage>
+	<l id="91">Appelle tes bourreaux, ô roi, tu peux la prendre !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON</speaker><stage type="happy/closer">, avec un cri de joie va à lui.
+	</stage>
+	<l id="92" syll="6" part="i">J'ai retrouvé mon fils !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON</speaker><stage type="suicide">, se frappant de son épée.
+	</stage>
+	<l id="92" syll="4" part="m">Tu l'as perdu !</l>
+<stage type="fall">Il tombe.</stage>
+</sp>
+<sp who="ANTIGONE"><speaker>ANTIGONE</speaker><stage type="shout/hit">, poussant un cri, se précipite sur lui.
+	</stage>
+	<l id="93" syll="3" part="i">Dieux cruels !</l>
+</sp>
+<sp who="CRÉON"><speaker>CRÉON.</speaker>
+	<l id="93" syll="3" part="f">Mon enfant !</l>
+</sp>
+<sp who="HÉMON"><speaker>HÉMON.</speaker>
+	<l id="93" syll="6" part="f">Votre arrêt est rendu !</l>
+	<l id="94">En une même tombe il nous fallait descendre</l>
+	<l id="95" syll="6" part="i">Réunis à jamais !</l>
+<stage type="stand/show">Il se soulève doucement et montre à Antigone un rayon de soleil qui peu à peu remonte vers la voûte et disparaît.</stage>
+	<l id="95" syll="6" part="f">Regarde, ô bien-aimée,</l>
+	<l id="96">Dans l'ombre ce rayon qui remonte au soleil,</l>
+	<l id="97">Laissant la nuit de perles d'or semée...</l>
+	<l id="98">Il nous emportera vers l'éternel réveil.</l>
+</sp>
+<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+	<l id="99">Fuyons tous les deux aux champs étoilés,</l>
+	<l id="100">Où larme et douleur à jamais sont closes !</l>
+	<l id="101">L'amour nous attend tout fleuri de roses,</l>
+	<l id="102">Gardant en ses mains nos coeurs enchaînés. </l>
+<stage type="night/music">La nuit est venue. Au loin doucement reprend la marche funèbre, à laquelle se mêle par instant comme un bruit de harpes mystérieuses.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

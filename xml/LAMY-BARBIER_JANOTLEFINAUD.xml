@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>JANOT LE FINAUD, MONOLOGUE.</title>
+				<author type="texte" ISNI="">F. LAMY (18..-1903)</author>
+				<author type="music" ISNI="0000 0000 7995 048X">Frédéric BARBIER (1829-1889)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, août 2023</editor>
+				<publisher>Publié par Paul FIEVRE, septembre 2023.</publisher>
+				<idno>LAMY-BARBIER_JANOTLEFINAUD</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Scène comique</genre>
+				<inspiration>moeurs</inspiration>
+				<type>mixte</type>
+				<structure>Un acte</structure>
+				<periode>1891-1900</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF MUS VM7-2940">https://gallica.bnf.fr/ark:/12148/bpt6k320593v</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">JANOT LE FINAUD</titlePart>
+			<titlePart type="sub">SCÈNE COMIQUE</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894</docDate>
+		<docAuthor id="LAMY, BARBIER">Parole de F. LAMY, Musique de F. Barbier.</docAuthor>
+		<docImprint>
+			<editor id="HENNUYER">PARIS, LE BAILLY, O. BORNEMANN, Successeur, 2 rue de l'Abbaye.</editor>
+			<printer>PARIS, R. BIGEARD, imprimeur, rue Saint-Honoré, 276.</printer>
+		</docImprint>
+	<castList><head>PERSONNAGE</head>
+		<castItem><role id="JANOT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">JANOT</role>.</castItem> 
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>JANOT LE FINAUD</head>
+<div2 type="scene" n="1"><head/>
+<sp who="JANOT"><speaker/>
+	<l id="1">J'suis flâneur, ce n'est pas ma faute :</l>
+	<l id="2">Puisque c'est pas moi qui m'a fait.</l>
+	<l id="3">Faut toujours que j'danse ou j'saute</l>
+	<l id="4">Ou qu'je m'promène dans le forêt.</l>
+<p id="1">
+	<s id="1">Aussi on m'appelle paresseux ;ou bien on me d'mande comme ça : c'est y vrai Janot on dit qu'si l'travail était enfermé dans une lanterne, tu n'cass'rais pas les verres pour en prendre ? </s>
+</p>
+<p id="2">
+	<s id="1">J'sais la sourde oreille, et j'les laisse d'échiner à travailler.</s>
+</p>
+<stage type="wave/music">Il mime sur le musique qu'il aime mieux se promener.</stage>
+<stage type="title">REFRAIN.</stage>
+<poem type="chanson">
+<lg n="1">
+	<l id="5">Moi, pendant c'temps-là </l>
+	<l id="6">Tra la la la la,</l>
+	<l id="7">Tra la la laire,</l>
+	<l id="8">Moi, pendant c'temps-là, </l>
+	<l id="9">Tra la la la la</l>
+	<l id="10">Tra la la lon la !</l>
+</lg>
+<lg n="2">
+	<l id="11">Je m'souviens que la mer'Nicole,</l>
+	<l id="12">En m'naçant de son bâton;</l>
+	<l id="13">M'disait ; pourquoi qu'tu manu's l'école,</l>
+	<l id="14">Tu veux donc rester un ânon ?</l>
+</lg>
+</poem>
+<p id="3">
+	<s id="1">Mais j'vas, à l'école ; seulement, l'monte jamais à la classe. </s>
+	<s id="2">Dam ! </s>
+	<s id="3">C'est pas amusant d'chanter tout la journée.</s>
+</p>
+<stage type="sing">Il chante.</stage>
+	<l id="15">B avec un A Ba</l>
+	<l id="16">B avec un E Be</l>
+	<l id="17">B avec un I Bi</l>
+	<l id="18">Bi ba be bi ;</l>
+	<l id="19">B avec un O </l>
+	<l id="20">Ba be bi bo</l>
+	<l id="21">B avec un U Bu</l>
+	<l id="22">Bu ba be bi bo bu.</l>
+<p id="4">
+	<s id="1">Et l'on continue : C avec un a, ça, et ainsi de suite jusqu'à Z. </s>
+	<s id="">J'aime mieux m'cacher dans l'préau ; là je fouille dans les paniers, je prends les confitures, les gâteaux, enfin toutes les chatterie, et j'leur dis : chantez. </s>
+</p>
+<stage type="title">AU REFRAIN.</stage>
+<stage type="eat">Il mime qu'il mange d'une façon gloutonne.</stage>
+	<l id="23">L'autre jour, su'l'bord de la mare</l>
+	<l id="24">J'pos' mes effet pour me baigner.</l>
+	<l id="25">Mais on m'les cach' sans crier gare.</l>
+	<l id="26">Si bien que j'ai pas pu les r'trouver.</l>
+<p id="5">
+	<s id="1">Quoi faire sans effets ? </s>
+	<s id="2">J'me r'mats dans l'eau, je m'disais : quand j'verrai passer quelqu'un. </s>
+	<s id="3">J'lui dirai qu'il passe chez nous, et qu'il dise qu'on m'envoie des effets ; mais, pour comble de malheur, il ne passe personne : puis v'là l'eau qui diminue, qui diminue, on v'nait d'ouvrir la vanne, en rien d'temps j'étais à sec, puis v'là le vent qui s'met à souffler, ça me coupait le figue et, j'me disais maintenant chez nous tout le monde est à table, et ....</s>
+</p>
+<stage type="title">AU REFRAIN.</stage>
+<stage type="cold">Il mime qu'il a froid.</stage>
+	<l id="27">L'mois passe, faut il que j'suis bête !</l>
+	<l id="28">Dans l'milieu d'la ville, à minuit,</l>
+	<l id="29">Je m'prom'nais, chantant à tue-tête,	</l>
+	<l id="30">Quand, tout à coup, sur mon habit.</l>
+<p id="6">
+	<s id="1">Je r'çois j'suis pas bien sûr de c'que c'était, mais j'aurais mieux aimé d'l'eau d'Botos, au moins, à la porte du théâtre où l'on donnait Bal, on n'm'aurait pas empêché d'entrer, vous pensez si j'rageais d'voir mes camarades qui m'narguait, j'les voyais s'amuser, et..</s>
+</p>
+<stage type="title">AU REFRAIN.</stage>
+<stage type="dress">Il mime qu'il essaie son habit, son chapeau.</stage>
+	<l id="31">Monsieur l'mair' me dit dans la rue :</l>
+	<l id="32">Demain nous chassons l'sanglier,</l>
+	<l id="33">J'comt' sur toi pour faire un' battue,</l>
+	<l id="34">J'pens' que tu n'te f'ras pas prier.</l>
+<p id="7">
+	<s id="1">Comm' il n'y avait pas moyen de r'fuser j'accepte ; le lend'main, tous les chasseurs et les rabatteurs étaient au rendez-vous.</s>
+	<s id="2">Monsieur_le_maire me place au coin d'un sentier et m'a dit : si l'sanglier vient d'un côté, tu feras beaucoup de bruit et tu tireras d'sus pour le faire revenir sur nous, ouvre l'oeil, t'auras une gratification. </s>
+	<s id="3">Oui, Monsieur_le_Maire !</s>
+	<s id="4">Au bout d'une heure, j'entends crier ; à toi, Janot ! </s>
+	<s id="5">Alors je n'fait ni_une_ni_deux, j'empoigne mon fusil je... le jette dans le tailles, je l'cache derrière un gros arbre... </s>
+	<s id="6">Ah !... </s>
+	<s id="7">Ils avaient beau crier.</s>
+</p>
+<stage type="title">AU REFRAIN.</stage>
+<stage type="frighten">Il mime qu'il a peur.</stage>
+	<l id="35">Je m'souviens qu'un jour en Afrique,</l>
+	<l id="36">On m'plac' en faction dans un coin,</l>
+	<l id="37">Tout à coup il m'pouss un' panique</l>
+	<l id="38">En apercevant un bédouin.</l>
+<p id="8">
+	<s id="1">Je pousse un cri, mais voilà une tripotée de bédouins qui arrivent en poussant des cris intempestifs et nauséabonds ! </s>
+	<s id="2">Alors la bataille s'engage ... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Malheureux ! </s>
+	<s id="5">Si vous aviez vu et entendu, le bruit du canon, le roulement des caissons, les feux de peloton, les charges des escadrons, la mitraille... </s>
+	<s id="6">Tout le monde se précipite...</s>
+</p>
+<stage type="title">AU REFRAIN.</stage>
+<stage type="sing/escape">Pendant le 1ère partie du refrain retrousse ses manches comme s'il allait s'élancer puis au moment ou il chante ; "Je vous dit qu'ça" Il mime qu'il se sauve.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

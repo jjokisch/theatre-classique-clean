@@ -1,0 +1,1065 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AU CLAIR DE LA LUNE, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0001 0890 9137">Jean AICARD (1848-1921)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, décembre 2022</editor>
+				<publisher>Publié par Paul FIEVRE, janvier 2023</publisher>
+				<idno>AICARD_AUCLAIRDELALUNE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>vers</type>
+				<periode>1861-1870</periode>
+				<taille>250-500</taille>
+				<permalien cote="BnF LLA 8-YTH-1374">https://gallica.bnf.fr/ark:/12148/bpt6k61155586</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">AU CLAIR DE LA LUNE</titlePart>
+			<titlePart type="sub">COMÉDIE EN UN ACTE ET EN VERS</titlePart>
+			<titlePart type="sub">PRIX : 1 franc</titlePart>
+		</docTitle> 
+		<docDate value="1870">M DCCC LXX</docDate>
+		<docAuthor id="AICARD, Jean">PAR JEAN AICARD</docAuthor>
+		<docImprint>
+			<editor id="LEMERRE">PARIS,  ALPHONSE LEMERRE, EDITEUR 47, Passage Choiseul, 47.</editor>
+			<printer id="CLAYE">PAR J. CLAYE POUR A. LEMERRE, LIBRAIRE À PARIS</printer>
+			<acheveImprime id="1870-01-09">Achevé d'imprimer le 10 janvier mil huit cent soixante-dix.</acheveImprime>
+		</docImprint>
+		<performance>
+			<premiere date="1879-06-02" location="Gaiety-Theatre">Représentations de la Comédie Française le 2 juin 1879, À GAIETY-THEATRE.</premiere>
+		</performance>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="PIERROT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">PIERROT</role>.</castItem>
+		<castItem><role id="ARLEQUIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">ARLEQUIN</role>.</castItem>
+		<castItem><role id="COLOMBINE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">COLOMBINE</role>.</castItem>
+		<castItem><role id="LE DOCTEUR" sex="1" type="H" statut="docteur" age="A" stat_amour="néant">LE DOCTEUR</role>.</castItem>
+		<castItem><role id="UN SERGENT" sex="1" type="H" statut="sergent" age="A" stat_amour="néant">UN SERGENT</role>.</castItem>
+		<castItem><role id="LE GUET" sex="1" type="H" statut="guet" age="A" stat_amour="néant">LE GUET</role>.</castItem>
+	</castList>
+	<set location="Ville inconnue" country="Italie" periode="XIXème" gps="12.564167, 41.874">La scène se passe dans une ville inconnue, mais italienne.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>PROLOGUE.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
+<poem type="">
+<lg n="1">
+	<l id="1">Je suis la Comédie Italienne ; J'ai</l>
+	<l id="2">Beaucoup étudié, J'ai beaucoup voyagé,</l>
+	<l id="3">Et de Rome à Paris et de Paris à Rome</l>
+	<l id="4">J'ai toujours vu partout l'homme semblable à l'homme ;</l>
+	<l id="5">J'ai vingt ans à peu près, depuis plusieurs cent ans ;</l>
+	<l id="6">Jeune et vieille, J'ai l'âge éternel du printemps,</l>
+	<l id="7">Et sans en avoir l'air (pour les nigauds) j'allie</l>
+	<l id="8">Une intime tristesse aux chants de la folie.</l>
+</lg>
+<lg n="2">
+	<l id="9">Dans mes scènes, le plus fréquemment on peut voir</l>
+	<l id="10">Pierrot tout blanc avec son serre-tête noir,</l>
+	<l id="11">Puis, avec son jupon blanc et bleu, Colombine,.</l>
+	<l id="12">Puis, pour le moins aussi coquin qu'elle est coquine,</l>
+	<l id="13">Le multiple Arlequin, rusé, vif, intrigant,</l>
+	<l id="14">Redouté pour son masque et son geste élégant.</l>
+</lg>
+<lg n="3">
+	<l id="15">Jeunes comme le monde et vieux comme le monde,</l>
+	<l id="16">En proie au guet qui fait de temps en temps sa ronde,</l>
+	<l id="17">Vous les connaissez bien ces trois êtres divers,</l>
+	<l id="18">Ce trio douloureux qui peuple l'univers !</l>
+	<l id="19">Arlequin et Pierrot, le dupeur et la dupe ;</l>
+	<l id="20">Entr'eux deux Colomba, qui sourit à sa Jupe,</l>
+	<l id="21">N'est-ce pas l'univers en trois mots résumé ?</l>
+	<l id="22">Nul ne me dira : Non ! Pour peu qu'il ait. aimé.</l>
+	<l id="23">Hélas ! telle est la vie : un homme pâle et triste,</l>
+	<l id="24">Benêt souvent, naïf toujours, parfois artiste,</l>
+	<l id="25">Vit d'un peu de soleil et de ses deux repas,</l>
+	<l id="26">Quand un second survient, à_jeun, qui ne veut pas ;</l>
+	<l id="27">Il fait son petit coup_d_État ; il vous l'assomme</l>
+	<l id="28">Quelque peu, vite et mal, le mystifie en somme,</l>
+	<l id="29">S'enivre de son vin, prend sa femme au corset,</l>
+	<l id="30">Et la plupart du temps tout finit comme on sait.</l>
+</lg>
+<lg n="4">
+	<l id="31">C'est là le canevas où court ma fantaisie,</l>
+	<l id="32">Aiguille où pend le fil d'or de la poésie ;</l>
+	<l id="33">En fut-il jamais un plus simple et, s'il vous plaît,</l>
+	<l id="34">Plus vrai tout à la fois, plus riche et plus complet ?</l>
+	<l id="35">Savez-vous, en un mot, une scène meilleure</l>
+	<l id="36">Et qui, pour comble d'art, soit jouée en une heure ?</l>
+	<l id="37">Non, n'est-ce pas, messieurs ? Alors, applaudissez</l>
+	<l id="38">La scène qu'on va dire.... et que vous connaissez !</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>AU CLAIR DE LA LUNE</head>
+<stage type="narration/decor/furniture">Le théâtre représente une place publique qu'inonde le clair de lune ; à gauche la maison du docteur, à droite la maison de Pierrot. Le public voit l'intérieur de la maison de Pierrot : fenêtre au fond, lit à droite ; adroite encore, la porte d'un cabinet ; au milieu, une table chargée de mets. Pierrot est attablé avec Colombine. Il est au comble de la satisfaction, dos au feu, ventre à table ; tous deux mangent à qui mieux mieux. Choses artistiques appendues aux murs, mandolines, etc. On remarque un porte-manteau où sont accrochés sept costumes de Pierrot à liserés de différentes couleurs, avec le nom d'un jour de la semaine inscrit au-dessus de chacun d'eux.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Pierrot, Colombine.
+</stage>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="39">Colombine, m'amour, tâte-moi de ce vin !</l>
+<stage type="pour">Il verse.</stage>
+	<l id="40" syll="6" part="i">Que dis-tu du poulet ?</l>
+<stage type="toward">Se répondant à lui-même.</stage>
+	<l id="40" syll="6" part="f">Le poulet est divin !...</l>
+	<l id="41">Non moins que ceux pourtant que mon amour t'envoie !</l>
+	<l id="42">Réponds ! Je veux avoir le bonheur de ta joie !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="serious">, sérieuse.
+	</stage>
+	<l id="43" syll="5" part="i">Je suis occupée.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="43" syll="1" part="m">Hein ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="43" syll="4" part="m">Tout à l'heure !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="43" syll="2" part="f">Comment !</l>
+	<l id="44">De tout temps Arlequin m'a traité de gourmand,</l>
+	<l id="45">Mais je suis dépassé par vous, perruche, - chatte !</l>
+	<l id="46">Fi donc ! Et moi qui tiens dans ma main votre patte..,</l>
+	<l id="47">J'ai dû vous empêcher de manger des dix doigts !</l>
+	<l id="48" syll="6" part="i">Je vous la rends, tenez !</l>
+<stage type="get/furniture">Prenant un plat.</stage>
+	<l id="48" syll="6" part="f">Veux-tu des petits pois ?</l>
+	<l id="49" syll="6" part="i">Ce homard était fin !</l>
+<stage type="drop/furniture">Il le met sur son assiette.</stage>
+	<l id="49" syll="6" part="f">Ces écrevisses, bonnes !</l>
+<stage type="drop/furniture">Même jeu.</stage>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="50">Tu mets quadruples les morceaux, et tu t'étonnes,</l>
+	<l id="51">Malin, qu'on mange encor lorsque tu n'as plus faim !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="52">Plus faim ! Oh !... Mon amour ! Je veux jusqu'à la fin</l>
+	<l id="53">Vous montrer que la faim et non la gourmandise</l>
+	<l id="54">Guide mes appétits, sages quoi qu'on en dise !</l>
+<stage type="eat/lazzi">Ils se mettent à manger de plus belle. — Jeux de scène.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Pierrot, Colombine, Arlequin.
+</stage>
+<stage type="location">Sur la place.</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="carry">, sa guitare à la main.
+	</stage>
+	<l id="55">C'est fini! Je n'ai plus de gîte pour le nuit !...</l>
+	<l id="56">Ni pour le jour non plus... Je me suis mal conduit ;</l>
+	<l id="57">Je devais tout casser chez mon propriétaire,</l>
+	<l id="58">Tuer, eussé-je dû rester seul sur la terre !</l>
+	<l id="59">Tuer tout ; le bourgeois, les valets, le guet, - or</l>
+	<l id="60">Je n'ai rien fait, ma foi, j'en conviens : c'est un tort.</l>
+	<l id="61">Je suis, hélas ! Hélas ! Un des martyrs du terme !</l>
+	<l id="62">Si j'eusse déjeuné, j'aurais été plus ferme ;</l>
+	<l id="63">Mais depuis quatre jours je suis sans un denier,</l>
+	<l id="64">Ayant pour Colomba dépensé le dernier !</l>
+	<l id="65">Colomba ! Colombine ! Ô femmes ! Ô femelles !</l>
+	<l id="66">Elles dînent toujours et soupent toujours, elles !</l>
+	<l id="67">Et boivent, à défaut de vin, le sang du coeur !</l>
+<stage type="silence">Un silence.</stage>
+	<l id="68">Qu'entends-je ? Un cliquetis de fourchettes moqueur ?</l>
+	<l id="69">On soupe ici ! Je flaire une odeur de cuisine...</l>
+<stage type="watch/location">Apercevant le trou de la serrure.</stage>
+	<l id="70">Regardons par ce trou lumineux... Colombine !</l>
+	<l id="71">Colombine et Pierrot !... Qui m'aurait dit qu'un jour,</l>
+	<l id="72">À mon masque, Pierrot riche ferait l'amour,</l>
+	<l id="73">Pincerait Colombine et mangerait des huîtres ?</l>
+	<l id="74">Voilà donc la fortune inconstante des pitres !</l>
+	<l id="75">Et nous n'avons d'ami sûr que notre instrument.</l>
+	<l id="76">Viens, guitare, fidèle espoir du pauvre amant</l>
+	<l id="77">Qui sous les froids balcons chante au clair de la lune !</l>
+	<l id="78">Viens : il ne s'agit pas de fléchir une brune ;</l>
+	<l id="79">Il s'agit de tromper Pierrot ! Viens, trouve un son</l>
+	<l id="80">Qui se marie à l'air plaintif de ma chanson.</l>
+	<l id="81">Dis ma misère ; fais qu'on m'ouvre ; sois touchante...</l>
+	<l id="82">Lente, lente, ma mie, andantino ! Je chante !</l>
+<poem type="poem">
+<lg n="1">
+	<l id="83">Au clair de la lune,</l>
+	<l id="84">Mon ami Pierrot,</l>
+	<l id="85">Prête moi ta plume</l>
+	<l id="86">Pour écrire un mot.</l>
+	<l id="87">Ma chandelle est morte ;</l>
+	<l id="88">Je n'ai plus de feu !</l>
+	<l id="89">Ouvre-moi ta porte,</l>
+	<l id="90">Pour l'amour de Dieu !...</l>
+</lg>
+</poem>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="91" syll="10" part="i">Qui peut m'interpeller à cette heure ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="91" syll="2" part="f">Qui sait ?</l>
+<stage type="happy/aparte">Avec joie, à part.</stage>
+	<l id="92" syll="6" part="i">C'est Arlequin pour sûr !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="92" syll="6" part="f">Faudra-t-il voir qui c'est ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="93" syll="3" part="i">Pourquoi pas ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="93" syll="6" part="f">L'heure est sombre et la demande louche !</l>
+	<l id="94">C'est peut-être un voleur plus noir que Scaramouche !</l>
+	<l id="95">Me demander ma plume à cette heure de nuit,</l>
+	<l id="96">C'est étrange ! et d'ailleurs qui me trouble me nuit,</l>
+	<l id="97">Et je ne puis souffrir, quand j'aime et quand je mange,</l>
+	<l id="98">Quand je bois de vieux vins à côté de mon ange,</l>
+	<l id="99">Je ne puis pas souffrir qu'un passant importun...</l>
+<stage type="knock">Arlequin frappe.</stage>
+	<l id="100" syll="2" part="i">Qui frappe ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="100" syll="4" part="m">Ouvre-moi donc !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="100" syll="3" part="m">Qui va là ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="100" syll="3" part="f">C'est quelqu'un !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="101" syll="9" part="i">Je m'en doute, parbleu ! mais encore ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="101" syll="3" part="f">Ouvre vite !</l>
+	<l id="102">C'est un de tes amis qui se trouve sans gîte ;</l>
+	<l id="103">Il est ce que jadis tu fus : un simple gueux,</l>
+	<l id="104">Et pour se consoler un peu, le malheureux</l>
+	<l id="105">Voudrait écrire un mot d'amour à sa maîtresse.</l>
+	<l id="106">Toi qui vis grassement dans l'or et la richesse,</l>
+	<l id="107">Si tu n'as pas un coeur, une âme de rocher,</l>
+	<l id="108">Écoute ma supplique et te laisse toucher !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="hugh">, pendue au cou de Pierrot.
+	</stage>
+	<l id="109">Hi ! Hi ! le pauvre diable ! Ah ! Pierrot, sur ton âme !... </l>
+<stage type="open/face/push/close">Pierrot va ouvrir la porte, non sans faire la grimace. Arlequin le culbute, le jette à la rue, et ferme la porte aux verrous.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Colombine, Arlequin, Pierrot, sur la place
+</stage>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="estonish">, ahuri.
+	</stage>
+	<l id="110">Tel Samson se laissa raser par une femme !</l>
+<stage type="estonish">Après réflexion.</stage>
+	<l id="111">Ô stupéfaction ! Honte ! Douleur ! Courroux !</l>
+	<l id="112">Tu m'as valu cela, ma traîtresse aux yeux doux !</l>
+	<l id="113">A ce coup_de_Jarnac j'ai reconnu mon drôle !</l>
+	<l id="114">Arlequin seul a pu m'improviser ce râle</l>
+	<l id="115">Lamentable, tout en m'appelant son ami !</l>
+	<l id="116">Hélas ! Je n'aurai donc festiné qu'à demi !</l>
+	<l id="117">Ce blond poulet que j'ai laissé dans mon assiette,</l>
+	<l id="118">Il l'achève ! Je n'ai gardé que ma serviette,</l>
+	<l id="119">Ironique destin ! et lui, l'heureux rival,</l>
+	<l id="120">Masqué de noir pour son éternel carnaval,</l>
+	<l id="121">À ma place poursuit et caresse ma brune,</l>
+	<l id="122">Tandis que moi, tout blanc,j'ai froid au clair de lune !</l>
+<stage type="costume/watch/location">Il se drape dans ses amples habits et regarde piteusement par le trou de la serrure.</stage>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="cut">, découpant le poulet.
+	</stage>
+	<l id="123">Je ne t'en veux pas, moi, de vivre avec Pierrot,</l>
+	<l id="124">De boire ses liqueurs et- de manger son rot :</l>
+<note type="L">Hère : Terme de mépris. Homme sans considération, sans fortune. [L]</note>
+	<l id="125">Il est riche à présent ! Moi, toujours pauvre hère,</l>
+	<l id="126">Sans toit pour m'abriter et souvent à_jeun, - j'erre !</l>
+	<l id="127">J'avais bien un manteau, mais j'ai dû le laisser</l>
+	<l id="128">Aux mains d'un laideron qui voulut m'embrasser !</l>
+	<l id="129">Ainsi, brune beauté, je ne pourrais pas même</l>
+	<l id="130">Préserver des frimas cette gorge que j'aime.</l>
+<stage type="kiss">Il l'embrasse.</stage>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage>, sur la place.
+	</stage>
+	<l id="131" syll="1" part="i">Euh !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="131" syll="5" part="m">Mangez, Arlequin.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="131" syll="6" part="f">Colombine a bon coeur !</l>
+	<l id="132">Je ne puis pourtant pas laisser l'heureux vainqueur</l>
+	<l id="133">Me voler mon festin sans courir à la garde,</l>
+	<l id="134">Et je crois que c'est moi que ce soin-là regarde !</l>
+<stage type="walk">Il s'achemine.</stage>
+	<l id="135">Brrrou ! C'est dur ! S'en aller, seul, sous un vent pareil,</l>
+	<l id="136">Et dans la rue, ayant la lune pour soleil,</l>
+	<l id="137">Marcher en grelottant au plein coeur de décembre,</l>
+	<l id="138">Et songer qu'on était tranquille dans sa chambre,</l>
+	<l id="139">Tout à l'heure, si bien et si douillettement !</l>
+	<l id="140">C'est dur ! C'est dur ! Ô lune, étoiles, firmament,</l>
+	<l id="141">J'aimai la poésie, et je l'aime encor, certes !</l>
+	<l id="142">Mais j'aime le bien-être ! Au temps des feuilles vertes</l>
+	<l id="143">J'accepte la fraîcheur des nuits, sous le ciel bleu,</l>
+	<l id="144">Mais en hiver je veux m'asseoir au coin du feu,</l>
+	<l id="145">Et, tandis que mon chat sur le tapis ronronne,</l>
+	<l id="146">M'assoupir lentement et dormir en personne !...</l>
+<stage type="awake">Comme éveillé d'un rêve.</stage>
+	<l id="147">Brrrou ! J'ai froid !... brrrou ! courons, ou les passants, demain,</l>
+	<l id="148">Pourraient trouver Pierrot gelé sur leur chemin.</l>
+<stage type="exit">II s'en va.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCENE IV.</head><stage> Colombine, Arlequin.
+</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="149">Vous êtes belle, à ma maîtresse, je vous aime !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="150">Eh ! N'êtes-vous pas beau, mon Arlequin, vous-même ?</l>
+	<l id="151">N'êtes-vous pas joli, bien fait et gracieux,</l>
+	<l id="152">Masqué de noir, avec des flammes dans les yeux ?</l>
+	<l id="153">Au fond, mon Arlequin, c'est toi que je préfère,</l>
+	<l id="154">Mais tu l'as dit : tu n'as pas un sou ; comment faire ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="155">Comment faire ?... Eh ! parbleu, comme nous avons fait</l>
+	<l id="156">Jusqu'ici ; n'est-ce pas ravissant en effet ?</l>
+	<l id="157">Boire son vin, manger son poulet à sa place,</l>
+	<l id="158">Et tout doucettement nous aimer à sa face ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="159" syll="6" part="i">Ce n'est pas sans danger !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="159" syll="6" part="f">Vraiment, et que crains-tu ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="160">Que la patrouille arrive, et que tu sois battu !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="161" syll="1" part="i">Bah !...</l>
+<stage type="think">Après réflexion.</stage>
+	<l id="161" syll="11" part="f">J'ai mon plan ! Tandis que mon Pierrot s'enrhume,</l>
+	<l id="162">Je m'en vais m'affubler de son pâle costume !</l>
+	<l id="163">Quand les soldats viendront, il leur faudra choisir</l>
+	<l id="164">Entre les deux Pierrots... lequel des deux saisir ?</l>
+	<l id="165">Je ferai, je dirai tant et de telle sorte</l>
+	<l id="166">Que, bref, le vrai Pierrot sera mis à sa porte...</l>
+	<l id="167">Mais, outre son costume, il me faut à tout prix</l>
+	<l id="168">Un oeil de blanc_d_Espagne ou de poudre de riz.</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="show">, désignant le cabinet de toilette.
+	</stage>
+	<l id="169" syll="4" part="i">J'en ai là, moi.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="169" syll="2" part="m">Fort bien.</l>
+<stage type="exit/location">Il entre dans le cabinet de toilette, et de l'intérieur :</stage>
+	<l id="169" syll="6" part="f">C'en est fait, Colombine :</l>
+	<l id="170">De noir je deviens blanc, et de charbon farine.</l>
+<stage type="entrance">Il reparaît, et avisant le porte-manteau il décroche un pierrot sous l'écriteau : Dimanche.</stage>
+	<l id="171">Diantre ! Sa garde-robe est riche !... M'y voici !</l>
+	<l id="172">Ne me prendrait-on pas pour un niais ainsi ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="173" syll="4" part="i">Parfaitement.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="costume">, en pierrot.
+	</stage>
+	<l id="173" syll="8" part="f">Alors, c'est que je lui ressemble !</l>
+	<l id="174">Maintenant,jouissons du bonheur d'être ensemble :</l>
+	<l id="175" syll="10" part="i">C'est légitime, car je suis Pierrot !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Colombine, Arlequin, Pierrot, Le Guet.
+</stage>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<stage type="entrance/toward">Il apparaît, parlant au sergent à la cantonade.</stage>
+	<l id="175" syll="2" part="f">Suis-moi,</l>
+	<l id="176">Sergent, viens arrêter cet homme au nom du Roi !</l>
+</sp>
+<sp who="LE GUET"><speaker>LE GUET</speaker><stage type="entrance">, entre.
+</stage>
+<stage type="toward">Aux hommes de la patrouille :</stage>
+	<l id="177">Messieurs, il est entré chez moi par ruse infâme,</l>
+	<l id="178">Et... dans cet instant même il caresse ma femme !</l>
+	<l id="179">Postez-vous ; cernez-le : - je vais l'interroger...</l>
+	<l id="180">Soutenez-moi ! L'affaire est d'ailleurs sans danger.</l>
+<stage type="location/watch/estonish/frighten">Les hommes se postent. Il met l'oeil au trou de la serrure ; sa figure exprime un étonnement croissant mêlé de terreur.</stage>
+	<l id="181" syll="6" part="i">Messieurs ! Sergent ! Messieurs !</l>
+<stage type="closer">On l'entoure.</stage>
+	<l id="181" syll="6" part="f">Il faut que je m'excuse !</l>
+	<l id="182">J'ai fait erreur : c'est clair. L'homme parfois s'abuse,</l>
+	<l id="183">S'abuse étrangement, étrangement ma foi !</l>
+	<l id="184">Celui de là dedans, messieurs, c'est moi ! C'est moi,</l>
+	<l id="185">C'est moi-même, Pierrot ! Cela tient du prodige,</l>
+	<l id="186">Mais je me suis bien vu, je me suis vu, vous dis-je !</l>
+	<l id="187">C'est moi qui suis chez moi ; donc, plus rien d'illégal ;</l>
+	<l id="188">C'est moi qui suis mon hôte et qui suis mon rival !</l>
+	<l id="189">C'est moi qui me suis mis sottement à la porte !</l>
+	<l id="190">C'est moi, Pierrot ! - Vraiment, la chose est un peu forte,</l>
+	<l id="191">Et je me croyais plus mon ami que cela !</l>
+	<l id="192">Me chasser par un soir d'amour et de gala !</l>
+	<l id="193">Me chasser par un froid de loup, et, triple bête,</l>
+	<l id="194">Me mettre à dos la garde en marchant à sa tête !</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="195" syll="6" part="i">Vous vous moqueZ, voyons !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="195" syll="6" part="f">Non pas ! Je me suis pris</l>
+	<l id="196" syll="8" part="i">Pour un autre. La chose est simple.</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+<note type="L">Être gris : être saoul.</note>
+	<l id="196" syll="4" part="f">Êtes-vous gris ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="197" syll="6" part="i">Pas encor tout à fait...</l>
+<stage type="toward">Le sergent, à-la garde.</stage>
+	<l id="197" syll="6" part="f">Empoignez-moi cet homme !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="198">Ô sergent, bon sergent, j'ai là certaine somme. .1</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT</speaker><stage type="toward">, à la garde.
+	</stage>
+	<l id="199" syll="6" part="i">Lâchez ce blanc benêt !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="offended">, indigné.
+	</stage>
+	<l id="199" syll="2" part="m">Benêt !</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="199" syll="4" part="f">Donne l'argent !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="200">Pour me faire appeler blanc benêt ? Non, sergent !</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="201" syll="3" part="i">Allons, donne !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="201" syll="7" part="m">Oh ! Sergent ! Mon doux ami !</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="201" syll="2" part="f">La bourse</l>
+	<l id="202" syll="3" part="i">Ou la vie !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="202" syll="9" part="f">Oh ! Sergent ! Mon unique ressource !</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="203" syll="4" part="i">Empoignez-moi...</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="frighten">, effrayé.
+</stage>
+<stage type="exit">Il sort deux bourses, en remet vivement une dans sa poche, et donnant la seconde :</stage>
+	<l id="203" syll="7" part="m">Non ! Non ! Voici la somme.</l>
+</sp>
+<sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
+	<l id="203" syll="1" part="f">Bien !</l>
+<stage type="exit/together">Le sergent s'éloigne avec sa troupe.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage type="alone/location"> Colombine, Arlequin, Pierrot, seul sur la place.
+</stage>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="204">Adieu, guet fort peu gai, fléau du citoyen !</l>
+<stage type="silence/walk/location">Un silence pendant lequel il se promène, grelottant. - Revenant sur le seuil de la porte.</stage>
+	<l id="205">Ainsi, je suis chez moi ! sans doute, c'est étrange !</l>
+	<l id="206" syll="9" part="i">Je n'ai rien sous la dent, par exemple ?</l>
+<stage type="watch">Il regarde par le trou de la serrure.</stage>
+	<l id="206" syll="3" part="f">Et je mange !</l>
+	<l id="207" syll="9" part="i">Je ne mets pas mon verre à ma lèvre ?</l>
+<stage type="silence/walk/location">Même jeu.</stage>
+	<l id="207" syll="3" part="f">Et je bois !</l>
+	<l id="208">Par un mystère enfin, je suis tout à la fois</l>
+	<l id="209">Dans ma chambre où j'ai chaud, dans la rue où je tremble ;</l>
+	<l id="210">Ici sans Colomba, là nous sommes ensemble !</l>
+	<l id="211">Cela n'est arrivé qu'à moi, j'en jurerais !</l>
+	<l id="212">Le merveilleux s'acharne après moi tout exprès,</l>
+	<l id="213">Et j'ai toujours un mot à chercher, un problème</l>
+	<l id="214">À résoudre, et j'en ai la face à jamais blême !</l>
+	<l id="215">Qui ne s'étonnerait d'un pareil accident ?</l>
+	<l id="216">Être sur le trottoir et chez soi cependant !</l>
+	<l id="217">Car enfin, c'est bien moi qui suis dans mon costume !</l>
+<stage type="watch/location">Il regarde par le trou de la serrure.</stage>
+	<l id="218">Oui, je me reconnais : léger comme une plume,</l>
+	<l id="219">Blanc comme neige, avec un magnifique oeil noir,</l>
+	<l id="220">C'est bien là le Pierrot que je vis au miroir !</l>
+	<l id="221">Ma démarche, mon air, ma grâce... mais j'y pense !</l>
+	<l id="222">J'ai toujours eu pour moi quelque condescendance,</l>
+	<l id="223">Et je n'aimai jamais à me faire souffrir ;</l>
+	<l id="224">Je n'ai donc qu'à frapper : je suis sûr de m'ouvrit !</l>
+<stage type="sing">Il chante.</stage>
+<poem type="chanson">
+<lg n="1">
+	<l id="225">Au clair de la lune,</l>
+	<l id="226">Mon ami Pierrot,</l>
+	<l id="227">Prête-toi ta plume</l>
+	<l id="228">Pour écrire un mot.</l>
+	<l id="229">Ta chandelle est morte ;</l>
+	<l id="230">Tu n'as plus de feu !</l>
+	<l id="231">Ouvre-toi ta porte,</l>
+	<l id="232">Pour l'amour de Dieu !</l>
+</lg>
+</poem>
+<stage type="knock">Il frappe.</stage>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="233" syll="2" part="i">Qui frappe ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage>, après un peu d'hésitation.
+	</stage>
+	<l id="233" syll="1" part="m">Toi !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="233" syll="3" part="m">Comment ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="sweet">, doucement.
+	</stage>
+	<l id="233" syll="6" part="f">C'est toi, frileux et blême !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward">, à Colombine.
+	</stage>
+	<l id="234" syll="3" part="i">Qu'est ceci ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="wave">, haussant les épaules.
+	</stage>
+	<l id="234" syll="9" part="f">C'est Pierrot qui te prend pour lui-même !..</l>
+	<l id="235" syll="6" part="i">Il n'a pas lu Sosie...</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="laugh">, riant.
+	</stage>
+	<l id="235" syll="2" part="m">Ah ! Bon !</l>
+<stage type="loud">Haut.</stage>
+	<l id="235" syll="4" part="f">Je ne crois pas</l>
+	<l id="236">Que je puisse être ici, puisque je suis là-bas.</l>
+	<l id="237">Si donc je suis là-bas, je me trouve à la porte,</l>
+	<l id="238">Et je ne peux ouvrir, car la serrure est forte !</l>
+	<l id="239">Je m'en vais donc au clair de la lune dormir</l>
+	<l id="240">En attendant demain qui doit bientôt venir !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="241" syll="9" part="i">Hélas ! Mais je me vois là dedans !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="241" syll="3" part="f">Je vois double.</l>
+	<l id="242" syll="2" part="i">J'ai bu !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="242" syll="10" part="f">C'est raisonné fort bien, malgré mon trouble !</l>
+	<l id="243" syll="9" part="i">Mais Colombine peut m'ouvrir !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="243" syll="3" part="f">Non, elle dort.</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="low/toward">, bas a Arlequin.
+	</stage>
+	<l id="244" syll="6" part="i">Ouvrons-lui, nous rirons !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="knock">, heurtant.
+	</stage>
+	<l id="244" syll="6" part="f">Je cognerai si fort !...</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Colombine, Arelquin, Pierrot.
+</stage>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="">, ouvrant la porte.
+	</stage>
+	<l id="245">Ah ! Pierrot, je dormais si bien ! d'un si bon somme !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage>, s'élançant vers Arlequin et le tâtant.
+	</stage>
+	<l id="246">Ah çà ! Lequel des deux est moi Pierrot, en somme ?</l>
+	<l id="247">Car je suis dégrisé ! Je ne vois pas deux rôts,</l>
+	<l id="248">Deux femmes ni deux lits, et je vois deux Pierrots !</l>
+	<l id="249">Colombine, tu peux seule en cette aventure</l>
+	<l id="250" syll="6" part="i">Dire la vérité !</l>
+<stage type="toward/location">Colombine, prise pour arbitre, à Pierrot à sa droite et Arlequin à sa gauche. </stage>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward">, à Colombine.
+	</stage>
+	<l id="250" syll="6" part="f">Tu connais ma nature :</l>
+	<l id="251">Je suis gourmand, poltron, bête, une brute enfin !</l>
+	<l id="252">Je bois beaucoup sans soif et je goinfre sans faim !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="toward">, à Pierrot.
+	</stage>
+	<l id="253" syll="6" part="i">C'est toi le vrai Pierrot !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="strong">, vivement.
+	</stage>
+	<l id="253" syll="6" part="f">Tout doux ! J'ai du courage,</l>
+	<l id="254">Un savoir-vivre exquis et du coeur à l'ouvrage ;</l>
+	<l id="255">Je me lève matin pour écrire mes vers ;</l>
+	<l id="256">Il n'est pas deux Pierrots enfin dans l'univers !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="toward">, à Arlequin.
+	</stage>
+	<l id="257" syll="6" part="i">C'est toi le vrai Pierrot !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="257" syll="6" part="f">Incertitude amère !</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="258">Voulez-vous en sortir ? Voici ce qu'il faut faire ;</l>
+	<l id="259">Improvisez des vers chacun de son côté,</l>
+	<l id="260" syll="9" part="i">Et les meilleurs seront de Pierrot.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="260" syll="3" part="f">Accepté !</l>
+<stage type="face/search">Pierrot fait la grimace et se met à chercher. Arlequin fait signe qu'il a trouvé, et dit d'un ton lyrique, emphatique :</stage>
+	<l id="261">Colombine, Pierrot vous aime seul sur terre ;</l>
+	<l id="262">Vous le reconnaîtrez au regard de ses yeux :</l>
+	<l id="263">Si vous regardez bien, cessera tout mystère,</l>
+	<l id="264">Car il porte en ses yeux le plus cruel des dieux !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="closer">, s'avançant à son tour.
+</stage>
+<poem type="chanson">
+<lg n="1">
+	<l id="265">Je suis et je te dois paraître</l>
+	<l id="266">Très attristé ;</l>
+	<l id="267">Ah !... fais-moi donc vite connaître</l>
+	<l id="268">Ton arrêté ;</l>
+	<l id="269">Je t'implore : rends à mon être</l>
+	<l id="270">L'identité,</l>
+	<l id="271">Et je retrouverai peut-être</l>
+	<l id="272">Quelque gaîté.</l>
+</lg>
+</poem>
+</sp>
+<sp sgtage="laugh" who="COLOMBINE"><speaker>COLOMBINE</speaker><stage>, riant aux éclats.
+	</stage>
+	<l id="273">Hi ! hi ! hi ! hi ! Je suis vraiment embarrassée !</l>
+	<l id="274">L'un a la forme, soit ! Mais l'autre a la pensée !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="275">Et lequel est Pierrot ? N'est-ce pas le penseur ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="laugh">, même jeu.
+	</stage>
+	<l id="276">L'un a la force, soit ! Mais l'autre a la douceur !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="277" syll="6" part="i">La force est préférable...</l>
+<stage type="watch">Il aperçoit avec effroi l'habit d'Arlequinsous le costume de Pierrot.</stage>
+	<l id="277" syll="6" part="f">Euh !... J'étais ridicule !</l>
+	<l id="278">C'est Arlequin ! - Pierrot, courage !... Dissimule !</l>
+	<l id="279">J'ai vu sa batte ! Hélas ! Comment faire à présent ?</l>
+	<l id="280">Disparaître d'abord ? Ce n'est guère amusant !</l>
+	<l id="281">Mais je veux par surprise ou force tout à l'heure</l>
+	<l id="282">En libre possesseur rentrer dans ma demeure !</l>
+<stage type="kiss">Arlequin embrasse Colombine.</stage>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="show">, montrant Arlequin.
+	</stage>
+	<l id="283" syll="8" part="i">Décidément, Pierrot c'est lui !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="283" syll="4" part="f">Qui suis-je, moi ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="284" syll="8" part="i">Ma vaine image, un vain spectre !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage>, à part.
+	</stage>
+	<l id="284" syll="4" part="f">Attends un peu, toi !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="285">Tu sors de mon miroir ! Va-t'en ! Fuis ! Je t'adjure !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="286">Je suis donc un mensonge ? une illusion pure ?</l>
+	<l id="287">C'est bien ; je vais errer, vaporeux et tremblant,</l>
+	<l id="288">Dans la fraîche clarté du clair de lune blanc !</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Colombine, Arlequin, Pierrot sur la place.
+</stage>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="289" syll="4" part="i">J'ai mon projet.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="289" syll="8" part="f">Il est, ma foi, riche en bêtise !</l>
+	<l id="290">Il a jusques au bout, constant dans sa sottise,</l>
+	<l id="291">Donné dans nos filets, Colombe ! - Quant à nous,</l>
+	<l id="292">Soyons heureux. Veux-tu me tendre tes genoux,</l>
+	<l id="293">Que j'y mette mon front et que je m'y repose ?</l>
+	<l id="294">Ah ! Colombe aux doigts blancs, que votre bouche est rose !</l>
+<stage type="sit/sleep">Il s'assied la tête sur les genoux de Colombe et tous deux sommeillent.</stage>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT. </speaker>
+<stage type="knock/location">Il frappe à la porte du docteur.</stage>
+	<l id="295">Docteur ! Docteur ! Docteur ! Sa sonnette de nuit</l>
+	<l id="296">Depuis longtemps n'a pas rendu le moindre bruit.</l>
+	<l id="297">Il l'a rompue exprès ? Sa clientèle crève</l>
+	<l id="298">Sans que le vieux compère interrompe son rêve !</l>
+	<l id="299">Mais des pieds et des mains, des jambes et des bras</l>
+	<l id="300">Je heurterai si fort, avec un tel fracas,</l>
+	<l id="301">Qu'il se réveillera malgré lui de son somme !</l>
+<stage type="noise/location">On entend un bruit d'écroulement intérieur.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Colombine, Arlequin, Pierrot, sur la place, Le Docteur.
+</stage>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="location">, à la fenêtre.
+	</stage>
+	<l id="302">Par les poisons d'enfer ! Que voulez-vous, bonhomme ?</l>
+	<l id="303">Vous avez tant cogné que, pris de tremblement,</l>
+	<l id="304">Les meubles précieux de mon appartement</l>
+	<l id="305">Choqués l'un contre l'autre ont craqué comme verre,</l>
+	<l id="306" syll="8" part="i">Et tout n'est que débris chez moi !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="306" syll="4" part="f">C'est bien, compère,</l>
+	<l id="307">Nous verrons ! Mais il faut que je vous dise un mot.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="308" syll="2" part="i">Dites.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="308" syll="10" part="f">Je suis Pierrot, votre voisin Pierrot !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="stress">, empressé.
+	</stage>
+	<l id="309" syll="8" part="i">Et que faut-il à Votre Excellence ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="309" syll="2" part="m">Ta robe.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="shout">, se récriant.
+	</stage>
+	<l id="309" syll="2" part="f">Ma robe !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="310">Ne crains pas que l'on te la dérobe !</l>
+	<l id="311" syll="11" part="i">Tu me la prêteras pour de l'argent comptant.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="sweet">, radouci.
+	</stage>
+	<l id="311" syll="1" part="f">Bien.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="312">Avec ton chapeau ! Va, tu seras content.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="313">Vous fûtes généreux de tout temps, Éminence.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="314">Ah ! Ah ! Je veux encor que, moyennant finance,</l>
+	<l id="315">Tu me cèdes un peu de ta bonne liqueur</l>
+	<l id="316">Qui donne la colique avec des maux de coeur.</l>
+	<l id="317">Mets m'en pour quelques sols dans un flacon, et tâche</l>
+	<l id="318" syll="9" part="i">Que la bouteille plaise au regard !</l>
+<stage type="exit/threat">Le docteur disparaît. Pierrot lève le poing du côté d'Arlequin.</stage>
+	<l id="318" syll="3" part="f">Lâche, lâche,</l>
+	<l id="319">Tu vas la payer cher, ta lâcheté, fort cher,</l>
+	<l id="320">Car ton ami Pierrot se vengera, mon cher !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="entrance">, réapparaissant.
+	</stage>
+	<l id="321">Pierrot, voici le tout. Fais passer les pistoles.</l>
+<stage type="give">Il tend sa robe d'une main et tend l'autre main pour recevoir l'argent.</stage>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="322">Quelle insultante peur ! Je n'ai pas deux paroles.</l>
+<stage type="get">Pierrot prend la robe ; le docteur prend l'argent et ferme la fenêtre.</stage>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="watch/costume">, visitant ta robe.
+	</stage>
+	<l id="323" syll="6" part="i">Eh ! Docteur, le flacon !</l>
+<stage type="entrance">Le docteur réapparaît.</stage>
+	<l id="323" syll="3" part="m">Le flacon !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="323" syll="3" part="f">L'élixir ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="324" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="324" syll="11" part="f">C'est encor vingt_sols... pour vous faire plaisir !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="325" syll="6" part="i">Tu me saignes, Docteur !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="325" syll="6" part="f">Pierrot, c'est ma méthode !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="326" syll="6" part="i">Elle ne me plaît pas.</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="326" syll="6" part="f">Moi, je m'en accommode</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<stage type="get/give">Il prend l'élixir et donne l'argent ; le docteur referme la fenêtre.</stage>
+	<l id="327">Eh ! Docteur, le bonnet ! Le long bonnet pointu !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="location">, à la fenêtre.
+	</stage>
+	<l id="328">Tu m'appelles encor ? Que dis-tu ? Que veux-tu ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="329" syll="3" part="i">Le bonnet !</l>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="329" syll="3" part="m">C'est vingt_sols.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="sad">, résigné.
+	</stage>
+	<l id="329" syll="6" part="f">Tu me tiens dans ta serre !</l>
+	<l id="330" syll="2" part="i">Allons !</l>
+<stage type="give">Il donne l'argent et reçoit le bonnet.</stage>
+</sp>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+	<l id="330" syll="4" part="m">Adieu, nigaud !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="330" syll="6" part="f">Adieu, rusé compère.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage type="location"> Colombine, Arlequin, Pïerrot sur la place.
+</stage>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="costume">, en médecin.
+	</stage>
+	<l id="331">À nous deux, maintenant, Arlequin, mon très cher !</l>
+	<l id="332">Tiens le toi bien pour dit : tu vas le payer cher !</l>
+<stage type="sing/hit">Il chante, en déguisant sa voix et frappe en cadence :</stage>
+<poem type="">
+<lg n="1">
+	<l id="333">Au clair de la lune,</l>
+	<l id="334">Mon ami Pierrot,</l>
+	<l id="335">Prête-moi ta plume</l>
+	<l id="336">Pour écrire un mot.</l>
+	<l id="337">Ma chandelle est morte,</l>
+	<l id="338">Je n'ai plus de feu !</l>
+	<l id="339">Ouvre-moi ta porte,</l>
+	<l id="340">Pour l'amour de Dieu !</l>
+</lg>
+</poem>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, se réveillant.
+	</stage>
+	<l id="341">Qui va là ? Je rêvais si doucement ! Qui frappe ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="342">Voilà, l'ami Pierrot, une heure que je tape !</l>
+	<l id="343">Je suis sans feu chez moi ; je voudrais bien un peu,</l>
+	<l id="344">Assis sous ton flambeau me chauffer à ton feu,</l>
+	<l id="345">Écrire une ordonnance, et dormir, je t'assure !</l>
+	<l id="346">J'ai vu de la lumière au trou de la serrure,</l>
+	<l id="347">Et je me suis permis de troubler ton sommeil.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward">, à Colombine.
+	</stage>
+	<l id="348" syll="6" part="i">Faut-il ouvrir ?</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="348" syll="6" part="f">Eh ! Oui, tu donnerais l'éveil !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="open">, ouvrant.
+	</stage>
+	<l id="349" syll="6" part="i">Entre, Docteur, entre !</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Colombine, Arlequin, Pierrot.
+</stage>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="toward/entrabce">, à Pierrot qui entre.
+	</stage>
+	<l id="349" syll="6" part="f">Comme vous êtes pâle !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="350" syll="2" part="i">J'ai froid.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="350" syll="10" part="f">Et vous marchez sans barbe doctorale ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="351">La maladie a fait ce ravage chez moi :</l>
+	<l id="352">Tous mes poils sont tombés, ainsi que tu le vois.</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="353" syll="4" part="i">Pauvre docteur !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="353" syll="8" part="f">Eh ! oui, vraiment, je suis à plaindre !</l>
+	<l id="354">Je regrette ma barbe ; elle me faisait craindre !...</l>
+	<l id="355">Heureux Pierrot, tu vis riche, plein de santé,</l>
+	<l id="356">Sans nuls soucis, avec ta femme à ton côté.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="doubt">, dubitatif.
+	</stage>
+	<l id="357" syll="1" part="i">Ouiiii !... </l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="357" syll="11" part="f">Docteur, prenez donc avec nous quelque chose,</l>
+	<l id="358">Allons ! Du vrai madère, à très petite dose !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="enthousiasm">, avec élan.
+	</stage>
+	<l id="359">Non, merci ! Désolé de refuser cela,</l>
+	<l id="360">Mais je ne bois jamais que le vin que voilà.</l>
+<stage type="show/touch">Il sort sa fiole et la caresse.</stage>
+	<l id="361">Rien n'y vient. Le soleil sur les côtes d'Espagne</l>
+	<l id="362">Ne mûrit pas un jus plus odorant : Champagne,</l>
+	<l id="363">Bourgogne, les meilleurs vins de France et du Rhin</l>
+	<l id="364">N'ont pas le doux fumet de ce vin souverain !</l>
+<note type="L">Dictame : Plante labiée fort aromatique, qui passait, [L]</note>
+	<l id="365">C'est de l'or distillé, c'est un sacré dictame</l>
+	<l id="366">Qui, passant par le cou, s'en va droit jusqu'à l'âme !</l>
+	<l id="367">C'est la communion en bouteille avec Dieu !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="entousiasm">, alléché.
+	</stage>
+	<l id="368">Comment l'avez-vous eu, docteur ? et dans quel lieu,</l>
+	<l id="369">Dans quel paradis croît la merveilleuse vigne ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="370">Elle croît... Je ne veux point de ma lèvre indigne</l>
+	<l id="371">Nommer son champ natal... que servirait d'ailleurs ?</l>
+	<l id="372">Cela ne rendrait pas vos propres vins meilleurs ;</l>
+	<l id="373">Et pour voir de ses yeux cette terre promise</l>
+	<l id="374">Il faut n'avoir jamais fait ni dit de sottise !</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type=""> se récuse.
+</stage>
+<stage type="aparte">À part.</stage>
+	<l id="375">La vengeance m'a fait plein d'esprit : profitons</l>
+	<l id="376">Pour louer cet affreux poison sur tous les tons.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="enthousiasm">, admirant la fiole.
+	</stage>
+	<l id="377" syll="9" part="i">Il est beau de couleur en effet.</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+	<l id="377" syll="3" part="f">Ça pétille !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<stage type="drink/drunk">Pendant cette tirade il fait semblant de boire et de s'enivrer peu à peu.</stage>
+	<l id="378">Ses yeux multipliés vous charment, belle fille !</l>
+	<l id="379">Ah ! Que serait-ce si votre palais charmant</l>
+	<l id="380">Goûtait de ce nectar deux perles seulement !</l>
+	<l id="381">On se pâme, on se croit aux festins de l'Olympe !</l>
+<note type="L">Guimpe :  Toile dont les religieuses se couvrent la gorge. [L]</note>
+	<l id="382">Un souffle printanier déferait votre guimpe,</l>
+	<l id="383">Et vous croiriez sentir sur votre blanche chair</l>
+	<l id="384">Un baiser d'Apollon ou du grand Jupiter !</l>
+	<l id="385">Car... dans un pur sommeil... mon dictame... vous plonge,</l>
+	<l id="386">Et le buveur... a tout ce qu'il préfère... en songe !</l>
+<stage type="sleep/get/drink">Il feint d'être endormi. Aussitôt Arlequin saisit la fiole et en avale le contenu d'un trait.</stage>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="strong">, avec reproche.
+	</stage>
+	<l id="387" syll="2" part="i">Et moi ?</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT. </speaker>
+<stage type="stand/hurry/costume/dress">Il se lève subitement dépouillé de la robe du docteur.</stage>
+	<l id="387" syll="19" part="f">Tu n'as pas bu, Colombine, tant mieux,</l>
+	<l id="388" syll="3" part="i">Après tout !...</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="threat">, dégainant sa batte.
+	</stage>
+	<l id="388" syll="3" part="m">Ciel ! Pierrot !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="">, terrible.
+	</stage>
+	<l id="388" syll="6" part="f">Oui, Pierrot ! Terre et cieux !</l>
+	<l id="389">Vous m'empruntez mon teint, mes culottes, ma blouse,</l>
+	<l id="390">Vous buvez mon vin, vous m'embrassez mon épouse !</l>
+	<l id="391">Et vous pensiez rester jusqu'au jour impuni !...</l>
+	<l id="392">Écoutez, Arlequin (car tout n'est pas fini !)</l>
+	<l id="393">Cette boisson... c'était un violent remède !...</l>
+	<l id="394" syll="8" part="i">Ne vous sentez-vous pas ému ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="listen">, s'écoutant.
+	</stage>
+	<l id="394" syll="4" part="f">Grands dieux ! À l'aide !</l>
+	<l id="395">Je suis empoisonné par Pierrot l'assassin !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="396">On peut venir ; j'ai là l'habit de médecin,</l>
+	<l id="397">C'est-à-dire le droit de tuer sans vergogne.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="398" syll="3" part="i">À l'aide !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="">, satanique.
+	</stage>
+	<l id="398" syll="6" part="f">Que dis-tu de mon vin de Bourgogne ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="399" syll="3" part="i">Soyons digne !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="399" syll="2" part="m">Eh bien ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="399" syll="7" part="f">J'ai besoin de prendre l'air.</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="400" syll="9" part="i">Eh ! Quitte auparavant mon habit !</l>
+<stage type="hesitate">Voyant qu'Arlequin hésite.</stage>
+	<l id="400" syll="3" part="f">Est-ce clair ?</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+	<l id="401" syll="1" part="i">Oh !</l>
+<stage type="aparte">À part.</stage>
+	<l id="401" syll="3" part="m">Soyons digne !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="401" syll="8" part="f">Allons ! Quitte ma blouse blanche.</l>
+	<l id="402">Peste, il avait choisi mes effets du dimanche !</l>
+<stage type="dress">Il le dépouille.</stage>
+	<l id="403">Arlequin, mon ami, remets ton masque noir,</l>
+	<l id="404" syll="8" part="i">Je te donne la clef des champs !...</l>
+<stage type="open">Il ouvre la fenêtre au milieu de laquelle apparaît la pleine lune.</stage>
+	<l id="404" syll="4" part="f">C'est un beau soir,</l>
+	<l id="405">La lune verse à flots sa clarté sur la mousse.</l>
+</sp>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="406" syll="6" part="i">Soyons digne, il le faut !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT.</speaker>
+	<l id="406" syll="6" part="f">Va, saute, ou je te pousse !</l>
+<stage type="push/hit">Il le jette par la fenêtre d'un coup de pied. - Revenant vers Colombine :</stage>
+	<l id="407">Vous, Madame, je vous pardonnerai, pourvu</l>
+	<l id="408">Que vous m'expliquiez tout... Sachez que j'ai tout vu,</l>
+	<l id="409" syll="1" part="i">Donc....</l>
+</sp>
+<sp who="COLOMBINE"><speaker>COLOMBINE</speaker><stage type="sweet">, d'un ton câlin.
+	</stage>
+	<l id="409" syll="11" part="f">Au fond, mon Pierrot, c'est toi que je préfère ;</l>
+	<l id="410">Je ne t'ai pas trompé, sais-tu ? Bien au contraire !</l>
+	<l id="411">C'est toi que j'embrassais dans cet Arlequin blanc !</l>
+	<l id="412">À toi revient l'amour dont il n'eut qu'un semblant !</l>
+</sp>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="happy/aparte">, ravi, à part.
+	</stage>
+	<l id="413" syll="4" part="i">Je le savais !</l>
+<stage type="loud">Haut.</stage>
+	<l id="413" syll="8" part="f">Éteins ce bougeoir, sans rancune !</l>
+	<l id="414">Et que l'amour nous soit plus doux qu'un clair de lune !</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

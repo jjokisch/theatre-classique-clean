@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>DU BEL ESPRIT, CONVERSATION.</title>
+			<author type="texte" ISNI="0000 0000 5181 040X">René BARY (16..-16..)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, octobre 2023</editor>
+			<publisher>Publié par Paul FIEVRE, novembre 2023</publisher>
+			<idno>BARY_BELESPRIT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Dialogue</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1661-1670</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF LLA Z-20072">https://gallica.bnf.fr/ark:/12148/bpt6k1097097</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">DU BEL ESPRIT</titlePart>
+			<titlePart type="sub">CONVERSATION.</titlePart>
+			<titlePart type="sub">VI</titlePart>
+		</docTitle> 	
+		<docDate value="1662">M. DC. LXII. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="BARY, René">PAR RENÉ BARY, Conseiller et Historiographe du Roi.</docAuthor>
+		<docImprint>
+			<editor id="SERCY">À PARIS, Chez CHARLES DE SERCY, au Palais, dans le Salle Dauphine, à la Bonne-Foi couronnée.</editor>
+			<privilege id=""><head>PRIVILÈGE DU ROI.</head>
+				<p>Louis par le Grâce de Dieu, Roi de France et de Navarre : À nos âmés et Féaux conseillers les gens tenant nos cours de Parlement, requêtes de notre Hôtel et du Palais, Baillifs, sénéchaux, leurs lieutenants, et tous autres nos officiers et justiciers qu'il appartiendra, Salut. Notre cher et bine aimé le Sieur RENÉ BARY, nous a fait exposé qu'il a fait un livre intitulé, L'ESprit de Cour, ou les belles conversations, lequel il désirerait faire imprimer, s'il nous plaisait lui accorder nos lettres sur ce nécessaires. À CES CAUSES, Nous lui avons permis et permettons par ces présentes, de faire imprimer, vendre et débiter en tous les lieux de notre Royaume, le susdit livre en tout ou en partie, en tels volumes, marges et caractères que bon lui semble, pendant sept années, à commencer du jours que chaque volume sera achevé d'imprimer pour le première fois, et à condition qu'il en sera mis deux exemplaires dans notre Bibliothèque publique, un ne celle de notre château du Louvre, vulgairement appelé le Cabinet des Livres, et un en celle de notre très cher et féal le Sieur Séguier Chancelier de France, avant de les exposer en vente ; et à faute de rapporter ès mains de notre âmé et féal Conseiller en nos conseils, Grand Audiencier de France, en quartier, un récépissé de notre Bibliothèque, et du Sieur Cramoisy, commis par nous du chargement de la délivrance actuelle desdits exemplaires, Nous avons dès à présent déclaré ladite permission d'imprimer nulle, et avons enjoint au Syndic de faire saisir tous les exemplaires qui auront été imprimés sans avoir satisfait les clauses portées par ces présentes. Défendons très expressément à toutes personnes, de quelque condition et qualité qu'elles soient, d'imprimer, faire imprimer, vendre ni débiter le susdit livre en aucun lieu de notre désobéissance durant ledit temps, sous quelque prétexte que ce soit, sans le consentement de l'exposant, à peine de confiscation de ces exemplaires, de quinze cent livres d'amende, et de touts dépends, dommages et intérêts. Voulons qu'aux copies des présentes collationnées par l'un de nos âmés et féaux conseillers et secrétaires du Roi, foi soit ajoutée comme à l'original. Commandons au premier notre Huissier ou Sergent sur ce requis, de faire pour l'exécution des présentes tous exploits nécessaires, sans demander autre permission ; Car tel est notre bon plaisir ; nonobstant oppositions ou appellations quelconques, Clameur de Haro, Charte Normande, et autres lettres à ce contraires. Donné à Paris le quinzième jour de décembre, l'an de grâce mille six cent soixante et un, et de Notre règne le dix-neuvième. Signé, par le Roi en son conseil, MOUSTIER, et scellé du grand sceau de cire jaune.</p>
+				<p>Registré sur le livre de la Communauté le 10 , mars 1662, suivant l'arrêt de la Cour de Parlement du 8 avril 1653. Signé DEBRAY, Syndic.</p>
+				<p>Ledit Sieur BARY a cédé et transporté son droit de privilège à Charles de Sercy Marchand Libraire à Paris, pour en jouir suivant l'accord fait entre eux.</p>
+			</privilege>
+			<acheveImprime id="1662-03-24">Achevé d'imprimer pour la première foi le 24 jour de mars 1662. Les exemplaires ont été fournis</acheveImprime>
+		</docImprint>
+		<castList><head>ACTEUR.</head>
+			<castItem><role id="FILANDRE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="néant">FILANDRE</role>.</castItem>
+			<castItem><role id="ARIANE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="néant">ARIANE</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+<note>Texte extrait de "L'esprit de cour, ou Les conversations galantes , divisées en cent dialogues, dédiées au Roi.", René Bary, Paris : de C. de Sercy, 1662 pp 36-41</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>DU BEL ESPRIT</head>
+<div2 type="scene" n="1"><head>CONVERSATION.</head>
+<stage type="explicit">Marile qui est une espèce de Dévot, est galantisée sur la beauté de son esprit.</stage>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="1">
+	<s id="1">Vous avez de l'esprit, les beaux esprits vous estiment.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="2">
+	<s id="1">Je ne m'arrête point aux éloges qu'on me donne ; ma réputation est un bien mal acquis.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="3">
+	<s id="1">On condamnerait à la réparation d'honneur, ceux qui vous condamneraient à la restitution.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="4">
+	<s id="1">Je n'appellerais point de leur jugement.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="5">
+	<s id="1">Il est rare de trouver tant de modestie parmi tant de gentillesses.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="6">
+	<s id="1">J'ai les sentiments que je dois avoir.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="7">
+	<s id="1">Serait-il possible que vos estimateurs fussent dans l'erreur ?</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="8">
+	<s id="1">S'ils ont du jugement, ils n'ont point de franchise.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="9">
+	<s id="1">À quoi bon de donner de l'encens à une fausse Divinité ?</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="10">
+	<s id="1">Pour peu qu'une fille surpasse le commun, l'hyperbole l' élève au dessus des nues.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="11">
+	<s id="1">Ceux qui font état de vous sont reconnus pour sages, et les sages ne sont pas moins ennemis de l'excès que du défaut.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="12">
+	<s id="1">La dissimulation a ses décences ; et c'est pécher contre la civilité, que de parler de toutes choses à la rigueur.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="13">
+	<s id="1">Chose étrange ! </s>
+	<s id="2">Plus vous vous défendez d'avoir de l'esprit, et plus vous nous persuadez que vous en avez.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="14">
+	<s id="1">La vérité est inépuisable, elle ne manque point de raisons.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="15">
+	<s id="1">Ceux qui n'ont point de feu, ne peuvent fournir à l'entretien ; et plus l'on vous combat, et plus vous brillez.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="16">
+	<s id="1">Je ne m'aperçois point que je m'élève au dessus d'une fille ; et si j'éclate, c'est plutôt du fou que votre génie me communique, que de celui que la Nature m'a donné.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="17">
+	<s id="1">Une stupide est toujours stupide.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="18">
+	<s id="1">Pour peu qu'on entende vos semblables, on devient dissemblable à soi-même.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="19">
+	<s id="1">Si j'ai le pouvoir de changer votre esprit que n'ai-je celui de changer votre coeur !</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="20">
+	<s id="1">Comme mon coeur n'est embrasé que de l'amour Divin, il faudrait que vous fussiez un Démon, pour le faire passer d'un état en un autre.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="21">
+	<s id="1">Si les Hommes ne peuvent rien sur lui, j'ai sujet de me consoler.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="22">
+	<s id="1">Je ne sais pas ce que les Hommes peuvent ; mais je sais bien qu'ils n'ont encore rien pu sur la personne qui vous parle.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="23">
+	<s id="1">Il est pourtant naturel aux filles d'aimer les garçons.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="24">
+	<s id="1">Je tombe d'accord de ce que vous dites : mais à dire le vrai, si j'aime vos semblables, c'est en celui qui n'en a point.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="25">
+	<s id="1">Si vous persévérez dans votre zèle, vous deviendrez toute Sainte.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="26">
+	<s id="1">Ceux qui sont dans la bonne voie, doivent s'y maintenir.</s>
+</p>
+</sp>
+<sp who="FILANDRE"><speaker>FILANDRE.</speaker>
+<p id="">
+	<s id="1">Vos amants sont en passe de passer de mauvaises heures.</s>
+</p>
+</sp>
+<sp who="MARILE"><speaker>MARILE.</speaker>
+<p id="">
+	<s id="1">Qu'ils aiment ce que j'aime, ils passeront d'heureux moments.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

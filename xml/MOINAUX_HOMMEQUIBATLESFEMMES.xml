@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>L'HOMME QUI BAT LES FEMMES, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 0654 8120">Jules MOINAUX (1815-1895)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>MOINAUX_HOMMEQUIBATLESFEMMES</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1881-1890</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k5718390w</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'HOMME QUI BAT LES FEMMES.</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés.</docDate>
+		<docAuthor id="MOINAUX, Jules">par JULES MOINEAUX, rédacteur de la Gazette des Tribunaux.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, CHEVALIER-MARESCQ ÉDITEUR, 20 rue SOUFFLOT, 20.</editor>
+			<printer id="NOBLET">8517. - Paris. Imprimerie de Ch. Noblet, 13 rue Cujas. - 1881</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="narrateur" age="A" stat_amour="néant">LE NARRATEUR</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président du tribunal" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			<castItem><role id="MADAME BURON" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">LA FEMME BURON</role>, prévenue.</castItem>
+			<castItem><role id="MADAME LOCHEROT" sex="2" type="H" statut="portière" age="A" stat_amour="néant">MADAME LOCHEROT</role>, portière.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de MOINAUX, Jules, "Les tribunaux comiques", Paris, Chevalier-Marescq éditeur, 1881. pp 227-231</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>L'HOMME QUI BAT LES FEMMES.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker>LE NARRATEUR.</speaker>
+<p id="1">
+	<s id="1">On étonnerait fort les gens qui connaissent Monsieur_Ribois, si on leur disait qu'il bat les femmes !</s>
+	<s id="2">La vérité est que cet homme, inoffensif et doux, s'est oublié à envoyer a Mademoiselle_Justine_Jambin, bonne d'enfants, un de ces coups de pied qui, généralement, ne blessent que l'amour-propre. </s>
+	<s id="3">Nous allons savoir à quelle occasion Monsieur_Ribois est sorti de son caractère.</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.	</speaker>
+<p id="2">
+	<s id="1">C'est vrai, messieurs, dit-il au tribunal de police_correctionnelle, c'est malheureusement trop vrai ; j'ai cédé, pour la première fois de ma vie, à un mouvement de vivacité ; mais cette voie de fait était un coup de pied postérieur à des procédés de cette personne qui m'exaspéraient depuis longtemps. </s>
+	<s id="2">Permettez-moi de vous les faire connaître : Mademoiselle... </s>
+	<s id="3">Ah ! d'abord, il faut vous dire que j'ai deux enfants... charmants. »</s>
+</p>
+<stage type="laugh">Rire ironique de Mademoiselle_Jambin.</stage>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="3">
+	<s id="1">Taisez-vous ! </s>
+	<s id="2">C'est inconvenant.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="4">
+	<s id="1">Non, mais charmant est à mourir de rire.</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="5">
+	<s id="1">Alors, Mademoiselle, qui est bonne_d_enfants, est chargée de garder deux polissons insupportables et si mal élevés que je défends aux miens, qui ont d'excellentes manières...</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="6">
+	<s id="1">L'un a trois ans et l'autre vingt-six mois.</s>
+</p>
+<stage type="laugh">Rires.</stage>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="7">
+	<s id="1">Ils n'en ont que plus de mérite.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="8">
+	<s id="1">Charmants !... </s>
+	<s id="2">Deux gorilles !... </s>
+	<s id="3">Et sales !</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="9">
+	<s id="1">Voulez-vous vous taire !</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="10">
+	<s id="1">Je n'ai pas besoin qu'il débine ceux de Madame.</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="11">
+	<s id="">Finalement, Messieurs, que je défends aux miens de fréquenter les deux monstres de Mademoiselle.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="12">
+	<s id="1">Monsieur_le_Président, monsieur me diffame, il a l'air de dire que j'élève les enfants de Madame comme des petits pignoufs.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Je vous ai déjà engagée à vous taire.</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="14">
+	<s id="1">Enfin, l'un de ces petits polissons a un petit fusil, avec une petite baguette et des petites capsules.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN</speaker><stage type="laugh">, riant.
+</stage>
+<p id="15">
+	<s id="1">Ha ! ha ! ha !... </s>
+	<s id="2">C'est à s'en tenir la rate.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="16">
+	<s id="1">Je vais vous faire sortir.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN.</speaker>
+<p id="17">
+	<s id="1">C'est si ridicule que je sors tout de suite.</s>
+</p>
+<stage type="exit">Elle sort. </stage>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="18">
+	<s id="1">Eh bien, messieurs, il a manqué de blesser mon jeune en lui fourrant la baguette dans l'oreille, si bien qu'ayant défendu à mes enfants de jouer avec ces deux drôles, savez-vous ce qu'a fait cette demoiselle ? </s>
+	<s id="2">Elle bat les miens pour les forcer à jouer avec les siens.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE JAMBIN"><speaker>MADEMOISELLE JAMBIN</speaker><stage type="location">, au fond de l'auditoire.
+</stage>
+<p id="19">
+	<s id="1">C'est pas vrai !</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="20">
+	<s id="1">Gardes ! </s>
+	<s id="2">Expulsez cette femme !</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="21">
+	<s id="1">Si bien que le jour en question, j'entends encore crier mes enfants ; je me mets à la fenêtre pour voir ; qu'est-ce que je vois ? </s>
+	<s id="2">Cette demoiselle flanquant des coups de torchon à ces pauvres petites créatures ; oh ! alors, la colère me prend, je descends ; mademoiselle avait le dos tourné... et...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="22">
+	<s id="1">Oui, eh bien, vous avez eu tort de la frapper.</s>
+</p>
+</sp>
+<sp who="MONSIEUR RIBOIS"><speaker>MONSIEUR RIBOIS.</speaker>
+<p id="23">
+	<s id="1">Eh ! </s>
+	<s id="2">Monsieur, mon pied a obéi à mon coeur ; quel est le père qui, en voyant donner des coups de torchon à ses enfants, pourrait rester calme ? </s>
+	<s id="3">Du reste, j'ai donné congé, je m'en vais au terme ; cela en mettra, un à tous ces désagréments que me donne...</s>
+</p>
+<stage type="explicit">Monsieur Ribois s'arrête en entendant prononcer contre lui une condamnation à 16 francs d'amende. Il sourit, remercie gracieusement le tribunal et se retire avec un air d'entière satisfaction.</stage> 
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

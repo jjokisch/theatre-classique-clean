@@ -1,0 +1,2891 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'APOLLON DE BELLAC</title>
+				<author type="texte" ISNI="0000 0001 2117 821X">Jean GIRAUDOUX (1882-1944)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, mai 2022.</editor>
+				<publisher>publié par Paul FIEVRE, octobre 2022.</publisher>
+				<idno>GIRAUDOUX_APOLLON</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1931-1940</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YTH-42481">https://gallica.bnf.fr/ark:/12148/bpt6k9781146c</permalien>
+				<keywords>
+					<keyword type="theme">guerre</keyword>
+					<keyword type="theme">fatalité</keyword>
+					<keyword type="oeuvre">Illiade</keyword>
+					<keyword type="lieu">Bellac</keyword>
+				</keywords>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'APOLLON DE BELLAC</titlePart>
+		</docTitle>
+		<docDate value="1935">Tous droits de reproduction, de traduction et d'adaptation réservés pour tous pays, y compris la Russie.</docDate>
+		<docAuthor id="GIRAUDOUX, Jean">JEAN GIRAUDOUX</docAuthor>
+		<docImprint>
+			<editor id="IDES ET CALENDES">Neuchâtel et Paris IDES ET CALENDES</editor>
+			
+			<copyright>Copyright by Suzanne Giraudoux and Jean-Pierre Giraudoux 1946.</copyright>
+			<acheveImprime>Achevé d'imprimer sur les presses de Paul Attinger, maître imprimeur à Neuchâtel, le premier décembre mil neuf cent quarante-six.</acheveImprime>
+		</docImprint>
+		<performance>
+			<premiere date="1942-06" location="Théâtre municipal de Rio de Janeiro">L'APOLLON DE BELLAC a été représenté pour la première fois au Théâtre municipal de Rio de Janeiro, en juin 1942, par LA TROUPE LOUIS JOUVET.</premiere>
+		</performance>
+		<div type="tirage">
+			<p>Le présent tirage constitue l'édition originale de L'APOLLON DE BELLAC, il a été imprimé pour le commerce 13 exemplaires sur Ingres Guarro numérotés de 1 à 13. 100 exemplaires sur vergé chiffon de luxe numérotés de 14 à 113. 5000 exemplaires sur vélin blanc numérotés de 114 à 5113 et hors commerce :</p>
+			<p>6 exemplaires nominatifs sur Ingres Guarro numérotés de I à VI</p>
+			<p>15 exemplaires sur vergé chiffon de luxe numérotés de VII à XXI</p>
+			<p>60 exemplaires sur vélin blanc numérotés de 1 à 60.</p>
+			<p>Exemplaire numéro 541</p>
+		</div>
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="AGNÈS" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">AGNÈS</role>.</castItem>
+		<castItem><role id="THÉRÈSE" sex="2" type="H" statut="bougeois" age="A" stat_amour="néant">THÉRÈSE</role>.</castItem>
+		<castItem><role id="MADEMOISELLE CHÈVREDENT" sex="2" type="H" statut="secrétaire" age="A" stat_amour="néant">MADEMOISELLE CHÈVREDENT</role>.</castItem>
+		<castItem><role id="JOUVET" sex="1" type="H" statut="statue" age="A" stat_amour="néant">JOUVET</role>.</castItem>
+		<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+		<castItem><role id="LE SECRÉTAIRE GÉNÉRAL" sex="1" type="H" statut="secrétaire général" age="A" stat_amour="néant">LE SECRÉTAIRE GÉNÉRAL</role>.</castItem>
+		<castItem><role id="L'HUISSIER" sex="1" type="H" statut="huissier" age="A" stat_amour="néant">L'HUISSIER</role>.</castItem>
+		<castItem><role id="MONSIEUR LEPÉDURA" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR LEPÉDURA</role>.</castItem>
+		<castItem><role id="MONSIEUR DE CRACHETON" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR DE CRACHETON</role>.</castItem>
+		<castItem><role id="MONSIEUR RASEMUTTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR RASEMUTTE</role>.</castItem>
+		<castItem><role id="MONSIEUR SCHULZE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR SCHULZE</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XXème" gps="39.957480, 26.238895">La salle d'attente à l'Office des Grands et Petits Inventeurs.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>L'APOLLON DE BELLAC</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Agnès, L'Huissier, Jouvet.
+</stage>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="1">
+	<s id="1">C'est bien ici l'Office des Grands et Petits Inventeurs ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="2">
+	<s id="1">Ici même.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="3">
+	<s id="1">Je voudrais voir le Président.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="4">
+	<s id="1">Invention petite, moyenne, ou grande ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="5">
+	<s id="1">Je ne saurais trop dire.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="6">
+	<s id="1">Petite ? </s>
+	<s id="2">C'est le Secrétaire_général. </s>
+	<s id="3">Revenez jeudi.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="7">
+	<s id="1">Et qui vous dit, Huissier, que l'invention de Mademoiselle soit si petite que cela ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="8">
+	<s id="1">De quoi vous mêlez-vous ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="9">
+	<s id="1">La caractéristique de l'inventeur, c'est qu'il est modeste. </s>
+	<s id="2">L'orgueil a été inventé par les non-inventeurs. </s>
+	<s id="3">À la modestie créatrice Mademoiselle joint la modestie de son aimable sexe. </s>
+	<s id="4">Mais qui vous dit qu'elle ne vient pas vous proposer une invention destinée à bouleverser le monde !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="10">
+	<s id="1">Monsieur...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="11">
+	<s id="1">Pour les bouleversements du monde, c'est bien le Président. </s>
+	<s id="2">Qu'elle demande une audience. </s>
+	<s id="3">Il reçoit les lundis, de onze à douze heures.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="12">
+	<s id="1">Nous sommes mardi !</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="13">
+	<s id="1">Si elle n'a pas inventé de faire du mardi le jour qui précède le lundi, je n'y puis rien.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="14">
+	<s id="1">Quelle gabegie ! </s>
+	<s id="2">L'humanité attend dans l'angoisse l'invention qui permettra d'adapter à notre vie courante les lois de l'attraction des étoiles pour les envois_postaux ou la cicatrisation des brûlures... </s>
+	<s id="3">Peut-être que Mademoiselle... </s>
+	<s id="4">Mademoiselle comment ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="15">
+	<s id="1">Mademoiselle Agnès.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="16">
+	<s id="1">Peut-être que Mademoiselle_Agnès nous l'apporte... </s>
+	<s id="2">Non, elle devra attendre lundi !</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="17">
+	<s id="1">Je vous prie de vous taire...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<note type="L">Cerfeuil : Plante potagère, à feuilles ressemblant à celles du persil, mais plus petites, et qui sert d'assaisonnement. [L]</note>
+<p id="18">
+	<s id="1">Je ne me tairai pas. </s>
+	<s id="2">Je me tais le lundi. </s>
+	<s id="3">Et le légume unique ! </s>
+	<s id="4">Cinq continents se dessèchent dans l'espérance du légume unique, qui rendra ridicule cette spécialisation du poireau, du raisin, ou du cerfeuil, qui sera la viande et le pain universels, le vin et le chocolat, qui donnera à volonté la potasse, le coton, l'ivoire et la laine. </s>
+	<s id="5">Mademoiselle_Agnès vous l'apporte elle-même. </s>
+	<s id="6">Ce que Paracelse et Turpin n'ont même pas imaginé, elle l'a découvert. </s>
+	<s id="7">Les pépins du légume unique, ils sont là, dans ce sachet au tiède sur sa gorge, prêts à se déchaîner, le brevet une fois paraphé par votre Président, vers la germination et la prolifération. </s>
+	<s id="8">Non, ils devront attendre lundi !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="19">
+	<s id="1">Monsieur...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="20">
+	<s id="1">Le registre est sur la table. </s>
+	<s id="2">Qu'elle s'inscrive pour lundi !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="21">
+	<s id="1">Et voilà ! </s>
+	<s id="2">Lundi, à la première heure, les crétins qui ont inventé le clou sans pointe ou la colle à musique seront reçus illico par le Président, mais pendant une semaine la pauvre humanité aura continué à se plonger jusqu'aux fesses dans la boue des rizières, à crever ses yeux pour séparer les graines du radis ménager de celles du radis fourrager, et à soigner ses blessures à la rapure de pommes de terre, alors que le légume unique est là...  et le firmament !... </s>
+	<s id="3">Mademoiselle Agnès ne s'inscrira pas...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="22">
+	<s id="1">Peu me chaut.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="23">
+	<s id="1">Vous dites ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="24">
+	<s id="1">Je dis : peu me chaut... </s>
+	<s id="2">Vous ne comprenez pas ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<note type="L">Bernard Palissy (1510-1589) artisan, artiste de le Renaissance. Huguenot mort emprisonné à la Bastille.</note>
+<p id="25">
+	<s id="1">Si. </s>
+	<s id="2">Et Bernard_Palissy aussi a compris, quand, à sa demande de subvention, l'intendant du roi répondit : Peu me chaut, et l'obligea à brûler pour son four ses superbes meubles_Henri_II...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="26">
+	<s id="1">Ses meubles_Henri_II ? </s>
+	<s id="2">Vous me rappelez que j'ai à préparer la salle_du_conseil.</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Agnès, Jouvet.
+</stage>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="1">
+	<s id="1">Je vous remercie, Monsieur. </s>
+	<s id="2">Mais je ne suis pas l'inventeur du légume unique.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="2">
+	<s id="1">Je le savais. </s>
+	<s id="2">C'est moi.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="3">
+	<s id="1">Je cherche une place. </s>
+	<s id="2">Voilà tout.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="4">
+	<s id="1">Vous êtes dactylographe ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="5">
+	<s id="1">Dactylographe ? </s>
+	<s id="2">Qu'est-ce que c'est ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="6">
+	<s id="1">Sténographe ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="7">
+	<s id="1">Pas que je sache.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="8">
+	<s id="1">Polyglotte, rédactrice, classeuse ? </s>
+	<s id="2">Arrêtez- moi à votre spécialité.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="9">
+	<s id="1">Vous pourriez énumérer le dictionnaire des emplois. </s>
+	<s id="2">Jamais je n'aurais à vous interrompre.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="10">
+	<s id="1">Alors coquette, dévouée, gourmande, douce, voluptueuse, naïve ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="11">
+	<s id="1">C'est plutôt mon rayon.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="12">
+	<s id="1">Tant mieux ! </s>
+	<s id="2">C'est la promesse d'une heureuse carrière.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="13">
+	<s id="1">Non. </s>
+	<s id="2">J'ai peur des hommes...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="14">
+	<s id="1">De quels hommes ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="15">
+	<s id="1">À les voir je défaille...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="16">
+	<s id="1">Peur de l'Huissier ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="17">
+	<s id="1">De tous. </s>
+	<s id="2">Des huissiers, des présidents, des militaires. </s>
+	<s id="3">Là où il y a un homme, je suis comme une voleuse dans un grand magasin, qui sent sur son cou le souffle de l'inspecteur.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="18">
+	<s id="1">Voleuse de quoi ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="19">
+	<s id="1">J'ai envie de me débarrasser à toute force de l'objet volé et de le lui lancer en criant : laissez-moi fuir !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="20">
+	<s id="1">Quel objet ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="21">
+	<s id="1">Je ne me le demande même pas. </s>
+	<s id="2">Je le recèle. </s>
+	<s id="3">J'ai peur.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<note type="L">Grègue : Haut-de-chausses, culotte ; on ne le dit plus qu'au pluriel. [L]</note>
+<p id="22">
+	<s id="1">Leur costume sans doute vous impressionne ? </s>
+	<s id="2">Leurs chausses et leurs grègues ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="23">
+	<s id="1">Je me suis trouvée avec des nageurs. </s>
+	<s id="2">Leurs grègues étaient à terre. </s>
+	<s id="3">L'objet me pesait tout autant.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="24">
+	<s id="1">Peut-être ils vous déplaisent, tout simplement.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="25">
+	<s id="1">Je ne crois pas. </s>
+	<s id="2">Leurs yeux de chien me plaisent, leur poil, leurs grands pieds. </s>
+	<s id="3">Et ils ont des organes qui m'attendrissent, leur pomme d'Adam au repas par exemple. </s>
+	<s id="4">Mais dès qu'ils me regardent ou me parlent, je défaille.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="26">
+	<s id="1">Cela vous intéresserait de ne plus défaillir ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="27">
+	<s id="1">Les petits points noirs qu'ils ont sur le visage, sur le nez, j'adorerais les faire sortir de leur peau avec une clef de montre. </s>
+	<s id="2">Jamais je n'aurais le courage... </s>
+	<s id="3">Et de ne plus dissimuler l'objet volé, oh ! certes.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="28">
+	<s id="1">Cela vous intéresserait de les mener à votre guise, de tout obtenir d'eux, de faire plonger les présidents, grimper les nageurs ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="29">
+	<s id="1">Il y a des recettes ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="30">
+	<s id="1">Une seule, infaillible !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="31">
+	<s id="1">Pourquoi me la diriez-vous ! </s>
+	<s id="2">Vous êtes un homme...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="32">
+	<s id="1">Ignorez la recette, et vous aurez une vie sordide ! </s>
+	<s id="2">Recourez à elle, et vous serez reine du monde !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="33">
+	<s id="1">Reine du monde ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Que faut-il leur dire !...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="34">
+	<s id="1">Aucun d'eux n'écoute ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="35">
+	<s id="1">Personne...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="36">
+	<s id="1">Dites-leur qu'ils sont beaux !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="37">
+	<s id="1">Leur dire qu'ils sont beaux, intelligents, sensibles ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="38">
+	<s id="1">Non ! Qu'ils sont beaux. </s>
+	<s id="2">Pour l'intelligence et le coeur, ils savent s'en tirer eux-mêmes. </s>
+	<s id="3">Qu'ils sont beaux...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="39">
+	<s id="1">À tous ? </s>
+	<s id="2">À ceux qui ont du talent, du génie ? </s>
+	<s id="3">Dire à un académicien qu'il est beau, jamais je n'oserai...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="40">
+	<s id="1">Essayez voir ! </s>
+	<s id="2">À tous ! </s>
+	<s id="3">Aux modestes, aux vieillards, aux emphysémateux. </s>
+	<s id="4">Dites-le au professeur de philosophie, et vous aurez votre diplôme. </s>
+	<s id="5">Au boucher, et il lui restera du filet dans sa resserre. </s>
+	<s id="6">Au Président d'ici, et vous aurez la place.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="41">
+	<s id="1">Cela suppose tant d'intimité, avant qu'on puisse le leur dire...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="42">
+	<s id="1">Dites-le d'emblée. </s>
+	<s id="2">Qu'à défaut de votre voix, votre premier regard le dise, dès la seconde où il va vous questionner sur Spinoza ou vous refiler de la vache.</s> 
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="43">
+	<s id="1">Il faut attendre qu'ils soient seuls ! </s>
+	<s id="2">Être seule à seul avec eux !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="44">
+	<s id="1">Dites-leur qu'ils sont beaux en plein métro, en pleine salle d'examens, dans la boucherie comble. </s>
+	<s id="2">Au contraire. </s>
+	<s id="3">Les témoins seront vos garants !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="45">
+	<s id="1">Et s'ils ne sont pas beaux, qu'est-ce que je leur dis ? </s>
+	<s id="1">C'est le plus fréquent, hélas !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="46">
+	<s id="1">Seriez-vous bornée, Agnès ? </s>
+	<s id="2">Dites qu'ils sont beaux aux laids, aux bancals, aux pustuleux...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="47">
+	<s id="1">Ils ne le croiront pas !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="48">
+	<s id="1">Tous le croiront. </s>
+	<s id="2">Tous le croient d'avance. </s>
+	<s id="3">Chaque homme, même le plus laid, nourrit en soi une amorce et un secret par lequel il se relie directement à la beauté même. </s>
+	<s id="4">Il entendra simplement prononcer tout haut le mot que sa complaisance lui répète tout bas. </s>
+	<s id="5">Ceux qui ne le croient pas, s'il s'en trouve, sont même les plus flattés. </s>
+	<s id="6">Ils croient qu'ils sont laids, mais qu'il est une femme qui peut les voir beaux. </s>
+	<s id="7">Ils s'accrochent à elle. </s>
+	<s id="8">Elle est pour eux le lorgnon enchanté et régulateur d'un univers à yeux déformants. </s>
+	<s id="9">Ils ne la quittent plus. </s>
+	<s id="10">Quand vous voyez une femme escortée en tous lieux d'un état-major de servants, ce n'est pas tant qu'ils la trouvent belle, c'est qu'elle leur a dit qu'ils sont beaux...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="49">
+	<s id="1">Ah, il est déjà des femmes qui savent la recette ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="50">
+	<s id="1">Elles la savent mal. </s>
+	<s id="2">Elles biaisent. </s>
+	<s id="3">Elles disent au bossu qu'il est généreux, au couperosé qu'il est tendre. </s>
+	<s id="4">C'est sans profit. </s>
+	<s id="5">J'ai vu une femme perdre millions, perles et rivières, parce qu'elle avait dit à un pied tourné qu'il marchait vite. </s>
+	<s id="6">Il fallait lui dire, il faut leur dire qu'ils sont beaux... </s>
+	<s id="7">Allez-y. </s>
+	<s id="8">Le Président n'a pas de jour pour s'entendre dire qu'il est beau...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="51">
+	<s id="1">Non. </s>
+	<s id="2">Non. </s>
+	<s id="3">Je reviendrai. </s>
+	<s id="4">Laissez-moi d'abord m'entraîner. </s>
+	<s id="5">J'ai un cousin qui n'est pas mal. </s>
+	<s id="6">Je vais m'exercer avec lui.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="52">
+	<s id="1">Vous allez vous exercer tout de suite. </s>
+	<s id="2">Et sur l'Huissier !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="53">
+	<s id="1">Sur ce monstre ? </s>
+	<s id="2">Il est affreux.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="54">
+	<s id="1">Le monstre est parfait pour l'entraînement. </s>
+	<s id="2">Puis sur le Secrétaire_général. </s>
+	<s id="3">Excellent aussi. </s>
+	<s id="4">Je le connais. </s>
+	<s id="5">Il  est plus affreux encore. </s>
+	<s id="6">Puis sur le Président...</s>
+</p>
+<stage type="entrance/hesitate/location">L'Huissier apparaît, hésite, et rentre dans la Salle du Conseil.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="55">
+	<s id="1">Commencer par l'Huissier, jamais !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="56">
+	<s id="1">Très bien, commencez par ce buste !...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="57">
+	<s id="1">C'est le buste de qui ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="58">
+	<s id="1">Peu importe. </s>
+	<s id="2">C'est un buste d 'homme. </s>
+	<s id="3">Il est tout oreilles.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="59">
+	<s id="1">Il n'a pas de barbe. </s>
+	<s id="2">Il n'y a que la barbe chez les hommes qui me donne confiance...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="60">
+	<s id="1">Eh bien, parlez à n'importe qui, à n'importe quoi ! </s>
+	<s id="2">À cette chaise, à cette pendule ! </s>
+	<s id="3">À cette table, à cette porte !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="61">
+	<s id="1">Elles sont du féminin.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="62">
+	<s id="1">Tenez ! </s>
+	<s id="2">À ce papillon ! </s>
+	<s id="3">Le voilà sur votre main. </s>
+	<s id="4">Il s'est arraché aux jasmins et aux roses pour venir pomper sa louange. </s>
+	<s id="5">Allez-y.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="63">
+	<s id="1">Comme il est beau !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="64">
+	<s id="1">Dites-le à lui-même.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="65">
+	<s id="1">Comme tu es beau !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="66">
+	<s id="1">Vous voyez : il remue les ailes. </s>
+	<s id="2">Brodez un peu. </s>
+	<s id="3">Ornez un peu. </s>
+	<s id="4">De quoi est-ce spécialement fier, un papillon ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<note type="L">Corselet : Léger corps de cuirasse. [L]</note>
+<p id="67">
+	<s id="1">De son corselet, je pense. </s>
+	<s id="2">De sa trompe.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="68">
+	<s id="1">Alors, allez-y ! </s>
+	<s id="2">Comme ton corselet est beau !...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="69">
+	<s id="1">Comme ton corselet est beau, papillon ! </s>
+	<s id="2">Tu es en velours_de_Gênes ! </s>
+	<s id="3">Ce que c'est beau, le jaune et le noir ! </s>
+	<s id="4">Et ta trompe ! </s>
+	<s id="5">Jamais on ne me fera croire qu'une fleur comme toi a une trompe ! </s>
+	<s id="6">C'est un pistil !</s> 
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="70">
+	<s id="1">Pas maL du tout. </s>
+	<s id="2">Voilà l'Huissier... </s>
+	<s id="3">Chassez-le.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="71">
+	<s id="1">Il se cramponne !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="72">
+	<s id="1">Dites-lui que vous préférez le rouge ! </s>
+	<s id="2">Et maintenant, vous m'entendez, même méthode pour l'Huissier que pour le papillon, avec, bien entendu, l'équivalent pour les huissiers du corselet et du pistil !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="73">
+	<s id="1">Laissez-moi lui parler du temps, d'abord. </s>
+	<s id="2">Regardez le ciel !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="74">
+	<s id="1">Non, que votre premier mot soit le mot !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="75">
+	<s id="1">Quel mot ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="76">
+	<s id="1">Vous pataugerez après, tant pis. </s>
+	<s id="2">Il sera dit !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="77">
+	<s id="1">Quel mot ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="78">
+	<s id="1">Faut-il vous le répéter cent fois !... </s>
+	<s id="2">Comme vous êtes beau !...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Agnès, L'Huissier.
+</stage>
+<sp who="AGNÈS"><speaker>AGNÈS</speaker><stage type="hesitate">, après mille hésitations.
+</stage>
+<p id="1">
+	<s id="1">Comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="2">
+	<s id="1">Vous dites ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="3">
+	<s id="1">Je dis : comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="4">
+	<s id="1">Cela vous prend souvent ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="5">
+	<s id="1">C'est la première fois de ma vie...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="6">
+	<s id="1">Que vous dites qu'il est beau à une tête de singe ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="7">
+	<s id="1">Beau n'est peut-être pas le mot. </s>
+	<s id="2">Moi je ne juge pas les gens sur la transparence de la narine ou l'écart de l'oeil. </s>
+	<s id="3">Je juge sur l'ensemble.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="8">
+	<s id="1">En somme voici ce que vous me dites : tous vos détails sont laids et votre ensemble est beau ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="9">
+	<s id="1">Si vous voulez ! </s>
+	<s id="2">Laissez-moi tranquille ! </s>
+	<s id="3">Vous pensez bien que ce n'est pas pour flatter un sale huissier comme vous que je lui dis que je le trouve beau.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="10">
+	<s id="1">Calmez-vous ! Calmez-vous !...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="11">
+	<s id="1">C'est la première fois que je le dis à un homme. </s>
+	<s id="2">Cela ne m'arrivera plus.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="12">
+	<s id="1">Je sais bien qu'à votre âge on dit ce qu'on pense. </s>
+	<s id="2">Mais pourquoi vous exprimez-vous si mal ?</s>
+</p>
+<stage type="entrance">La tête de Jouvet apparaît et encourage Agnès.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="13">
+	<s id="1">Je ne m'exprime pas mal. </s>
+	<s id="2">Je trouve que vous êtes beau. </s>
+	<s id="3">Je vous dis que vous êtes beau.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="14">
+	<s id="1">Vous ne me trouvez pas beau. </s>
+	<s id="2">Je connais les femmes. </s>
+	<s id="3">Ce que je peux avoir de passable, elles ne le voient même pas. </s>
+	<s id="4">Qu'est-ce que j'ai de beau ? </s>
+	<s id="5">Ma silhouette ?... </s>
+	<s id="6">Vous ne l'avez même pas remarquée...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="15">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous croyez ! </s>
+	<s id="3">Quand vous avez relevé la corbeille à papier, elle ne s'est pas penchée avec vous, votre silhouette ? </s>
+	<s id="4">Et vous l'avez mise dans votre poche, votre silhouette, quand vous avez traversé la salle pour aller au conseil ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="16">
+	<s id="1">Vous la voyez maintenant parce que je vous l'ai dit...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="17">
+	<s id="1">Vous avez parfaitement raison. </s>
+	<s id="2">Vous n'êtes pas beau. </s>
+	<s id="3">Je croyais vous voir et j'ai vu votre silhouette.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="18">
+	<s id="1">Alors dites : quelle belle silhouette ! </s>
+	<s id="2">Ne dites pas : quel bel Huissier !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="19">
+	<s id="1">Je ne dirai plus rien.</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="20">
+	<s id="1">Ne vous fâchez pas ! </s>
+	<s id="2">J'ai le droit de vous mettre en garde. </s>
+	<s id="3">J'ai une fille, moi aussi, ma petite ; et je sais ce qu'elles sont, les filles, à votre âge. </s>
+	<s id="4">Parce que tout d'un coup la silhouette d'un homme leur paraît agréable, elles le trouvent beau. </s>
+	<s id="5">Et en effet, c'est rare, une belle silhouette. </s>
+	<s id="6">C'est avec les silhouettes que les Japonais ont fait ce qu'ils ont de mieux, les ombres chinoises. </s>
+	<s id="7">Et une silhouette dure. </s>
+	<s id="8">On a sa silhouette jusqu'à la mort. </s>
+	<s id="9">Et après. </s>
+	<s id="10">Le squelette a sa silhouette. </s>
+	<s id="11">Mais ces nigaudes confondent silhouette et corps, et si l'autre niais prête tant soit peu l'oreille, c'est fait, elles se gâchent la vie, les imbéciles... </s>
+	<s id="12">On ne vit pas avec des silhouettes, mon enfant ! </s>
+</p>
+<stage type="entrance">La tête de Jouvet apparaît.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="21">
+	<s id="1">Comme vous êtes beau, quand vous vous mettez en colère ! </s>
+	<s id="2">Vous ne me ferez pas croire qu'elles sont à votre silhouette, ces dents-là ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="22">
+	<s id="1">C'est vrai. </s>
+	<s id="2">Quand je me mets en colère, je montre la seule chose que j'ai de parfait, mes dents. </s>
+	<s id="3">Je ne fume pas. </s>
+	<s id="4">Je n'ai aucun mérite. </s>
+	<s id="5">Et je ne sais pas si vous avez remarqué que la canine était double. </s>
+	<s id="6">Pas la fausse en ciment. </s>
+	<s id="7">Celle de droite... </s>
+	<s id="8">Tenez, c'est le Secrétaire_général qui sonne... </s>
+	<s id="9">Je vais faire en sorte qu'il vous reçoive... </s>
+	<s id="10">Je lui dirai que vous êtes ma nièce.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="23">
+	<s id="1">Qu'elle est belle, quand vous vous redressez ! </s>
+	<s id="2">On dirait celle du Penseur_de_Rodin...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="24">
+	<s id="1">Oui, oui. </s>
+	<s id="2">Cela suffit. </s>
+	<s id="3">Si vous étiez ma fille, vous recevriez une belle calotte !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Agnès, Jouvet, L'Huissier.
+</stage>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="1">
+	<s id="1">C'est un début.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="2">
+	<s id="1">Un mauvais début. </s>
+	<s id="2">Je réussis mieux avec le papillon qu'avec l'Huissier.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="3">
+	<s id="1">Parce que vous vous entêtez à joindre l'idée de caresse à l'idée de beauté. </s>
+	<s id="2">Vous êtes comme toutes les femmes. </s>
+	<s id="3">Une femme qui trouve le ciel beau, c'est une femme qui caresse le ciel. </s>
+	<s id="4">Ce ne sont pas vos mains qui ont à parler, ni vos lèvres, ni votre joue, c'est votre cerveau.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="4">
+	<s id="1">Il a bien manqué ne pas me croire.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="5">
+	<s id="1">Parce que vous biaisiez. </s>
+	<s id="2">Il vous a eue, avec sa silhouette. </s>
+	<s id="3">Vous n'êtes pas encore au point pour un Secrétaire_général.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="6">
+	<s id="1">Comment m'entraîner ! </s>
+	<s id="2">Il arrive.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="7">
+	<s id="1">Essayez sur moi...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="8">
+	<s id="1">Vous dire à vous que vous êtes beau ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="9">
+	<s id="1">C'est si difficile que cela ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="10">
+	<s id="1">Pas du tout.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="11">
+	<s id="1">Songez bien à ce que vous allez dire...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="12">
+	<s id="1">Vous n'êtes pas mal du tout, quand vous vous moquez ainsi de moi...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="13">
+	<s id="1">Vous biaisez ! </s>
+	<s id="2">Vous biaisez ! </s>
+	<s id="3">Et pourquoi quand je me moque ? </s>
+	<s id="4">Je ne suis pas beau autrement ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="14">
+	<s id="1">Oh, si ! </s>
+	<s id="2">Magnifique !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="15">
+	<s id="1">Voilà ! </s>
+	<s id="2">Voilà ! </s>
+	<s id="3">Vous y êtes... </s>
+	<s id="4">Ce ne sont plus vos mains qui parlent.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="16">
+	<s id="1">Devant vous, elles murmurent quand même un petit peu...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="17">
+	<s id="1">Parfait !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="18">
+	<s id="1">Le volume de votre corps est beau. </s>
+	<s id="2">La tête m'importe peu. </s>
+	<s id="3">Le contour de votre corps est beau.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="19">
+	<s id="1">La tête vous importe peu ? </s>
+	<s id="2">Qu'est-ce à dire ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="20">
+	<s id="1">Pas plus que la tête du Penseur_de_Rodin.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="21">
+	<s id="1">Ses pieds évidemment ont plus d'importance... </s>
+	<s id="2">Écoutez, Agnès. </s>
+	<s id="3">C'est très ingénieux, ces allusions à une statue célèbre, mais le Penseur_de_Rodin est la seule que vous connaissiez ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="22">
+	<s id="1">La seule. </s>
+	<s id="2">Avec la Vénus_de_Milo. </s>
+	<s id="3">Mais celle-là ne peut guère me servir pour les hommes.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="23">
+ 	<s id="1">C'est à voir. </s>
+	<s id="2">Il est urgent en tout cas que vous doubliez votre répertoire. </s>
+	<s id="3">Dites l'Esclave_de_Michel-Ange. </s>
+	<s id="4">Dites l'Apollon_de_Bellac.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="24">
+	<s id="1">L'Apollon_de_Bellac ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="25">
+	<s id="1">Oui. </s>
+	<s id="2">Il n'existe pas. </s>
+	<s id="3">C'est moi qui l'extrais en ce moment à votre usage du terreau et du soleil antiques. </s>
+	<s id="4">Personne ne vous le contestera...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="26">
+	<s id="1">Comment est-il  ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="27">
+	<s id="1">Un peu comme moi, sans doute. </s>
+	<s id="2">Je suis né à Bellac. </s>
+	<s id="3">C'est un bourg du Limousin.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="28">
+	<s id="1">On dit que les Limousins sont si laids. </s>
+	<s id="2">Comment se fait-il que vous soyez si beau ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="29">
+	<s id="1">Mon père était très beau... </s>
+	<s id="2">Que je suis bête ! Bravo, vous m'avez pris...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="30">
+	<s id="1">Je n'ai pas cherché à vous prendre. </s>
+	<s id="2">C'est vous qui m'avez donné la recette. </s>
+	<s id="3">Avec vous je suis franche.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="31">
+	<s id="1">Voilà ! </s>
+	<s id="2">Elle a compris.</s>
+</p>
+<stage type="entrance/hide/location">L'Huissier entre. Jouvet se dissimule dans un réduit.</stage>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="32">
+	<s id="1">Le Secrétaire_général </s>
+	<s id="2">vient vous voir ici une minute, Mademoiselle. </s>
+	<s id="3">Inutile de vous mettre en frais. </s>
+	<s id="4">Pour voir une silhouette pareille, il faut se payer une visite au Musée de l'Homme.</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS</speaker><stage type="toward/entrance">, à Jouvet, qui passe la tête.
+</stage>
+<p id="33">
+	<s id="1">Vous entendez. </s>
+	<s id="2">C'est terrible !...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="34">
+	<s id="1">Entraînez-vous !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="35">
+	<s id="1">Sur qui ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="36">
+	<s id="1">Sur tout ce qui est là. </s>
+	<s id="2">Les choses non plus ne résistent pas à qui leur dit qu'elles sont belles... </s>
+	<s id="3">Sur le téléphone...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS</speaker><stage type="toward/toward">, parle au téléphone, puis le touche.
+</stage>
+<p id="37">
+	<s id="1">Comme tu es beau, mon petit téléphone...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="38">
+	<s id="1">Pas les mains...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="39">
+	<s id="1">Cela m'aide tellement !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="40">
+	<s id="1">Au lustre ! </s>
+	<s id="2">Vous ne le toucherez pas...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<note type="L">Bobèche : Petite pièce mobile et évasée qu'on adapte aux chandeliers. [L]</note>
+<p id="41">
+	<s id="1">Comme tu es beau, mon petit, mon grand lustre ! </s>
+	<s id="2">Plus beau quand tu es allumé ? </s>
+	<s id="3">Ne dis pas cela... </s>
+	<s id="4">Les autres lustres, oui. </s>
+	<s id="5">Les lampadaires, les becs de gaz, toi pas. </s>
+	<s id="6">Regarde, le soleIl joue sur toi, tu es le lustre à soleil. </s>
+	<s id="7">La lampe pigeon a besoin d'être allumée, ou l'étoile. </s>
+	<s id="8">Toi pas. </s>
+	<s id="9">Voilà ce que je voulais dire. </s>
+	<s id="10">Tu es beau comme une constellation, comme une constellation le serait, si, au lieu d'être un faux lustre, pendu dans l'éternité, avec ses feux mal distants, elle était ce monument de merveilleux laiton, de splendide carton huilé, de bobèches en faux Baccarat des Vosges et des montagnes disposées à espace égal qui sont ton visage et ton corps. </s>
+</p>
+<stage type="light">Le lustre s'allume de lui-même.</stage>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="42">
+	<s id="1">Bravo !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Agnès, Le Secrétaire Général, L'Huissier, Jouvet.
+</stage>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="1">
+	<s id="1">Une minute, Mademoiselle. </s>
+	<s id="2">Je dispose d'une minute... </s>
+	<s id="3">Qu'avez-vous ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="2">
+	<s id="1">Moi ? </s>
+	<s id="2">Rien...</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="3">
+	<s id="1">Qu'avez-vous à me regarder ainsi ? </s>
+	<s id="2">Vous avez suivi aux Arts et Métiers mon cours sur les inventions dans le rêve ? </s>
+	<s id="3">Vous me connaissez ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="4">
+	<s id="1">Oh, non ! </s>
+	<s id="2">Au contraire...</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="5">
+	<s id="1">Au contraire ? </s>
+	<s id="2">Que veut dire au contraire ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="6">
+	<s id="1">J'attendais un Secrétaire_général, un être voûté ou ventripotent, boiteux ou maigrelet, et je vous vois !</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="7">
+	<s id="1">Je suis comme je suis.</s>
+</p>
+<stage type="entrance">La tête de Jouvet apparaît.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="8">
+	<s id="1">Oui. </s>
+	<s id="2">Vous êtes beau.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="9">
+	<s id="1">Vous dites ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="10">
+	<s id="1">Je ne dis rien. </s>
+	<s id="2">Je n'ai rien dit.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="11">
+	<s id="1">Si. </s>
+	<s id="2">Vous avez dit que j'étais beau. </s>
+	<s id="3">Je l'ai entendu clairement, et je dois dire que j'en éprouve quelque surprise. </s>
+	<s id="4">Si je l'étais, on me l'aurait déjà dit.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="12">
+	<s id="1">Quelles idiotes !</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="13">
+	<s id="1">Qui est idiote ? </s>
+	<s id="2">Ma soeur, ma mère, ma nièce ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="14">
+	<s id="1">Monsieur le Secrétaire_général, j'ai appris par une amie d'un membre de votre conseil, Monsieur_Lepédura...</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="15">
+	<s id="1">Laissez Monsieur_Lepédura tranquille. </s>
+	<s id="2">Nous parlons de ma beauté. </s>
+	<s id="3">Je suis spécialiste du rêve, Mademoiselle. </s>
+	<s id="4">C'est à moi que s'adressent ceux des inventeurs qui ne font leurs trouvailles qu'en rêve, et j'ai réussi à retirer des songes des inventions aussi remarquables que le briquet-fourchette ou le livre qui se lit lui-même, qui n'auraient été sans moi que des épaves du sommeil. </s>
+	<s id="5">Si en rêve vous m'aviez dit que je suis beau, j'aurais compris. </s>
+	<s id="6">Mais nous sommes en état de veille. </s>
+	<s id="7">Du moins je le suppose. </s>
+	<s id="8">Permettez que je me pince pour nous en assurer. </s>
+	<s id="9">Et que je vous pince.</s>
+</p>
+<stage type="touch">Il lui prend la main.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="16">
+	<s id="1">Hou là !</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="17">
+	<s id="1">Nous ne rêvons pas. </s>
+	<s id="2">Alors pourquoi vous m'avez dit que j'étais beau, cela m'échappe. </s>
+	<s id="3">Pour gagner ma faveur ? </s>
+	<s id="4">L'explication serait grossière. </s>
+	<s id="5">Pour vous moquer ? </s>
+	<s id="6">Votre oeIl est courtois, votre lèvre amène...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="18">
+	<s id="1">Je l'ai dit parce que je vous trouve beau. </s>
+	<s id="2">Si Madame votre mère vous trouve hideux, cela la regarde.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="19">
+	<s id="1">Hideux est beaucoup dire, et je ne permettrai pas que vous ayez de ma mère cette opinion défavorable. </s>
+	<s id="2">Ma mère, même quand j'avais cinq ans, m'a toujours trouvé des mains d'évêque.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="20">
+	<s id="1">Si votre nièce vous préfère Valentino, ce n'est pas à son honneur.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="21">
+	<s id="1">Ma nièce n'est pas une imbécile. </s>
+	<s id="2">Elle prétendait encore hier que j'ai l'arcade sourcilière dessinée par Le_Nôtre.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="22">
+	<s id="1">Si votre soeur...</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="23">
+	<s id="1">Vous tombez mal avec ma soeur. </s>
+	<s id="2">Elle sait bien que je ne suis pas beau, mais elle a toujours prétendu que j'avais un type, et, ce type, un de nos amis, agrégé d'histoire italienne, l'a récemment identifié. </s>
+	<s id="3">Et c'est un type célèbre. </s>
+	<s id="4">C'est à s'y méprendre, dit-il, celui de Galéas_Sforza.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="24">
+	<s id="1">De Galéas_Sforza. </s>
+	<s id="2">Jamais ! </s>
+	<s id="3">De l'Apollon_de_Bellac, oui.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="25">
+	<s id="1">De l'Apollon_de_Bellac ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="26">
+	<s id="1">Vous ne trouvez pas ?</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="27">
+	<s id="1">Si vous y tenez tant que cela, Mademoiselle ! Vous savez que le type de Galéas est curieux. </s>
+	<s id="2">J'ai vu des gravures...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="28">
+	<s id="1">À l'Apollon de Bellac habillé, évidemment ! </s>
+	<s id="2">Car, pour votre vêtement, je fais des réserves. </s>
+	<s id="3">Vous vous habillez mal, Monsieur le Secrétaire_général. </s>
+	<s id="4">Moi, je suis franche. </s>
+	<s id="5">Vous ne me ferez jamais dire ce que je ne pense pas. </s>
+	<s id="6">Vous avez le travers des hommes vraiment beaux, de Boulanger, de Nijinsky. </s>
+	<s id="7">Vous vous habillez au Marché_aux_Puces.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="29">
+	<s id="1">Ce qu'il faut s'entendre dire ! </s>
+	<s id="2">Et par une jeune personne qui dit au premier venu qu'il est beau !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="30">
+	<s id="1">Je ne l'ai dit qu'à deux hommes dans ma vie. </s>
+	<s id="2">Vous êtes le second.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="31">
+	<s id="1">Personne évidemment ne ressemble à tout le monde, et moi, hélas, moins que personne.</s>
+</p>
+<stage type="toward">À l'Huissier qui entre.</stage>
+<p id="32">
+	<s id="1">Que voulez-vous ? </s>
+	<s id="2">Vous ne voyez pas que nous sommes occupés ?</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="33">
+	<s id="1">Ces Messieurs du Conseil montent l'escalier. </s>
+	<s id="2">Je les annonce ?</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="34">
+	<s id="1">Mademoiselle, le Conseil me réclame. </s>
+	<s id="2">Mais me feriez-vous le plaisir de venir demain continuer cet intéressant entretien ? </s>
+	<s id="3">D'autant que la dactylographe qui travaille dans mon bureau entasse les fautes de frappe, et que je songe à l'écarter. </s>
+	<s id="4">Je suis sûr que vous êtes artiste, vous, en machine à écrire ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="35">
+	<s id="1">Hélas, non. </s>
+	<s id="2">Je ne sais que le piano.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="36">
+	<s id="1">Parfait. </s>
+	<s id="2">C'est beaucoup plus rare. </s>
+	<s id="3">Vous prenez la dictée ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="37">
+	<s id="1">Lentement.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="38">
+	<s id="1">Tant mieux. </s>
+	<s id="2">Cette autre allait trop vite.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="39">
+	<s id="1">Et je relis mal mon écriture.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="40">
+	<s id="1">Parfait. </s>
+	<s id="1">L'autre était l'indiscrétion même. </s>
+	<s id="2">À demain donc, Mademoiselle. </s>
+	<s id="3">Vous acceptez ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="41">
+	<s id="1">Avec reconnaissance, mais à une condition.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="42">
+	<s id="1">Vous posez des conditions à votre chef ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="43">
+	<s id="1">À la condition que je ne vous verrai plus avec cette ignoble jaquette. </s>
+	<s id="2">Imaginer ces deux belles épaules dans cette chrysalide, ce me serait insupportable...</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<note type="L">Tussor : ou Tussore. Nom, dans l'Inde, de foulards en écru, que l'on peut chiffonner sans qu'il en reste des traces ; ils sont fabriqués avec une soie particulière provenant du ver à soie sauvage. [L]</note>
+<p id="44">
+	<s id="1">J'ai un complet en tussor beige. </s>
+	<s id="2">Mais il est d'été et m'enrhume.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="45">
+	<s id="1">C'est à prendre ou à laisser. </s>
+	<s id="2">J'adore le tussor et le beige.</s>
+</p>
+</sp>
+<sp who="LE SECRÉTAIRE GÉNÉRAL"><speaker>LE SECRÉTAIRE GÉNÉRAL.</speaker>
+<p id="46">
+	<s id="1">À demain. </s>
+	<s id="2">Ma soeur et ma mère le détacheront cet après-midi. </s>
+	<s id="3">Je l'aurai...</s>
+</p>
+<stage type="exit/entrance">Il part. La tête de Jouvet reparaît.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="47">
+	<s id="1">Alors ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="48">
+	<s id="1">Pas mal. </s>
+	<s id="2">Mais vous biaisez toujours.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="49">
+	<s id="1">Pourtant mes mains étaient bien loin. </s>
+	<s id="2">J'ai du mal à les rattacher.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="50">
+	<s id="1">Ne perdez pas de temps. </s>
+	<s id="2">Les magots montent l'escalier. </s>
+	<s id="3">Entraînez-vous encore...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="51">
+	<s id="1">Sur le premier ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="52">
+	<s id="1">Sur tous !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Agnès, L'Huissier, Les Membres du Conseil, Jouvet.
+</stage>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER</speaker><stage type="declamate">, annonçant à travers la salle les personnages qui traversent.
+</stage>
+<p id="1">
+	<s id="1">Monsieur de Cracheton.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="2">
+	<s id="1">Comme Il est beau, celui-là !</s>
+</p>
+</sp>
+<sp who="MONSIEUR DE CRACHETON"><speaker>MONSIEUR DE CRACHETON</speaker><stage type="low">, à demi-voix.
+</stage>
+<p id="2">
+	<s id="1">Charmante enfant.</s>
+</p>
+<stage type="entrance">Il entre dans la Salle du Conseil.</stage>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="3">
+	<s id="1">Monsieur_Lepédura...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LEPÉDURA"><speaker>MONSIEUR LEPÉDURA</speaker><stage type="closer">, s'approchant d'Agnès.
+</stage>
+<p id="4">
+	<s id="1">Salut, jolie personne...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="5">
+	<s id="1">Ce que vous êtes beau !</s>
+</p>
+</sp>
+<sp who="MONSIEUR LEPÉDURA"><speaker>MONSIEUR LEPÉDURA.</speaker>
+<p id="6">
+	<s id="1">Comment le savez-vous ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="7">
+	<s id="1">Par l'amie de votre femme, la baronne_Chagrobis. </s>
+	<s id="2">Elle vous trouve magnifique.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LEPÉDURA"><speaker>MONSIEUR LEPÉDURA.</speaker>
+<p id="8">
+	<s id="1">Ah ! </s>
+	<s id="2">Elle me trouve magnifique, la Baronne_Chagrobis ? </s>
+	<s id="3">Dites-lui le bonjour, en attendant que je le lui dise moi-même. </s>
+	<s id="4">Il est vrai qu'elle n'est pas gâtée, avec le Baron. </s>
+	<s id="5">Elle habite toujours Cité_Volney ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="9">
+	<s id="1">Au 28. </s>
+	<s id="2">Je lui dirai que vous êtes toujours aussi beau.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LEPÉDURA"><speaker>MONSIEUR LEPÉDURA.</speaker>
+<p id="10">
+	<s id="1">N'exagérez rien...</s>
+</p>
+<stage type="low">À demi-voix</stage>
+<p id="11">
+	<s id="1">Elle est délicieuse !</s>
+</p>
+<stage type="exit">Il entre dans la Salle du Conseil.</stage>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER.</speaker>
+<p id="12">
+	<s id="1">Messieurs Rasemutte et Schulze.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="13">
+	<s id="1">Ce qu'il est beau !</s>
+</p>
+</sp>
+<sp who="MONSIEUR RASEMUTTE"><speaker>MONSIEUR RASEMUTTE.</speaker>
+<p id="14">
+	<s id="1">Peut-on savoir, Mademoiselle, auquel des deux votre phrase s'adresse ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="15">
+	<s id="1">Regardez-vous l'un l'autre. </s>
+	<s id="2">Vous le saurez.</s>
+</p>
+<stage type="wqatch">Ils se regardent.</stage>
+</sp>
+<sp who="SCHULZE, RASEMUTTE"><speaker>MESSIEURS SCHULZE ET RASEMUTTE.</speaker>
+<p id="16">
+	<s id="1">Elle est charmante !</s>
+</p>
+<stage type="exit">Ils entrent dans la Salle du Conseil.</stage>
+<stage type="entrance">La tête de Jouvet apparaît.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="17">
+	<s id="1">Vous avez l'air triste. </s>
+	<s id="2">Cela ne va pas ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="18">
+	<s id="1">Cela va trop bien. </s>
+	<s id="2">J'ai déchaîné le diable. </s>
+	<s id="3">J'aurais dû me méfier de votre prénom. </s>
+	<s id="4">Mes lectures du XVIIe auraient dû me rappeler que c'est avec les naïves qu'on fait en un jour les monstres...</s>
+</p>
+</sp>
+<sp who="L'HUISSIER"><speaker>L'HUISSIER</speaker><stage type="declamate">, annonce.
+</stage>
+<p id="19">
+	<s id="1">Monsieur le Président !...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Agnès, Le Président, Mademoiselle Chèvredent.
+</stage>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="1">
+	<s id="1">C'est vous, le phénomène ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="2">
+	<s id="1">Je suis Mademoiselle Agnès.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="3">
+	<s id="1">Qu'est-ce que vous leur faites, Mademoiselle Agnès ? </s>
+	<s id="2">Cette maison que je préside croupissait jusqu'à ce matin dans la tristesse, la paresse, et la crasse. </s>
+	<s id="3">Vous l'avez effleurée, et je ne la connais plus. </s>
+	<s id="4">Mon huissier est devenu poli au point de saluer son ombre sur le mur. </s>
+	<s id="5">Mon secrétaire généra! </s>
+	<s id="6">entend assister au Conseil en bras de chemise. </s>
+	<s id="7">Comme les taches de soleil au printemps, de toutes les poches de ces messieurs surgissent des miroirs où Monsieur_Lepédura contemple avec orgueIl la pomme d'Adam de Monsieur_Lepédura, Monsieur_Rasemutte avec volupté la verrue de Monsieur_Rasemutte ; que leur avez-vous fait ? </s>
+	<s id="8">J'achète à votre prix votre recette. </s>
+	<s id="9">Elle est inestimable. </s>
+	<s id="10">Que leur avez-vous dit ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="4">
+	<s id="1">Comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="5">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="6">
+	<s id="1">Je leur ai dit, j'ai dit à chacun : Comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="7">
+	<s id="1">Par des sourires, des minauderies, des promesses ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="8">
+	<s id="1">Non, à haute et intelligible voix... </s>
+	<s id="2">Comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="9">
+	<s id="1">Merci pour eux. </s>
+	<s id="2">Ainsi les enfants remontent leur poupée mécanique. </s>
+	<s id="3">Mes fantoches sont remontés de frais dans la joie de vivre. </s>
+	<s id="4">Écoutez ces applaudissements ! </s>
+	<s id="5">C'est Monsieur_de_Cracheton qui met aux voix l'achat pour le lavabo d'un miroir à trois faces. </s>
+	<s id="6">Mademoiselle_Agnès, merci !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="10">
+	<s id="1">De rien, je vous assure.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="11">
+	<s id="1">Et le Président, Mademoiselle ? </s>
+	<s id="2">D'où vient que vous ne le dites pas du Président ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="12">
+	<s id="1">Qu'il est beau ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Parce qu'il ne vous paraît pas en mériter la peine ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="14">
+	<s id="1">Certes non !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="15">
+	<s id="1">Parce que c'est assez joué aujourd'hui avec la vanité des hommes ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="16">
+	<s id="1">Voyons, Monsieur le Président ! </s>
+	<s id="2">Vous le savez bien !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="17">
+	<s id="1">Non. </s>
+	<s id="2">Je l'ignore.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="18">
+	<s id="1">Parce qu'il n'est pas besoin de vous le dire. </s>
+	<s id="2">Parce que vous êtes beau !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="19">
+	<s id="1">Répétez, je vous prie !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="20">
+	<s id="1">Parce que vous êtes beau.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="21">
+	<s id="1">Réfléchissez bien, Mademoiselle... </s>
+	<s id="2">L'instant est grave. </s>
+	<s id="3">Vous êtes bien sûre que vous me trouvez beau ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="22">
+	<s id="1">Je ne vous vois pas beau. </s>
+	<s id="2">Vous êtes beau.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="23">
+	<s id="1">Vous seriez prête à le redire devant témoins ? </s>
+	<s id="2">Devant l'huissier ? </s>
+	<s id="3">Réfléchissez. </s>
+	<s id="4">J'ai à prendre aujourd'hui une série de décisions qui me mèneront aux pôles les plus contraires, selon que je suis beau ou laid.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="24">
+	<s id="1">À le redire. </s>
+	<s id="2">À l'affirmer. </s>
+	<s id="3">Certainement.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="25">
+	<s id="1">Merci, mon_Dieu.</s>
+</p>
+<stage type="call">Il appelle.</stage>
+<p id="26">
+	<s id="1">Mademoiselle_Chèvredent !</s>
+</p>
+<stage type="entrance">Entre Mademoiselle Chèvredent.</stage>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="27">
+	<s id="1">Chèvredent, depuis trois ans vous exercez les hautes fonctions de secrétaire particulière. </s>
+	<s id="2">Depuis trois ans, il ne s'est point écoulé de matin et d'après-midi où la perspective de vous trouver dans mon bureau ne m'ait donné la nausée. </s>
+	<s id="3">Ce n'est point seulement que la maussaderie pousse sur votre peau comme l'agaric sur l'écorce, infiniment plus douce au toucher d'ailleurs, du châtaignier. </s>
+	<s id="4">Parce que vous étiez laide, j'ai eu le faible de vous croire généreuse. </s>
+	<s id="5">Or vous reprenez deux_francs dans la sébile de l'aveugle contre votre pièce de vingt_sous. </s>
+	<s id="6">Ne niez pas. </s>
+	<s id="7">C'est lui qui me l'a dit. </s>
+	<s id="8">Parce que vous avez une moustache, j'ai cru que vous aviez du coeur. </s>
+	<s id="9">Or ces aboiements déchirants de mon fox endormi sous votre table, que vous m'expliquiez par ses rêves de chasse à la panthère, étaient provoqués en fait par vos pinçons. </s>
+	<s id="10">Mille jours j'ai supporté de vivre avec quelqu'un qui me déteste, me méprise, et me trouve laid. </s>
+	<s id="11">Car vous me trouvez laid, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="28">
+	<s id="1">Oui. </s>
+	<s id="2">Un singe.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="29">
+	<s id="1">Parfait. </s>
+	<s id="2">Maintenant écoutez. </s>
+	<s id="3">Les yeux de Mademoiselle paraissent à première vue mieux qualifiés que les vôtres pour voir. </s>
+	<s id="4">La paupière n'en est point rouge, la prunelle délavée, le cil chassieux. </s>
+	<s id="5">Le soleil l'habite, et l'eau des sources. </s>
+	<s id="6">Or comment suis-je réellement, Mademoiselle_Agnès ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="30">
+	<s id="1">Beau ! </s>
+	<s id="2">Très beau !</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="31">
+	<s id="1">Quelle imposture !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="32">
+	<s id="1">Taisez-vous, Chèvredent. </s>
+	<s id="2">Jetez un dernier regard sur moi. </s>
+	<s id="3">Cette appréciation désintéressée de mon charme d'homme n'a pas modifié la vôtre ?</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="33">
+	<s id="1">Vous voulez rire !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="34">
+	<s id="1">J'en prends note. </s>
+	<s id="2">Voici donc le problème tel qu'il se pose : j'ai le choix de passer ma journée entre une personne affreuse qui me trouve laid et une personne ravissante qui me trouve beau. </s>
+	<s id="3">Tirez les conséquences. </s>
+	<s id="4">Choisissez pour moi...</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="35">
+	<s id="1">Cette folle me remplace ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="36">
+	<s id="1">À l'instant. </s>
+	<s id="2">Si elle le désire.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="37">
+	<s id="1">Quelle honte ! </s>
+	<s id="2">Je monte prévenir Mademoiselle.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="38">
+	<s id="1">Prévenez-la. </s>
+	<s id="2">Je l'attends de pied ferme.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE CHÈVREDENT"><speaker>MADEMOISELLE CHÈVREDENT.</speaker>
+<p id="39">
+	<s id="1">Si vous tenez à vos potiches en cloisonné, vous ferez mieux de me suivre.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="40">
+	<s id="1">J'ai fait le deuil de mes potiches : vous venez de le voir.</s>
+</p>
+<stage type="exit">Exit Mademoiselle Chèvredent.</stage>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="41">
+	<s id="1">Je regrette, Monsieur_le_Président !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="42">
+	<s id="1">Félicitez-moi. </s>
+	<s id="2">Vous arrivez en archange au moment crucial de ma vie, car j'apportais à cette dame dont Mademoiselle_Chèvredent me menace une bague de fiançailles... </s>
+	<s id="3">C'est ce diamant... </s>
+	<s id="4">Est-ce qu'il vous plaît ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="43">
+	<s id="1">Comme il est beau !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="44">
+	<s id="1">Étonnant ! </s>
+	<s id="2">Je vous surveillais. </s>
+	<s id="3">Vous avez dit «comme il est beau» pour le diamant avec la même conviction que pour moi ! </s>
+	<s id="4">Est-ce qu'il serait terne, et plein de crapauds ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="45">
+	<s id="1">Il est magnifique. </s>
+	<s id="2">Vous aussi.</s>
+</p>
+<stage type="noise">On entend Thérèse qui vient.</stage>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="46">
+	<s id="1">Je dois l'être déjà un tout petit peu moins : voici Thérèse.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Agnès, Le Président, Thérèse, Jouvet.
+</stage>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="1">
+	<s id="1">Que je vous présente !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="2">
+	<s id="1">Présentation inutile et sans le moindre avenir... </s>
+	<s id="2">Sortez, Mademoiselle !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="3">
+	<s id="1">Agnès remplace Chèvredent, et restera.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="4">
+	<s id="1">Agnès ? </s>
+	<s id="2">En dix minutes, le prénom de Mademoiselle est déjà tout nu ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="5">
+	<s id="1">Tout nu et virginal. </s>
+	<s id="2">C'est le privilège de ce prénom.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="6">
+	<s id="1">Et peut-on savoir pourquoi Agnès remplace Chèvredent ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="7">
+	<s id="1">Parce qu'elle me trouve beau.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="8">
+	<s id="1">Tu deviens fou ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="9">
+	<s id="1">Non. </s>
+	<s id="2">Je deviens beau.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="10">
+	<s id="1">Tu sais ce que tu étais ce matin ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="11">
+	<s id="1">Ce matin, j'étais un homme à jambes légèrement arquées, au teint blafard, à la dent molle. </s>
+	<s id="2">J'étais ce que tu me voyais.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="12">
+	<s id="1">Je te vois encore.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Oui, mais Agnès me voit aussi. </s>
+	<s id="2">Je préfère son oeil. </s>
+	<s id="3">Du moins j'espère que malgré ta présence elle continue à me voir aussi beau.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="14">
+	<s id="1">Je dois dire que l'animation vous embellit encore !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="15">
+	<s id="1">Quelle éhontée !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="16">
+	<s id="1">Tu entends ! Je ne lui ai pas fait dire. </s>
+	<s id="2">L'animation m'embellit encore, dit Agnès. </s>
+	<s id="3">Et l'on sent que si j'étais près d'Agnès endormi, ou rageur, ou transpirant, Agnès trouverait que l'inconscience, la hargne, ou la sueur m'embellissent encore. </s>
+	<s id="4">Vous souriez, Agnès ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="17">
+	<s id="1">Oui, c'est beau, un homme intelligent qui est brave.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="18">
+	<s id="1">Cela le fait ressembler à s'y méprendre à Turenne et à Bayard, sans doute ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="19">
+	<s id="1">Oh, non ! </s>
+	<s id="2">Monsieur le Président est plus classique : à l'Apollon_de_Bellac, tout simplement.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="20">
+	<s id="1">Quelle femme !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="21">
+	<s id="1">Quelle femme ! </s>
+	<s id="2">La vraie femme ! </s>
+	<s id="3">Entends-moi bien, Thérèse, pour la dernière fois. </s>
+	<s id="4">Les femmes sont en ce bas monde pour nous dire ce qu'Agnès nous dit. </s>
+	<s id="5">On ne les a pas arrachées au fer de notre propre côte, pour qu'elles achètent des bas sans tickets, se lamentent sur la mauvaise foi des dissolvants pour ongles, ou médisent de leurs soeurs les femmes. </s>
+	<s id="6">Elles sont sur terre pour dire aux hommes qu'ils sont beaux. </s>
+	<s id="7">Et celles qui doivent le plus dire aux hommes qu'ils sont beaux, ce sont les plus belles. </s>
+	<s id="8">Et ce sont celles-là d'ailleurs qui le disent. </s>
+	<s id="9">Cette jeune femme me dit que je suis beau. </s>
+	<s id="10">C'est qu'elle est belle. </s>
+	<s id="11">Tu me répètes que je suis laid. </s>
+	<s id="12">Je m'en suis toujours douté : tu es une horreur !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET</speaker><stage type="exit">, sort de son réduit.
+</stage>
+<p id="22">
+	<s id="1">Bravo ! </s>
+	<s id="2">Bravo !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="23">
+	<s id="1">Quel est cet autre fou ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="24">
+	<s id="1">Bravo, Président, et pardon si j'interviens. </s>
+	<s id="2">Mais quand ce débat touche au coeur même de la vie humaine, comment me retenir ! </s>
+	<s id="3">Depuis Adam et Ève, Samson et Dalila, Antoine et Cléopâtre, la question homme-femme reste entière et pendante entre les sexes. </s>
+	<s id="4">Si nous pouvions la régler une fois pour toutes aujourd'hui, ce sera tout bénéfice pour l'humanité !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="25">
+	<s id="1">Et nous sommes sur la voie, d'après vous ? </s>
+	<s id="2">Et la solution ne peut pas être remise à demain ? </s>
+	<s id="3">Car je suis très pressée, Monsieur. </s>
+	<s id="4">On m'attend là-haut pour ma fourrure de fiançailles !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="26">
+	<s id="1">Nous sommes sur la voie. </s>
+	<s id="2">Et le Président vient de poser superbement le problème !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="27">
+	<s id="1">Superbement !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="28">
+	<s id="1">Superbement !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="29">
+	<s id="1">En homme superbe, voulez-vous dire, sans doute, Mademoiselle ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="30">
+	<s id="1">Je ne l'ai pas dit, mais je peux le dire. </s>
+	<s id="2">Je dis ce que je pense !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="31">
+	<s id="1">Quelle menteuse !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="32">
+	<s id="1">Je t'interdis d'insulter Agnès !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="33">
+	<s id="1">C'est elle qui m'insulte.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="34">
+	<s id="1">On t'insulte quand on me trouve beau ! </s>
+	<s id="2">Tu viens de révéler le fond de ton âme !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="35">
+	<s id="1">Agnès n'a pas menti avec le Président. </s>
+	<s id="2">Et Cléopâtre a dit la vérité à César, et Dalila à Samson. </s>
+	<s id="3">Et la vérité c'est qu'ils sont tous beaux, les hommes, et toujours beaux, et c'est la femme qui le leur dit qui ne ment pas.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="36">
+	<s id="1">Bref, c'est moi la menteuse !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="37">
+	<s id="1">C'est vous l'aveugle. </s>
+	<s id="2">Car il suffit vraiment, pour les trouver beaux, de regarder les hommes dans leur souffle et leur exercice. </s>
+	<s id="3">Et chacun a sa beauté, ses beautés. </s>
+	<s id="4">Sa beauté de corps : ceux qui sont massifs tiennent bien à la terre. </s>
+	<s id="5">Ceux qui sont dégingandés pendent bien du ciel. </s>
+	<s id="6">Sa beauté d'occasion : le bossu sur le faîte de Notre-Dame est un chef-d'oeuvre et ruisselle de beauté gothique. </s>
+	<s id="7">Il suffit de l'y amener. </s>
+	<s id="8">Sa beauté d'emploi enfin : le déménageur a sa beauté de déménageur. </s>
+	<s id="9">Le Président de Président. </s>
+	<s id="10">Le seul mécompte, c'est quand ils les échangent, quand le déménageur prend la beauté du Président, le Président du déménageur.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="38">
+	<s id="1">Mais ce n'est pas le cas.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="39">
+	<s id="1">Non. </s>
+	<s id="2">Il a plutôt celle du ramasseur de cigares.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="40">
+	<s id="1">Thérèse, je sais aussi bien que toi à quoi m'en tenir sur mes avantages physiques !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="41">
+	<s id="1">Tu es laid !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="42">
+	<s id="1">Tais-toi.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="43">
+	<s id="1">Tu es laid. </s>
+	<s id="2">Tout mon être te le crie. </s>
+	<s id="3">Cette femme, elle arrive juste à forcer sa bouche à proférer son mensonge. </s>
+	<s id="4">Mais tout de moi : mon coeur, mes artères, mes bras, te crient la vérité ! Mes jambes !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="44">
+	<s id="1">La bouche d'Agnès vaut ton tibia...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="45">
+	<s id="1">Elle vient d'avouer !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="46">
+	<s id="1">Mais qu'est-ce qu'ils ont tous contre moi ? </s>
+	<s id="2">Qu'est-ce que je viens d'avouer ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="47">
+	<s id="1">Votre faute ! </s>
+	<s id="2">Votre crime ! </s>
+	<s id="3">Comment voulez-vous que le Président soit beau avec un entourage, dans un décor qui lui ressasse qu'il est laid !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="48">
+	<s id="1">Un décor ! </s>
+	<s id="2">Bravo, je comprends !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="49">
+	<s id="1">Tu comprends quoi ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="50">
+	<s id="1">Cette gêne qui me prenait non seulement devant toi, mais devant tout ce qui est toi ou à toi, tes vêtements, tes objets. </s>
+	<s id="2">Ton jupon oublié sur un dos de fauteuil me raccourcissait de dix centimètres l'échiné, comment aurais-je eu mes vraies dimensions ? </s>
+	<s id="3">Tes bas sur un guéridon, et je me sentais une jambe plus courte que l'autre. </s>
+	<s id="4">Ta lime à ongles sur la table, et il me manquait un doigt : ils me disaient que j'étais laid. </s>
+	<s id="5">Et ta pendule en onyx des Alpes me le répétait chaque seconde. </s>
+	<s id="6">Et ton Gaulois mourant sur la cheminée ! </s>
+	<s id="7">Pourquoi avais-je froid, à regarder le feu ? </s>
+	<s id="8">C'est que ton Gaulois mourant me répétait dans son râle que j'étais laid. </s>
+	<s id="9">Il disparaîtra dès ce soir. </s>
+	<s id="10">Je ne tiendrai plus mes vérités et mon teint que de la flamme !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="51">
+	<s id="1">Tu ne toucheras pas à mon Gaulois mourant.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<note type="L">Bayadère : Femme indienne dont la profession est de danser devant les temples ou pagodes. [L]</note>
+<p id="52">
+	<s id="1">Il sera ce soir à la fonte. </s>
+	<s id="2">Avec les autres conjurés. </s>
+	<s id="3">Avec ton page florentin, qui de ses cuisses gantées insultait les miennes, avec ta bayadère à la grenouille qui de son ombilic tournait mon pauvre nombril en dérision. </s>
+	<s id="4">Jusqu'à tes chaises_Directoire à dessus de crin qui disaient à mon derrière que je suis laid, et en le grattant. </s>
+	<s id="5">À l'Hôtel_des_Ventes !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="53">
+	<s id="1">Tu ne vendras pas mes chaises_Directoire !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="54">
+	<s id="1">Bien ! </s>
+	<s id="2">Je les donnerai. </s>
+	<s id="3">Comment est-ce, chez vous, Agnès ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="55">
+	<s id="1">Mes chaises ? </s>
+	<s id="2">Elles sont en velours.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="56">
+	<s id="1">Merci, velours. </s>
+	<s id="2">Et sur la table ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="57">
+	<s id="1">Sur la table, j'ai des fleurs. </s>
+	<s id="2">Aujourd'hui des roses.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<note type="L">Ricin : Plante exotique de la famille des euphorbiacées. [L]</note>
+<p id="58">
+	<s id="1">Merci, roses ! </s>
+	<s id="2">Merci, anémones ! </s>
+	<s id="3">Merci, glycines et ricins sauvages ! </s>
+	<s id="4">Et sur la cheminée ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="59">
+	<s id="1">Un miroir.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="60">
+	<s id="1">Merci, miroirs ! </s>
+	<s id="2">Merci, reflets ! </s>
+	<s id="3">Merci à tout ce qui me renverra désormais mon image ou ma voix ! </s>
+	<s id="4">Merci, bassins_de_Versailles ! </s>
+	<s id="5">Merci, écho !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="61">
+	<s id="1">J'avais laissé Oscar. </s>
+	<s id="2">Je retrouve Narcisse.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="62">
+	<s id="1">Le seul narcissisme est de trouver les autres laids. </s>
+	<s id="2">Voyons, Madame, comment le Président pouvait-il être inspiré pour ses lettres ou pour ses notes sous des yeux aussi peu indulgents !</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="63">
+	<s id="1">C'est seul, sous les yeux de mon pauvre chien, que j'ai rédigé mes meilleures circulaires.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="64">
+	<s id="1">Parce que l'oeil du chien est fidèle et vous voit tel que vous êtes. </s>
+	<s id="2">Et un lion vous aurait inspiré des circulaires plus éloquentes encore, car le lion voit trois fois grandeur nature et à double relief.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="65">
+	<s id="1">Il va mettre des lions dans notre appartement.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="66">
+	<s id="1">Je n'y mettrai pas de lion. </s>
+	<s id="2">Mais le cheval du Gaulois mourant et la grenouille de la bayadère vont en sortir par les fenêtres.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="67">
+	<s id="1">Si tu les touches, c'est moi qui pars.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="68">
+	<s id="1">À ta guise !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<note type="L">Courte-pointe : Couverture de lit pour la parade. </note>
+<p id="69">
+	<s id="1">Mais enfin, quels sont ces bourreaux ? </s>
+	<s id="2">Je t'ai donné sans réserve ma vie et mes talents. </s>
+	<s id="3">Je partage un lit dont j'ai brodé la courte-pointe et égalisé la laine. </s>
+	<s id="4">Est-ce que tu glisses, dans ton lit ? </s>
+	<s id="5">Tu n'as jamais eu un rôti trop grillé, un café trop clair. </s>
+	<s id="6">Tu es, grâce à moi, un des rares hommes dont on puisse assurer que son mouchoir est du jour, que son orteIl n'est pas nu dans son soulier, - est-ce qu'il y est nu, ton orteil  ? </s>
+	<s id="7">- Et les mites, aux abords de l'hiver, cherchent en vain au-dessus de tes complets la tache d'huile ou de graisse qui leur permettrait d'atterrir... </s>
+	<s id="8">Quel est ce procès que vous faites à l'honneur des femmes et des ménages ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="70">
+	<s id="1">Un mot. </s>
+	<s id="2">Me dis-tu que je suis laid, parce que tu me trouves laid, ou parce que cela t'amuse et te venge de me le dire ?</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="71">
+	<s id="1">Parce que tu es laid.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="72">
+	<s id="1">Bon, continue...</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="73">
+	<s id="1">Et voici que survient cette femme. </s>
+	<s id="2">Du premier coup d'oeIl on devine le lot de l'homme qui vivra avec elle. </s>
+	<s id="3">Des pantoufles dont la semelle intérieure gondole. </s>
+	<s id="4">La lecture du soir dans le lit avec un seul coupe-papier qu'on se dispute, et une lampe de chevet qu'on allume de la porte. </s>
+	<s id="5">Des vêtements qui jamais ne seront sondés à leur point défaillant. </s>
+	<s id="6">Des jours d'entérite sans bismuth, de froid sans bouillotte, de moustiques sans citronnelle...</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="74">
+	<s id="1">Agnès, me dites-vous que je suis beau, parce que vous me trouvez beau, ou pour rire de moi ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="75">
+	<s id="1">Parce que vous êtes beau.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="76">
+	<s id="1">Épousez-le, alors, si vous le trouvez si beau ! </s>
+	<s id="2">Vous savez qu'il est riche !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="77">
+	<s id="1">Eût-il des millions, cela ne m'empêchera pas de le trouver beau.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="78">
+	<s id="1">Et toi, qu'attends-tu pour lui offrir ta main ?</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="79">
+	<s id="1">Je n'attends plus rien. </s>
+	<s id="2">Je la lui offre. </s>
+	<s id="3">Et je n'ai aucun remords. </s>
+	<s id="4">Jésus aussi a préféré Madeleine.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="80">
+	<s id="1">Prenez-la, car moi j'y renonce. </s>
+	<s id="2">Prenez-la, si vous aimez les ronflements la nuit.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="81">
+	<s id="1">Vous ronflez ! </s>
+	<s id="2">Quelle chance. </s>
+	<s id="3">Dans mes insomnies j'ai si peur du silence.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="82">
+	<s id="1">Si vous aimez les rotules proéminentes.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="83">
+	<s id="1">Je n'aime pas en tout cas les jambes trop pareilles. </s>
+	<s id="2">Je n'aime pas les quilles.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="84">
+	<s id="1">Et les poitrines de clochard.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="85">
+	<s id="1">Oh, Madame ! </s>
+	<s id="2">Quel mensonge ! </s>
+	<s id="3">Je suis tout ce qu'il y a de plus difficile pour les poitrines.</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="86">
+	<s id="1">Il n'a pas la poitrine d'un clochard ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="87">
+	<s id="1">Non, Madame. </s>
+	<s id="2">D'un croisé !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="88">
+	<s id="1">Et ce front, ce front de goitreux, c'est le front d'un Burgrave ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="89">
+	<s id="1">Oh ! </s>
+	<s id="2">Certes non, d'un roi !</s>
+</p>
+</sp>
+<sp who="THÉRÈSE"><speaker>THÉRÈSE.</speaker>
+<p id="90">
+	<s id="1">C'en est trop. </s>
+	<s id="2">Adieu. </s>
+	<s id="3">Je me réfugie dans le monde où la laideur existe.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="91">
+	<s id="1">Tu l'emportes avec toi. </s>
+	<s id="2">Tu l'as en pellicule sur l'âme et sur les yeux...</s>
+</p>
+<stage type="exit">Exit Thérèse.</stage>
+<p id="92">
+	<s id="1">Et maintenant, Agnès, en gage d'un heureux avenir, acceptez ce diamant. </s>
+	<s id="2">Puisque vous voulez bien comparer ma beauté à la sienne, je saurai moi aussi m'éclairer et miroiter sous vos regards. </s>
+	<s id="3">Je vous demande une minute. </s>
+	<s id="4">Je vais annoncer nos fiançailles au Conseil. </s>
+	<s id="5">Huissier, descendez et raflez tous les camélias du dix-huitième pour toutes les boutonnières, et vous, Monsieur, à qui je dois tant aujourd'hui, j'espère que vous voudrez bien partager notre repas... </s>
+	<s id="6">Embrassez-moi, ma douce Agnès... </s>
+	<s id="7">Vous hésitez ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="93">
+	<s id="1">J'hésite aussi à regarder mon diamant.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="94">
+	<s id="1">À tout de suite, Agnès du plus heureux des hommes !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="95">
+	<s id="1">Du plus beau...</s>
+</p>
+<stage type="exit">Exit le Président.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Agnès, Jouvet, Le Président, L'Huissier, Les Membres du Conseil.
+</stage>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="1">
+	<s id="1">Une place, un mari, un diamant ! </s>
+	<s id="2">Je puis vous quitter, Agnès. </s>
+	<s id="3">Il ne vous manque plus rien.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="2">
+	<s id="1">Si.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="3">
+	<s id="1">Vous êtes insatiable...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="4">
+	<s id="1">Regardez-moi. </s>
+	<s id="2">Je n'ai pas changé depuis ce matin ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="5">
+	<s id="1">Vous êtes un petit peu plus émue, petit un peu plus grasse, un petit peu plus tendre...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="6">
+	<s id="1">C'est votre faute. </s>
+	<s id="2">À force de répéter votre mot, j'ai gagné une envie. </s>
+	<s id="3">Pourquoi m'avoir forcée à dire qu'ils sont beaux à tous ces gens si laids ? </s>
+	<s id="4">Je me sens à point pour dire qu'il est beau à quelqu'un de vraiment beau, j'ai besoin de cette récompense et de cette punition. </s>
+	<s id="5">Trouvez-le moi.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="7">
+	<s id="1">Le jour est beau. </s>
+	<s id="2">L'automne est beau.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="8">
+	<s id="1">Ils sont si loin de moi. </s>
+	<s id="2">Et on ne touche pas le jour. </s>
+	<s id="3">Et on n'étreint pas l'automne. </s>
+	<s id="4">Je voudrais dire qu'elle est belle à la plus belle forme humaine.</s> 
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="9">
+	<s id="1">Et la caresser un tout petit peu ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="10">
+	<s id="1">Et la caresser.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="11">
+	<s id="1">Vous avez l'Apollon_de_Bellac...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="12">
+	<s id="1">Mais il n'existe pas !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="13">
+	<s id="1">Vous en demandez trop. </s>
+	<s id="2">Qu'il existe ou non, il est la suprême beauté.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="14">
+	<s id="1">Vous avez raison. </s>
+	<s id="2">Je ne vois bien que ce que je touche. </s>
+	<s id="3">Je n'ai pas d'imagination.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="15">
+	<s id="1">Apprenez votre pensée à toucher. </s>
+	<s id="2">Supposez qu'il nous arrive ce qui arrive dans les pièces qui ont de la tradition, ce qui devrait arriver dans une vie qui se respecte...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="16">
+	<s id="1">Que soudain vous soyez beau ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="17">
+	<s id="1">Merci. </s>
+	<s id="2">Avec moi du moins vous restez franche. </s>
+	<s id="3">C'est presque cela... </s>
+	<s id="4">Supposez que c'est le dieu de la beauté même qui vous ait visitée ce matin. </s>
+	<s id="5">C'est d'ailleurs peut-être vrai. </s>
+	<s id="6">C'est ce qui vous a vernie, et vous émeut, et vous oppresse... </s>
+	<s id="7">Et que soudain il se dévoile. </s>
+	<s id="8">Et que c'est moi. </s>
+	<s id="9">Et que je vous apparaisse dans ma vérité et mon soleil. </s>
+	<s id="10">Regardez-moi. </s>
+	<s id="11">Regardez l'Apollon_de_Bellac.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="18">
+	<s id="1">Je vous regarde. </s>
+	<s id="2">Vous êtes bien gentil.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="19">
+	<s id="1">Voulez-vous bien fermer les yeux !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="20">
+	<s id="1">Mes mains n'en sont pas plus satisfaites.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="21">
+	<s id="1">Vous ne me voyez pas maintenant.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS</speaker><stage type="watch">, les yeux fermés.
+</stage>
+<p id="22">
+	<s id="1">Comment êtes-vous ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="23">
+	<s id="1">Tutoyez-moi. </s>
+	<s id="2">Apollon exige le suprême respect.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="23">
+	<s id="1">Comment es-tu ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="24">
+	<s id="1">Des détails naturellement. </s>
+	<s id="2">En voici. </s>
+	<s id="3">Ma taille est une_fois_et_demie la taille humaine. </s>
+	<s id="4">Ma tête est petite, et mesure le septième de mon corps. </s>
+	<s id="5">L'idée de l'équerre est venue aux géomètres de mes épaules, et l'idée de l'arc à Diane de mes sourcils. </s>
+	<s id="6">Je suis nu, et l'idée des cuirasses est venue aux orfèvres de cette nudité...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="25">
+	<s id="1">Avec des ailes à tes pieds ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<note type="C">Saint-Yrieix-la-Perche est une commune de la Haute-Vienne à 40km au sud de Limoges.</note>
+<p id="26">
+	<s id="1">Non. </s>
+	<s id="2">Celui qui a des ailes aux pieds, c'est l'Hermès_de_Saint_Yrieix.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="27">
+	<s id="1">Je n'arrive pas à te voir. </s>
+	<s id="2">Ni tes yeux. </s>
+	<s id="3">Ni tes pieds...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="28">
+	<s id="1">Pour les yeux, tu y gagnes. </s>
+	<s id="2">Les yeux de la beauté sont implacables. </s>
+	<s id="3">Mes yeux sont d'or blanc et mes prunelles de graphite. </s>
+	<s id="4">L'idée de la mort est venue aux hommes des yeux de la beauté. </s>
+	<s id="5">Mais les pieds de la beauté sont ravissants. </s>
+	<s id="6">Ils sont ce qui ne marche pas, ce qui ne touche pas terre, ce qui n'est jamais maculé, jamais prisonnier. </s>
+	<s id="7">Les doigts en sont annelés et fuselés. </s>
+	<s id="8">Le second avance extraordinairement sur l'orteil, et, de la cambrure, l'idée est venue aux poètes de l'orbe et de la dignité. </s>
+	<s id="9">Tu me vois, maintenant ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="29">
+	<s id="1">Mal. </s>
+	<s id="2">Moi, j'ai de pauvres yeux d'agate et d'éponge. </s>
+	<s id="3">Tu leur fais jouer un jeu cruel. </s>
+	<s id="4">Ils ne sont pas faits pour voir la beauté suprême. </s>
+	<s id="5">Elle leur fait plutôt mal.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="30">
+	<s id="1">Ton coeur en tout cas en profite.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="31">
+	<s id="1">J'en doute. </s>
+	<s id="2">Ne compte pas trop sur moi. </s>
+	<s id="3">Tu sais, j'ai une petite vie. </s>
+	<s id="4">Ma journée est médiocre, et chaque fois que je gagne ma chambre, j'ai cinq étages à monter dans la pénombre et le graillon. </s>
+	<s id="5">À mon travaIl ou mon repos toujours il y a cette préface de cinq étages, et ce que j'y suis seule ! </s>
+	<s id="6">Parfois heureusement un chat attend à une porte. </s>
+	<s id="7">Je le caresse. </s>
+	<s id="8">Une bouteille de lait est renversée. </s>
+	<s id="9">Je la redresse. </s>
+	<s id="10">Si cela sent le gaz, j'alerte le concierge. </s>
+	<s id="11">Il y a entre le second et le troisième un tournant où les marches sont inclinées par le tassement et par l'âge. </s>
+	<s id="12">À ce tournant, l'espoir vous abandonne. </s>
+	<s id="13">À ce tournant, mon pauvre équilibre balance, et je souffre de cette peine que les plus fortunés ont à la poupe des vaisseaux. </s>
+	<s id="14">Voilà ma vie ! </s>
+	<s id="15">Elle est d'ombre et de chair compressée, un peu meurtrie. </s>
+	<s id="16">Voilà ma conscience : c'est une cage d'escalier. </s>
+	<s id="17">Alors, que j'hésite à t'imaginer tel que tu es, c'est pour ma défense. </s>
+	<s id="18">Ne m'en veuille pas...</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="32">
+	<s id="1">Tu vas être désormais une des heureuses du monde, Agnès.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="33">
+	<s id="1">Oui. </s>
+	<s id="2">Dans la cage d'escalier d'ici, les paillassons sont neufs et ont des initiales. </s>
+	<s id="3">Les vasistas sont de vitraux de fleurs ou d'oiseaux où le ventre de l'ibis s'ouvre pour l'aération. </s>
+	<s id="4">Et aucune marche ne flanche. </s>
+	<s id="5">Et le bâtiment ne se dérobe jamais sous vos pieds dans le roulis du soir et de la ville. </s>
+	<s id="6">Mais y monter avec toi serait plus dur encore. </s>
+	<s id="7">Alors, ne me rends pas la tâche trop dure. </s>
+	<s id="8">Va-t'en pour toujours ! </s>
+	<s id="9">Ah ! </s>
+	<s id="10">Si tu étais seulement un bel homme, bien dense en chair et en âme, ce que je te prendrais dans mes bras ! </s>
+	<s id="11">Ce que je serrerais ! </s>
+	<s id="12">Je te vois en ce moment à peu près tel que tu dois être, distendu de beauté, avec tes hanches minces d'où l'idée est venue aux femmes d'avoir des garçons, tes frisons au haut des joues d'où leur est venue l'idée des filles, et ce halo autour de toi, d'où leur est venue l'idée des pleurs, mais tu es trop brillant et trop grand pour mon escalier. </s>
+	<s id="13">Celui que je ne peux pas serrer contre moi dans mon escalier n'est pas pour moi. </s>
+	<s id="14">J'y regarderai mon diamant. </s>
+	<s id="15">Un diamant va même dans un ascenseur. </s>
+	<s id="16">Va-t'en, Apollon ! </s>
+	<s id="17">Disparais quand j'ouvrirai les yeux.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="34">
+	<s id="1">Si je disparais, tu retrouveras un humain médiocre comme toi, des peaux autour des yeux, des peaux autour du corps.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="35">
+	<s id="1">Je le préfère. </s>
+	<s id="2">Laisse-moi t'embrasser. </s>
+	<s id="3">Et disparais.</s>
+</p>
+<stage type="kiss">Ils s'embrassent.</stage>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="36">
+	<s id="1">Voilà. </s>
+	<s id="2">Apollon est parti, et je pars...</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="37">
+	<s id="1">Comme vous êtes beau !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="38">
+	<s id="1">Chère Agnès !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="39">
+	<s id="1">Comme c'est beau la vie dans un homme, quand on vient de voir la beauté dans un chromo... </s>
+	<s id="2">Et vous me laissez, et vous croyez que je vais épouser le Président ?</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="40">
+	<s id="1">Il est bon. </s>
+	<s id="2">Il est riche. </s>
+	<s id="3">Adieu.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="41">
+	<s id="1">Vous allez l'être aussi. </s>
+	<s id="2">Je vais lui ordonner d'acheter l'invention du légume unique. </s>
+	<s id="3">Restez !</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="42">
+	<s id="1">Elle n'est pas encore au point. </s>
+	<s id="2">Son pépin est invisible, sa tige monte à la hauteur du sapin, et Il a goût d'alun. </s>
+	<s id="3">Je reviendrai dès qu'Il sera parfait.</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="43">
+	<s id="1">Vous le jurez.</s>
+</p>
+</sp>
+<sp who="JOUVET"><speaker>JOUVET.</speaker>
+<p id="44">
+	<s id="1">Le matin même. </s>
+	<s id="2">Nous le sèmerons ensemble. </s>
+	<s id="3">Je vous le jure !</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="45">
+	<s id="1">J'achète le jardin.</s>
+</p>
+<stage type="entrance">Il disparaît au moment où le Président entre, camélia à la boutonnière.</stage> 
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="46">
+	<s id="1">Agnès, bonne nouvelle ! </s>
+	<s id="2">Le Conseil, délirant à la nouvelle que la question de la lutte des sexes est enfin résolue, décrète de changer le tapis rayé de l'escalier contre une moquette de Roubaix, en simili-carrelage à bordure de dessins persans. </s>
+	<s id="3">C'est son cadeau de fiançailles. </s>
+	<s id="4">Comment ! </s>
+	<s id="5">Vous êtes seule ! </s>
+	<s id="6">Notre ami n'est pas là ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="47">
+	<s id="1">À l'instant Il s'en va.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="48">
+	<s id="1">Appelez-le. </s>
+	<s id="2">Il déjeune avec nous... </s>
+	<s id="3">Vous savez son nom ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="49">
+	<s id="1">Son prénom seulement... </s>
+	<s id="2">Apollon.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="toward">, à la porte.
+</stage>
+<p id="50">
+	<s id="1">Apollon ! Apollon !</s>
+</p>
+<stage type="entrance/dress">Les membres du ConseIl et l'Huissier arrivent tous fleuris de camélias.</stage>
+<p id="51">
+	<s id="1">Appelez avec moi ! </s>
+	<s id="2">Il faut qu'il remonte !</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>L'HUISSIER</speaker><stage type="location">, dans l'escalier, Messieurs
+RASEMUTTE et SCHULZE, aux fenêtres, MONSIEUR DE CRACHETON, dans une porte.
+</stage>
+<p id="52">
+	<s id="1">Apollon ! </s>
+	<s id="2">Apollon !</s>
+</p>
+</sp>
+<sp who="MONSIEUR LEPÉDURA"><speaker>MONSIEUR LEPÉDURA</speaker><stage type="entrance">, qui entre, à Agnès.
+</stage>
+<p id="53">
+	<s id="1">Apollon est ici ?</s>
+</p>
+</sp>
+<sp who="AGNÈS"><speaker>AGNÈS.</speaker>
+<p id="54">
+	<s id="1">Non... </s>
+	<s id="2">Il est passé !...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

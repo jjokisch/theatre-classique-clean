@@ -1,0 +1,3384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>L'ALGÉRIEN, OU LES MUSES COMÉDIENNES, COMÉDIE-BALLET</title>
+			<author type="texte" ISNI="0000 0001 2098 7795">Louis de CAHUSAC (1706-1759)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE, juillet 2020</editor>
+			<publisher>publié par Paul FIEVRE, août 2020</publisher>
+			<idno>CAHUSAC_ALGERIEN</idno>
+		<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie ballet</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Trois actes et un prologue</structure>
+			<type>vers</type>
+			<periode>1741-1750</periode>
+			<taille>1500-1750</taille>
+			<permalien cote="BnF LLA YF-11307">https://gallica.bnf.fr/ark:/12148/bpt6k56973998</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'ALGÉRIEN</titlePart>
+			<titlePart type="sub">OU LES MUSES COMÉDIENNES.</titlePart>
+			<titlePart type="sub">COMÉDIE-BALLET.</titlePart>
+			<titlePart type="sub">En trois Actes et en Vers.</titlePart>
+			<titlePart type="sub">Précédée d'un Prologue, représentée sur le Théâtre de la Comédie Française le 14 Septembre 1744 à l'occasion de la Convalescence du Roi.</titlePart>
+			<titlePart type="sub">Le Prix est de 30 sols.</titlePart>
+		</docTitle> 
+		<docDate value="1744">M. DCC. XLIV. AVEC PERMISSION.</docDate>
+		<docAuthor id="CAHUSAC, Louis de">Par Mr. DE CAHUSAC</docAuthor>
+		<docImprint>
+			<privilege id=""><head>PRIVILEGE DU ROI.</head>
+				<p>LOUIS, par la grâce de Dieu, Roi de France et de Navarre : À nos amés et féaux Conseillers les Gens tenants nos Cours de Parlement, Maîtres des Requêtes ordinaires de notre Hôtel Grand-Conseil, Prévôt de Paris, Baillifs, Sénéchaux, leurs Lieutenants Civils et autres nos Justiciers qu'il appartiendra : SALUT. Notre bien Amé LAURENT-FRANÇOIS PRAULT, fils, Libraire à Paris, Nous ayant fait remontrer qu'il lui aurait été mis en main un Ouvrage qui a pour titre : Nouveau Théâtre Français, ou Recueil des plus nouvelles pièces représentées a Paris, qu'il souhaite faire et donner au Public s'il Nous plaisait lui accorder nos Lettres de Privilège sur ce nécessaires ; offrant pour cet effet de la faire imprimer en bon papier et beaux caractères suivant la feuille imprimée et attachée pour modèle, sous le contre-scel des présentes. À CES CAUSES, voulant traiter favorablement ledit exposant, Nous lui avons permis et permettons par ces Présentes, de faire imprimer ledit Ouvrage ci-dessus spécifié, en un ou plusieurs volumes, conjointement ou séparément et autant de fois que bon lui semblera, de le vendre, faire vendre et débiter partout notre Royaume pendant le temps de neuf années consécutives, à compter du jour de la date desdites présentes j Faisons défenses à toutes fortes de personnes ; Faisons défense à toutes sortes de personnes de quelque qualité et condition qu'elles soient d'en introduire d'Impression étrangère dans aucun lieu de notre obéissance ; comme aussi à tous Libraires, Imprimeurs et autres d'imprimer faire imprimer, vendre, faire vendre, débiter, ni contrefaire ledit Ouvrage ci-dessus exposé, en tout ni en partie, ni d'en faire aucun extrait sous quelque prétexte que ce soit, d'augmentation, correction, changement de titre ou autrement, sans la permission expresse et par écrit dudit Exposant ou à ceux qui auront droit de lui, à peine de confiscation des exemplaires contrefaits, de trois mille livres d'amende contre chacun des Contrevenants, dont un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, l'autre tiers audit Exposant, et de tous dépens, dommages et intérêts : à la charge que ces présentes seront enregistrées tout au long sur le Registre de la Communauté des Libraires et Imprimeurs de Paris, dans trois mois de la date d'icelles ; que l'impression de cet ouvrage fera faite dans notre Royaume et non ailleurs, et que l'impétrant se conformera en tout aux Règlements de la Librairie, et notamment à celui du 10 Avril 1725, et qu'avant que de l'exposer en vente, le Manuscrit ou imprimé qui aura servi de copie à l'impression dudit Ouvrage sera remis dans le même état où l'Approbation y aura été donnée, es mains de notre très cher et féal Chevalier le sieur d'Aguesseau, Chancelier de France, Commandeur de nos Ordres, et qu'il en sera ensuite remis deux Exemplaires dans notre Bibliothèque publique, un dans celle de notre Château du Louvre et un dans celle de notredit très cher et féal Chevalier le sieur d'Aguesseau, Chevalier de France, Commandeur de nos ordres, le tout à peine de nullité des présentes, du contenu desquelles vous mandons et enjoignons de faire jouir l'exposant ou les ayant-cause, pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchement. Voulons que copie desdites présentes qui sera imprimée tout au long au commencement ou à la fin dudit Ouvrage, soit tenue pour dûment signifiée, et qu'aux copies collationnées par l'un de nos amés et féaux Conseillers et Secrétaires, foi soit ajoutée comme à l'original : commandons au premier notre Huissier ou Sergent, de faire pour l'exécution d'icelles, tous actes requis et nécessaires, sans demander autre permission, nonobstant clameur de Haro, Charte Normande et Lettres à ce contraires. CAR tel est notre plaisir. Donné à Versailles le vingt-deuxième jour du mois d'Août, l'an de grâce mille sept cent trente-huit, et de notre Règne le vingt-troisième. Par le Roi en son Conseil. Signés SAINSON.</p>
+				<p>Registré sur le Registre X. de la Chambré Royale des Libraires et Imprimeurs de Paris, N°104 fol. 93. Conformément aux anciens Règlements confirmés, par celui du 28 Février 1713. À Paris, le vingt-huit Février 1738.</p>
+				<p>Signé, LANGLOIS, Syndic.</p>
+			</privilege>
+			<approbation id="1744-11-20"><head>APPROBATION.</head>
+				<p>J'ai lu par ordre de Monseigneur le Chancelier, une Comédie qui a pour titre L'Algérien, et je crois que l'on en peut permettre l'impression, ce 20 novembre 1744.</p>
+				<p>Signé CRÉBILLON.</p>
+			</approbation>
+			<editor type="PRAULT">À PARIS, Chez PRAULT Fils, Quai de Conti, vis-à-vis la descente du Pont-Neuf, à la Charité.</editor>
+		</docImprint>
+	<castList>
+		<head>ACTEURS DU PROLOGUE.</head>
+		<castItem><role id="APOLLON" sex="1" type="D" statut="dieu" age="A" stat_amour="néant">APOLLON</role>, M. Grandval.</castItem>
+		<castItem><role id="MELPOMÈNE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">MELPOMÈNE</role>, Mlle. Dumesnil.</castItem>
+		<castItem><role id="THALIE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">THALIE</role>, Melle. Gaussin.</castItem>
+		<castItem><role id="CLIO" sex="1" type="D" statut="muse" age="A" stat_amour="néant">CLIO</role>, Melle Grandval.</castItem>
+		<castItem><role id="URANIE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">URANIE</role>, Melle Dangevìlle.</castItem>
+		<castItem><role id="LA SATIRE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">LA SATIRE</role>, M. Sarrazin.</castItem>
+		<castItem><role id="ERATO" sex="1" type="D" statut="muse" age="A" stat_amour="néant">ERATO</role>.</castItem>
+		<castItem><role id="EUTERPE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">EUTERPE</role>.</castItem>
+		<castItem><role id="CALLIOPE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">CALLIOPE</role>, Melle. Clairon.</castItem>
+		<castItem><role id="POLYMNIE" sex="1" type="D" statut="muse" age="A" stat_amour="néant">POLYMNIE</role>, Mlle. Gantier.</castItem>
+		<castItem><role id="LES ARTS et LES TALENS" sex="2" type="A" statut="allégorie" age="A" stat_amour="néant">LES ARTS et LES TALENS</role>.</castItem>
+		<castItem><role id="LA RENOMMÉE" sex="1" type="A" statut="allégorie" age="A" stat_amour="néant">LA RENOMMÉE</role>.</castItem>
+	</castList>
+	<castList><head>ACTEURS DE LA COMÉDIE.</head>
+		<castItem><role id="HASSAN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">HASSAN</role>, riche Algérien, représenté par el muse d ela Satire.</castItem> 
+		<castItem><role id="CLARICE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">CLARICE</role>, jeune française, représentée par Thalie.</castItem> 
+		<castItem><role id="DORISE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">DORISE</role>, tante de Clarice, représentée par Melpomène.</castItem> 
+		<castItem><role id="ISABELLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">ISABELLE</role>, jeune française, représentée par Clio.</castItem> 
+		<castItem><role id="AXÉLIE" sex="2" type="H" statut="esclave" age="J" stat_amour="néant">AXÉLIE</role>, jeune esclave turque, représentée par Uranie.</castItem> 
+		<castItem><role id="D'OBERVAL" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">D'OBERVAL</role>, jeune français, ami d'Hassan, représentée par Apollon.</castItem> 
+		<castItem><role id="OSMIN" sex="1" type="H" statut="esclave" age="A" stat_amour="néant">OSMIN</role>, esclave d'Hassan, représenté par la Renommée.</castItem> 
+		<castItem><role id="SUITE D'ESCLAVES" sex="9" type="H" statut="suite" age="A" stat_amour="néant">SUITE D'ESCLAVES</role>.</castItem> 
+	</castList>
+	<set location="Alger" country="Algérie" periode="XVIIIème" gps="36.752887, 3.042048"/>
+</front>
+<body>
+<div1 type="prologue" n="1"><head>PROLOGUE</head>
+<stage type="decor">Le Théâtre représente un Salon du Louvre, orné de tous les différents attributs des Airs. Les Muses qui sont en scène sont assises, et paraissent occupées aux Arts annuels elles président, il y a des places vides pour celles qui doivent arriver. Appolon est assis sur une espèce de trône. </stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE.</head><stage> Apollon, Clio, Uranie ; Une Muse représentant La Satire.
+</stage>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="1">J'étouffe. Oh ! C'en est trop...</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="2">Quoi toujours des murmures !</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="3">Eh ! Comment ne pas murmurer ?</l>
+	<l id="4">Tout contre moi semble se déclarer</l>
+	<l id="5">On me sait chaque jour de nouvelles injures...</l>
+	<l id="6">Quoiqu'il arrive, il faut que ma sincérité</l>
+	<l id="7">Soulage mon coeur irrité.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="8">À ces noires vapeurs on connaît la Satire.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="9">Il ne m'est plus permis de parier ni d'écrire,</l>
+	<l id="10">Et tout trahit la vérité.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="11">N'abusez plus de ce nom respecté.</l>
+	<l id="12">La vérité sans vous voit fleurir son empire.</l>
+	<l id="13">Confondrez-vous toujours sa douceur, sa beauté.</l>
+	<l id="14">Son aimable ingénuité</l>
+	<l id="15">Avec la fureur de médire.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="16">L'erreur est de votre côté.</l>
+	<l id="17">De vices, de travers, le monde est infecté,</l>
+	<l id="18">Et médire est être sincère.</l>
+</sp>
+<sp who="URANIE"><speaker>URANIE.</speaker>
+	<l id="19">Et voilà les discours d'un esprit emporté.</l>
+	<l id="20">Moins ami de la probité</l>
+	<l id="21">Qu'esclave des transports d'une aveugle colère.</l>
+	<l id="22">Car enfin quels objets peuvent tant vous déplaire ?</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="23" syll="1" part="i">Tout.</l>
+</sp>
+<sp who="URANIE"><speaker>URANIE.</speaker>
+	<l id="23" syll="3" part="m">Comment tout ?</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="23" syll="6" part="6">Qui dit tout n'exclut rien.</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="24">Oh bon ! C'est comme à l'ordinaire ;</l>
+	<l id="25">Puisque tout lui déplaît, sans doute tout va bien.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="26">En effet l'ennui qui nous ronge</l>
+	<l id="27">Est un bonheur extrême et qui doit nous flatter.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="28">L'ennui donne ses traits à celui qui s'y plonge</l>
+	<l id="29">Il est le mal des Sots, l'esprit sait l'éviter.</l>
+	<l id="30">Finissons, et tâchez de calmer votre bile.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="31">Non, je ne saurais voir avec un coeur tranquille</l>
+	<l id="32">Les malheurs qui sur nous fondent de toutes parts,</l>
+	<l id="33">Vous nous fîtes jadis abandonner la Grèce,</l>
+	<l id="34">Rome avec nous reçut les talents et les arts</l>
+	<l id="35">Ils y fructifiaient sous les yeux des Césars,</l>
+	<l id="36">À la Cour, à la ville, on nous fêtait sans cesse ;</l>
+	<l id="37">Mais notre gloire enfin déchût :</l>
+	<l id="38">L'ignorance et la barbarie</l>
+	<l id="39">Nous chassèrent de l'Italie.</l>
+	<l id="40">Louis en France alors comme un Astre parut,</l>
+	<l id="41">Nous vînmes à la hâte aux cris de ce grand homme?</l>
+	<l id="42">Colbert nous accueillit, le Roi nous secourut ;</l>
+	<l id="43">Nous étions à Paris encore mieux qu'à Rome.</l>
+	<l id="44">Maintenant, s'il vous plaît, où nous conduirez-vous ?</l>
+	<l id="45" syll="6" part="i">Quand partons-nous ? Parlez ?</l>
+</sp>
+<sp who="URANIE"><speaker>URANIE.</speaker>
+	<l id="45" syll="6" part="f">Pourquoi cette folie ?</l>
+	<l id="46">Des arts la France est la Patrie ;</l>
+	<l id="47">Dans Athènes ; ils n'ont point joui d'un sort plus doux.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="48">Cette réponse est juste, on doit vous la permettre</l>
+	<l id="49">Vous êtes à la mode, on vous chérit encor,</l>
+	<l id="50">Pour tous vos nourrissons votre art est un trésor,</l>
+	<l id="51">Chaque femme a son Géomètre,</l>
+	<l id="52">Et c'est pour eux le Siècle_d_or :</l>
+	<l id="53">Tout le reste abattu n'ose se faire entendre,</l>
+	<l id="54">Craint, haï, sans secours, et comme sans aveu.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON</speaker><stage type="pain">, d'un ton chagrin.
+	</stage>
+	<l id="55" syll="6" part="i">C'est qu'on nous prend pour vous...</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="55" syll="6" part="f">Eh ! Peut-on s'y méprendre ;</l>
+	<l id="56" syll="6" part="i">J'ai de l'esprit au moins.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="56" syll="6" part="f">Mais entre nous fort peu ;</l>
+	<l id="57">Et dans le fonds qu'en avez vous affaire ;</l>
+	<l id="58">Lorsqu'on se permet tout il n'est plus nécessaire,</l>
+	<l id="59">Dans voire art odieux le sot même a beau jeu.</l>
+	<l id="60">Ce siècle est éclairé, puisqu'il faut vous le dire,</l>
+	<l id="61">On craint sans l'estimer le talent de médire,</l>
+	<l id="62">Il a mille dangers, et n'est plus glorieux.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="63">Si le Siècle était vertueux</l>
+	<l id="64">Il ne craindrait pas la Satire...</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="65">Vous perdez dans les airs les traits que vous lancez</l>
+	<l id="66">Contre le siècle heureux que j'ajoute à l'histoire.</l>
+	<l id="67">Il égale est vertus tous les siècles passés</l>
+	<l id="68">Sans avoir leurs erreurs, il a toute leur gloire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Apollon, Uranie, Clio, La Satire, La Renommée, Calliope, Polymnie, Euterpe, Erato.
+</stage>
+<stage type="stand/closer/sit">Les Muses qui sont en scène se lèvent, et avancent vers la Renomée. Après, les deux premiers vers, la Satire va se rasseoir.</stage>
+<sp who="LA RENOMMÉE"><speaker>LA RENOMMÉE.</speaker>
+	<l id="69">Doctes soeur écoutez... LOUIS aux Champs de Mars</l>
+	<l id="70">Fait revivre en lui seul les Héros de sa race :</l>
+	<l id="71">Il vole en conquérant au milieu des hasards,</l>
+	<l id="72">De ses Ennemis qu'il terrasse,</l>
+	<l id="73">Il a foudroyé les Remparts.</l>
+	<l id="74">CLERMONT le suit... CONDÉ n'était pas plus terrible.</l>
+	<l id="75">La foudre est dans ses mains, la mort dans ses regards ;</l>
+	<l id="76">Tout fuit devant LOUIS, tout lui devient possible :</l>
+	<l id="77">La Victoire enchaînée à son bras invincible</l>
+	<l id="78">Ne fuit plus que ses étendards.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="79">Nous avons dû prévoir les lauriers qu'il moissonne,</l>
+	<l id="80">Tout nous annonçait ses exploits ;</l>
+<note type="L">Bellone : Déesse de la Guerre, soeur ou compagne de Mars. [T]</note>
+	<l id="81">Grand dans sa Cour, grand aux Champs de Bellone,</l>
+	<l id="82">LOUIS sera toujours le modèle des Rois.</l>
+</sp>
+<sp who="LA RENOMMÉE"><speaker>LA RENOMMÉE.</speaker>
+	<l id="83">Dans les Alpes CONTI s'est ouvert un passage,</l>
+	<l id="84">Mont_Dauphin_et_Démond se livrent au Vainqueur.</l>
+	<l id="85">La prudence prépare et guide son ardeur,</l>
+	<l id="86">Des deux Rivaux fameux de Rome et de Carthage</l>
+	<l id="87">Il rassemble au printemps de l'âge</l>
+	<l id="88">L'art, la sagesse et la valeur.</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="89">De ce jeune Guerrier nous devons tout attendre</l>
+	<l id="90">Par l'aurore de ses travaux,</l>
+	<l id="91">Jugez du jour brillant qu'ils vont bientôt répandre.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="92">Ces succès éclatants doivent peu nous surprendre :</l>
+	<l id="93">L'exemple des grands Rois fait toujours des Héros.</l>
+</sp>
+<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+	<l id="94">Mon coeur est transporté de ce qu'il vient d'entendre,</l>
+<stage type="enthousiasm">En enthousiasme.</stage>
+	<l id="95">Vous dont le génie et la voix</l>
+	<l id="96">Des ravages du temps font triompher la gloire,</l>
+	<l id="97">Des vertus de LOUIS, de ses brillants exploits</l>
+	<l id="98">Hâtez-vous d'embellir le Temple de Mémoire.</l>
+	<l id="99">Il règne sur les coeurs que son bras a soumis,</l>
+	<l id="100">Il répand sur ses jours une gloire immortelle,</l>
+	<l id="101">Il est l'effroi de tous ses ennemis,</l>
+	<l id="102">Et l'amour d'un Peuple fidèle.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Melpomène, Clio, Terpsicore, Apollon.
+</stage>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="103">Mes soeurs... Ah ! Juste Ciel ! Quelle affreuse nouvelle !</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="104">Que nous veut Melpomène en pleurs ?</l>
+</sp>
+<sp who="TERPSICORE"><speaker>TERPSICORE.</speaker>
+	<l id="105">C'est le ton qu'elle prend pour paraître plus belle.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="106">Apollon apprenez le plus grand des malheurs.</l>
+	<l id="107">C'en est fait... Je succombe à ma douleur mortelle.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="108">Ah ! Parlez. Dissipez, ou comblez nos terreurs.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="109">Tout est perdu... Ce Roi l'objet de notre zèle,</l>
+	<l id="110">Le protecteur des Arts, l'ami de ses Sujets,</l>
+	<l id="111">Intrépide au combat, juste pendant la Paix,</l>
+	<l id="112">Que la France adorait, qui s'immolait pour elle...</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="113">Achevez. Aurions-nous à craindre pour ses jours ?</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="114">Le barbare ennemi qui le force à la guerre,</l>
+	<l id="115">Croyant de ses exploits interrompre le cours,</l>
+	<l id="116">Du sang de ses Sujets avait rougi la terre.</l>
+	<l id="117">Hélas ! Ce tendre Roi volait à leur secours ;</l>
+	<l id="118">Déjà l'Ennemi tremble, il se trouble, il s'arrête ;</l>
+	<l id="119">La vengeance en éclats va fondre sur sa tête...</l>
+	<l id="120">.Tout à coup sur LOUIS le destin en courroux...</l>
+	<l id="121">Mes pleurs et mes soupirs disent assez le reste.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="122">Juste Ciel ne frappe que nous.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="123">Il expire peut-être en ce moment funeste :</l>
+	<l id="124">La France perd un père, et l'Empire un vengeur.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON</speaker><stage type="sad">, consterné.
+	</stage>
+	<l id="125">Ciel, nous n'attendons plus que des jours de douleur ;</l>
+	<l id="126">C'est un peuple soumis que ton courroux foudroyé ?</l>
+	<l id="127">Il ne voyait en lui qu'un tendre bienfaiteur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Thalie, Apollon, Melpomène, Clio, La Renommée, La Satire, Uranie.
+</stage>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="128">Dissipez les terreurs dont votre âme est la proie ;</l>
+	<l id="129">Le péril est passé, le Ciel nous rend LOUIS :</l>
+	<l id="130">Livrons nos coeurs à la plus vive joie ;</l>
+	<l id="131">Les pleurs ne sont plus faits que pour ses ennemis.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="132">Thalie !... Ah ! Quel bonheur !... Hâtez-vous de nous dire ?...</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="133">Le Ciel nous le rendrait !... Eh ! Peut-on l'espérer ?...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="134">À vos tristes regrets cessez de vous livrer.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="135" syll="6" part="i">Ah ! Thalie !... Il vivrait !...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="135" syll="6" part="f">Grâce aux Dieux il respire.</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="136">Mais comment savez-vous ce changement heureux ?</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="137">Dans les yeux des Français qui craindraient moins pour eux,</l>
+	<l id="138">Il m'était aisé de le lire.</l>
+	<l id="139">Nous le verrons bientôt arriver dans ces lieux.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="140">Eh ! Le moyen de vous en croire.</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="141">D'un peuple qui l'adore, il va combler les voeux ;</l>
+	<l id="142">J'en suis sûre. J'ai vu la gloire.</l>
+</sp>
+<sp who="LA RENOMMÉE"><speaker>LA RENOMMÉE.</speaker>
+	<l id="143">Je vole à l'Univers annoncer ce bonheur.</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="144">Non demeurez. Vous m'êtes nécessaire.</l>
+<stage type="dream">En rêvant.</stage>
+	<l id="145">Par un spectacle à son honneur...</l>
+	<l id="146">Le projet est hardi ; mais il est séducteur...</l>
+	<l id="147">N'importe. À ce héros mon dessein pourra plaire...</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE</speaker><stage type="ironic">, ironiquement.
+	</stage>
+	<l id="148">Sans doute. Le dessein est un peu téméraire ;</l>
+	<l id="149">Mais pour signaler votre ardeur...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="150">Je m'attendais à ce propos moqueur ;</l>
+	<l id="151">Je sais que votre ton injuste, atrabilaire,</l>
+	<l id="152">Marqué toujours au coin de la colère ,</l>
+	<l id="153">Retarde les progrès, inspire la terreur ;</l>
+	<l id="154">Vous ne corrigez point, votre art est de déplaire.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="155">Tout est pour son chagrin une vaste matière</l>
+	<l id="156">De fiel, de critique et d'aigreur,</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE</speaker><stage type="offended">, piquée.
+	</stage>
+	<l id="157">L'orgueil n'a point de part à ce projet flatteur,</l>
+	<l id="158">Pour ce Roi bienfaisant c'est un zèle sincère.</l>
+	<l id="159">Il est comme les Dieux, tout ce qui part du coeur</l>
+	<l id="160">A le droit de le satisfaire.</l>
+</sp>
+<sp who="CLIO"><speaker>CLIO.</speaker>
+	<l id="161" syll="6" part="i">Nous vous seconderons.</l>
+</sp>
+<sp who="URANIE"><speaker>URANIE.</speaker>
+	<l id="161" syll="6" part="f">Courons tout préparer.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="162">Un même zèle ET m'anime et m'inspire ;</l>
+	<l id="163">Mes spectacles pompeux que l'Univers admire,</l>
+	<l id="164" syll="6" part="i">Plus dignes d'un Héros...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="164" syll="6" part="f">Cessez de l'espérer :</l>
+	<l id="165">Votre talent est de faire pleurer,</l>
+	<l id="166">Et le mien est de faire rire,</l>
+	<l id="167">La joie anime l'air que la France respire,</l>
+	<l id="168">Dans ces jours de bonheur on doit me préférer.</l>
+	<l id="169">Mais vous n'y perdrez rien. Je vous destine un rôle</l>
+	<l id="170">Qui vous conviendra fort, il est taillé pour vous.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="171" syll="6" part="i">Mais je le jouerai mal.</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="171" syll="6" part="f">Fort bien sur ma parole.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="172" syll="4" part="i">Eh ! Quel est-il ?</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="172" syll="6" part="f">C'est un rôle de folle ;</l>
+	<l id="173">Vous allez nous effacer tous.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="174">Moi jouer une folle !.... En vérité Thalie...</l>
+	<l id="175" syll="6" part="i">Mon état... ma grandeur...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="175" syll="6" part="f">J'ai tout fait pour le mieux,</l>
+	<l id="176">Croyez-moi, le grand sérieux</l>
+	<l id="177">N'est qu'une espèce de foliE.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="178">Aurai-je un rôle aussi ? Car je brûle d'envie...</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="179" syll="4" part="i">Il est tout prêt.</l>
+</sp>
+<sp who="LES MUSES"><speaker>URANIE, CLIO, LA RENOMMÉE </speaker><stage>, etc.
+	</stage>
+	<l id="179" syll="2" part="m">Et moi ?</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="179" syll="6" part="f">Chacune aura le sien.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="180" syll="6" part="i">Pour moi je n'en veux point.</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="180" syll="6" part="f">Ah ! Muse je vous prie.</l>
+	<l id="181">Je veux faire pour vous un effort de génie.</l>
+	<l id="182">Je vais vous transformer en un homme de bien.</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="183">Je ne me prête point à cette fantaisie.</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="184">Cela ne vous engage à rien,</l>
+	<l id="185">C'est un rôle de Comédie.</l>
+	<l id="186">Allez vous préparer, secondez mon ardeur</l>
+</sp>
+<stage type="exit">Apollon et les autres sortent.</stage>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Thalie, Polymnie, Calliope, Erato, Euterpe.
+</stage>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="187">Vous restez, tendre Polymnie,</l>
+	<l id="188">Le Ciel nous rend un Roi qui fait notre bonheur.</l>
+	<l id="189">Que vos chants, que les sons d'une aimable harmonie</l>
+	<l id="190">Célèbrent dans ces lieux cette insigne faveur.</l>
+<stage type="music">On entend un bruit confus d'instruments semblable à celui d'un Orchestre qui accorde.</stage>
+</sp>
+</div2>
+<div2 type="intermède" n="6"><head>PREMIER INTERMÈDE.</head>
+<sp who="POLYMNIE"><speaker>POLYMNIE.</speaker>
+	<l id="191">Tendres accords, enfants de mon génie</l>
+	<l id="192">Remplissez la Terre et les Airs.</l>
+<stage type="music">Une symphonie harmonieuse se sait entendre.</stage>
+</sp>
+<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+	<l id="193">Arts et Talents qui nous devez la vie,</l>
+	<l id="194">Volez, venez mêler vos jeux à nos concerts.</l>
+<stage type="entrance">Entrée des Arts et des Talents.</stage>
+</sp>
+<sp who="POLYMNIE, CALLIOPE"><speaker>POLYMNIE, CALLIOPE.</speaker>
+	<l id="195">Dieux immortels nos soupirs et nos larmes</l>
+	<l id="196">Ont détourné vos foudres menaçants ;</l>
+	<l id="197">Pour voir brûler sans cesse notre encens.</l>
+	<l id="198">Vous n'avez pas besoin de nouvelles alarmes.</l>
+	<l id="199">N'éprouvez plus des coeurs reconnaissants.</l>
+<stage type="danse">On danse.</stage>
+</sp>
+<sp who="LE CHEF DES ARTS"><speaker>LE CHEF DES ARTS.</speaker>
+	<l id="200">Au milieu des horreurs d'une guerre mortelle</l>
+	<l id="201">Les Arts jouissent de la Paix.</l>
+</sp>
+<sp who="LE CHEF DES TALENTS"><speaker>LE CHEF DES TALENTS.</speaker>
+	<l id="202">En vain la Discorde cruelle</l>
+	<l id="203">Répand dans l'Univers la crainte et les forfaits,</l>
+	<l id="204">L'égide de LOUIS nous couvre de ses traits.</l>
+</sp>
+<sp who="TOUS"><speaker>Polimnie</speaker><stage>, Calliope, Les deux Chefs, et Le choeur des Arts et des Talents.
+	</stage>
+	<l id="205">Redoublons notre zèle,</l>
+	<l id="206">Publions à jamais</l>
+	<l id="207">Sa gloire et ses bienfaits.</l>
+<stage type="danse/exit/entrance">L'Intermède finit par une Contredanse : les Arts, les talents et les quatre Muses dansent ensemble et se retirent pour faire place aux acteurs qui commencent la Comédie.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<stage type="decor">Le Théâtre représente les Jardins d'un harem ou sérail d'Alger. Dans l'enfoncement est un bâtiment d'une forme régulière.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Clarice, Isabelle.
+</stage>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="208">Belle Clarice enfin vous déciderez-vous ?</l>
+	<l id="209">Un peu plus de gaîté dans vos regards éclate.</l>
+	<l id="210">Le fort d'Hassan deviendra-t-il plus doux ?</l>
+	<l id="211">À son égard cessez-vous d'être ingrate ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="212">Chère Isabelle, Hassan attaque en vain mon coeur ;</l>
+	<l id="213">Mais malgré mon indifférence,</l>
+	<l id="214">Je sais qu'il est mon bienfaiteur,</l>
+	<l id="215">Et j'écoute avec complaisance</l>
+	<l id="216">L'amitié, la reconnaissance</l>
+	<l id="217">Qui me parlent en sa faveur.</l>
+	<l id="218">Ses sentiments pour moi peuvent seuls me déplaire.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="219">Ils auraient dû vous paraître odieux,</l>
+	<l id="220">Si le sort pour vous trop contraire</l>
+	<l id="221">Vous eût livré aux lois d'un maître impérieux ;</l>
+	<l id="222">Mais grâces au destin l'honneur le plus sévère</l>
+	<l id="223">N'a point à rougir en ces lieux.</l>
+	<l id="224">Hassan dans son sérail s'est montré comme un père</l>
+	<l id="225">Compatissant et généreux,</l>
+	<l id="226">Et chaque jour son amitié sincère</l>
+	<l id="227">Rassemble ici les plaisirs et les jeux.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="228">Les plaisirs les plus vifs perdent le don de plaire,</l>
+	<l id="229">Lorsque le coeur n'a plus de goût pour eux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="230">Hassan en sa saveur a bien des avantages ;</l>
+	<l id="231">Ils vaincront votre cruauté :</l>
+	<l id="232">Vous le savez, des Turcs il brave les usages,</l>
+	<l id="233">L'orgueil dans son pays ne l'a point arrêté.</l>
+	<l id="234">En Europe ses longs voyages</l>
+	<l id="235">Ont adouci ses moeurs, poli sa probité,</l>
+	<l id="236">Que le séjour d'Alger eut pu rendre sauvages ;</l>
+	<l id="237">Il n'a du Musulman que la simplicité ;</l>
+	<l id="238">Il s'est défait de sa sombre rudesse,</l>
+	<l id="239">Il a su du Français saisir l'urbanité</l>
+	<l id="240">La gaîté, la délicatesse,</l>
+	<l id="241">Et n'a point sa folie et sa légèreté.</l>
+	<l id="242">Sa figure, il est vrai, n'est rien moins qu'agréable.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="243">Par ce défaut léger peut-on être arrêté ?</l>
+	<l id="244">Un homme est toujours bien dès qu'il est estimable</l>
+	<l id="245">Les qualités du coeur, un esprit sociable,</l>
+	<l id="246">De ce sexe sont la beauté.</l>
+	<l id="247">Je les vois dans Hassan, et je lui rends justice ;</l>
+	<l id="248">S'il la rendait à vos attraits,</l>
+	<l id="249">S'il vous offrait des voeux qu'il m'offre par caprice,</l>
+	<l id="250">Nous ferions tous trois satisfaits.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="251">Je l'avoue avec confiance,</l>
+	<l id="252">Si, comme Hassan l'assure, il allait dans la France</l>
+	<l id="253">Fixer avec nous son destin ;</l>
+	<l id="254">Sans en rougir j'accepterais sa main,</l>
+	<l id="255">Et je la chérirais plus que son opulence.</l>
+	<l id="256" syll="6" part="i">Mon coeur est encor libre ....</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="256" syll="6" part="f">Et le mien ne l'est pas :</l>
+	<l id="257">Voilà la source de mes peines.</l>
+	<l id="258">J'aurais moins à souffrir si mes faibles appas</l>
+	<l id="259">Ne l'avaient pas mis dans mes chaînes :</l>
+	<l id="260">Je vous surprends.... mais lisez dans mon coeur :</l>
+	<l id="261">D'Oberval à Marseille en devint le vainqueur,</l>
+	<l id="262">Presqu'au premier instant qu'il parut à ma vue,</l>
+	<l id="263">Son âme en me voyant à son tour fut émue :</l>
+	<l id="264">Ce que nous ressentions se peignait dans nos yeux,</l>
+	<l id="265">La sympathie agissait sur notre âme ;</l>
+	<l id="266">Il me fit l'aveu de ses feux ;</l>
+	<l id="267">Je ne lui cachai point le progrès de ma flamme,</l>
+	<l id="268">Nous nous aimions enfin, et nous étions heureux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="269">Mais avec tant de soin pourquoi cacher ces noeuds ?</l>
+	<l id="270">D'Oberval est aimable, et je suis peu surprise...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="271">Hélas ! Vous le savez, je dépends de Dorise,</l>
+	<l id="272">Soeur de mon père, il avait en mourant,</l>
+	<l id="273">Ordonné qu'à ses lois je resterais soumise,</l>
+	<l id="274">Elle vit d_Oberval, il lui parut charmant.</l>
+	<l id="275">L'amour d'une rivale est toujours un tourment,</l>
+	<l id="276">Celle qu'on craint le moins peut faire une infidèle ;</l>
+	<l id="277">J'aimais, et je tremblais d'aimer un inconstant ;</l>
+	<l id="278">Dorise à mes regards était encor trop belle ;</l>
+	<l id="279">Mais par de nouveaux soins d_Oberval chaque jour</l>
+	<l id="280">Calmait ma jalousie, et ma frayeur mortelle,</l>
+	<l id="281">Et par bonheur ces soins si chers à mon amour,</l>
+	<l id="282">Dorise les prenait pour elle.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="283">C'est donc là cet amant qu'elle croit voir toujours,</l>
+	<l id="284">Et dont elle parle sans cesse ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="285">C'est lui-même, et je vois assez par ses discours</l>
+	<l id="286">Que l'absence et l'amour redoublent tous les jours</l>
+	<l id="287">Ses visions, et sa faiblesse :</l>
+	<l id="288">Cependant d_Oberval fut contraint de partir,</l>
+	<l id="289">Et sans doute son inconstance</l>
+	<l id="290">Loin de nous sut le retenir :</l>
+	<l id="291">Souvent pour dissiper l'ennui de son absence,</l>
+	<l id="292">Nous nous promenions sur la mer :</l>
+	<l id="293">Ce jour qui nous fut si funeste,</l>
+	<l id="294">Vous voulûtes nous suivre, un corsaire d'Alger</l>
+	<l id="295">Surprit notre Vaisseau. Vous savez tout le reste.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="296">Des malheurs que le sort a déployés sur nous,</l>
+	<l id="297">Votre amitié me dédommage.</l>
+	<l id="298">Nos fers sont d'ailleurs assez doux :</l>
+	<l id="299">Hassan nous acheta ; c'est le Turc le plus sage</l>
+	<l id="300">Et le plus affable de tous.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="301">Il est vrai ; mais en vain il m'offre son hommage,</l>
+	<l id="302">L'amour contre ses soins oppose d'autres traits :</l>
+	<l id="303">Il a gravé dans mon coeur une image.</l>
+	<l id="304">Que l'absence ou le temps n'effaceront jamais.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="305">Je plaignais vos chagrins sans savoir vos secrets,</l>
+	<l id="306">Et maintenant je les partage :</l>
+	<l id="307">Pardonnez mon erreur ; mais depuis quelque temps</l>
+	<l id="308">Vos ennuis me semblaient moins grands ;</l>
+	<l id="309">Vous marquiez pour ces lieux bien moins de répugnance,</l>
+	<l id="310">Et tous ces heureux changements</l>
+	<l id="311">Je les attribuais à la reconnaissance.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="312">Je l'avouerai, de secrets mouvements</l>
+	<l id="313">Font passer dans mon coeur une joie inconnue ;</l>
+	<l id="314">Depuis cinq ou six jours ma douleur diminue...</l>
+	<l id="315">Vous le dirai-je ?... En de certains moments</l>
+	<l id="316">J'éprouve ces ravissements,</l>
+	<l id="317">Ce trouble, ces transports que m'inspirait la vue</l>
+	<l id="318">Du plus cher de tous les amants.</l>
+	<l id="319">Mon âme s'ouvre à des pressentiments,</l>
+	<l id="320">Et ma gaîté semble être revenue.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Clarice, Isabelle, Dorise.
+</stage>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="321">Félicitez Dorise toutes deux ;</l>
+	<l id="322">D'Oberval est ici, la chose est confirmé.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="323" syll="6" part="i">Voilà de ses erreurs.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="323" syll="6" part="f">Je l'ai vu dans ces lieux...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="324" syll="6" part="i">Eh quoi ! Dans ces jardins ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="324" syll="6" part="f">Oui, mon âme est charmée.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="toward">, à Isabelle.
+	</stage>
+	<l id="325">Ô Ciel ! Mon coeur me dit que Dorise a raison.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="toward">, à Clarìce.
+	</stage>
+	<l id="326">Dans ces jardins un homme ! Et d_Oberval encore !</l>
+	<l id="327" syll="4" part="i">Elle extravague.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="327" syll="2" part="m">Hélas !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="327" syll="6" part="f">Cette affreuse prison</l>
+	<l id="328">Ne me sépare plus d'un amant que j'adore.</l>
+	<l id="329">Isabelle... Clarice... Il est toujours charmant ;</l>
+	<l id="330">Oui d_Oberval est un amant unique ;</l>
+	<l id="331">Je n'en saurais douter, il est tendre, constant,</l>
+	<l id="332">Et c'est son amour seul qui l'amène en Afrique...</l>
+<stage type="toward">À Clarice.</stage>
+	<l id="333">Mais soyez donc sensible au plaisir que je sens.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="334">Je le partagerais sans_doute ;</l>
+	<l id="335">Mais des obstacles trop puissants...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="336">La chose est impossible, et choque le bon sens,</l>
+	<l id="337" syll="10" part="i">Un Français au sérail ! Quelle folie !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="337" syll="2" part="f">Écoute.</l>
+	<l id="338">Tout le jour tu me contredis ;</l>
+	<l id="339">Tu taxes tout ce que je dis</l>
+	<l id="340">D'illusion, de rêverie :</l>
+	<l id="341">Tu te crois raisonnable, et tu t'en applaudis ;</l>
+	<l id="342">Mais ton bon sens, ou plutôt ta manie,</l>
+	<l id="343">Donne un fond de tristesse à ce que tu prédis ;</l>
+	<l id="344">Désespérer de tout est ta vertu chérie.</l>
+	<l id="345">Va, reçois de moi cet avis :</l>
+	<l id="346">Un excès de raison est pis que la folie.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="toward">À Isabelle.</stage>
+	<l id="347" syll="6" part="i">Peut-être qu'en effet... </l>
+<stage type="toward">À Dorise.</stage>
+	<l id="347" syll="6" part="f">Mais l'avez-vous bien vu ?</l>
+	<l id="348">De lui toujours préoccupée,</l>
+	<l id="349">Cent fois croyant le voir, vous vous êtes trompée...</l>
+	<l id="350">Dans le fond, de Dorise il est fort bien connu</l>
+	<l id="351" syll="4" part="i">Il se pourrait...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="351" syll="4" part="f">Tu peux m'en croire :</l>
+	<l id="352">L'amour nous donne de bons yeux.</l>
+	<l id="353">Hassan et lui s'entretenaient tous deux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="354">Hassan et lui !... Nouvelle histoire.</l>
+	<l id="355">Chez ses femmes un Turc qui mène les galants !</l>
+	<l id="356">De Paris cette mode arrivera peut-être.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="toward">, à Isabelle.
+	</stage>
+	<l id="357" syll="4" part="i">Laissez-la dire...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="357" syll="8" part="f">Eh quoi ! Vous pouvez l'écouter ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="358">À travers les barreaux qui grillent ma fenêtre</l>
+	<l id="359">Je les ai vus... de loin... mais je n'en puis douter...</l>
+	<l id="360">Je vais voir la fin de mes peines ;</l>
+	<l id="361">Mon cher d_Oberval vient hâter</l>
+	<l id="362">L'heureux moment qui brisera mes chaînes :</l>
+	<l id="363">J'en jurerais, il vient traiter de ma rançon.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="364">Mais par malheur Madame oublie</l>
+	<l id="365">Que nous avons caché notre vrai nom,</l>
+	<l id="366">Notre état, et notre Patrie.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="367">À votre froid bon sens nous dûmes cet avis.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="368">Dans une aventure aussi triste,</l>
+	<l id="369">Nos noms du moins restaient ensevelis</l>
+	<l id="370">Sous les faux que nous avons pris</l>
+	<l id="371">De Fatmé, Fatime, Agariste.</l>
+	<l id="372">Nos parents à Marseille ont pleuré notre mort :</l>
+	<l id="373">Notre vaisseau ne rentrant point au port,</l>
+	<l id="374">Ils auront supposé qu'il avait fait naufrage ;</l>
+	<l id="375">lis auraient trop rougi de notre sort,</l>
+	<l id="376">S'ils avaient pu savoir notre esclavage.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="377">Nous ne nous doutions point qu'Hassan fût si poli.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="378">Je vous dis en un mot, un fait bien établi... </l>
+	<l id="379">À Marseille d'ailleurs on a tant de nouvelles</l>
+	<l id="380">De tout ce qui se passe ici...</l>
+	<l id="381">L'amour de nos malheurs peut l'avoir éclairci,</l>
+	<l id="382">Et mes deux yeux sont des témoins fidèles.</l>
+	<l id="383">Hassan vient. Il vaincra votre incrédulité.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Clarice, Dorise, Isabelle, Hassan.
+</stage>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="384">Hassan me rendra-t-il enfin la liberté ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à Dorise.
+	</stage>
+	<l id="385">Agariste dans peu vous ferez satisfaite.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="386">En hâtant ma félicité,</l>
+	<l id="387">Elle en deviendra plus parfaite.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="388">Je vais céder à votre empressement.</l>
+	<l id="389">Que votre inquiétude cesse.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="390">Ai-je fait un faux jugement ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="391">Puis-je, belle Fatmé, vous parler un moment ?</l>
+<stage type="toward">À Isabelle et à Dorise.</stage>
+	<l id="392">Pardonnez mon impolitesse.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="393" syll="4" part="i">Éloignons-nous.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="393" syll="8" part="f">Je cours pour chercher mon amant.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Clarice, Hassan.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="394">POur la dernière fois souffrez que je vous presse</l>
+	<l id="395">De me parler sans nul déguisement,</l>
+	<l id="396">Votre bonheur surtout est ce qui m'intéresse...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="397">C'est trop peu pour tous vos bienfaits</l>
+	<l id="398">De toute ma reconnaissance ;</l>
+	<l id="399" syll="3" part="i">Mais enfin...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="399" syll="9" part="f">Mes désirs seront tous satisfaits,</l>
+	<l id="400">Si vous daignez me voir sans répugnance.</l>
+	<l id="401">Quand on a mon âge et mes traits...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="402">Vous êtes trop modeste, et c'est mal vous connaître.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="403">C'est parce que je me connais,</l>
+	<l id="404">Que j'ai peu de mérite à l'être.</l>
+	<l id="405">J'ai toujours les mêmes projets.</l>
+	<l id="406">Nos usages, nos moeurs et nos lois que je hais,</l>
+	<l id="407">Vont m'exiler des lieux de ma naissance.</l>
+	<l id="408">Pour la société tous les hommes sont faits,</l>
+	<l id="409">Les Turcs ignorent ses attraits,</l>
+	<l id="410">Et tout m'invite à chercher dans la France</l>
+	<l id="411">Ses plaisirs délicats qu'ici mon opulence</l>
+	<l id="412">Ne me procurerait jamais ;</l>
+	<l id="413">Mais m'unir avec vous, vivre avec vous sans cesse,</l>
+	<l id="414">Est le bien qui me flatte, et que je me promets.</l>
+	<l id="415">Du vrai bonheur l'image enchanteresse</l>
+	<l id="416">Ne s'offre à moi que sous vos traits.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="low">, bas.
+	</stage>
+	<l id="417">Tout ce qu'il dit de lui je le sens pour un autre.</l>
+<stage type="loud">Haut.</stage>
+	<l id="418">Trop généreux Hassan, quelle erreur est la vôtre.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="419">Belle Fatmé, je cherche un solide bonheur :</l>
+	<l id="420">L'estime et l'amitié sont les plaisirs du coeur,</l>
+	<l id="421">Et je n'ai point l'âme obsédée</l>
+	<l id="422">Des transports d'une folle ardeur,</l>
+	<l id="423">Un sentiment plus sûr pour vous l'a décidée.</l>
+	<l id="424">Des douceurs de l'hymen, de ses engagements</l>
+	<l id="425">J'ai peut-être une fausse idée ;</l>
+	<l id="426">Mais je crois que ses noeuds doivent être charmants ;</l>
+	<l id="427">Lorsque sans le secours de ces feux violents,</l>
+	<l id="428">Fruits de la passion, périssables comme elle,</l>
+	<l id="429">La confiance mutuelle</l>
+	<l id="430">L'amitié, les égards, et les soins complaisants</l>
+	<l id="431">D'un tendre époux, d'une épouse fidèle,</l>
+	<l id="432">Peuvent remplir tous les moments,</l>
+	<l id="433">Le Ciel attache alors au doux noeud qui les lie</l>
+	<l id="434">Les plaisirs des amis, le repos de la vie,</l>
+	<l id="435">Et les délices des amants.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="low">, bas.
+	</stage>
+	<l id="436">Quel bonheur d_Oberval ! Si le Ciel plus propice... </l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="437">Ce n'est donc point un amoureux caprice</l>
+	<l id="438">Qu'aujourd'hui j'exige de vous :</l>
+	<l id="439">J'ose vous demander un moindre sacrifice.</l>
+	<l id="440">Des mains de l'amitié prenez-moi pour époux.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="441">D'un généreux penchant vous êtes la victime...</l>
+	<l id="442">Eh pourquoi m'offrez vous vos voeux ?</l>
+	<l id="443">Je ne saurais vous rendre heureux,</l>
+	<l id="444">Vous le seriez avec Fatime.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="445">Je connais ses appas, je l'aime, je l'estime ;</l>
+	<l id="446">Sans doute votre amie à tous les agréments</l>
+	<l id="447">Et de son sexe et de son âge ,</l>
+	<l id="448">Son, esprit est aimable, et ses traits font charmants ;</l>
+	<l id="449">Mais vous me plaisez davantage.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="450">Dans de trop grands dangers votre erreur vous coNduit :</l>
+	<l id="451">Hassan, votre amitié me flatte ;</l>
+	<l id="452">Mais je dois m'opposer aux desseins qu'elle suit.</l>
+	<l id="453">Si je veux n'être pas ingrate,</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="454">Je m'y livre avec sûreté,</l>
+	<l id="455">Et l'on peut accorder le désir qui me presse,</l>
+	<l id="456">Et votre générosité.</l>
+	<l id="457">Il semble à mes projets que le Ciel s'intéresse ?</l>
+	<l id="458">Depuis six jours il a conduit chez moi</l>
+	<l id="459">Un Français qui rendra ma retraite facile,</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="460" syll="3" part="i">Un Français !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="460" syll="7" part="f">Oui, Fatmé. Soyez tranquille :</l>
+	<l id="461">J'ai confié mes secrets à sa foi...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="462" syll="6" part="i">Eh le connaissez-vous ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="462" syll="6" part="f">J'en fis la connaissance</l>
+	<l id="463">À mon dernier voyage en France.</l>
+	<l id="464">Son abord me prévint ; il a des sentiments,</l>
+	<l id="465">Beaucoup d'esprit, sans suffisance,</l>
+	<l id="466">Et des jeunes gens de son temps</l>
+	<l id="467">Il réunit les grâces, les talents,</l>
+	<l id="468">Sans en avoir l'impertinence.</l>
+	<l id="469">Enfin quoique tous deux d'âges fort différents,</l>
+	<l id="470" syll="6" part="i">L'amitié nous unit.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="470" syll="6" part="f">Mais c'est donc un jeune homme ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="471">Oui, mais prudent, quoiqu'il n'ait pas trente_ans.</l>
+	<l id="472" syll="6" part="i">Son vaisseau dans le port...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="472" syll="6" part="f">Et ce Français se nomme ?...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="473">D'Oberval est son nom... Mais l'auriez-vous connu ?..</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="474">Serait-il vrai ?... L'ai-je bien entendu ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="475">Parlez Fatmé : vous paraissez émue.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="476">Il est vrai... ce François ... je J'ai vu quelquefois,</l>
+	<l id="477">Et de lui ma famille était beaucoup connue.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="478">Rien de plus heureux pour tous trois.</l>
+	<l id="479">Comme moi-même il sait ce que je pense</l>
+	<l id="480">Il connaît mes projets, il les approuve tous...</l>
+	<l id="481">Sans doute en ses discours vous aurez confiance,</l>
+	<l id="482">Ils vaincront votre résistance :</l>
+	<l id="483">Je tiendrai d'un ami mon bonheur le plus doux.</l>
+	<l id="484">Bientôt vous l'allez voir paraître.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="485">Quoi je pourrai le voir !... Vos bontés aujourd'hui...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="486">Eh ! Pourquoi non ? Vous devez me connaître,</l>
+	<l id="487">Fatmé, voyez en moi toujours un tendre ami,</l>
+	<l id="488">Et n'y voyez jamais un maître.</l>
+	<l id="489">Ce Sérail ne vous a causé que trop d'ennui :</l>
+	<l id="490">À tous moments je prétends qu'il vous voie,</l>
+	<l id="491">Ces murs ne sont plus faits, ni pour vous, ni pour lui.</l>
+	<l id="492">Avouez qu'à le voir vous aurez quelque joie ?...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="493">Mais... il connaît... ce que j'ai de plus cher ;</l>
+	<l id="494" syll="6" part="i">Et l'amour... du pays....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="494" syll="6" part="f">Pourquoi vous en défendre.</l>
+	<l id="495">L'amour de la Patrie est un penchant si tendre...</l>
+	<l id="496">On en triomphe à peine, et même dans Alger.</l>
+	<l id="497">Eh ! Le vôtre, Fatmé, pourrait-il me surprendre ?</l>
+	<l id="498">J'ai beaucoup voyagé ; mais de tous les pays,</l>
+	<l id="499">Celui dont mes regards ont été plus ravis'</l>
+	<l id="500">Où toutes les beautés naissent, où vont se rendre,</l>
+	<l id="501">C'est la France, sans doute : elle est à tous égards,</l>
+	<l id="502">Quoiqu'en dise l'envie et malgré son murmure,</l>
+	<l id="503">Le chef_d_oeuvre de la Nature,</l>
+	<l id="504">Et l'heureux asile des arts.</l>
+	<l id="505">Que votre goût pour elle éclate âmes regards. .11</l>
+	<l id="506">Mon coeur à ses beautés comme vous est sensible.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="507">Oh ! Le goût que j'éprouve est un goût invincible.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="508">Vous trouverez d_Oberval bien changé[.]</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="509" syll="3" part="i">Comment donc !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="509" syll="5" part="f">Son coeur est plongé</l>
+	<l id="510">Dans une amertume terrible :</l>
+	<l id="511">par un coup imprévu la mort l'a séparé</l>
+	<l id="512">D'une Maîtresse aimable, et tendre autant que belle.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="low">, bas.
+	</stage>
+	<l id="513">Ah ! Je respire. Il est fidèle.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="514">Par la douleur son coeur est déchiré :</l>
+	<l id="515">En voyageant il a cru s'en distraire ;</l>
+	<l id="516">Mais les maux de ce caractère</l>
+	<l id="517">Sont pour un coeur sensible aussi longs que cuisants,</l>
+	<l id="518">Son vaisseau dans le port fut poussé par les vents :</l>
+	<l id="519">À son esprit alors l'amitié me rappelle, </l>
+	<l id="520">Il me fait avertir ; j'accours à la nouvelle. </l>
+	<l id="521">Jugez de la douceur de nos embrassements :</l>
+	<l id="522">Il est chez moi depuis ; mais à tous les moments,</l>
+	<l id="523">Sa tristesse se renouvelle.</l>
+	<l id="524">Vous verrez ses regrets... Ses pleurs sont si touchants</l>
+	<l id="525">Oh ! Vous aurez pitié de sa douleur mortelle.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="526">Elle s'adoucira, peut-être avec le temps.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="527">Je Vous laisse... En ces lieux je reviens le conduire :</l>
+<stage type="back">En revenant.</stage>
+	<l id="528">Pour vous faire jouir de son étonnement,</l>
+	<l id="529">J'aurai soin de ne pas l'instruire</l>
+	<l id="530">Que vous le connaissez. L'amitié qui m'inspire</l>
+	<l id="531">Voudrait que tout pour vous devint amusement.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. </head>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="532">Ciel, au bonheur que tu me rends,</l>
+	<l id="533">Pourquoi mêler tant de trouble et de crainte !</l>
+	<l id="534">J'étais maîtresse à peine de mes sens...</l>
+	<l id="535">Mais aux mouvements que je sens</l>
+	<l id="536">Je puis enfin nie livrer sans contrainte.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Clarice, Isabelle.
+</stage>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="537">Il est parti. Je guettais le moment.</l>
+	<l id="538">Vous adoucissez-vous ? Êtes-vous moins cruelle ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="539">Partagez mes transports... Ah ! Ma chère Isabelle !...</l>
+	<l id="540">Qui pouvait se flatter d'un tel événement !...</l>
+	<l id="541">Quelle joie !... Oui... Je suis dans un ravissement...</l>
+	<l id="542">Tout ce qu'Hassan m'a dit prouve qu'il est fidèle...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="estonish">, étonnée.
+	</stage>
+	<l id="543">Un transport si prompt et si grand,</l>
+	<l id="544">À vous parler vrai me surprend,</l>
+	<l id="545">Sa constance pour vous n'est pas une nouvelle?</l>
+	<l id="546" syll="6" part="i">Vous deviez y compter...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="546" syll="6" part="f">Cet agréable instant</l>
+	<l id="547">Est le plus flatteur de ma vie...</l>
+	<l id="548">Vous me voyez transportée et ravie...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="stress">, avec trouble.
+	</stage>
+	<l id="549">Eh ! Mais je crois qu'il ne tenait qu'à vous</l>
+	<l id="550">D'avancer un instant si doux,</l>
+	<l id="551">Si vous en aviez bien envie.</l>
+	<l id="552">L'heureux Hassan n'eût point fait le cruel.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="553">L'heureux Hassan !... Quelle est cette folie ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="554">Je ne vous blâme point !... Il est fort naturel...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="555">Qu'a donc Hassan de commun, je vous prie,</l>
+	<l id="556">Avec mes tendres mouvements ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="557">Oh ! Pour le coup je ne sais que vous dire,</l>
+	<l id="558">'Sans doute vous voulez sonder mes sentiments ;</l>
+	<l id="559">Mais croyez quelque goût que sa vertu m'inspire,</l>
+	<l id="560">Que je vous vois sans peine achever son bonheur.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="561">Qui vous parle d'Hassan ? D'où vous vient cette erreur ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="562" syll="6" part="i">De qui s'agit-il donc ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="562" syll="6" part="f">De d_Oberval sans doute.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="563" syll="6" part="i">Est-ce qu'il est ici !</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="563" syll="6" part="f">Je vous l'ai dit cent fois...</l>
+	<l id="564">Jugez du plaisir que je goûte ?</l>
+	<l id="565">Son coeur est toujours sous mes lois...</l>
+	<l id="566">Il me croit morte, il me pleure sans_cesse.</l>
+	<l id="567">Que j'aurai de plaisir à bannir sa tristesse !...</l>
+	<l id="568">Quelle sera sa joie ! Il va bientôt me voir.</l>
+	<l id="569">Je sens que pour la concevoir,</l>
+	<l id="570">Il faudrait avoir ma tendresse.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="571">Votre bonheur m'étonne autant qu'il m'intéresse ;</l>
+	<l id="572">Mais Hassan sait-il votre amour ?</l>
+	<l id="573">Allez-vous quitter ce séjour ?</l>
+	<l id="574">Expliqués-moi comment ?... Oh bon! Voici Dorise.</l>
+	<l id="575">Les fous sont toujours importuns.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Clarice, IsabeLle, Dorise.
+</stage>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="576">Le destin qui me favorise</l>
+	<l id="577">Fait pour moi des efforts qui ne font pas communs.</l>
+	<l id="578">Mais il me rend en vain un amant qui m'adore</l>
+	<l id="579">Si vous ne secondez mes voeux,</l>
+	<l id="580">Sans doute Hassan ne me retient encore</l>
+	<l id="581">Que pour vous engager à partager ses feux...</l>
+	<l id="582">Que vous a-t-il appris ? Faut-il que je l'ignore ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="583" syll="3" part="i">Rien du tout.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="583" syll="9" part="f">Comment rien !... Pour mon coeur amoureux</l>
+	<l id="584" syll="6" part="i">C'est un coup de poignard.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="toward">, à Isabelle.
+	</stage>
+	<l id="584" syll="6" part="f">Tâchez de m'en défaire.</l>
+	<l id="585" syll="4" part="i">Que lui dirai-je ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="low/toward">, bas à Clarice.
+	</stage>
+	<l id="585" syll="8" part="f">Rien, allez. Laissez-moi faire;</l>
+<stage type="toward">À Dorise.</stage>
+	<l id="586">Vous croyez donc toujours d_Oberval dans ces lieux ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="587">Apparemment, j'en puis croire mes yeux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="588">D'une illusion agréable</l>
+	<l id="589">On a bien de la peine à défendre son coeur,</l>
+	<l id="590">Ce qu'on désire avec ardeur</l>
+	<l id="591">Paraît toujours assez croyable ;</l>
+	<l id="592">Mais on revient bientôt de son erreur,</l>
+	<l id="593">Lorsqu'on comme vous un esprit raisonnable.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="594">Je vous jure... Eh ! Pourquoi voudrais-je vous tromper ?</l>
+	<l id="595" syll="6" part="i">Je l'ai vu. C'est un fait.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="595" syll="3" part="m">d_Oberval?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="595" syll="3" part="f">Oui. Lui-même.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="596">Te conçois aisément qu'un amant que l'on aime</l>
+	<l id="597">Maître de notre esprit doit toujours l'occuper ;</l>
+	<l id="598">Vous avez une âme si tendre ....</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="599">Vous me connaissez bien. C'est une passion...</l>
+	<l id="600" syll="3" part="i">Une ardeur....</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="600" syll="9" part="f">Oh ! La chose est facile à comprendre.</l>
+	<l id="601">Tout doit céder sans doute à cette impression,</l>
+	<l id="602">Et dans tous les objets dont la vue est frappée</l>
+	<l id="603">Le coeur cherche, et croit voir ces traits victorieux ;</l>
+	<l id="604">La voix, l'air, les regards dont l'âme est occupée...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="605">Quand vous verriez mon coeur vous n'y liriez pas mieux.</l>
+	<l id="606">Son image me fuit... Je crois toujours l'entendre.</l>
+	<l id="607" syll="4" part="i">Je lui parle...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="607" syll="8" part="f">Et voilà d'où naît l'illusion.</l>
+	<l id="608">L'esprit le plus sensé peut se laisser surprendre,</l>
+	<l id="609">Et l'Amour sait son rôle en trompait la raison ;</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="610">Son idée en effet est assez vraisemblable,</l>
+	<l id="611">Cependant.... mon erreur serait bien pardonnable.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<note type="L">Bostangi : (francisation du turc bostanci) garde de sérail. [WIKIPEDIA] </note>
+	<l id="612">J'entends du bruit... Ce sont les Bostangi,</l>
+	<l id="613">Que leurs travaux mènent ici.</l>
+	<l id="614">Ils paraissent déjà. Tâchez de vous contraindre.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="615">Vous n'auriez qu'à vouloir, nous serions tous heureux,</l>
+	<l id="616">Et c'est vous dans le fond qui me rendez à plaindre.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="617">Ils avancent... Soyez plus discrète à leurs yeux.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="618">Oh ! J'aime trop pour pouvoir feindre :</l>
+	<l id="619">Pourquoi d'ailleurs me cacher devant eux ?</l>
+	<l id="620">Je parle pour leur Maître, et je n'ai rien à craindre.</l>
+</sp>
+</div2>
+<div2 type="intermède" n="8"><head>SECOND INTERMÈDE.</head>
+<stage type="entrance/music/danse">Entrée des Bostangi du sérail à Hassan ; portent tous les instruments propres au jardinage, et par une Pantomime ils expriment leurs différents emplois dans les Jardins.</stage>
+<stage type="danse/sing/carry">Deux Bostangi Français dans le temps que les autres ferment leurs pas chantent, une bouteille de sorbet à la main.</stage>
+<sp who="DORISE, ISABELLE"><speaker/>
+<stage type="title">DUO. PREMIER AIR.</stage>
+	<l id="621">Que le sorbet est détestable !</l>
+	<l id="622">Quel plaisir, déboire du vin !</l>
+	<l id="623">À l'aspect de ce jus divin,</l>
+	<l id="624">L'ennui s'envole et tour devient aimable ;</l>
+	<l id="625">Mais ces lieux malheureux sent maudits du Destin,</l>
+	<l id="626">C'est pour boire de l'eau que l'on se met à table.</l>
+	<l id="627">Que le sorbet est détestable !</l>
+	<l id="628">Quel plaisir de boire du vin !</l>
+	<l id="629">À l'aspect de ce jus divin,</l>
+	<l id="630">L'ennui s'envole et tout devient aimable.</l>
+<stage type="danse">On danse.</stage>
+<stage type="title">Un pas de deux pantomime.</stage>
+<stage type="title">DUO. SECOND AIR.</stage>
+	<l id="631">Beau séjour que nos voeux redemandent en vain,</l>
+	<l id="632">Pourrions-nous perdre la mémoire</l>
+	<l id="633">Des plaisirs et des biens qui naissent dans ton sein ?</l>
+	<l id="634">France heureuse, chez toi coulent des flots de vin,</l>
+	<l id="635">On ne dépend que de la gloire,</l>
+	<l id="636">Et l'on peut sans danger du soir jusqu'au matin</l>
+	<l id="637">Rire, chanter, danser et boire.</l>
+<stage type="danse">On danse.</stage>
+<stage type="danse">L'intermède finit par une danse générale des Bostangi qui vont continuer, leurs travaux dans les autres parties des jardins.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Axelie, Osmin.
+</stage>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="638">Demeurez, aimable Axelie,</l>
+	<l id="639">Puisqu'un heureux hasard nous cache à tous les yeux,</l>
+	<l id="640">Daignez m'apprendre, je vous prie,</l>
+	<l id="641">Quel sera près de vous le succès de mes feux.</l>
+	<l id="642">Votre coeur à la fin d'accord avec mes voeux,</l>
+	<l id="643">Voudra-t-il consentir au bonheur de ma vie.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="644">Osmin, vous me parlez d'un ton bien langoureux...</l>
+	<l id="645">Je suis vive, gaie et badine ;</l>
+	<l id="646">Si l'amour est si sérieux,</l>
+	<l id="647">À vous parler vrai, j'imagine</l>
+	<l id="648">Que vous êtes loin d'être heureux.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="649">Je vous rends grâces de m'instruire :</l>
+	<l id="650">Si la gaîté peut gagner votre coeur,</l>
+	<l id="651">C'est mon premier talent, et vous n'avez qu'à dire.</l>
+	<l id="652">Qu'un baiser seulement commence mon bonheur,</l>
+	<l id="653">Et vous verrez si je sais rire.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE</speaker><stage type="away">, en se reculant.
+	</stage>
+	<l id="654">Oh ! Non pas, s'il vous plaît, je ris sans ce secours.</l>
+	<l id="655">J'aime une gaîté naturelle,</l>
+	<l id="656">Dont la langueur jamais n'interrompe le cours,</l>
+	<l id="657">Qui s'amuse de tout, et qu'un rien renouvelle :</l>
+	<l id="658">La liberté, les biens, les plus tendres amours,</l>
+	<l id="659">Ne sauraient me plaire sans elle.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="660">Et voilà justement quelle est l'aimable humeur</l>
+	<l id="661">Que donne la Nature aux lieux de ma naissance.</l>
+	<l id="662">Elle aurait dû vous faire naître en France :</l>
+	<l id="663">On pourra réparer peut-être son erreur ;</l>
+	<l id="664">J'en ai du moins quelqu'espérance.</l>
+	<l id="665">Vous connaissez pour moi d'Hassan la confiance :</l>
+	<l id="666">Si je me flattais d'être aimé,</l>
+	<l id="667">D'un projet important que son coeur a formé</l>
+	<l id="668">Je vous ferais la confidence.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="669">Oh ! Je vous aime assez pour apprendre un secret.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="670">M'aimez-vous assez pour le taire ?</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="671">Je n'aurais pas un grand effort à faire :</l>
+	<l id="672">Si j'ai le coeur peu tendre, il est au moins discret.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="673">Eh bien sachez qu'Hassan va rompre l'esclavage</l>
+	<l id="674">Des Françaises qui sont ici depuis six mois ;</l>
+	<l id="675">Nous les menons en France, et je fais à mon choix</l>
+	<l id="676">Les arrangements du voyage :</l>
+	<l id="677">Il ne faut que m'aimer pour venir avec nous...</l>
+	<l id="678">Ne croyez pas que j'exagère,</l>
+	<l id="679">Dans ce climat aussi riant que doux,</l>
+	<l id="680">Vous verrez tout ce qui peut plaire,</l>
+	<l id="681">Et c'est le seul digne de vous,</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="682">Sans doute. Qui ne croit que c'est dans sa patrie</l>
+	<l id="683">Qu'on trouve le suprême bien ?</l>
+	<l id="684">Chaque homme sur ce point a la même manie,</l>
+	<l id="685">Et de tous les pays ne vante que le lien.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="686">Oui. Mais ce que je dis du mien,</l>
+	<l id="687">L'Europe entière le publie.</l>
+	<l id="688" syll="6" part="i">C'est le Ciel le plus beau....</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="688" syll="6" part="f">Oh ! Cela n'y fait rien :</l>
+	<l id="689">Bientôt le plus beau ciel ennuie.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="690">J'en conviens. Lorsque comme ici,</l>
+	<l id="691">Et dans tous les pays qu'on appelle Turquie,</l>
+	<l id="692">On paraît ignorer tout le prix de la vie,</l>
+	<l id="693">Que le printemps de l'âge est obscurci</l>
+	<l id="694">Par la honte des fers, la crainte, le souci,</l>
+	<l id="695">Que d'un maître absolu l'on sert la tyrannie,</l>
+	<l id="696" syll="6" part="i">Qu'on ne vit que pour lui</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="696" syll="6" part="f">Propos de jalousie :</l>
+	<l id="697">Les malheurs de celui qui sert</l>
+	<l id="698">Font le bonheur de celui qui commande ;</l>
+	<l id="699">L'un gagne ce que l'autre perd.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="700">En Turquie on exige, en France l'on demande...</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="701">La différence n'est pas grande :</l>
+	<l id="702">Le bien le plus gardé tôt ou tard est offert.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="703">Cependant votre sexe ici dans l'esclavage</l>
+	<l id="704">Porte d'indignes fers, et languit sous leur poids ;</l>
+	<l id="705">Aussi nous lui rendons un éternel hommage,</l>
+	<l id="706">Tandis qu'en France il goûte l'avantage</l>
+	<l id="707">De vivre libre, et de donner des lois :</l>
+	<l id="708">Nous ne sommes jamais heureux que par son choix.</l>
+	<l id="709">Maîtresses du bonheur, les Belles sont nos Rois.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="710">Et c'est tout comme ici. Le Turc le plus farouche</l>
+	<l id="711">Soupire, et languit à nos pieds.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="712">Mais qu'il vous plaise, ou non, il faut que vous feigniez</l>
+	<l id="713">Que son amour vous honore, et vous touche</l>
+	<l id="714">Lors même qu'il s'abaisse il vous donne la loi,</l>
+	<l id="715">Et le Tyran ne vous couronne</l>
+	<l id="716">Que pour vous enchaîner un peu plus près de soi.</l>
+<note type="L">Argus : personnage de la mythologie gréco-romaine, c'était un géant qui avait cent yeux dont cinquante ouverts pendant que cinquante étaient fermé et dormaient.</note>
+	<l id="717">Une foule d'Argus toujours vous environne,</l>
+	<l id="718">Vous suit partout, vous contraint, ou vous prône :</l>
+	<l id="719">Se faire détester est son affreux emploi.</l>
+	<l id="720">C'est tout le contraire chez moi :</l>
+	<l id="721">Les Belles en tout temps sont comme sur un trône,</l>
+	<l id="722">Leur volonté décide, elle défend, ordonne,</l>
+	<l id="723">On obéit, sans demander pourquoi ;</l>
+	<l id="724">Leur pouvoir est un bien que la beauté leur donne ;</l>
+	<l id="725">Elles sortent sans suite, de rentrent sans effroi,</l>
+	<l id="726">En bravant le courroux du sot qui les soupçonne,</l>
+	<l id="727">Et toujours sur leur bonne foi...</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="728">Elles ne trompent donc personne !</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="729">Ah ! J'oubliais cet article important.</l>
+	<l id="730">Elles trompent aussi comme par tout le monde :</l>
+	<l id="731">Mais en France tout les seconde,</l>
+	<l id="732">Et ce plaisir est ici plus piquant.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="733">Vous voilà bien. Pour un mot innocent... </l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="734">Mon Dieu, n'ayons point de querelle,</l>
+	<l id="735">Eh bien sur ce tableau fidèle ?</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="736">Il pourrait me tenter s'il était ressemblant.</l>
+	<l id="737">Malgré tous vos discours je doute cependant</l>
+	<l id="738">Que la grandeur de vos sultans de France...</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="739">Oh ! Vraiment, quelle différence !</l>
+	<l id="740">Je sais que vos sultans en imposant des fers,</l>
+	<l id="741">Se flattent de régner sur cent peuples divers :</l>
+	<l id="742">Leur Empire s'étend jusqu'aux lieux où nous sommes</l>
+	<l id="743">Mais quels sont les humains soumis à leur pouvoir ?</l>
+	<l id="744">Des esclaves tremblants qu'ils dédaignent de voir :</l>
+	<l id="745">Notre Roi règne sur des hommes,</l>
+	<l id="746">Souverain de leurs coeurs l'amour fait leur devoir.</l>
+	<l id="747">Dans un sérail obscur où l'orgueil les resserre,</l>
+	<l id="748">Vos Sultans amollis par d'éternels loisirs,</l>
+	<l id="749">Poids inutiles de la Terre,</l>
+	<l id="750">Abandonnent leur gloire aux bras de leurs vizirs.</l>
+	<l id="751">Le Sultan des Français fait lui-même la guerre,</l>
+	<l id="752">Et ce n'est qu'en héros qu'il se livre aux plaisirs.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="753">Mais c'est donc un Prince admirable !</l>
+	<l id="754">Les coeurs doivent voler au devant d'un tel Roi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Dorise, Axelie, Osmin.
+</stage>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="755">Mon cher Osmin, ayez pitié de moi ;</l>
+	<l id="756">Vous pouvez me tirer d'un état déplorable :</l>
+<stage type="toward">À Axelie.</stage>
+	<l id="757">J'aime... Oh ! Devant vous je ne me gêne pas.</l>
+	<l id="758">Je vous crois, aimable Axelie,</l>
+	<l id="759">Un très bon coeur, et de plus mon amie :</l>
+	<l id="760">On doit penser fort bien quand on a tant d'appas.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="761" syll="4" part="i">Le compliment...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="761" syll="8" part="f">Je n'ai pas le loisir d'en faire.</l>
+	<l id="762">Cher Osmin, il faut me servir...</l>
+	<l id="763" syll="6" part="i">On ne nous entend point ?...</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="763" syll="6" part="f">En quoi puis-je vous plaire ?</l>
+	<l id="764">Je suis prêt à vous obéir.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="765">C'est un amour si vif.... Ce n'est plus un mystère...</l>
+	<l id="766">Il est ici. Je veux ou le voir, ou périr.</l>
+	<l id="767" syll="4" part="i">Tu le connais ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="767" syll="2" part="m">Qui donc ?</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE.</speaker>
+	<l id="767" syll="6" part="f">Quelqu'un vient ce me semble.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN</speaker><stage type="away">, en s'en allant.
+	</stage>
+	<l id="768" syll="6" part="i">Pardonnez si je fuis.</l>
+</sp>
+<sp who="AXELIE"><speaker>AXELIE</speaker><stage>, en s'en allant.
+	</stage>
+	<l id="768" syll="6" part="f">Je vous quitte à regret.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="away">, en s'en allant.
+	</stage>
+	<l id="769">Dans le bosquet voisin retrouvons-nous ensemble :</l>
+	<l id="770">Je vous apprendrai mon secret.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Hassan, d'Oberval.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="771">Oui, d_Oberval, ainsi pensent les Musulmans :</l>
+	<l id="772">Leur coeur, sans s'arrêter à des recherches vaines,</l>
+	<l id="773">N'aspire qu'à la paix, ne fuit que les tourments :</l>
+	<l id="774">Ce qu'on appelle amour pour eux n'a point de chaînes»</l>
+	<l id="775">Tout fuit dans leurs sérails l'essor de leurs désirs,</l>
+	<l id="776">Si les femmes font leurs plaisirs,</l>
+	<l id="777">Elles ne font jamais leurs peines ;</l>
+	<l id="778">C'est tout ce que mon âme adopte de leurs moeurs.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="779">Je sens par le chagrin qui me fuit et m'accable,</l>
+	<l id="780">Qu'une passion véritable</l>
+	<l id="781">Peut nous causer le plus grand des malheurs ;</l>
+	<l id="782">Clarice est pour mon coeur une source durable</l>
+	<l id="783">D'ennuis, de regrets de de pleurs.</l>
+	<l id="784">Cependant si l'amour a des jours de tristesse,</l>
+	<l id="785">Il sait répandre aussi la plus aimable ivresse</l>
+	<l id="786">Sur ses plus cruelles rigueurs.</l>
+	<l id="787">Chez nous il est bien plus sentiment que faiblesse,</l>
+	<l id="788">En affectant notre âme, il l'émeut, l'intéresse ;</l>
+	<l id="789" syll="6" part="i">Et franchement le vôtre...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="789" syll="6" part="f">Est le seul de bon sens :</l>
+	<l id="790">Nous vivons pour nous-mêmes, de tout flatte nos sens.</l>
+	<l id="791">Sur ce point seul nul souci ne nous presse.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="792">Mais comment reçoit-on de pareils sentiments ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="793">Fort bien. On nous traite en amants,</l>
+	<l id="794">Et nous n'avons point de maîtresse.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="795">C'est connaître l'amour par ses moindres douceurs.</l>
+	<l id="796">Cette aimable délicatesse</l>
+	<l id="797">Que vous croyez ici le comble des erreurs,</l>
+	<l id="798">Donne seule un prix aux faveurs :</l>
+	<l id="799">C'est elle qui bannit de chez nous la rudesse,</l>
+	<l id="800">Elle calme, adoucit le feu de la jeunesse,</l>
+	<l id="801">Elle pare l'amour des plus tendres couleurs,</l>
+	<l id="802">Elle est l'âme de la tendresse,</l>
+	<l id="803">La source de la politesse,</l>
+	<l id="804">Le piquant des plaisirs, et le charme des coeurs.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="805">J'adopterais votre système,</l>
+	<l id="806">Si je n'avais passé la saison de l'amour.</l>
+	<l id="807">Mais venons au désir extrême</l>
+	<l id="808">Que j'ai d'aller fixer en France mon séjour.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="809">Je crains que le projet où votre âme se livre</l>
+	<l id="810">Ne séduise trop votre coeur ;</l>
+	<l id="811">Examinez-vous bien avant que de le suivre :</l>
+	<l id="812">Les difficultés me font peur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="813">Je sens le prix des jours qui me restent à vivre ;</l>
+	<l id="814">Je veux assurer leur bonheur ;</l>
+	<l id="815">Et pour Alger un fond de répugnance,</l>
+	<l id="816">Des citoyens cruels, de des barbares moeurs,</l>
+	<l id="817">Me font trouver ici l'ennui dans l'opulence,</l>
+	<l id="818">Le chagrin, le dégoût m'accablent, et j'y meurs.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="819">Il ne faut point que votre âme balance,</l>
+	<l id="820">On ne peut fuir avec assez de diligence</l>
+	<l id="821">Un séjour où l'on meurt quand on peut vivre ailleurs.</l>
+	<l id="822">Cependant à voir tout du côté favorable...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="823">Je me souviens toujours de ce temps agréable</l>
+	<l id="824">Que nous avons passé vous de moi dans Paris.</l>
+	<l id="825">D'arts, déplaisirs, de jeux quel assemblage aimable !</l>
+	<l id="826">C'est là que des moments on connaît tout le prix.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="827">Le plaisir, il est vrai, sans cesse s'y varie.</l>
+	<l id="828">Partout ailleurs l'âme languit,</l>
+	<l id="829">On ne fait que traîner sa vie ;</l>
+	<l id="830">Mais à Paris on en jouit.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="831">Ce peuple heureux semble avoir en partage.</l>
+	<l id="832">L'art de rassembler pour chaque âge</l>
+	<l id="833">Des sociétés, des plaisirs ;</l>
+	<l id="834">Tandis que nous n'avons que le triste avantage</l>
+	<l id="835">De faire partager le poids de nos loisirs</l>
+	<l id="836">À des coeurs malheureux flétris par l'esclavage,</l>
+	<l id="837">Et rampants devant nos désirs</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="838">J'aime à vous voir penser ainsi sur ma patrie,</l>
+	<l id="839">Son goût pour la société</l>
+	<l id="840">À bon droit doit être vanté,</l>
+	<l id="841">Et le vôtre le justifie.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="842">J'ai vu toutes les Cours, et d'Europe de d'Asie,</l>
+	<l id="843">À la vôtre mon coeur s'est toujours arrêté :</l>
+	<l id="844">Dans ces lieux embellis par l'art et la nature</l>
+	<l id="845">Le ciel a répandu ses faveurs sans mesure.</l>
+	<l id="846">Un Monarque adoré, père de ses sujets,</l>
+	<l id="847">Règle sur leur bonheur de la guerre et la paix,</l>
+	<l id="848">La Justice à ses Lois asservit sa Couronne ;</l>
+	<l id="849">Le zèle de la prudence environnent le Trône, ;</l>
+	<l id="850">Et j'ai vu réunis dans tous les courtisans,</l>
+	<l id="851">La douceur au courage, et la gloire aux talents.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="852">Cher Hassan tous ces traits sont gravés dans mon âme,</l>
+	<l id="853">Et vous peignez d'après mon coeur.</l>
+	<l id="854">Oui. Je me rends. Partons. Même désir m'enflamme.</l>
+	<l id="855">Que Fatmé veuille ou non, laissez-lui son erreur.</l>
+	<l id="856">Vous n'aimez point... D'amour. Votre bonheur.....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="857">Mais si je vais en France, il me faut une femme ;</l>
+	<l id="858">Et je ne vous cacherai pas</l>
+	<l id="859">Que je verrais avec inquiétude</l>
+	<l id="860">Que l'hymen près de moi ne fixât point ses pas.</l>
+	<l id="861">J'ai pris plaisir, dans cette solitude,</l>
+	<l id="862">À sonder son esprit de j'en fats un grand cas... ;</l>
+	<l id="863">Nous tenons tous à l'habitude...</l>
+	<l id="864">Et vous verrez bientôt combien elle a d'appas.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="865">Je vais de tous mes soins seconder l'entreprise;</l>
+	<l id="866">Et je désire fort que Vous réussissiez.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Clarice, Hassan, d'Oberval,
+</stage>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage>, au fond du théâtre.
+	</stage>
+	<l id="867">On m'avait dit que vous me demandiez.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+<stage type="toward">À Clarice.</stage>
+	<l id="868" syll="3" part="i">Approchez. </l>
+<stage type="toward">À d'Oberval.</stage>
+	<l id="868" syll="3" part="m">C'est Fatmé. </l>
+<stage type="toward">À Clarice.</stage>
+	<l id="868" syll="6" part="f">L'amitié m'autorise</l>
+	<l id="869">À souffrir que vous le voyiez.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="870">Je vous avais cru seul excusez ma méprise.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="871">Quelle voix !... Ciel !... Que vois-je !... En croirai-je mes yeux ?...</l>
+	<l id="872">Est-il vrai qu'à ce point le Ciel me favorise !</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="873">Vous ne vous doutiez pas de trouver dans ces lieux,</l>
+	<l id="874">Sous le nom de Fatmé la nièce de Dorise ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="875">Cher Hassan quel hasard heureux !...</l>
+	<l id="876">Mon coeur ne peut suffire à cet excès de joie...</l>
+	<l id="877">Se peut-il que je vous revoie ?...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="878" syll="4" part="i">Contraignez-vous.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="878" syll="8" part="f">Les Turcs savent-ils bien choisir ? </l>
+	<l id="879">Convenez qu'on n'a pas le goût meilleur en France.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="880" syll="6" part="i">Oh !... J'en conviens.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="880" syll="6" part="f">Le Ciel a pris plaisir</l>
+	<l id="881">De la conduire ici par préférence.'</l>
+	<l id="882" syll="6" part="i">N'êtes vous pas charmé...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="882" syll="2" part="m">Sans doute....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="882" syll="6" part="f">Sa présence</l>
+	<l id="883">Est le bien le plus doux dont je puisse jouir.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="884">Dans le sérail d'Hassan !... Je n'en puis revenir.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="885">Rassurez votre contenance,</l>
+	<l id="886">Ou vous allez tout découvrir.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="887">Votre joie est déjà sur le point de finir ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="888">Moi !... Point du tout.... ma joie est trop sincère...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="889">Eh pourquoi donc la retenir ?</l>
+	<l id="890">De toutes les Beautés que mon sérail resserre,</l>
+	<l id="891">Voilà celle que je préfère,</l>
+	<l id="892">Et c'est de votre main que je veux l'obtenir.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low/toward">, bas à Clarice.
+	</stage>
+	<l id="893" syll="4" part="i">Oh ! C'en est trop...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="low/toward">, bas à d'Oberval.
+	</stage>
+	<l id="893" syll="4" part="f">Quelle imprudence !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="894">Elle a quelque scrupule encore ; elle balance ;</l>
+	<l id="895">Mais vous saurez les faire évanouir,</l>
+	<l id="896" syll="6" part="i">J'attends tout de vos soins</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="896" syll="3" part="m">De mes soins !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="896" syll="3" part="f">Oui sans doute.</l>
+	<l id="897">Vous connaissez mes sentiments.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="898" syll="4" part="i">Il est vrai... Mais...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="898" syll="6" part="f">Je compte les instants.</l>
+	<l id="899">Examinez-la bien. Jugez ce qu'il m'en coûte,</l>
+	<l id="900">Pour me prêter à ses retardements,</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="901" syll="6" part="i">Oui je juge en effet...</l>
+<stage type="low/toward">Bas à Fatmé. </stage>
+	<l id="901" syll="6" part="f">Je ne sais que lui dire.</l>
+<stage type="toward">À Clarice. </stage>
+	<l id="902">Madame... Hassan.. à votre hymen aspire....</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="903">Cependant pour pouvoir combattre ses raisons.</l>
+	<l id="904">Il faudrait avant m'en instruire.</l>
+	<l id="905">Il se pourrait que dans le fonds</l>
+	<l id="906" syll="6" part="i">Quelqu'obstacle bien fort....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="906" syll="6" part="f">Non, c'est incertitude...</l>
+	<l id="907">Ses alarmes en ma faveur</l>
+	<l id="908">Lui donnent quelqu'inquiétude.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="909">Mais ce motif est pour vous très flatteur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="910">Oui, s'il était suivi d'un peu de complaisance,</l>
+	<l id="911">En général des Turcs vous pensez mal en France ;</l>
+	<l id="912">Et je puis sans orgueil imputer se froideur</l>
+	<l id="913">Aux préjugés de sa naissance.</l>
+	<l id="914">Un caprice peut-être entretient sa rigueur ?</l>
+	<l id="915">Gagnez pour moi sa confiance ;</l>
+	<l id="916">Soyez ma caution, répondez de mon coeur.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="917" syll="4" part="i">Très volontiers...</l>
+<stage type="low">Bas. </stage>
+	<l id="917" syll="8" part="f">Il faut m'armer de patience.</l>
+<stage type="toward">À Clarice.</stage>
+	<l id="918">Madame, Hassan est... un Turc plein d'honneur</l>
+<stage type="sad">Tristement.</stage>
+	<l id="919">Le sort vous a soumise à sa puissance...</l>
+	<l id="920">Dans ce sérail tout doit flatter son espérance :</l>
+	<l id="921">Ses désirs sont des lois... son choix une faveur....</l>
+	<l id="922" syll="6" part="i">Et la nécessité...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="low">, bas.
+	</stage>
+	<l id="922" syll="6" part="f">L'ingrat doute de ma constance !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="923">Remarquez-vous cette aimable rougeur</l>
+	<l id="924">Dont son visage se colore ?</l>
+	<l id="925">Ses yeux plus animés s'embellissent encore...</l>
+	<l id="926">Ce mouvement, sans doute, est un présage heureux.</l>
+	<l id="927" syll="6" part="i">Vous la persuadez.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="927" syll="6" part="f">Ah ! Je suis à la gêne.</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="928">Cependant... ses refus ( je l'avoue avec peine )</l>
+	<l id="929">Les craintes, les soupçons qu'elle oppose à vos voeux</l>
+	<l id="930">Pourraient avoir quelque air de vraisemblance...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à D'Oberval.
+	</stage>
+	<l id="931">Ne hasardez donc point un tel propos ici.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="toward">, à Hassan.
+	</stage>
+	<l id="932">Je me tais, ou je dis toujours ce que je pense.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="933">C'est me servir fort mal que de parler ainsi ;</l>
+	<l id="934">Et j'aime mieux votre silence.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="935">Je dois vous éclaircir tous deux,</l>
+	<l id="936">Hassan m'accuse de caprice ;</l>
+	<l id="937">Peut-être d_Oberval aurait-il l'injustice</l>
+	<l id="938">De me croire un défaut encore plus odieux.</l>
+	<l id="939">Je vais vous parler sans mystère.</l>
+	<l id="940" syll="6" part="i">Hassan vous m'êtes cher...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="940" syll="6" part="f">Quel discours enchanteur !</l>
+	<l id="941">Je pourrais espérer de ne vous pas déplaire ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="942">En pouvez-vous douter ? Madame est trop sincère...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="943">Cher ami, je vous dois un aveu si flatteur.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="944" syll="2" part="i">À moi !....</l>
+<stage type="low">Bas. </stage>
+	<l id="944" syll="2" part="m">L'ingrate !</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="944" syll="8" part="f">Ils sont tous les deux dans l'erreur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à Clarisse.
+	</stage>
+	<l id="945">Il n'est plus rien que je souhaite.</l>
+	<l id="946">Vos bontés à mes yeux augmentent vos appas.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="947">Je suis désespéré : ma disgrâce est complète.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="948">Je le vois bien, vous ne m'entendez pas.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="949" syll="6" part="i">Quelle est donc votre idée ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="949" syll="6" part="f">Hassan, je le répète :</l>
+	<l id="950">Vous m'êtes cher. Vos vertus, vos bienfaits</l>
+	<l id="951">Sont gravés dans mon coeur, m'occuperont sans cesse,</l>
+	<l id="952">Et je voudrais par ma tendresse</l>
+	<l id="953">Pouvoir remplir tous vos souhaits :</l>
+	<l id="954">Mais de son coeur est-on le maître ?</l>
+	<l id="955">Longtemps avant de vous connaître.</l>
+	<l id="956">L'Amant le plus amiable de le plus amoureux...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="957">En voilà plus que je ne veux.</l>
+	<l id="958" syll="4" part="i">N'achevez pas.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="958" syll="6" part="f">Grâce au Ciel, je respire.</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="959">J'avais prévu quelqu'obstacle puissant,</l>
+	<l id="960">Et j'avais eu le soin de vous le dire.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="961">Je ne puis revenir de mon étonnement.</l>
+<stage type="toward">À Clarice.</stage>
+	<l id="962">Et cet amour est-il si violent,</l>
+	<l id="963">Que rien ne puisse le détruire ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="964">Non, il est au-dessus de tout événement.</l>
+	<l id="965">Sans nul espoir de revoir mon amant,</l>
+	<l id="966">Il conservait sur moi toujours le même empire.</l>
+	<l id="967">De mon amour tous ces lieux sont témoins :</l>
+	<l id="968">En vain votre amitié, vos bienfaits, de vos soins</l>
+	<l id="969">Adoucissaient mon esclavage</l>
+	<l id="970">Je faisais cas de votre hommage,</l>
+	<l id="971">Je vous plaignais, je n'en aimais pas moins,</l>
+	<l id="972">Et j'en souffrais bien davantage.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="973">Ah ! Je vous reconnais à cet amour constant...</l>
+<stage type="surprise/stress">Hassan sait un mouvement de surprise. D'Obercal troublé continue.</stage>
+	<l id="974">Pour le coeur du Français que vous croyez volage...</l>
+	<l id="975">L'amour.... devient... quand il l'engage</l>
+	<l id="976">Une espèce d'enchantement.</l>
+	<l id="977">En France en tout on est extrême...</l>
+	<l id="978">Le Français ordinairement</l>
+	<l id="979">S'attache à l'excès quand il aime ;</l>
+	<l id="980">Il n'est léger que lorsqu'il est indifférent.</l>
+	<l id="981">Moi (sans vouloir me citer pour modèle)</l>
+	<l id="982">D'une maîtresse jeune de belle</l>
+	<l id="983">J'ai su vainement le trépas :</l>
+	<l id="984">Vous m'avez vu rempli de mon ardeur fidèle,</l>
+	<l id="985">Ne vous entretenir que de sa mort cruelle,</l>
+	<l id="986">De mes malheurs, de ses appas,</l>
+	<l id="987">Et mon dernier soupir sera pour elle.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="988">Je serai comme vous. Il n'est point de danger...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="989">Et c'est-là cet amour que vous vantez en France !</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="990" syll="4" part="i">Mais... sans doute...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="990" syll="8" part="f">L'amour n'est qu'une extravagance.</l>
+	<l id="991">Elle fera sagement de changer.</l>
+	<l id="992" syll="4" part="i">Fatmé, rentrez.</l>
+<stage type="exit">Clarice rentre.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Hassan, D'Oberval.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="continue">, continue.
+	</stage>
+	<l id="992" syll="6" part="f">J'ai peine à me défendre</l>
+	<l id="993">D'un transport dangereux que je veux réprimer.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="994">Quoi ? Voudriez-vous cesser de vous faire estimer ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="995">Quel aveu !... Que viens-je entendre ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="996" syll="3" part="i">Mais, Hassan...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="996" syll="9" part="f">Laissez-moi. Trop ingrate Fatmé...</l>
+	<l id="997">Une Esclave !... Avouer un amour qui m'offense...</l>
+	<l id="998">Je sens que mon sang allumé</l>
+	<l id="999">Me pousserait à quelque violence.</l>
+	<l id="1000" syll="2" part="i">Sortons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="1000" syll="10" part="f">Vraiment ceci prend un fort mauvais tour.</l>
+	<l id="1001">La circonstance est périlleuse...</l>
+	<l id="1002">Elle aurait dû se taire.... Oui... je vois peu de jour.</l>
+	<l id="1003">En vain l'âme d'Hassan est noble et généreuse....</l>
+	<l id="1004">Je connais la façon dont les Turcs font l'amour...</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> d'Oberval, Osmin.
+</stage>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1005" syll="2" part="i">Monsieur ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1005" syll="2" part="m">Qu'est-ce ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1005" syll="4" part="m">Pardon, un mot.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1005" syll="4" part="f">Je vous écoute.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1006">Est-ce vous par hasard qu'on nomme d_Oberval ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1007" syll="3" part="i">Moi-même.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1007" syll="3" part="f">Et François, sans doute ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1008" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1008" syll="11" part="f">J'en ai, je vous jure, un plaisir sans égal.</l>
+	<l id="1009">Je suis Français aussi. Pour le pays natal</l>
+	<l id="1010">Je conserve un amour si tendre... !</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1011">De quoi s'agit-il donc ? Parlez ; je suis pressé.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1012">Quelqu'un pourrait-il nous entendre !...</l>
+	<l id="1013">Vous voilà du Patron, je crois, débarrassé.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1014" syll="4" part="i">Nous sommes seuls.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1014" syll="8" part="f">Bien fait, jeune comme vous l'êtes...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1015" syll="8" part="i">Je n'aime point l'éloge. Après.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1015" syll="4" part="f">Un bon esprit,</l>
+	<l id="1016">Sans haïr l'éloge, en rougit.</l>
+	<l id="1017">Mais les conquêtes que vous faites...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1018">Oh ! Finissons cet entretien.</l>
+	<l id="1019">Que voulez-vous ? Puis-je vous être utile ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1020" syll="6" part="i">Non, Monsieur, c'est moi qui...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1020" syll="6" part="f">Je n'ai besoin de rien.</l>
+	<l id="1021" syll="2" part="i">Adieu.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1021" syll="6" part="f">Vous êtes difficile...</l>
+<stage type="stop">En l'arrêtant.</stage>
+	<l id="1022">Je serai court. Daignez m'écouter un instant.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1023" syll="2" part="i">Voyons.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1023" syll="10" part="f">Une Française à ses serments fidèle.</l>
+	<l id="1024">Dont vous êtes l'heureux amant.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1025">Eh bien cher ami que fait-elle ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1026">Vous n'êtes plus si preste maintenant.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1027">J'étais pour elle en ce moment</l>
+	<l id="1028">D'une inquiétude mortelle.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1029">C'est bien fait. Elle vous le rend,</l>
+	<l id="1030">Sans doute même avec usure.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1031">Rien n'égale l'amour que mon âme ressent[.]</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1032">De cet amour je connais la nature.</l>
+	<l id="1033">J'étais en France un aimable, un brillant,</l>
+	<l id="1034">Un fat complet, et presqu'un petit-maître...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1035">Moi je ne le suis point, j'aurais honte de l'être.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1036">Je vous en fais mon compliment.</l>
+	<l id="1037">C'est pourtant un état charmant.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1038">Mais de sa part enfin qu'aviez-vous à me dire ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1039">Je ne l'oubliais pas ; je vais vous en instruire.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1040" syll="6" part="i">Eh ! Dépêchez-vous donc.</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1040" syll="6" part="f">Dans une heure au plus tard</l>
+	<l id="1041">Et pas plus tôt. Venez dans ce lieu même.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1042">Et j'y verrai l'objet que j'aime ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1043">Oui. Je crois qu'un heureux hasard</l>
+	<l id="1044">Alors pourra bien l'y conduire.</l>
+	<l id="1045" syll="4" part="i">Y viendrez-vous ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1045" syll="4" part="m">Si j'y viendrai ?</l>
+</sp>
+<sp who="OSMIN"><speaker>OSMIN.</speaker>
+	<l id="1045" syll="2" part="f">J'entends.</l>
+	<l id="1046">Vous serez tous les deux contents .</l>
+	<l id="1047">J'aurai soin de le lui redire...</l>
+	<l id="1048">Croyez-moi cependant, éloignez-vous d'ici :</l>
+	<l id="1049">Hassan, pour dissiper l'ennui</l>
+	<l id="1050">Que sur nos jours ses fers pourraient répandre,</l>
+	<l id="1051">Voudrait remplir tous nos moments</l>
+	<l id="1052">Par de nouveaux amusements.</l>
+	<l id="1053">Ses Esclaves ici doivent bientôt se rendre.</l>
+	<l id="1054">Par leurs danses, et par leurs chants...</l>
+	<l id="1055">Mais ils viennent, je les entends.</l>
+	<l id="1056">Adieu. Gardez-vous bien de vous laisser surprendre.</l>
+</sp>
+</div2>
+<div2 type="intermède" n="3"><head>TROISIÈME INTERMÈDE.</head><stage> Entrée des Esclaves du sérail d'Hassan de différentes Nations.
+</stage>
+<stage type="danse">On danse.</stage>
+<sp who="UNE ESCLAVE"><speaker>UNE ESCLAVE.</speaker>
+<stage type="title">PREMIER AIR.</stage>
+	<l id="1057">Du Maître qui règne sur nous</l>
+	<l id="1058">Chantons toujours l'aimable empire.</l>
+	<l id="1059">Notre repos fait ses soins les plus doux ;</l>
+	<l id="1060">Soyons heureux, c'est tout ce qu'il désire.</l>
+	<l id="1061">Du Maître qui règne sur nous</l>
+	<l id="1062">Chantons toujours l'aimable empire,</l>
+</sp>
+<sp who="UNE ESCLAVE"><speaker>UNE AUTRE ESCLAVE.</speaker>
+<stage type="title">SECOND AIR.</stage>
+	<l id="1063">Puisse le Ciel à nos voeux favorable </l>
+	<l id="1064">Veiller sans cesse sur ses jours ;</l>
+	<l id="1065">Nous jouirons pendant leur cours</l>
+	<l id="1066">D'une félicité durable... </l>
+	<l id="1067">Puisse le Ciel à nos voeux favorable ;</l>
+	<l id="1068">Veiller sans cesse sur ses jours.</l>
+</sp>
+<sp who="LES DEUX ESCLAVES"><speaker>LES DEUX ESCLAVES</speaker><stage type="together">, ensemble.
+	</stage>
+	<l id="1069">Dans ses fers l'Amour nous enchaîne,</l>
+	<l id="1070">D'un Père il a pour nous les soins et la bonté ;</l>
+	<l id="1071">Notre bonheur fait sa félicité,</l>
+	<l id="1072">Tout nous rit, et rien ne nous gêne.</l>
+	<l id="1073">Les charmes de la liberté</l>
+	<l id="1074">Valent bien moins qu'une si douce chaîne.</l>
+</sp>
+<sp who="CHOEUR D'ESCLAVES"><speaker>CHOEUR D'ESCLAVES.</speaker>
+	<l id="1075">Dans ses fers l'Amour nous enchaîne,</l>
+<stage type="bis">etc.</stage>
+<stage type="danse">On danse.</stage>
+</sp>
+<sp who="UNE DES DEUX ESCLAVES"><speaker>UNE DES DEUX ESCLAVES</speaker><stage type="toward">, à Clarice.
+</stage>
+<stage type="title">TROISIÈME AIR.</stage>
+	<l id="1076">L'Amour vous appelle,</l>
+	<l id="1077">Écoutez sa voix ;</l>
+	<l id="1078">À la plus cruelle</l>
+	<l id="1079">Il donne des lois.</l>
+	<l id="1080">Souvent un coeur rebelle,</l>
+	<l id="1081">Qui rebute un amant fidèle ,</l>
+	<l id="1082">Le venge par un mauvais choix.</l>
+	<l id="1083">L'Amour vous appelle,</l>
+	<l id="1084">Écoutez sa voix ;</l>
+	<l id="1085">À la plus cruelle</l>
+	<l id="1086">Il donne des lois.</l>
+<stage type="danse">On danse.</stage>
+</sp>
+<sp who="UNE DES DEUX ESCLAVES"><speaker>UNE DES DEUX ESCLAVES</speaker><stage type="toward">, à Clarice.
+</stage>
+<stage type="title">QUATRIÈME AIR.</stage>
+	<l id="1087">Cesse de pousser des soupirs.</l>
+	<l id="1088">Tout ici prévient vos désirs,</l>
+	<l id="1089">Jouissez des douceurs d'une agréable vie.</l>
+	<l id="1090">Partout où règnent les plaisirs,</l>
+	<l id="1091">Le coeur doit trouver sa patrie.</l>
+<stage type="musique">MUSETTE.</stage>
+</sp>
+<sp who="UNE ESCLAVE"><speaker>UNE ESCLAVE.</speaker>
+	<l id="1092">Nous jouissons</l>
+	<l id="1093">D'un bien suprême</l>
+	<l id="1094">Nous chérissons </l>
+	<l id="1095">Un maître qui nous aime.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="1096">Nous jouissons</l>
+	<l id="1097">D'un bien suprême</l>
+	<l id="1098">Nous chérissons </l>
+	<l id="1099">Un maître qui nous aime.</l>
+</sp>
+<sp who="L'ESCLAVE"><speaker>L'ESCLAVE.</speaker>
+	<l id="1100">L'amour lui-même</l>
+	<l id="1101">Anime nos sons,</l>
+	<l id="1102">Célébrons</l>
+	<l id="1103">Dans nos chansons</l>
+	<l id="1104">Notre bonheur extrême.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="1105">Nous jouissons</l>
+	<l id="1106">D'un bien suprême</l>
+	<l id="1107">Nous chérissons </l>
+	<l id="1108">Un maître qui nous aime.</l>
+</sp>
+<sp who="L'ESCLAVE"><speaker>L'ESCLAVE.</speaker>
+	<l id="1109">Jamais les peines</l>
+	<l id="1110">Ne troublent nos coeurs ?</l>
+	<l id="1111">Ce n'est qu'avec des fleurs</l>
+	<l id="1112">Que sa main forme nos chaînes;</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="1113">Nous jouissons</l>
+	<l id="1114">D'un bien suprême</l>
+	<l id="1115">Nous chérissons </l>
+	<l id="1116">Un maître qui nous aime.</l>
+<stage type="danse">On danse.</stage>
+</sp>
+<sp who="DERNIER CHOEUR"><speaker>DERNIER CHOEUR.</speaker>
+	<l id="1117">Unissons-nous, chantons sans cesse,</l>
+	<l id="1118">Qu'il vive heureux à jamais.</l>
+	<l id="1119">Il ne veut que notre tendresse</l>
+	<l id="1120">Pour prix de ses bienfaits.</l>
+<stage type="danse">Contredanse.</stage>
+<stage type="danse/exit">L'intermède finit par une Contredanse générale, à laquelle se joignent Clarice, Dorise et Isabelle. Tous les Acteurs de l'Intermède sortent en dansant pour aller continuer. Les Jeux dans quelque autre allée des Jardins.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="1121">Je ne vois plus personne dans ces lieux.</l>
+	<l id="1122">Clarice doit bientôt s'y montrer à mes yeux....</l>
+	<l id="1123">Mon impatience est extrême ;</l>
+	<l id="1124">Que les plus courts moments paraissent ennuyeux,</l>
+	<l id="1125">Lorsqu'on attend ce que l'on aime !</l>
+	<l id="1126">Dans la conjoncture où je suis</l>
+	<l id="1127">Tout m'alarme, tout m'inquiète.</l>
+	<l id="1128">J'ai pour Hassan une amitié parfaite,</l>
+	<l id="1129">Je partage sa peine en causant ses ennuis...</l>
+	<l id="1130">Dans le fonds sa tendresse a peu de violence ;</l>
+	<l id="1131">Le bonheur d'un ami doit balancer ses droits :</l>
+	<l id="1132">Il m'en a fait la confidence,</l>
+	<l id="1133">Pour elle il n'a qu'un goût de préférence,</l>
+	<l id="1134">Et c'est sans passion qu'il en a fait le choix...</l>
+	<l id="1135">Il faut lui découvrir... Mais c'est lui que je vois...'.</l>
+	<l id="1136">Que je fuis malheureux ! Il fera fuir Clarice.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Hassan, D'Oberval.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1137">Cher d_Oberval, je vous cherchais,</l>
+	<l id="1138">Vous m'avez fait peut-être l'injustice</l>
+	<l id="1139">De juger mal de mes projets...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1140">Il est vrai qu'aux transports que vous faisiez paraître...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1141">Apprenez-donc à me connaître.</l>
+	<l id="1142">Jusqu'à ce jour de tous mes mouvements,</l>
+	<l id="1143">J'ai, grâce au Ciel, assez été le maître,</l>
+	<l id="1144">Et j'ai suivi de mes plus jeunes ans,</l>
+	<l id="1145">La raison, ou du moins, ce que nous croyons l'être.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1146">Ainsi toujours maître de vous,</l>
+	<l id="1147">Fort généreux d'ailleurs, Fatmé dans sa Patrie</l>
+	<l id="1148">Libre avec son amant, au gré de son envie,</l>
+	<l id="1149">Ira bientôt jouir du destin le plus doux ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1150" syll="4" part="i">Non, Point du tout.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1150" syll="8" part="f">Quoi donc ! quand elle en aime un autre ;</l>
+	<l id="1151">Vous voudriez la forcer à recevoir vos voeux ?</l>
+	<l id="1152">Quel coeur assez tyran !... Je juge mieux du vôtre...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1153" syll="2" part="i">J'espère ....</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1153" syll="6" part="f">Hassan, c'est un projet affreux</l>
+	<l id="1154" syll="6" part="i">Pour vous en détourner....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1154" syll="6" part="f">Mais daignez-donc m'entendre...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1155">L'intérêt qu'en vous je dois prendre</l>
+	<l id="1156">Peut seul causer ma crainte, de j'aurais du chagrin....</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="quick">, vivement.
+	</stage>
+	<l id="1157">Mais ce n'est pas-là mon dessein :</l>
+	<l id="1158">Votre crainte est fort déplacée.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1159">Et quelle est donc votre pensée ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1160">Si vous m'aviez donné l'instant de vous parler,</l>
+	<l id="1161" syll="6" part="i">Vous la sauriez déjà...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1161" syll="6" part="f">Je brûle de l'apprendre.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1162">Eh bien, pour ne vous rien celer,</l>
+	<l id="1163">Mon coeur vient, cher ami, de se laisser surprendre...</l>
+	<l id="1164">Peut-être votre amour est-il contagieux.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1165" syll="6" part="i">Je ne vous comprends point.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1165" syll="6" part="f">Me comprends-je moi-même !</l>
+	<l id="1166">J'ai vu Fatmé depuis que j'ai quitté ces lieux....</l>
+	<l id="1167">Il s'est fait dans mon âme un changement extrême.</l>
+	<l id="1168">Non, je n'aimai jamais comme je l'aime.</l>
+	<l id="1169">J'éprouve un sentiment plus vif que les désirs,</l>
+	<l id="1170">Et je fais aujourd'hui l'essai d'un bien suprême,</l>
+	<l id="1171">Que je n'ai point trouvé dans le sein des plaisirs,</l>
+	<l id="1172">Mais aussi je m'apprête un excès de souffrance...</l>
+	<l id="1173">Tout m'annonce, en un mot, que je suis amoureux,</l>
+	<l id="1174">Mais de ce même amour que vous avez tous deux,</l>
+	<l id="1175">Et que je regardais comme une extravagance.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+<stage type="low">Bas.</stage>
+	<l id="1176" syll="4" part="i">Quel contretemps ! </l>
+<stage type="toward">À Hassan.</stage>
+	<l id="1176" syll="8" part="f">Peut-être un peu de résistance...;</l>
+	<l id="1177">Vous n'êtes pas fait à languir.</l>
+	<l id="1178" syll="1" part="i">Et...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1178" syll="11" part="f">Ce n'est point cela. J'en sens la différence.</l>
+	<l id="1179">Sans qu'il en coûte à nos coeurs un soupir,</l>
+	<l id="1180">On nous résiste ici peut-être plus qu'en France.</l>
+	<l id="1181">Sur ces obstacles-là nous sommes aguerris,</l>
+	<l id="1182">Ils ne sauraient porter le trouble dans nos âmes.</l>
+	<l id="1183">Sûrs de notre victoire, elle perd tout son prix :</l>
+	<l id="1184">Nos droits, les préjugés où nous sommes nourris,</l>
+	<l id="1185">Tout nous fait vivre avec nos femmes,</l>
+	<l id="1186">Comme en France font vos maris.</l>
+	<l id="1187">C'est dans ce doux repos que j'ai coulé ma vie.</l>
+	<l id="1188">Tout change en ce moment, mon âme est attendrie ;</l>
+	<l id="1189">Par un charme inconnu mon coeur est animé...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1190">C'est donc un accès de folie :</l>
+	<l id="1191">Avant l'aveu que vous a fait Fatmé</l>
+	<l id="1192">Votre tendresse eût été naturelle ;</l>
+	<l id="1193">Mais au moment que vous apprenez d'elle,</l>
+	<l id="1194">Que son coeur d'un autre est charmé...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1195">Un Amant qu'on aimait peut n'être plus aimé :</l>
+	<l id="1196">Est-ce une chose si nouvelle ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="sad">, tristement.
+	</stage>
+	<l id="1197">Non pas, et quelquefois.... Mais enfin la raison...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1198">Sur moi tous ses conseils ont perdu leur empire,</l>
+	<l id="1199">Et vous-même malgré la vive passion</l>
+	<l id="1200">Qu'un objet chéri vous inspire,</l>
+	<l id="1201">À ma place peut-être, en voyant tant d'appas,</l>
+	<l id="1202">Vous vous seriez laissé séduire.</l>
+	<l id="1203">Quelle est intéressante !... Ah ! Je ne puis vous dire...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1204">Avant ce jour ne l'était-elle pas ?</l>
+	<l id="1205" syll="6" part="i">Vous n'y pensez donc point ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1205" syll="6" part="f">J'y pense, et j'en soupire.</l>
+	<l id="1206">Vous m'avez vu tantôt inquiet, interdit,</l>
+	<l id="1207">Et pénétré de ma disgrâce ;</l>
+	<l id="1208">Mais ce mouvement de dépit</l>
+	<l id="1209">Au sang froid a bientôt fait place.</l>
+	<l id="1210">Je triomphais de moi : ma sincère amitié</l>
+	<l id="1211">De mon aimable esclave allait briser les chaînes ;</l>
+	<l id="1212">Je sentais que mon coeur ouvert à la pitié,</l>
+	<l id="1213">En gênant son amour se chargeait de ses peines.</l>
+	<l id="1214">J'ai couru chez Fatmé plein de ce sentiment.</l>
+	<l id="1215">J'exprimerais trop faiblement</l>
+	<l id="1216">L'état attendrissant dans lequel je l'ai vue :</l>
+	<l id="1217">Mon âme en est encor émue...</l>
+	<l id="1218">Avez-vous remarqué ce visage charmant,</l>
+	<l id="1219">Cette bouche, ses yeux, ce sourire agréable ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="offended">, d'un ton fâché.
+	</stage>
+	<l id="1220">Il faut en convenir, sa figure est aimable.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1221">Son regard est modeste, de cependant flatteur ;</l>
+	<l id="1222">Une grâce naïve anime sa douceur ;</l>
+	<l id="1223">Elle est jeune, charmante, de pourtant raisonnable.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="nervous">, impatienté.
+	</stage>
+	<l id="1224">Son caractère est sans doute estimable ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1225" syll="6" part="i">Sa gaîté , son esprit....</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1225" syll="6" part="f">Ont un attrait vainqueur,</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1226">Et ce son de voix adorable</l>
+	<l id="1227">Qui semble n'être fait que pour parler au coeur ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1228">Il est vrai rien n'est comparable</l>
+	<l id="1229">À ce son de voix enchanteur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1230">Eh bien ! Voilà pourtant les moindres de ses charmes.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+<stage type="low">Bas.</stage>
+	<l id="1231">Comment donc ! Ciel ! Quelles alarmes</l>
+<stage type="low">Bas.</stage>
+	<l id="1232">Hassan, expliquez-vous.... Je suis au désespoir.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1233">Je ne connaissais pas l'invincible pouvoir</l>
+	<l id="1234">De deux beaux yeux attendris par les larmes,</l>
+	<l id="1235">Je l'ai trouvée en proie à ses douleurs</l>
+	<l id="1236">Les divers mouvements de son âme trop tendre,</l>
+	<l id="1237">L'amour, l'espoir, son trouble, ses frayeurs</l>
+	<l id="1238">Se peignaient tour à tour, et semblaient se répandre</l>
+	<l id="1239">Sur son visage embelli par les pleurs.</l>
+	<l id="1240">Contre un pareil tableau pouvais-je me défendre ?</l>
+	<l id="1241">Ses discours m'ont encor porté de nouveaux coups.</l>
+	<l id="1242">Un mouvement involontaire</l>
+	<l id="1243">M'a fait tomber à ses genoux !...</l>
+	<l id="1244">Que n'ai-je pas dit pour lui plaire !</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1245">Ah ! Que répondait-elle à des transports si doux ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1246">Elle m'a laissé voir, entre nous,</l>
+	<l id="1247">Plus de bonté que de colère.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1248" syll="2" part="i">Volage !... </l>
+<stage type="loud">Haut.</stage>
+	<l id="1248" syll="10" part="f">Ainsi bientôt vous serez son époux ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1249">Daignez m'aider, et je l'espère.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1250">Moi vous aider !... Jamais je ne fus si jaloux.</l>
+	<l id="1251">Je ne vous suis plus nécessaire :</l>
+	<l id="1252">Adieu. Pour terminer heureusement l'affaire</l>
+	<l id="1253">C'est assez et d'elle et de vous.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="stop">, l'arrêtant.
+	</stage>
+	<l id="1254">Ne m'abandonnez point, cher ami, je vous prie.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1255" syll="4" part="i">Quoi ! Vous voulez... </l>
+<stage type="low">Bas.</stage>
+	<l id="1255" syll="6" part="f">Le singulier emploi !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1256">À me servir l'amitié vous convie.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1257">Je m'en ferais une suprême loi :</l>
+	<l id="1258">Mais je suis en galanterie</l>
+	<l id="1259">Très maladroit, même pour moi.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1260">Songez-donc qu'il y va du bonheur de ma vie :</l>
+	<l id="1261">Je vois entre mes soins de son premier amant,</l>
+	<l id="1262">Chanceler son âme timide.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1263">Croyez-moi, de son changement</l>
+	<l id="1264">Reposez-vous sur son sexe inconstant.</l>
+	<l id="1265">Le caprice seul le décide,</l>
+	<l id="1266">L'inconstance même le guide,</l>
+	<l id="1267">Et semble être son élément.</l>
+	<l id="1268">La femme à qui l'on croît le goût le plus solide,</l>
+	<l id="1269">Pour devenir ou volage, ou perfide,</l>
+	<l id="1270">N'a besoin que de son penchant.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1271">Cher ami, vous pouvez hâter son inconstance.</l>
+	<l id="1272">Hassan ( m'a-t-elle dit, mais d'un air si touchant,</l>
+	<l id="1273">Qu'elle a rempli mon coeur d'amour de d'espérance. )</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1274">Peut on souffrir de plus rude tourment !</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1275">« En votre ami j'ai confiance ;</l>
+	<l id="1276">Dans l'embarras où je me vois,</l>
+	<l id="1277">J'ai besoin de conseil. Chargez-vous de lui dire,</l>
+	<l id="1278">Que par les siens je prétends me conduire :</l>
+	<l id="1279">Qu'il trouve des moyens, de qu'il compte sur moi. »</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1280">Ne vous trompez-vous point ? Est-ce bien sa réponse ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1281">Je vous rends mot à mot la conversation.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1282">J'entends ce qu'elle nous annonce.</l>
+	<l id="1283">Je me rends, j'avais tort, de vous aviez raison.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1284">Je puis donc espérer que pour moi votre zèle...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1285">Soyez-en sûr. Je m'en fais un devoir.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1286">Dans mon coeur ce seul mot rappelle</l>
+	<l id="1287">Le plaisir, l'amour, de l'espoir,</l>
+	<l id="1288">J'ai quelqu'ordre à donner malgré moi je vous laisse ;</l>
+	<l id="1289">Mais dans peu de moments je compte vous revoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="1290">Quelle épreuve pour ma tendresse !</l>
+	<l id="1291">Malgré moi je le vois, il faut user d'adresse,</l>
+	<l id="1292">L'avantage entre nous est par trop inégal ;</l>
+	<l id="1293">Ici je dois trembler sans cesse.</l>
+	<l id="1294">Qu'un Turc dans son sérail qui garde une maîtresse</l>
+	<l id="1295">Est un redoutable rival !</l>
+	<l id="1296">Il faut que je l'arrache à ce sérail horrible...</l>
+	<l id="1297">C'est un pas difficile, et les dangers sont grands,</l>
+	<l id="1298">Je le sais ; mais je suis dans un état terrible,</l>
+	<l id="1299">Et tout doit être et permis et possible</l>
+	<l id="1300">À la passion que je sens.</l>
+	<l id="1301">J'entends quelqu'un... C'est Clarice sans doute.</l>
+	<l id="1302">Son coeur approuvera le parti que je prends...</l>
+	<l id="1303">Mais c'est Dorise,... Ô Ciel !... Quel nouveau contretemps !</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Dorise, D'Oberval.
+</stage>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1304">Je ne puis exprimer le plaisir que je goûte.</l>
+	<l id="1305">Enfin je vous revois. J'ai pris si bien mon temps,</l>
+	<l id="1306">Que j'ai trompé l'essaim de surveillants</l>
+	<l id="1307">Qui sans_cesse en ces  lieux nous fuit et nous écoute.</l>
+	<l id="1308">L'Esclave qui tantôt vous a vu de ma part...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1309">Quoi ! C'est de vous que venait ce message ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1310">Assurément. Mais est-ce le hasard</l>
+	<l id="1311">Qui vous a seul appris notre esclava[ge]</l>
+	<l id="1312">Cher d_Oberval, mon coeur brûle d'être éclairci.</l>
+	<l id="1313">Si je l'en crois, l'Amour vous a conduit ici,</l>
+	<l id="1314">Et par vos mains il va briser ma chaîne.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1315">N'en doutez point... c'est l'Amour qui m'amène.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="quick">, vivement.
+	</stage>
+	<l id="1316">Mon espoir n'est donc point trahi.</l>
+	<l id="1317">Eh bien ! Quand quittons-nous ces lieux que je déteste ?</l>
+	<l id="1318">Hassan apparemment ne s'est point démenti.</l>
+	<l id="1319">Je ne crois pas qu'avec vous il conteste.</l>
+	<l id="1320">A-t-il fixé le jour de notre liberté ?...</l>
+	<l id="1321" syll="6" part="i">Mais répondez-moi donc ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1321" syll="6" part="f">Non. Rien n'est arrêté.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1322">Tant pis, et ce retard peut nous être funeste.</l>
+	<l id="1323">De Clarice il est entêté ;</l>
+	<l id="1324">Mais il s'agit de ma félicité, </l>
+	<l id="1325">Et je consens qu'elle lui reste.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1326">L'aimez-vous assez peu pour cette cruauté ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1327">Mais.... je l'aime beaucoup. L'amour d'Hassan m'afflige...</l>
+	<l id="1328">Cependant l'honneur le dirige,</l>
+	<l id="1329">Et pour elle il pourrait devenir un grand bien.</l>
+	<l id="1330">Ne vous a-t-il parlé de rien ?</l>
+	<l id="1331">Il prétend l'épouser. Il en est fou, vous dis-je.</l>
+	<l id="1332">Vous êtes étonné... J'imagine un moyen</l>
+	<l id="1333">Dont je conçois une grande espérance.</l>
+	<l id="1334">Il est bon homme au fond, amoureux, opulent,</l>
+	<l id="1335">C'est pour ma nièce un établissement</l>
+	<l id="1336">Bien meilleur que celui qu'elle peut faire en France.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1337" syll="6" part="i">Vous vous moquez, je crois...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="serious">, d'un air sensé.
+	</stage>
+	<l id="1337" syll="6" part="f">Non sérieusement,</l>
+	<l id="1338">C'est à raisonner sensément</l>
+	<l id="1339">Une affaire de conséquence.</l>
+	<l id="1340">Voyez donc Hassan promptement.</l>
+	<l id="1341">Je puis disposer de Clarice :</l>
+	<l id="1342">Assurez-le de mon consentement,</l>
+	<l id="1343">Pourvu que sans retardement</l>
+	<l id="1344">Avec vous il me réunisse.</l>
+	<l id="1345">Je ne balance plus... vous paraissez distrait ? Qu'avez-vous donc ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1346">Excusez ma faiblesse...</l>
+	<l id="1347">De me voir avec vous je suis fort satisfait ;</l>
+	<l id="1348">Mais c'est... dans un sérail, et ce séjour me blesse.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1349">Qu'Hassan n'alarme point votre délicatesse.</l>
+	<l id="1350">C'est le plus sage Turc que la Nature ait fait ;</l>
+	<l id="1351">Il pousse le respect jusqu'à l'impolitesse.</l>
+	<l id="1352">D'aucun soupçon jaloux ne soyez tourmenté.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1353">Oh ! Sur ce point mon coeur est dans un calme extrême ;</l>
+	<l id="1354">Et franchement si je suis agité ;</l>
+	<l id="1355">C'est que je tremble pour moi-même.</l>
+	<l id="1356">Tous ces esclaves noirs, le poignard, le cordon....</l>
+	<l id="1357">Si l'on nous surprenait... seul contre cent peut-être.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1358">Je ne suis plus tranquille... Oui, vous ayez raison.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1359">Un homme en un moment ici peut cesser d'être.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1360">Il est vrai. Sortez. Je frémis</l>
+	<l id="1361">Du danger où je vous ai mis.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1362">Si vous voulez pourtant que je demeure...</l>
+	<l id="1363">L'honneur de vous revoir est pour moi d'un tel prix...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1364">Non. Je meurs de frayeur que vous soyez surpris.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1365" syll="6" part="i">Vous l'ordonnez au moins.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1365" syll="6" part="f">Oui. Sortez tout à l'heure.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1366">Il n'est plus temps, nous sommes pris.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1367">Les châtiments les plus sévères</l>
+	<l id="1368">Ne sauraient m'effrayer. Je vais vous dégager.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Hassan, Dorise, D'Oberval.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="entrance/toward">, en entrant k un Esclave.
+	</stage>
+	<l id="1369" syll="6" part="i">Avertissez Fatmé.</l>
+<stage type="toward">À d'Oberval. </stage>
+	<l id="1369" syll="6" part="f">J'ai fini mes affaires,</l>
+	<l id="1370">L'amour a Su les abréger.</l>
+	<l id="1371" syll="6" part="i">Agariste, est-ce vous ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1371" syll="6" part="f">Pardonnez une offense</l>
+	<l id="1372">Que nous avons tous deux commise innocemment.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage>, à d'Oberval.
+	</stage>
+	<l id="1373">Vous m'attendiez ici moins promptement ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1374">Vous êtes dans ces lieux choqué de sa présence ;</l>
+	<l id="1375">Mais un invincible penchant....</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="toward">, à Dorise.
+	</stage>
+	<l id="1376" syll="4" part="i">Y pensez-vous ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="1376" syll="4" part="f">Laissez-moi faire :</l>
+	<l id="1377">J'ai dans la tête un aveu si touchant,</l>
+	<l id="1378">Qu'il désarmera sa colère.</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="1379">Il ignore vos lois, et j'ai fait pour le voir</l>
+	<l id="1380">Cette démarche téméraire.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage>, à Dorise.
+	</stage>
+	<l id="1381" syll="2" part="i">Eh bien !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1381" syll="10" part="f">La liberté n'est pas mon seul espoir ;</l>
+	<l id="1382">Et puisqu'il faut vous parler sans mystère,</l>
+	<l id="1383">Vous voyez un Amant réduit au désespoir.</l>
+	<l id="1384">Nous nous aimons... mais d'un amour si tendre ..,.</l>
+	<l id="1385">Non, rien ne peut nous forcer à changer.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1386" syll="6" part="i">Eh de qui parlez-vous ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1386" syll="6" part="f">De ce jeune étranger</l>
+	<l id="1387">Que votre abord ici vient de surprendre.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1388" syll="4" part="i">De d_Oberval !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1388" syll="2" part="m">Sans doute.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1388" syll="6" part="f">Elle est folle, je crois...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1389">Après l'aveu que vous venez d'entendre,</l>
+	<l id="1390">Sur mon coeur voudriez-vous abuser de vos droits ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1391">Quoi ! Réellement il vous aime ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1392">Nous nous aimons à la fureur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="1393">Serait-ce là l'objet de cette ardeur extrême,</l>
+	<l id="1394">Dont la perte accablait votre âme de douleur ;</l>
+	<l id="1395" syll="9" part="i">Cette Maîtresse... sage... adorable ?...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1395" syll="3" part="f">Oui. Moi-même.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à d'Oberval.
+	</stage>
+	<l id="1396">Avez vous donc perdu l'usage de la voix ?</l>
+	<l id="1397">Votre goût, à vrai dire, est bien un peu bizarre ;</l>
+	<l id="1398" syll="3" part="i">Mais enfin...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1398" syll="9" part="f">Je n'ai point à rougir de mon choix... ;</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1399" syll="6" part="i">Vous l'aimez donc bien fort ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1399" syll="6" part="f">Mais il vous le déclare,.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1400">J'en conviens : tout a dû le lui persuader.</l>
+	<l id="1401" syll="6" part="i">Il est vrai cependant....</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1401" syll="6" part="f">En doutez-vous encore ?</l>
+	<l id="1402">D'Oberval m'aime, je l'adore.</l>
+	<l id="1403">De son bonheur, du mien vous pouvez décider.</l>
+	<l id="1404" syll="6" part="i">Ma nièce vous a plu...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="towar">, à Dorise.
+	</stage>
+	<l id="1404" syll="6" part="f">Qu'allez-vous hasarder ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1405">Votre main, je le sais, l'honore,</l>
+	<l id="1406">À mon amant voulez-vous me céder ?</l>
+	<l id="1407">Quittons ensemble Alger, je vais vous l'accorder.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1408">Oh ! Vous êtes charmante de mon âme est ravie.</l>
+	<l id="1409">Aujourd'hui tout succède au gré de mon envie...</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Isabelle, Clarice, d'Oberval, Dorise, Hassan.
+</stage>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1410">Fatmé... Fatmé... Enfin nous serons tous heureux.</l>
+<stage type="showw">En montrant d'Oberval.</stage>
+	<l id="1411">Sa Maîtresse est trouvée de ma joie est parfaite.</l>
+	<l id="1412">Qu'avec plaisir je la rends à ses voeux !</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1413" syll="6" part="i">D'Oberval est-il vrai ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1413" syll="6" part="f">Cessez d'être inquiète ;</l>
+	<l id="1414">Nous quitterons bientôt ces lieux.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1415">Serait-il vrai !... Quoi !... Vos nouveaux bienfaits...</l>
+	<l id="1416">Je suis au comble de la joie.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="1417">Notre malheur est plus grand que jamais ;</l>
+	<l id="1418" syll="6" part="i">Tout est désespéré.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1418" syll="1" part="m">Ciel !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1418" syll="5" part="f">Hassan nous renvoie.</l>
+<stage type="toward">À Isabelle.</stage>
+	<l id="1419">L'arrangement est fait, vous viendrez avec nous.</l>
+	<l id="1420">L'Amour va nous filer des jours d'or de de soie</l>
+<stage type="toward/show">À Clarice en montrant Hassan.</stage>
+	<l id="1421">J'épouse d_Oberval il fera votre époux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="ironic">, ironiquement.
+	</stage>
+	<l id="1422">Que cet arrangement est bien digne de vous.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1423">Je suis comblé qu'il ait votre suffrage.</l>
+	<l id="1424">L'Amour me parle pour Fatmé,</l>
+	<l id="1425">Mais de votre amitié charmé,</l>
+	<l id="1426">Entre elle et vous la mienne se partage[.]</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1427">Abrégeons ces vains compliments</l>
+	<l id="1428">Achevons promptement cette heureuse entreprise.</l>
+	<l id="1429">Que des demain et l'amour et les vents</l>
+	<l id="1430">Conduisent sur les flots d_Oberval et Dorise.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1431" syll="6" part="i">Quelle est cette Dorise ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1431" syll="6" part="f">Apparemment c'est moi.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1432" syll="1" part="i">Vous !</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1432" syll="3" part="m">Eh ? Qui donc ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1432" syll="4" part="f">Nouvelle crise.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1433" syll="6" part="i">Hâtons-nous de partir.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1433" syll="6" part="f">Ferais-je une méprise ?...</l>
+<stage type="toward">À D'Oberval.</stage>
+	<l id="1434">Je ne me trompe point... parlez de bonne foi.</l>
+	<l id="1435">Vous nommiez autrement cette chère maîtresse ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1436">Il me donnait sans doute, en vous peignant mes traits</l>
+	<l id="1437">De ces noms enchanteurs qu'invente la tendresse...</l>
+	<l id="1438">Oh ! Dans ces noms charmants je trouve tant d'attraits...</l>
+	<l id="1439">C'est un raffinement, une délicatesse...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1440">Je dois m'en souvenir, il en parlait sans cesse.</l>
+	<l id="1441">Une Clarice était l'objet de ses regrets..</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1442" syll="6" part="i">Une Clarice ? Erreur.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1442" syll="3" part="m">J'en suis sûr.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1442" syll="3" part="f">Je connais</l>
+	<l id="1443">Mieux que vous ce qui l'intéresse.</l>
+	<l id="1444" syll="6" part="i">Vous confondez les noms.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1444" syll="6" part="f">Parbleu je gagerais...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1445">Ne vous obstinez pas. Vous savez nos secrets ;</l>
+	<l id="1446">Et cette Clarice est ma nièce.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1447" syll="6" part="i">Votre Nièce ! Fatmé ?</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1447" syll="3" part="m">Justement.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1447" syll="3" part="f">D_Oberval ?...</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1448" syll="4" part="i">Quel coup de foudre !</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE</speaker><stage type="toward">, à Clarice.
+	</stage>
+	<l id="1448" syll="8" part="f">Allons faites tête à l'orage :</l>
+	<l id="1449">Vous touchez à l'instant fatal</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1450">C'est Clarice !... Ils s'aimaient... Ah ! Fatmé quel rival...</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1451" syll="6" part="i">Je ne sais où j'en suis...</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="1451" syll="6" part="f">Armez-vous de courage.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1452">Qu'avez-vous donc ? Vous semblez étonnés[.]</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="1453">Nous admirons tous votre ouvrage.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1454">Mais on n'a jamais vu des fronts si consternés</l>
+	<l id="1455">À la veille d'un mariage... ;</l>
+	<l id="1456">Vous êtes interdits... personne ne répond !</l>
+<stage type="toward">À d'Oberval.</stage>
+	<l id="1457">Eh ! D'où vient donc Monsieur ce silence profond ?</l>
+	<l id="1458">Mais d'une conduite pareille</l>
+	<l id="1459">Je suis scandalisée à parler franchement,</l>
+	<l id="1460">Si je suivais mon premier mouvement,</l>
+	<l id="1461" syll="6" part="i">Je romprais sur le champ.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage>, tristement.
+	</stage>
+	<l id="1461" syll="6" part="f">Et je vous le conseille.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1462" syll="6" part="i">Vous me le conseillez ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1462" syll="6" part="f">Oui vraiment, et très fort.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1463" syll="6" part="i">Pourquoi donc s'il vous plaît ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1463" syll="6" part="f">C'est que l'avis est sage;</l>
+	<l id="1464">Croyez-moi. Préparez votre âme à cet effort.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1465">Allez, vous plaisantez, et vous assez grand tort.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1466">Souvent la vérité prend l'air du badinage.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1467">Quoi je romprais lorsque tout est d'accord !...</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="1468" syll="6" part="i">Mais de quoi riez-vous ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1468" syll="6" part="f">Je ris de moi d'abord.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1469">Permis à vous d'user d'un pareil privilège</l>
+	<l id="1470">Et pour le partager nous n'avons qu'à vouloir.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1471">Mais Madame vous le dirai-je ?</l>
+	<l id="1472" syll="6" part="i">Je ris aussi de vous.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1472" syll="6" part="f">De moi ! Je veux savoir</l>
+	<l id="1473">La raison d'un pareil langage.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1474">Vous auriez dû plutôt la voir.</l>
+	<l id="1475">Pardonnez ma franchise et faites en usage.</l>
+	<l id="1476">L'Amour n'est pas fait pour notre âge</l>
+	<l id="1477">En vous voyant je viens d'apercevoir</l>
+	<l id="1478">Que je jouais, sans le savoir,</l>
+	<l id="1479">Un ridicule et fort sot personnage,</l>
+	<l id="1480">Vous m'avez servi de miroir.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1481">Il extravague, et c'est un vrai délire.</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1482">Un rayon d'espoir vient me luire.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1483" syll="4" part="i">Je tremble encore.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à Isabelle.
+	</stage>
+	<l id="1483" syll="8" part="f">Daignez me parler sans détour.</l>
+	<l id="1484" syll="9" part="i">Fatime votre coeur est—il libre ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="1484" syll="3" part="f">Oui l'Amour</l>
+	<l id="1485">N'a point encor troublé le repos de ma vie.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE</speaker><stage type="quick">, vivement.
+	</stage>
+	<l id="1486">Elle vous parle avec candeur,</l>
+	<l id="1487" syll="3" part="i">Je réponds d'elle.</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1487" syll="6" part="f">Et malgré mon erreur,</l>
+	<l id="1488">Ou plutôt malgré ma folie,</l>
+	<l id="1489">M'estimez-vous assez pour accepter ma main ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1490">Oh ! Rien n'égale son estime.</l>
+	<l id="1491">Elle me le disait encore ce matin.</l>
+</sp>
+<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+	<l id="1492" syll="6" part="i">Il est vrai. Je l'ai dit.</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1492" syll="6" part="f">Quel est donc son dessein !...</l>
+<stage type="toward">À Hassan.</stage>
+	<l id="1493">Voulez-vous épouser de ma nièce et Fatime ?</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1494">Je veux les rendre heureuses toutes deux.</l>
+	<l id="1495">Fatmé vous m'entendez. Un peu plus de franchise</l>
+	<l id="1496">Vous aurait épargné bien des instants fâcheux,</l>
+	<l id="1497">Et m'aurait empêché de faire une sottise.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1498">Soyez sûr désormais de ma tendre amitié...</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN.</speaker>
+	<l id="1499">Aimez-moi l'un de l'autre de tout est oublié.</l>
+	<l id="1500">N'attendons que le vent pour voguer vers la France,</l>
+	<l id="1501">J'assure mon bonheur en vous rendant heureux.v</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1502">D'Oberval garde le silence,</l>
+	<l id="1503">Clarice détourne les yeux...</l>
+	<l id="1504">De mon amour trop occupée</l>
+	<l id="1505">Tous les deux m'auraient-ils dupée ?</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1506">Vous avez pris pour vous ce qu'il pensait pour moi ?</l>
+</sp>
+<sp who="D'OBERVAL"><speaker>D'OBERVAL.</speaker>
+	<l id="1507">J'en agissais de bonne foi</l>
+	<l id="1508">Vous vous êtes seule trompée[.]</l>
+</sp>
+<sp who="HASSAN"><speaker>HASSAN</speaker><stage type="toward">, à Dorise.
+	</stage>
+	<l id="1509">De ma raison je vous dois le retour,</l>
+	<l id="1510">Et je voudrais fort à mon tour...</l>
+</sp>
+<sp who="DORISE"><speaker>DORISE.</speaker>
+	<l id="1511">Je vous entends. J'étais de nous cinq la plus folle,</l>
+	<l id="1512">J'en conviens ; mais enfin vous vous mariez tous :</l>
+	<l id="1513">Moi je demeure veuve de ce qui me console :</l>
+	<l id="1514">Je suis dès ce moment bien plus sage que vous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE DERNIÈRE.</head><stage> Apollon, La Satire, Thalie, Melpomène, La Renommée, Clio.
+</stage>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="1515">Me voilà, grâce au Ciel, à la fin de mon rôle.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON</speaker><stage>, à Thalie.
+	</stage>
+	<l id="1516">Êtes-vous contente de nous ?</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE.</speaker>
+	<l id="1517">Oui, de tous vos efforts Thalie est satisfaite ;</l>
+	<l id="1518">Le zèle vous a faits des acteurs assez bons.</l>
+	<l id="1519">Mais ma pièce... Ce point franchement m'inquiète.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="1520">Rassurez-vous. Le motif qui l'a faite</l>
+	<l id="1521" syll="6" part="i">En couvre les défauts...</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="1521" syll="6" part="f">Sans rajeunir le fonds</l>
+	<l id="1522">Qui, pour vous parler vrai, m'a paru misérable.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="1523">Le style en est assez passable,</l>
+	<l id="1524">Et vos bonnes intentions...</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="1525">N'empêchent pas qu'on ne s'ennuie.</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="1526" syll="6" part="i">Vous aviez peu de temps...</l>
+</sp>
+<sp who="LA SATIRE"><speaker>LA SATIRE.</speaker>
+	<l id="1526" syll="6" part="f">Oh ! Les belles raisons !</l>
+	<l id="1527" syll="6" part="i">Pour nous faire bailler....</l>
+</sp>
+<sp who="THALIE"><speaker>THALIE</speaker><stage type="toward">, à la Satire.
+	</stage>
+	<l id="1527" syll="6" part="f">Je n'ai point la folie</l>
+	<l id="1528">D'espérer de vous voir contrainte d'approuver,</l>
+	<l id="1529">Je sais contre l'ennui que rien ne justifie.</l>
+	<l id="1530">Sans que votre orgueil s'en défie.</l>
+	<l id="1531">Vos écrits très souvent ont l'art de le prouver.</l>
+<stage type="noise">On entend un bruit confus de voix et et instrument derrière le Théâtre.</stage>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="1532">Mais quel bruit tout à coup, quel tumulte au Parnasse ?</l>
+</sp>
+<sp who="LA RENOMMÉE"><speaker>LA RENOMMÉE.</speaker>
+<stage type="noise">Bruit.</stage>
+	<l id="1533">Ce sont les cris, d'un peuple heureux.</l>
+	<l id="1534">Dont la foule ici se ramasse.</l>
+	<l id="1535" syll="5" part="i">Il voudrait entrer...,</l>
+</sp>
+<sp who="APOLLON"><speaker>APOLLON.</speaker>
+	<l id="1535" syll="3" part="f">Ah ! Tant mieux.</l>
+	<l id="1536">Qu'il entre, qu'on le laisse faire.</l>
+	<l id="1537">Le coeur dicte sa joie, elle est toujours sincère ;</l>
+	<l id="1538">Ne songeons qu'à nous réjouir.</l>
+	<l id="1539">Ce jour bannit les rangs, le bonheur les égale.</l>
+	<l id="1540">La joie est ici générale</l>
+	<l id="1541">Tous les États doivent se doivent se réunir.</l>
+<stage type="explicit">Le succès seul pouvait justifier ce divertissement ; mais il a été si singulier, les applaudissements qu'il a reçu ont été si vifs, si unanimes, si souvent répétés qu'il me dispensent d'avance de répondre aux critiques qu'on pourrait en faire.</stage>
+<stage type="decor">La Ferme s'ouvre, on voit dans l'enfoncement des tréteaux ornés de lampions représentant le chiffre du Roi.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="divertissement" n="4"><head>DIVERTISSEMENT</head>
+<div2 type="entrée" n="1"><head>PREMIÈRE ENTRÉE.</head>
+<stage type="costume/danse/sing">Le peuple dans les habits de tous les caractères qui lui sont propres, distribué par deux, trois et quatre Danse et chante, il arrive insensiblement, s'empare du théâtre et se mêle avec les premiers acteurs.</stage>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+<stage type="title">BRANLE.</stage>
+<poem type="branle">
+<lg n="1">
+	<l id="1542">Allons tretous.</l>
+	<l id="1543">Trémoussons nous,</l>
+	<l id="1544">Faisons réjouissance.</l>
+	<l id="1545">Chez nous tout est en gaîté,</l>
+	<l id="1546">Dansons la contredanse.</l>
+<note type="C">Le roi Louis XV est tombé gravement malade à Metz le 4 août 1744.</note>
+	<l id="1547">Le Ciel a rendu la santé</l>
+	<l id="1548">À ce bon Roi de France.</l>
+</lg>
+<lg n="2">
+	<l id="1549">Grands et petit</l>
+	<l id="1550">Tous réjouis</l>
+	<l id="1551">Viennent en affluence,</l>
+	<l id="1552">Tout le monde est enchanté</l>
+	<l id="1553">De sa convalescence,</l>
+	<l id="1554">Le Ciel conserve la Santé</l>
+	<l id="1555">De ce bon Roi de France.</l>
+</lg>
+<lg n="3">
+	<l id="1556">Que sert l'esprit ?</l>
+	<l id="1557">Tout est bien dit</l>
+	<l id="1558">Quand c'est le coeur qui pense :</l>
+	<l id="1559">Alors sans témérité,</l>
+	<l id="1560">On dit en assurance.</l>
+	<l id="1561">Le Ciel conserve la santé</l>
+	<l id="1562">De ce bon Roi de France.</l>
+</lg>
+<lg n="4">
+	<l id="1563">Eh haut les bras</l>
+	<l id="1564">Les cervelas</l>
+	<l id="1565">Pleuvent en abondance.</l>
+	<l id="1566">Chez nous tout est en gaîté</l>
+	<l id="1567">Dansons la contredanse :</l>
+	<l id="1568">Le Ciel a rendu la santé</l>
+	<l id="1569">À ce bon Roi de France.</l>
+</lg>
+<lg n="5">
+	<l id="1570">En tout je n'ons</l>
+	<l id="1571">Qu'un petit fonds</l>
+	<l id="1572">Et fort peu de finance ;</l>
+	<l id="1573">Mais Morgué pour de gaîté</l>
+	<l id="1574">J'en aurons abondance</l>
+	<l id="1575">Tant que durera la santé</l>
+	<l id="1576">De ce bon Roi de France.</l>
+</lg>
+</poem>
+</sp>
+</div2>
+<div2 type="entrée" n="2"><head>SECONDE ENTRÉE.</head>
+<stage stage="sing/danse">Une jeune Paysanne, avec son mari chantent en entrant le Branle suivant.</stage>
+<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+	<l id="1577">Je n'ons plus de peur</l>
+	<l id="1578">Pour notre bonheur,</l>
+	<l id="1579">Car notre bon Roi</l>
+	<l id="1580">Est dru comme moi.</l>
+</sp>
+<sp who="LA PAYSANNE"><speaker>LA PAYSANNE.</speaker>
+	<l id="1581">Hélas ! Que de frayeurs !</l>
+	<l id="1582">Que de vives douleurs !</l>
+	<l id="1583">Il semblait par nos cris</l>
+	<l id="1584">Que la mort eut pris</l>
+	<l id="1585">Nos pères ou nos fils.</l>
+</sp>
+<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+	<l id="1586">J'étions tous perdus ;</l>
+	<l id="1587">Mais le mal n'est plus.</l>
+	<l id="1588">Faut s'en souvenir</l>
+	<l id="1589">Pour se réjouir.</l>
+</sp>
+<sp who="LA PAYSANNE"><speaker>LA PAYSANNE.</speaker>
+	<l id="1590">Ciel ! Veille sur ses jours,</l>
+	<l id="1591">Pour prolonger leur cours</l>
+	<l id="1592">Rends les nôtres plus courts.</l>
+	<l id="1593">Comble tous ses voeux</l>
+	<l id="1594">Nous serons heureux.</l>
+<stage type="danse">Un pas de deux pantomimes entre le paysan et la paysanne.</stage>
+</sp>
+</div2>
+<div2 type="entrée" n="3"><head>TROISIÈME ENTREÉE.</head>
+<stage type="entrance/danse/sing">Une troupe de mitrons de Gonesse, deux harangères, et entrent en chantant et dansant le Branle suivant.</stage>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+<poem type="branle">
+<lg n="1">
+	<l id="1595">Nous courrons la prétentaine</l>
+	<l id="1596">Chantant par le chemin</l>
+	<l id="1597">Soir et matin</l>
+	<l id="1598">Ce beau refrain,</l>
+	<l id="1599">Jusqu'à perdre haleine</l>
+	<l id="1600">Vive le Roi, vive la Reine,</l>
+	<l id="1601">Et Monseigneur le Dauphin.</l>
+</lg>
+<lg n="2">
+	<l id="1602">Je ne sommes plus en peine</l>
+	<l id="1603">Pour notre Souverain,</l>
+	<l id="1604">Plus de chagrin,</l>
+	<l id="1605">Grâce au destin</l>
+	<l id="1606">La peur serait vaine :</l>
+	<l id="1607">Vive le Roi, vive la Reine,</l>
+	<l id="1608">Et Monseigneur le Dauphin.</l>
+</lg>
+<lg n="3">
+	<l id="1609">C'est le plaisir qui nous mène</l>
+	<l id="1610">Aussi j'allons bon train.</l>
+	<l id="1611">Verse du Vin</l>
+	<l id="1612">Verse sans fin</l>
+	<l id="1613">Verse à tasse pleine ?</l>
+	<l id="1614">Vive le Roi, vive la Reine,</l>
+	<l id="1615">Et Monseigneur le Dauphin.</l>
+</lg>
+<lg n="4">
+	<l id="1616">Ah morgué viens ma Claudeine</l>
+	<l id="1617">Buvons de ce bon vin,</l>
+	<l id="1618">Verse tout plein</l>
+	<l id="1619">Verse sans fin,</l>
+	<l id="1620">Quoi tu perds haleine ?</l>
+	<l id="1621">Vive le Roi, vive la Reine,</l>
+	<l id="1622">Et Monseigneur le Dauphin.</l>
+</lg>
+<lg n="5">
+	<l id="1623">Mitrons pour cette semaine</l>
+	<l id="1624">Laissons brûler le pain.</l>
+	<l id="1625">Viens mon cousin,</l>
+	<l id="1626">Saute voisin</l>
+	<l id="1627">Chante ma Claudeine :</l>
+	<l id="1628">Vive le Roi, vive la Reine,</l>
+	<l id="1629">Et Monseigneur le Dauphin.</l>
+</lg>
+</poem>
+<stage type="lazzo">Les différents Lazss que lasituationfournit aux AtleurS sont interrompus par le Branle suivant qu'une Harangère chante.</stage>
+<stage type="dance">Tout le Peuple danse pendant qu'on chante te Branle et la danse n'est interrompue que par le refrain qui esi répété par tout le Peuple.</stage>
+<stage type="title">DERNIER BRANLE.</stage>
+<poem type="branle">
+<lg n="1">
+	<l id="1630">Qu'un chacun ici gambade</l>
+	<l id="1631">Faut tous se boutre_en_train.</l>
+	<l id="1632">Le bon Roi n'est plus malade</l>
+	<l id="1633">Je n'ons plus de chagrin.</l>
+	<l id="1634">Gai gai gai</l>
+	<l id="1635">Eh le coeur gai</l>
+	<l id="1636">Haut le pied camarade.</l>
+	<l id="1637">Dieu marci,</l>
+	<l id="1638">Point de souci ;</l>
+	<l id="1639">N'y a plus de quoi.</l>
+	<l id="1640">Vive le Roi.</l>
+</lg>
+<lg n="2">
+	<l id="1641">Quand je craignions pour sa vie</l>
+	<l id="1642">J'étions comme des fous,</l>
+	<l id="1643">Le bon vin et l'eau-de-vie</l>
+	<l id="1644">Avaient perdu leurs goûts,</l>
+	<l id="1645">Gai gai gai</l>
+	<l id="1646">Eh le coeur gai</l>
+	<l id="1647">Buvons, faisons la vie.</l>
+	<l id="1648">Dieu marci,</l>
+	<l id="1649">Point de souci ;</l>
+	<l id="1650">N'y a plus de quoi.</l>
+	<l id="1651">Vive le Roi.</l>
+</lg>
+<lg n="3">
+	<l id="1652">On oubliait la Guinguette,</l>
+	<l id="1653">On pleurait tout le jour.</l>
+	<l id="1654">La grand Dame et la Grisette</l>
+	<l id="1655">Ne faisaient plus l'amour.</l>
+	<l id="1656">Gai gai gai,</l>
+	<l id="1657">Eh le coeur gai,</l>
+	<l id="1658">Haut le pied Guìllemette,</l>
+	<l id="1659">Dieu marci,</l>
+	<l id="1660">Point de souci ;</l>
+	<l id="1661">N'y a plus de quoi.</l>
+	<l id="1662">Vive le Roi.</l>
+</lg>
+<lg n="4">
+	<l id="1663">Le Marquis, l'apothicaire,</l>
+	<l id="1664">Messieurs les porteurs d'iaus,</l>
+	<l id="1665">La fille et le Commissaire</l>
+	<l id="1666">Aujourd'hui sont égaux.</l>
+	<l id="1667">Viens Fanchon</l>
+	<l id="1668">Viens Margoton,</l>
+	<l id="1669">Viens aussi ma commère,</l>
+	<l id="1670">Dieu marci,</l>
+	<l id="1671">Point de souci ;</l>
+	<l id="1672">N'y a plus de quoi.</l>
+	<l id="1673">Vive le Roi.</l>
+</lg>
+<lg n="5">
+	<l id="1674">Je gagnons journée entière</l>
+	<l id="1675">Pour rien on est nourris,</l>
+	<l id="1676">Comme l'iau à la rivière</l>
+	<l id="1677">Le vin coule à Paris,</l>
+	<l id="1678">Gai gai gai,</l>
+	<l id="1679">Et le coeur gai,</l>
+	<l id="1680">Haut le pied mon compère,</l>
+	<l id="1681">Dieu marci,</l>
+	<l id="1682">Point de souci ;</l>
+	<l id="1683">N'y a plus de quoi.</l>
+	<l id="1684">Vive le Roi.</l>
+</lg>
+<lg n="6">
+<note type="L">Quai de la Grenouillère : Quai de Paris (7ème arr.) entre la rue de Poitiers et l'Esplanade des Invalides ou bien entre le Pont Royal et le Pont Alexandre III.</note>
+	<l id="1685">Du Quai_de_la_Grenouillère</l>
+	<l id="1686">J'ons vu notre Dauphin,</l>
+	<l id="1687">Puisqu'il a quitté son Père</l>
+	<l id="1688">Sa santé va bon train,</l>
+	<l id="1689">Gai gai gai,</l>
+	<l id="1690">Et le coeur gai,</l>
+	<l id="1691">Haut le pied mon compère,</l>
+	<l id="1692">Dieu marci,</l>
+	<l id="1693">Point de souci ;</l>
+	<l id="1694">N'y a plus de quoi.</l>
+	<l id="1695">Vive le Roi.</l>
+</lg>
+<lg n="7">
+	<l id="1696">Lorsque Mesdames partire[z] :</l>
+	<l id="1697">C'était une piquié,</l>
+	<l id="1698">En passant all' ne nous firent</l>
+	<l id="1699">Pas un brain d'amiquié,</l>
+	<l id="1700">Au retour</l>
+	<l id="1701">En grand amour</l>
+	<l id="1702">Bravement ail nous dirent</l>
+	<l id="1703">Dieu marci,</l>
+	<l id="1704">Point de souci ;</l>
+	<l id="1705">N'y a plus de quoi.</l>
+	<l id="1706">Vive le Roi.</l>
+</lg>
+<lg n="8">
+	<l id="1707">En revenant de la guerre</l>
+	<l id="1708">Pour montrer son amour,</l>
+	<l id="1709">Cheus nous par extraordinaire</l>
+	<l id="1710">Il veut faire un séjour</l>
+	<l id="1711">Je verrons</l>
+	<l id="1712">Quand je vourrons ?</l>
+	<l id="1713">Ce Prince débonnaire,</l>
+	<l id="1714">Dieu marci,</l>
+	<l id="1715">Point de souci ;</l>
+	<l id="1716">N'y a plus de quoi.</l>
+	<l id="1717">Vive le Roi.</l>
+</lg>
+<lg n="9">
+	<l id="1718">J'ons un Mariage à faire </l>
+	<l id="1719">Et nos voeux sont remplis.</l>
+	<l id="1720">Nous allons le voir Grand-Père</l>
+	<l id="1721">De par Monsieur son Fils,</l>
+	<l id="1722">Gai gai gai,</l>
+	<l id="1723">Et le coeur gai,</l>
+	<l id="1724">Haut le pied mon compère,</l>
+	<l id="1725">Dieu marci,</l>
+	<l id="1726">Point de souci ;</l>
+	<l id="1727">N'y a plus de quoi.</l>
+	<l id="1728">Vive le Roi.</l>
+</lg>
+<lg n="10">
+	<l id="1729">Pour une santé si chère</l>
+	<l id="1730">Tout le peuple joyeux</l>
+	<l id="1731">Vient de recouvrer son Père</l>
+	<l id="1732">Dans ce moment heureux,</l>
+	<l id="1733">Gai gai gai,</l>
+	<l id="1734">Eh le coeur gai,</l>
+	<l id="1735">Gai Meilleurs du parterre</l>
+	<l id="1736">Dieu marci</l>
+	<l id="1737">Plus de souci</l>
+	<l id="1738">Dites avec moi</l>
+	<l id="1739">Vive le Roi.</l>
+</lg>
+</poem>
+<stage type="danse">Le divertissement finit par une ronde générale et par le refrain de Vive le Roi.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

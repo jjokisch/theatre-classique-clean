@@ -1,0 +1,3000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA COMÉDIENNE, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0000 8081 539X">François ANDRIEUX (1759-1833) </author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, juillet 2022.</editor>
+				<publisher>publié par Paul FIEVRE, septembre 2022.</publisher>
+				<idno>ANDRIEUX_COMEDIENNE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<type>vers</type>
+				<structure>Trois actes</structure>
+				<periode>1801-1810</periode>
+				<taille>1000-1250</taille>
+				<permalien cote="BnF LLA Yth 20368">https://gallica.bnf.fr/ark:/12148/bpt6k97930710</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA COMÉDIENNE</titlePart>
+			<titlePart type="sub">COMÉDIE EN TROIS ACTES ET EN VERS</titlePart>
+			<titlePart type="sub">Représentée par les comédiens ordinaires du Roi pour la première fois, le 6 mars 1816.</titlePart>
+			<titlePart type="sub">Prix 2 francs.</titlePart>
+		</docTitle> 
+		<docDate value="1804">AN XII. - 1804</docDate>
+		<docAuthor id="ANDRIEUX, François Guillaume" bio="andrieux">PAR ANDRIEUX, de l'Institut National.</docAuthor>
+		<docImprint>
+			<privilege id=""><head/>
+				<p>Les formalités voulues par les lois et règlements internant l'imprimerie et la librairie ont été remplies : je déclare que je poursuivrai devant les tribunaux les contrefacteurs ou débitants d'éditions contrefaites. Tous les exemplaires sont revêtus de la signature du propriétaire de cet ouvrage.</p>
+			</privilege>
+			<printer id="DIDOT">DE L'IMPRIMERIE DE P. DIDOT, L'AINÉ.</printer>
+			<editor id="MASSON">À PARIS, chez A. NEPVEU, LIBRAIRE PASSAGE DES PANORAMAS, n°26.</editor>
+		</docImprint>
+		<performance>
+			<premiere date="1816-03-06" location="Théâtre français">Représentée pour la première fois, au Théâtre Français, par les comédiens ordinaires de l'Empereur, le 6 mars 1816.</premiere>
+		</performance>
+		<castList><head>PERSONNAGES ACTEURS.</head>
+			<castItem><role id="MADAME BELVAL" sex="2" type="H" statut="comédien" age="A" stat_amour="néant">MADAME BELVAL</role>, première Actrice du Théâtre de Bordeaux. Mlle Mars.</castItem>
+			<castItem><role id="MONSIEUR DE GOUVIGNAC" sex="1" type="H" statut="militaire" age="A" stat_amour="néant">MONSIEUR DE GOUVIGNAC</role>, ancien Major d'Infanterie. M. Baptiste aîné.</castItem>_
+			<castItem><role id="SAINVILLE" sex="1" type="H" statut="officier" age="J" stat_amour="néant">SAINVILLE</role>, son Neveu, jeune officier. M. Armand.</castItem>
+			<castItem><role id="DARICOUR" sex="1" type="H" statut="directeur de théâtre" age="A" stat_amour="néant">DARICOUR</role>, Directeur du Théâtre de Bordeaux, et jouant les financiers. M. de Vigny.</castItem>
+			<castItem><role id="HENRIETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">HENRIETTE</role>, Pupille de Daricour, aimée de Sainville. Mlle Bourgoin.</castItem>
+			<castItem><role id="CLÉOFILE" sex="2" type="H" statut="actrice" age="A" stat_amour="néant">CLÉOFILE</role>, jeune Actrice du Théâtre de Bordeaux. Mlle Dupuis.</castItem>
+			<castItem><role id="AGATHE" sex="2" type="H" statut="femme de chambre" age="A" stat_amour="néant">AGATHE</role>, Femme de chambre de Madame Belval Mlle de Merson.</castItem>
+		</castList>
+	<set location="Bordeaux" country="France" periode="XIXème" gps="44.837789,  -0.57918">La scène est à Bordeaux, chez Madame Belval.</set>
+</front>
+<body>
+<div1 type="act" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Henriette, Agathe.
+</stage>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="1">Elle m'a fait prier de venir ce matin.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage>, avec l'accent gascon.
+	</stage>
+	<l id="2">Jé lé sais. Sûrément c'est dans un bon dessein.</l>
+	<l id="3">Car madame vous aime, on né peut davantage.</l>
+	<l id="4">Hé donc, mademoiselle, à quand lé mariage ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="5" syll="2" part="i">Lequel ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="5" syll="10" part="f">Lé vôtre. On peut à moi sé confier.</l>
+	<l id="6">Je suis dans la maison dépuis un mois entier ;</l>
+	<l id="7">Madame, en voyageant, mé prit à Carcassonne ;</l>
+	<l id="8" syll="6" part="i">Jé m'intéresse à vous.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="8" syll="6" part="f">Ah ! Vous êtes trop bonne.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="9">Et curieuse un peu ; c'est un bonheur pour moi</l>
+	<l id="10">Dé savoir cé qué fait lé monde qué jé voi !</l>
+	<l id="11">Dé Bordeaux ma maîtresse est la première actrice,</l>
+	<l id="12">Et pour mé contenter ma place m'est propice !</l>
+	<l id="13">Au théâtre, au logis, j'écoute les discours,</l>
+	<l id="14">Et j'entends raconter cent choses tous les jours,</l>
+	<l id="15">Amours, rivalités, inconstances, ruptures ;</l>
+	<l id="16">Céla fait bien souvent dé drôles d'aventures !</l>
+	<l id="17">Et cé qu'on dit tout haut, et cé qu'on dit tout bas !</l>
+	<l id="18">Jé sais tout, en un mot ; jé n'en abusé pas.</l>
+	<l id="19">Ainsi né craignez rien. Jé connais votre affaire.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="20" syll="4" part="i">Qui vous a dit ?...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="20" syll="8" part="f">Jé sais cé qui vous est contraire.</l>
+	<l id="21">Un aimable officier veut être votre époux ;</l>
+	<l id="22">Mais son oncle y répugne, et s'en met en courroux ;</l>
+	<l id="23">Monsur dé Gouvignac (c'est ainsi qu'il sé nomme),</l>
+	<l id="24">À cause qu'il est riche, et sé croit gentilhomme,</l>
+	<l id="25">Vous reproché, dit-on, qué vous manquez dé bien,</l>
+	<l id="26">Et qué feu votre père était comédien.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="27">Mais comment savez-vous tout cela, je vous prie ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="28">Cela peut s'appéler sécret dé comédie</l>
+	<l id="29">Qué tout lé mondé sait ; mais chacun, dieu merci,</l>
+	<l id="30">Sé moqué bien dé l'oncle, et prend votre parti ; </l>
+	<l id="31">On né dit qué du bien dé vous, dé votré mère ;</l>
+	<l id="32">C'était un grand acteur qué défunt votre père !</l>
+	<l id="33">Et que lé Gouvignac disé cé qu'il voudra ;</l>
+	<l id="34">D'état, jé n'en vois point plus beau qué celui-là !</l>
+	<l id="35">Régardez ma maîtresse, et l'éclat qu'ellé jette</l>
+	<l id="36">Au double emploi dé reine et dé grandé coquette !</l>
+	<l id="37">On né voit qué son nom remplir tous les journaux ;</l>
+	<l id="38">Fait-on pour elle assez dé vers, dé madrigaux,</l>
+	<l id="39">Dé couplets ? En tous lieux on chanté ses éloges ;</l>
+	<l id="40">Son aspect met en feu lé parterre et les loges ;</l>
+	<l id="41">Bientôt, dé nos talents comme on connaît lé prix,</l>
+	<l id="42">Nous quitterons Bordeaux pour aller à Paris ;</l>
+	<l id="43">Nous attendons un ordre ; il né faut en rien dire.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="44" syll="6" part="i">Oh ! Non. N'ayez pas peur.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="44" syll="6" part="f">Tant dé gloiré m'inspire</l>
+	<l id="45">Un désir dont il faut qué jé vous fasse part.</l>
+	<l id="46" syll="6" part="i">Vous pouvez m'y servir.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="46" syll="6" part="f">Qui ? Moi ! Par quel hasard ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="47" syll="6" part="i">Monsur votré tuteur...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="47" syll="3" part="m">Daricour ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="47" syll="4" part="f">Oui, lui-même</l>
+	<l id="48">Est ici directeur du théâtre ; il vous aime...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="49" syll="2" part="i">Eh bien ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="49" syll="10" part="f">Sans voir Madame, il vient dé s'en aller ;</l>
+	<l id="50">Et moi, jé n'ai pas eu lé temps dé lui parler ;</l>
+	<l id="51">Il vénait nous presser, mais il perdait sa peine :</l>
+	<l id="52">Car nous né jouerons pas cé soir, j'en suis certaine.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="53" syll="6" part="i">J'aurais voulu le voir.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="53" syll="6" part="f">Il réviendra bientôt.</l>
+	<l id="54">Vous lui dévriez bien glisser un pétit mot</l>
+	<l id="55" syll="4" part="i">En ma faveur...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="55" syll="2" part="m">Pourquoi ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="55" syll="6" part="f">J'ai bésoin qu'on m'appuie.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="56" syll="4" part="i">Que voulez-vous ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="56" syll="8" part="f">Jé veux jouer la comédie.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="smile">, souriant.
+	</stage>
+	<l id="57" syll="4" part="i">Ah ! Ah ! Jouer !...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="57" syll="8" part="f">J'aurais dessein dé débuter.</l>
+	<l id="58">Quand ma maîtresse apprend, jé la fais répéter ;</l>
+	<l id="59">Et jé jouerais fort bien, surtout dans lé tragique.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="60" syll="2" part="i">Oh ! oui.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="60" syll="10" part="f">J'ai des moyens ; d'abord, quant au physique,</l>
+	<l id="61" syll="8" part="i">Il ne déplaira pas, jé crois.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="61" syll="4" part="f">Non. Mais l'accent ?</l>
+	<l id="62" syll="1" part="i">Hein ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="62" syll="6" part="F">L'açent ?... J'en ai peu ; quelqués mots, en passant,</l>
+	<l id="63">Croyez-vous ?... Ce n'est rien ; et quand on a dé l'âme,</l>
+	<l id="64">C'est là l'essentiel, à cé qué dit madame ;</l>
+	<l id="65">Et dé l'amé ! J'en ai ! Jé mé sens enflammer,</l>
+	<l id="66">Quand j'écoute au logis madame déclamer.</l>
+	<l id="67">Tous les soirs, sans manquer, jé vais dans les coulisses,</l>
+	<l id="68">Jé l'entends applaudir. Ce sont là mes délices.</l>
+	<l id="69">Jugez commé mon coeur dé plaisir bondira,</l>
+	<l id="70">Lorsqué cé séra moi qué l'on applaudira.</l>
+<stage type="ring">On entend sonner.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="71">Oui ; mais, en attendant, on vous sonne, ma chère.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="72">J'y vais. Jé récommande à vos soins mon affaire.</l>
+	<l id="73">Faites-moi jouer Phèdre, Hermione ; et comptez</l>
+	<l id="74">Qué ces rôlés pour vous séront des nouveautés.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="75">Elle est folle, je pense !... Où va-t-elle prétendre ?</l>
+	<l id="76">Il faut que j'aie, un jour, le plaisir de l'entendre !</l>
+	<l id="77">Ce serait une scène amusante, je crois !</l>
+	<l id="78">Mais Madame_Belval, que veut-elle de moi ?</l>
+	<l id="79">Elle va me parler peut-être de Sainville,</l>
+	<l id="80">Et me causer encore un chagrin inutile !</l>
+	<l id="81">Je ne dois plus le voir... Ah ! Grand Dieu ! Le voici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Henriette, Sainville.
+</stage>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="82" syll="2" part="i">Henriette !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="82" syll="8" part="f">C'est vous ? Vous me saviez ici ?</l>
+	<l id="83" syll="4" part="i">Vous m'y cherchiez ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="83" syll="8" part="f">Moi ? non. Soyez-en bien certaine.</l>
+	<l id="84">Je sais que ce serait vous causer trop de peine.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="85" syll="4" part="i">À moi, Monsieur ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="85" syll="8" part="f">Chez vous, du moins, je n'irai plus ;</l>
+	<l id="86">Depuis dix jours entiers n'en suis-je pas exclus ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="87">J'ai suivi les conseils et l'ordre de ma mère.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="88">Vous souscrivez sans peine a cet ordre sévère.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="89">Ne pouvant être à vous, j'ai fait ce que j'ai dû.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="90">Ah ! Vous seriez à moi, si vous l'aviez voulu.</l>
+	<l id="91">Afin de m'engager d'une manière expresse,</l>
+	<l id="92">Ne vous avais-je pas offert une promesse ?</l>
+	<l id="93">Ainsi, par l'honneur même à vos lois enchaîné...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="94">Et votre oncle jamais ne vous l'eût pardonné.</l>
+	<l id="95">Vous m'avez dit souvent qu'il vous servit de père ;</l>
+	<l id="96">Pouviez-vous avec lui ne pas être sincère ?</l>
+	<l id="97">Non ; ma mère eut raison d'exiger franchement</l>
+	<l id="98">Que vous eussiez d'abord son plein consentement.</l>
+	<l id="99">Il vous l'a refusé ; ce refus nous sépare.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="100">J'ai déjà trop souffert de son refus barbare.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="101">Votre oncle, riche, et fier d'un nom qu'il croit très beau,</l>
+	<l id="102">Ancien militaire, et seigneur de château...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="103">De s'allier à vous qui ne se ferait gloire ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="104">Non, non, je ne sais point ainsi m'en faire accroire.</l>
+	<l id="105">Soumettons-nous, Sainville, à la nécessité.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="106">Vous tenez ce langage avec tranquillité.</l>
+	<l id="107">Non, je n'ai jamais eu le bonheur de vous plaire ;</l>
+	<l id="108">Plus que mon oncle encor votre coeur m'est contraire ;</l>
+	<l id="109">Non, vous ne m'aimez point, et votre âme en secret</l>
+	<l id="110">N'éprouve, en me quittant, ni chagrin ni regret ;</l>
+	<l id="111">Et que sais-je ?... Elle en est satisfaite peut-être ?...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="112">Croyez-le, j'y consens ; c'est fort bien me connaître.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Henriette, Madame Belval, en déshabillé du matin, très élégant ; Agathe, Sainville.
+</stage>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, parlant à sa femme de chambre.
+	</stage>
+	<l id="113">Mademoiselle Agathe, allez ; de point en point</l>
+	<l id="114">Faites suivre cet ordre ; et qu'on n'y manque point.</l>
+<stage type="exit">Agathe sort.</stage>
+	<l id="115">Eh bien ! je trouve ici fort bonne compagnie ;</l>
+	<l id="116" syll="6" part="i">Où donc est Daricour ?</l>
+<stage type="toward">À Henriette.</stage>
+	<l id="116" syll="6" part="f">Bonjour, ma chère amie.</l>
+	<l id="117">Comment va-fotre mère ?... Embrassez-moi, mon coeur.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="118">na mère est assez bien ; vous lui faites honneur.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="119">Eh ! mais, qu'avez-vous donc ? Je lis sur vos visages</l>
+	<l id="120">Certain air de chagrin... D'où viennent ces nuages ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="121">Monsieur dans ses discours sait peu me ménager.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="122">Mademoiselle aussi se plaît à m'affliger.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="123">Ah ! Vous êtes brouillés !... La moindre bagatelle</l>
+	<l id="124">Souvent chez les amants fait naître une querelle ;</l>
+	<l id="125">Ce n'est pas cet instant que vous deviez choisir ;</l>
+	<l id="126">Quand l'ennemi s'avance, il faut se réunir.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="127" syll="6" part="i">Quel ennemi ?... Comment ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="127" syll="6" part="f">Redoutez sa colère.</l>
+	<l id="128">C'est votre oncle, en un mot, que vous n'attendiez guère.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="129" syll="6" part="i">Monsieur_de_Gouvignac ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="129" syll="6" part="f">Quoi ! Mon oncle est ici ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="130" syll="6" part="i">Depuis hier matin.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="130" syll="6" part="f">Sans m'avoir averti ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="131">Figurez-vous qu'hier, en traversant la rue,</l>
+	<l id="132">J 'en ai fait tout-à-coup la rencontre imprévue ; </l>
+	<l id="133">Nous nous sommes tous deux à l'instant reconnus,</l>
+	<l id="134">Quoique depuis quinze ans nous ne nous fussions vus ; </l>
+	<l id="135">Oui, de notre amitié la date est ancienne,</l>
+	<l id="136">Et me vieillit un peu ; mais qu'à cela ne tienne.</l>
+	<l id="137">Je restai veuve alors ; dans mon affliction</l>
+	<l id="138">Le major entreprit ma consolation ; </l>
+	<l id="139" syll="6" part="i">Il y mettait du zèle !...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="139" syll="6" part="f">Il a l'humeur galante !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="140">Si je l'avais voulu, je serais votre tante.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="141" syll="6" part="i">Oh ! Que je le voudrais !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="141" syll="6" part="f">L'oncle n'est point changé ;</l>
+	<l id="142">Toujours l'air jeune et vif, le maintien dégagé,</l>
+	<l id="143">Toujours un ton aimable, un obligeant langage...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="144">Qui donc l'a décidé soudain à ce voyage ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="145">Eh ! Manque-t-on de gens empressés, indiscrets,</l>
+	<l id="146">Recueillant, répandant tous les bruits faux ou vrais ?</l>
+	<l id="147">Il a reçu l'avis que, bravant sa défense,</l>
+	<l id="148">Vous alliez contracter l'hymen dont il s'offense ;</l>
+	<l id="149">Et d'un si grand malheur voulant vous préserver,</l>
+	<l id="150">Le cher oncle à Bordeaux s'est hâté d'arriver ;</l>
+	<l id="151">Sans vous en prévenir, et pour mieux vous surprendre,</l>
+	<l id="152">C'est en hôtel garni qu'il est allé descendre.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="153" syll="6" part="i">Il vous a donc conté... ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="153" syll="6" part="f">Ce que je savais bien.</l>
+	<l id="154">Vous avez fait longtemps les frais de l'entretien.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="155">À ses vieux préjugés vous avez fait la guerre ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+<note type="L">(2)</note>
+	<l id="156">Non ; j'ai pris le parti d'écouter, de me taire ;</l>
+	<l id="157">Il ne se gênait pas ; moi, je trouvais plaisant</l>
+	<l id="158">Que, ne se doutant pas de mon état présent,</l>
+	<l id="159">De tant de confiance il me donnât la preuve ;</l>
+	<l id="160">De son ami Courmon il me croit encor veuve ;</l>
+	<l id="161">À Grenoble autrefois je le voyais souvent ;</l>
+	<l id="162">Il s'y trouvait alors avec son régiment...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="163" syll="6" part="i">Et viendra-t-il vous voir ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="163" syll="6" part="f">Dès ce matin peut-être.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="164">Mais sa visite ici va lui faire connaître</l>
+	<l id="165">Ce que vous lui cachez, votre état, votre nom.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="166">Oh ! J'ai fait à mes gens avec soin leur leçon ;</l>
+	<l id="167" syll="6" part="i">Ils diront ce qu'il faut.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="167" syll="6" part="f">Ce léger artifice</l>
+	<l id="168">Pourrait, si vous vouliez, nous devenir propice.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="169">Oui ; j'avais eu dessein d'abord de vous servir ;</l>
+	<l id="170">Aux peines des amants mon coeur doit compatir ;</l>
+	<l id="171">Mais ce soin à présent vous est peu nécessaire.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="172" syll="6" part="i">Et par quelle raison ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="172" syll="6" part="f">La raison est bien claire.</l>
+	<l id="173">Je vous affligerais, si j'allais m'en mêler ;</l>
+	<l id="174">Vous étiez tout-à-l'heure en train de quereller.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="175">J'avais tort ; Henriette a sujet de se plaindre.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="176">Non. Je vous ai fâché ; j'aurais dû me contraindre.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="177">Allons ; fort bien. Sur moi vous pouvez donc compter.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les mêmes, Agathe.
+</stage>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="178">Mousur dé Gouvignac, Madamé, va monter.</l>
+	<l id="179" syll="4" part="i">Il est là bas.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="179" syll="8" part="f">Déjà ? Tant mieux, vraiment. Qu'il vienne.</l>
+	<l id="180" syll="4" part="i">Est-ce bien lui ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="180" syll="8" part="f">Lui-même. On l'a connu sans peine ;</l>
+	<l id="181">Comme il a démandé madamé dé Courmon...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="182" syll="6" part="i">Je vais m'enfuir bien vite.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="182" syll="6" part="f">Eh ! Non ; ma belle ; non.</l>
+	<l id="183">Il ne vous connaît pas ; demeurez, je vous prie.</l>
+	<l id="184" syll="9" part="i">Je vous ai fait venir tout exprès.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="184" syll="3" part="f">De ma vie</l>
+	<l id="185" syll="6" part="i">Je n'eus autant de peur.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Sainville.
+	</stage>
+	<l id="185" syll="6" part="f">Et vous, restez aussi.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="186">Que va dire mon oncle, en me trouvant ici ?</l>
+	<l id="187">Moi-même que dirai-je ? Et s'il veut que j'explique...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="188">L'occasion pourra vous fournir la réplique.</l>
+	<l id="189">Un prétexte suffit. Je vous seconderai.</l>
+	<l id="190" syll="3" part="i">Du courage.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="190" syll="9" part="f">Ah ! Bon Dieu ! Pour moi, je me tairai.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="191" syll="8" part="i">Faites-le donc venir, Agathe.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="191" syll="4" part="f">Il vient lui-même.</l>
+<stage type="exit">Agathe sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Henriette, Madame Belval, Monsieur de Gouvignac, Sainville.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="192">Belle dame, pour moi c'est un bonheur extrême !...</l>
+	<l id="193">J'étais bien empressé de vous faire ma cour ;</l>
+	<l id="194">Vous me l'avez permis, et dès le premier jour,</l>
+	<l id="195" syll="6" part="i">Dès le matin j'arrive...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="195" syll="6" part="f">Et je suis enchantée</l>
+	<l id="196">De vous voir, cher Major ; je m'étais bien flattée</l>
+	<l id="197" syll="6" part="i">Que vous n'oublieriez pas...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="turn">, se retournant.
+	</stage>
+	<l id="197" syll="6" part="f">Que vois-je ? Mon neveu ?</l>
+	<l id="198">Ah ! Vous voilà, Monsieur !... Je m'attendais si peu !...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="199">Mon oncle, ma surprise est égale à la vôtre.</l>
+	<l id="200">Nous n'avions pas compté nous voir ici l'un l'autre.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="201" syll="6" part="i">Moi, je viens de chez vous.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="201" syll="6" part="f">Mon_Dieu ! Si j'avais su</l>
+	<l id="202">Mon cher oncle à Bordeaux, vers lui j'aurais couru.</l>
+	<l id="203">Mais pourquoi donc chez moi ne pas venir descendre ?</l>
+	<l id="204" syll="4" part="i">N'y pas loger ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="204" syll="8" part="f">Pourquoi ? Vous devez lé comprendre.</l>
+<stage type="toward">À Madame Belval.</stage>
+	<l id="205">Mais mon neveu, comment est-il connu de vous ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="206">Comment ?... La connaissance est nouvelle entre nous.</l>
+	<l id="207">J'ai donné cet hiver quelques bals pour ma nièce,</l>
+	<l id="208">Et j'y réunissais une aimable jeunesse ; </l>
+	<l id="209">- Monsieur m'a fait l'honneur d'y venir, et depuis</l>
+	<l id="210" syll="6" part="i">Je l'ai vu quelquefois.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="210" syll="6" part="f">Ah ! Je m'en réjouis.</l>
+	<l id="211">Pour lui c'est un bonheur. Ce neveu peu docile</l>
+	<l id="212">Dont je vous ai parlé, le voilà ; c'est Sainville.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="213">Est-il vrai ?... J'étais loin d'en avoir le soupçon ;</l>
+	<l id="214">Vous ne m'avez hier pas prononcé son nom.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="215" syll="6" part="i">Cela se peut.</l>
+<stage type="toward">À Sainville.</stage>
+	<l id="215" syll="6" part="f">Tu veux faire un beau mariage !...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="216" syll="3" part="i">Mon oncle !...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="216" syll="9" part="f">Me voilà. L'objet de mon voyage</l>
+	<l id="217">Est de t'en empêcher ; prends-en bien ton parti ;</l>
+	<l id="218">Mon caractère s'est rarement démenti ;</l>
+	<l id="219">Et, quand j'ai dans ma tête arrêté quelque chose,</l>
+	<l id="220">Je n'en démords jamais qu'à bonne et juste cause.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="221" syll="6" part="i">Et vous faites fort bien.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="221" syll="6" part="f">Pour rompre son dessein,</l>
+	<l id="222">Je compte de Bordeaux l'emmener dès demain ;</l>
+	<l id="223">Car, si je l'y laissais !... Il ferait la folie !</l>
+	<l id="224">De chimères d'amour sa cervelle est remplie.</l>
+	<l id="225">Madame, combattez son caprice fatal,</l>
+	<l id="226">Et des comédiens dites-lui bien du mal.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="227">Vraiment ! Sans chercher loin je saurais bien qu'en dire ;</l>
+<note type="L">(3)</note>
+	<l id="228">Tenez ; tous les états prêtent à la satire ;</l>
+	<l id="229">Laissons donc ce sujet qui vous met en souci ;</l>
+	<l id="230">Je veux vous présenter ma nièce que voici.</l>
+<stage type="toward">À Henriette.</stage>
+	<l id="231" syll="3" part="i">Approchez.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="231" syll="9" part="f">Dans ses traits on voit l'air de famille.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="232">D'une soeur que j'aimais elle est la seule fille.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="233">On ne peut pas la voir sans y prendre intérêt.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="234" syll="6" part="i">Répondez, Rosalie.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="frighten">, en tremblant.
+	</stage>
+	<l id="234" syll="6" part="f">Ah ! Si monsieur promet</l>
+	<l id="235">De me vouloir du bien, je serai satisfaite,</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="236">Un air plein de décence ! Une grâce parfaite !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="237">Vous me flattez, Monsieur, et vous êtes trop bon.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="238">Elle est charmante ! Oh ! çà, Madame_de_Courmon,</l>
+	<l id="239">Vous pouvez bien penser si mon âme est ravie,</l>
+	<l id="240">Si je suis satisfait !... Retrouver une amie</l>
+	<l id="241">Dont je gardai toujours un profond souvenir,</l>
+	<l id="242">C'est un bonheur si grand !... c'est un si doux plaisir !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="243">Je n'en ressens pas moins, Major, je vous assure.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="244">Mes voeux seraient comblés dans cette conjoncture,</l>
+	<l id="245">Si monsieur mon neveu, que j'aime comme un fils,</l>
+	<l id="246">Se rendait sage un peu, grâce à vos bons avis.</l>
+	<l id="247">Oui? que de son erreur désormais il revienne,</l>
+	<l id="248">Sans s'attacher au char d'une comédienne...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="quick">, vivement.
+	</stage>
+	<l id="249" syll="5" part="i">Elle ne l'est pas.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="249" syll="7" part="f">Non... Comment le savez-vous ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="250">C'est que... le bruit public... est venu jusqu'à nous...</l>
+	<l id="251">On en parle... L'histoire est assez remarquable...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="252">Eh ! Oui. Tout cet éclat m'est fort désagréable.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="253">De la jeune personne on dit beaucoup de bien.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="254">Que vous importe, à vous ?... Cela ne vous fait rien.</l>
+	<l id="255" syll="3" part="i">On a tort.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="255" syll="9" part="f">Je suis loin de vouloir vous déplaire,</l>
+	<l id="256">Mon oncle ; mais souffrez du moins qu'on vous éclaire.</l>
+	<l id="257">Vous êtes prévenu, vous êtes irrité ;</l>
+	<l id="258">Moi, je dois faire ici parler la vérité.</l>
+	<l id="259">Loin de me tendre un piège, et la mère et la fille</l>
+	<l id="260">Refusent l'alliance avec votre famille ;</l>
+	<l id="261">Leur coeur est noble et fier, et point intéressé ;</l>
+	<l id="262">Et par elles c'est moi qui me vois repoussé :</l>
+	<l id="263">Depuis dix jours entiers leur porte m'est fermée...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="264">Eh bien ! Tant mieux ; ma crainte est quelque peu calmée.</l>
+	<l id="265">Tu pourras l'oublier, en ne la voyant plus.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="266">L'oublier ! J'y ferais des efforts superflus.</l>
+	<l id="267">Je ne trahirai point la foi que j'ai jurée,</l>
+	<l id="268">Et ma chère Henriette en peut être assurée.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="269">Monsieur, promettez-moi très positivement</l>
+	<l id="270" syll="6" part="i">De ne la plus revoir.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Sainville.
+	</stage>
+	<l id="270" syll="6" part="f">Pas plus qu'en ce moment ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="271" syll="6" part="i">Pour cela, j'y consens.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="271" syll="6" part="f">C'est fort bien. Chez Madame</l>
+	<l id="272">Venez assidûment : là, sans craindre aucun blâme,</l>
+	<l id="273">Sans danger, rencontrant les vertus, la candeur...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+<note type="L">(4)</note>
+	<l id="274">Mon oncle, assurément, j'y viendrai de bon coeur.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="275" syll="6" part="i">Vous nous ferez plaisir.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="275" syll="6" part="f">C'est ma loi très expresse :</l>
+	<l id="276" syll="6" part="i">Songez bien à la suivre.</l>
+<stage type="toward/low">Bas, à Madame Belval.</stage>
+	<l id="276" syll="6" part="f">À votre aimable nièce</l>
+	<l id="277" syll="6" part="i">Je voudrais qu'il pût plaire.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="low/toward">, bas, au major.
+	</stage>
+	<l id="277" syll="6" part="f">Elle est à votre gré,</l>
+	<l id="278" syll="6" part="i">À ce qu'il me paraît ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="idem">, de même.
+	</stage>
+	<l id="278" syll="2" part="m">Très fort.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les mêmes, Daricour, se disputant au fond du théâtre avec Agathe, qui veut l'e empêcher d'entrer.
+</stage>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="278" syll="4" part="f">Eh ! J'entrerai.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="279" syll="3" part="i">Mais, Monsur !...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="279" syll="9" part="f">Laissez donc ; il faut que je la voie,</l>
+	<l id="280">Et tout de suite encore : est-ce moi qu'on renvoie ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="281" syll="6" part="i">D'où vient donc tout ce bruit ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="281" syll="6" part="f">Ô ciel ! C'est Daricour !</l>
+	<l id="282" syll="10" part="i">C'est notre directeur ! Comment faire ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR</speaker><stage type="TOWARD">, à Madame Belval.
+	</stage>
+	<l id="282" syll="2" part="f">Bonjour.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="283" syll="6" part="i">Comment le prévenir ?</l>
+<stage type="exit">Agathe sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Henriette, Daricour, Madame Belval, Monsieur de Gouvignac, Sainville.
+</stage>
+<sp who="DARICOUR"><speaker>DARICOUR</speaker><stage type="toward">, à Madame Belval.
+	</stage>
+	<l id="283" syll="6" part="f">Bonjour, ma chère amie.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="284" syll="4" part="i">Sa chère amie !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="284" syll="8" part="f">Ici je suis en compagnie.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="285" syll="4" part="i">Je le vois bien.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Daricour.
+	</stage>
+	<l id="285" syll="8" part="f">Voici Monsieur_de_Gouvignac,</l>
+	<l id="286">Dont le château n'est pas bien loin de Bergerac.</l>
+	<l id="287">Et d'hier seulement venu dans notre ville...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="288" syll="6" part="i">J'en suis très enchanté.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="288" syll="6" part="f">C'est l'oncle de Sainville.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="289" syll="4" part="i">Du capitaine ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Daricour.
+	</stage>
+	<l id="289" syll="8" part="f">Eh ! Oui. Pour vous, mon cher Mircour...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="290" syll="6" part="i">Mircour ? Eh ! Mais !... Comment ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="290" syll="6" part="f">Vous voilà de retour ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="291" syll="6" part="i">Je n'ai pas été loin.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="291" syll="6" part="f">Major, je vous présente</l>
+	<l id="292" syll="4" part="i">Un de mes amis...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="292" syll="8" part="f">Ah ! Ce titre-là m'enchante,</l>
+	<l id="293" syll="4" part="i">Et m'honore.</l>
+<stage type="wave">En saluant Gouvignac.</stage>
+	<l id="293" syll="2" part="m">Monsieur !...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="293" syll="3" part="m">Monsieur est ... ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="293" syll="3" part="f">Financier.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="294" syll="6" part="i">Oui, c'est là mon emploi.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="294" syll="6" part="f">C'est un très bon métier.</l>
+	<l id="295">Je lui fais compliment ; plus d'argent que de peines.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="296" syll="9" part="i">Je suis en même temps directeur...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="interrupt">, l'interrompant vivement.
+	</stage>
+	<l id="296" syll="3" part="f">Des domaines.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="297" syll="6" part="i">Des domaines ?... Ah ! Oui.</l>
+<stage type="toward">À part.</stage>
+	<l id="297" syll="6" part="f">Je comprends à la fin ;</l>
+	<l id="298" syll="6" part="i">On trompe ici quelqu'un.</l>
+<stage type="loud">Haut.</stage>
+	<l id="298" syll="6" part="f">Madame, il est certain...</l>
+<stage type="low/toward">Bas, à Madame Belval.</stage>
+	<l id="299">J'y veux mettre du mien aussi ; laissez-moi faire.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Daricour.
+	</stage>
+	<l id="300">Vous voyez dans monsieur un ancien militaire,</l>
+	<l id="301">Monsieur_de_Gouvignac, qui servit bien l'état...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="302">Ah ! Vraiment ! Je le crois ; ce nom a de l'éclat !</l>
+	<l id="303">Monsieur_de_Gouvignac ? Eh ! Mais !... Je me rappelle...</l>
+	<l id="304">Brave officier, qui fit l'action la plus belle !...</l>
+	<l id="305" syll="4" part="i">J'en fus témoin.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="305" syll="8" part="f">Comment ?... Monsieur a donc servi ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="306">Dix ans. De vous revoir, d'honneur, je suis ravi.</l>
+<note type="L">Souabe : région d'Allemmagne, entre la France et la Bavière.</note>
+	<l id="307">Vous savez bien !... Ce jour !... En Souabe, en Bavière...</l>
+	<l id="308">C'était... le nom m'échappe... au bord d'une rivière ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+<note type="L">Inn : Rivière prenant sa source en Suisse et se jetant dans le Danube à Passau.</note>
+	<l id="309" syll="4" part="i">Au bord de l'Inn ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="309" syll="8" part="f">Eh ! oui, de l'Inn ; c'est celle-là.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="310" syll="6" part="i">Était-ce à Rozenheim ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="310" syll="6" part="f">Rozenheim ; m'y voilà !</l>
+	<l id="311">Vous fîtes manoeuvrer joliment votre troupe,</l>
+	<l id="312">Quand de ce monticule elle atteignit la croupe.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="313" syll="6" part="i">Eh ! Non ; c'était en plaine.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="313" syll="6" part="f">Eh ! Oui, si vous voulez.</l>
+	<l id="314">Il est sûr que le trait fut des plus signalés.</l>
+	<l id="315">Vous vous couvrîtes là d'une immortelle gloire.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="316">Oui ; je contribuai, je pense, à la victoire,</l>
+	<l id="317">En chargeant !... Il fallut que l'ennemi cédât.</l>
+	<l id="318" syll="6" part="i">Quel grade avait Monsieur ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="318" syll="6" part="f">J'étais simple soldat.</l>
+	<l id="319">J'ai cessé de cueillir les lauriers militaires,</l>
+	<l id="320">Et je me suis jeté depuis dans les affaires.</l>
+	<l id="321" syll="6" part="i">Me voilà directeur.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="321" syll="6" part="f">Messieurs, pour rappeler</l>
+	<l id="322">L'ancienne connaissance, et la renouveler,</l>
+	<l id="323">Dînez chez moi tous deux, et vous aussi, Sainville.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="324" syll="3" part="i">Madame !...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="324" syll="9" part="f">Très flatté de votre offre civile.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="325">Vous aurez, cher Major, des convives choisis,</l>
+	<l id="326" syll="6" part="i">Qui vous divertiront...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="326" syll="6" part="f">Dès qu'ils sont vos amis...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="327">Si vous avez affaire, entre nous point de gêne.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="328" syll="1" part="i">Mais...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="328" syll="11" part="f">L'heure du dîner n'est pas encor prochaine.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="329">De la permission je vais donc profiter</l>
+	<l id="330" syll="3" part="i">Pour courir...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="330" syll="9" part="f">L'heure aussi m'oblige à vous quitter.</l>
+	<l id="331" syll="6" part="i">Mesdames, agréez...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="331" syll="6" part="f">À tantôt, je vous prie,</l>
+	<l id="332" syll="6" part="i">Et je vous laisse aller.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="332" syll="6" part="f">Point de cérémonie.</l>
+	<l id="333" syll="3" part="i">À tantôt.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="333" syll="9" part="f">Adieu donc, Monsieur, de tout mon coeur,</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="334">De tout mon coeur, adieu, Monsieur_le_directeur.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="335">Oh ! Ça, ne manquez pas ; on fait fort bonne chère</l>
+	<l id="336">Chez Madame. Major, vous buvez sec, j'espère ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="337" syll="6" part="i">Mais pas mal. Au revoir.</l>
+<stage type="aparte">À part.</stage>
+	<l id="337" syll="6" part="f">Diantre ! Ce financier</l>
+	<l id="338">Chez Madame_Courmon a l'air bien familier !</l>
+<stage type="toward">À Sainville.</stage>
+	<l id="339" syll="6" part="i">Venez-vous, mon neveu ?</l>
+<stage type="exit/together">Gouvignac et Sainville sortent ensemble.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Henriette, Madame Belval, Daricour.
+</stage>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="339" syll="6" part="f">Grâce au ciel, je respire.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="340">Pauvre enfant !... J'avais peine à m'empêcher de rire,</l>
+	<l id="341">Tandis qu'à sa gaîté donnant un libre essor</l>
+	<l id="342">Daricour a si bien reconnu le major,</l>
+	<l id="343" syll="6" part="i">Qu'il n'avait jamais vu.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="343" syll="6" part="f">Quoi ! C'était une fable ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="344" syll="3" part="i">Sans doute.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="344" syll="9" part="f">Moi, j'ai cru tout cela véritable.</l>
+	<l id="345">Je vois que mon tuteur est bon comédien.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="346">Lorsque je suis entré, je n'y comprenais rien.</l>
+	<l id="347">Voilà donc ce major, cet oncle de Sainville,</l>
+	<l id="348">Qui vous fait bien souffrir, mon aimable pupille.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="349">Moi ? Je ne souffre point. C'est à vous, mon tuteur,</l>
+	<l id="350">Pourrais-je l'oublier ? Que je dois mon bonheur ;</l>
+	<l id="351">Mon travail me suffit ; il fait vivre ma mère ;</l>
+	<l id="352" syll="6" part="i">Et c'est par vos bienfaits...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="352" syll="6" part="f">Que dites-vous, ma chère ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="353">Je dis la vérité ; si d'utiles leçons</l>
+	<l id="354">M'ont instruite à tenir les pinceaux, les crayons,</l>
+	<l id="355">Si mon talent nous donne une honnête existence,</l>
+	<l id="356">Tout me vient de vous seul ; soins, démarches, dépense,</l>
+	<l id="357" syll="6" part="i">Rien ne vous a coûté...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="357" syll="6" part="f">J'ai fait ce que j'ai dû ;</l>
+	<l id="358">Votre bon père, hélas ! que nous avons perdu,</l>
+	<l id="359">Était mon camarade et mon ami d'enfance ;</l>
+	<l id="360">Je l'ai vu s'affaiblir, languir dans la souffrance ;</l>
+	<l id="361">Et ses regards mourants me disaient qu'après lui</l>
+	<l id="362">Il comptait bien en moi vous laisser un appui ;</l>
+	<l id="363">Ce pauvre Rosemon !... un digne, un galant homme !</l>
+	<l id="364">Et grand acteur, ma foi !... Comme il jouait Vendôme !</l>
+	<l id="365">Oreste, Rhadamiste !... On s'en souvient encor !</l>
+	<l id="366">Et parbleu ! N'en déplaise à Monsieur_le_major,</l>
+	<l id="367">Il devrait être fier de vous avoir pour nièce ;</l>
+	<l id="368">Vous tenez du talent vos titres de noblesse.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="369">Il pense, par malheur, tout autrement que nous,</l>
+	<l id="370">Et l'amour de Sainville excite son courroux.</l>
+	<l id="371">Mais nous viendrons à bout de cet oncle intraitable.</l>
+<stage type="toward">À Daricour.</stage>
+	<l id="372" syll="6" part="i">Vous me seconderez ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="372" syll="6" part="f">Oui, si j'en suis capable.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Henriette.
+	</stage>
+	<l id="373">Voulez-vous qu'avec lui je vous prie à dîner ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="374">De ma mère longtemps je ne puis m'éloigner ;</l>
+	<l id="375" syll="6" part="i">Elle est seule, et m'attend.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="375" syll="6" part="f">Retournez auprès d'elle.</l>
+	<l id="376">Offrez-lui mon respect, mon amitié fidèle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="377">Faites-lui partager l'espoir que je conçois.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="378">Je l'instruirai surtout de vos bontés pour moi.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Madame Belval, Daricour.
+</stage>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="379">Nous pouvons donc enfin causer sans nul obstacle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="380" syll="6" part="i">Parlons de mon dîner.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="380" syll="6" part="f">Parlons de mon spectacle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="381">Ah ! S'il vous plaît, d'abord songeons au plus pressé.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="382">Le plus pressé, c'est moi ; je suis embarrassé...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="383">Avec le cher Major savez-vous qui j'invite ?</l>
+	<l id="384" syll="5" part="i">Nos camarades...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="384" syll="1" part="m">Bon !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="384" syll="6" part="f">J'en réunis l'élite,</l>
+	<l id="385" syll="6" part="i">Vous d'abord, mon ami...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="385" syll="6" part="f">Mais qui jouera ce soir ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="386">Pour convives, voyons qui nous pourrons avoir ?...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="387" syll="2" part="i">Personne.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="387" syll="10" part="f">Il nous faudra Darminville et sa femme,</l>
+	<l id="388" syll="2" part="i">Limeuil !...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="388" syll="10" part="f">Le premier rôle ! Y pensez-vous, Madame ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="389">Montigny le comique ; il nous divertira.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="390">Sans doute... et mon théâtre aujourd'hui fermera.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="391">Mais comme vous voudrez. Pour moi, je suis malade.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="392">Vous ne vous gênez pas, ma chère camarade.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="393">Bon ! Si vous le voulez, cela peut s'arranger.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="394" syll="6" part="i">Oui, quand l'affiche est mise.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="394" syll="6" part="f">On n'a qu'à la changer.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="395">La recette, ce soir, n'en sera pas meilleure.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="396">Mais non. Ceux qui joueront s'en iront de bonne heure,</l>
+	<l id="397">En se levant de table ; ainsi point d'embarras.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="398">Ma chère amie, et vous, là, ne jouerez-vous pas ?</l>
+	<l id="399">Dans la petite pièce, au moins, je vous conjure...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="400">Puisque vous le voulez, mettez donc La_Gageure ;</l>
+	<l id="401">Mais vous me saurez gré de l'effort que je fais...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="402" syll="4" part="i">Le grand effort !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="402" syll="8" part="f">C'est bien pour vous, je vous promets,</l>
+	<l id="403">Et je ne jouerai pas la semaine prochaine.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="404" syll="2" part="i">Comment ?...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="404" syll="10" part="f">Mon médecin veut que je me promène.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="405">À son moindre caprice il faut me résigner !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="406">Vous ne m'en voudrez pas !... J'ai du monde à dîner.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp who="DARICOUR"><speaker>DARICOUR</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="407">Qu'un directeur de troupe est un mortel à plaindre !</l>
+	<l id="408">Mille ennuis à souffrir, et sa ruine à craindre !</l>
+	<l id="409">Daricour, ce fut bien pour tes péchés, je crois,</l>
+	<l id="410">Que tu vins à Bordeaux prendre ce chien d'emploi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Madame Relval, Daricour.
+</stage>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="411">Ma foi ! Je vous le dis, sans fade complaisance,</l>
+	<l id="412">Personne autant que vous n'a de grâce et d'aisance ;</l>
+	<l id="413">Rien faire les honneurs est un de vos talents ;</l>
+	<l id="414">Et quel dîner ?... Parfait ! Tous vos vins excellents !</l>
+	<l id="415">J'admirais du Major l'appétit indomptable ;</l>
+	<l id="416">À la place d'honneur, auprès de vous, à table,</l>
+	<l id="417">Mangeant bien, buvant mieux, mais galant, empressé,</l>
+	<l id="418">Par vous de mots flatteurs bien souvent caressé,</l>
+	<l id="419">Il vous aime, il est pris ; le moyen qu'il résiste !...</l>
+	<l id="420">De vos adorateurs il va grossir la liste...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="421" syll="6" part="i">Allons ; vous plaisantez.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="421" syll="6" part="f">Je parle tout de bon.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="422">Il pensait courtiser Madame_de_Courmon ;</l>
+	<l id="423">Pour moi, je m'amusais, plus qu'on ne saurait croire,</l>
+	<l id="424">De voir ce bon major si plein de vaine gloire,</l>
+	<l id="425">Et, des comédiens ennemi déclaré,</l>
+	<l id="426">D'actrices et d'acteurs être à table entouré,</l>
+	<l id="427">S'y plaire, avec eux tous jouer gaîment son rôle,</l>
+	<l id="428" syll="6" part="i">Rire et boire d'autant...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="428" syll="6" part="f">Le tour est assez drôle ;</l>
+	<l id="429">Mais vous compromettez ainsi la dignité</l>
+	<l id="430" syll="6" part="i">De Monsieur_Gouvignac...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="430" syll="6" part="f">Dites sa vanité.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="431">À propos, je vous veux parler de Cléofile ;</l>
+	<l id="432">À cette pauvre enfant vous pourriez être utile ;</l>
+	<l id="433" syll="6" part="i">Elle va nous quitter.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="433" syll="6" part="f">Ah ! Vous la renvoyez ?...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="434">Non ; ce n'est pas le mot. Mais que faire ? Voyez !</l>
+	<l id="435">Elle et Lisbeth auraient quelques scènes fatales ;</l>
+	<l id="436">Rivales en amour, au théâtre rivales,</l>
+	<l id="437">C'est trop de la moitié ; ces deux femmes jamais</l>
+	<l id="438">Ne peuvent vivre ensemble, et demeurer en paix ;</l>
+	<l id="439" syll="6" part="i">Je préviens un duel.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="439" syll="6" part="f">Ah ! Vraiment ! Votre empire</l>
+	<l id="440">Est agité souvent de troubles qui font rire.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="441" syll="6" part="i">Je n'en ris pas toujours.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="441" syll="6" part="f">Par votre arrangement</l>
+	<l id="442">Il faut à Cléofile un autre engagement.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="443">C'est cela. J'ai recours à vos bontés pour elle.</l>
+	<l id="444">Le directeur d'Angers... Vous savez... qui s'appelle...</l>
+	<l id="445">Un nom en gnic, en gnac... Je suis mal avec lui ;</l>
+	<l id="446">Mais on m'apprend qu'il est à Bordeaux aujourd'hui,</l>
+	<l id="447">Et très probablement vous aurez sa visite.</l>
+	<l id="448">Il a déjà promis d'engager la petite.</l>
+	<l id="449" syll="6" part="i">Recommandez-la lui.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="449" syll="6" part="f">Vraiment ! De tout mon coeur.</l>
+	<l id="450">C'est une bonne enfant, bavarde, par malheur,</l>
+	<l id="451">Étourdie, et sujette à beaucoup de caprices.</l>
+	<l id="452">Mais d'Angers son talent doit faire les délices.</l>
+	<l id="453" syll="6" part="i">Oui ; je la placerai.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="453" syll="6" part="f">Je vous suis obligé.</l>
+	<l id="454">Tenez ; ce soir, malgré le spectacle changé,</l>
+	<l id="455">Je crois que nous pourrons avoir encor du monde ;</l>
+	<l id="456">Je m'en vais au théâtre, où je ferai ma ronde...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="457">Nos camarades sont tous partis à présent ;</l>
+	<l id="458" syll="6" part="i">J'irai bientôt...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="458" syll="6" part="f">Voici votre nouvel amant,</l>
+	<l id="459">Monsieur_de_Gouvignac, qui vous cherche sans doute.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Monsieur de Gouvignac, Madame Belval, Daricour.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte/entrance">, à part, en entrant.
+	</stage>
+	<l id="460">Ce maudit financier est toujours sur ma route,</l>
+	<l id="461" syll="6" part="i">Tête à tête avec elle... Ah !...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="461" syll="6" part="f">Monsieur le major,</l>
+	<l id="462">Enchanté dans ces lieux de vous trouver encor 1</l>
+	<l id="463" syll="4" part="i">J'allais sortir.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="wave">, saluant.
+	</stage>
+	<l id="463" syll="2" part="m">Monsieur !...</l>
+<stage type="toward">À Madame Belval.</stage>
+	<l id="463" syll="6" part="f">Toute votre assemblée</l>
+	<l id="464">S'est, après le dîner, promptement écoulée ;</l>
+	<l id="465">Pour Sainville, il avait un devoir à remplir.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="466">J'espère que bientôt il pourra revenir,</l>
+	<l id="467" syll="6" part="i">Et je l'en ai prié.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="467" syll="6" part="f">Toujours bonne, obligeante !</l>
+	<l id="468">Ce dîner m'a ravi ; réunion charmante !</l>
+	<l id="469">Je n'avais qu'un regret ; c'était de n'y point voir</l>
+	<l id="470" syll="6" part="i">Votre nièce avec vous.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="470" syll="6" part="f">Elle a voulu ce soir</l>
+	<l id="471">Aller passer le temps chez une bonne amie ;</l>
+	<l id="472">Elle est timide, et craint nombreuse compagnie.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="473">Vous aviez là des gens qui parlaient de bon sens,</l>
+	<l id="474">D'autres remplis d'esprit, et fort divertissants.</l>
+	<l id="475">Ce sont là vos amis ?... Je vous en félicite.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="476" syll="6" part="i">Je les vois tous les jours.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="476" syll="6" part="f">Ils ont bien du mérite ;</l>
+	<l id="477">Et leur société me conviendrait très fort.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="478" syll="6" part="i">Ils seraient bien flattés...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="478" syll="6" part="f">J'ai vu cela d'abord.</l>
+	<l id="479">Des femmes de bon ton, aussi sages que belles !</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="480">Pour la fidélité ce sont des tourterelles !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="481">Oh ! Je n'en doute pas. Ce sont des connaisseurs,</l>
+	<l id="482">Que ces messieurs !... Vraiment ! Ils jugent les auteurs !</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="483" syll="6" part="i">Ils les savent par coeur.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="483" syll="6" part="f">Ils ont de la lecture,</l>
+	<l id="484">Et m'ont paru versés dans la littérature.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="485" syll="6" part="i">Dans celle du théâtre.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="485" syll="6" part="f">Ils en parlaient fort bien.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="486">Je n'aimais pas pour vous ce sujet d'entretien.</l>
+	<l id="487">Il pouvait vous déplaire, en rappelant vos peines</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="488">Il m'a bien quelquefois fait penser aux fredaines</l>
+	<l id="489">De monsieur mon neveu ; mais, d'un autre côté,</l>
+	<l id="490">Il me divertissait, et je l'ai fort goûté ;</l>
+	<l id="491">Car, avec de l'esprit, qui n'aime le théâtre ?</l>
+	<l id="492">Savez-vous qu'autrefois j'en étais idolâtre ?</l>
+	<l id="493">Dans ma jeunesse, à Lille, étant en garnison,</l>
+	<l id="494">Je jouais le tragique en certaine maison ;</l>
+	<l id="495">Je disais, d'une voix noble et passionnée :</l>
+<note type="C">Zaïre est une pièce de Voltaire</note>
+	<l id="496">Vertueuse Zaïre, avant que l'hyménée ;...</l>
+	<l id="497">Et la Zaïre était la dame du logis,</l>
+	<l id="498">Mes premières amours... J'en étais fort épris,</l>
+	<l id="499">Comme on l'est à vingt ans... Elle était très jolie !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="500">Ah ! Vous deviez aimer alors la comédie !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="501">Je l'aime bien encor ; j'en conviens avec vous ;</l>
+	<l id="502" syll="6" part="i">Cela n'empêche pas...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="502" syll="6" part="f">Cher major, entre nous,</l>
+	<l id="503">Puisque l'art théâtral a tant de quoi vous plaire,</l>
+	<l id="504">Aux artistes comment êtes-vous si contraire ?</l>
+	<l id="505">Sur eux dans vos discours quand vous vous déchaînez..,</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="506" syll="6" part="i">Eh ! N'ai-je pas raison ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="506" syll="4" part="m">Je ne crois pas.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="506" syll="2" part="f">Tenez,</l>
+	<l id="507">Je pense mal surtout, moi, des comédiennes,</l>
+	<l id="508">Parce que... vous savez... que ce sont des sirènes...</l>
+	<l id="509">Il faut s'en défier ; aussi n'est-ce pas moi</l>
+	<l id="510">Qu'elles pourront tromper ; et j'en donne ma foi.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="511">Ah ! Ne jurons de rien. Tel qui croit les connaître</l>
+	<l id="512">Souvent en fut la dupe, ou bien est près de l'être.</l>
+	<l id="513" syll="6" part="i">Major, je vous salue.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="513" syll="6" part="f">Adieu, Monsieur, adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Monsieur de Gouvignac, Madame Belval.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="514">Il me tardait beaucoup qu'il fût hors de ce lieu ;</l>
+	<l id="515">J'ai bien à vous parler ; je souffrais le martyre ;</l>
+	<l id="516">Devant tant de témoins je n'ai pu vous rien dire.</l>
+	<l id="517">Il faut que je m'explique, et vous ouvre mon coeur.</l>
+	<l id="518">Oui, de vous retrouver puisque j'ai le bonheur,</l>
+	<l id="519">Je ne veux plus vous perdre ; enfin, aimable amie,</l>
+	<l id="520">Ce jour va décider du destin de ma vie ;</l>
+	<l id="521">Et c'est vous qui pourrez d'un seul mot le fixer.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="522">Quelle vivacité !... Je ne sais que penser...</l>
+<stage type="aparte">À part.</stage>
+	<l id="523" syll="6" part="i">Bon, je le vois venir.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="523" syll="6" part="f">Que de fois, à Grenoble,</l>
+	<l id="524">J'admirai vos vertus, votre conduite noble !</l>
+	<l id="525">Quoique feu votre époux, ce brave de Courmon,</l>
+	<l id="526">Ne vous eût rien laissé qu'un honorable nom,</l>
+	<l id="527">Vous aviez les respects, l'universel hommage...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="528">Vous êtes indulgent, et tenez un langage</l>
+	<l id="529" syll="4" part="i">D'ancien ami...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="529" syll="8" part="f">Pardon, si je vous contredis.</l>
+	<l id="530">À votre âge, on n'a pas encor d'anciens amis.</l>
+	<l id="531" syll="6" part="i">Vous êtes jeune et belle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="531" syll="6" part="f">Ah ! Point de flatterie.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="532">Je ne vous flatte point. Laissez-moi, je vous prie,</l>
+	<l id="533">Poursuivre mon discours. Je vous retrouve ici</l>
+	<l id="534">Dans un état d'aisance ; au moins j'en juge ainsi</l>
+	<l id="535">Par ce train de maison et par votre dépense...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="536">En effet, sans avoir ce qu'on nomme opulence,</l>
+	<l id="537">Je ne suis point à plaindre, et je ne me plains point.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="538">J'en puis, de mon côté, dire autant sur ce point.</l>
+	<l id="539">Je suis fort à mon aise, et ma fortune est claire ;</l>
+	<l id="540">Quarante mille francs de rente en fonds de terre :</l>
+	<l id="541">On vient me voir ; chez moi je tiens comme une cour.</l>
+	<l id="542">Savez-vous ce qui manque en ce noble séjour ?</l>
+	<l id="543">Une dame du lieu charmante, respectable?</l>
+	<l id="544">Qui fasse les honneurs du château, de la table.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="545" syll="6" part="i">Vous les faites, sans doute.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="545" syll="6" part="f">Ah ! C'est bien différent !</l>
+	<l id="546">Quel attrait autour d'elle une femme répand !</l>
+	<l id="547">Par sa seule présence elle anime, elle égaie,</l>
+	<l id="548" syll="6" part="i">Elle enchante un désert.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="548" syll="6" part="f">La remarque est bien vraie.</l>
+	<l id="549">Mais comment se fait-il, pensant de la façon,</l>
+	<l id="550">Qu'un homme tel que vous soit demeuré garçon ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="551">Oh ! De me marier j'ai souvent eu l'envie ;</l>
+	<l id="552">Souvent je m'ennuyais de mon genre de vie :</l>
+	<l id="553">Mais j'étais retenu par la réflexion.</l>
+	<l id="554">Les femmes, à présent, ont si peu de raison !</l>
+	<l id="555">J'ai trompé des maris ; j'ai craint qu'une coquette</l>
+	<l id="556">Ne me fit du passé trop bien payer la dette :</l>
+	<l id="557">Vous seule avez fixé mes voeux irrésolus ;</l>
+	<l id="558">Et, si vous consentez, je ne balance plus.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="559">Vous m'honorez beaucoup par tant de confiance ;</l>
+	<l id="560">Mais c'est aller bien vite, et votre impatience</l>
+	<l id="561" syll="6" part="i">Me surprend à tel point...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="561" syll="6" part="f">Je sais ce que je fais ;</l>
+	<l id="562">Depuis assez longtemps, je crois, je vous connais.</l>
+	<l id="563">Nos jeunes officiers, troupe leste et volage,</l>
+	<l id="564">Échouaient près de vous, perdaient leur étalage ;</l>
+	<l id="565">Par votre air réservé vous les déconcertiez :</l>
+	<l id="566">Toute jeune et charmante enfin que vous étiez,</l>
+	<l id="567">Jamais un seul soupçon, jamais la médisance</l>
+	<l id="568">De s'exercer sur vous n'aurait pris la licence.</l>
+	<l id="569">Si quelqu'un eût osé noircir votre vertu,</l>
+	<l id="570">Pour punir l'insolent je me serais battu ;</l>
+	<l id="571" syll="6" part="i">Je me battrais encor.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="571" syll="6" part="f">Je vous suis obligée ;</l>
+	<l id="572">Mais de vous exposer je serais affligée.</l>
+	<l id="573">Pour ma vertu, pour moi, ne vous battez jamais.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="574">Dès lors j'étais à vous, dès lors je vous aimais.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="575">Est-ce bien sérieux ? Vous plaisantez peut-être ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="576">Doutez-vous d'un amour dont je ne suis pas maître ?</l>
+	<l id="577">Oui, d'un amour... Enfin voilà le mot lâché.</l>
+	<l id="578">Jamais autant que vous femme ne m'a touché ;</l>
+	<l id="579">Mon coeur garda toujours votre adorable image.</l>
+	<l id="580">Le ciel, de sa faveur pour me donner un gage,</l>
+	<l id="581" syll="6" part="i">M'a ramené vers vous...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="581" syll="6" part="f">Oh ! Ça, voyez un peu</l>
+	<l id="582">Si vous êtes bien juste envers votre neveu ?</l>
+	<l id="583">Devriez-vous pour lui vous montrer si sévère ?</l>
+	<l id="584">Par vous-même jugez ce que l'amour fait faire,</l>
+	<l id="585" syll="6" part="i">Et soyez indulgent.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="585" syll="6" part="f">Allez-vous maintenant</l>
+	<l id="586">Parler pour mon neveu ? Pour cet extravagant ?</l>
+	<l id="587">Répondez-moi plutôt, et consentez de grâce...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="588">Mais il faudrait d'abord que je me consultasse...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="589">Donnez-moi quelque espoir ; il me sera bien doux...</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Monsieur de Couvignac, Madame Belval, Sainville.
+</stage>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="590">Me voilà libre enfin ; je reviens près de vous.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="591">Ali ! C'est vous, mon neveu ? Nous parlions de vous-même.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="592">Oui ; je veux obtenir de votre oncle, s'il m'aime,</l>
+	<l id="593">De vous laisser encore un peu de temps ici.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="594" syll="2" part="i">Oh ! Mais...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="594" syll="10" part="f">Je dois donner un concert ces jours-ci ;</l>
+	<l id="595">J'ai besoin pour cela des talents de Sainville.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="596">Allons ! Vous le voulez ? S'il peut vous être utile,</l>
+	<l id="597" syll="6" part="i">Nous resterons tous deux.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="597" syll="6" part="f">Ah ! Mon oncle est galant.</l>
+	<l id="598">Le beau sexe eut toujours sur lui de l'ascendant.</l>
+	<l id="599">Je n'aurais pas peut-être obtenu cette grâce.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="600">Pour Madame il n'est rien qu'en effet je ne fasse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Monsieur de Gouvignac, Madame Belval, Agathe, Sainville.
+</stage>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage>, à Madame Belval.
+	</stage>
+	<l id="601">Madame aura changé dé dessein, par hasard ?</l>
+	<l id="602" syll="6" part="i">Ellé dévait aller...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="602" syll="6" part="f">Comment ?... Est-il si tard ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="603" syll="6" part="i">Huit heures vont sonner.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="603" syll="6" part="f">Allons ; je sors bien vite.</l>
+	<l id="604">Je reviendrai... Major, pardon si je vous quitte ;</l>
+	<l id="605">Et j'espère, en rentrant, vous retrouver ici.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="606">Dans l'intervalle, moi, je vais sortir aussi.</l>
+	<l id="607">Je retourne chez moi ; j'ai des lettres à faire.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="608">Écrivez-les ici ; ce n'est pas une affaire.</l>
+	<l id="609" syll="6" part="i">Voilà ce qu'il vous faut.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="609" syll="6" part="f">Mais je crains de gêner...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="610">Non, non : attendez-moi. Faut-il vous l'ordonner ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="611">Si vous me défendiez de sentir votre absence,</l>
+	<l id="612">Je ne répondrais pas de mon obéissance.</l>
+	<l id="613" syll="6" part="i">Revenez donc bientôt.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="613" syll="6" part="f">Dès que je le pourrai.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="614" syll="6" part="i">J'attends votre réponse.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="614" syll="6" part="f">Eh bien ! J'y penserai.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage>, en lui tendant la main.
+	</stage>
+	<l id="615">Aurai-je le bonheur qu'elle soit favorable ?</l>
+<stage type="exit/together">Madame Belval sort avec Agathe.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Monsieur de Gouvignac, Sainville.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="616">Voilà ce qui s'appelle une femme adorable !</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="617">Je le sais bien, mon oncle, et conviens hautement</l>
+	<l id="618">Qu'elle peut inspirer un tendre attachement.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="619">Oh ! Tant qu'il vous plaira faites semblant d'en rire.</l>
+<stage type="aparte">À part.</stage>
+	<l id="620">De mes projets d'hymen je ne veux lui rien dire.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="621">Vous l'aimiez autrefois ! N'êtes-vous pas tenté</l>
+	<l id="622">De rentrer dans ses fers ?... J'en serais enchanté.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="623">Dites-moi donc comment cela pourrait vous plaire.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="624">J'espérerais alors, s'il faut ne vous rien taire,</l>
+	<l id="625">Trouver en vous bien plus d'indulgence pour moi.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="626">Ah ! Vous l'espéreriez ? Je ne vois pas pourquoi.</l>
+	<l id="627">Sainville, savez-vous ce que vous devez faire ?</l>
+	<l id="628">À sa charmante nièce efforcez-vous de plaire.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="629" syll="4" part="i">À sa nièce ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="629" syll="8" part="f">Oui, sans doute, à cette aimable enfant</l>
+	<l id="630">Dont l'air est si modeste et le ton si décent :</l>
+	<l id="631">Moi, j'aimerais beaucoup une nièce pareille...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="632" syll="6" part="i">Vous me le conseillez ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="632" syll="6" part="f">Oui, je vous le conseille.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="633">Peut-être qu'avant peu vous changerez d'avis.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="634">Je n'en changerai point, c'est moi qui vous le dis.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="635">Mon oncle, à vos bontés je dois tout dès l'enfance ;</l>
+	<l id="636">Mon coeur vous a voué respect et déférence...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="637">Eh ! N'en parle pas tant ; songe à me les prouver ;</l>
+	<l id="638">Songe à former des noeuds que je puisse approuver.</l>
+	<l id="639">Comment peux-tu, bravant ma colère et le blâme,</l>
+	<l id="640">Dans cet état exprès oser choisir ta femme ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="641">Ce n'est point son état, on vous l'a déjà dit.</l>
+	<l id="642">Mais cet état, enfin, on l'aime, on l'applaudit ;</l>
+	<l id="643">Y réussir n'est pas une petite chose :</l>
+	<l id="644">Que d'efforts il exige ! Et combien il suppose</l>
+	<l id="645">De dons de la nature et de talents acquis !</l>
+	<l id="646">Avec force, avec grâce, avec un goût exquis,</l>
+	<l id="647">De nos auteurs fameux embellir les ouvrages,</l>
+	<l id="648">D'un public éclairé mériter les suffrages,</l>
+	<l id="649">Se transformer sans cesse, et montrer tour-à-tour</l>
+	<l id="650">L'ambition, la haine, et la joie, et l'amour,</l>
+	<l id="651">Le crime et ses remords, l'innocence et ses charmes,</l>
+	<l id="652">À son gré faire naître ou le rire ou les larmes,</l>
+	<l id="653">Et, mêlant la leçon au divertissement,</l>
+	<l id="654">Procurer un utile et noble amusement,</l>
+	<l id="655">Malgré des préjugés injustes et bizarres,</l>
+	<l id="656">Beaucoup d'estime est due à des talents si rares :</l>
+	<l id="657">Racine, Despréaux, vivaient avec Baron ;</l>
+	<l id="658">Et Roscius était l'ami de Cicéron,</l>
+	<l id="659">D'un orateur illustre et d'un consul de Rome.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="660">Cicéron !... Cicéron n'était pas gentilhomme.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="661">Vous m'y faites penser : non, il ne l'était point ;</l>
+	<l id="662">Mais c'était un grand homme, accordez-moi ce point.</l>
+	<l id="663">Il commença son nom ; il fut son propre ouvrage,</l>
+	<l id="664">Et, sans doute, on l'en doit admirer davantage.</l>
+	<l id="665">Il naquit plébéien ; mais au rang le plus haut,</l>
+	<l id="666">Par son talent divin, il s'éleva bientôt ;</l>
+	<l id="667">Et ce noble nouveau, sauvant Rome trahie,</l>
+	<l id="668">Le premier fut nommé père de la patrie.</l>
+	<l id="669">Pour moi, que suis-je enfin ? Un guerrier, un soldat,</l>
+	<l id="670">Dont le bras, dont la vie appartient à l'État ;</l>
+	<l id="671">Mais mon coeur est à moi ; souffrez que j'en dispose ;</l>
+	<l id="672">Faut-il qu'à mon bonheur mon cher oncle s'oppose ?</l>
+	<l id="673" syll="6" part="i">De grâce...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="673" syll="10" part="f">Épargne-moi des discours superflus.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="674" syll="6" part="i">Si vous me permettiez...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="674" syll="6" part="f">Je ne t'écoute plus :</l>
+	<l id="675">Ton fol aveuglement et m'indigne et m'afflige.</l>
+	<l id="676" syll="4" part="i">Laisse-moi seul.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="676" syll="2" part="m">De grâce...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="676" syll="6" part="f">Eh ! Laisse-moi, te dis-je.</l>
+	<l id="677">Madame_de_Courmon doit bientôt revenir ;</l>
+	<l id="678">Je veux l'attendre ici. J'ai de quoi réfléchir</l>
+	<l id="679">Sur un grave sujet dont il est inutile</l>
+	<l id="680" syll="6" part="i">De t'informer encor.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="680" syll="6" part="f">Sans être fort habile,</l>
+	<l id="681">Je crois le deviner, et j'ose même y voir</l>
+	<l id="682">De quoi me confirmer dans mon plus cher espoir.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="683">Oh ! Ne te flatte pas que jamais je consente...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="684">Madame_de_Courmon sera bien plus puissante.</l>
+	<l id="685">Je vois qu'auprès de vous mes efforts seraient vains,</l>
+	<l id="686">Et je laisse ma cause en de meilleures mains.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="687">Que peut-il espérer ? Et qu'est-ce qu'il veut dire ?</l>
+	<l id="688">Madame_de_Courmon a sur moi grand empire,</l>
+	<l id="689">Mais non pas jusqu'au point de m'aveugler si fort !...</l>
+	<l id="690">Mais que dis-je ?... Avec moi je la verrai d'accord ;</l>
+	<l id="691">Dans tout ce qui convient elle est trop bien instruite ;</l>
+	<l id="692">C'est la raison, l'honneur, qui règle sa conduite...</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Monsieur de Gouvignac, Cléofile.
+</stage>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="693">Bonjour, Monsieur. Voyez ; c'est un bonheur pour moi</l>
+	<l id="694" syll="6" part="i">De vous trouver ici.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="694" syll="6" part="f">Comment cela ? Pourquoi ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="695">Pour Madame_Belval, je sais qu'elle est sortie.</l>
+	<l id="696">Comme il est à-peu-près huit_heures_et_demie,</l>
+	<l id="697">J'aurais dû m'en douter : mais on m'a dit là-bas</l>
+	<l id="698" syll="6" part="i">Que vous étiez ici.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="698" syll="6" part="f">Je ne vous connais pas.</l>
+	<l id="699">Que voulez-vous de moi, ma belle demoiselle ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="700">Moi, je vous connais bien : c'est monsieur qui s'appelle</l>
+	<l id="701" syll="6" part="i">Bourdignac... Baudignac...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="701" syll="4" part="m">Non ; Gouvignac.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="701" syll="2" part="f">Ah ! oui.</l>
+	<l id="702">C'est monsieur ; et je viens pour causer avec lui.</l>
+	<l id="703">Vous connaissez mon nom d'abord ; c'est Cléofile.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="704">À la bonne heure. En quoi puis-je vous être utile ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="705">Actrice au grand théâtre, à Bordeaux ; et je viens</l>
+	<l id="706">Pour vous faire, Monsieur, juger de mes moyens.</l>
+	<l id="707">Ici, j'étais en chef pour les jeunes princesses,</l>
+	<l id="708">Les ingénuités ; il n'est guère de pièces</l>
+	<l id="709">Où je ne sache un rôle ; enfin je tiens l'emploi ;</l>
+	<l id="710">De ne point vanter je me fais une loi :</l>
+	<l id="711">Mais j'ai tout ce qu'il faut pour réussir de reste ;</l>
+	<l id="712">Un organe touchant, la diction, le geste,</l>
+	<l id="713">Une âme !... Trop sensible !... Enfin, sans me flatter,</l>
+	<l id="714">Je sais bien qu'à Bordeaux on va me regretter :</l>
+	<l id="715">J'avais de l'agrément ; j'étais bien accueillie ;</l>
+	<l id="716">Mais mon talent, Monsieur, m'a fait une ennemie.</l>
+	<l id="717" syll="6" part="i">Vous la connaissez bien.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="717" syll="1" part="m">Moi ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="717" syll="5" part="f">C'est cette Lisbeth,</l>
+	<l id="718">Cabaleuse, et si sotte !... Une voix de fausset !...</l>
+	<l id="719">Enfin je ne peux plus me trouver avec elle :</l>
+	<l id="720">Vous devez le savoir ; car de notre querelle</l>
+	<l id="721">On a plus de vingt fois parlé très longuement</l>
+	<l id="722">Au journal de la ville et du département.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="723">Eh ! Qu'ai-je affaire, moi, de tout ce bavardage ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="724" syll="6" part="i">Mais c'est pour m'engager.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="724" syll="6" part="f">Moi ? Que je vous engage ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="725">D'abord il faut m'entendre ; et, si cela vous plaît,</l>
+	<l id="726">Je m'en vais devant vous dire quelque couplet.</l>
+	<l id="727">Par où commencerai-je ?.. Hein ?.. tragique, ou comique ?</l>
+	<l id="728">Choisissez ; vous pourrez me donner la réplique.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="729">La réplique ! Oui ; je suis à cela bien instruit.</l>
+	<l id="730">Allons, la comédie, à présent, me poursuit,</l>
+	<l id="731" syll="6" part="i">Pour me faire enrager.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="731" syll="6" part="f">Voudriez-vous Junie,</l>
+	<l id="732">Atalide, Aricie, ou bien Iphigénie ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="733">Eh ! non, non ; mon_Dieu ! non. Je ne veux rien du tout.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="734">Pardonnez-moi : je dois consulter votre goût.</l>
+	<l id="735">Prenons, en comédie, Agnès, ou la pupille,</l>
+	<l id="736">Marianne, Henriette, Isabelle, Lucile.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="737">Mais à qui croyez-vous parler ? Car je suis las,</l>
+	<l id="738" syll="3" part="i">À la fin...</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="738" syll="9" part="f">Comment donc ?... À qui ?... N'êtes-vous pas</l>
+	<l id="739">Le directeur d'Angers ?... Un honnête et brave homme !..</l>
+	<l id="740">N'est-ce pas Baudignac... Gouvignac qu'on vous nomme ?</l>
+	<l id="741">Et ne venez-vous pas, en secret, à Bordeaux</l>
+	<l id="742">À dessein d'engager quelques sujets nouveaux ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="743" syll="2" part="i">Eh ! Non, non.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+<note type="L">Basse-taille : Voix d'homme immédiatement au-dessus de la basse, et dite aujourd'hui soit baryton, soit première basse. [L]</note>
+	<l id="743" syll="10" part="f">Vous chantez très bien la basse-taille ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="744">La basse-taille !... Allons... je crois qu'elle me raille.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="745">Les pères nobles sont votre emploi, m'a-t-on dit ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="746">Débrouillons une fois ce quiproquo maudit :</l>
+	<l id="747">Je suis, pour parler net et sans plaisanterie,</l>
+	<l id="748">Bon gentilhomme, ancien major d'infanterie,</l>
+	<l id="749">Monsieur de Gouvignac, et non pas directeur,</l>
+	<l id="750">Ni basse-taille... Eh ! mais, ai-je l'air d'un chanteur ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="751">On peut bien se tromper, sans vous faire une offense.</l>
+	<l id="752">Je croyais... on m'a dit... Du moins, par complaisance,</l>
+	<l id="753">À Madame Belval, dont vous êtes l'ami,</l>
+	<l id="754" syll="6" part="i">Monsieur, parlez pour moi.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="754" syll="6" part="f">Parler pour vous !... À qui ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="755">À Belval. De Bordeaux c'est la première actrice,</l>
+	<l id="756">Et qui veut bien, Monsieur, être ma protectrice ;</l>
+	<l id="757">Car je suis son élève, et j'ai pris ses leçons ;</l>
+	<l id="758" syll="6" part="i">Et, vous trouvant chez elle...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="758" syll="6" part="f">Oh ! Parbleu ! Finissons.</l>
+	<l id="759">La dame du logis est une femme aimable.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="760" syll="6" part="i">Très aimable !... un talent !...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="760" syll="6" part="f">Et sage, et respectable.</l>
+	<l id="761" syll="6" part="i">Elle n'est point actrice.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="761" syll="6" part="f">Eh ! Mais, pardonnez-moi.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="762" syll="6" part="i">Où prenez-vous cela ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="762" syll="6" part="f">Je le sais bien, je crois.</l>
+	<l id="763" syll="2" part="i">Belval...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="763" syll="10" part="f">Eh ! Ce n'est point Belval qu'elle se nomme ;</l>
+	<l id="764">C'est Madame_Courmon, veuve d'un gentilhomme,</l>
+	<l id="765" syll="6" part="i">D'un très bon officier...</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="765" syll="6" part="f">Eh ! Oui, nous y voilà ;</l>
+	<l id="766">Courmon ! Elle portait autrefois ce nom-là.</l>
+	<l id="767">Je sais bien qu'elle était veuve d'un militaire ;</l>
+	<l id="768">Mais vous savez aussi ce qu'on fait d'ordinaire,</l>
+	<l id="769">Quand on prend le théâtre : on quitte son vrai nom,</l>
+	<l id="770">Et l'on s'en donne un autre alors de sa façon.</l>
+	<l id="771">Je m'appelle Angélique, et non pas Cléofile ;</l>
+	<l id="772">Et ma mère, Gambard ; c'est son nom, par la ville.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="773">Parbleu ! Mademoiselle Angélique Gambard,</l>
+	<l id="774">Je suis fort redevable au bienheureux hasard</l>
+	<l id="775">Qui me donne l'honneur de votre connaissance...</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="776">Pour Madame_Belval, elle a de la naissance,</l>
+	<l id="777">De l'éducation, l'air du monde, en un mot,</l>
+	<l id="778">Un ton que je copie, et que j'aurai bientôt ;</l>
+	<l id="779" syll="6" part="i">Tout le monde le dit.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="779" syll="6" part="f">Elle !... Comédienne !</l>
+	<l id="780">Madame_de_Courmon !... En êtes-vous certaine ?</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="781">Certaine !... On n'en peut pas douter, assurément.</l>
+	<l id="782">Tous les jours elle joue, et même en ce moment.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="783" syll="4" part="i">En ce moment !</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="783" syll="8" part="f">Eh ! Oui, ce soir, dans la Gageure,</l>
+	<l id="784">C'est son triomphe !... Elle est si parfaite ! Si pure !</l>
+	<l id="785">Un diamant !... Eh ! Mais, je fais réflexion...</l>
+	<l id="786">Je crains d'avoir commis une indiscrétion.</l>
+	<l id="787">Quoi !... Vous ne saviez pas... ? Oui, j'aurais dû me taire ;</l>
+	<l id="788">Peut-être que Monsieur est son oncle, ou son père.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="789" syll="6" part="i">Eh ! non ; ni l'un ni l'autre.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="789" syll="6" part="f">Ah !... d'un si beau talent</l>
+	<l id="790">On pourrait, en tout cas, vous faire compliment.</l>
+	<l id="791">Vous avez l'air fâché ?... Mais quelle étourderie</l>
+	<l id="792">J'ai faite là !... Monsieur, n'allez pas, je vous prie,</l>
+	<l id="793">Dire que c'est par moi que vous avez appris...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="794">Je n'en puis revenir, et je suis si surpris !...</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="795">Mon_Dieu !... je vous ai fait peut-être de la peine !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="796" syll="4" part="i">Oh ! Oui, beaucoup.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="796" syll="8" part="f">Peut-être aussi que je vous gêne ?...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="797" syll="6" part="i">Cela se pourrait bien.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="797" syll="6" part="f">Je vais donc m'en aller.</l>
+	<l id="798">À madame Belval vous voudrez bien parler ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="799">Oui, je lui parlerai ; je vais ici l'attendre.</l>
+</sp>
+<sp who="CLÉOFILE"><speaker>CLÉOFILE.</speaker>
+	<l id="800">Ah ! Que j'aurai, Monsieur, de grâces à vous rendre !</l>
+	<l id="801">Lorsque vous passerez par Angers, quelque jour,</l>
+	<l id="802">J'espère avoir l'honneur de vous y voir. Bonjour ;</l>
+	<l id="803" syll="4" part="i">Je vous salue.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="803" syll="2" part="m">Adieu.</l>
+<stage type="exit">Cléofile sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="803" syll="6" part="f">La cruelle aventure !</l>
+	<l id="804">Moi, la revoir après une pareille injure !</l>
+	<l id="805">Non, ne l'attendons pas... Il faudrait éclater !</l>
+	<l id="806">Car le fait est certain, et je n'en puis douter....</l>
+	<l id="807">Mon neveu... Le sait-il ?... Eh ! Oui... Je me rappelle</l>
+	<l id="808">Certains mots qu'il a dits, lorsque nous parlions d'elle....</l>
+	<l id="809" syll="6" part="i">Mais voici la suivante.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage type="carry/drop"> Monsieur de Gouvignac, Agathe, portant un panier à robes, ou un carton, qu'elle pose sur un meuble.
+</stage>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="809" syll="6" part="f">Ah ! Monsur, dans l'instant</l>
+	<l id="810">Madame va rentrer ; jé marche un peu dévant.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="811">Qu'elle vienne, ou s'en aille, il ne m'importe guère ;</l>
+	<l id="812" syll="6" part="i">Je ne veux plus la voir.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="812" syll="6" part="f">Êtes-vous en colère ?</l>
+	<l id="813">Qu'avez-vous ? Quant à moi, jé né puis deviner.</l>
+	<l id="814">Vous étiéz satisfait en sortant du dîner !...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="815">Eh ! Je ne m'en plains pas, non plus que des convives.</l>
+	<l id="816">Leurs manières étaient des plus récréatives.</l>
+	<l id="817">À propos, qui sont-ils ? Ne les connais-tu pas ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="818">Eh ! mais, monsur, cé sont des gens dé tous états,</l>
+	<l id="819">Qué vous dirai-jé, moi ? Cé sont des militaires,</l>
+	<l id="820">Négociants, marins, financiers, gens d'affaires,</l>
+	<l id="821" syll="6" part="i">Tous fort honnêtés gens.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="821" syll="6" part="f">Je t'entends. Va, conviens.</l>
+	<l id="822">Tout naturellement qu'ils sont comédiens.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="823" syll="6" part="i">Comédiens ?... Eh ! quoi ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="823" syll="6" part="f">Voyez la perfidie !</l>
+	<l id="824">On s'est, à mes dépens, donné la comédie !</l>
+	<l id="825">Mais, morbleu !.. Qu'en dis-tu ? Sais-je a quoi m'en tenir ?</l>
+	<l id="826">Adieu. Je sors d'ici pour n'y plus revenir.</l>
+<stage type="away">Il va pour sortir.</stage>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="827" syll="6" part="i">Quellé vivacité !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="back">, revenant sur ses pas.
+	</stage>
+	<l id="827" syll="6" part="f">Dis bien à ta maîtresse</l>
+	<l id="828">Que la pièce est finie, et que l'intrigue cesse.</l>
+	<l id="829">Elle a fort bien joué ; j'en conviens avec toi.</l>
+	<l id="830">Mais, pour le dénouement, qu'on se passe de moi.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="831">Il s'en va !... Je lé vois... la mine est éventée !...</l>
+	<l id="832">Il mé laissé, vraiment !... toute déconcertée !...</l>
+	<l id="833">Madamé va rentrer. Quoiqu'on ait dé l'esprit,</l>
+	<l id="834">Comment la saluer dé cé fâcheux récit ?</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Madame Belval, Sainville.
+</stage>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="835">Voilà tout le succès de ce bel artifice !</l>
+	<l id="836">Mon oncle a découvert que vous êtes actrice ;</l>
+	<l id="837" syll="4" part="i">Il veut partir.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="837" syll="8" part="f">Eh bien ! Laissez-le s'en aller.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="838" syll="6" part="i">Je suis au désespoir.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="838" syll="6" part="f">Pourquoi vous désoler ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="839">C'est qu'il ne prétend pas faire seul le voyage ;</l>
+	<l id="840">À minuit j'ai reçu de sa part un message</l>
+	<l id="841">Qui m'annonce qu'il compte être en route aujourd'hui,</l>
+	<l id="842">Et m'enjoint d'être prêt à partir avec lui.</l>
+	<l id="843" syll="4" part="i">Ainsi jugez...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="843" syll="8" part="f">J'entends. Cet ordre vous afflige</l>
+	<l id="844" syll="4" part="i">Ne craignez rien.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="844" syll="2" part="m">Comment ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="844" syll="6" part="f">Ne craignez rien, vous dis-je.</l>
+	<l id="845">Il ne partira pas, et je vous en réponds.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="846" syll="6" part="i">Sur quoi le jugez-vous ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="846" syll="6" part="f">Sur de bonnes raisons.</l>
+	<l id="847">Pensez-vous,s'il vous plaît, quand on est dans ma chaîne,</l>
+	<l id="848">Qu'on puisse la briser avec si peu de peine ?</l>
+	<l id="849">Vous vous trompez beaucoup, et, sans trop me flatter,</l>
+	<l id="850">Il faut quelques efforts, mon cher, pour me quitter.</l>
+	<l id="851" syll="6" part="i">Mais que veut Daricour ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Daricour, Madame Belval, Sainville.
+</stage>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="851" syll="6" part="f">Eh ! Que viens-je d'apprendre ?</l>
+	<l id="852">Le piège où le major s'est d'abord laissé prendre,</l>
+	<l id="853">Il l'a donc reconnu ?... Le fâcheux incident !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="854">Oui ; votre Cléofile a jasé sottement.</l>
+	<l id="855">L'oncle, dans son courroux, veut quitter notre ville,</l>
+	<l id="856">Et même, en s'en allant, nous enlève Sainville.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR</speaker><stage type="toward">, à Sainville.
+	</stage>
+	<l id="857">Dites-lui que tout seul il se mette en chemin ;</l>
+	<l id="858">Et, s'il part aujourd'hui, mariez-vous demain ;</l>
+	<l id="859">À ces oncles fâcheux il faut apprendre à vivre :</l>
+	<l id="860" syll="6" part="i">C'est mon avis, à moi.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="860" syll="6" part="f">Que ne puis-je le suivre !</l>
+	<l id="861">J'avais voulu d'abord, et vous le savez bien,</l>
+	<l id="862">Former, sans son aveu, ce cher et doux lien ;</l>
+	<l id="863">Henriette et sa mère ont résisté sans cesse ;</l>
+	<l id="864">Je leur ai mille fois offert une promesse ;</l>
+	<l id="865">La voici bien signée ; et voulez-vous encor.</l>
+	<l id="866" syll="6" part="i">Aller la leur offrir ?</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="866" syll="6" part="f">Oh ! Non pas ; j'aurais tort,</l>
+	<l id="867">Et j'échouerais. La mère a l'esprit ferme et sage.</l>
+	<l id="868">Ce papier-là ne peut être d'aucun usage.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="869">C'est mon oncle d'abord qu'il faut persuader.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="870">Soit. Mais, comme jamais il ne voudra céder...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="871">Vous me désespérez ; ce papier inutile</l>
+	<l id="872" syll="6" part="i">N'est bon qu'à déchirer...</l>
+<stage type="tear">Il va pour le déchirer.</stage>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="show">, le lui prenant des mains.
+	</stage>
+	<l id="872" syll="6" part="f">Que faites-vous, Sainville ?</l>
+	<l id="873">Voyons. Cette promesse, il faut me la donner.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="874">Ah ! Mon oncle jamais ne voudra la signer.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="875">C'est ce que nous verrons ; et, pourvu qu'il revienne.</l>
+	<l id="876">Je suis femme d'abord, et puis comédienne</l>
+	<l id="877">Il m'aime ; je suis loin d'en vouloir abuser ;</l>
+	<l id="878">Pour de bonnes raisons je ne puis l'épouser ;</l>
+	<l id="879" syll="6" part="i">Il ne les connaît pas.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="879" syll="6" part="f">Il est vrai ; pas encore.</l>
+	<l id="880">Mais il peut découvrir bientôt ce qu'il ignore.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="881">Je me hâterai donc de travailler pour vous.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="882">Comment le ramener, et vaincre son courroux.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="883">Il aime le théâtre ? Eh bien ! J'ai quelque envie</l>
+	<l id="884">De lui faire avec moi jouer la comédie,</l>
+	<l id="885">Sans qu'il s'en doute encor ; j'aurai bien le talent</l>
+	<l id="886" syll="6" part="i">D'arranger une scène...</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Daricour, Madame Belval, Agathe, Sainville.
+</stage>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="run">, accourant.
+	</stage>
+	<l id="886" syll="6" part="f">Ah ! Madame, à l'instant</l>
+	<l id="887">Monsur dé Gouvignac arrivé. Qué lui dire ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="888" syll="2" part="i">Mon oncle ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="888" syll="4" part="m">Eh ! Oui, monsur.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR</speaker><stage type="toward">, à Madame Belval.
+	</stage>
+	<l id="888" syll="6" part="f">Cela vous fait sourire l</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Sainville.
+	</stage>
+	<l id="889">Je vous avais bien dit qu'il ne partirait pas.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="890">Antoiné lé rétient quelqués instants là-bas ;</l>
+	<l id="891" syll="6" part="i">Mais il né peut tarder.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="891" syll="6" part="f">Eh bien ! u'allez-vous faire ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="892">Il faut nous concerter d'abord sur cette affaire ;</l>
+	<l id="893">Convenir de nos faits, de crainte d'accidents ;</l>
+	<l id="894">Allons apprendre un peu nos rôles là-dedans.</l>
+	<l id="895" syll="6" part="i">Agathe, restez là.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="895" syll="6" part="f">Moi ?... Mais, qué lui dirai-je ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="896" syll="6" part="i">Tout ce que vous voudrez.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="896" syll="2" part="m">Encor ?..</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="896" syll="6" part="f">Dites... que sais-je ?</l>
+	<l id="897">Que Madame est dehors, qu'elle vient de sortir,</l>
+	<l id="898">Mais qu'elle va rentrer... Sachez un peu mentir.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="899">Ah ! Madame sait bien commé jé mens pour elle,</l>
+	<l id="900" syll="6" part="i">Quand il en fait bésoin.</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="900" syll="6" part="f">Cette fille a du zèle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="toward">, à Daricour.
+	</stage>
+	<l id="901" syll="6" part="i">Mauvais plaisant !.. venez.</l>
+<stage type="exit">Ils entrent dans l'appartement de Madame Belval</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="901" syll="6" part="f">Cé monsùr lé major,</l>
+	<l id="902">Chez nous, dités-moi donc, qué vient-il faire encor ?</l>
+	<l id="903">Il était en courroux hier contré Madame !</l>
+	<l id="904">Sé peut-il que déjà pour elle il sé renflamme ?</l>
+	<l id="905">C'est l'effet du théâtre ; oui, dès qu'elle y paraît,</l>
+	<l id="906">Uné femme en réçoit un mérite, un attrait !..</l>
+	<l id="907">Oh ! Quand débutérai-je ?.. Enfin j'en vois plus d'une,</l>
+	<l id="908">Qué jé vaux bien, jé pense, et qui fait sa fortune...</l>
+	<l id="909">Jé veux fairé la mienne... Eh ! donc ?.. mais lé voici.</l>
+	<l id="910" syll="6" part="i">Sachons cé qu'il nous veut.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Monsieur de Gouvignac, Agathe.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte/watch">, à part, sans voir Agathe.
+	</stage>
+	<l id="910" syll="6" part="f">Je prends le bon parti.</l>
+	<l id="911">Se fâcher est folie. Eh bien ! Elle est actrice ;</l>
+	<l id="912">Loin de m'en plaindre, il faut que je m'en applaudisse ;</l>
+	<l id="913">Cela va m'être utile ;... ou pourra s'arranger...</l>
+	<l id="914">Il est un décorum qu'il faudra ménager...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="915" syll="6" part="i">Qué dit-il là tout seul ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="apartz">, à part.
+	</stage>
+	<l id="915" syll="6" part="f">Ah ! Voici la suivante.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, de même.
+	</stage>
+	<l id="916" syll="6" part="i">Je pensé qu'il mé voit.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte">, de même.
+	</stage>
+	<l id="916" syll="6" part="f">Gagnons la confidente.</l>
+	<l id="917" syll="6" part="i">Elle peut me servir.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, toujours à part.
+	</stage>
+	<l id="917" syll="6" part="f">Approchons dé plus près,</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte">, toujours de même.
+	</stage>
+	<l id="918">Il la faut, en payant, mettre en mes intérêts.</l>
+<stage type="loud">Haut.</stage>
+	<l id="919" syll="6" part="i">Votre belle maîtresse...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="919" syll="6" part="f">Elle n'est pas chez elle.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="920">Ah ! Que m'apprenez-vous ? La fâcheuse nouvelle !..</l>
+	<l id="921">Mais si je puis causer avec vous un moment,</l>
+	<l id="922">Je l'attendrai, je crois, fort agréablement.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="923" syll="6" part="i">Monsur est bien galant.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="923" syll="6" part="f">Vous êtes fort jolie.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="924">Monsur, on mé l'a dit quelquéfois dans ma vie.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="925">Vous connaîtriez-vous, par hasard, en bijoux ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="926" syll="1" part="i">Moi ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="926" syll="11" part="f">Cette bague-ci, comment la trouvez-vous ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="927" syll="6" part="i">Oh ! Comme céla brille !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="927" syll="2" part="m">Eh bien ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="927" syll="4" part="f">Elle est fort belle.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="928" syll="3" part="i">Gardez-la.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="928" syll="3" part="m">Vous voulez ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="928" syll="6" part="f">C'est une bagatelle.</l>
+	<l id="929" syll="6" part="i">Point de remerciement.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="929" syll="6" part="f">Céla commencé bien.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="930">Hier, j'étais fâché ; ce matin, je revien...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="931">Peut-être il veut m'aimer, qué sait-on ? Par vengeance.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="932">J'attends beaucoup de vous, de votre intelligence...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="933">Ah ! Monsur,... vous avez dé si noblés façons !..</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="934" syll="6" part="i">Dites, puis-je espérer ?..</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="934" syll="6" part="f">Qué vous plaît-il ?... Voyons.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="935">Eh bien ! ma chère enfant, il faut, avec adresse,</l>
+	<l id="936">Parler en ma faveur à ta belle maîtresse.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="937" syll="6" part="i">Hé donc ! Jé mé trompais.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="937" syll="6" part="f">Je crois que, sur ses pas,</l>
+	<l id="938" syll="6" part="i">Des courtisans nombreux ?...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="938" syll="6" part="f">Hé, nous n'en manquons pas.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="939">Parlons à coeur ouvert. Dans le nombre, ma chère,</l>
+	<l id="940">N'est-il pas un heureux qu'en secret on préfère ?</l>
+	<l id="941" syll="6" part="i">Par exemple... Mircour ?</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="941" syll="5" part="m">Qui ? Lé financier ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="941" syll="1" part="f">Oui.</l>
+	<l id="942" syll="3" part="i">Qu'en dis-tu ?..</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="942" syll="9" part="f">Né prénez aucun soupçon dé lui ;</l>
+	<l id="943" syll="3" part="i">Jé réponds...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="943" syll="3" part="m">J'ai cru voir...</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE.</speaker>
+	<l id="943" syll="6" part="f">C'est qu'ils ont voulu rire,</l>
+	<l id="944" syll="4" part="i">Madamé vient...</l>
+<stage type="aparte">À part.</stage>
+	<l id="944" syll="8" part="f">Tant mieux ; car j'allais en trop dire,</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Monsieur de Gouvignac, Madame Belval, comme revenant du dehors, entre sans faire semblant d'abord de voir Monsieur de Gouvignac.
+</stage>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="945" syll="4" part="i">Agathe, je reviens...</l>
+<stage type="suprise">Jouant la surprise.</stage>
+	<l id="945" syll="6" part="f">Ah ! Major, vous ici ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="946" syll="6" part="i">Madame, vous voyez...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="946" syll="6" part="f">Quoi !... Me surprendre ainsi !...</l>
+	<l id="947">Je rentre, et je vous trouve... Ah ! je suis tout émue l</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="948" syll="6" part="i">Qu'avez-vous ?.. Est-ce moi ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="948" syll="f" part="f">Sans être prévenue...</l>
+	<l id="949">Quand je n'espérais plus de jamais vous revoir...</l>
+	<l id="950">C'est un saisissement !... J'ai besoin de m'asseoir.</l>
+	<l id="951" syll="9" part="i">Vous permettez ?.. Agathe... un siège.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="951" syll="3" part="f">L'entend-elle ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="give">, donnant promptement un siège.
+	</stage>
+	<l id="952">Je vais en donner un. Laissez, mademoiselle.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="sit">, assise.
+	</stage>
+	<l id="953">C'est bien aimable à vous d'être ainsi revenu'</l>
+	<l id="954" syll="6" part="i">Je vous reconnais là.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="954" syll="6" part="f">Comment !.. Aviez-vous cru ?..</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="955">Vous aviez, m'a-t-on dit, montré tant de colère !</l>
+	<l id="956" syll="6" part="i">Vous m'avez fait bien mal !..</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="956" syll="6" part="f">Si j'ai pu vous déplaire,</l>
+	<l id="957">Pardon. J'aurais besoin de causer avec vous.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="958">Soit. Donnez à Monsieur un siège, et laissez-nous.</l>
+</sp>
+<sp who="AGATHE"><speaker>AGATHE</speaker><stage> donne un siège au major, et dit, à part, en s'en allant :
+	</stage>
+	<l id="959">Voilà cé qui s'appelle un talent véritable !</l>
+	<l id="960">Jé laissé lé major dans un péril notable.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Monsieur de Gouvignac, Madame Belval.
+</stage>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="961" syll="6" part="i">Êtes-vous un peu mieux ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="961" syll="6" part="f">Oui ; ce ne sera rien.</l>
+	<l id="962" syll="4" part="i">Asseyez-vous.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="sit/aparte">, assis, et à part.
+	</stage>
+	<l id="962" syll="8" part="f">Par où commencer l'entretien ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="963" syll="6" part="i">Vous allez donc partir ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="963" syll="6" part="f">Voulez-vous que je reste ?</l>
+	<l id="964" syll="6" part="i">Cela dépend de vous.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="964" syll="2" part="m">Comment ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="964" syll="4" part="f">Je vous proteste</l>
+	<l id="965">Que vous pouvez, ma Reine, ici me retenir ;</l>
+	<l id="966">L'amour chez la beauté se fixe avec plaisir.</l>
+	<l id="967">Je formais, à l'instant, un plan sage, très sage,</l>
+	<l id="968">Qui m'offrait du bonheur la séduisante image.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="969" syll="3" part="i">Quel est-il ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="969" syll="9" part="f">Je voudrais vous le faire adopter ;</l>
+	<l id="970">Ce serait d'être unis, de ne nous plus quitter.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="971">À de pareils discours comment croirais-je encore ?</l>
+	<l id="972" syll="6" part="i">Vous ne pouvez m'aimer.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="972" syll="6" part="f">Qui ? Moi ? Je vous adore,</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="973">Depuis que vous savez quel état est le mien..,</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="974">Qu'importe ? à mon projet cela ne gâte rien.</l>
+	<l id="975">Heureux de posséder une charmante amie,</l>
+	<l id="976">Par mille attentions j'embellirais sa vie ;</l>
+	<l id="977">Je voudrais prévenir le moindre de ses voeux..,</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="978" syll="2" part="i">Plait-il ?...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="978" syll="10" part="f">Tout deviendrait commun entre nous deux ;</l>
+	<l id="979">Entre amis, entre amants, sans scrupule on partage ;</l>
+	<l id="980" syll="6" part="i">Quand le coeur s'est donné.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="980" syll="6" part="f">Quel est donc ce langage ?</l>
+	<l id="981">À qui s'adresse-t-il ?... Est-ce à moi, s'il vous plaît ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="surpise">, un peu déconcerté.
+	</stage>
+	<l id="982" syll="2" part="i">Madame !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="982" syll="10" part="f">Vous rêvez, à ce qu'il me paraît ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="983" syll="2" part="i">Quel ton ?</l>
+<stage type="aparte">À part.</stage>
+	<l id="983" syll="10" part="f">Ce n'est pas là comme il fallait s'y prendre ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="stand">, se levant.
+	</stage>
+	<l id="984">Je vous estime assez pour ne vous pas comprendre.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="stand/aparte">, se levant aussi, et à part.
+	</stage>
+	<l id="985">Elle refuse !... Allons ! c'est tout de bon, ma foi !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="986">Ah ! Monsieur le Major, vous pensez mal de moi ?</l>
+	<l id="987" syll="6" part="i">Je ne l'aurais pas cru.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="987" syll="6" part="f">Que dites-vous, ma chère ?</l>
+	<l id="988">Vous aurais-je fâchée ? Est-ce de la colère ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="989" syll="6" part="i">Oh ! Non ; je n'en ai point.</l>
+<stage type="aparte">À part.</stage>
+	<l id="989" syll="6" part="f">Mais je me vengerai,</l>
+	<l id="990">Et vous ferez, major, tout ce que je voudrai.</l>
+<stage type="loud">Haut.</stage>
+	<l id="991">Vous me méconnaissez ; votre erreur est extrême ;</l>
+	<l id="992">On peut changer d'état ; le coeur reste le même.</l>
+	<l id="993">Auriez-vous autrefois si mal jugé le mien ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="994">De madame Belval je pense encor très bien ;</l>
+	<l id="995" syll="3" part="i">Daignez croire...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="995" syll="9" part="f">Écoutez, et rendez-moi justice.</l>
+	<l id="996">Je suis franche, sincère, exempte d'artifice.</l>
+	<l id="997">Mon état actuel ne m'avait fait jamais</l>
+	<l id="998">Jusqu'à ce moment-ci connaître les regrets ;</l>
+	<l id="999">J'ouvre les yeux ; j'y vois un malheur véritable ;</l>
+	<l id="1000">J'avais cru retrouver un ami... bien aimable...</l>
+	<l id="1001">Un ami que jamais je n'avais oublié ;</l>
+	<l id="1002">J'ai retrouvé l'ami, mais non pas l'amitié.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1003">Eh ! Lais, pardonnez-moi ; ne doutez pas, Madame...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1004">Je veux que vous lisiez jusqu'au fond de mon âme ;</l>
+	<l id="1005">Vos projets de départ m'ont causé du chagrin ;</l>
+	<l id="1006">J'en ai versé des pleurs, cette nuit, ce matin ;</l>
+	<l id="1007">J'avais tort ; cette fuite, à mes voeux si contraire,</l>
+	<l id="1008">Devient à mon repos désormais nécessaire ;</l>
+	<l id="1009">Oui, partez, puisqu'ainsi vous l'avez résolu ;</l>
+	<l id="1010">C'est un malheur pour moi de vous avoir revu,</l>
+	<l id="1011">Lorsqu'à fixer vos voeux je ne dois plus prétendre ;</l>
+	<l id="1012">Vous m'oublierez bientôt, et je m'y dois attendre ;</l>
+	<l id="1013">Mais rien n'affaiblira pour vous... mon sentiment.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1014">Oh ! Cette femme-là m'aime réellement.</l>
+<stage type="loud">Haut.</stage>
+	<l id="1015">Cette aimable franchise ajoute à tous vos charmes...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1016">Je crois qu'il s'attendrit ; c'est le moment des larmes.</l>
+<stage type="loud">Haut.</stage>
+	<l id="1017">Mon état vous révolte, et vous est odieux,</l>
+	<l id="1018">Et l'avoir pris me rend bien coupable à vos yeux ;</l>
+	<l id="1019">J'eus pour m'y décider un motif respectable,</l>
+	<l id="1020">J'ose le dire... Hélas ! Ici-bas rien n'est stable ;</l>
+	<l id="1021">Nous sommes, malgré nous, malgré nos sentiments,</l>
+	<l id="1022">Jouets de la fortune et des événements.</l>
+	<l id="1023">Ah ! J'ai beaucoup souffert ; ce souvenir pénible</l>
+	<l id="1024" syll="6" part="i">M'arrache encor des pleurs...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1024" syll="6" part="f">Ô ciel ! Est-il possible ?...</l>
+	<l id="1025">Vous pleurez ?... Que n'étais-je alors auprès de vous !...</l>
+	<l id="1026">Que n'ai-je pu du sort vous épargner les coups !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1027">Vous, major, qui venez, par une épreuve dure,</l>
+	<l id="1028">De me blesser dans rame et de me faire injure ?</l>
+	<l id="1029">Vous ne me voyez plus du même oeil qu'autrefois ;</l>
+	<l id="1030">À votre estime, au moins, j'aurai toujours des droits...</l>
+	<l id="1031">Partez... soyez heureux... vous m'avez mal jugée.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1032">Ah ! Par mon repentir vous êtes trop vengée ;</l>
+	<l id="1033">C'est l'erreur d'un moment ; je veux la réparer ;</l>
+	<l id="1034">Par de tendres respects je veux vous honorer,</l>
+	<l id="1035">Rendre dignes de vous mes voeux et mon hommage ;</l>
+	<l id="1036" syll="6" part="i">Souffrez qu'à vos. genoux...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1036" syll="6" part="f">Voilà votre langage !</l>
+	<l id="1037">Oui, vous voilà, major, et je vous reconnais.</l>
+	<l id="1038" syll="3" part="i">Levez-vous.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1038" syll="9" part="f">Dites-moi d'abord que pour jamais</l>
+	<l id="1039">Vous oubliez mes torts, vous m'accordez ma grâce.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1040">Des torts ?... n'en parlons plus ; ce retour les efface.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1041">Je reconnais aussi Madame_de_Courmon,...</l>
+	<l id="1042" syll="3" part="i">Mon amie...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1042" syll="9" part="f">Ah ! Laissez ; ce n'est plus là mon nom.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1043" syll="2" part="i">Eh ! Quoi ?...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1043" syll="10" part="f">Je suis Belval, je suis comédienne ;</l>
+	<l id="1044">Je vous le dis encor ; que rien ne vous retienne ;</l>
+	<l id="1045" syll="6" part="i">Adieu. Séparons-nous.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1045" syll="6" part="f">Cela ne se peut plus.</l>
+	<l id="1046">Vous quitter ? J'y ferais des efforts superflus.</l>
+	<l id="1047">Je reste auprès de vous ; j'y veux passer ma vie.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1048">Non ; pour y consentir je suis trop votre amie.</l>
+	<l id="1049">Ce conseil à donner me coûte, croyez-moi.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1050">Quelle sagesse en vous !... Et quelle bonne foi !</l>
+	<l id="1051">J'admire en vos discours le plus beau caractère,</l>
+	<l id="1052">La raison, la vertu ; je vous aime et révère ;</l>
+	<l id="1053">Je vous ai dit, hier, quel était mon dessein ;</l>
+	<l id="1054" syll="6" part="i">J'y tiens plus que jamais.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1054" syll="6" part="f">Vous ! M'offrir votre main,</l>
+	<l id="1055">Major ? Pour mon état je connais votre haine...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1056">Eh ! Mais !... En m'épousant vous quitteriez la scène !...</l>
+	<l id="1057">Vous trouveriez, je pense, un dédommagement !...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1058">Moi, quitter mon état... et perdre mon talent ?</l>
+	<l id="1059">Quelque sort qu'on m'offrît, j'en serais bien fâchée ;</l>
+	<l id="1060">Par goût et par honneur j'y suis trop attachée ;</l>
+	<l id="1061">À force de travaux quand on s'est fait un nom...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1062">Nous pourrions alors nous y prendre d'autre façon.</l>
+	<l id="1063">Ce nom que vos talents, votre conduite honore,</l>
+	<l id="1064">Vous le conserveriez pour l'illustrer encore :</l>
+	<l id="1065">Soyons ensemble unis par un hymen secret,</l>
+	<l id="1066" syll="6" part="i">Et gardez votre état.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1066" syll="6" part="f">Dans ce nouveau projet</l>
+	<l id="1067">J'entrevois des motifs que vous savez me taire.</l>
+	<l id="1068">Croyez-vous que je puisse approuver ce mystère ?</l>
+	<l id="1069">Accepter un époux qui rougirait de moi,</l>
+	<l id="1070">Qui craindrait, en public, de m'engager sa foi ?...</l>
+	<l id="1071">Tenez, il faut vous dire, en grande confidence,</l>
+	<l id="1072">Un fait des plus secrets... Je sais votre prudence.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1073" syll="3" part="i">Qu'est-ce donc ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1073" syll="9" part="f">L'an dernier, quelqu'un s'est propose</l>
+	<l id="1074">Pour être mon époux ; c'était un homme aisé,</l>
+	<l id="1075">Ayant un nom, un rang : il insistait, de même,</l>
+	<l id="1076">Pour me faire quitter le théâtre que j'aime...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1077" syll="6" part="i">Lui... Vous plaisait-il ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1077" syll="6" part="f">J'en faisais un grand cas,,</l>
+	<l id="1078">Mais je vous dirai vrai ; non, je ne l'aimais pas.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC</speaker><stage type="tender">, tendrement.
+	</stage>
+	<l id="1079" syll="3" part="i">M'aimez-vous ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL</speaker><stage type="sigh">, avec un soupir.
+	</stage>
+	<l id="1079" syll="9" part="f">Ah ! Laissez ; j'en ai trop dit peut-être,</l>
+	<l id="1080">Ce que je sens pour vous je l'ai trop fait connaître ;</l>
+	<l id="1081" syll="6" part="i">Mais n'en abusez pas.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1081" syll="6" part="f">Je suis donc décidé.</l>
+	<l id="1082">Par la raison autant que par l'amour guidé...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1083">Mon cher major, malgré ce feu qui vous égare,</l>
+	<l id="1084">Un obstacle trop fort, vous et moi, nous sépare...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1085">Non ; puisque vous m'aimez, plus d'obstacle entre nous :</l>
+	<l id="1086">Faut-il encor, faut-il vous prier à genoux ?</l>
+	<l id="1087">Tout ce que vous voudrez je consens à le faire ;</l>
+	<l id="1088">Je sens qu'à mon bonheur vous êtes nécessaire :</l>
+	<l id="1089">De mes vains préjugés l'amour m'a bien guéri ;</l>
+	<l id="1090" syll="6" part="i">Je les abjure tous.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1090" syll="6" part="f">Eh bien ! S'il est ainsi,</l>
+	<l id="1091">D'un si grand changement donnez-moi donc la preuve.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1092" syll="3" part="i">Eh ! comment ?...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1092" syll="9" part="f">Je vous offre une facile épreuve.</l>
+	<l id="1093">Ne vous opposez plus à l'hymen recherché</l>
+	<l id="1094">Par votre cher neveu : vous l'avez empêché ;</l>
+	<l id="1095">Vous avez repoussé loin de votre famille</l>
+	<l id="1096">Une personne honnête, une charmante fille.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1097">Pardon ; devriez-vous me parler de cela ?</l>
+	<l id="1098">Je viens pour prévenir ce mariage-là :</l>
+	<l id="1099">J'ai, par ce motif seul, entrepris mon voyage ;</l>
+	<l id="1100">J'ai dit partout combien Sainville était peu sage...</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Les mêmes, Sainville.
+</stage>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1101">Mon oncle, je me rends à vos ordres exprès.</l>
+	<l id="1102">Mais quoi ! Pour le départ je n'ai, noient vu d'apprêts ;</l>
+	<l id="1103">Je viens de votre hôtel, où vos gens m'ont dû dire</l>
+	<l id="1104">Que vous étiez sorti, mais sans leur rien prescrire ;</l>
+	<l id="1105">Auriez-vous donc changé vos dispositions ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1106">Non pas à ton égard ; car mes intentions</l>
+	<l id="1107">Sont toujours qu'au plus tôt tu quittes cette ville,</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1108">Eh bien ! Mon oncle, soit. Je veux être docile.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1109" syll="3" part="i">Est-il vrai ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1109" syll="9" part="f">Sûrement ; je dois vous obéir.</l>
+	<l id="1110">D'un séjour dangereux je brûle de partir.</l>
+	<l id="1111">La raison sur mon âme a repris son empire.</l>
+<stage type="aparte">À part.</stage>
+	<l id="1112">Mon rôle est convenu ; je sais ce qu'il faut dire.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1113">Tu prends le bon parti ; c'est très bien, mon neveu ;</l>
+	<l id="1114" syll="6" part="i">Je t'en fais compliment.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1114" syll="2" part="m">Eh bien ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1114" syll="4" part="f">Eh bien ! Adieu.</l>
+	<l id="1115" syll="9" part="i">Bon voyage. Veux-tu m'embrasser ?</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1115" syll="3" part="f">Il me semble</l>
+	<l id="1116">Que votre ordre, mon oncle, est de partir ensemble.</l>
+	<l id="1117">Ne m'avez-vous pas fait, cette nuit, prévenir ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1118" syll="6" part="i">Oui ; mais je ne pars plus.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1118" syll="6" part="f">Qui peut vous retenir ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1119">Madame pourrait bien t'en dire quelque chose.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1120" syll="3" part="i">Moi ? Comment ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1120" syll="9" part="f">Si je reste, elle seule en est cause.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1121">Quoi ! Mon oncle, serait-ce... ? Ah ! Je l'avais prévu.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1122">Enfin à l'épouser tu me vois résolu.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1123">À l'épouser ? Eh ! Mais cela ne peut pas être.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1124">Tu te moques de moi... Ne suis-je pas le maître ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1125">Pour vous en empêcher, il suffit bien, je crois,</l>
+	<l id="1126" syll="4" part="i">De mon état...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1126" syll="2" part="m">Eh ! Non...</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE</speaker><stage type="toward/low">, prenant à part Monsieur de Gouvignac, et lui parlant bas :
+	</stage>
+	<l id="1126" syll="6" part="f">Mon oncle, écoutez-moi ;</l>
+	<l id="1127">Vous faites cent fois pis que je ne voulais faire.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1128">Si je fais pis ou mieux, ce n'est pas ton affaire.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1129" syll="6" part="i">Je veux vous emmener.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1129" syll="6" part="f">Je ne partirai pas.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1130">Qu'avez-vous donc, Messieurs ? Vous querellez tout bas ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1131">C'est qu'il perd la raison ; croiriez-vous qu'il me donne</l>
+	<l id="1132" syll="6" part="i">Des conseils contre vous ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1132" syll="6" part="f">Oh ! Je le lui pardonne.</l>
+	<l id="1133">Vous comptez m'épouser ; votre neveu peut bien</l>
+	<l id="1134">Blâmer votre projet, quand il renonce au sien.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1135">Oh ! Ma position n'est point du tout la sienne.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1136">Vous m'avez fait sentir les dangers de la mienne.</l>
+	<l id="1137">Henriette est pourtant charmante, sans détour ;</l>
+	<l id="1138">Vous-même la jugiez digne de mon amour.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1139" syll="6" part="i">Je ne la connais pas.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1139" syll="6" part="f">Pardon, vous l'avez vue.</l>
+	<l id="1140">Cette jeune beauté, douce, aimable, ingénue,</l>
+	<l id="1141">Que vous vîtes hier, qui vous parut si bien,</l>
+	<l id="1142" syll="6" part="i">Dont vous fîtes l'éloge...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1142" syll="6" part="f">Ah ! Oui, je m'en souviens.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1143" syll="6" part="i">Elle n'est point ma nièce.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1143" syll="6" part="f">En voici bien d'une autre !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1144">Mais je voudrais beaucoup qu'elle devint la vôtre.</l>
+	<l id="1145">Hier, en la voyant, vous formiez ce désir.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1146">Pourvu qu'à m'épouser vous veuilliez consentir...</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1147">De mes conditions vous savez la première.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1148">Mais Sainville, à présent, pense d'autre manière ;</l>
+	<l id="1149" syll="6" part="i">Il veut partir.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1149" syll="6" part="f">Non, non. D'après ce que je vois,</l>
+	<l id="1150">Je change aussi d'avis ; votre exemple est ma loi.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1151">Sainville avait écrit d'avance une promesse.</l>
+	<l id="1152" syll="6" part="i">Approuvez-la. Signez.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1152" syll="6" part="f">Vous êtes la maîtresse.</l>
+	<l id="1153">Il faut bien se soumettre ; et je suis trop heureux</l>
+	<l id="1154" syll="6" part="i">Pour vous rien refuser.</l>
+</sp>
+<sp who="SAINVILLE"><speaker>SAINVILLE.</speaker>
+	<l id="1154" syll="6" part="f">Ah ! Vous comblez mes voeux.</l>
+<stage type="sign">Monsieur de Gouvignac signe la promesse.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX ET DERNIÈRE.</head><stage> Les mêmes, Henriette, Daricour.
+</stage>
+<sp who="SAINVILLE"><speaker>SAINVILLE</speaker><stage type="entrance">, voyant entrer Henriette et Daricour.
+	</stage>
+	<l id="1155">Henriette, venez ; mon oncle, qui vous aime,</l>
+	<l id="1156">Consent à mon bonheur ; il le signe lui-même.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="1157">Est-il vrai ? Quoi ! Monsieur d'avis a donc changé ?</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1158">Oui, ma très belle enfant ; oui, tout est arrangé.</l>
+	<l id="1159" syll="6" part="i">Appelez-moi votre oncle.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="1159" syll="6" part="f">Ah ! Que je vous rends grâce,</l>
+	<l id="1160" syll="3" part="i">Mon cher oncle !</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1160" syll="9" part="f">Et souffrez qu'ici je vous embrasse.</l>
+<stage type="kiss">Il embrasse Henriette.</stage>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1161">Cher major, à présent n'allez pas m'en vouloir ;</l>
+	<l id="1162">De l'amour j'ai voulu vous montrer le pouvoir ;</l>
+	<l id="1163">D'une ruse innocente il faut que je m'accuse.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1164" syll="3" part="i">Qu'est-ce donc ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1164" syll="9" part="f">Mon motif me servira d'excuse.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1165" syll="2" part="i">Parlez.</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1165" syll="10" part="f">De ces enfants je voulais le bonheur,</l>
+	<l id="1166">Et je songeais au vôtre, en travaillant au leur.</l>
+	<l id="1167">Je serai, près de vous, par là justifiée ;</l>
+	<l id="1168">Mais vous me croyez libre ; et je suis... mariée.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1169" syll="6" part="i">Mariée ! Est-il vrai ?</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1169" syll="6" part="f">Très mariée, hélas !</l>
+<stage type="show">En montrant Daricour.</stage>
+	<l id="1170">Monsieur en fut témoin ; je ne vous trompe pas ;</l>
+	<l id="1171" syll="6" part="i">Il est mon directeur...</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1171" syll="6" part="f">Comment ? Que signifie ?...</l>
+	<l id="1172" syll="6" part="i">Monsieur est directeur ?...</l>
+</sp>
+<sp who="DARICOUR"><speaker>DARICOUR.</speaker>
+	<l id="1172" syll="6" part="f">Eh oui ! De comédie.</l>
+	<l id="1173">Par mes soins, à Bordeaux le théâtre va bien.</l>
+	<l id="1174">L'emploi des financiers dans la troupe est le mien.</l>
+	<l id="1175">Mon nom est Daricour. Agréez mon hommage.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1176">J'ai fait, sans le savoir, un joli personnage !</l>
+</sp>
+<sp who="MADAME BELVAL"><speaker>MADAME BELVAL.</speaker>
+	<l id="1177">Celui d'un amoureux ; et je me suis permis</l>
+	<l id="1178">D'employer mon talent à servir mes amis.</l>
+	<l id="1179">D'intérêt personnel ma conduite est exempte.</l>
+	<l id="1180">Je vous donne, major, une nièce charmante,</l>
+	<l id="1181">Qui de votre château fera bien les honneurs,</l>
+	<l id="1182">Embellira vos jours, les sèmera de fleurs.</l>
+	<l id="1183">Au défaut de l'amour, que l'amitié nous lie ;</l>
+	<l id="1184">Elle a des plaisirs vrais, sans trouble et sans folie ;</l>
+	<l id="1185">Voilà le sentiment qui convient entre nous ;</l>
+	<l id="1186">Plus pur, il en sera plus durable et plus doux.</l>
+</sp>
+<sp who="MONSIEUR DE GOUVIGNAC"><speaker>MONSIEUR DE GOUVIGNAC.</speaker>
+	<l id="1187">Le tour est un peu fort !... Le meilleur est d'en rire ;</l>
+	<l id="1188">Au beau titre d'ami puisqu'il faut me réduire,</l>
+	<l id="1189">J'y souscris ; mais croyez qu'avec empressement,</l>
+	<l id="1190">L'ami, quand vous voudrez, redeviendra l'amant.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

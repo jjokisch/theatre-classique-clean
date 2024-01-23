@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>DIALOGUE ENTRE LE MAIRE DE RODEZ ET UN MARGUILLIER </title>
+			<author type="texte" ISNI="0000 0000 8077 5084">Marie-Henri-François-Élisabeth de CARRION-NISAS (1767-1842) (1639-1699)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, mai 2023</editor>
+			<publisher>Publié par Paul FIEVRE, juin 2023.</publisher>
+			<idno>CARRION-NIZAS_MAIRERODEZMARGUILLIER</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Dialogue</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1811-1820</periode>
+			<taille>0-250</taille>
+			<permalien cote="BnF LLA YF-12553">https://gallica.bnf.fr/ark:/12148/bpt6k5565054z</permalien>
+			</SourceDesc>
+	</fileDesc>
+	</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">DIALOGUE ENTRE LE MAIRE DE RODEZ ET UN MARGUILLIER</titlePart>
+		</docTitle> 
+		<docDate value="1818">1818.</docDate>
+		<docAuthor id="CARRION-NISAS, Henri de">PAR M. CARRION-NISAS</docAuthor>
+		<docImprint>
+			<editor id="L'HEUILLIER, DELAUNAY">PARIS, L'HUILLIER, LIBRAIRE, RUE SERPENTE, n°16 ; DELAUNAY, LIBRAIRE, AU PALAIS-ROYAL.</editor>
+			<printer id="BAUDOUIN">IMPRIMERIE DE MADAME JEUNEHOMME-CREMIÈRE, rue HAUTEFEUILLE, n°20.</printer>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="LE MAIRE DE RODEZ" sex="1" type="H" statut="maire" age="A" stat_amour="néant">LE MAIRE DE RODEZ</role>.</castItem>
+			<castItem><role id="LE MARGUILLIER" sex="1" type="H" statut="marguillier" age="A" stat_amour="néant">LE MARGUILLIER</role>.</castItem>
+		</castList>
+		<set location="Rodez" country="France" periode="XIXème" gps="44.333333, 2.566667"/>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>DIALOGUE ENTRE LE MAIRE DE RODEZ ET UN MARGUILLIER</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="1">Monsieur, dans la cité prévenez un désastre.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+<note type="C">Tout a retenti de l'horrible affaire de Rodez : l'appréhension du maire est bien naturelle, il craint qu'on ne lui annonce quelque chose de semblable.</note>
+	<l id="2" syll="2" part="i">Encor !</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="2" syll="10" part="f">Un coup affreux, l'école à la Lancastre,</l>
+	<l id="3">Qu'un démon incarné, sous les traits d'un préfet,</l>
+	<l id="4">Veut établir, ici, comme ailleurs on l'a fait ;</l>
+<note type="C">Monsieur le comte de Cazes encourage de ses deniers cette institution dans la ville de Libourne ; le frère de ce ministre est préfet du département du Tarn.</note>
+	<l id="5">Le frère de celui qui les dote à Libourne,</l>
+	<l id="6">En va fonder au Tarn pour peu qu'il y séjourne.</l>
+	<l id="7">Partout le mal s'apprête à nous circonvenir,</l>
+	<l id="8">Ne perdons point de temps pour nous en garantir :</l>
+	<l id="9">Notre espoir est en vous, en vous, Monsieur_le_Maire,</l>
+	<l id="10">Élevé dans nos murs, et sous les yeux d'un père</l>
+	<l id="11">Qui toujours a suivi nos pieux étendards ;</l>
+<note type="C">On appelait Camisards les malheureux que les dragonnades avaient poussés à la révolte, parce qu'ils portaient une chemise par-dessus leurs habits, en manière d'uniforme et comme signe de ralliement. À cette désastreuse époque, on pendait, on rouait même les ministres protestants, pour avoir prêché l'Evangile. Il est inutile d'expliquer que tout ce que Ton met ici dans la bouche du marguillier, est de pure fiction, et qu'il n'y a aucune raison de supposer que l'aïeul du maire de Rodez ait été plus fanatique que ses contemporains.</note>
+	<l id="12">Votre aïeul s'illustra du temps des Camisards,</l>
+	<l id="13">Vous l'ignorez peut-être, on lit dans mon registre</l>
+	<l id="14">Que là dernière fois qu'on pendit un ministre,</l>
+	<l id="15">Tête nue et nu-pieds, il tenait un flambeau,</l>
+	<l id="16">Et même avait, dit-on, fait les frais du cordeau.</l>
+	<l id="17">Cet heureux temps n'est plus, tout a changé de face,</l>
+	<l id="18">Depuis que la raison, marchant avec audace,</l>
+	<l id="19">S'introduit dans l'école, en usurpe les bancs,</l>
+<note type="c">On sait qu'il y a dans le midi de ces mascarades prétendues religieuses de toutes les couleurs ; comme les pénitents blancs sont les plus nombreux, il est simple qu'il s'y trouve plus de gens de bon sens qu'ailleurs.</note>
+	<l id="20">Et même a pénétré chez les pénitents blancs. </l>
+	<l id="21">Les noirs et les gris-bruns seuls demeurés fidèles,</l>
+	<l id="22">D'ignorance et de foi sont encor des modèles ;</l>
+	<l id="23">Mais n'ai-je pas hier entendu l'entretien </l>
+	<l id="24">De quatre bons bourgeois, réputés gens de bien ;</l>
+ 	<l id="25">Ils traitaient de révolte et de piraterie</l>
+	<l id="26">Ces restes précieux de la chevalerie,</l>
+	<l id="27">Qui, sur les grands chemins, vont, par dévotion,</l>
+	<l id="28">Modérer cet excès de circulation,</l>
+	<l id="29">Dont l'essor s'étendant jusques aux antipodes,</l>
+	<l id="30">Emporte nos écus et rapporte des modes. </l>
+	<l id="31">Sans savoir leurs raisons pourquoi les diffamer ?</l>
+	<l id="32">Plusieurs motifs bien purs les peuvent animer,</l>
+	<l id="33">On n'en tient compte, on veut d'éclatantes vengeances,</l>
+<note type="C">Ils mettront ma vengeance au rang des parricides.
+(Racine, Britannicus ).</note>
+	<l id="34">On les nomme, tout haut, voleurs de diligences.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="35" syll="6" part="i">Fi ! Qu'on est impoli.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="35" syll="6" part="f">Du temps de nos aïeux,</l>
+	<l id="36">Chacun restait chez soi, tout en allait bien mieux,</l>
+	<l id="37">Deux mille Rouergas ont, dans la capitale,</l>
+	<l id="38">Perdu depuis vingt ans leur crasse baptismale :</l>
+	<l id="39">Aussi vous voyez bien que tout est subverti ;</l>
+	<l id="40">On fait au nom des lois la guerre au bon parti.</l>
+<note type="L">Pandecte : Recueil de décisions des anciens jurisconsultes que Justinien convertit en lois ; il est divisé en cinquante livres ; on le nomme aussi digeste. [L]</note>
+	<l id="41">Jadis, en opposant la coutume aux pandectes,</l>
+	<l id="42">On donnait un bon tour à des causes suspectes,</l>
+	<l id="43">Suivant qu'un praticien était plus_ou_moins fort.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="44">Vraiment c'est un malheur, et les lois ont grand tort</l>
+	<l id="45">D'avoir à la chicane ôté tant de refuges.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="46">Après tout, vos jurés, ce ne sont point des juges,</l>
+	<l id="47">Pour moi, je recevais toujours aveuglément</l>
+	<l id="48">Tout ce que prononçaient messieurs du parlement ;</l>
+	<l id="49">Mais respecter l'avis que sans façon déclare</l>
+<note type="L">Simarre : Espèce de soutane que certains magistrats portent sous leur robe. [L]</note>
+	<l id="50">Un quidam comme moi, sans mortier ni simarre !</l>
+<note type="C">Les pénitents portent un sac où il y a seulement deux trous ponr les yeux , ce qui leur donne un aspect aussi hideux que ridicule ; il faut ajouter, pour être juste, que ces compagnies sont généralement des associations de bienfaisance; elles pourraient s'épargner le costume.</note>
+	<l id="51">Non : un huissier en robe, un pénitent en sac </l>
+	<l id="52">M'en imposent bien plus que vos jurés en frac ;</l>
+	<l id="53">Il faut parler aux yeux, comme disaient nos pères.</l>
+	<l id="54">Du roi qui nous gouverne on vante les lumières,</l>
+	<l id="55">Mais de philosophie il est fort entiché,</l>
+	<l id="56">À sa maudite charte il est trop attaché,</l>
+	<l id="57">Et des derniers trente_ans consacrant les désordres,</l>
+	<l id="58">On dit qu'il ne veut pas nous rendre les trois ordres.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="59">Ces trois ordres, Monsieur, fort à propos cités,</l>
+	<l id="60">Aux besoins de leur temps pouvaient être adaptés,</l>
+	<l id="61">Le roi n'a pas jugé qu'ils convinssent au nôtre.</l>
+	<l id="62">Eh ! Pourquoi du passé se faire ainsi l'apôtre,</l>
+	<l id="63">C'est du présent qu'il faut assurer le repos,</l>
+	<l id="64">En aidant le monarque à guérir tous nos maux. </l>
+	<l id="65">Des ordres, donc, laissant la trinité gothique,</l>
+	<l id="66">Et, tant soit peu moins haut, prenant la politique,</l>
+	<l id="67">Daignez, sans passion, m'expliquer, s'il vous plaît,</l>
+	<l id="68">Pourquoi ce grand courroux contre votre préfet.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="69" syll="6" part="i">Cette école, Monsieur</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="69" syll="6" part="f">Eh bien ! Donc, cette école ?</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="70">Il la faut empêcher ; je porte la parole</l>
+	<l id="71">Au nom de gens d'honneur, dignes de tout respect,</l>
+	<l id="72">Et dont le sentiment ne peut être suspect ;</l>
+	<l id="73">De tous ces novateurs ils craignent les pratiques,</l>
+	<l id="74">Et cette invention est due aux hérétiques.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="75">Ces messieurs, aveuglés par leur prévention, </l> 	
+	<l id="76">Ne rendent pas justice à cette invention.</l>
+	<l id="77">Si l'argent, si le temps de la classe nombreuse</l>
+	<l id="78">Sont par elle épargnés, n'est-elle pas heureuse ?</l>
+<note type="L">Ignorantin : Les frères ignorantins, et, substantivement, les ignorantins, nom donné aux membres d'un ordre religieux fondé en 1495 par saint Jean-de-Dieu, Portugais, et introduit en France par Marie de Médicis. [L]</note>
+	<l id="79">Un frère_ignorantin nous apprit autrefois,</l>
+	<l id="80">À peine dans six ans ce qu'on sait en deux mois.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="81">Monsieur, voilà le mal : si le peuple s'éclaire,</l>
+	<l id="82">Il pourra.... Voulez-vous qu'il lise aussi Voltaire ?</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="83" syll="3" part="i">Pourquoi pas ?</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="83" syll="9" part="f">Pourquoi pas ! L'ai-je bien entendu ?</l>
+	<l id="84">Quand vous parlez ainsi, Monsieur, tout est perdu ;</l>
+	<l id="85">Vous voulez qu'un manant, à sou, denier et maille,</l>
+	<l id="86">Calculant ce qu'il doit aux aides, à la taille</l>
+	<l id="87">Puisse à son collecteur prouver par A-plus-B,</l>
+<note type="L">Regimber : Ruer ou lieu d'avancer, en parlant des bêtes de monture, quand on les touche de l'éperon, de la houssine, de l'aiguillon. Fig. Se montrer récalcitrant, résister. </note>
+	<l id="88">Qu'il était dans son droit quand il a regimbé,</l>
+	<l id="89">Qu'il lise dans la charte, et sache qu'il est libre !</l>
+	<l id="90">Cela brouille tout ordre et rompt tout équilibre :</l>
+	<l id="91">Vous voulez que Pierrot, le fils de mon meunier,</l>
+	<l id="92">Pour son bras amputé, devenu chevalier,</l>
+	<l id="93">Puisse à tous ses cousins charmés de sa prouesse,</l>
+	<l id="94">Faire voir que le Roi lui maintient sa noblesse !</l>
+	<l id="95">Sur les vrais chevaliers que de mauvais propos !</l>
+	<l id="96">Dans la société quel horrible chaos !</l>
+	<l id="97">Nul n'y pourra tenir ; aussi dans son angoisse</l>
+	<l id="98">J'entendais l'autre jour un seigneur de paroisse</l>
+	<l id="99">Dire : « Si ceci prend, on me verra dans peu</l>
+	<l id="100">À mon château moi-même aller mettre le feu. «</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="101" syll="6" part="i">Bon, il n'en fera rien.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+<note type="C">Chef de la parole, chef de la prière, etc., etc. ; expressions familières à un argot qui a fait fortune chez les marguilliers.</note>
+	<l id="101" syll="6" part="f">Un chef de la parole, </l>
+	<l id="102">Que nous verrons briller dans quelque métropole,</l>
+<note type="L">Concordat : Accord, traité fait entre le pape et un souverain concernant les affaires religieuses de l'État. [L]</note>
+	<l id="103">Orateur lauréat du dernier Concordat,</l>
+	<l id="104">Du Concordat en poche orateur candidat,</l>
+	<l id="105">Trouve cette méthode un fléau plus funeste</l>
+<note type="L">Conscription : Appel au service militaire, par voie du tirage au sort, des jeunes gens quand ils ont atteint un âge déterminé par la loi. [L]</note>
+	<l id="106">Que la conscription, la vaccine et la peste.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="107">Bien qu'il ait fait jadis pour la conscription</l>
+	<l id="108">Plus d'une pastorale et docte instruction.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="109">Qui ne sait qu'un prélat doit, dans sa prudhomie,</l>
+	<l id="110">Parler selon les temps et par économie ?</l>
+	<l id="111">Il va pulvériser dans un beau mandement</l>
+	<l id="112">Votre école nouvelle et son enseignement,</l>
+	<l id="113">Prouver à ses brebis, par plus d'un paragraphe,</l>
+	<l id="114">Que l'on sera damné pour savoir l'orthographe,</l>
+	<l id="115">Que les moindres calculs sont des cas réservés.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="116" syll="6" part="i">Êtes-vous sûr du fait ?</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="116" syll="6" part="f">Monsieur, vous le savez,</l>
+	<l id="117">L'Église dans un temps, en vertus plus fertile,</l>
+	<l id="118">Défendait aux Chrétiens de lire l'Évangile.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="119">Ainsi donc l'homme-Dieu l'apporta vainement,</l>
+	<l id="120">Et l'on n'a point pour tous écrit son testament.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="121">Par soi-même, Monsieur, on ne doit rien connaître,</l>
+	<l id="122">Il faut tenir sa foi de la bouche d'un prêtre ;</l>
+	<l id="123">En agir autrement c'est être huguenot,</l>
+	<l id="124">Et comme eux en enfer on ne fera qu'un saut.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="125">Laissez faire chacun à son péril et risque ;</l>
+<note type="L">Prendre à bisque : Terme de jeu de paume. Avantage de quinze points qu'un joueur fait à un autre. Fig. Prendre sa bisque, prendre son avantage. [L]</note>
+	<l id="126">Monsieur, au temps qui court, c'est mal prendre a bisque,</l>
+	<l id="127">Que d'exiger des gens qu'ils laissent amortir</l>
+	<l id="128">Les clartés que le ciel leur daigna départir.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="129">Ah ! Vous êtes imbu des maximes modernes,</l>
+<note type="C">On a vu, dans l'horrible procédure de Rodez, que le crime s'est commis dans la rue des Hebdomadiers (chanoines ou chantres de semaine) plusieurs journaux ont assuré que le ville de Rodez n'était point éclairée la nuit, etc, etc.</note>
+	<l id="130">Je le vois, vous allez allumer des lanternes,</l>
+	<l id="131">Déjà le bruit en court, un profane arrêté</l>
+	<l id="132">Va bannir de nos murs leur sainte obscurité.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="133">Il est prêt, et je vais le signer tout à l'heure.</l>
+	<l id="134">Avant moi, plût au ciel qu'on l'eût pris, et je pleure</l>
+	<l id="135">Sur l'emploi trop tardif de mon autorité.</l>
+	<l id="136">Ô honte! ô de Rodez triste célébrité!</l>
+	<l id="137">De police, peut-être, une simple mesure,</l>
+	<l id="138">Un fanal élevé dans une rue obscure,</l>
+	<l id="139">Prévenait un forfait ; quel forfait ! Les cheveux</l>
+	<l id="140">S'en dresseront d'horreur au fron[t] nos neveux.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="141">La révolution et ses métamorphoses</l>
+	<l id="142">Sont cause du fracas que font certaines choses.</l>
+	<l id="143">Qu'aux moeurs du bon vieux temps nos bourgeois attachés,</l>
+	<l id="144">À la nuit, sans chandelle, eussent été couchés ;</l>
+	<l id="145">Que tout eût été coi, chemins, places publiques,</l>
+	<l id="146">On eût manqué vingt_ans de détails authentiques.</l>
+	<l id="147">C'était, sans sacrements, un chrétien, trépassé ;</l>
+	<l id="148">Mais sans éclat du moins tout se serait passé : </l>
+ 	<l id="149">Le coupable est surtout celui qui scandalise,</l>
+	<l id="150">C'est des amis des moeurs l'éternelle devise.</l>
+	<l id="151">D'un docteur révéré j'ai retenu ce trait,</l>
+	<l id="152">Que ce n'est point pécher que pécher en secret ;</l>
+	<l id="153">Je me suis bien trouvé toujours de la maxime,</l>
+	<l id="154">Elle est en grand honneur chez tous ceux que j'estime ;</l>
+	<l id="155">Pourquoi vouloir, foulant aux pieds nos anciens us,</l>
+	<l id="156">Imiter de Paris les fastueux abus,</l>
+	<l id="157">De notre cathédrale éclairer l'avenue,</l>
+<note type="L">On a vu, dans l'horrible procédure de Rodez, que le crime s'est commi dans le rue des Hebdomadiers (chanoines ou chantres de semaine)plusieurs journaux ont assuré que la ville de Rodez n'était point éclairée la nuit, etc., etc.</note>
+	<l id="158">Et des Hebdomadiers illuminer la rue ?</l>
+	<l id="159">Savez-vous bien, Monsieur, où cela peut aller ?</l>
+	<l id="160">Aux prêtres du bas-choeur nature peut parler ;</l>
+	<l id="161">Dès avant Saint-Martin jusqu'après Saint-Antoine,</l>
+	<l id="162">Vers six heures du soir, du chantre ou du chanoine,</l>
+	<l id="163">Fanchon va provoquer un ébat clandestin ;</l>
+	<l id="164">Elle n'en sort qu'après six_heures_du_matin ;</l>
+<note type="L">Stalle : Dans une église, sièges de bois dont le fond se lève et se baisse, et qui sont autour du choeur. [L]</note>
+	<l id="165">Alors l'Hebdomadier va dormir dans son stalle ;</l>
+	<l id="166">Tout s'est fait, Dieu merci, dans l'ombre et sans scandale.</l>
+	<l id="167">Mais avec vos quinquets, plus de secret, Monsieur</l>
+	<l id="168">Et que vont devenir les prêtres du bas-choeur ?</l>
+	<l id="169">Et nous, que faire aussi devant vos luminaires ?</l>
+	<l id="170">Promener nos moitiés, comme ces militaires</l>
+	<l id="171">Qui vont femme et mari sans jamais se quitter !</l>
+<note type="L">Coquetter : faire la coquette(hapax).</note>
+	<l id="172">Il est vrai qu'on voit peu la femme coquetter,</l>
+	<l id="173">Que l'époux vit pour elle et n'a point de maîtresse.</l>
+	<l id="174">Mais jamais l'un ni l'autre ils ne vont à confesse ;</l>
+	<l id="175">Or, il faut, pour le bien de la religion,</l>
+	<l id="176">Pécher et recourir à l'absolution ;</l>
+	<l id="177">C'est là le grand commerce, et chacun doit mettre ;</l>
+	<l id="178">Enfin, voici deux points qu'il ne faut pas permettre</l>
+	<l id="179">Je l'annonce à regret, mais je m'en suis chargé</l>
+	<l id="180">Pour nos messieurs de l'oeuvre et notre bon clergé :</l>
+	<l id="181">Si vous souffrez l'école, avec les réverbères</l>
+	<l id="182">Vous n'aurez plus de part, Monsieur, dans nos prières.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="183">Je vous ai laissé dire et me suis [cornu],</l>
+	<l id="184">Cet excès d'impudeur ne m'était pas connu;</l>
+	<l id="185">Et j'ai voulu bien voir, de crainte de méprise,</l>
+	<l id="186">Jusqu'où, d'un marguillier, peut aller la sottise ;</l>
+	<l id="187">Que dis-je ? Êtes-vous né pour être un scélérat ?</l>
+	<l id="188">Votre langage, ici, devant un magistrat,</l>
+	<l id="189">Au temps que vous vantez, tenu sur les galères,</l>
+<note type="L">Chiourmes : Le nombre de forçats embarqués sur une galère, nécessaire pour la faire marcher. [L]</note>
+	<l id="190">Eût fait frémir d'effroi les chiourmes entières ;</l>
+	<l id="191">Vous avez épuisé la coupe du poison,</l>
+	<l id="192">Et l'esprit de parti trouble voire raison.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="193">L'esprit du bon parti ; ce sont nos grands vicaires,</l>
+	<l id="194" syll="1" part="i">Qui...</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+<note type="L">Sicaire : Assassin gagé. [L]</note>
+	<l id="194" syll="11" part="f">Vous en imposez, des brigands, des sicaires,</l>
+	<l id="195">Les voleurs dont on voit la troupe,au coin d'un bois,</l>
+	<l id="196">Des gens que vous prônez imiter les exploits,</l>
+	<l id="197">Peuvent seuls professer vos maximes sinistres ;</l>
+	<l id="198">Mais ils n'y mêlent point le ciel et ses ministres,</l>
+	<l id="199">Et vous mériteriez que, pour vous en punir,</l>
+	<l id="200">Publiant les discours que vous osez tenir.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="201">Oh ! Tant que vous voudrez, publiez, j'en fais gloire.</l>
+</sp>
+<sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
+	<l id="202">Non, les honnêtes gens ne voudraient pas y croire,</l>
+	<l id="203">Ou bien, s'ils m'en croyaient, enfin, sur mon honneur,</l>
+	<l id="204">À vos propres enfants vous seriez en horreur.</l>
+	<l id="205">De la loi des Chrétiens les préceptes sublimes</l>
+	<l id="206">Font des frères partout, nulle part des victimes ;</l>
+	<l id="207">Ceux qui les font servir aux fureurs des partis,</l>
+	<l id="208">Ou les ont méconnus, ou les ont pervertis.</l>
+	<l id="209">Revenez ; s'il se peut, à des pensers plus sages,</l>
+	<l id="210">Nos aïeux n'étaient point stupides, ni sauvages ;</l>
+	<l id="211">Imitons les vertus qu'on estimait en eux,</l>
+	<l id="212">Jetons sur leurs erreurs un voile officieux.</l>
+	<l id="213">Dans le coeur des mortels la divine clémence</l>
+	<l id="214">A mis l'horreur du crime et de la violence ;</l>
+	<l id="215">L'esprit des factions tenterait vainement</l>
+	<l id="216">D'arracher de leur sein ce premier sentiment ;</l>
+	<l id="217">Et de l'humanité la trace est plus profonde</l>
+	<l id="218">Que celle des fureurs qui désolent le monde.</l>
+	<l id="219">Je vois jusqu'à quel point l'homme peut s'égarer ;</l>
+	<l id="220">Mais dans le bon chemin toujours prêt à rentrer,</l>
+	<l id="221">Le tableau réfléchi de son délire extrême,</l>
+	<l id="222">Demain, va le forcer à rougir de lui-même ;</l>
+	<l id="223">Trop heureux quand du ciel l'invisible secours </l> 	
+	<l id="224">Empêcha, que l'effet ne suivît les discours.</l>
+	<l id="225">Il en est temps pour vous, nul trait digne de blâme.</l>
+	<l id="226">N'a produit au grand jour votre morale infâme ;</l>
+	<l id="227">Au sentier des vertus qu'on vous vit parcourir,</l>
+	<l id="228">Hâtez-vous de rentrer pour ne plus en sortir ;</l>
+	<l id="229">Les principes affreux qu'a vomi votre bouche, 1</l>
+<note type="L">Mandrin : Nom d'un célèbre contrebandier, sous le règne de Louis XV (mort sur la roue à Valence en 1755), qui sert quelquefois pour désigner un voleur, un homme capable de grands crimes. [L]</note>
+<note type="L">Cartouche : Voleur célèbre qui vivait au commencement du XVIIIe siècle, dont le nom est devenu une appellation commune. Cet homme est un Cartouche. [L]</note>
+	<l id="230">Vous conduiraient au sort des Mandrin, des Cartouche ;</l>
+	<l id="231">Mais je suis charitable et vous le prouverai.</l>
+</sp>
+<sp who="LE MARGUILLIER"><speaker>LE MARGUILLIER.</speaker>
+	<l id="232">Vous êtes l'antéchrist et je le prêcherai.</l>
+
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

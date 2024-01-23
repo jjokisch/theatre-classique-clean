@@ -1,0 +1,1047 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>UN CRÂNE SOUS UNE TEMPÊTE, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0000 8124 818X">Abraham DREYFUS (1847-1926)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE, janvier 2023.</editor>
+			<publisher>Publié par Paul FIEVRE, février 2023.</publisher>
+			<idno>DREYFUS_CRANESOUSLATEMPETE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs</inspiration>
+			<type>prose</type>
+			<structure>Un acte</structure>
+			<periode>1871-1880</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF LLA 8-YF-268">https://gallica.bnf.fr/ark:/12148/bpt6k295091</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">UN CRÂNE SOUS UNE TEMPÊTE</titlePart>
+			<titlePart type="sub">SAYNÈTE</titlePart>
+			<titlePart type="sub">Représentée pour la première fois, à Paris, dans une matinée donnée au théâtre de la GAÎTÉ, le 9 mars 1879.</titlePart>
+			<titlePart type="sub">DEUXIÈME ÉDITION</titlePart>
+		</docTitle>Â
+		<docDate value="1887">1887. Droits de reproduction et de traduction réservés.</docDate>
+		<docAuthor id="DREYFUS, Abraham">PAR ABRAHAM DREYFUS</docAuthor>
+		<docImprint>
+			<editor id="RUAULT">PARIS, CALMANN LÉVY, éditeur, ANCIENNE MAISON MICHEL LÉVY FRÈRES, ÉDITEUR, 3rue Auber, 3.</editor>
+			<printer>BOURLOTON.- Imprimerie réunies, 2, rue Mignon, 2.</printer>
+		</docImprint>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="MADAME" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME</role>, Mademoiselle Hortense DAMAIN,.</castItem> 
+		<castItem><role id="MONSIEUR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR</role>, Monsieur COQUELIN CADET.</castItem> 
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+	<note>Extrait de "Jouons le Comédie" par Abraham Dreyfus, Deuxième édition. Paris : Calmann Lévy, 1887. pp. 15-39.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>UN CRÂNE SOUS UNE TEMPÊTE</head>
+<stage type="decor">Petit salon. - Cheminée au fond. - Porte à droite et à gauche.
+- Deux fauteuils devant la cheminée. - Canapé au premier plan à gauche. - Guéridon à droite, avec verre d'eau complet. – Pendule sur la cheminée.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<stage type="sit/location/stop/watch">Elle est assise près de la cheminée et tient dans les mains un ouvrage auquel elle travaille avec une agitation fébrile. Après un instant de silence, elle lève les yeux sur la pendule.</stage>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="alone">, seule.
+</stage>
+<p id="1">
+	<s id="1">Onze heures !</s>
+</p>	
+<stage type="sight">Soupirant longuement.</stage>
+<p id="2">
+	<s id="1">Onze heures !!!</s>
+</p>
+<stage type="noise">Bruit de pas an dehors.</stage>
+<p id="3">
+	<s id="1">Ah !... </s>
+	<s id="2">Enfin !</s>
+</p>
+<stage type="work">Elle se remet à travailler.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Madame, Monsieur.
+</stage>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="entrance/happy/closer">, entre vivement, d'un air joyeux, les bras tendus vers sa femme.
+</stage>
+<p id="1">
+	<s id="1">. . .</s>
+</p>
+<stage type="narration">Madame ne bouge pas ; elle n'a pas levé les yeux ; elle travaille toujours. Monsieur s'arrête interdit ; il regarde sa femme avec inquiétude. Mais non ! Elle parait calme ; si elle ne se tourne pas vers lui, c'est qu'elle ne t'a pas entendu entrer. Monsieur sourit, et, se glissant doucement derrière elle, il va pour t'embrasser sur la nuque, lorsque Madame se redresse de toute sa hauteur.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, toisant Monsieur avec mépris.
+</stage>
+<p id="2">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="estonish">, stupéfait.
+</stage>
+<p id="3">
+	<s id="1">. . .</s>
+</p>
+<stage type="closer">Il fait un pas vers elle.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="away">, reculant.
+</stage>
+<p id="4">
+	<s id="1">Laissez-moi, Monsieur !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR </speaker><stage>veut parler.
+</stage>
+<p id="5">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="6">
+	<s id="1">Laissez-moi !</s>
+</p>
+<stage type="location">Elle se dirige vers la porte de sa chambre.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="watch">, la suivant des yeux.
+</stage>
+<p id="7">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="stand/location/serious">, debout sur le pas de sa porte. – Solennellement.
+</stage>
+<p id="8">
+	<s id="">A partir d'aujourd'hui,il n'y a plus rien de commun entre vous et moi 1</s>
+</p>
+<stage type="exit/location/hurry">Elle entre dans sa chambre ; Monsieur s'élance derrière elle ; la porte lui retombe sur le nez.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="1">
+	<s id="1">. . .</s>
+</p>
+<stage type="narration">Il est consterné... Que s'est-il donc passé ?... Sa femme est-elle vraiment fâchée ou a-t-elle voulu plaisanter ? Elle rit peut-être en ce moment. Pour s'en assurer, Monsieur applique son oreille contre la porte de la chambre. Il n'entend rien. Décidément, c'est très sérieux ; c'est une tempête qui se prépare. Eh bien, va pour la tempête Monsieur en a vu bien d'autres ! Le mieux est de laisser passer celle-ci. Monsieur s'approche de la cheminée, en se frottant les mains énergiquement, puis il prend un journal, se jette sur le canapé et commence à lire.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Monsieur, Madame.
+</stage>
+<stage type="entrance/location">Madame sort de sa chambre et vient se camper devant Monsieur.</stage>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="abrupt">, brusquement.
+</stage>
+<p id="1">
+	<s id="1">Alors vous croyez que cette vie va durer ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="surprise">, surpris.
+</stage>
+<p id="2">
+	<s id="1">...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="2">
+	<s id="1">Vous croyez qu'après avoir passé toute ma soirée à vous attendre, je serai trop heureuse de rentrer toute seule dans une chambre sans feu, tandis que vous serez là tranquillement à vous chauffer les pieds en lisant votre journal ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="">, va pour se lever.
+</stage>
+<p id="3">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="4">
+	<s id="1">Oh ! </s>
+	<s id="2">Restez, je vous en prie Je serais désolée de vous déranger. </s>
+	<s id="3">Je comprends qu'après cinq heures passées hors de chez vous, vous éprouviez le besoin de prendre un peu de repos.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR </speaker><stage>veut parler.
+</stage>
+<p id="5">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="6">
+	<s id="1">Je regrette seulement que vous m'ayez obligée à vous attendre. </s>
+	<s id="2">Si j'avais pu prévoir que vous rentreriez après minuit.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, regardant ta pendule.
+</stage>
+<p id="7">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, vivement.
+</stage>
+<p id="8">
+	<s id="1">Je vous demande pardon ! </s>
+	<s id="2">Cette pendule retarde d'au moins une heure... </s>
+	<s id="3">Il est maintenant minuit et demi.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="watch">, regardant sa montre.
+</stage>
+<p id="9">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="10">
+	<s id="1">Mais cela vous est absolument égal. </s>
+	<s id="2">Est-ce que vous vous souciez de l'heure ? </s>
+	<s id="3">Vous rentreriez aussi bien à deux_heures qu'à trois_heures, qu'à six_heures du matin.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="try">, veut protester.
+</stage>
+<p id="11">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="12">
+	<s id="1">Une orgie de plus ou de moins, qu'est-ce que cela pour vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="try">, même jeu.
+</stage>
+<note type="C">L'auteur renonce à noter toutes les nuances de ce rôle mimé ; c'est à l'interprète de se pénétrer de son personnage et d'exprimer par le regard et par le geste ce qu'on n'a pu indiquer que par des points. Il faut seulement qu'il se garde d'outrer la pantomime, afin que le public ne le prenne pas pour un muet, mais bien pour un homme à qui l'on coupe continuellement la parole.</note>
+<p id="13">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="14">
+	<s id="1">Je vous connais, allez! Je sais ce que vous pouvez faire, une fois que vous êtes lancé dans la voie des débordements !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="smile">, souriant.
+</stage>
+<p id="15">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="16">
+	<s id="1">Oh  ! </s>
+	<s id="2">Vous pouvez sourire !... </s>
+	<s id="3">La raillerie va bien aux débauchés de votre espèce. </s>
+	<s id="4">C'est une grâce de plus.... </s>
+	<s id="5">Sceptique et dépravé !... </s>
+	<s id="6">Voilà la suprême élégance !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="17">
+	<s id="1">?. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="18">
+	<s id="1">Et, sans doute, vous avez triomphé comme toujours ?... </s>
+	<s id="2">Combien de coeur savez-vous enchaînés à votre char ?</s>
+</p>	
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, hébété.
+</stage>
+<p id="19">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="20">
+	<s id="1">Il y avait beaucoup de femmes à ce dîner d'hommes ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="offended">, révolté.
+</stage>
+<p id="21">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="22">
+	<s id="1">Oh ! </s>
+	<s id="2">Je sais ce que vous allez me dire ! </s>
+	<s id="3">Un banquet d'économistes, n'est-ce pas ? </s>
+	<s id="4">Tous savants et tous mariés. </s>
+	<s id="5">Rien que des gens vertueux, présidés par un octogénaire. </s>
+	<s id="6">Ils auraient bien voulu amener leurs femmes ; mais les statuts s'y opposent ! </s>
+	<s id="6">C'est dommage ces dames se seraient trouvées en bonne compagnie ; elles auraient ri avec vous, bu avec vous, chanté avec vous... </s>
+	<s id="7">Il a dû être bien gai, ce dîner d'économistes !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="23">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="24">
+	<s id="1">Ça n'a pas été gai ? </s>
+	<s id="2">Tant pis !... </s>
+	<s id="3">Vous ne détestez pas la gaieté... </s>
+	<s id="4">Vous êtes folichon, à l'occasion.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="shy">, modestement.
+</stage>
+<p id="25">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="26">
+	<s id="1">Du moins, à ce qu'on m'assure, - car, pour ma part, je ne me suis jamais aperçue.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="27">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="28">
+	<s id="1">Vous gardez vos amabilités pour d'autres !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="smile/closer">, souriant, s'approche de Madame.
+</stage>
+<p id="29">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="away">, s'éloignant.
+</stage>
+<p id="30">
+	<s id="1">Non, Monsieur ! </s>
+	<s id="2">Non ! </s>
+	<s id="3">Retournez auprès de vos maîtresses ! </s>
+	<s id="4">Je ne me pique pas de lutter avec elles... </s>
+	<s id="5">Je ne suis que votre femme, moi !... </s>
+	<s id="6">Et je n'ai pas le bonheur d'être assez maigre pour vous plaire.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="31">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="32">
+	<s id="1">Il faut être maigre un nuage, une vapeur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="33">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="34">
+	<s id="1">Oh ! </s>
+	<s id="2">Je suis fixée sur vos goûts maintenant ! </s>
+	<s id="3">On les devine facilement. </s>
+	<s id="4">Il suffit d'avoir vu Madame_Tourimel pour comprendre que vous n'aimez que les paquets de chiffons.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="35">
+	<s id="">? . . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="36">
+	<s id="1">Et cette créature ose venir chez moi ! </s>
+	<s id="2">Quelle infamie !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, doucement.
+</stage>
+<p id="37">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="38">
+	<s id="1">Oui ! </s>
+	<s id="2">Indignez-vous !... </s>
+	<s id="3">C'est révoltant, c'est épouvantable... </s>
+	<s id="4">Comment peut-on risquer une accusation pareille ? </s>
+	<s id="5">Monsieur Tourimel n'est-il pas votre meilleur ami ? </s>
+	<s id="6">Vous ne vous êtes pas quittés depuis le collège, vous appartenez à la même administration, vous avez été son témoin lorsqu'il s'est marié, vous continuez de travailler à son bonheur... </s>
+	<s id="7">Quoi de plus naturel ?</s>
+</p>	
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="39">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="40">
+	<s id="1">Seulement, je ne dois pas vous cacher, mon cher, qu'on s'étonne de vous voir déjeuner aussi souvent chez des gens qui ne sont que vos amis...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="41">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="42">
+	<s id="1">Oh ! </s>
+	<s id="2">Sans doute !... </s>
+	<s id="3">Le prétexte est excellent : Monsieur_Tourimel demeure à deux pas du ministère, vous n'avez pas le temps de venir déjeuner ici, vous allez chez Tourimel. </s>
+	<s id="4">Rien de plus simple. </s>
+	<s id="5">Il ne tiendrait qu'à moi d'en faire autant...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="43">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="44">
+	<s id="1">Mais vous savez fort bien que je ne suis pas de ces femmes qui se lèvent dès le matin pour courir à l'autre bout de Paris. </s>
+	<s id="2">Je reste dans mon ménage, – moi !</s>
+</p>	
+<stage type="narration"> Jusqu'ici Madame n'a pas cessé de parler. Elle a débité ses phrases sans une seule pause. C'est seulement sur ce dernier trait. « Je reste dans mon ménage, quoi ! » Qu'elle s'arrête pour respirer. Monsieur en conclut que c'est à son tour de prendre la parole et il s'y prépare.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="45">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, repartant.
+</stage>
+<p id="46">
+	<s id="1">S'il plaît à Monsieur_Tourimel de tenir table ouverte, il en est libre ; chacun gouverne sa maison comme il l'entend...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, Jecoumgé.
+</stage>
+<p id="47">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="48">
+	<s id="1">Comment subvient-il à un pareil luxe ? </s>
+	<s id="2">C'est une affaire entre sa conscience et lui. </s>
+	<s id="3">Je ne tiens pas à savoir qui paie les toilettes éblouissantes de sa femme.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="49">
+	<s id="">? . . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="50">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon cher, je répète ce qu'on dit partout : Madame_Tourimel est bien élégante pour la fille d'un ancien tambour !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="51">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="52">
+	<s id="1">Oui, d'un tambour ! </s>
+	<s id="2">Vous ne me soutiendrez pas le contraire ; je l'ai vu, cet homme-là ! </s>
+	<s id="3">C'est lui qui apportait à mon père ses billets de garde national ; je les ai encore, ces billets je vous les montrerai quand vous voudrez.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="53">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="54">
+	<s id="1">Vous n'y tenez pas ?... </s>
+	<s id="2">Je comprends cela ! </s>
+	<s id="3">Ce serait profaner votre idéal !... </s>
+	<s id="4">Il ne faut pas amoindrir l'auréole de la femme aimée.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="estonish">, abasourdi.
+</stage>
+<p id="55">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="56">
+	<s id="1">Ah ! </s>
+	<s id="2">Pardon ! </s>
+	<s id="3">Je ne vous savais pas si susceptible. </s>
+	<s id="4">À l'avenir, je me garderai bien de toucher à Madame_Tourimel. </s>
+	<s id="5">Tout ce qu'elle fera sera parfait ; elle me volera le coeur de mon mari, elle enlèvera un père à ses enfants, elle apportera la ruine et le désespoir dans cette maison jadis heureuse, je ne me plaindrai pas, je ne dirai rien, je trouverai tout cela très naturel, très juste et très honnête....</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="57">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="58">
+	<s id="1">Est-ce suffisant ? </s>
+	<s id="2">Vous contenterez-vous de cette marque d'abnégation ? </s>
+	<s id="3">Faudra-t-il encore que j'aille me jeter aux pieds de Madame_Tourimel pour la supplier de débaucher mon mari ?...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="59">
+	<s id="1">. . .</s>
+</p>
+<stage type="wave/turn">Cette fois, Monsieur pourrait parler, mais i! y renonce il se contente de hausser les épaules et de tourner le dos à sa femme.</stage> 
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="60">
+	<s id="1">C'est cela ! </s>
+	<s id="2">Emportez-vous !... </s>
+	<s id="3">C'est ce qu'on a de mieux à faire quand on ne peut pas répondre.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="turn">, se retournant.
+</stage>
+<p id="61">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="62">
+	<s id="1">Qu'avez-vous à dire pour votre défense ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="63">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="64">
+	<s id="1">Rien ! </s>
+	<s id="2">Vous n'avez rien à dire. </s>
+	<s id="3">Vous ne trouvez pas une parole, pas un mot, rien ! </s>
+	<s id="4">Rien !! </s>
+	<s id="5">Rien !!!</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="closer">, s'approchant d'elle.
+</stage>
+<p id="65">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="66">
+	<s id="1">Eh bien, allez !... </s>
+	<s id="2">Battez-moi !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="estonish">, stupéfait.
+</stage>
+<p id="67">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="68">
+	<s id="1">Mais battez-moi donc !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="69">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="70">
+	<s id="1">Qu'est-ce qui vous en empêche ? </s>
+	<s id="2">Vous êtes le plus fort... </s>
+	<s id="3">Vous êtes le maître... </s>
+	<s id="4">Oh ! </s>
+	<s id="5">N'ayez pas peur: je ne me défendrai pas !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="71">
+	<s id="1">. . .</s>
+</p>
+<stage type="away">Là encore, Monsieur pourrait parler, mais que dirait il ? Le mieux est de s'en aller. C'est ce qu'il va faire il se dirige vers la porte.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="72">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous renoncez à me battre ?... </s>
+	<s id="3">Vous craignez peut-être que je n'appelle à mon secours ?...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="back">, revenant sur ses pas.
+</stage>
+<p id="73">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="74">
+	<s id="1">Vous avez tort. </s>
+	<s id="2">J'ai la pudeur du foyer domestique, moi ! </s>
+	<s id="3">Je ne suis pas de ces femmes qui font bon marché du scandale et pour qui toute honte est profit.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="sto/watch">, va pour répondre, mais il se contient et regarde sa femme silencieusement.
+</stage>
+<p id="75">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, répétant.
+</stage>
+<p id="76">
+	<s id="1">Profit !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="watch">, levé les yeux au plafond.
+</stage>
+<p id="77">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="furious">, furieuse.
+</stage>
+<p id="78">
+	<s id="1">Ne le savez-vous pas ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="silence/get/sit/location">, toujours silencieux, va prendre son journal et s'assied devant la cheminée.
+</stage>
+<p id="79">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="80">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous persistez à ne pas répondre ?... </s>
+	<s id="3">Vous lisez votre journal ?... </s>
+	<s id="4">C'est un moyen commode pour se tirer d'affaire...</s>
+</p>
+<stage type="closer">Elle s'approche de lui.</stage>
+<p id="81">
+	<s id="1">Il y a des hommes qui auraient à coeur de se justifier ; qui, voyant leur femme souffrante, malheureuse, tourmentée - à tort, peut-être, mais bien cruellement ! - voudraient la rassurer par un mot affectueux, par un regard compatissant... </s>
+	<s id="2">Est-ce donc si difficile d'avoir un peu de pitié pour ceux qui vous aiment ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="touched/drop">, ému, laisse tomber son journal.
+</stage>
+<p id="82">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="83">
+	<s id="1">Car, enfin, qu'est-ce que je te demande, moi ? </s>
+	<s id="2">De me dire tout simplement où tu es allé en sortant de ce banquet, - si vraiment il a eu lieu.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, vivement.
+</stage>
+<p id="84">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="85">
+	<s id="1">Oui... </s>
+	<s id="2">C'est bien... </s>
+	<s id="3">J'admets qu'il ait eu lieu. </s>
+	<s id="4">Tu avoueras qu'il n'est pas naturel de rentrer chez soi à minuit passé...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave">, va pour parler.
+</stage>
+<p id="86">
+	<s id="">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="87">
+	<s id="1">Mettons minuit... quand le banquet finit à neuf_heures et demie, au plus tard.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave">, même jeu.
+</stage>
+<p id="88">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="90">
+	<s id="1">C'est toi-même qui me l'as dit.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave">, même jeu.
+</stage>
+<p id="91">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="92">
+	<s id="1">Alors je m'étonne...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="93">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="94">
+	<s id="1">Je m'inquiète...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="95">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="96">
+	<s id="1">Je t'interroge.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="97">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="cry">, fondant on larmes.
+</stage>
+<p id="98">
+	<s id="1">Et tu ne veux pas me répondre !!</s>
+</p>
+<stage type="fall/sit/furniture">Elle se laisse tomber sur le canapé.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="watch">, considérant Madame avec pitié.
+</stage>
+<p id="99">
+	<s id="1">. . . </s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="cry">, sanglotant.
+</stage>
+<p id="100">
+	<s id="1">Ah ! </s>
+	<s id="2">Ma mère ! </s>
+	<s id="3">Ma mère ! </s>
+	<s id="4">Qui eût dit qu'un jour ta fille en serait réduite à dévorer ses larmes !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="sorry">, navré.
+</stage>
+<p id="101">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="102">
+	<s id="1">Et ce n'est rien, cela ! </s>
+	<s id="2">Ce n'est que le commencement de mon malheur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="closer">, s'approchant d'elle.
+</stage>
+<p id="103">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, le repoussant.
+</stage>
+<p id="104">
+	<s id="1">Laissez-moi ! </s>
+	<s id="2">Je n'ai pas besoin de vos consolations hypocrites... </s>
+	<s id="3">Vous avez voulu me voir pleurer !... </s>
+	<s id="4">Je pleure !... </s>
+	<s id="5">Que vous faut-il de plus ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="105">
+	<s id="1">! . . .</s>
+</p>
+<stage type="away/walk">Cette fois, c'en est trop. Monsieur est à bout de patience. Il s'éloigne et marche à grands pas dans ]e salon.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="106">
+	<s id="1">Oh ! </s>
+	<s id="2">Je suis bien ridicule, je le sais ! </s>
+	<s id="3">Est-ce que je devrais pleurer ? </s>
+	<s id="4">Est-ce que je ne devrais pas m'habituer à la position qui m'est faite ? </s>
+	<s id="5">Combien de femmes sont ainsi délaissées par leurs maris et n'en vivent pas moins très tranquillement ! </s>
+	<s id="6">On ne peut pas rompre tous les mariages ! </s>
+	<s id="7">Le nôtre s'est accompli sous de trop heureux auspices ; tout le monde s'en réjouissait, - à l'exception de ma pauvre vieille tante Rosalie, qui voyait clair, elle !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="location/turn">, se trouve près de la cheminée, le dos au public sur ce dernier mot, il se retourne.
+</stage>
+<p id="107">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="108">
+	<s id="1">Oui, Monsieur, elle voyait clair, - malgré ses quatre-vingt_cinq ans. </s>
+	<s id="2">Elle me disait « Ma fille, défie-toi !... </s>
+	<s id="3">Tu épouses un homme mûr... »</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="offended">, froissé.
+</stage>
+<p id="109">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="110">
+	<s id="1">Vous paraissiez mûr ! </s>
+	<s id="2">« Un homme qui a beaucoup fait parler de lui, au temps de sa première jeunesse, et qui apportera dans son ménage les habitudes de dissipation et d'inconduite. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="111">
+	<s id="1">...</s>
+</p>
+<stage type="impatient/break/location">Depuis quelques instants, Monsieur a donné des signes d'impatience de plus en plus vifs ; sur le mot « inconduite », il brise un couteau de bois qu'il a pris sur la cheminée.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="112">
+	<s id="1">Vous voyez bien : vous cassez tout !... </s>
+	<s id="2">Voilà votre façon de répondre !...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, éclatant.
+</stage>
+<p id="113">
+	<s id="1">. . .</s>
+</p>
+<stage type="quiet">Mais non ! Monsieur ne veut pas se laisser emporter par la colère. Pour se calmer, il s'approche du guéridon et se verse un grand verre d'eau.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="114">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous avez soif ?... </s>
+	<s id="3">Ça ne m'étonne pas ! </s>
+	<s id="4">Le dîner de ce soir a dû vous altérer !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="drink/eat">, va pour boire son verre d'eau pure, mais il se ravise et prend du sucre.
+</stage>
+<p id="115">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="116">
+	<s id="1">À la bonne heure ! </s>
+	<s id="2">Un peu de sucre... et de la fleur d'oranger. </s>
+	<s id="3">C'est bon, cela c'est reconstituant !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="drink">, savoure son verre d'eau dans le plus grand calme.
+</stage>
+<p id="117">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="furious">, furieuse.
+</stage>
+<p id="118">
+	<s id="1">Je vous prierai seulement, quand vous voudrez boire un verre d'eau sucrée, de ne pas venir le préparer dans ma chambre !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="sweap">, ayant bu, s'essuie les lèvres tranquillement.
+</stage>
+<p id="119">
+	<s id="1">. . .</s>
+</p>
+<stage type="silence">Nouveau silence.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="nervous">, exaspérée.
+</stage>
+<p id="120">
+	<s id="1">L'autre jour, vous avez laissé tomber plusieurs gouttes de sirop sur le velours de mon prie-Dieu...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, avec ml air de regret, poli, mais froid.
+</stage>
+<p id="121">
+	<s id="1">. . .</s>
+</p>
+<stage type="get/drop">Il va replacer le verre d'eau sur le guéridon.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="furious">, hors d'elle.
+</stage>
+<p id="122">
+	<s id="1">Et j'y tiens plus que jamais, à mon prie-Dieu ! </s>
+	<s id="2">Que deviendrais-je, s'il ne me restait pas la prière ? </s>
+	<s id="3">Grâce au ciel, je n'ai pas appris à dédaigner les secours de la foi, et vous ne me forcerez pas encore à les mépriser.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="123">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="124">
+	<s id="1">Oh ! </s>
+	<s id="2">Je connais vos théories ! </s>
+	<s id="3">Ce sont elles qui vous ont conduit à oublier successivement tous vos devoirs, à nier la famille comme vous niez la religion, comme vous niez la morale.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="silence/desparate">, résigne à tout, garde le silence.
+</stage>
+<p id="125">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="quick">, vivement.
+</stage>
+<p id="126">
+	<s id="1">Qu'est-ce que vous dites ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="quiet">, impassible.
+</stage>
+<p id="127">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="128">
+	<s id="1">Oui, souriez, monsieur le libre penseur ! </s>
+	<s id="2">Vous ne parviendrez pas à me faire oublier les leçons que m'a données ma mère !... </s>
+	<s id="3">Et ma mère était une femme très intelligente, entendez-vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave/desdain">, haussant les épaules.
+</stage>
+<p id="129">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="130">
+	<s id="1">Vous en doutez ?... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Il ne vous manquait plus que d'insulter ma mère !...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave">, levant les bras au ciel.
+</stage>
+<p id="131">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="wave">, sanglotant.
+</stage>
+<p id="132">
+	<s id="1">Et quel jour choisissez-vous pour cela ? </s>
+	<s id="2">Un jour qu'on célébrait dans ma famille et qui me rappelle les plus douces joies de mon enfance le jour de ma fête !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="133">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="134">
+	<s id="1">Oui, c'est aujourd'hui la sainte Félicie ! </s>
+	<s id="2">Mais vous n'y pensez même pas...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="135">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="136">
+	<s id="1">Avouez que vous n'y avez pas pensé, que vous n'y pensez jamais !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="wave">, veut parler.
+</stage>
+<p id="137">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="138">
+	<s id="1">Ah ! </s>
+	<s id="2">Tenez ! </s>
+	<s id="3">Taisez-vous !... </s>
+	<s id="4">- Vous mentiriez encore !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR </speaker><stage type="watch/turn/smile">regarde l'auditoire, comme pour le prendre à témoin puis il se tourne vers sa femme en souriant.
+</stage>
+<p id="139">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="140">
+	<s id="1">Eh bien, quoi ?... </s>
+	<s id="2">Qu'est-ce que vous avez ?... </s>
+	<s id="3">Parlez !</s>
+</p>
+</sp>
+<sp stage="get" who="MONSIEUR"><speaker>MONSIEUR tire de sa poche un écrin qu'il ouvre et qu'il présente à sa femme.</speaker>
+<p id="141">
+	<s id="1">. . .</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="142">
+	<s id="1">Un bracelet !... </s>
+	<s id="2">Pour moi ? </s>
+</p>
+<stage type="watch/read">L'examinant et lisant l'inscription gravée. </stage>
+<p id="143">
+	<s id="1">« Félicie ! »</s>
+	<s id="2">- C'est pour cela que tu étais en retard ?... </s>
+</p>
+<stage type="touched">Avec effusion. </stage>
+<p id="144">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon Charles ! </s>
+	<s id="3">Que tu es gentil... et que je t'aime !...</s>
+</p>
+<stage type="hugh">Elle se jette à son cou.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

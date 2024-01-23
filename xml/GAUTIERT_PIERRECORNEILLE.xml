@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>PIERRE CORNEILLE, COMÉDIE.</title>
+			   <author type="texte" ISNI="0000 0001 2144 4602">Théophile GAUTIER (1811-1872)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<editor>Publié par Paul FIEVRE, août 2022.</editor>
+				<publisher>Publié par Paul FIEVRE, septembre 2012.</publisher>
+				<idno>GAUTIERT_PIERRECORNEILLE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Prologue</genre>
+				<inspiration>histoire littéraire</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1851-1860</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-YF-52">https://gallica.bnf.fr/ark:/12148/bpt6k5661556h</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PIERRE CORNEILLE</titlePart>
+			<titlePart type="sub">PROLOGUE</titlePart>
+			<titlePart type="sub">POUR L'ANNIVERSAIRE DE SA NAISSANCE LE 6 JUIN 1851.</titlePart>
+		</docTitle> 
+		<docDate value="1637">1882. Tous droits réservés..</docDate>
+		<docAuthor id="GAUTIER, Théophile">Théophile GAUTIER</docAuthor>
+		<docImprint>
+			<editor id="CHARPENTIER">PARIS, G. CHARPENTIER, ÉDITEUR, 13 rue de Grenelle-Saint-Germain, 13.</editor>
+		</docImprint>
+		<performance>
+			<premiere date="1851-06-06" location="">Représenté pour la première fois à la Comédie Française le 6 juin 1851.</premiere>
+		</performance>
+	<castList><head>PERSONNAGES</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="narrateur" age="A" stat_amour="">LE NARRATEUR</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+	<note type="">Extrait de "Théâtre, Mystère, Comédies et Ballets, Nouvelle édition revue, corrigée et augmentée d'une grand nombre de documents inédits" , Paris, G. Charpentier, Éditeur, 1882. pp 215-217</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>PIERRE CORNEILLE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker/>
+	<l id="1">Par une rue étroite, au coeur du vieux Paris,</l>
+	<l id="2">Au milieu des passants, du tumulte et des cris,</l>
+	<l id="3">La tête dans le ciel et le pied dans la fange,</l>
+	<l id="4">Cheminait à pas lents une figure étrange :</l>
+	<l id="5">C'était un grand vieillard, sévèrement drapé,</l>
+	<l id="6">Noble et sainte misère, en son manteau râpé.</l>
+	<l id="7">Son oeil d'aigle, son front argenté vers les tempes,</l>
+	<l id="8">Rappelaient les fiertés des plus mâles estampes,</l>
+	<l id="9">Et l'on eût dit à voir ce masque souverain,</l>
+	<l id="10">Une tête romaine à frapper en airain.</l>
+	<l id="11">Chaque pli de sa joue austèrement creusée</l>
+	<l id="12">Semblait continuer un sillon de pensée,</l>
+	<l id="13">Et dans son regard noir, qu'éteint un sombre ennui,</l>
+	<l id="14">On sentait que l'éclair autrefois avait lui.</l>
+	<l id="15">Le vieillard s'arrêta dans une pauvre échoppe.</l>
+	<l id="16">Le Roi-soleil alors illuminait l'Europe,</l>
+	<l id="17">Et les peuples baissaient leurs regards éblouis,</l>
+	<l id="18">Devant cet Apollon qui s'appelait Louis.</l>
+	<l id="19">À le chanter Boileau passait ses doctes veilles ;</l>
+	<l id="20">Pour le loger, Mansard entassait ses merveilles;</l>
+	<l id="21">Au coin d'un carrefour, auprès d'un savetier,</l>
+	<l id="22">Pied nu, le grand Corneille attendait son soulier</l>
+	<l id="23">Sur la poussière d'or de sa terre bénie</l>
+	<l id="24">Homère sans chaussure, aux chemins d'Ionie</l>
+	<l id="25">Pouvait marcher jadis avec l'antiquité,</l>
+	<l id="26">Beau comme un marbre grec par Phidias sculpté ;</l>
+	<l id="27">Mais Homère à Paris, sans crainte du scandale,</l>
+	<l id="28">Un jour de pluie, eût fait recoudre sa sandale.</l>
+	<l id="29">Ainsi faisait l'auteur d'Horace et de Cinna,</l>
+	<l id="30">Celui que de ses mains la Muse couronna,</l>
+	<l id="31">Le fier dessinateur, Michel-Ange du drame,</l>
+	<l id="32">Qui peignit les Romains si grands, — d'après son âme !</l>
+	<l id="33">Ô pauvreté sublime ! Ô sacré dénuement,</l>
+	<l id="34">Par ce coeur héroïque accepté simplement !</l>
+	<l id="35">Louis, ce vil détail que le bon goût dédaigne,</l>
+	<l id="36">Ce soulier recousu me gâte tout ton règne.</l>
+	<l id="37">À ton siècle vanté de lui-même amoureux,</l>
+	<l id="38">Je ne pardonne pas Corneille malheureux ;</l>
+	<l id="39">Ton dais fleurdelisé cache mal cette échoppe.</l>
+	<l id="40">De la pourpre, où ton faste à grands plis s'enveloppe.</l>
+	<l id="41">Je voudrais prendre un pan pour Corneille vieilli,</l>
+	<l id="42">S'éteignant loin des cours dans l'ombre et dans l'oubli.</l>
+	<l id="43">Sur le rayonnement de toute ton histoire,</l>
+	<l id="44">Sur l'or de tes soleils, c'est une tache noire,</l>
+	<l id="45">Ô roi ! D'avoir laissé, toi qu'ils ont peint si beau,</l>
+	<l id="46">Corneille sans souliers, Molière sans tombeau.</l>
+	<l id="47">Mais pourquoi s'indigner ? - Que viennent les années,</l>
+	<l id="48">L'équilibre se fait entre ces destinées :</l>
+	<l id="49">Le roi rentre dans l'ombre, et le poète en sort,</l>
+	<l id="50">Et chacun à sa place est remis par la mort.</l>
+	<l id="51">Pour courtisans Versailles a gardé ses statues,</l>
+	<l id="52">Les adulations et les eaux se sont tues :</l>
+	<l id="53">Versailles est la Palmyre où dort la royauté.</l>
+	<l id="54">Qui des deux survivra, génie ou majesté ?</l>
+	<l id="55">L'aube monte pour l'un, le soir descend sur l'autre.</l>
+	<l id="56">Le spectre de Louis aux jardins de Le_Nôtre</l>
+	<l id="57">Erre seul, et Corneille, éternel comme un dieu,</l>
+	<l id="58">Toujours sur son autel voit reluire le feu</l>
+	<l id="59">Que font briller plus vif à ses fêtes_natales</l>
+	<l id="60">Les générations, immortelles vestales !</l>
+	<l id="61">Quand en poudre est tombé le diadème d'or,</l>
+	<l id="62">Son vivace laurier pousse et verdit encor ;</l>
+	<l id="63">Dans la postérité, perspective inconnue,</l>
+	<l id="64">Le poète grandit et le roi diminue !</l>
+<stage type="date">1851.</stage>
+<note type="C">Au moment où le travail de cette édition était entièrement achevé, nous avons retrouvé des documents curieux relatifs au Prologue qu'on vient de lire; nous les avons placés on appendice (Voir page 413).</note>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

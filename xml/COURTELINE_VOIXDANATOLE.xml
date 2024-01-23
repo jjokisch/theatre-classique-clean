@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LA VOIX D'ANATOLE, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, octobre 2022</publisher>
+			<idno>COURTELINE_VOIXDANATOLE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF PHS 8-Z LE SENNE-3573">https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA VOIX D'ANATOLE</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES..</head>
+			<castItem><role id="ANATOLE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">ANATOLE</role>.</castItem>
+			<castItem><role id="BELLE-MAMAN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">BELLE-MAMAN</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 83-86</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LA VOIX D'ANATOLE</head>
+<div2 type="scene" n="1"><head/>
+<stage type="narration">À la veille de marier sa fille avec le bel Anatole (chaussure de luxe ; fournisseur habituel de S. M. le roi Béhauzin ; médaille de bronze à l'exposition universelle de 1889), belle maman a eu l'idée de tomber à l'improviste chez l'homme aux mains duquel elle va, en tremblant, confier la fleur fruit de ses entrailles. Justement, Anatole, enfermé dans son bureau, est en conversation vive et animée avec un X. mystérieux. Belle-maman, femme pleine d'astuce, pense qu'elle ne saurait trouver une meilleure occasion de pénétrer dans l'intimité de son futur gendre et elle colle discrètement son oreille à la porte.</stage>
+<sp who="ANATOLE"><speaker>LA VOIX D'ANATOLE</speaker><stage type="location">, à travers la porte.
+</stage>
+<p id="1">
+	<s id="1">Inutile de démentir... </s>
+	<s id="2">Ce n'est pas ça !...</s>
+</p>
+<stage type="stop">Un temps.</stage>
+</sp>
+<sp who="ANATOLE"><speaker>LA VOIX D'ANATOLE.</speaker>
+<p id="2">
+	<s id="1">Mauvais ; non !... </s>
+	<s id="2">Mais ça pourrait être bien meilleur.</s>
+</p>
+</sp>
+<sp who="BELLE-MAMAN"><speaker>BELLE-MAMAN.</speaker>
+<p id="3">
+	<s id="1">D'où vient que je n'entend qu'une voix ?... </s>
+</p>
+<stage type="doubt">Frappée d'un soupçon.</stage>
+<p id="4">
+	<s id="1">Est-ce qu'il serait avec une femme !...</s>
+</p>
+</sp>
+<sp who="ANATOLE"><speaker>LA VOIX D'ANATOLE.</speaker>
+<p id="5">
+	<s id="1">J'entends ne confier ma peau qu'à des mains qui la manieront avec une  grande délicatesse. </s>
+	<s id="2">Ce n'est pas de la peau de cochon !...</s>
+</p>
+<stage type="stop">Un temps.</stage>
+<p id="6">
+	<s id="1">C'est beaucoup trop mou, beaucoup trop. </s>
+	<s id="2">On ne peut rien faire avec ça...</s>
+</p>
+<stage type="stop">Un temps.</stage>
+</sp>
+<sp who="BELLE-MAMAN"><speaker>BELLE-MAMAN</speaker><stage type="sad">, dont le front se charge de nuages.
+</stage>
+<p id="7">
+	<s id="1">Ah ça mais !... </s>
+	<s id="2">Ah ça mais !... </s>
+	<s id="3">Ah ça mais !...</s>
+</p>
+</sp>
+<sp who="ANATOLE"><speaker>LA VOIX D'ANATOLE.</speaker>
+<p id="8">
+	<s id="1">Saisissez bien !... </s>
+	<s id="2">- Il faut l'amener à la dureté du bois !... </s>
+	<s id="3">Bon.</s>
+</p>
+<stage type="stop">Très long temps.</stage>
+<p id="9">
+	<s id="1">Ah !...</s>
+</p>
+<stage type="stop">Autre temps.</stage>
+<p id="10">
+	<s id="1">Ah !...</s>
+</p>
+<stage type="stop">Nouveau temps.</stage>
+<p id="11">
+	<s id="1">Pas si vite, donc !... </s>
+	<s id="2">Pas si vite !... </s>
+	<s id="3">Là. </s>
+	<s id="4">C'est ça.</s>
+</p>
+<stage type="stop">Un temps.</stage>
+<p id="12">
+	<s id="1">Ah !... </s>
+	<s id="2">Ah !... </s>
+	<s id="3">Ah !...</s>
+</p>
+<stage type="stop">silence interminable.</stage>
+<p id="13">
+	<s id="1">... Il faut me les passer au suif !... </s>
+	<s id="2">Il faut me les passer au suif !...</s>
+</p>
+</sp>
+<sp who="BELLE-MAMAN"><speaker>BELLE-MAMAN</speaker><stage type="estonish">, suffoquée. 
+</stage> 
+<p id="14">
+	<s id="1">Au suif !... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">J'en ai vu des raides, mais celle-là dépasse tout !... </s>
+	<s id="4">Quel cochon !... </s>
+	<s id="5">Et voilà l'homme à qui j'allais donner la main de ma fille !!!</s>
+</p>
+<note type="L">Basane : Peau de mouton qui, étant bien préparée, sert, au lieu de peau de veau, à relier des livres. [L]</note>
+<stage type="open/explicit">Elle pousse violemment la porte et tombe sur le bel Anatole, qui, penché sur le téléphone, engueule, avec tous les égards dus à cet homme de mauvaise foi, un corroyeur qui lui a vendu des basanes de qualités inférieures.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

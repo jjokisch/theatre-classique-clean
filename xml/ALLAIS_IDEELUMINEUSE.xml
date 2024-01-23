@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>UNE IDÉE LUMINEUSE, MONOLOGUE.</title>
+				<author type="texte" ISNI="000 0001 2142 939X">Alphonse ALLAIS (1854-1905)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, décembre 2021</editor>
+				<publisher>Publié par Paul FIEVRE, septembre 2022.</publisher>
+				<idno>ALLAIS_IDEELUMINEUSE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration><type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YTH-23077 ">https://gallica.bnf.fr/ark:/12148/bpt6k134109q</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">UNE IDÉE LUMINEUSE</titlePart>
+			<titlePart type="sub">MONOLOGUE DIT PAR COQUELIN CADET de la Comédie-Française</titlePart>
+			<titlePart type="sub">Prix : 1 franc.</titlePart>
+		</docTitle> 
+		<docDate value="1889">1888. Tous droits réservés.</docDate>
+		<docAuthor id="ALLAIS, Alphonse">ALPHONSE ALLAIS</docAuthor>
+		<docImprint>
+			<editor id="OLLENDORF">PARIS, PAUL OLLENDORF ÉDITEUR, 28 bis, rue de Richelieu, 28 bis.</editor>			
+		</docImprint>
+	<castList><head>PERSONNAGE</head>
+	<castItem><role id="UN HOMME" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN HOMME</role>.</castItem> 
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>UNE IDÉE LUMINEUSE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="UN HOMME"><speaker/>
+<p id="1">
+	<s id="1">Ce matin, j'ai reçu la visite d'un très drôle d'homme.... un inventeur !</s>
+</p>
+<p id="2">
+	<s id="1">Aimez-vous les inventeurs ? </s>
+	<s id="2">Moi j'en raffole, alors même qu'ils n'inventent rien, ce qui est le cas de presque tous les inventeurs.</s>
+</p>
+<p id="3">
+	<s id="1">J'aime leur idée fixe, le feu qui brille en leurs prunelles, leur mise débraillée.</s>
+</p>
+<p id="4">
+	<s id="1">Comme idée fixe et comme feu de prunelles, mon bonhomme était bien dans la tradition, mais c'est surtout en matière de mise négligée qu'il dépassait tout ce que j'avais vu jusqu'alors.</s>
+</p>
+<p id="5">
+	<s id="1">Notamment un bouton de la redingote entré comme par hasard dans une boutonnière de gilet, et réciproquement.</s>
+</p>
+<p id="5">
+	<s id="1">C'était plutôt pittoresque.</s>
+</p>
+<p id="6">
+	<s id="1">. . . . . . . . . . . .</s>
+</p>
+<p id="7">
+	<s id="1">Je me rasais devant ma glace (je me rase moi-même maintenant).</s>
+</p>
+<p id="8">
+	<s id="1">L'homme entra chez moi tel l'ouragan.</s>
+</p>
+<p id="9">
+	<s id="1">- Bonjour, fit-il, comment va ?</s>
+</p>
+<p id="10">
+	<s id="1">Pas plus mal qu'hier, répondis-je et vous-même ?</s>
+</p>
+<p id="11">
+	<s id="1">Vous me reconnaissez ?</s>
+</p>
+<p id="12">
+	<s id="1">Moi ? </s>
+	<s id="2">Pas du tout.</s>
+</p>
+<p id="13">
+	<s id="1">Ah, je vais vous dire, c'est que je porte toute ma barbe maintenant... et puis d'ailleurs, vous ne m'avez jamais vu.</s>
+</p>
+<p id="14">
+	<s id="1">Sans faire observer au bonhomme qu'à la rigueur cette dernière raison suffisait, je m'informai du motif de sa visite.</s>
+</p>
+<p id="15">
+	<s id="1">Je suis inventeur, Monsieur, répondit-il fièrement.</s>
+</p>
+<p id="16">
+	<s id="1">- Hé parbleu, je l'avais bien deviné.</s>
+</p>
+<p id="17">
+	<s id="1">- Je viens à vous parce que je sais que vous êtes un garçon intelligent, instruit et ne regardant pas à l'argent quand il s'agit d'une bonne idée.</s>
+</p>
+<p id="18">
+	<s id="1">Je m'inclinais.</s>
+</p>
+<p id="19">
+	<s id="1">En effet, je suis un garçon intelligent, instruit et lorsqu'une idée me paraît pratique, ingénieuse ou simplement bizarre, je n'hésite pas à sacrifier un million ou deux pour en accomplir la réalisation.</s>
+</p>
+<p id="20">
+	<s id="1">Brusquement, l'homme reprit : </s>
+</p>
+<p id="21">
+	<s id="1">- Qu'est-ce que vous aimez mieux... pourrir ou brûler ?</s>
+</p>
+<p id="22">
+	<s id="1">- Pardon, fais-je un peu interloqué... pourrir ?...</s>
+</p>
+<p id="23">
+	<s id="1">- Ou brûler... </s>
+	<s id="2">Allez répondez.</s>
+</p>
+<p id="24">
+	<s id="1">- Mon_Dieu, Monsieur, l'idée de pourrir n'a rien qui me séduire beaucoup ; quant à brûler, vous avouerai-je que je ne me sens pas irrésistiblement entraîné, pour le moment ?</s>
+</p>
+<p id="25">
+	<s id="1">- Pour le moment, oui, mais quand vous serez mort ?</s>
+</p>
+<p id="26">
+	<s id="1">Oh, quand je serai mort ...?</s>
+</p>
+<p id="27">
+	<s id="1">Et j'esquissai un geste de parfait détachement.</s>
+</p>
+<p id="28">
+	<s id="1">Mon inventeur continua, dans un style quelque peu trivial : </s>
+</p>
+<p id="29">
+	<s id="1">- Oui... pourrir dans la terre, c'est rudement dégoûtant, mais être brûlé, ça n'est pas beaucoup plus chouette.</s>
+</p>
+<p id="30">
+	<s id="1">Pourtant...</s>
+</p>
+<p id="31">
+	<s id="1">- Il n'y a pas de pourtant. </s>
+	<s id="2">Moi, j'ai inventé un procédé qui dégote la crémation et l'inhumation. </s>
+	<s id="3">Je remplace tout cela par... l'inaération ! </s>
+	<s id="4">Hein, l'inaération.</s>
+</p>
+<p id="32">
+	<s id="1">- C'est bête bête, ça.</s>
+</p>
+<p id="33">
+	<s id="1">Ne vous fichez donc pas de moi avant de savoir.</s>
+</p>
+<p id="34">
+	<s id="1">- Je vous assure, Monsieur...</s>
+</p>
+<p id="35">
+	<s id="1">Laissons cela... </s>
+	<s id="2">Vous êtes mort, n'est-ce pas ?</s>
+</p>
+<p id="36">
+	<s id="1">Une minute !</s>
+</p>
+<p id="37">
+	<s id="1">C'est une supposition... </s>
+	<s id="2">Vous êtes mort, on m'apporte votre corps, je le mets dans mon four...</s>
+</p>
+<p id="38">
+	<s id="1">Mais c'est de la crémation, cela.</s>
+</p>
+<p id="39">
+	<s id="1">Imbécile !... </s>
+	<s id="2">Je le mets dans mon four, un four particulier de mon invention, et je le dessèche. </s>
+	<s id="3">Je le DESSÈCHE. </s>
+	<s id="4">Je ne luis pas, je ne rôtis pas, je ne le brûle pas. </s>
+	<s id="5">JE LE DESSÈCHE. </s>
+	<s id="6">C'est à dire que je débarrasse par évaporation de toute l'eau qu'il contient... </s>
+	<s id="7">Savez-vous à peu près la proportion de l'eau dans le corps humain ?</s>
+</p>
+<p id="40">
+	<s id="1">Je vous avoue que...</s>
+</p>
+<p id="41">
+	<s id="1">Eh bien environ quatre-vingt_pour_cent, les quatre_cinquièmes.</s>
+</p>
+<p id="42">
+	<s id="1">Tant que ça ?</s>
+</p>
+<p id="43">
+	<s id="1">Oui, Monsieur, tant que ça ! </s>
+	<s id="2">Ainsi le Général_Boulanger dont vous faites votre Dieu...</s>
+</p>
+<p id="44">
+	<s id="1">Mais je vous ai jamais dit...</s>
+</p>
+<note type="L">Francisque Sarcey (1827-1899) Journaliste et critique dramatique </note>
+<p id="45">
+	<s id="1">- Ne m'interrompez pas... Le Général_Boulanger dont vous faites un Dieu pèse quatre-vingt_deux_kilogrammes ; il représente environ soixante-cinq_kilogrammes d'eau. </s>
+	<s id="2">Donc, pour quatre-vingt_deux cris de Vive_Boulanger poussés, vous devez en compter soixante_cinq qui s'adressent à de l'eau pure. </s>
+	<s id="3">Voilà bien les grandeurs humaines, les voilà bien ! </s>
+	<s id="4">Et Francisque_Sarcey donc ! </s>
+	<s id="5">Connaissez-vous Sarcey ?</s>
+</p>
+<p id="46">
+	<s id="1">- Je le connais sans le connaître. </s>
+	<s id="2">Quelquefois, la matin, en passant rue_de_Douai, je l'aperçois qui secoue sa descente de lit pas le fenêtre, mais cela ne s'appelle pas connaître un homme.</s>
+</p>
+<p id="45">
+	<s id="1">- Eh bien, c'est effrayant ce que Monsieur_Sarcey contient d'eau. </s>
+	<s id="2">Je ne peux vous préciser un chiffre, vous m'appelleriez blagueur. </s>
+	<s id="3">Par contre, il y a des natures qui offrent relativement peu de déchet. </s>
+	<s id="4">Sarah_Bernhart, par exemple, voilà un tempérament... </s>
+	<s id="5">Comment dirai-je ?...</s>
+</p>
+<p id="46">
+	<s id="1">- Dramatique ? </s>
+</p>
+<p id="47">
+	<s id="1">- Non, anhydre.</s>
+</p>
+<p id="48">
+	<s id="1">- Matérialiste !</s>
+</p>
+<p id="49">
+	<s id="1">- Êtes-vous marié ?</s>
+</p>
+<p id="50">
+	<s id="1">- Pas pour le moment.</s>
+</p>
+<p id="51">
+	<s id="1">- Avez-vous une maîtresse ?</s>
+</p>
+<p id="52">
+	<s id="1">- Une maîtresse c'est beaucoup dire, mais enfin, j'ai une petite bonne amie.</s>
+</p>
+<p id="53">
+	<s id="1">- Quel poids ?</s>
+</p>
+<p id="54">
+	<s id="1">- Ma foi, je ne l'ai pas pesée, mais je puis vous dire à peu près... </s>
+	<s id="2">Voyons... </s>
+	<s id="3">Elle n'est pas bien grosse, elle doit peser dans les cinquante_kilos.</s>
+</p>
+<p id="55">
+	<s id="1">Eh bien, laissez-moi vous dire que l'objet de votre idolâtrie comporte environ quarante_litres d'eau.</s>
+</p>
+<p id="56">
+	<s id="1">Taisez-vous, vous me dégoûtez !</s>
+</p>
+<p id="57">
+	<s id="1">Quarante_litres d'eau ! </s>
+	<s id="2">Vous m'entendez... quatre-vingt chopines !</s>
+</p>
+<p id="58">
+	<s id="1">Et l'inventeur prononçait ce mot...</s>
+</p>
+<p id="59">
+	<s id="1">Quatre-vingt chopines sur un ton d'indicible mépris. </s>
+	<s id="2">Je ne lui ai pourtant jamais rien fait à ce bonhomme là.</s>
+</p>
+<p id="60">
+	<s id="1">Il reprit à_brûle-pourpoint :</s>
+</p>
+<p id="61">
+	<s id="1">- Mais vous êtes là à me faire perdre mon temps avec vos histoires de bonne amie... </s>
+	<s id="2">Je reviens à mon invention : quand votre corps est entièrement desséché, je le trempe dans un liquide de ma composition à base d'acide_azotique qui le transforme en matière explosive analogue au fulmi-coton. </s>
+	<s id="3">On n'a plus qu'à allumer... </s>
+	<s id="4">Pfff...  Pfff... ttt... </s>
+	<s id="5">Une lueur brusque,.... </s>
+	<s id="6">Une grande fumée blanche qui monte au ciel, et tout est dit ! </s>
+	<s id="7">Comment trouvez-vous mon idée ?</s>
+</p>
+<p id="62">
+	<s id="1">Lumineuse.</s>
+</p>
+<p id="63">
+	<s id="1">Mais ce n'est pas tout. </s>
+	<s id="2">Au lieu de transformer votre corps en simple explosif, je puis en faire un feu d'artifice complet, pétards, chandelles romains, grenades, soleils, etc., etc. </s>
+	<s id="3">Pour les familles pauvres, je me charge de transformer, au prix de trente_francs, le cher défunt en chandelles romaines de toutes couleurs. </s>
+	<s id="4">Pour dix-mille_francs, j'établis un  feu d'artifice de première classe avec bouquet allégorique.</s>
+</p>
+<p id="63">
+	<s id="1">- Superbe !</s>
+</p>
+<p id="64">
+	<s id="1">- Mieux encore... </s>
+	<s id="2">Les anciens militaires pourront léguer leur dépouille mortelle ainsi transformée, au comité d'artillerie. </s>
+	<s id="3">On en chargera les canons et les obus. </s>
+	<s id="4">Quelle joie, d'aller, dix ans après sa mort, mitrailler les ennemis de la France !... </s>
+	<s id="5">Ça ne vous tente pas ?</s>
+</p>
+<p id="65">
+	<s id="1">- Si, l'affaire est très séduisante, mais pour mon corps personne, je préfère attendre.</s>
+</p>
+<p id="66">
+	<s id="1">L'inventeur pris son chapeau, et s'en alla, furieux.</s>
+</p>
+<p id="67">
+	<s id="1">Qu'est ce que vous voulez, moi, je ne suis pas pressé.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

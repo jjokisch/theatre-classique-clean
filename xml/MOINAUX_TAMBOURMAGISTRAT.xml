@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LE TAMBOUR MAGISTRAT, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 0654 8120">Jules MOINAUX (1815-1895)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>MOINAUX_TAMBOURMAGISTRAT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1881-1890</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k5718390w</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE TAMBOUR MAGISTRAT.</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés.</docDate>
+		<docAuthor id="MOINAUX, Jules">par JULES MOINEAUX, rédacteur de la Gazette des Tribunaux.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, CHEVALIER-MARESCQ ÉDITEUR, 20 rue SOUFFLOT, 20.</editor>
+			<printer id="NOBLET">8517. - Paris. Imprimerie de Ch. Noblet, 13 rue Cujas. - 1881</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="narrateur" age="A" stat_amour="néant">LE NARRATEUR</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président du tribunal" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			<castItem><role id="BOURGIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">BOURGIN</role>.</castItem>
+			<castItem><role id="BEAUVEAU" sex="2" type="H" statut="tambour communal" age="A" stat_amour="néant">BEAUVEAU</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de MOINAUX, Jules, "Les tribunaux comiques", Paris, Chevalier-Marescq éditeur, 1881. pp 219-222</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE TAMBOUR MAGISTRAT.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker>LE NARRATEUR.</speaker>
+<p id="1">
+	<s id="1">Ce n'est rien que de le dire, il fallait, voir l'étonnement et l'écarquillement exorbitant des yeux de Bourgin, en apprenant qu'il est prévenu d'outrages et de coups à un magistrat_de_l_ordre_administratif, le sieur_Beauveau.</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<p id="2">
+	<s id="1">Je vous en ai prévenu, Monsieur_Bourgin, que je vous mènerais loin de m'avoir outragé ; d'homme à homme dans la vie privée, bon, je suis de force à répondre, mais comme magistrat_de_l_ordre_administratif dans mes fonctions, je m'adresse à la justice.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="3">
+	<s id="1">Vous n'avez pas à interpeller le prévenu. </s>
+	<s id="2">C'est vous qui êtes le maire ?</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<p id="4">
+	<s id="1">Non, m_sieu, je suis le tambour_communal.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="5">
+	<s id="1">Alors, qu'est-ce que vous dites donc, que vous, êtes magistrat_de_l_ordre_administratif ? </s>
+	<s id="2">Cette qualité s'applique au maire, qui a été outragé par le prévenu, et non à vous.</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<p id="6">
+	<s id="1">Ah ! </s>
+	<s id="2">J'ai cru que...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="7">
+	<s id="1">Que s'est-il passé ?</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU</speaker><stage type="proud">, avec importance.
+</stage>
+<p id="8">
+	<s id="1">J'ai l'honneur d'être tambour de la commune et maçon de mon état ; je venais de faire une publication à son de caisse, quand j'entendis subito un verbe insolent, qui sort d'un marchand_de_vin, ainsi conçu : Ton maire est un pochard, et toi aussi. </s>
+	<s id="2">J'entre dans le cabaret et je m'écrie : « Qui qui a dit ça ? » </s>
+	<s id="3">Le sieur_Bourgin, qui était dans une intempérance de vin, me répond : « C'est moi, tambourinier.» </s>
+	<s id="4">Je lui dis : « Sieur_Bourgin, si je n'étais pas revêtu de mon insigne... »</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="9">
+	<s id="1">Quels insignes ? </s>
+	<s id="2">Vous n'avez pas d'insignes !</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<note type="L">Buffeterie : Lieu où on remise ses boissons, de Buffeter Boire à même un tonneau, en parlant des voituriers.</note>
+<p id="10">
+	<s id="1">Ma caisse et ma buffeterie ; je croyais que c'était des insignes ; enfin je lui dis donc ça et j'ajoute : « Je vous ficherais une paire de gifles.»</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="11">
+	<s id="1">Eh bien, vous avez eu tort de lui dire cela : vous deviez prendre les personnes présentes à témoin du mot outrageant adressé à Monsieur_le_maire, mais non menacer Bourgin ; arrivez aux coups !</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<note type="L">Sarcasse : à peu près pour sarcasme.</note>
+<p id="12">
+	<s id="1">Voilà : il me réplique par des mots subséquents, auxquels je riposte par des sarcasses très mordants. Alors, voyant ça, il s'en prend à ma caisse, en me saisissant mes baguettes pour taper dessus, disant : « Je vas te crever ta peau_d_âne ; » et sur ce, je lui réplique : « Qui insulte ma caisse m'insulte personnellement, » et sur ce, je lui pose deux gifles, je l'avoue ; alors il me saute au collet et m'allonge des coups de poing que le nez me coulait comme une borne...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="13">
+	<s id="1">Eh bien, vous avez...</s>
+</p>
+</sp>
+<sp who="BAUVEAU"><speaker>BAUVEAU.</speaker>
+<p id="14">
+	<s id="">... fontaine.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="15">
+	<s id="1">Vous avez eu tort de le frapper.</s>
+</p> 
+<stage type="toward">À Bourgin. </stage>
+<p id="16">
+	<s id="1">Qu'avez-vous à dire ?</s>
+</p>
+</sp>
+<sp who="BOURGIN"><speaker>BOURGIN.</speaker>
+<note type="L">Querelle d'Allemand : querelle faite sans sujet. [L]</note>
+<p id="17">
+	<s id="1">Monsieur_le_président, je n'ai pas dit surtout que Monsieur_le_maire était un pochard. </s>
+	<s id="2">Monsieur_Beauveau cherche toutes les occasions de se donner de l'importance et de faire de l'embarras ; il est entré dans le cabaret pour me chercher une querelle d'Allemand.</s>
+</p>
+<stage type="explicit">Cette affaire a eu la solution qu'on a déjà prévue, l'acquittement de Bourgin. Quant à Beauveau, il a perdu, avec son procès, une grande partie de son prestige, et il aura beau les tambouriner, il ne les retrouvera pas.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

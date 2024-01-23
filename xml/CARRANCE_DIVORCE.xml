@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE DIVORCE, MONOLOGUE</title>
+				<author type="texte" ISNI="0000 0001 2134 883X">Évariste CARRANCE (1840-1916)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, juillet 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, août 2023</publisher>
+				<idno>CARRANCE_DIVORCE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>Moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote=" Collection numérique : Fonds régional : Aquitaine">https://gallica.bnf.fr/ark:/12148/bpt6k39249n</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE DIVORCE</titlePart>
+			<titlePart type="sub">Prix : 50 centimes</titlePart>
+			<titlePart type="sub">HUITIÈME ÉDITION</titlePart>
+		</docTitle> 
+		<docDate value="1884">1884</docDate>
+		<docAuthor id="CARRANCE, Évariste">ÉVARISTE CARRANCE</docAuthor>
+		<docImprint>
+			<editor id="MASSON">AGEN, LIBRAIRIE DU COMITÉ POÉTIQUE ET DE LA REVUE FRANÇAISE, 6, rue du saumon, 8</editor>
+			<printer id="LENTHERIC">AGEN, V. LENTHERIC, Imprimeur du Comité Poétique</printer>
+		</docImprint>		
+	<div type="lettre"><head>Lettre de M. Alfred Naquet, Sénateur de Vaucluse</head>
+		<adresse>À M. ÉVARISTE CARRANCE</adresse>
+		<p>Paris, juin</p>
+		<p>Monsieur</p>
+		<p>Vous me demandez quelques lignes pour les publier en tête de la brochure que vous allez faire paraître sur le divorce.</p>
+		<p>Que puis-je vous dire ? Que je vous remercie au nom de la vérité, dont il faut assurer le complet triomphe, dès que vous faites pour achever de déraciner ce qui reste de l'absurde préjugé sur lequel et vécu le régime de 1816.</p>
+		<p>Croyez, Monsieur, à mes meilleurs sentiments.</p>
+		<signature>A. NAQUET.</signature>
+	</div>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE MARI ASSASSIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LE MARI ASSASSIN</role></castItem>
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps=""/>
+	<note>Texte extrait de "Le divorce, la prostituée : monologues en vers,  précédés d'une lettre de M. Alfred Naquet".- Agen : Librairie du comité poétique et de la revue française. pp 3-5.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE DIVORCE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE MARI ASSASSIN"><speaker/>
+<poem type="strophe">
+<lg n="1">
+	<l id="1">Messieurs les grands faiseurs de lois, ce n'est qu'à vous</l>
+	<l id="2">Que j'adresse ce cri de mon être en courroux.</l>
+	<l id="3">Voici bientôt vingt ans que, broyé de misère,</l>
+	<l id="4">Je marche en ignorant où je vais sur la terre, </l>
+	<l id="5">Courbé par la souffrance et l'implacable sort, </l>
+	<l id="6">En demandant l'oubli qui jaillit de la mort !</l>
+</lg>
+<lg n="2">
+	<l id="7">Ô vous les grands faiseurs de lois, vous pouvez croire </l>
+	<l id="8">Tout ce que je dirai dans ma sinistre histoire, </l>
+	<l id="9">Et vous pouvez penser que notre humanité</l>
+	<l id="10">Souffre les mêmes maux, sous sa folle gaîté.</l>
+</lg>
+<lg n="3">
+	<l id="11">Messieurs les vrais soutiens d'une saine morale, </l>
+	<l id="12">Depuis vingt ans, je vois la larve_sociale. </l>
+	<l id="13">Je suis une victime et je suis un bourreau</l>
+	<l id="14">Que ThéMis sur mon front promène son flambeau ? </l>
+	<l id="15">Voyez comme je suis ridé, sombre et livide ;</l>
+	<l id="16">Mon coeur est maintenant comme une lande aride </l>
+	<l id="17" syll="6" part="i">Le remords seul y croît !</l>
+</lg>
+<lg n="4">
+	<l id="17" syll="6" part="f">Messieurs, dans le passé,</l>
+ 	<l id="18">J'étais aussi brillant que je parais lassé. </l>
+	<l id="19">J'avais auprès de moi, pour marcher dans la vie, </l>
+	<l id="20">Une femme, éclairant ma jeunesse ravie, </l>
+	<l id="21">Une de ces beautés dominant la raison,</l>
+	<l id="22">Et qui font resplendir la plus pauvre maison.</l>
+	<l id="23">J'étais heureux ! Je crus, dans ma suave ivresse, </l>
+	<l id="24">Que rien ne ternirait ma sublime tendresse </l>
+	<l id="25">Je tenais le plaisir et ne comprenais pas </l>
+	<l id="26">Que la sombre douleur me suivait pas à pas. </l>
+	<l id="27">Quelquefois, dans un ciel tout d'azur, un orage </l>
+	<l id="28">Retentit brusquement se déchaîne avec rage, </l>
+	<l id="29">Et le ciel radieux se fait lugubre et noir !</l>
+</lg>
+<lg n="5">
+	<l id="30">Messieurs, en un instant je perdis tout espoir,</l>
+	<l id="31">Et mon bonheur partit ainsi que la fumée.</l>
+	<l id="32">Celle que j'adorais, la femme bien-aimée</l>
+	<l id="33">À qui j'avais donne mon âme et mon amour.</l>
+	<l id="34">Celle qui m'apportait l'extase chaque jour,</l>
+	<l id="35">Cette chaste beauté qui portait l'auréole.</l>
+	<l id="36">Ah ! Messieurs ! Elle avait oublié sa parole,</l>
+	<l id="37">Elle m'avait trompé ! Trahi ! Déshonoré !</l>
+	<l id="38">J'ai toujours devant moi ce spectacle abhorré,</l>
+	<l id="39">Je devins fou. Je vis s'échapper la lumière.</l>
+	<l id="40">Ma main prit un poignard et frappa l'adultère !</l>
+</lg>
+<lg n="6">
+	<l id="41">Et lorsque j'eus frappé dix fois, qu'un sang brûlant</l>
+	<l id="42">De dix trous à la fois sortit en bouillonnant,</l>
+	<l id="43">Le poignard s'échappa de ma main criminelle.</l>
+	<l id="44">La morte m'apparut plus sublime et plus belle</l>
+	<l id="45">Et je m'agenouillai dans le sang pour la voir.</l>
+	<l id="46">Sentant monter en moi l'atroce désespoir</l>
+	<l id="47">Je pleurai ! Je criai ! Pardon ! Oh ! Fais-moi grâce !</l>
+	<l id="48">Je t'aimai trop hélas ! En ce monde où tout passe,</l>
+	<l id="49">Ton amour a subi cette commune loi !...</l>
+	<l id="50">Oh ! Le plus malheureux ce sera toujours moi.</l>
+	<l id="51">La justice m'attend le remords me torture ;</l>
+	<l id="52">Il n'est plus un abri pour moi dans la nature.</l>
+</lg>
+<lg n="7">
+	<l id="53">Messieurs les grands faiseurs de lois, au nom de Dieu,</l>
+	<l id="54">Écoutez mon histoire, encore un petit peu.</l>
+	<l id="55">J'ai bientôt terminé, d'ailleurs. Je dois vous dire</l>
+	<l id="56">Qu'on me mit en prison, que j'étais en délire,</l>
+	<l id="57">Et que le Tribunal, déclaré compétent,</l>
+	<l id="58" syll="3" part="i">M'acquitta. </l>
+</lg>
+<lg n="8">
+	<l id="58" syll="9" part="f">Moi, Messieurs, n'étant pas innocent,</l>
+	<l id="59">Je ne m'acquittai pas, et je courbai la tête,</l>
+	<l id="60">Sachant que ce pardon cachait une tempête,</l>
+	<l id="61">Et que j'allais rester tout seul, comme un maudit,</l>
+	<l id="62">Moi, le mari-bourreau, tuant comme un bandit.</l>
+	<l id="63">Encore quelques mots. - Vous oublierez ensuite,</l>
+	<l id="64">Messieurs, c'est le devoir qui dicte ma conduite ;</l>
+	<l id="65">Je ne vous dirai point tout ce que j'ai souffert.</l>
+	<l id="66">J'ai vécu ces vingt ans dans un gouffre entrouvert.</l>
+	<l id="67">De ce gouffre est sorti mon corps si misérable</l>
+	<l id="68">Pour se représenter comme le vrai coupable !</l>
+	<l id="69">Oui, Messieurs, nul mortel n'a le droit effrayant</l>
+	<l id="70">De plonger dans la mort un seul être vivant.</l>
+	<l id="71">Tous les codes humains peuvent lui faire grâce ;</l>
+	<l id="72">Au foyer fraternel il a perdu sa place.</l>
+	<l id="73">Il traîne son remords comme on traîne un boulet,</l>
+	<l id="74">Et l'oubli ne viendra jamais large et complet.</l>
+	<l id="75" syll="3" part="i">Il a tué ! </l>
+</lg>
+<lg n="">
+	<l id="75" syll="9" part="f">Messieurs, le mari qu'on outrage</l>
+	<l id="76">Ne doit point devenir assassin ; le courage</l>
+	<l id="77">Consiste à repousser froidement, pour toujours,</l>
+	<l id="78">L'être perdu qui vient d'empoisonner nos jours.</l>
+	<l id="79">Ô vous ! Les grands faiseurs de lois, dont la morale</l>
+	<l id="80">En discours très pompeux de temps en temps s'étale,</l>
+	<l id="81">Ne vous semble-t-il pas qu'il faudrait par hasard,</l>
+	<l id="82">À l'époux outragé défendre le poignard ?</l>
+	<l id="83">Eh bien pour que le droit puisse arrêter la force</l>
+	<l id="84" syll="6" part="i">Il ne faut qu'une loi !</l>
+	<l id="84" syll="3" part="m">Laquelle ?</l>
+	<l id="84" syll="3" part="f">LE DIVORCE !</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

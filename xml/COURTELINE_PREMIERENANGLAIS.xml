@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>PREMIER EN ANGLAIS, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, décembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, janvier 2022</publisher>
+			<idno>COURTELINE_PREMIERENANGLAIS</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PREMIER EN ANGLAIS</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="TOTO" sex="1" type="H" statut="bourgeois" age="E" stat_amour="néant">TOTO</role>.</castItem>
+			<castItem><role id="L'AMI" sex="1" type="H" statut="bourgeois" age="E" stat_amour="néant">L'AMI</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 121-124</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>PREMIER EN ANGLAIS</head>
+<div2 type="scene" n="1"><head/>
+<sp who="TOTO"><speaker>TOTO.</speaker>
+<p id="1">
+	<s id="1">Moi, comme j'ai été le premier en anglais, maman a dit comme ça : </s>
+	<s id="2">« Comme cet enfant, qu'elle a dit, a été le premier en anglais, pendant les vacances de Pâques, on le mènera voir la comédie, puisqu'il a été le premier en anglais. »</s>
+</p>
+</sp>
+<sp who="L'AMI"><speaker>L'AMI.</speaker>
+<p id="2">
+	<s id="1">Ah ?</s>
+</p>
+</sp>
+<sp who="TOTO"><speaker>TOTO.</speaker>
+<note type="C">Le Supplice d'une femme est un drame en trois acte de </note>
+<p id="3">
+	<s id="1">Oui. </s>
+	<s id="2">Alors papa est allé louer des places. </s>
+	<s id="3">Ça fait qu'il est rentré mardi en disant : </s>
+	<s id="4">« Je viens de louer des places. </s>
+	<s id="5">- Pour où que tu as loué des places ? »</s>
+	<s id="6">dit maman. </s>
+	<s id="7">Papa a dit qu'il avait loué des places pour aller au Théâtre-Français voir Le_Supplice_d_une_femme. </s>
+	<s id="8">Alors, maman s'est fichue en colère ; elle a dit que papa était un imbécile qu'il ne faisait que des bêtises.</s>
+</p>
+</sp>
+<sp who="L'AMI"><speaker>L'AMI.</speaker>
+<p id="4">
+	<s id="1">Ah ?</s>
+</p>
+</sp>
+<sp who="TOTO"><speaker>TOTO.</speaker>
+<p id="5">
+	<s id="1">Oui, </s>
+	<s id="2">Elle criait : </s>
+	<s id="3">« Est-ce que tu perds la tête, de mener cet enfant à une pièce pareille ? </s>
+	<s id="4">Tu veux donc lui donner des idées ? » </s>
+	<s id="5">Et papa baissait le nez parce qu'il ne savait pas quoi lui répondre. </s>
+	<s id="6">À la fin, maman a dit que papa ne savait pas ce qu'il faisait, mais qu'elle aimait encore mieux que j'aie des mauvaises idées que de laisser perdre des places qui avaient coûté vingt-cinq_francs. </s>
+	<s id="7">Alors on a été tout de même voir jouer Le_Supplice_d_une_femme.</s>
+</p>
+</sp>
+<sp who="L'AMI"><speaker>L'AMI.</speaker>
+<p id="6">
+	<s id="1">Ah ?</s>
+</p>
+</sp>
+<sp who="TOTO"><speaker>TOTO.</speaker>
+<p id="7">
+	<s id="1">Oui. </s>
+	<s id="2">En voilà une pièce bête !... </s>
+	<s id="3">Mon vieux, on n'y comprends rien ! </s>
+	<s id="4">C'est rien que des gens qui parlent à tort et à travers et qui disent tout ce qui leur passe pas la tête. </s>
+	<s id="5">T'as jamais rien vu de plus bête. </s>
+	<s id="6">Et tout le temps maman me disait : </s>
+	<s id="7">« N'écoute pas ce qu'ils disent, Toto ; c'est des mensonges » ; </s>
+	<s id="8">et elle disait à papa ; </s>
+	<s id="9">Il faut être aussi fou que tu l'es, pour avoir amené cet enfant à une pièce aussi immorale. » </s>
+	<s id="10">À la fin, on a rentré et maman a dit comme ça : </s>
+	<s id="11">« Je ne veux pas que cet enfant reste sous le coup de mauvaises idée ; demain soir, on ira voir jouer Michel_Strogoff. »</s>
+</p>
+</sp>
+<sp who="L'AMI"><speaker>L'AMI.</speaker>
+<p id="8">
+	<s id="1">Ah ?</s>
+</p>
+</sp>
+<sp who="TOTO"><speaker>TOTO.</speaker>
+<p id="9">
+	<s id="1">Oui. </s>
+	<s id="2">Ça fait que le lendemain on a été au Châtelet. </s>
+	<s id="3">Mon vieux, c'est ça qui est rupin ! </s>
+	<s id="4">Pour sûr, alors, c'est rupin !... </s>
+	<s id="5">Si tu savais !...</s>
+</p>
+<stage type="enthousiasm">Les yeux hors de la tête.</stage>
+<p id="10">
+	<s id="1">Mon vieux, il y a des dames toutes nues !... </s>
+	<s id="2">C'est joli !... </s>
+	<s id="3">On voit tous leurs estomacs !... </s>
+	<s id="4">À un moment, y en a qui dansent ; des fois elles relèvent leurs jupes et font voir leurs derrières... </s>
+	<s id="5">Tu ne peux pas te faire une idée comme c'est chic !... </s>
+	<s id="6">Crénom, j'ai rudement rigolé ! </s>
+	<s id="7">Maman aussi. </s>
+	<s id="8">Tout le temps elle disait  : </s>
+	<s id="9">« Tu t'amuses, Toto ?  » </s>
+	<s id="10">Et elle disait à papa : </s>
+	<s id="11">« Hein ? </s>
+	<s id="12">Voilà un vrai spectacle à faire voir à des enfants. </s>
+	<s id="13">Au moins, ça ne leur donne pas de mauvaises idées » </s>
+	<s id="14">Je serai toi, je dirais à ta mère de te mener voir Michel_Strogoff. </s>
+	<s id="15">C'est pas comme Le_Supplice_d_une_femme où on ne sait pas ce que ça veut dire. </s>
+	<s id="16">On comprend, mon vieux !... </s>
+	<s id="17">On comprend...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

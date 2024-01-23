@@ -1,0 +1,2714 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'ALBUM, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0004 6100 1912">Gaston BERGERET (1840-1921)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE novembre 2022</editor>
+				<publisher>Publié par Paul FIEVRE décembre 2022</publisher>
+				<idno>BERGERET_ALBUM</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1871-1880</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YTH-354">https://gallica.bnf.fr/ark:/12148/bpt6k5629507d</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'ALBUM</titlePart>
+			<titlePart type="sub">COMÉDIE DE SALON EN UN ACTE</titlePart>
+			<titlePart type="sub">Jouée pour la première fois CHEZ MADAME EUGÈNE MOUTON le Samedi 5 avril </titlePart>
+			<titlePart type="sub">Et représentée ensuite CHEZ MADAME LA COMTESSE DE BEAUSACQ le Lundi 21 avril</titlePart>
+			<titlePart type="sub">CHEZ MADAME DE SEYMIERS le Mercredi 23 avril</titlePart>
+			<titlePart type="sub">ET CHEZ MADAME LE CORDIER le Jeudi 24 avril</titlePart>
+		</docTitle> 
+		<docDate value="1873">M. DCCC LXXIII.</docDate>
+		<docAuthor id="BERGERET, Gaston" bio="vade">PAR M. VADÉ.</docAuthor>
+		<docImprint>
+			<printer id="">PARIS, IMPRIMERIE D. JOUAUST, Rue Saint-Honoré, 338.</printer>
+			<editor>PARIS, LIBRAIRIE DES BIBLIOPHILES, Rue Saint-Honoré, 338.</editor>
+		</docImprint>
+		<performance>
+			<premiere date="1873-04-21" location="Chez Madame la Comtesse de Beausacq">Représenté pour la première fois à Paris le Lundi 21 avril 1873.</premiere>
+		</performance>
+	<div type="préface"><head>PRÉFACE DE L'AUTEUR.</head>
+		<p>Cette comédie est comme la lune.</p>
+		<p>Elle n'a pas d'éclat par elle-même ; elle doit tout son charme aux actrices improvisées qui l'ont bien voulu jouer et aux publics qui l'ont accueillie.</p>
+		<p>Il serait téméraire de chercher à la monter avec d'autres éléments, et je ne conseille à personne de la lire. Mais j'ai tenu à la faire imprimer.</p>
+		<p>Quand les neiges du temps auront enseveli ma jeunesse, je me rappellerai avec émotion, et non sans orgueil, que j'ai connu les plus aimables des femmes et que j'ai su les apprécier.</p>
+	</div>
+	<div type="prologue"><head>PROLOGUE PAR SULLY PRUDHOMME.</head>
+		<p>Lu chez Mme la C[omt]esse de Beausacq</p>
+		<p>MESDAMES ET MESSIEURS,</p>
+		<p type="v">Vous pouviez, ce soir même, applaudir aux Français</p>
+		<p type="v">Des acteurs accomplis qu'illustre un long service,</p>
+		<p type="v">Vous avez préféré de ma troupe novice</p>
+		<p type="v">Encourager ici les périlleux essais.</p>
+		<p type="v">J'ai, pour ce dévouement, des grâces à vous rendre ;</p>
+		<p type="v">Mais, peut-être, tout bas, vous êtes-vous promis,</p>
+		<p type="v">Pour vous dédommager de ce zèle d'amis,</p>
+		<p type="v">La joie un peu maligne, et neuve, de surprendre</p>
+		<p type="v">Des pauvres débutants le naïf embarras,</p>
+		<p type="v">De les voir, ne sachant que faire de leurs bras,</p>
+		<p type="v">Adresser au souffleur la réplique en détresse,</p>
+		<p type="v">Et rattrapant les mots à grand'peine épiés,</p>
+		<p type="v">Parler dans leurs gilets en regardant leurs pieds.</p>
+		<p type="v">Eh bien ! c'est trop compter sur notre maladresse :</p>
+		<p type="v">Les comédiens d'un jour, inspirés du hasard,</p>
+		<p type="v">Sont parfois les plus vrais, car ils sont vrais sans art.</p>
+		<p type="v">Nous avons la candeur, c'est ce qui nous protège :</p>
+		<p type="v">Notre amoureux, cueilli dans les fleurs d'un collège,</p>
+		<p type="v">En plein avril, dira pour la première fois :</p>
+		<p type="v">« Cher Ange ! » et n'aura point à rajeunir sa voix.</p>
+		<p type="v">Ma troupe est tout entière en ce salon choisie :</p>
+		<p type="v">J'avais même besoin de trouver parmi vous</p>
+		<p type="v">Quelque homme sérieux pour en faire un jaloux,</p>
+		<p type="v">L'Othello s'est offert, et je l'en remercie.</p>
+		<p type="v">Les actrices, chez nous, n'ayant aucun soupçon</p>
+		<p type="v">Que la grâce s'emprunte et l'esprit s'étudie,</p>
+		<p type="v">Semblent à leur insu jouer la comédie ;</p>
+		<p type="v">Notre jeune première, à défaut de leçon,</p>
+		<p type="v">Se résigne à rester charmante, naturelle</p>
+		<p type="v">Comme si tout son rôle était dicté par elle ;</p>
+		<p type="v">La soubrette est exquise, indolente à ravir,</p>
+		<p type="v">Si naturelle aussi qu'on pense à la servir.</p>
+		<p type="v">Au surplus notre pièce est mieux qu'un badinage.</p>
+		<p type="v">On y lit un discours politique et moral ;</p>
+		<p type="v">Le dénouement surtout est fort original,</p>
+		<p type="v">Car la galanterie y fait naître un ménage.</p>
+		<p type="v">Mesdames, n'ayez peur qu'un mot vif échappé</p>
+		<p type="v">N'oblige la Pudeur à refermer son voile.</p>
+		<p type="v">L'Amour ne réussit qu'au tomber de la toile,</p>
+		<p type="v">Et le mari qu'on trompe est à peine trompé.</p>
+		<p type="v">Si cette pièce est neuve, alerte et bien écrite,</p>
+		<p type="v">La verve qu'elle inspire aux acteurs en fait foi,</p>
+		<p type="v">J'en puis taire l'auteur, mais non pas le mérite,</p>
+		<p type="v">Car, si j'étais modeste, on la croirait de moi.</p>
+		<p type="v">Mais vous allez l'entendre, et vous ferez justice.</p>
+		<p type="v">Dans ma présomption je n'ai pas de complice ;</p>
+		<p type="v">Je ne leur ai rien dit qui pût les rendre vains,</p>
+		<p type="v">Mais vous les rendre fiers si vous battez des mains.</p>
+	</div>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="MADAME VERRIÈRES" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME VERRIÈRES</role>.</castItem>
+		<castItem><role id="JULIETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">JULIETTE</role>, cousine de Madame Verrières.</castItem>
+		<castItem><role id="LA BARONNE" sex="2" type="H" statut="baron" age="A" stat_amour="néant">LA BARONNE</role>.</castItem>
+		<castItem><role id="MARTINE" sex="2" type="H" statut="camériste" age="A" stat_amour="néant">MARTINE</role>, camériste.</castItem>
+		<castItem><role id="MONSIEUR VERRIÈRES" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR VERRIÈRES</role>.</castItem>
+		<castItem><role id="FERNAND" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">FERNAND</role>.</castItem>
+		<castItem><role id="LE BARON" sex="1" type="H" statut="baron" age="A" stat_amour="néant">LE BARON</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">La scène est dans un salon. Au milieu, un album sur une table ; le reste au gré des actrices.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>L'ALBUM</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Madame Verrières, Juliette.
+</stage>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="1">
+	<s id="">Nous n'avons que le temps de passer une robe, Juliette ; la baronne va venir nous prendre dans une_heure_et_demie pour aller au sermon.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="2">
+	<s id="1">Savez-vous, ma cousine, que ce père_lazariste a un grand talent : il vient jusqu'à des jeunes gens pour l'entendre.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="3">
+	<s id="1">On y voit même des maris avec leurs femmes.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="4">
+	<s id="1">Pourvu que le baron laisse venir la sienne !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Il est très jaloux : c'est un homme bien élevé.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="6">
+	<s id="1">Oh ! </s>
+	<s id="2">Il faut avoir bien peu de confiance en sa femme pour la surveiller de si près !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="7">
+	<s id="1">Les femmes n'aiment rien tant que d'être opprimées ; c'est une preuve qu'on s'occupe d'elles.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="8">
+	<s id="1">Mais Monsieur_Verrières ne vous persécute pas ainsi.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="9">
+	<s id="1">Eh ! </s>
+	<s id="2">Crois-tu que je sois heureuse ! </s>
+	<s id="3">Il ne me fait jamais de scènes, mais de la sorte je n'ai jamais rien à lui pardonner.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="10">
+	<s id="1">Et vous êtes si indulgente que cela vous manque ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="11">
+	<s id="1">Ne pouvoir jamais pardonner ! </s>
+	<s id="2">Pour une âme tendre c'est un supplice affreux.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="12">
+	<s id="1">Mais aussi que n'avez-vous des torts ? </s>
+	<s id="2">Il serait bien obligé de se fâcher.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="13">
+	<s id="1">Enfant ! </s>
+	<s id="2">Je reconnais bien là ta candeur. </s>
+	<s id="3">Tu crois qu'on a des torts comme on veut !</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="14">
+	<s id="1">Oh ! </s>
+	<s id="2">Vous ne le voudriez pas ; mais on peut faire semblant.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="15">
+	<s id="1">Juliette, ceci n'est plus de l'ingénuité. </s>
+	<s id="2">Mais j'y perdrais mon temps ; la jalousie est dans le caractère. </s>
+	<s id="3">Le baron étranglerait sa femme sur le plus futile soupçon, et, après que j'aurais commis les plus graves imprudences, mon mari me trouverait des excuses.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="16">
+	<s id="1">Quel intraitable caractère !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="17">
+	<s id="1">Tu verras, quand tu seras mariée, que le bonheur a ses tortures.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="18">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, je ne me marierai jamais !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="19">
+	<s id="1">Tu ne te marieras jamais ? </s>
+	<s id="2">Juliette, tu es amoureuse.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="20">
+	<s id="1">Oh ! </s>
+	<s id="2">Ma cousine!</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="21">
+	<s id="1">Alors, qu'est-ce qui te fait croire que tu ne te marieras pas ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="22">
+	<s id="1">Mais... je n'ai pas de dot. </s>
+	<s id="2">Si, à la mort de ma mère, vous ne m'aviez pas prise avec vous...</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="23">
+	<s id="1">Tu n'as pas de fortune, c'est vrai ; mais tu es orpheline. </s>
+	<s id="2">Et puis tu as de beaux yeux</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="24">
+	<s id="1">Ça, c'est vrai.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="25">
+	<s id="1">Une figure angélique, une taille charmante.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="26">
+	<s id="1">Oui ; et puis j'ai un très bon caractère.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="27">
+	<s id="1">Un coeur d'or, une excellente éducation, une santé admirable, de l'esprit, du goût...</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="28">
+	<s id="1">J'en conviens.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="29">
+	<s id="1">Et parmi les amis de Monsieur_Verrières, il peut se rencontrer quelque beau jeune homme.</s>
+</p>
+<stage type="get">Prenant l'album.</stage>
+<p id="30">
+	<s id="1">Voyons-les un peu.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="31">
+	<s id="1">Oh ! </s>
+	<s id="2">Ce n'est pas la peine.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="32">
+	<s id="1">Tiens ! </s>
+	<s id="2">Nomme-les l'un après l'autre, je te dirai à qui tu penses.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="33">
+	<s id="1">Vous croyez que ma voix serait si émue ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="35">
+	<s id="1">Essaye.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="36">
+	<s id="1">Monsieur_de_Lignerol, Monsieur_Berville, Monsieur_Desmazières, Monsieur_Charles, Monsieur_de_Vassy, Monsieur_Lherminier ; c'est tout.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="37">
+	<s id="1">Ta voix n'a pas bronché ! </s>
+	<s id="2">Recommence.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="38">
+	<s id="1">Monsieur_de_Lignerol, Monsieur_Berville, Monsieur_Desmazières, Monsieur_Charles, Monsieur_de_Vassy, Monsieur_Lherminier</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="39">
+	<s id="1">Je crois bien, petite futée, tu n'as pas nommé Fernand.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="40">
+	<s id="1">Chut ! </s>
+	<s id="2">Il faut aller nous habiller.</s>
+</p>
+<stage type="ring">Elle sonne.</stage>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="aparte">, à part.
+</stage>
+<p id="41">
+	<s id="1">Seulement, Fernand est encore trop bien ; il ne voudra pas se marier.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les mêmes, Martine.
+</stage>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="1">
+	<s id="1">Tu as l'air tout pâlot, Martine. </s>
+	<s id="2">Est-ce que tu es malade ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="2">
+	<s id="1">Je suis un peu fatiguée, Mademoiselle ; mais ce n'est rien.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="3">
+	<s id="1">Elle est si délicate, cette pauvre petite.</s>
+</p>
+<stage type="toward">À Martine.</stage>
+<p id="4">
+	<s id="1">Est-ce que tu as mal dormi cette nuit ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="5">
+	<s id="1">Quand le temps change brusquement, je ne m'y attends pas, ça me saisit.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="6">
+	<s id="1">Ne reste pas debout, c'est très mauvais. </s>
+	<s id="2">Attends, je vais te faire un verre d'eau.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="7">
+	<s id="1">Juliette, nous pouvons bien nous dispenser de nous habiller ; elle se reposera un peu.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">Je vais habiller Madame.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE</speaker><stage type="carry">, apportant le verre d'eau.
+</stage>
+<p id="9">
+	<s id="1">Non, non ; c'est défendu.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="toward">, à Juliette.
+</stage>
+<p id="10">
+	<s id="1">As-tu mis de la fleur d'oranger ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE</speaker><stage type="toward">, à Martine.
+</stage>
+<p id="11">
+	<s id="1">Reste tranquille et ne te fatigue pas.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="12">
+	<s id="1">Merci, Mademoiselle.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="13">
+	<s id="1">C'est si fatigant d'être domestique pour une petite créature comme ça.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="alone">, seule.
+</stage>
+<p id="1">
+	<s id="1">J'ai remarqué que, quand je reste assise, je me fatigue bien moins ; on n'est pourtant pas trop exigeant dans la maison. </s>
+	<s id="2">Il est vrai que j'y suis depuis dix-neuf ans, à ce qu'on m'a toujours assuré, bien que je n'aie que dix-huit ans trois mois. </s>
+	<s id="3">Cette fleur d'oranger m'a fait du bien ; je crois que je vais pouvoir épousseter le salon.</s>
+</p>
+<p id="2">
+	<s id="1">Encore l'album ouvert ! </s>
+	<s id="2">Est-ce que Monsieur Fernand est venu ? </s>
+	<s id="3">Il doit joliment connaître ces photographies-là ; il ne vient pas une fois qu'il ne reste en contemplation devant cette page. </s>
+	<s id="4">Ce n'est pourtant pas Monsieur_Verrières qu'il regarde, ni le baron. </s>
+	<s id="5">Restent Madame_Verrières et Mademoiselle_Juliette. </s>
+	<s id="6">Je suis bien sûre qu'il est amoureux de l'une des deux, et comme Mademoiselle_Juliette est la plus jeune, la plus jolie, la plus neuve, ce doit être Madame_Verrières qu'il aime. </s>
+	<s id="è">Ces hommes sont si corrompus, dit-on ; car moi, je n'en sais rien.</s>
+</p>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">J'ai une idée. </s>
+	<s id="3">Je vais retirer de l'album la photographie de Madame_Verrières. </s>
+	<s id="4">La première, fois que Monsieur_Fernand viendra, s'il paraît contrarié et s'il cherche partout, c'est que c'est Madame_Verrières qu'il veut voir ; s'il reste les yeux fixés sur la page, c'est qu'il vient pour Mademoiselle_Juliette.</s>
+</p>
+<stage type="get">Elle enlève la photographie.</stage>
+<p id="4">
+	<s id="1">Tiens, qu'est-ce qu'il y a d'écrit sur celle-là ! </s>
+	<s id="2">C'est la photographie de Monsieur_Fernand. </s>
+</p>
+<stage type="read">Lisant.</stage>
+<p id="5">
+	<s id="1">« Il faut absolument que je vous voie. </s>
+	<s id="2">Mon coeur ne tient plus dans ma poitrine. »</s>
+</p>
+<p id="6">
+	<s id="1">Ah ! ah ! </s>
+	<s id="2">C'est la petite poste. </s>
+	<s id="3">Seulement il n'y a pas d'adresse. </s>
+	<s id="4">Mais je ne veux pas laisser ces choses-là à l'air. </s>
+	<s id="5">Remettons tout en place.</s>
+</p>
+<stage type="drop">Elle replace la photographie.</stage>
+<p id="7">
+	<s id="1">C'est égal, j'ai découvert qu'il y a quelque chose que je ne sais pas.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Martine, Fernand.
+</stage>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="1">
+	<s id="1">Tiens, qu'est-ce que tu fais là ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="2">
+	<s id="1">Je range le salon, Monsieur_Fernand.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="3">
+	<s id="1">Tu le ranges assise. </s>
+	<s id="2">C'est plus long ; mais cela doit être mieux fait. </s>
+	<s id="3">Tiens.</s>
+</p>
+<stage type="give">Il lui donne une pièce d'or.</stage>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="get">, après avoir pris la pièce d'or.
+</stage>
+<p id="4">
+	<s id="1">C'est donc très mal, ce que vous faites ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="5">
+	<s id="1">Moi, qu'est-ce que je fais de mal ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="6">
+	<s id="1">Vous êtes trop généreux pour quelqu'un qui n'a rien à se reprocher.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="7">
+	<s id="1">Alors rends-la moi...</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="8">
+	<s id="1">Je ne dis pas cela. Mais...</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="9">
+	<s id="1">Est-ce que Monsieur_Verrières est sorti ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="10">
+	<s id="1">Non. </s>
+	<s id="2">Je vais le prévenir que vous êtes ici.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="11">
+	<s id="1">Oh ! </s>
+	<s id="2">Ce n'est pas la peine. </s>
+	<s id="3">Je n'ai rien à lui dire. </s>
+	<s id="4">Et Madame_Verrières ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="12">
+	<s id="1">Elle est dans sa chambre ; je vais lui dire...</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="13">
+	<s id="1">Non, non, ne la dérange pas. </s>
+	<s id="2">Je n'ai pas besoin de la voir.</s>
+</p>
+<stage type="aparte/watch">À part, après avoir regardé la photographie de la Baronne.</stage>
+<p id="14">
+	<s id="1">La baronne n'a rien écrit. </s>
+	<s id="2">Je suis dans un état effroyable.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="15">
+	<s id="1">Mais alors, Monsieur_Fernand, qu'est-ce que vous venez faire ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="16">
+	<s id="1">J'ai à parler à Monsieur_Verrières.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="17">
+	<s id="1">Alors, je vais le chercher.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="18">
+	<s id="1">Non. </s>
+	<s id="2">Écoute : je reviendrai tout à l'heure. </s>
+	<s id="3">Mais ne dis pas que je suis venu.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="9">
+	<s id="1">Pourquoi cela ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="10">
+	<s id="1">Il y a des motifs très sérieux. </s>
+	<s id="2">Je t'expliquerai cela à ta majorité.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="11">
+	<s id="1">Moi, je ne veux pas mentir. </s>
+	<s id="3">Je dirai à Madame que vous êtes venu et que vous m'avez dit de ne pas le lui dire.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="12">
+	<s id="1">Ne fais pas cela, au moins.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="13">
+	<s id="1">Mais je sais bien pourquoi vous êtes venu ; c'est pour l'album.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="14">
+	<s id="1">Quelle idée ! </s>
+	<s id="2">Je regarde l'album machinalement, sans faire attention.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="15">
+	<s id="1">Dites-moi seulement quelle photographie vous regardez de préférence.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="16">
+	<s id="1">Oh ! </s>
+	<s id="2">Ça m'est bien égal, les photographies.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="17">
+	<s id="1">Donnez-moi la vôtre.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="18">
+	<s id="1">La mienne ? </s>
+	<s id="2">Je te l'apporterai.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="19">
+	<s id="1">Eh bien, c'est cela ! </s>
+	<s id="2">Vous en apporterez une. </s>
+	<s id="3">En attendant je vais prendre celle-ci.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="20">
+	<s id="1">Hé ! </s>
+	<s id="2">Qu'est-ce que tu fais ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="21">
+	<s id="1">Que vous importe si je prends celle-ci ! </s>
+	<s id="2">Vous la remplacerez.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="22">
+	<s id="1">Non, non.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="23">
+	<s id="1">Est-ce qu'il y a une dédicace écrite là-dessus ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="24">
+	<s id="1">Il n'y a rien d'écrit. </s>
+	<s id="2">Mais je t'en apporterai une grande, bien plus jolie.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="25">
+	<s id="1">Moi, j'ai envie de celle-là. </s>
+	<s id="2">Vous ne voulez rien faire pour moi.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="26">
+	<s id="1">Mais je ferai tout ce que tu voudras.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="27">
+	<s id="1">C'est parce que je ne suis qu'une pauvre servante. </s>
+	<s id="2">Vous me méprisez !</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="28">
+	<s id="1">Voyons, Martine, sois raisonnable. </s>
+	<s id="2">Tu sais bien que je ne demande qu'à te faire plaisir.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="29">
+	<s id="1">Alors, époussetez le salon pour moi.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="30">
+	<s id="1">Voilà une singulière fantaisie !</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="30">
+	<s id="1">Vous me refusez tout.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="aparte">, à part.
+</stage>
+<p id="31">
+	<s id="1">Ah ! </s>
+	<s id="2">J'aime encore mieux cela. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="32">
+	<s id="1">Donne-moi le plumeau. </s>
+	<s id="2">Seulement tu me diras ce qu'il faut faire.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="33">
+	<s id="1">Il faut tout essuyer sans rien casser. </s>
+	<s id="2">Voulez-vous mon tablier ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="34">
+	<s id="1">Pour me faire une bavette ? </s>
+	<s id="2">Faut-il battre les meubles ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="35">
+	<s id="1">Jamais ! </s>
+	<s id="2">Ça ferait de la poussière. </s>
+	<s id="3">Donnez-moi mon verre d'eau.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="give">, après avoir présenté le verre d'eau.
+</stage>
+<p id="36">
+	<s id="1">Madame n'a plus besoin de rien ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="37">
+	<s id="1">Vous n'avez toujours pas voulu me laisser prendre votre portrait.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="38">
+	<s id="1">Je te l'apporterai. </s>
+	<s id="2">Tiens, en attendant.</s>
+</p>
+<stage type="give">Il lui donne une pièce d'or.</stage>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="39">
+	<s id="1">Vous savez : je garde toutes vos pièces d'or. </s>
+	<s id="2">Quand vous serez dans l'embarras, adressez-vous à moi, je vous prêterai quelques louis.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="40">
+	<s id="1">Amasse-les. </s>
+	<s id="2">C'est pour t'acheter un mari.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage>, seule.
+</stage>
+<p id="1">
+	<s id="1">C'est pour Mademoiselle_Juliette. </s>
+	<s id="2">Il n'a pas voulu voir Madame, et rien ne l'en empêchait. </s>
+	<s id="3">On ne perd pas son temps à regarder le portrait quand on peut voir le modèle. </s>
+	<s id="4">Non ! </s>
+	<s id="5">C'est pour Madame. </s>
+	<s id="6">On n'écrit ces choses-là que pour avoir une réponse, et Mademoiselle_Juliette ne lui répondrait pas. </s>
+	<s id="7">Et puis une déclaration à une jeune fille ! </s>
+	<s id="8">Cela peut mener très loin ; tandis qu'à une femme mariée, on sait qu'elle n'est pas libre.</s>
+</p>
+<p id="2">
+	<s id="1">Mais est-il possible que Madame, avec un si bon mari... </s>
+	<s id="2">Il est vrai que c'est toujours le même ! </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Le voici.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Martine, Monsieur Verrières.
+</stage>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage>, des papiers à la main.
+</stage>
+<p id="1">
+	<s id="1">Mesdames et Messieurs, la France... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Martine, tu vas me dire ton avis. </s>
+	<s id="4">Vaut-il mieux dire Mésdames et Mèssieurs, ou bien, Mèsdames et Méssieurs ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="2">
+	<s id="1">Moi, je dirais : Messieurs et Dames.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="3">
+	<s id="1">Écoute ma première phrase. </s>
+	<s id="2">Je suppose que tu assistes à la réunion_générale_des_comités_de_l_oeuvre_du_Sou_des_Châteaux. </s>
+	<s id="3">Je fais un discours et tu juges de l'effet.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="sit">, s'asseyant.
+</stage>
+<p id="4">
+	<s id="1">Alors, je suis assise dans un fauteuil.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="5">
+	<s id="1">C'est cela, et tu fais aller ton éventail.</s>
+</p>	
+<stage type="give">Il lui donne l'éventail.</stage>
+<p id="6">
+	<s id="1">Mesdames et Messieurs, la France, dans les temps douloureux de crise patriotique, politique et sociale qu'elle traverse avec angoisse et quelles que soient les pénibles épreuves qu'il a plu à la sagesse divine d'imposer à nos coeurs, comme si elle voulait, par la fréquence et l'intensité des désastres, tremper nos âmes et les préparer à l'expiation suprême, auprès de laquelle tous les maux de ce monde sont des peines d'autant plus légères qu'ils sont constamment tempérés par les salutaires jouissances du devoir accompli dans l'exercice régulier des fonctions de famille et de société, biens incomparables que la miséricorde céleste dispense libéralement aux hommes, alors même qu'ils s'en rendent le plus indignes par la perversité de leurs instincts et l'oubli des impérissables prescriptions de la Providence à laquelle nous devons, outre les bienfaits de la vie temporelle, la sainte espérance d'une vie meilleure et d'un monde spirituel où il nous sera donné de connaître, après les orages et les misères terrestres, le repos et la félicité réservés aux élus, nous est toujours chère.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="7">
+	<s id="1">Qui donc nous est toujours chère?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="8">
+	<s id="1">La France ; je l'ai dit en commençant.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="9">
+	<s id="1">Alors, vous supposez que les personnes qui auront entendu le commencement y seront encore à la fin ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="10">
+	<s id="1">Certainement. Une fois assis on ne peut plus s'en aller.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="11">
+	<s id="1">Vous ne les préviendrez donc pas ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="12">
+	<s id="1">On saura que je dois faire un discours, mais on ne saura pas lequel.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="13">
+	<s id="1">Mais qu'est-ce qui vous oblige à faire un discours ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="14">
+	<s id="1">Oh ! </s>
+	<s id="2">Je ne peux pas m'en dispenser. </s>
+	<s id="3">C'est un de ces devoirs de position auxquels il ne faut pas essayer de se soustraire, surtout après le rôle actif que j'ai joué pendant la guerre.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="15">
+	<s id="1">Pendant la guerre ? </s>
+	<s id="2">Mais vous étiez resté à Paris.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="16">
+	<s id="1">Eh bien ! Ne sais-tu pas que j'ai eu quatorze blessures d'armes à feu, trois blessures d'armes blanches, et neuf amputations...</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="17">
+	<s id="1">Neuf amputations ! </s>
+	<s id="2">Alors on vous a amputé plusieurs fois le même membre ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="18">
+	<s id="1">Dans mon ambulance. </s>
+	<s id="2">Ce n'est pas moi qui ai personnellement éprouvé toutes ces meurtrissures. </s>
+	<s id="3">Mais je crois qu'il est plus pénible encore de voir souffrir les autres.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="19">
+	<s id="1">Oh ! </s>
+	<s id="2">Ce n'est qu'une souffrance morale.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="20">
+	<s id="1">J'ai aussi un passage qui est très politique. </s>
+	<s id="2">Tu vas voir.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="21">
+	<s id="1">Est-ce que la phrase est aussi longue ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="22">
+	<s id="1">Le temps est venu d'affirmer nettement sa foi politique. </s>
+	<s id="2">La monarchie traditionnelle de nos pères, le régime constitutionnel de la branche cadette, le système plébiscitaire de l'empire, les principes libéraux de la doctrine républicaine, et les aspirations les plus audacieuses du socialisme, se réunissant sur le terrain commun de l'ordre et de la liberté, voilà le parti unique auquel nous devons tous nous rallier.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="23">
+	<s id="1">En somme, vous ne dites pas pour qui vous êtes.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="24">
+	<s id="1">Il ne manquerait plus que cela. </s>
+	<s id="2">Je ne serais plus un homme politique, alors.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="25">
+	<s id="1">Tout ça, voyez-vous, c'est de l'éloquence.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="26">
+	<s id="1">Et puis, j'ai le trait de la fin.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="27">
+	<s id="1">La fin ? </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Voyons..</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="28">
+	<s id="1">La patrie, Mesdames et Messieurs, quand elle est glorieuse et prospère, nous l'aimons ; quand elle est malheureuse et vaincue, nous l'aimons encore ; mais quand elle est aveugle et criminelle, alors nous l'aimons davantage.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="29">
+	<s id="1">Oui. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Je m'y attendais.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="28">
+	<s id="1">Parce que je te l'avais dit.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les mêmes, La Baronne.
+</stage>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="1">
+	<s id="1">Bonjour, cher. </s>
+	<s id="2">Est-ce que ces dames sont prêtes ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Martine, veux-tu dire à ces dames que la baronne les attend.</s>
+</p>
+<stage type="exit">Martine sort.</stage>
+<p id="3">
+	<s id="1">Asseyez-vous, chère amie.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Monsieur Verrières, La Baronne.
+</stage>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="sit">, s'asseyant.
+</stage>
+<p id="1">
+	<s id="1">Je n'ai pas le temps. </s>
+	<s id="2">Depuis ce matin, je suis allée à l'Hôtel_des_ventes, j'ai déjeuné à Ville_d_Avray, j'aurais dû assister à la séance de l'Assemblée, où j'ai des amis qui parlent ; mais je suis revenue à Paris pour aller au Salon, où j'ai des amis qui exposent. </s>
+	<s id="3">De là, j'ai passé chez ma couturière, chez mon coiffeur et chez le dentiste d'une de mes amies ; et tout à l'heure, après le sermon, il faut que je fasse trois visites, cinq emplettes, que j'obtienne un bureau de tabac et une sous-préfecture, et que je trouve le temps de me recueillir.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Et puis vous viendrez dîner avec nous ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="3">
+	<s id="1">Sans compter ce que j'ai à faire ici.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="4">
+	<s id="1">Moi, je fais un discours. </s>
+	<s id="2">Voulez-vous que je vous le lise ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">Mon ami, et les devoirs de l'hospitalité!</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="6">
+	<s id="1">C'est vrai, je suis chez moi ; mais je vous le porterai.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="7">
+	<s id="1">Envoyez-le-moi plutôt ; je le lirai à mon aise.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="8">
+	<s id="1">Voyons ce qu'a écrit Fernand.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="9">
+	<s id="1">C'est pour l'oeuvre_du_Sou_des_Châteaux.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, lisant à part.
+</stage>
+<p id="10">
+	<s id="1">« Il faut absolument que je vous voie. </s>
+	<s id="2">Mon coeur ne tient plus dans ma poitrine. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="11">
+	<s id="1">Vous dites ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="12">
+	<s id="1">Continuez, je vous prie. </s>
+	<s id="2">Faites comme si je n'y étais pas.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="13">
+	<s id="1">Donnez-moi donc un adjectif pour désastres.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="14">
+	<s id="1">Le malheureux !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="15">
+	<s id="1">Malheureux ? </s>
+	<s id="2">Désastres malheureux. </s>
+	<s id="3">C'est exact, mais ce n'est pas original.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="16">
+	<s id="1">Il faut que je réponde.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="17">
+	<s id="1">Que penseriez-vous de navrants ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="18">
+	<s id="1">Navrant. </s>
+	<s id="2">C'est le mot. </s>
+	<s id="3">Prêtez-moi votre crayon.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="19">
+	<s id="1">Le voici, Madame. </s>
+	<s id="2">Vous voulez dessiner des bonshommes ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="20">
+	<s id="1">Ne faites pas attention. </s>
+	<s id="2">Écrivez toujours.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="21">
+	<s id="1">Avec quoi ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="22">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est vrai : j'ai votre crayon. C'est pour écrire le jour et l'heure où vous prononcerez votre discours.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="23">
+	<s id="1">Vous êtes bien aimable. </s>
+	<s id="2">Mardi, à huit heures.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="write">, écrivant.
+</stage>
+<p id="24">
+	<s id="1">« Mon mari ne sait rien, mais il s'en doute. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="25">
+	<s id="1">Vous y êtes ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="26">
+	<s id="1">Où est-ce ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="27">
+	<s id="1">Au Cercle_des_sociétés_savantes, quai_Malaquais.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="write">, écrivant.
+</stage>
+<p id="28">
+	<s id="1">« Je vous aime avec une extrême prudence. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="29">
+	<s id="1">Je vous enverrai douze fauteuils.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="write">, écrivant.
+</stage>
+<p id="30">
+	<s id="1">« Observez la plus grande réserve. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="31">
+	<s id="1">Réservés, des fauteuils réservés, bien entendu.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="32">
+	<s id="1">Je crois que c'est tout.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="33">
+	<s id="1">Ah ! </s>
+	<s id="2">Mettez : en toilette de ville.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="write">, écrivant.
+</stage>
+<p id="34">
+	<s id="1">« En toilette de ville. »</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="35">
+	<s id="1">Le Baron viendra, n'est-ce pas?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="36">
+	<s id="1">Le Baron, quand çà ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="37">
+	<s id="1">Mardi, au quai_Malaquais.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="38">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui, oui. </s>
+	<s id="3">Certainement.</s>
+</p>
+<stage type="drop">Elle replace la photographie.</stage>
+<p id="39">
+	<s id="1">Voilà qui est fait.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="40">
+	<s id="1">Vous n'oubliez pas ma petite note ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="41">
+	<s id="1">Elle est dans ma poche.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="42">
+	<s id="1">Pauvre Fernand !</s>
+</p>
+<p id="43">
+	<s id="1">Comme il doit souffrir !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Les mêmes, Madame Verrières, Juliette.
+</stage>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="1">
+	<s id="1">Nous voilà prêtes. </s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="2">
+	<s id="1">Et nous sommes en retard.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="3">
+	<s id="1">Dieu ! </s>
+	<s id="2">Comme elle est jolie, cette enfant ! </s>
+	<s id="3">Dire qu'on va prêcher contre ces choses-là !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="toward">, à Monsieur Verrières.
+</stage>
+<p id="4">
+	<s id="1">Vous ne venez pas à la_Madeleine avec nous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="5">
+	<s id="1">Entendre des discours. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Non ; j'en fais.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="6">
+	<s id="1">Comme si c'était l'affaire d'un mari !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="7">
+	<s id="1">Juliette !</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="8">
+	<s id="1">Laissez-la donc parler à tort et à travers. </s>
+	<s id="2">C'est ainsi qu'aimait Henri_IV.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="9">
+	<s id="1">N'est-ce pas qu'elle est charmante, ma petite cousine ? </s>
+	<s id="2">Nous la marierons un de ces jours.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<note type="L">Pauvrine : pauvre au sens de malheureux, dans les parlers du sud-ouest. [Wikipedia]</note>
+<p id="10">
+	<s id="1">Pauvrine ! </s>
+	<s id="2">Il faut bien qu'elle s'y attende.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="11">
+	<s id="1">Oh ! </s>
+	<s id="2">Mais je me défendrai.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="12">
+	<s id="1">Et, comme tout le monde, tu finiras par capituler.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Si on me prend par la famine !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="14">
+	<s id="1">L'essentiel est de bien régler les conditions de l'occupation.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="15">
+	<s id="1">Allons entendre des paroles plus édifiantes.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="16">
+	<s id="1">Ah ! </s>
+	<s id="2">Nous passerons chez mon photographe ; il faut que je reprenne des cartes. J'en fais une consommation effroyable.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Comme les relations du monde sont incompatibles avec le travail sérieux ? </s>
+	<s id="2">Cette visite m'a fait perdre l'élévation de mes idées. </s>
+</p>
+<p id="2">
+	<s id="1">Voyons : j'ai bien ma phrase de début, et je puis dire qu'elle a une certaine ampleur ; j'ai le mot de la fin ; il ne me reste à faire que le corps du discours, mais je ne sais pas du tout de quoi je pourrais parler. </s>
+</p>
+<p id="3">
+	<s id="1">Entretenir de l'oeuvre_du_Sou_des_Châteaux des personnes qui sont venues pour cela, ce ne serait pas assez inattendu. </s>
+	<s id="2">Si je dénigrais le gouvernement actuel ! </s>
+	<s id="3">Mais il ne faut parler qu'une heure. </s>
+	<s id="4">Et puis ce serait me ranger dans la catégorie des opposants et me rendre impossible. </s>
+	<s id="5">Tiens ! </s>
+	<s id="6">Je n'ai pas encore fait de citation latine. </s>
+	<s id="7">J'en puis bien mettre deux. </s>
+	<s id="8">Je serai quitte pour chercher ensuite une manière de les amener. </s>
+	<s id="9">Oh ! </s>
+	<s id="10">J'arriverai à faire un très joli discours. </s>
+	<s id="11">Si je pouvais seulement trouver un sujet !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Monsieur Verrières, Fernand.
+</stage>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage>, à part.
+</stage>
+<p id="1">
+	<s id="1">La Baronne est venue.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Ah ! </s>
+	<s id="2">Tu arrives à merveille. </s>
+	<s id="3">Donne-moi une citation latine.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="3">
+	<s id="1">Sur quoi ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="4">
+	<s id="1">Sur ce que tu voudras. </s>
+	<s id="2">Un vers de Virgile ou d'Horace ; peu m'importe.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="5">
+	<s id="1">O fortunatos nimium, sua si bona norint...</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="6">
+	<s id="1">Agricolas. </s>
+	<s id="2">Mais cela pourrait blesser nos populations_rurales.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="7">
+	<s id="1">Va-t'en au diable.</s>
+</p>
+<stage type="steal">Prenant l'album dans les mains de Monsieur Verrières.</stage>
+<p id="8">
+	<s id="1">Qu'est-ce que tu fais ici ? </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="9">
+	<s id="1">Est-ce qu'il ne va pas s'en aller ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="10">
+	<s id="1">Je travaille à mon discours. </s>
+	<s id="2">Laisse-moi donc l'album, tu n'en as pas besoin.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="11">
+	<s id="1">Qu'est-ce que tu veux que j'en fasse ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="12">
+	<s id="1">Donne-moi une autre citation.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="aparte">, à part.
+</stage>
+<p id="13">
+	<s id="1">Dieu, qu'il est agaçant ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="14">
+	<s id="1">Mon cher, tu ne trouveras rien assis. </s>
+	<s id="2">Moi, j'écris toujours en me promenant.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="stand">, se levant.
+</stage>
+<p id="15">
+	<s id="1">Oui, cela donne du mouvement au style.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="get">, reprenant l'album.
+</stage>
+<p id="16">
+	<s id="1">O matre pulchra filia pulchrior ! </s>
+	<s id="2">Tu sais ce que cela veut dire?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="17">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est très joli : D'une mère si belle fille plus belle encore. </s>
+	<s id="3">Je vais l'écrire.</s>
+</p>
+<stage type="get">Il reprend l'album.</stage>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="18">
+	<s id="1">Est-ce que cela trouve son application ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="19">
+	<s id="1">Oh ! </s>
+	<s id="2">Très bien.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="20">
+	<s id="1">11 faut absolument que je me débarrasse de lui.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="21">
+	<s id="1">Est-ce que je t'ai lu mon commencement ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="22">
+	<s id="1">Non. </s>
+	<s id="2">Mais je vais le lire pendant que tu iras au Ministère_de_la_guerre.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="23">
+	<s id="1">Moi ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="24">
+	<s id="1">C'est un service qu'il faut que tu me rendes, tout de suite, tout de suite.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="25">
+	<s id="1">Bien volontiers, mon cher.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="26">
+	<s id="1">Tu connais le Ministre. </s>
+	<s id="2">Il est chez lui en ce moment ; il s'agit de faire une démarche pour que je sois décoré.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="27">
+	<s id="1">Au ministère de la guerre ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="28">
+	<s id="1">Certainement. </s>
+	<s id="2">J'ai été assez franc-tireur pour qu'on me donne la croix.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="29">
+	<s id="1">Je ne demande pas mieux ; j'y vais tout de suite, mais viens avec moi.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="30">
+	<s id="1">Ah ! </s>
+	<s id="2">Non.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="31">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="32">
+	<s id="1">Je veux lire ton discours.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="33">
+	<s id="1">C'est vrai. </s>
+	<s id="2">Tiens, le voilà. </s>
+	<s id="3">As-tu des cigares ? </s>
+	<s id="4">Veux-tu des allumettes ? </s>
+	<s id="5">Si tu as besoin de quelque chose, tu sonneras Martine.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="34">
+	<s id="1">Merci, je suis très bien. </s>
+	<s id="2">Va vite.</s>
+</p>
+<stage type="get">Il prend l'album.</stage>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="back">, revenant.
+</stage>
+<p id="35">
+	<s id="1">Mais j'y pense. </s>
+	<s id="2">Tu n'as été que militaire : si je te présentais comme ayant fait partie de mon ambulance ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="36">
+	<s id="1">Nous verrons, nous verrons. Fais toujours cette démarche-là.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="37">
+	<s id="1">Comme tu voudras.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Ce n'est pas sans peine.</s>
+</p>
+<p id="2">
+	<s id="1">Voyons la réponse de la Baronne :</s>
+</p>
+<p id="3">
+	<s id="1">« Mon marine sait rien; mais il s'en doute. »</s>
+</p>
+<p id="4">
+	<s id="1">Ça m'est bien égal.</s>
+</p>
+<p id="5">
+	<s id="1">« Je vous aime » </s>
+	<s id="2">Cher ange!</s>
+</p>
+<p id="6">
+	<s id="1">« Avec une extrême prudence. » </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Quel coeur timoré !</s>
+</p>
+<p id="7">
+	<s id="1">« Observez la plus grande réserve. En toilette de ville. »</s>
+</p>
+<p id="8">
+	<s id="1">Comment ! </s>
+	<s id="2">En toilette de ville ! </s>
+	<s id="3">Et toujours une grande réserve ! </s>
+	<s id="4">Avec cela on n'arrive à rien. </s>
+	<s id="5">En toilette de ville ! </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Cela ne peut plus durer. </s>
+	<s id="8">Je vais lui écrire...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> FERNAND, LE BARON.
+</stage>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="1">
+	<s id="1">Allons, bon ! </s>
+	<s id="2">Le Baron, maintenant.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="2">
+	<s id="1">Mon cher ami, on me dit que Verrières est sorti. </s>
+	<s id="2">Je venais le chercher pour m'assister dans une circonstance bien douloureuse.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="3">
+	<s id="1">Qu'est-ce qui vous arrive ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="4">
+	<s id="1">Mais vous pourrez me rendre ce service. </s>
+	<s id="2">Ma femme...</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="5">
+	<s id="1">Votre femme ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="6">
+	<s id="1">C'est affreux ; une femme que j'ai comblée d'amour.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="7">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="8">
+	<s id="1">Elle est partie pour la Hollande avec un professeur_d_italien !</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="9">
+	<s id="1">Partie pour avec... </s>
+	<s id="2">Qu'est-ce que vous racontez là ? </s>
+	<s id="3">Quand est-elle partie ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="10">
+	<s id="1">Ce matin, je les ai vus.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="11">
+	<s id="1">Mais, mon cher Baron, vous perdez la tête.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<note type="L">Bonheur du jour : petit meuble dédié à l'écriture ou comme coiffeuse. [L]</note>
+<p id="12">
+	<s id="1">Ce matin, à dix heures, ma femme est sortie. </s>
+	<s id="2">Je n'avais aucun soupçon ; cependant je l'ai suivie : il ne faut pas attendre que le mal soit fait pour s'en occuper. </s>
+	<s id="3">Elle a pris un fiacre, n°_3207. </s>
+	<s id="4">Je le vois encore, avec des lanternes rouges, un cheval blanc, très maigre. </s>
+	<s id="5">Elle s'est fait conduire à l'Hôtel_des_ventes, où elle est entrée ; elle a beaucoup examiné un Bonheur_du_jour. </s>
+	<s id="6">Je me suis dit : « C'est un plaisir licite. » </s>
+	<s id="7">J'ai fait le tour de deux ou trois salles et je suis parti. </s>
+	<s id="8">Au coin de la rue_de_Provence, je vois passer un fiacre, les stores baissés, des stores bleus en mauvais état. </s>
+	<s id="9">Machinalement je regarde le numéro : 3207. </s>
+	<s id="10">Un nuage de sang a passé devant mes yeux. </s>
+	<s id="11">Cependant j'ai remarqué une grande malle sur la voiture : je me rappellerai cette malle toute ma vie. </s>
+	<s id="12">J'ai couru ; rue Lafayette, j'ai perdu de vue la voiture, mais elle allait évidemment à la gare du Nord. </s>
+	<s id="13">J'y suis arrivé, il n'y avait plus de fiacre ; mais j'ai reconnu la malle aux bagages, elle portait cette adresse : Monsieur_Santini, professeur_d_italien, à Rotterdam. J'ai voulu passer pour fouiller le train. </s>
+	<s id="14">On m'a arrêté ; pendant que je m'expliquais, le train est parti. </s>
+	<s id="15">Je pars ce soir pour Rotterdam. </s>
+	<s id="16">Venez avec moi : seul, je ferais un malheur.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="13">
+	<s id="1">Mon cher Baron, il y a plusieurs raisons qui prouvent votre erreur : d'abord, permettez-moi de rester convaincu que la Baronne est une femme vertueuse, incapable d'aimer un professeur, même d'italien.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="14">
+	<s id="1">Alors, que va-t-elle faire en Hollande avec ce monsieur ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="15">
+	<s id="1">Mais vous n'avez vu que le fiacre. </s>
+	<s id="2">Elle l'avait quitté, et Monsieur_Santini est monté dedans.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="16">
+	<s id="1">C'est une supposition que vous faites !</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="17">
+	<s id="1">Au moins elle est vraisemblable ! </s>
+	<s id="2">Maintenant, je puis ajouter que la Baronne est, en ce moment même, avec Madame_Verrières et sa cousine, au sermon de la_Madeleine.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="18">
+	<s id="1">Ah ! </s>
+	<s id="2">Cela, c'est une raison.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="19">
+	<s id="1">Et il serait au moins sage d'y aller voir avant de prendre le train.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="20">
+	<s id="1">C'est cela, allons-y.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="21">
+	<s id="1">Eh bien, permettez-moi d'écrire deux mots, et je vous accompagne.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="22">
+	<s id="1">Parfaitement, je vous attends.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="23">
+	<s id="1">Allons, bon ! </s>
+	<s id="2">J'ai cassé mon crayon.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="24">
+	<s id="1">Voulez-vous le mien ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="get">, prenant le crayon.
+</stage>
+<p id="25">
+	<s id="1">Merci. </s>
+	<s id="2">Avez-vous vu ce joli tableau qu'a acheté Verrières ?</s>
+</p>
+<stage type="watch">Pendant que le Baron regarde le tableau, Fernand enlève sa photographie de l'album, en tire une autre de sa poche sur laquelle il écrit.</stage>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage>, écrivant.
+</stage>
+<p id="26">
+	<s id="1">« Impossible attendre plus longtemps. »</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<note type="L">Greuze : Jean-Baptiste Grause (1725-1805) ou Anne-Geneviève Greuze (1762-1842).</note>
+<p id="27">
+	<s id="1">C'est un Greuze ; mais il n'est pas signé.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="28">
+	<s id="1">La signature est dans le coin, à droite.</s>
+</p>
+<stage type="WRITE">Écrivant.</stage>
+<p id="29">
+	<s id="1">« Si moi pas vous voir aujourd'hui, serai mort demain sans faute. »</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="30">
+	<s id="1">Mais non, il n'y a rien dans le coin à droite.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="drop">, replaçant la photographie.
+</stage>
+<p id="31">
+	<s id="1">À droite du tableau, c'est votre gauche.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="32">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui, je vois.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage>, à part.
+</stage>
+<p id="33">
+	<s id="1">C'est fait. </s>
+</p>
+<stage type="give">Rendant le crayon.</stage>
+<p id="34">
+	<s id="1">Voici votre crayon. </s>
+	<s id="2">Je vous remercie.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="35">
+	<s id="1">Eh bien, nous partons ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="ring">, sonnant.
+</stage>
+<p id="36">
+	<s id="1">Mon cher Baron, je ne comprends pas que vous ayez des alertes pareilles.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Les mêmes, Martine.
+</stage>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="1">
+	<s id="1">Martine, quand Monsieur_Verrières rentrera, tu lui diras que je viendrai dîner.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="2">
+	<s id="1">Moi aussi.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous aussi.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="4">
+	<s id="1">Je me passerais bien de lui. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="5">
+	<s id="1">Si cela devait vous gêner, je n'insisterais pas.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="6">
+	<s id="1">Oh ! </s>
+	<s id="2">Cela ne me gêne pas, à moins que je ne parte pour la Hollande.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="toward">, à Martine.
+</stage>
+<p id="7">
+	<s id="1">Monsieur aussi.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="8">
+	<s id="1">Mais vous ne venez jamais nous voir, vous, mon cher ; ce n'est pas gentil : cela ferait tant de plaisir à ma femme !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="alone">, seule.
+</stage>
+<p id="1">
+	<s id="1">Ce n'est pas pour rien qu'il est venu. </s>
+	<s id="2">Voyons les dernières nouvelles.</s>
+</p>
+<stage type="get/read">Elle écarte la photographie de Mme Verrières et lit au dos de celle de Fernand.</stage> 
+<p id="2">
+	<s id="1">« Impossible attendre plus longtemps. Si moi pas vous voir aujourd'hui, serai mort demain sans faute. »</s>
+</p>
+<p id="3">
+	<s id="1">Pauvre garçon ! </s>
+	<s id="2">Mais c'est une réponse à un refus, cela. </s>
+	<s id="3">Voyons au dos de Madame. </s>
+	<s id="4">Rien. </s>
+	<s id="5">Et au dos de Mademoiselle. </s>
+	<s id="6">Rien non plus. </s>
+	<s id="7">On ne peut cependant pas écrire sur une autre photographie que la sienne, puisqu'il faut toujours pouvoir la remplacer. </s>
+	<s id="8">Il y a peut-être de l'encre sympathique.</s>
+</p>
+<stage type="get">Elle tire de l'album la photographie de Fernand.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Martine, Monsieur Verrières.
+</stage>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="1">
+	<s id="1">Quel étourneau que ce Fernand ! </s>
+	<s id="2">Le ministre est à Versailles.</s>
+</p>
+<stage type="toward">À Martine.</stage>
+<p id="2">
+	<s id="1">Qu'est-ce que tu regardes là ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="3">
+	<s id="1">Moi ! </s>
+	<s id="2">Rien, Monsieur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="4">
+	<s id="1">Si ce n'est rien, pourquoi le caches-tu ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">C'était une photographie qui est tombée de l'album, je vais l'y remettre.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="6">
+	<s id="1">Montre-la.</s>
+</p>
+<stage type="get">Il la prend.</stage>
+<p id="7">
+	<s id="1">Ah ! </s>
+	<s id="2">La photographie de Fernand. </s>
+	<s id="3">Je pensais bien que cet accident devait être arrivé à une photographie de jeune homme.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">Est-ce que Monsieur croirait ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="9">
+	<s id="1">Je crois, Martine, qu'à ton âge, quand on a ta jolie petite figure et ton âme vivace, il ne faut pas compromettre la pureté de son coeur dans la contemplation d'un jeune homme à moustaches.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="10">
+	<s id="1">Je ne regardais pas les moustaches, Monsieur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="11">
+	<s id="1">C'est peut-être la cravate que tu regardais.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="12">
+	<s id="1">Je me disais que la photographie était très bien faite.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="13">
+	<s id="1">C'est vrai, d'ailleurs. </s>
+	<s id="2">Qui est-ce qui a fait cela ? </s>
+</p>
+<stage type="turn">Il la retourne.</stage>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="14">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="15">
+	<s id="1">Tiens ! </s>
+	<s id="2">De l'écriture. </s>
+	<s id="3">C'est l'écriture de Fernand.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="16">
+	<s id="1">Monsieur, ce n'est pas bien ce que vous faites là. </s>
+	<s id="2">Le secret des lettres, c'est sacré.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="17">
+	<s id="1">J'ai charge d'âme, Mademoiselle. </s>
+	<s id="2">Il m'appartient de veiller sur votre innocence.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="18">
+	<s id="1">Mon_Dieu ! </s>
+	<s id="2">Que faire ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="read">, lisant.
+</stage>
+<p id="19">
+	<s id="1">« Impossible attendre plus longtemps. </s>
+	<s id="2">Si moi pas voir vous aujourd'hui, serai mort demain sans faute. »</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="20">
+	<s id="1">Ce drôle de Fernand, il ne respecte rien.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="21">
+	<s id="1">Eh bien ! </s>
+	<s id="2">C'est joli. </s>
+	<s id="3">Tu entretiens déjà une correspondance criminelle.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="22">
+	<s id="1">Mais je n'ai rien fait, moi.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="23">
+	<s id="1">Malheureuse enfant, tu es au moins sur la pente.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="24">
+	<s id="1">Quand même ce serait pour moi, vous voyez bien qu'il attend.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="25">
+	<s id="1">Quand même ce serait pour toi ! </s>
+	<s id="2">Tu vas soutenir peut-être que ce n'est pas pour toi ? </s>
+	<s id="3">Et pour qui serait-ce donc ? </s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="26">
+	<s id="1">Je ne dis pas cela, mais je suis innocente.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="27">
+	<s id="1">C'est toujours le dernier mot des coupables.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="28">
+	<s id="1">Je n'ai rien fait ; je ne veux pas que vous me disiez des injures.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="29">
+	<s id="1">Je ne peux pourtant pas accuser Madame.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="30">
+	<s id="1">Est-ce que je n'ai pas le droit de te protéger contre les entraînements de ton inexpérience ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="31">
+	<s id="1">Ah ! </s>
+	<s id="2">Je me trouve mal!</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="32">
+	<s id="1">J'aurais dû m'y attendre. </s>
+	<s id="2">Voyons, Martine, remets-toi. </s>
+	<s id="3">Je n'ai pas voulu te faire de la peine ; c'est par affection pour toi, ce que je te dis. </s>
+	<s id="4">Elle ne revient pas. </s>
+	<s id="5">Je vais lui mettre de l'eau_de_Cologne sur les tempes et lui taper dans les mains. </s>
+	<s id="6">Martine, ma petite Martine, mais c'est pour rire ! </s>
+	<s id="7">Je faisais semblant de te gronder ; je sais bien que tu es blanche comme les lis. </s>
+	<s id="8">Comment, tu as pris cela au sérieux ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="awake">, rouvrant lesyeux.
+</stage>
+<p id="33">
+	<s id="1">Ah ! </s>
+	<s id="2">Où suis-je ? </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Comme ça fait mal !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="34">
+	<s id="1">Te sens-tu mieux ?</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="35">
+	<s id="1">Un peu, mais je suis si faible !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="36">
+	<s id="1">Pauvre enfant ! </s>
+	<s id="2">Ne parlons plus de cela.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="37">
+	<s id="1">Il faut remettre la photographie à sa place.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="38">
+	<s id="1">Oui, oui, je vais la remettre.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="39">
+	<s id="1">Si je sais comment arranger cela, maintenant !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="40">
+	<s id="1">Là ! </s>
+	<s id="2">Va t'étendre un peu sur ton lit et fais-toi donner un bouillon, avec des biscuits et du vin_de_Bordeaux.</s>
+</p>
+</sp>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="41">
+	<s id="1">Je vais essayer d'avaler.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Conçoit-on que ce diable de Fernand fasse la cour à cette petite ? </s>
+	<s id="2">J'espère au moins qu'il est temps encore d'intervenir.</s>
+</p>
+<stage type="watch">Après avoir relu la photographie.</stage>
+<p id="2">
+	<s id="1">C'est bien son écriture. </s>
+	<s id="2">Mais est-ce qu'il dit vous à Martine ? </s>
+	<s id="3">« Si moi pas vous voir. » </s>
+	<s id="4">Quel style ! </s>
+	<s id="5">Mais il peut la voir tous les jours. </s>
+	<s id="6">Et puis je me représente bien Fernand prenant la taille d'une camériste ; mais « serai mort demain sans faute » appartient au genre dramatique. </s>
+	<s id="7">Une sueur froide coule entre mes cheveux. </s>
+	<s id="8">Quoi ! </s>
+	<s id="9">Madame_Verrières prêterait l'oreille à de pareils discours, et Fernand... </s>
+	<s id="10">C'est affreux !</s>
+</p> 
+<stage type="think">Prenant sa tête dans ses mains.</stage>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon_Dieu, m'y voilà donc arrivé !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="18"><head>SCENE XVIII.</head><stage> Monsieur Verrières, Juliette, La Baronne, Madame Verrières.
+</stage>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="1">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous avez bien perdu. </s>
+	<s id="3">Le sermon a été admirable.</s>
+</p>
+<stage type="dress">Elle ôte son chapeau.</stage>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Pauvre enfant, tu n'as pas besoin de sermons, toi.</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="3">
+	<s id="1">Elle n'est pas mariée.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="4">
+	<s id="1">C'est intolérable. </s>
+	<s id="2">J'éprouve les remords les plus cuisants. </s>
+</p>
+<stage type="dress">Elle ôte son chapeau.</stage>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="5">
+	<s id="1">Tout le monde pleurait. </s>
+	<s id="2">On a prêché sur les devoirs du mariage.</s>
+</p>
+<stage type="dress">Elle ôte son chapeau.</stage>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="6">
+	<s id="1">Ce sujet est plein d'une effroyable actualité.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="7">
+	<s id="1">Et sur les dangers du célibat.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="8">
+	<s id="1">Le prédicateur a dit que les femmes coupables finissent toujours par être découvertes.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="toward">, à Madame Verrières.
+</stage>
+<p id="9">
+	<s id="2">Toujours.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="10">
+	<s id="1">Il faut absolument que je reprenne ma photographie. </s>
+	<s id="2">J'ai la conscience dans une inquiétude!</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="11">
+	<s id="1">Pourquoi dit-on les devoirs du mariage ? </s>
+	<s id="2">Ce sont des plaisirs.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="12">
+	<s id="1">Vous avez bien raison. </s>
+	<s id="2">On fait les sermons pour des criminels et il n'y va que des innocents. </s>
+</p>
+<stage type="get">Elle va pour prendre l'album.</stage>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="13">
+	<s id="1">Oh ! </s>
+	<s id="2">J'ai vu trois officiers !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="14">
+	<s id="1">Voulez-vous permettre ?</s>
+</p>
+<stage type="get">Il retient l'album.</stage>
+<stage type="toward">À Madame Verrières.</stage>
+<p id="15">
+	<s id="1">J'ai à vous parler.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage>, à part.
+</stage>
+<p id="16">
+	<s id="1">Je ne puis pas laisser ma photographie là dedans.</s>
+</p>
+<stage type="toward">À Juliette.</stage>
+<p id="17">
+	<s id="1">Avez-vous vu le nouveau portrait que j'ai fait faire ?</s>
+</p>
+<stage type="get">Elle tire des photographies de sa poche.</stage>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="18">
+	<s id="1">Donnez-le-moi.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage>, à Madame.
+</stage>
+<p id="19">
+	<s id="1">Je sais tout.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="20">
+	<s id="1">Oh ! </s>
+	<s id="2">Tout.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="21">
+	<s id="1">Comment ! </s>
+	<s id="2">J'ignorerais encore quelque chose?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="22">
+	<s id="1">Savez-vous l'étymologie de mièvre ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="toward">, à Juliette.
+</stage>
+<p id="23">
+	<s id="1">Vous voyez, j'y suis en blonde, cela me ressemble bien plus.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="24">
+	<s id="1">C'est pour moi, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="25">
+	<s id="1">A condition que vous me rendrez l'autre.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="26">
+	<s id="1">Je vais le chercher.</s>
+</p>
+<stage type="get">Elle veut prendre l'album.</stage>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="27">
+	<s id="1">Qu'est-ce que tu vas faire ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="28">
+	<s id="1">Je vous le rendrai, n'ayez pas peur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="29">
+	<s id="1">Ne dérange pas les photographies, surtout.</s>
+</p>
+<stage type="get">Il retire celle de Fernand.</stage>
+<stage type="toward">À Mme Verrières.</stage>
+<p id="30">
+	<s id="1">Je sais que Fernand vous aime.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="pain">, comprimant les battements de son coeur.
+</stage>
+<p id="31">
+	<s id="1">Fernand ! </s>
+	<s id="2">Qui vous a dit ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="32">
+	<s id="1">Ne le niez pas, j'en ai la preuve écrite.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="33">
+	<s id="1">Vous en êtes sûr ?</s>
+</p>
+<stage type="show">Monsieur Verrières montre la photographie.</stage>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE</speaker><stage type="toward">, à la Baronne.
+</stage>
+<p id="34">
+	<s id="1">Tenez, voici l'ancienne.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="35">
+	<s id="1">Merci, ma bonne petite chérie.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="36">
+	<s id="1">Ah ! </s>
+	<s id="2">Je respire !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="read">, après avoir lu.
+</stage>
+<p id="37">
+	<s id="1">Pauvre jeune homme ! </s>
+	<s id="2">Il ne me l'avait pas dit.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="38">
+	<s id="1">Vous l'avez encouragé ! </s>
+	<s id="2">Sans doute ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="39">
+	<s id="1">C'est très commode, les albums.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="40">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon_Dieu. </s>
+	<s id="3">Où est la photographie de Fernand ?</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="41">
+	<s id="1">Qu'est-ce que vous faites donc là ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="show">, voyant le mouvement de la Baronne.
+</stage>
+<p id="42">
+	<s id="1">Ah ! </s>
+	<s id="2">Ce n'était pas pour moi.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="43">
+	<s id="1">Que dites-vous ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="44">
+	<s id="1">Je dis, mon pauvre ami, que vous m'avez fait une fausse joie.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="45">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="46">
+	<s id="1">Ce n'est pas à moi que s'adresse cette passion scélérate. </s>
+	<s id="2">Tenez, voyez le trouble de la Baronne...</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE</speaker><stage type="drop">, après avoir placé la nouvelle photographie de la Baronne.
+</stage>
+<p id="47">
+	<s id="1">Voyez, ma cousine, comme la Baronne est bien sur sa nouvelle photographie ?</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="48">
+	<s id="1">Où est l'autre ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="49">
+	<s id="1">Je la lui ai rendue.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="toward">, à Madame Verrières.
+</stage>
+<p id="50">
+	<s id="1">Il y avait sans doute la réponse.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="toward">, à la Baronne.
+</stage>
+<p id="51">
+	<s id="1">Ma chère amie, vous vous compromettez horriblement.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="52">
+	<s id="1">Moi ! </s>
+	<s id="2">Vous ne m'effrayez pas, mon cher. </s>
+	<s id="3">J'ai le calme imperturbable d'une conscience pure.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="53">
+	<s id="1">Et ma photographie dans ma poche.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES</speaker><stage type="show">, montrant la photographie de Fernand.
+</stage>
+<p id="54">
+	<s id="1">Reconnaissez-vous ceci ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="55">
+	<s id="1">Parfaitement. </s>
+	<s id="2">C'est une déclaration de Fernand à Juliette.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="56">
+	<s id="1">Vous croyez ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="57">
+	<s id="1">Innocent ! </s>
+	<s id="2">Vous n'aviez pas encore vu cela.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="19"><head>SCÈNE XIX.</head><stage> Les mêmes, Fernand, Le Baron.
+</stage>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="1">
+	<s id="1">Mesdames, je vous amène un monsieur qui est enchanté de s'être trompé.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Il vaut toujours mieux se tromper soi-même.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="toward">, à Fernand.
+</stage>
+<p id="3">
+	<s id="1">Dites comme moi ou je suis morte.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES</speaker><stage type="toward">, au Baron.
+</stage>
+<p id="4">
+	<s id="1">Qu'est-ce donc ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">Rien. </s>
+	<s id="3">Un pari que j'ai perdu.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="6">
+	<s id="1">Juliette ! </s>
+	<s id="2">Consultez votre coeur et votre famille.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="7">
+	<s id="1">Sur quoi, Madame ?</s>
+</p>
+</sp>
+<sp stagee="toward" who="FERNAND"><speaker>FERNAND</speaker><stage>, à la Baronne.
+</stage>
+<p id="8">
+	<s id="1">De quoi s'agit-il ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="low/toward">, bas à Fernand.
+</stage>
+<p id="9">
+	<s id="1">Si vous dites une seule fois non, je suis déshonorée.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="10">
+	<s id="1">Monsieur que voici aime Mademoiselle. </s>
+	<s id="2">Ne rougissez pas, chère enfant.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage>, bas.
+</stage>
+<p id="11">
+	<s id="1">Mais...</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="low/toward">, de même.
+</stage>
+<p id="12">
+	<s id="1">C'est ma vie qui est entre vos mains.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="13">
+	<s id="1">Voilà comme tout se découvre. </s>
+	<s id="2">Tu peux te vanter, heureux coquin, de nous avoir fait une belle peur.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="14">
+	<s id="1">Comment, Fernand, vous écrivez des lettres clandestines à Juliette ?</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="15">
+	<s id="1">Madame...</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="16">
+	<s id="1">Où sont les lettres ?</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="17">
+	<s id="1">On vous les montrera après le mariage.</s>
+</p>
+<stage type="low/toward">Bas, à Fernand.</stage>
+<p id="18">
+	<s id="1">De grâce !</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="19">
+	<s id="1">Mademoiselle, c'est vrai...</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="low">, bas.
+</stage>
+<p id="20">
+	<s id="1">Allons, allons.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="21">
+	<s id="1">Oui, Juliette, je vous adore.</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="22">
+	<s id="1">Et vous n'osiez pas le dire !</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="23">
+	<s id="1">Mais, Monsieur..., je ne sais...</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="24">
+	<s id="1">Oh ! </s>
+	<s id="2">Tu peux l'avouer maintenant. </s>
+	<s id="3">Vos coeurs s'étaient rencontrés.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="25">
+	<s id="1">Eh bien, je m'étais toujours douté que cela finirait par un mariage.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="26">
+	<s id="1">Quoi, Juliette, vous consentez ?</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="27">
+	<s id="1">Fernand, je ne peux pas vous en vouloir.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE.</speaker>
+<p id="28">
+	<s id="1">Allons, racontez tout.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="29">
+	<s id="1">Oui, depuis longtemps un feu secret dévorait mon coeur ; mais la crainte de vous déplaire, l'effroi de me heurter à un refus.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="30">
+	<s id="1">Je ne sais plus ce que je dis. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="31">
+	<s id="1">Je vous ai écrit dans l'album.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="32">
+	<s id="1">Ah ! </s>
+	<s id="2">Je m'en doutais. </s>
+	<s id="3">Je n'osais jamais regarder votre photographie.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="33">
+	<s id="1">Elle est très gentille, d'ailleurs.</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="34">
+	<s id="1">Et, au risque de me compromettre, vous remplissiez mon album de vos gémissements.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage type="aparte">, à part.
+</stage>
+<p id="35">
+	<s id="1">Ah ça, est-ce que je vais me marier ?</s>
+</p>
+</sp>
+<sp who="LE BARON"><speaker>LE BARON.</speaker>
+<p id="36">
+	<s id="1">Dire que je lui ai prêté mon crayon pour écrire ces choses-là !</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="37">
+	<s id="1">Pour célébrer cet heureux dénouement, je vous lirai mon discours après dîner.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="toward">, à Fernand.
+</stage>
+<p id="38">
+	<s id="1">Merci, vous me sauvez.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND</speaker><stage>, à la Baronne.
+</stage>
+<p id="39">
+	<s id="1">Avec plaisir. </s>
+	<s id="2">J'aurai une femme charmante.</s>
+</p>
+</sp>
+<sp who="LA BARONNE"><speaker>LA BARONNE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="40">
+	<s id="1">L'ingrat !</s>
+</p>
+</sp>
+<sp who="MADAME VERRIÈRES"><speaker>MADAME VERRIÈRES.</speaker>
+<p id="41">
+	<s id="1">Seulement, Juliette, tâche de ne pas être trop heureuse.</s>
+</p>
+</sp>
+<sp who="FERNAND"><speaker>FERNAND.</speaker>
+<p id="42">
+	<s id="1">Laissez-moi causer un peu avec ma femme : il y a si longtemps que j'en meurs d'envie !</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE</speaker><stage type="toward">, à Madame Verrières.
+</stage>
+<p id="43">
+	<s id="1">Oh ! </s>
+	<s id="2">Je m'en étais bien aperçue !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="20"><head>SCÈNE XX.</head><stage> Les mêmes, Martine.
+</stage>
+<sp who="MARTINE"><speaker>MARTINE.</speaker>
+<p id="1">
+	<s id="1">Madame est servie.</s>
+</p>
+</sp>
+<sp who="MONSIEUR VERRIÈRES"><speaker>MONSIEUR VERRIÈRES.</speaker>
+<p id="2">
+	<s id="1">Martine, un événement nuptial répand la joie dans notre maison ; mais les plus graves conséquences eussent pu naître de ton indiscrète curiosité.</s>
+</p>
+</sp>
+<sp who="JULIETTE"><speaker>JULIETTE.</speaker>
+<p id="3">
+	<s id="1">Oh ! </s>
+	<s id="2">Il ne faut pas gronder Martine, cette pauvre petite...</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="4">
+	<s id="1">Elle est si délicate !</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

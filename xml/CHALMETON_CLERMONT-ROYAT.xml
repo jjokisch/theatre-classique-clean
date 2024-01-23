@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>CLERMONT-ROYAT dans BRELAN DE PROLOGUES.</title>
+		<author type="texte" ISNI="0000 0003 7876 6682">Louis CHALMETON (1813-1879)</author>
+		</titleStmt>
+		<publicationStmp>	
+			<publisher>Texte établi par Paul FIEVRE, juillet 2023</publisher>
+			<publisher>Publié par Paul FIEVRE, août 2023</publisher>
+			<idno>CHALMETON_CLERMONT-ROYAT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmp>
+		<SourceDesc>
+			<genre>Prologue</genre>
+			<inspiration>Vie littéraire</inspiration>
+			<type>vers</type>
+			<structure>Un acte</structure>
+			<periode>1871-1880</periode>
+			<taille>0-250</taille>
+			<permalien cote="BnF LLA YE-17437">https://gallica.bnf.fr/ark:/12148/bpt6k56233051</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">CLERMONT-ROYAT</titlePart>
+			<titlePart type="sub">dans BRELANS DE PROLOGUES</titlePart>
+		</docTitle> 
+		<docDate value="1878">1878</docDate>
+		<docAuthor id="CHALMETON, Louis">de LOUIS CHALMETON, OFFICIER D'ACADÉMIE, DE LA SOCIÉTÉ DES GENS DE LETTRES, DES ACADÉMIES DE CLERMONT ET DU GARD.</docAuthor>
+		<docImprint>
+			<editor type="COLLAY">CLERMONT-FERRAND, DUCROS-PARIS, LIBRAIRE, Mlle J. COLLY, SUCCESSEUR, rue Saint-Genès, n°5</editor>
+			<printer id="VIGOT">CLERMONT, Typ. A. VIGOT. rue de la Treille, 14.</printer>
+		</docImprint>		
+		<div type=""><adresse>AUX LECTEURS</adresse>
+			<head>Carissimi !</head>
+			<p type="v">Des vers toujours ; des vers encore !</p>
+			<p type="v">- À soixante-cinq ans passés ? - Et pourquoi pas ?</p>
+			<p type="v">La pêche a, pour certains, de... sérieux appas ;</p>
+			<p type="v">Un fusil sur l'épaule, on devance l'aurore ;</p>
+			<p type="v">L'écarté, le cheval, plaisent à tel ou tel !...</p>
+			<p type="v">.... Je ne chercherai pas à profaner l'autel</p>
+			<p type="v">De la divinité que chacun s'est choisie ;</p>
+			<p type="v">Mais laissez-moi, du moins, ma sainte poésie !</p>
+			<p type="v">Ne trouvez pas mauvais qu'à soixante-cinq ans,</p>
+			<p type="v">Hélas ! (honni soit qui de cet âge mal pense) !</p>
+			<p type="v">Ma vieille Muse et moi, soyons de connivence</p>
+			<p type="v">Pour vous rimer des vers, qu'à notre joie immense,</p>
+			<p type="v">Nous venons vous offrir, ô lecteurs bienveillants !</p>
+			<p>Les trois petits poèmes qui suivent ont été écrits, l'un, en vue de la reprise du Casino de Royat, l'autre, à propos de l'installation du Théâtre de la Bourboule ; le troisième, à l'occasion de la réouverture du Théâtre de Clermont.</p>
+			<p>Le premier est illustré du nom de la femme charmante qui symbolise Royat !</p>
+			<p>Nous devons, en outre, les splendeurs de notre Station Thermale à M. Samie, son Directeur, dont la triple qualité d'administrateur habile, d'artiste éminent et d'exquis homme du monde, a mis les choses de cet Eldorado sur un pied tel, que les progrès accomplis ne peuvent qu'y être maintenus dans une voie toujours ascendante.</p>
+			<p>À lui, merci au nom de tous !</p>
+			<p>Nous profitons de la publicité donnée à ces lignes pour ajouter à Ce remerciement collectif l'expression de tous nos meilleurs sentiments personnels d'affection et d'estime.</p>
+			<p>M. Alexandre Dumas, de l'Académie française, a été l'un des bienveillants auditeurs de notre Prologue Un Théâtre à la Bourboule ; nous avons l'honneur de le lui dédier en reconnaissance de l'excellent accueil qu'il a bien voulu lui faire.</p>
+			<p>M. Alfred Estival, enfin, est le nouveau Directeur de notre Théâtre ;</p>
+			<p>Confident de ses projets, nous connaissons tout ce qu'il prépare d'intelligentes réformes et de littéraires innovations ; grâce à lui, notre scène conquerra certainement bientôt un rang distingué en province.</p>
+			<p>Le Théâtre et le Livre va, donc naturellement à M. Estival, qui voudra bien trouver à ce souvenir, le témoignage de nos cordialités les plus sincères.</p>
+			<p>Royat - La Bourboule - Clermont. Bien chère trilogie que résume l'Auvergne, sous le patronage de laquelle nous mettons pieusement nos pauvres vers.</p>
+			<signature>L. C.</signature>
+		</div>
+		<castList><head>ACTEUR.</head>
+			<castItem><role id="LE RÉCITANT" sex="1" type="H" statut="récitant" age="A" stat_amour="néant">LE RÉCITANT</role>.</castItem>
+	</castList>
+	<set location="Clermont-Ferrand" country="France" periode="XIXème" gps="45.777222, 3.087025"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>CLERMONT-ROYAT</head>
+<div2 type="scene" n="1"><head>Réouverture du Casino.</head>
+<sp who="LE RÉCITANT"><speaker/>
+<stage type="dedicade">All' graciosissima donna Léonie SAMIE</stage>
+<stage type="thanks">Très respectueux hommage.</stage>
+<stage type="date">15 Juin 1878.</stage>
+<poem type="strophe">
+<lg n="1">
+	<l id="1" syll="6" part="i">Mesdames et messieurs,</l>
+	<l id="1" syll="6" part="f">Royat s'est mis en fête,</l>
+	<l id="2">Et tout ensoleillé par le printemps vermeil,</l>
+	<l id="3">Il est redevenu le site sans pareil</l>
+	<l id="4">Que l'art humain à la nature uni, complète !</l>
+	<l id="5">Ses prés verts, ses villas, ses hôtels, ses ruisseaux,</l>
+	<l id="6">Le parfum de ses fleurs, le chant de ses oiseaux,</l>
+	<l id="7">Ses basaltes noircis, surplombant sa vallée,</l>
+	<l id="8">Et ses vieux châtaigniers et sa jeune sautée</l>
+	<l id="9">Et ses sentiers ombreux, et l'immense horizon,</l>
+	<l id="10">Qui, vu du Grand-Hôtel, de l'hôtel_Chabassière,</l>
+	<l id="11">(J'en passe et des meilleurs !) est un lac de lumière ;</l>
+	<l id="12">Tout, messieurs, n'est-il pas, ici, fait pour vous plaire?</l>
+</lg>
+<lg n="2">
+	<l id="13">Oui, de venir à nous, vous avez eu raison !</l>
+	<l id="14">Royat, c'est la santé, le plaisir, l'élégance,</l>
+	<l id="15">Ce qui séduit les yeux, ce qui charme l'esprit ;</l>
+	<l id="16">Royat, c'est un essaim de femmes qui sourit.</l>
+	<l id="17">Et (supposé l'Arno) fait rêver de Florence !</l>
+	<l id="18">Clermont a, grâce à lui, son attrait le plus grand...</l>
+	<l id="19">Mais, une question : pourquoi Clermont-Ferrand ?</l>
+</lg>
+<lg n="3">
+	<l id="20">Les choses du passé, mon_Dieu, je les honore ;</l>
+	<l id="21">Cependant, me tournant du côté de l'aurore,</l>
+	<l id="22">Pour remplacer Ferrand... l'ancien, je choisirais</l>
+	<l id="23">Royat... le jeune ; un nom en qui j'ai confiance ;</l>
+	<l id="24">Royat porte en tait d'eaux l'un des beaux noms de France</l>
+	<l id="25">Clermont vieillit (honni soit qui, du mot, mal pense) !</l>
+	<l id="26">En y mêlant Royat, je le rajeunirais !</l>
+</lg>
+<lg n="4">
+	<l id="27">Cette digression est peut-être indiscrète;</l>
+	<l id="28">Car ma présence ici n'a rien d'officiel ;</l>
+	<l id="29">La place de l'artiste est entre terre et ciel ;</l>
+	<l id="30">Ne m'en veuillez donc pas de cette humble requête</l>
+	<l id="31">Qui n'est que l'idéal, en somme, d'un rêveur ;</l>
+	<l id="32">Oubliez-la donc pour me permettre l'honneur...</l>
+	<l id="33">... (Accordez au poète un peu de bienveillance !)</l>
+	<l id="34">De vous lire des vers faits pour la circonstance ;</l>
+	<l id="35">Auront-ils le bonheur, rimes pieusement,</l>
+	<l id="36">D'être accueillis par vous d'une façon amie ?</l>
+	<l id="37">La muse de l'auteur, certes, en serait ravie ;</l>
+	<l id="38">Mais au public, dit-on, bien fol est qui se fie;</l>
+	<l id="39">Je nierai, quant à vous, cet adage qui ment !</l>
+</lg>
+<lg n="5">
+	<l id="40">J'ai parlé de Royat, de sa verte campagne,</l>
+	<l id="41">De ses bosquets ombreux, du parfum de ses fleurs,</l>
+	<l id="42">De celte immense plaine aux magiques splendeurs,</l>
+	<l id="43">Autrefois un grand lac, aujourd'hui la Limagne !</l>
+</lg>
+<lg n="6">
+	<l id="44">Que de beautés encor j'aurais à peindre !... Rien</l>
+	<l id="45">De plus vertigineux que ce cratère ancien</l>
+	<l id="46">Qui bien que verdoyant est nommé : Gravenoire,</l>
+	<l id="47">Témoin prodigieux de cette obscure histoire</l>
+	<l id="48">Dont jamais l'oeil humain n'a pu rien constater,</l>
+	<l id="49">Phénomène vivant qu'explique la science,</l>
+	<l id="50">Volcan éteint, qu'entoure un éternel silence ;</l>
+	<l id="51">Mais qui prouve pourtant par sa seule présence,</l>
+	<l id="52">Que son passé n'a rien qu'on puisse contester.</l>
+</lg>
+<lg n="7">
+	<l id="53">Et ces vallons fleuris, et ces gras pâturages,</l>
+	<l id="54">Et ces troupeaux rêveurs, aux longs mugissements,</l>
+	<l id="55">Et ces chemins couverts, où les soleils couchants</l>
+	<l id="56">Tamisent leurs rayons, et ces frais paysages</l>
+	<l id="57">Que dore le malin ; et ce que les baigneurs</l>
+	<l id="58">Trouvent, sans les chercher, de sites enchanteurs ;</l>
+	<l id="59">Et l'agreste village, et l'église_romane</l>
+	<l id="60">Dont le jeune clocher sur cette aïeule plane,</l>
+	<l id="61">Et jette dans les airs ses tintements pieux ;</l>
+	<l id="62">Et plus bas, atteignant les sources, la ruelle</l>
+	<l id="63">Que tel ou tel tableau signé Decamps rappelle,</l>
+	<l id="64">Tant elle en a l'allure et la couleur réelle...</l>
+	<l id="65">... (Moins Smyrne, cependant et son ciel radieux !)</l>
+	<l id="66">Et le parc émaillé de fleurs, fraîches écloses,</l>
+	<l id="67">Et l'élégante allée où d'attrayants concerts</l>
+	<l id="68">Groupent les promeneurs qui, sous les arbres verts,</l>
+	<l id="69">- Écoutent, en rêvant de ravissantes choses !</l>
+	<l id="70">Et plus loin, le jet d'eau, la cascade au doux bruit,</l>
+	<l id="71">Se mêlant aux soupirs du va-et-vient des branches,</l>
+	<l id="72">Les rayonnants massifs de roses, de pervenches,</l>
+	<l id="73">Près desquels un chemin mystérieux conduit...</l>
+</lg>
+<lg n="8">
+	<l id="74" syll="4" part="i">... Au Casino !</l>
+	<l id="74" syll="8" part="f">Messieurs, j'admire la nature,</l>
+	<l id="75">Les bois touffus, les prés émaillés, le murmure</l>
+	<l id="76">Du ruisseau babillard ; j'aime le saule en pleurs !</l>
+	<l id="77">Je suis émerveillé par les oiseaux chanteurs ;</l>
+	<l id="78">Le rossignol me plaît ; mais, que je lui préfère</l>
+	<l id="79">Sans le calomnier, cependant, pour ma part,)</l>
+	<l id="80">La Diva dont la voix interprète avec art</l>
+	<l id="81">Herold, Auber, Adam, Lecocq, Massé, Grisart,</l>
+	<l id="82">Vingt autres noms encor, dont notre France est fière !</l>
+	<l id="83">Les tableaux que ces vers vous ont déjà décrits,</l>
+	<l id="84">Les arbres du verger, les fleurs de la prairie,</l>
+	<l id="85">Quoique prédisposant l'âme à la rêverie,</l>
+	<l id="86">Font-ils battre les coeurs, parlent-ils aux esprits</l>
+	<l id="87">Comme l'expression de l'humaine pensée.</l>
+	<l id="88">Tantôt , en vers, tantôt en prose, condensée?</l>
+	<l id="89">Non !... et je rentre, ici, Messieurs, dans mon sujet.</l>
+	<l id="90">Un tableau de Royat était bien mon projet ;</l>
+	<l id="91">Ma muse et mon pinceau m'ont-ils été fidèles ?</l>
+	<l id="92">Je m'en rapporte à cet auditoire indulgent ;</l>
+	<l id="93">Mais avant définir, souffrez que, cependant,</l>
+	<l id="94">Je garde devant vous la parole un instant,</l>
+	<l id="95">Et sur le Casino j'ouvre grandes mes ailes !</l>
+</lg>
+<lg n="9">
+	<l id="96" syll="4" part="i">Le Casino !</l>
+	<l id="97">Messieurs, si quelqu'un eût prédit</l>
+	<l id="98">Qu'un jour, sur ce terrain, certes, fort pittoresque,</l>
+	<l id="99">Mais... (qui ne s'en souvient !) impraticable presque,</l>
+	<l id="100">On verrait s'élever (sans pitié contredit,</l>
+	<l id="101">Le prophète eût été raillé par les gens sages</l>
+	<l id="102">Et traité d'insensé, d'homme dans les nuages I)</l>
+	<l id="103">On verrait s'élever, dis-je, ce monument</l>
+	<l id="104">Avec grâce construit, dont l'aménagement</l>
+	<l id="105">Contient l'attraction des yeux et des oreilles,</l>
+	<l id="106">On eût, je le répète, insulté le rêveur !</l>
+	<l id="107">Et pourtant, il est là, ce charmant séducteur</l>
+	<l id="108">Et notre cher Samie en est le directeur,</l>
+	<l id="109">Et son passé d'hier nous promet des merveilles</l>
+	<l id="110">Pour demain ; et demain, Messieurs, c'est aujourd'hui I</l>
+</lg>
+<lg n="10">
+	<l id="111">Son théâtre est charmant, petit, mais en tout digne</l>
+	<l id="112">Du gracieux public dont la faveur insigne</l>
+	<l id="113">Voudra bien se prêter à s'en faire l'appui.</l>
+</lg>
+<lg n="11">
+	<l id="114">Ses acteurs peu nombreux... (il faut en toute chose,</l>
+	<l id="115">A l'effet projeté subordonner la cause ;)</l>
+	<l id="116">Mais... vous les jugerez ! se feront un devoir</l>
+	<l id="117">De toujours vous prouver que vouloir, c'est pouvoir !</l>
+</lg>
+<lg n="12">
+	<l id="118">Ils ne vous offriront que des oeuvres choisies</l>
+	<l id="119">Et du meilleur aloi ; la musique sera</l>
+	<l id="120">L'objet de tous leurs soins ; le petit opéra</l>
+	<l id="121">Correctement chanté, Messieurs, vous charmera...</l>
+	<l id="122">... Et Lowenthal et ses savantes mélodies !</l>
+</lg>
+<lg n="13">
+	<l id="123">Oui, pour les mériter, toujours, vos sympathies,</l>
+	<l id="124">Ils feront, soyez-en bien sûrs, de mieux en mieux !</l>
+	<l id="125">Ne serez-vous pas là, d'ailleurs, et vos beaux yeux,</l>
+	<l id="126">Mesdames, n'ont-ils pas toutes les poésies ?</l>
+</lg>
+<lg n="14">
+	<l id="127">Vous viendrez donc souvent ici, vous reposer ;</l>
+	<l id="128">N'y serez-vous pas bien, pour rêver, pour causer,</l>
+	<l id="129">Faire diversion avec la promenade</l>
+	<l id="130">Qui, toujours et toujours, vous deviendrait maussade?</l>
+	<l id="131">La nature a du beau, mais l'art a sa beauté.</l>
+	<l id="132">Le pré vert vous ravit ; d'un riant paysage</l>
+	<l id="133">Quand vous le contemplez, l'extase se dégage ;</l>
+	<l id="134">Du rossignol, souvent, vous aimez le ramage;</l>
+	<l id="135">Mais, le voudriez-vous à perpétuité?</l>
+</lg>
+<lg n="15">
+	<l id="136" syll="1" part="i">Non !</l>
+	<l id="136" syll="11" part="f">Vous aurez ici, tout ce qui peut vous plaire ;</l>
+	<l id="137">Après l'heure du parc, un mélange charmant.</l>
+	<l id="138">Des choses de l'esprit et des yeux vous attend ;</l>
+	<l id="139">Les muses y tiendront, tous les soirs, cour_plénière ;</l>
+	<l id="140">Elles comptent sur vous, ces vers sont en leur nom ;</l>
+	<l id="141">S'ils n'étaient que de nous, vous pourriez dire : non !</l>
+	<l id="142">Mais une muse a droit à plus de bienveillance ;</l>
+	<l id="143">Elle est femme, d'ailleurs, et je parle en présence</l>
+	<l id="144">D'autres femmes au coeur porté vers l'idéal,</l>
+	<l id="145">Animé pour les arts, d'une sainte tendresse ;</l>
+	<l id="146">Mesdames, c'est à vous que ce discours s'adresse,</l>
+	<l id="147">Veuillez, pour l'avenir, nous faire la promesse</l>
+	<l id="148">Que, par vous, nous aurons un succès triomphal !</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE NORMAND ET LA GASCON DIALOGUE</title>
+				<author type="texte" ISNI="">(anonyme)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, octobre 2023</editor>
+				<publisher>Publié par Paul FIEVRE, novembre 2023.</publisher>
+				<idno>ANONYME_NORMANDGASCON</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Dialogue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1851-1860</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA YF-12564">https://gallica.bnf.fr/ark:/12148/bpt6k5565044k</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE NORMAND ET LA GASCON </titlePart>
+			<titlePart type="sub">DIALOGUE, OU PETITE SCÈNE.</titlePart>
+		</docTitle> 
+		<docDate value="1858">1858. Droits de reproduction et de traduction réservés.</docDate>
+		<docAuthor id="[Anonyme]"/>
+		<docImprint>
+			<editor id="BOUNET">PERIGUEUX. J. BOUNET, LIBRAIRE-ÉDITEUR, Cours Michel-Montaigne.</editor>
+			<printer id="BOUNET">PERIGUEUX. imprimerie DUPONT et C. - Juin 58.</printer>
+		</docImprint>
+	<div type="avis"><head>AVIS.</head>
+		<p>Dans les dialogues et les compliments qui composent ce petit recueil, nous nous sommes moins attaché au fond et à la forme qu'aux moyens d'intéresser les personnes qui assistent aux distributions de prix, pour lesquelles nous les faisons. Tous ces récits sont courts, parce qu'il faut éviter avec soin d'être prolixe et de fatiguer l'attention des auditeurs.</p>
+		<p>Nous citons quelquefois, dans le second dialogue, des passages du livre de M. Renaudin sur les distributions de prix, parce qu'il nous ont paru s'adapter parfaitement à notre sujet.</p>
+		<p>Comme il était impossible d'approprier ces diverses compositions à toutes les villes, nous avons dû nous tenir dans une sorte de généralité.</p>
+		<p>Il sera facile, au reste, à chaque instituteur de supprimer ce qui lui paraîtrait superflu et d'ajouter ce qu'il croirait utile dans sa localité.</p>
+		<p>Mais ce qui nous semble le plus important à propos de ces récits, c'est que les élèves qui sont destinés à les faire les sachent imperturbablement, les débitent avec énergie, avec grâce et avec aisance, faisant quelques gestes sans affectation et sans sortir jamais du naturel.</p>
+	</div>
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="FERDINAND" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">FERDINAND</role>, gascon.</castItem>
+		<castItem><role id="MAURIN" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">MAURIN</role>, normand.</castItem>
+	</castList>
+<note>Texte tiré de "Dialogues et petits discours, récits facétieux et récréatifs por la distribution des prix de 1858", Périgueux : Bounet, 1858. pp 27-36.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE NORMAND ET LE GASCON.</head>
+<div2 type="scene" n="1"><head>DIALOGUE OU PETITE SCÈNE.</head><stage> Ferdinand, Maurin
+</stage>
+<stage type="explicit">Il est bon de ne faire débiter ce morceau que vers la fin de la séance, pendant la proclamation des prix, par exemple.</stage>
+<sp who="LE GASCON"><speaker>LE GASCON</speaker><stage type="entrance/closer/location/furniture/sit/read">, s'approchant du Normand, qui est déjà sur la scène, assis près d'une table, occupé à lire.
+	</stage>
+	<l id="1" syll="6" part="i">Bonjour, mon cher Maurin.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND</speaker><stage type="stand">, se levant.
+	</stage>
+	<l id="1" syll="6" part="f">Eh ! Bonjour, Ferdinand.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="2">Si je devine bien, je te crois un Normand.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="3">Oui, je suis de ces lieux, d'heureuse souvenance,</l>
+	<l id="4">Par la grâce de Dieu, celle de ma naissance.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="5">Mon cher, sans te fâcher, je le dis en passant,</l>
+	<l id="6">Je ne t'en ferai pas un fort beau compliment.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="7">Et toi, par ce discours, par toute ta personne </l>
+	<l id="8">Je gage que tu sois des bords de la Garonne.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="9" syll="6" part="i">Tu pourrais te tromper.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="9" syll="6" part="f">Me tromper ? Oh ! Non, non.</l>
+	<l id="10">Tout en toi me lE dit, je te crois un Gascon.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="11">Eh bien ! Soit. La Gascogne est ma chère patrie,</l>
+	<l id="12">Et je l'aime cent fois plus que la Normandie.</l>
+	<l id="13">On sait que les Gascons, soit dit sans vanité,</l>
+	<l id="14">Sont un peuple partout dans le monde vanté.</l>
+	<l id="15">Qui n'a pas admiré les bords delà Garonne ?</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="16">Oui, c'est de là que sort la nation_gasconne.</l>
+	<l id="17">Mais si vous aviez vu de notre heureux pays</l>
+	<l id="18">Les sites enchanteurs, tous les riches produits !</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="19">Nous connaissons assez cette vieille Neustrie,</l>
+	<l id="20">Pays des chicaneurs, de la chicanerie.</l>
+	<l id="21">Ah ! Parlez-moi plutôt des climats aquitains,</l>
+	<l id="22">Où Pomone répand ses dons à pleines mains.</l>
+	<l id="23">Combien cette contrée est féconde et riante !</l>
+	<l id="24">Que sa physionomie est belle et ravissante !</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="25">Si parfois plus que nous, aux bords de la Garonne,</l>
+	<l id="26">Vous avez les faveurs de Flore et de Pomone,</l>
+	<l id="27">De Cérès en retour nous avons tous les dons :</l>
+	<l id="28">Les trésors précieux, d'abondantes moissons.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="29">Garde ta pomme cuite, elle est ton meilleur fruit,</l>
+	<l id="30">Et ne nous parle plus de ton riche produit.</l>
+	<l id="31">Viens admirer plutôt nos fertiles campagnes !</l>
+	<l id="32">C'est ce qu'on peut nommer vrai pays_de_cocagne.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="33">Oh ! Va ! Le nôtre aussi, par sa fécondité,</l>
+	<l id="34">Vaut bien certainement votre sol si vanté.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="35">Je n'ai rien dit encor de nos vins délectables,</l>
+	<l id="36">Qui font chez tous les grands l'ornement de leurs tables.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="37">Et nos cidres mousseux, et nos poirés si bons !</l>
+	<l id="38">Qui feraient voir la lune aux plus fameux Gascons !</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="39">Allons donc ! Ta boisson, qu'Hippocrate a proscrite,</l>
+	<l id="40">Est un vrai purgatif... et qui fait aller vite.....</l>
+	<l id="41">Vous cultivez encor de forts beaux cornichons,</l>
+	<l id="42" syll="2" part="i">Je crois...</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="42" syll="10" part="f">On les cultive aussi chez les Gascons,</l>
+	<l id="43">Et si je le sais bien, c'est leur terre chérie.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="44">Leur sol natal, Maurin, est dans la Normandie.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="45">Vantez-nous donc un peu vos landes ; vos landais,</l>
+	<l id="46">Vos pâtres échassiers, habitants des forêts.</l>
+	<l id="47" syll="3" part="i">Ils sont beaux !...</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="47" syll="9" part="f">Très beaux ! Et notre terre féconde,</l>
+	<l id="48">Par surcroît de produits de bon gibier abonde.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="49">Ah ! Mais tu l'oubliais, je sais, chez les Gascons,</l>
+	<l id="50">Qu'on trouve surtout l'oie et beaucoup de dindons.</l>
+	<l id="51">Dans quelques lieux encor de ton pays, tu sais,</l>
+	<l id="52">On voit énormément d'ânes et de mulets.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="53">Tu pourrais ajouter que le Calvados, l'Orne,</l>
+	<l id="54">Donnent bien des chevaux et des bêtes à corne.</l>
+	<l id="55">C'est pour cette raison sans doute qu'un Normand</l>
+	<l id="56">Fait, à vous étonner, tant de cuirs en parlant.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="57">Si d'autres font, hélas ! Des cuirs, des barbarismes,</l>
+	<l id="58">Vous faites bien pour tous de fameux gasconismes.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="59">J'allons vous écouter, et mon lieu itou</l>
+	<l id="60">Je compterons vos cuirs.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="61">Les Gascons sont railleurs, critiques, ironiques,</l>
+	<l id="62">Et leurs moindres discours sont tout hyperboliques.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="63">Qu'en penses-tu, Maurin ? Je crois depuis longtemps</l>
+	<l id="64">La réputation de nos braves Normands...</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="65" syll="6" part="i">Et que vous fait-elle ?</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="65" syll="6" part="f">Elle donne un peu prise.</l>
+	<l id="66">On a dit maintes fois qu'ils manquent de franchise.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="67">On vous reproche aussi d'être de grands vantards,</l>
+<note type="L">Hablard : hableur, celui avec vanterie, avec exagération</note>
+	<l id="68">D'avoir trop de jactance et d'être trop hablards.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="69">On sait que les Normands sont de rusés compères.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="70">Les Gascons, à coup sûr, ne sont pas plus sincères.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="71">On dit que les Normands sont retors, madrés, faux.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="72">On sait que les Gascons sont de fameux badauds.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="73">On reproche aux Normands des choses peu gentilles.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="74">On reproche aux Gascons certaines peccadilles.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="75">Les Normands, a-t-on dit, sujets à caution, </l>
+	<l id="76">Ont les doigts bien crochus : est-ce prévention ?</l>
+	<l id="77" syll="6" part="i">Ces dires sont-ils vrais ?...</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="77" syll="6" part="f">Il suffit pour le croire</l>
+	<l id="78">Que ce soit un Gascon qui raconte l'histoire.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="79">On parle des Normands, de leurs ascensions</l>
+	<l id="80">(L'on désigne par là certaines pendaisons).</l>
+	<l id="81">Serait-ce en ce pays que l'on pendrait encore ?</l>
+	<l id="82">Ces bruits sont-ils fondés ? Quant à moi, je l'ignore.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="83" syll="6" part="i">Fables, absurdités !...</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="83" syll="6" part="f">Des incidents fâcheux</l>
+	<l id="84">Pourraient accréditer ces contes odieux.</l>
+	<l id="85">Un jour, certain Normand</l>
+	<l id="86">Faisait cette prière :</l>
+<poem type="prière">
+<lg n="1">
+	<l id="87">Dieu des Normands, daignez m'entendre.</l>
+	<l id="88">Je ne demande point ni de bien, ni d'argent.</l>
+	<l id="89">Dites-moi seulement</l>
+	<l id="90">Où j'en pourrai trouver : je saurai bien le prendre.</l>
+</lg>
+</poem>
+	<l id="91">Ce Normand était franc.</l>
+
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="92">Halte-là, s'il te plaît!... Quoi ! C'est nous faire injure ?</l>
+	<l id="93">Crois-tu que nous serons dupes de l'imposture ?</l>
+	<l id="94">L'on connaît les Gascons et leur célébrité,</l>
+	<l id="95">Conquise en ne disant jamais la vérité.</l>
+	<l id="96">L'on connaît des Gascons toutes les hâbleries.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="97">L'on connaît des Normands toutes les tromperies.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="98">À l'entendre, un Gascon est l'homme incomparable :</l>
+	<l id="99">Brave, humain, généreux, il n'a pas son semblable.</l>
+	<l id="100">Mais le moindre danger rabaisse son caquet...</l>
+	<l id="101">À l'aspect du combat certain Gascon fuyait.</l>
+	<l id="102">(C'était un des enfants des bords de la Garonne,</l>
+	<l id="103">Qu'au moment du péril la valeur abandonne.)</l>
+	<l id="104">Où donc est le courage ? On criait au poltron.</l>
+	<l id="105">- Dans les jambes, dit-il. Voilà le vrai Gascon.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="106">Vous nous connaissez peu; oui, nation guerrière,</l>
+	<l id="107">La bravoure est chez nous un titre héréditaire.</l>
+	<l id="108">L'histoire vous dira par mille exploits nouveaux</l>
+	<l id="109">Que les Gascons sont nés chevaliers et héros.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+<note type="L">Chevalier d'industrie : Gens qui, n'ayant point de bien, subsistent par une adresse malhonnête. [L]</note>
+	<l id="110">Chevaliers_d_industrie, oui, c'est plus vraisemblable ;</l>
+	<l id="111">Mais chevaliers sans peur me paraît peu croyable.</l>
+	<l id="112">Or, écoute le fait que je te conterai : </l>
+	<l id="113">Pour une action meurtrière,</l>
+	<l id="114">À Janot le Gascon on mettait la cuirasse.</l>
+	<l id="115">- Je vous en prie, en grâce,</l>
+	<l id="116">Dit-il, mettez-la par derrière,</l>
+	<l id="117">Le coeur me dit que je fuirai.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="118">On ne peut soupçonner ce que le Normand pense ;</l>
+	<l id="119">L'art de dissimuler, c'est son fort, sa science.</l>
+	<l id="120">S'il ne sait bien cacher en tout son sentiment,</l>
+	<l id="121">Il ne sera, dit-on, jamais un bon Normand.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="122">Le Gascon est futile et léger et frivole.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="123">Mais mieux que le Normand il garde sa parole.</l>
+	<l id="124">Le Normand processif, pour le plus petit gain,</l>
+	<l id="125">Lèvera, s'il le faut, et le pied et la main.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="126">Vainement vous vantez, enfants de la Garonne,</l>
+	<l id="127">Vos rares qualités et la valeur_gasconne :</l>
+	<l id="128">Vertus, gloire et talents, il n'est nul bien chez vous</l>
+	<l id="129">Que, ne vous en déplaise, on ne trouve chez nous.</l>
+	<l id="130">Nous lie descendons point de ces peuples d'esclaves ;</l>
+	<l id="131">Nos aïeux, comme nous, étaient libres et braves :</l>
+	<l id="132" syll="6" part="i">Souviens-toi de Rollon.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="132" syll="6" part="f">Digne chef des Normands,</l>
+<note type="L">Forban : Corsaire, pirate. [L]</note>
+	<l id="133">Peuples dévastateurs, vraie horde de forbans</l>
+	<l id="134">Qu'on a vus dans nos mers, nos fleuves, nos rivières,</l>
+	<l id="135">Promener en tous lieux leurs torches incendiaires,</l>
+	<l id="136">Glacer les coeurs d'effroi par leur invasion,</l>
+	<l id="137">Et répandre partout la terreur de leur nom.</l>
+	<l id="138">Les Français priaient Dieu de sauver leur patrie,</l>
+	<l id="139">Et de la délivrer de la sauvagerie.</l>
+	<l id="140">Mais enfin nos Gascons, devenus vos vainqueurs,</l>
+	<l id="141">Mirent dans l'Aquitaine un terme à vos fureurs.</l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+	<l id="142">Nous fîmes la conquête alors de la Neustrie,</l>
+	<l id="143">Des Normands désormais l'immortelle patrie.</l>
+	<l id="144">Mais pourquoi m'exhumer en ce langage amer,</l>
+<note type="L">Dagobert Ier, né vers 602/605 et mort le 19 janvier 638 ou 639, est un roi des Francs de la dynastie mérovingienne. Fils de Clotaire II, arrière-arrière-petit-fils de Clovis, il règne sur l'Austrasie de 623 à 632 et est roi des Francs de 629 à 639. [WIKIPEDIA]</note>
+	<l id="145">Des faits presque aussi vieux que le roi Dagobert ?</l>
+	<l id="146">Crois-tu que des Gascons, si l'on fouillait l'histoire,</l>
+	<l id="147">On ne trouverait pas de quoi flétrir leur gloire ?</l>
+	<l id="148">Chaque peuple a sa somme et de biens et de maux,</l>
+	<l id="149">Et nous avons tous deux nos vertus, nos défauts.</l>
+	<l id="150">Les Normands ne sont plus la nation altière.</l>
+	<l id="151">S'ils conservent encor de leur humeur guerrière,</l>
+	<l id="152">Mille ans vous ont prouvé qu'ils seront à jamais</l>
+	<l id="153">Citoyens vertueux, chrétiens et bons Français.</l>
+</sp>
+<sp who="LE GASCON"><speaker>LE GASCON.</speaker>
+	<l id="154">Oui, Normands et Gascons, tous enfants de la France,</l>
+	<l id="155">Si des siècles passés nous gardons souvenance,</l>
+	<l id="156">Que ce soit dans le bien, pour suivre nos aïeux</l>
+	<l id="157">Et si nous le pouvons, encor pour faire mieux. </l>
+</sp>
+<sp who="LE NORMAND"><speaker>LE NORMAND.</speaker>
+<stage type="touch">Ils se donnent la main.</stage>
+	<l id="158">Soyons frères, amis, et que toute la vie</l>
+	<l id="159">Notre devise soit : Dieu, parents et patrie.</l>
+</sp>
+</div2>
+<div2 type="compliment" n="2"><head>COMPLIMENT DE CLOTURE.</head>
+<sp who="ORATEUR DU COMPLIMENT"><speaker/>
+<p id="1">
+	<s id="1">Messieurs,</s>
+</p>
+	<l id="160">Les prix, l'honorable couronne</l>
+	<l id="161">Qui viennent de ceindre nos fronts,</l>
+	<l id="162">C'est votre bonté qui les donne</l>
+	<l id="163">En couronnant ses propres dons.</l>
+	<l id="164">Ces lauriers si flatteurs,</l>
+	<l id="165">votre noble suffrage,</l>
+	<l id="166">Dont vous encouragez nos efforts, nos travaux,</l>
+	<l id="167">Ont comblé notre espoir, doublé notre courage</l>
+	<l id="168">Pour en mériter de nouveaux.</l>
+</sp>
+<sp who="AUTRE ORATEUR"><speaker>AUTRE.</speaker>
+<stage type="explicit">Ce compliment est extrait d'un ouvrage de Monsieur Jouffret. On a cru devoir y faire seulement quelques légers changements et quelques suppressions.</stage>
+<p id="1">
+	<s id="1">Messieurs,</s>
+</p>
+	<l id="169">Vous qui dans cette enceinte avez daigné venir,</l>
+	<l id="170">Guidés par la seule indulgence,</l>
+	<l id="171">Vos applaudissements faisaient notre espérance,</l>
+	<l id="172">Nous venons de les obtenir.</l>
+	<l id="173">D'un triomphe si beau notre reconnaissance</l>
+	<l id="174">Conservera le souvenir,</l>
+	<l id="175">Et je puis assurer d'avance</l>
+	<l id="176">Que de notre douce existence</l>
+	<l id="177">Il embellira l'avenir.</l>
+	<l id="178">Pourrions-nous, en effet, tous les jours de la vie,</l>
+	<l id="179">Oublier ce jour glorieux</l>
+	<l id="180">Où nous eûmes la noble envie</l>
+	<l id="181">De nous surpasser à vos yeux !</l>
+	<l id="182">De même que l'on voit éclore.</l>
+	<l id="183">Aux rayons du soleil la verdure et les fleurs,</l>
+	<l id="184">Vos suffrages, messieurs,</l>
+	<l id="185">Laisseront dans nos coeurs</l>
+	<l id="186">La désir de mieux faire encore.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>VIEUX MÉNAGES, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, septembre 2022</publisher>
+			<idno>COURTELINE_VIEUXMÉNAGE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF PHS 8-Z LE SENNE-3573">https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">VIEUX MÉNAGES</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES..</head>
+			<castItem><role id="MADAME PROUTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME PROUTE</role>.</castItem>
+			<castItem><role id="MONSIEUR PROUTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR PROUTE</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 13-17</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>VIEUX MÉNAGES</head>
+<div2 type="scene" n="1"><head/>
+<stage type="date/location/work/wait">Le 31 décembre, Monsieur et Madame Proute sont installée au coin de leur feu, Madame Proute ourle des mouchoirs ; Monsieur Proute, les mains dans les poches, les jambes ouvertes aux flammes de l'âtre, roule dans son cerveau de mystérieuses rêveries.</stage>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE</speaker><stage type="estonish">, qu'étonne le mutisme de son mari.
+</stage>
+<p id="1">
+	<s id="1">À quoi penses-tu, Alexis ?</s>
+</p>
+<stage type="">Haussement d'épaules agacé de Monsieur Proute.</stage>
+<p id="2">
+	<s id="1">Tu ne veux pas me dire à quoi tu penses ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE</speaker><stage type="shout">, éclatant.
+</stage>
+<p id="3">
+	<s id="1">Eh ! </s>
+	<s id="2">Ne le sais-tu pas, à quoi je pense ? </s>
+	<s id="3">Je pense à ta saleté de Jour_de_l_An, parbleu !... </s>
+	<s id="4">Encore être obligé de te f... des étrennes ! </s>
+	<s id="5">En voilà une partie de plaisirs !</s>
+</p>
+</sp>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE.</speaker>
+<p id="4">
+	<s id="1">Tu es bien gentil ; je te remercie.</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE.</speaker>
+<p id="5">
+	<s id="1">Tu n'as ni à me remercier, ni à ne pas me remercier. </s>
+	<s id="2">Qu'est ce que tu nous embêtes, avec tes remerciements ? </s>
+	<s id="3">Je te dis, moi, que quand je vois venir le Jour_de_l_an, les yeux me sortent de la tête, tellement c'est une chose qui me dégoûte, de te souhaiter le bonne année. </s>
+	<s id="4">Ça et ta fête, la Sainte_Virginie, ah ! la la !</s>
+	<s id="5">Si je pouvais en être quitte avec un coup de pied au derrière, tu verrais si ça traînerait !</s>
+</p>
+<stage type="think">À la réflexion.</stage>
+<p id="6">
+	<s id="1">À la rigueur, la Sainte_Virginie, passe encore !... </s>
+	<s id="2">Je te f... un pétunia et allez donc, ça fait le compte. </s>
+	<s id="3">Mais c'est ce cochon de Jour_de_l_An !...</s>
+</p>
+</sp>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE</speaker><stage type="sad">, amère.
+</stage>
+<p id="7">
+	<s id="1">Quelle charmante nature !</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE</speaker><stage type="stand/nervous/walk">, qui s'est levé et qui chemine fiévreusement par le pièce.
+</stage>
+<p id="8">
+	<s id="1">Ce n'est pas une question d'argent, bien sûr !... </s>
+	<s id="2">Je m'en fiche un peu, de l'argent. </s>
+	<s id="3">Non, c'est la même chose de venir le matin, avec un paquet dans les mains et une tête de circonstance, faire le gentil et le gracieux ; Souhaite une bonne année et une parfaite santé...</s>
+</p>
+<stage type="sick">Nausée.</stage>
+<p id="9">
+	<s id="1">Aaaaaa ! </s>
+	<s id="2">Quelle sale corvée, bon Dieu !</s>
+</p>
+</sp>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE.</speaker>
+<p id="10">
+	<s id="1">Il ne faut pas te croire obligé...</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE.</speaker>
+<p id="11">
+	<s id="1">Et ce qui me met hors de moi, surtout, c'est ta sale gueule, dans ce cas-là !</s>
+</p>
+</sp>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE</speaker><stage type="estonish">, suffoquée.
+</stage>
+<p id="12">
+	<s id="1">Ma... sale gueule !</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE.</speaker>
+<p id="13">
+	<s id="1">Oui, ta salle gueule ! </s>
+	<s id="2">Horreur ! </s>
+	<s id="3">Qui saurait dépeindre, en effet, ton odieux et repoussant visage dans cette circonstance de la vie ?</s>
+</p>
+<stage type="explicit">Didactique.</stage>
+<note type="L">Alose : Poisson de mer du genre des clupées ; il remonte au printemps dans les rivières et est bon à manger. [L]</note>
+<p id="14">
+	<s id="1">Une bouche_de_raie, entrebâillée... </s>
+	<s id="2">Des yeux glauques d'alose en extase... </s>
+	<s id="3">C'est ça ! </s>
+	<s id="4">Parfaitement ! </s>
+	<s id="5">C'est ça même !... </s>
+	<s id="6">Une alose qui écouterait jouer de la musique !... </s>
+	<s id="7">Et il me faudrait lécher ça ? </s>
+	<s id="8">Tiens, Virginie, veux-tu que je te dise ? </s>
+	<s id="9">Rien que d'y penser, j'en suis malade.</s>
+</p>
+</sp>
+<sp who="MADAME PROUTE"><speaker>MADAME PROUTE.</speaker>
+<p id="15">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Mais, ne me la souhaite pas, la bonne année.</s>
+</p>
+</sp>
+<sp who="MONSIEUR PROUTE"><speaker>MONSIEUR PROUTE</speaker><stage type="offended">, indigné.
+</stage>
+<p id="16">
+	<s id="1">Tu dis ?... </s>
+	<s id="2">Ne pas te souhaiter ?</s>
+</p>
+<stage type="hurt">Se jetant les bras sur la poitrine.</stage>
+<p id="17">
+	<s id="1">Tu me prends donc pour un goujat ?</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

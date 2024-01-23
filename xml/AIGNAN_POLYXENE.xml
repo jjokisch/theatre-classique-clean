@@ -1,0 +1,1252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>POLYXÈNE, TRAGÉDIE</title>
+			<author type="texte" ISNI="0000 0001 1023 3447">Étienne AIGNAN (1773-1824)</author>
+		</titleStmt>
+		<publicationStmt>
+			<editor>Texte établi par Paul FIEVRE, novembre 2022</editor>
+			<publisher>Publié par Paul FIEVRE décembre 2022</publisher>
+			<idno>AIGNAN_POLYXENE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Tragédie</genre>
+			<inspiration>mythologie</inspiration>
+			<structure>Trois actes</structure>
+			<type>vers</type>
+			<periode>1801-1810</periode>
+			<taille>750-1000</taille>
+			<permalien cote="BnF LLA 8-YTH-14427">https://gallica.bnf.fr/ark:/12148/bpt6k9782277k</permalien>
+		</SourceDesc>
+		<edStmt/>
+</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>			
+			<titlePart type="main">POLYXÈNE</titlePart>
+			<titlePart type="sub">TRAGÉDIE EN TROIS ACTES ET EN VERS</titlePart>
+			<titlePart type="sub">Représentée pour la première fois sur le Théâtre—Français, le 23 nivôse, an 12.</titlePart>
+			<titlePart type="sub">Ilion, ton nom seul a des charmes pour moi. LA FONTAINE.</titlePart>
+		</docTitle> 
+		<docDate value="1804">AN XII. 1804</docDate>
+		<docAuthor id="AIGNAN, Étienne">PAR M. AIGNAN.</docAuthor>
+		<docImprint>
+			<editor>À PARIS, CHEZ LES MARCHANDS DE NOUVEAUTÉS.</editor>
+			<printer id="ÉGRON">DE L'IMPRIMERIE D'A. ÉGRON, RUE DES NOYERS.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1804-01-23" location="(non représentée)">Représentée pour la première fois sur le Théâtre—Français, le 23 nivôse, an 12.</premiere>
+		</performance>
+	<div type="avant-propos"><head>AVANT-PROPOS.</head>
+		<p>Le projet d'exciter un violent tumulte à la première représentation de cette pièce, a été manifestement conçu et scandaleusement exécuté. Huit ou dix de ces turbulents, que Gresset appelle insectes et tyrans du parterre, se sont établis les dominateurs de l'assemblée; ils ont révolté, par leurs excès, tous les spectateurs honnêtes; et les journaux, même les plus sévères, se sont fait un devoir de répéter le cri de l'indignation universelle.</p>
+		<p>Qu'il me soit permis d'insister sur le préjudice que causent aux lettres ces dégoûts dont leur culture est abreuvée. Une anecdote, que l'on chercherait vainement dans les historiens anciens, mais qui pourtant est très-authentique, aura plus de poids que tous les lieux communs dans lesquels je pourrais me jeter.</p>
+
+		<p>César, l'un des savants les plus éclairés, en même temps que le plus grand capitaine et le premier homme d'état de son siècle, César venait d'honorer de sa présence la première représentation d'une tragédie nouvelle. Ce grand homme, qui voulait qu'il naquît des Virgile et des Horace dans cette Rome qu'il avait fait la maîtresse du monde, s'était promis d'examiner avec intérêt le premier essai d'un jeune poète; mais au lieu du délassement calme qu'il était allé chercher, il n'avait trouvé qu'un affreux tumulte, et n'avait entendu, à la place d'une tragédie, que des cris et des hurlements. Rentré dans son palais avec Antoine, Cicéron, Sosigène, et quelques autres personnages illustres, il s'affligea de ce qu'il venait de voir. « Une tragédie, dit-il, à ceux qui l'entouraient, mérite toujours qu'on l'entende et qu'on la juge avec calme. Le public, sans recourir à de violentes exécutions, a bientôt mis à leur place toutes les productions de ce genre, qui lui sont soumises. » Cicéron ajouta: « Si ce désordre continue, n'espérons pas d'avoir jamais des Sophocle et des Euripide. » Et les Romains n'eurent en effet qu'un Sénèque.</p>
+		
+		<p>Cependant la persécution suscitée contre Polyxène n'a pas été sans avantage pour son auteur; il en est résulté d'abord en sa faveur un redoublement assez général d'intérêt. Chacun s'est dit : Autrefois on tendait une main secourable au jeune athlète qui descendait pour la première fois dans la lice; aujourd'hui l'on se fait un jeu barbare de sa chute, ou plutôt on s'y prend de manière à la rendre inévitable. Voilà ce que tout le monde a répété: c'est affreux, s'écriait-on de toutes parts ; oui, mais pourtant il est tombé, ajoutait-on l'instant d'après; et cette dernière impression, trop habilement calculée de la part de ceux qui ont ourdi leur trame, a été bientôt la seule qui ait subsisté dans les esprits. Il a été facile de s'en apercevoir aux représentations suivantes. À la vérité, un public attentif et calme a consolé l'auteur par de nombreux applaudissements ; à la vérité, les gens instruits ont daigné accorder un peu d'estime à un essai dans lequel ils ont cru démêler la trace de quelques saines études, et le germe de quelques espérances; mais cette indulgence même n'a pas été dégagée des préventions défavorables que laissait le premier jugement; la cause, au lieu d'être évoquée entre le public et l'auteur, l'a été entre l'auteur et ses ennemis ; on a cru être juste en n'accordant pas à ceux-ci précisément tout ce qu'ils voulaient; on s'est érigé en tribunal académique pour juger la pièce, hémistiche par hémistiche ; on a condamné le sujet à cause de sa ressemblance avec lphigénie ; cependant Euripide qui a fait l'Iphigénie grecque, a fait aussi une Polyxène. On a trouvé l'ouvrage trop simple, et même un peu nu, surtout au dernier acte, et je souscris à cet arrêt; mais ce défaut qui, peut-être était inévitable, aurait moins frappé et n'aurait pas paru, je pense, destructif de tout intérêt, si l'on s'était livré avec plus d'abandon aux situations qui préparent la catastrophe, et si les spectateurs les plus judicieux et les plus impartiaux n'avoient pas, sans s'en apercevoir, subi jusqu'à un certain point l'influence des agitateurs.</p>
+
+		<p>C'était quelque chose pour ceux-ci qu'un pareil succès; ce n'étoit point encore assez: il paraît que la tactique du jour est de tâcher de tuer l'auteur, afin de tuer plus sûrement son ouvrage. Fables absurdes et contradictoires, pamphlets, lettres anonymes, tous les vils moyens de la méchanceté ont été mis en usage; je ne voulais pas croire â cet odieux et inconcevable déchaînement; mais j'ai lu, j'ai entendu. C'est une affligeante découverte pour quiconque cherche à se distinguer dans les arts, que de voir qu'il lui faut faire, à des goûts autrefois honorés, le sacrifice de son repos et presque de sa réputation. Oui, j'en ai acquis la preuve; en vain des fonctions honorables, des amis distingués, l'amour de l'étude et de la retraite, l'abnégation absolue de toute prétention, le respect le plus scrupuleux de vous-même dans votre conduite, dans vos relations, dans vos écrits, formeront-ils autour de vous une barrière, pour ainsi dire, sacrée; malgré tout cela, et peut-être même à cause de tout cela, dès que vous éveillerez l'envie, vous serez en butte à ses plus cruelles attaques: plus vous mériterez d'égards, et moins vous en obtiendrez. Si votre caractère, vos principes, votre position vous permettaient de descendre aux basses ressources de l'intrigue, ceux à qui elles sont familières vous haïraient moins, et vous craindraient davantage; mais ils perdent toute mesure, lorsqu'ils voient dans votre conduite la censure de la leur, et dans votre modération le gage de leur impunité.</p>
+
+		<p>Que j'étais loin de savoir, en offrant sur les autels des Muses mon premier encens, combien leurs sourires sont cruels et quelle amertume doit un jour en empoisonner la douceur! Je n'avais pas vingt ans, et déjà, sous la sanglante oligarchie, j'avais mérité les honneurs de la proscription. Je trouvai un asile à Meung-sur-Loire, dans la retraite du célèbre et malheureux Olavidès*. Ce vénérable vieillard avoit pour moi la tendresse d'un père, et, en retour, je lui offrais tout le respect et tout l'amour d'un fils. Sa taille et sa figure majestueuse, l'aimable gravité de ses discours, le feu du génie qui étincelait encore dans ses yeux, des restes même de la fierté castillane tempérés par une piété douce et tolérante, tout cela parlait puissamment à mon imagination. Jamais Télémaque ne goûta un charme plus doux dans les entretiens de Termosiris ; jamais il ne prêta une oreille plus attentive à ses sages leçons. Transporté par la beauté des lieux que j'habitais et par le calme profond dont ils jouissaient au milieu de la tourmente révolutionnaire, je fis éclore, sous les yeux de mon vieil et illustre ami, les premiers essais d'une muse timide qu'il ne dédaigna pas d'encourager.</p>
+
+		<p>Bientôt une occasion se présenta de me produire au grand jour. L'horizon politique s'était éclairci par degrés. Cette municipalité d'Orléans qui, sous le régime directorial, se montra plus d'une fois la consolatrice des opprimés, venait de commencer l'exercice de ses fonctions, et elle m'avait associé à ses travaux en qualité de secrétaire. Elle voulut jeter quelques fleurs sur la tombe des victimes enlevées à la ville d'Orléans dans les jours du deuil, et pour récompenser eu moi quelques actes de dévouement qui portaient avec eux leur récompense, elle daigna mis confier ce ministère honorable de piété publique. Je l'ai rempli avec courage, ou plutôt avec enthousiasme; et quoiqu'il m'ait suscité d'implacables ennemis, je m'en applaudirai toujours. Il est impossible de décrire l'impression que produisirent les vers suivants lorsqu'ils furent dits sur le théâtre d'Orléans par M. Talma, qui, sur l'invitation des magistrats, étoit venu embellir de son talent cette cérémonie funèbre:</p>
+		
+		<p type="v">Parents infortunés, qu'une trompeuse paix</p>
+		<p type="v">Loin de ces lieux d'horreur nourrit dans l'espérance,</p>
+		<p type="v">Quels soins, quels tendres soins consolent votre absence?</p>
+		<p type="v">Vous étendez les bras vers des objets chéris;</p>
+		<p type="v">L'épouse à son époux, et la mère à son fils</p>
+		<p type="v">Préparent en secret des plaisirs et des fêtes.</p>
+		<p type="v">Des fêtes, des plaisirs ! quand déjà sur leurs têtes</p>
+		<p type="v">La mort plane, et contr'eux épuisant son courroux,</p>
+		<p type="v">Semble, pour les frapper, multiplier ses coups.</p>
+		<p type="v">O déchirante image ! Ô souvenir funeste!</p>
+		<p type="v">Je me trouble.... Ah ! comment, comment peindre le reste?</p>
+		<p type="v">Dans le char de la mort je les ai vu couchés,</p>
+		<p type="v">Chargés de fers, les yeux à la terre attachés.</p>
+		<p type="v">............................</p>
+		<p type="v">Tout à coup, d'une femme éplorée, éperdue,</p>
+		<p type="v">Les lamentables cris font retentir la nue.</p>
+		<p type="v">« C'est lui—même, c'est lui; barbares, laissez — moi;</p>
+		<p type="v">&gt;&gt; Cher époux, je te suis, et j'expire avec toi. &gt;&gt;</p>
+		<p type="v">L'un de ces malheureux, d'une voix affaiblie:</p>
+		<p type="v">« Je péris, innocent, dit-il, ô mon amie,</p>
+		<p type="v">Reçois mes derniers vœux et mon dernier soupir;</p>
+		<p type="v">&gt;D'un époux qui t'aima, garde un long souvenir ;</p>
+		<p type="v">On nous sépare.... Adieu. » L'épouse infortunée</p>
+		<p type="v">Par le char qu'elle embrasse, elle-même est traînée;</p>
+		<p type="v">On l'arrache expirante; on conduit au trépas</p>
+		<p type="v">Ceux qu'un peuple tremblant pleure, et ne défend pas ;</p>
+		<p type="v">Ils meurent, et le ciel, qui voit trancher leur vie,</p>
+		<p type="v">Recueille encor les vœux qu'ils font pour la patrie.</p>
+		
+		<p>Cependant l'administration vint bientôt me distraire entièrement de la littérature, et je ne trouvai de loisirs pour les Muses qu'après avoir partagé, au 18 fructidor, la destitution des magistrats dont j'avais partagé les travaux. J'essayai alors mes forces dans le genre didactique et traduisis en vers l'Essai sur la Critique et quelques Épîtres de Pope. Le genre austère de cet ouvrage, l'époque à laquelle al a été publié, et surtout le nom inconnu de son auteur qui n'habitait point Paris, ne permettaient pas d'espérer qu'il eût de nombreux lecteurs. Je me propose de le revoir avec sévérité et de le rendre moins indigne des éloges qu'ont bien voulu lui donner quelques gens de lettres.</p>
+
+		<p>Enfin Je 18 brumaire vint r'ouvrir la carrière administrative à ceux à qui le 18 fructidor l'avait fermée. La députation du Loiret daigna se souvenir de moi, et je fus agréablement surpris d'apprendre, dans ma retraite, que j'étais présenté pour exercer les fonctions nouvellement créées de secrétaire-général de la préfecture de mon département. Quelque flatteuse que fut pour moi cette distinction, je m'empressai d'écrire à la députation pour la refuser, parce que je n'aurais pu la recevoir qu'au préjudice d'un homme estimable, dont, les droits à cette place oient plus directs que les miens. Je fus appelé à Bourges par le préfet du Cher, pour le seconder dans ses travaux, et lorsque ce même magistrat fut rapproché, sous un autre titre, de la personne du chef de l'état, celui qui, pendant sa première administration, avait su lui inspirer quelqu'estime, trouva à Paris une place honorable auprès de ses nouveaux collègues et de lui.</p>
+
+		<p>Combien je fus heureux lorsque je me vis transporté dans le sanctuaire des sciences et des arts! Une tragédie que j'avais fait recevoir depuis plusieurs années, ne me parut pas digne d'être offerte aux regards du public. Comme j'aspirais à un succès, durable et avoué par le goût, je conçus le projet de retracer sur la scène une de ces grandes époques de l'histoire, où l'on voit se changer presque entièrement la face du globe, et éclore du génie et de la politique d'un seul homme ces combinaisons nouvelles, dont les résultats se font sentir aux générations les plus reculées. Mais à peine avais-je commencé cette nouvelle entreprise, qu'une juste défiance de moi-même vint encore en suspendre l'exécution. Je voulus qu'un essai plus modeste me révélât et peut-être augmentât la mesure de mes forces. Passionné pour le théâtre des Grecs, je crus qu'une action simple et homérique aurait de l'attrait pour des spectateurs dégoûtés des productions romanesques de l'école anglaise et je pris deux scènes d'Euripide avec les noms d'Agamemnon, d'Ulysse, d'Hécube et de Polyxène, pour en composer une tragédie en trois actes, sans épisodes et sans amour. Les suffrages des gens de lettres les plus distingués m'encouragèrent à mettre au jour cet ouvrage, pour lequel je profitai du tour de représentation acquis par ma première tragédie. Avec quel soin je l'aurais renfermé dans mon porte-feuille, si j'avais pu prévoir à quel déchaînement il devait donner lieu! Puissent les gens de lettres qui vont se présenter après moi dans cette périlleuse carrière être accueillis avec plus de décence! mais si les mêmes scènes se renouvelaient, si l'intrigue s'agitait avec le même acharnement, tout homme qui se respecte rougirait de s'exposer à de semblables épreuves, et, en voyant les jeux de Melpomène transformés en mi pugilat, sa seule ressource serait de dire comme le vieil Entelle :</p>
+		<p type="v">Hìc cestus artemque depono.*</p>
+		<p>* Je renonce pour toujours au ceste et à mon art.</p>
+		<p>ENÉID. liv. v.</p>
+
+		<p>* Ancien vice-roi de la Sienna-Morena, connu en France sous le nom de comte de Pilos. Il vient de mourir en Espagne où il avoit été rappelé, après avoir été proscrit pendant plus de vingt ans par l'inquisition.</p>
+	</div>
+  <castList><head>PERSONNAGES.	ACTEURS.</head>
+		<castItem><role id="AGAMEMNON" sex="1" type="H" statut="roi" age="A" stat_amour="néant">AGAMEMNON</role>,	M. SAINT-PRIX.</castItem>
+		<castItem><role id="ULYSSE" sex="1" type="H" statut="roi" age="A" stat_amour="néant">ULYSSE</role>,	M. TALMA.</castItem>
+		<castItem><role id="HÉCUBE" sex="2" type="H" statut="roi" age="A" stat_amour="néant">HÉCUBE</role>,	Mlle. DUCHESNOIS.</castItem>
+		<castItem><role id="POLYXÈNE" sex="2" type="H" statut="prince" age="J" stat_amour="néant">POLYXÈNE</role>,	Mlle. VOLNAIS.</castItem>
+		<castItem><role id="IPHISE" sex="2" type="H" statut="aristocrate" age="J" stat_amour="néant">IPHISE</role>, dame troyenne.	Mlle. THÉNARD.</castItem>
+		<castItem><role id="UN SOLDAT GREC" sex="1" type="H" statut="soldat" age="A" stat_amour="néant">UN SOLDAT GREC</role>.	M. DESPRÉS.</castItem>
+		<castItem><role id="DEUX TROYENNES" sex="2" type="H" statut="peuple" age="A" stat_amour="néant">DEUX TROYENNES</role>.</castItem>
+		<castItem><role id="SOLDATS" sex="1" type="H" statut="soldats" age="A" stat_amour="néant">SOLDATS</role>.</castItem>
+	</castList>
+	<set location="Troie" country="Turquie" periode="Temps mythologiques" gps="39.957480, 26.238895">La scène est sur les débris de Troie.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<stage type="decor">Le théâtre représente les ruines de Troie et les tombeaux des princes troyens : celui d'Hector est le plus apparent. Dans l'enfoncement on voit les tentes et les vaisseaux des Grecs.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage type="alone">, seul.
+</stage>
+<stage type="explicit">Les vers marqués de guillemets peuvent être supprimés à la  représentation.</stage>
+	<l id="1">Pyrrhus, que m'as-tu dit ? Ô nuit terrible et sombre,</l>
+	<l id="2">Quel secret, quel prodige est sorti de ton ombre ?</l>
+	<l id="3">Le ciel aux Grecs enfin permet-il le retour ?......</l>
+	<l id="4">Mais je vois éclater les premiers feux du jour ;</l>
+	<l id="5">Pyrrhus, par mes conseils, garde encor le silence ;</l>
+	<l id="6">Il soumet son ardeur au frein de ma prudence.</l>
+	<l id="7">Du coeur d'Agamemnon tâchons de m'emparer ;</l>
+	<l id="8">À servir mes desseins je veux le préparer.</l>
+	<l id="9">Le voici... Présentons à son âme attendrie</l>
+	<l id="10">Ce charme si puissant de revoir la patrie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Agamemnon, Ulysse.
+</stage>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="11">Ils sont enfin tombés, Seigneur, ces murs fameux,</l>
+	<l id="12">Par les dieux élevés, et défendus par eux ;</l>
+	<l id="13">La Grèce, sous vos lois, triomphe de l'Asie ;</l>
+	<l id="14">Nos bras ont renversé l'empire de Phrygie,</l>
+	<l id="15">Et bientôt, au milieu de la destruction,</l>
+	<l id="16">Le voyageur en vain va chercher Ilion.</l>
+	<l id="17">Quelques pressentiments me permettent de croire</l>
+	<l id="18">Que nos noms à jamais vivront dans la mémoire.</l>
+	<l id="19">Oui, nos derniers neveux vous connaîtront encor,</l>
+	<l id="20">Achille, Agamemnon, Diomède, Nestor ;</l>
+	<l id="21">J'ose à de tels guerriers associer Ulysse ;</l>
+	<l id="22">Des combats avec eux j'ai parcouru la lice.</l>
+	<l id="23">Je ne m'en défends point ; après ces longs travaux,</l>
+	<l id="24">Je compte sur deux prix : la gloire... et le repos.</l>
+	<l id="25">Oh ! quel bonheur pour moi de revoir mon Ithaque,</l>
+	<l id="26">D'embrasser Pénélope et mon fils Télémaque,</l>
+	<l id="27">Et de rentrer vainqueur dans ces mêmes états,</l>
+	<l id="28">D'où m'exila dix ans l'affront de Ménélas !</l>
+	<l id="29">Vous, seigneur, que surtout cette cause intéresser,</l>
+	<l id="30">Vous, le roi de vingt rois, et le chef de la Grèce,</l>
+	<l id="31">Jouissez dans Argos d'un tel excès d'honneur,</l>
+	<l id="32">Et d'un affront vengé savourez la douceur.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="33">Oui, Seigneur, en effet, il serait impossible</l>
+	<l id="34">Qu'à ces prospérités mon coeur fût insensible ;</l>
+	<l id="35">Sans doute il en jouit ; mais je vous l'avouerai,</l>
+	<l id="36">Ce coeur, comme autrefois, n'en est plus enivré ;</l>
+	<l id="37">Et, soit que le guerrier qu'irritait une offense,</l>
+	<l id="38">Alors qu'il est vengé, déplore sa vengeance ;</l>
+	<l id="39">Soit que le sort affreux de Priam, de sa cour,</l>
+	<l id="40">Amène sur moi-même un douloureux retour ;</l>
+	<l id="41">De ces scènes de sang, d'horreur et de carnage,</l>
+	<l id="42">Je ne puis effacer la trop funeste image ;</l>
+	<l id="43">Tout le bonheur d'Atride en est empoisonné.</l>
+	<l id="44">Seigneur, je vois toujours un prince infortuné,</l>
+	<l id="45">Que de l'autel en vain couvrait le privilège,</l>
+	<l id="46">Tomber, en l'embrassant, sous le fer sacrilège ;</l>
+	<l id="47">Par l'avide soldat ses temples saccagés,</l>
+	<l id="48">Dans son palais en feu ses enfants égorgés ;</l>
+	<l id="49">J'entends encor leurs cris ; je vois encor la flamme</l>
+	<l id="50">Dévorer les remparts et les tours de Pergame,</l>
+	<l id="51">Et, pour comble d'horreur, ses nombreux habitants</l>
+	<l id="52">Périr ensevelis sous ses débris fumants.</l>
+	<l id="53">De tels excès, seigneur, flétriront notre gloire ;</l>
+	<l id="54">Trop de sang a souillé cette grande victoire.</l>
+	<l id="55">Non, si l'on m'a voit cru, je n'aurais pas permis</l>
+	<l id="56">Que l'on fût sans pitié pour de tels ennemis ;</l>
+	<l id="57">Des chefs et des soldats modérant la furie,</l>
+	<l id="58">Roi, j'aurais d'un vieux roi voulu sauver la vie ;</l>
+	<l id="59">Je n'aurais pas souffert que son sang généreux,</l>
+	<l id="60">Versé sur ses autels, en eût éteint les feux,</l>
+	<l id="61">Et, dans le camp vainqueur, indignement traînées,</l>
+	<l id="62">Ses filles et sa veuve, à servir condamnées,</l>
+	<l id="63">N'attendraient pas du sort les odieuses lois</l>
+	<l id="64">Qui vont donner un maître aux rejetons des rois.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="65">Je gémis comme vous des malheurs de la guerre,</l>
+	<l id="66">Et l'on ne m'a point vu, féroce et sanguinaire,</l>
+	<l id="67">Par mon exemple ici, seigneur, autoriser</l>
+	<l id="68">Des excès que la nuit n'a pu faire excuser.</l>
+	<l id="69">Mais enfin ce n'est point sur de telles pensées</l>
+	<l id="70">Que les âmes des Grecs doivent être fixées.</l>
+	<l id="71">Que Pyrrhus ait vengé sur le père d'Hector</l>
+	<l id="72">Des blessures sans nombre et qui saignent encor ;</l>
+	<l id="73">De sa persévérance à retenir Hélène</l>
+	<l id="74">Que ce roi malheureux ait trop subi la peine ;</l>
+	<l id="75">Qu'Hécube et Polyxène, abaissant leurs grands coeurs,</l>
+	<l id="76">Courbent un front royal sous le joug des vainqueurs ;</l>
+	<l id="77">Que l'une ait vu périr ses fils, l'autre ses frères,</l>
+	<l id="78">Ce sont là des combats les effets ordinaires,</l>
+	<l id="79">Et comme dans Pergame, il est dans votre Argos</l>
+	<l id="80">Des enfants orphelins, des veuves de héros.</l>
+	<l id="81">Bannissez donc, seigneur, une pitié funeste,</l>
+	<l id="82">Et si de Troie encor le souvenir vous reste,</l>
+	<l id="83">Que ce soit pour trouver des charmes plus puissants,</l>
+	<l id="84">À revoir vos foyers abandonnés dix ans.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="85">Ô ! Que puissent les dieux, fléchis par nos hommages,</l>
+	<l id="86">Détourner loin de nous les sinistres présages</l>
+	<l id="87">Dont le retour des Grecs, seigneur, est menacé !</l>
+	<l id="88">L'avenir, je le crains, vengera le passé.</l>
+	<l id="89">Si j'en crois Apollon qui, pour se faire entendre,</l>
+	<l id="90">Inspire quelquefois sa prêtresse Cassandre,</l>
+	<l id="91">Je dois à mon retour, monarque infortuné,</l>
+	<l id="92">Par le bras le plus cher, périr assassiné ;</l>
+	<l id="93">Et vous même, seigneur, oui, vous, fils de Laërte,</l>
+	<l id="94">Par combien de périls semés pour votre perte,</l>
+	<l id="95">Par combien de travaux n'achèterez-vous pas</l>
+	<l id="96">Le bonheur de rentrer en roi dans vos états ?</l>
+	<l id="97">Tout des dieux contre nous annonce la colère ;</l>
+	<l id="98">Neptune est à nos voeux redevenu contraire ;</l>
+	<l id="99">Le silence des vents et le calme des eaux,</l>
+	<l id="100">À la rive troyenne enchaînent nos vaisseaux,</l>
+	<l id="101">Et trompant nos efforts, les voiles essayées</l>
+	<l id="102">Sont dans les airs muets vainement déployées.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="103">Faut-il nous étonner, seigneur, si contre nous</l>
+	<l id="104">Éclate enfin du ciel le terrible courroux ?</l>
+	<l id="105">Les Grecs victorieux, trop occupés d'eux-mêmes,</l>
+	<l id="106">Négligent d'apaiser, par des honneurs suprêmes,</l>
+	<l id="107">Les mânes des guerriers à qui la loi du sort,</l>
+	<l id="108">Dans les champs phrygiens a fait trouver la mort.</l>
+	<l id="109">Ne rougissent-ils pas que des peuples barbares,</l>
+	<l id="110">D'offrandes et de voeux se montrent moins avares ?</l>
+	<l id="111">Voyez ce monument, qu'au plus grand des Troyens</l>
+	<l id="112">Bâtit la piété de ses concitoyens ?</l>
+	<l id="113">Chaque jour, si longtemps qu'a subsisté Pergame,</l>
+	<l id="114">Mon oeil, d'un sacrifice y vit briller la flamme,</l>
+	<l id="115">Et même, maintenant que Pergame n'est plus,</l>
+	<l id="116">Hécube y porte encor de funèbres tributs.</l>
+	<l id="117">D'Achille cependant la tombe négligée</l>
+	<l id="118">Par nos ingrates mains d'aucuns dons n'est chargée,</l>
+	<l id="119">Seigneur, et d'Ilion le valeureux vainqueur,</l>
+	<l id="120">Repose aux champs troyens, sans gloire et sans honneur.</l>
+	<l id="121">Qui sait par quelle offrande..... ou par quelle victime</l>
+	<l id="122">Les Grecs de leur oubli devront laver le crime ?</l>
+	<l id="123">D'Achille, chaque nuit, les mânes courroucés</l>
+	<l id="124">Par des traits éclatants se décèlent assez ;</l>
+	<l id="125">Du fond du monument où repose sa cendre,</l>
+	<l id="126">Des cris plaintifs et sourds souvent se font entendre ;</l>
+	<l id="127">On a vu du tombeau des flammes s'élancer,</l>
+	<l id="128">Et la foudre en éclats vient de nous menacer.</l>
+	<l id="129">Mais déjà, pour régler le destin des captives,</l>
+	<l id="130">Tous nos chefs empressés s'assemblent sur ces rives ;</l>
+	<l id="131">Venez, Agamemnon, ensemble il faut agir,</l>
+	<l id="132">Et d'un indigne oubli les faire enfin rougir.</l>
+	<l id="133">Hâtons-nous ; des Troyens je vois venir la reine</l>
+	<l id="134">Que soutient à pas lents sa fille Polyxène ;</l>
+	<l id="135" syll="6" part="i">Il faut les éviter.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="135" syll="6" part="f">Les éviter, seigneur !</l>
+	<l id="136">Atride ne fuit point à l'aspect du malheur.</l>
+	<l id="137">À nos chefs toutefois, annoncez ma présence ;</l>
+	<l id="138">Mais si je puis d'Hécube adoucir la souffrance,</l>
+	<l id="139">Je veux remplir d'abord ce soin cher et sacré,</l>
+	<l id="140">Que les dieux à mon coeur ont eux-même inspiré.</l>
+<stage type="exit">Ulysse sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Agamemnon, Hécube, Polyxène, Troyennes.
+</stage>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="141">Voilà donc cette reine autrefois si puissante !</l>
+	<l id="142">Superbe, elle régnait sur les peuples du Xanthe ;</l>
+	<l id="143">Captive maintenant, le front humilié,</l>
+	<l id="144">Elle est pour ses vainqueurs un objet de pitié.</l>
+<stage type="away/location">Agamemnon se retire un moment dans sa tente.</stage>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="145">Ô femmes d'Ilion, soutenez ma faiblesse ;</l>
+	<l id="146">Ma fille, aidez les pas de ma lente vieillesse ;</l>
+	<l id="147">Pour la dernière fois, que je contemple encor</l>
+	<l id="148">Les cendres de Pergame et le tombeau d'Hector.</l>
+	<l id="149">Au moment de subir un cruel esclavage,</l>
+	<l id="150">Par de tristes adieux saluons ce rivage,</l>
+	<l id="151">Où tant de souvenirs, si puissants sur mon coeur,</l>
+	<l id="152">Même en l'entretenant, consolent ma douleur.</l>
+	<l id="153">Voici ce sanctuaire, où nos mains triomphantes</l>
+	<l id="154">Consacraient des vaincus les dépouilles sanglantes ;</l>
+	<l id="155">Il n'offre plus à l'oeil que d'informes débris ;</l>
+	<l id="156">Il ne retentit plus que de lugubres cris.</l>
+	<l id="157">Je cherche vainement, au sein de ma misère,</l>
+	<l id="158">Ce superbe palais où reine, épouse et mère,</l>
+	<l id="159">Hécube nourrissait tant de sujets d'orgueil :</l>
+	<l id="160">Il est de tous les miens devenu le cercueil.</l>
+	<l id="161">Mais quelqu'un vient à nous. Me trompé-je ? est-ce Atride ?</l>
+	<l id="162">Ma fille, ah ! Je vois trop quel intérêt le guide.</l>
+	<l id="163">Comme de vils troupeaux, partageant les vaincus,</l>
+	<l id="164">On a donné des fers au sang d'Assaracus,</l>
+	<l id="165">Et l'on vient annoncer à de tristes captives</l>
+	<l id="166">Qu'enfin de la Troade il faut quitter les rives.</l>
+	<l id="167">Eh bien, apprenez donc à la fille des rois</l>
+	<l id="168">En quels lieux de sa chaîne il faut traîner le poids.</l>
+	<l id="169">Devons-nous habiter les déserts de l'Élide,</l>
+	<l id="170">Ou la stérile Ithaque, ou la riche Argolide ?</l>
+	<l id="171">Ah ! Quels qu'ils soient, les lieux sont tous indifférents</l>
+	<l id="172">À qui descend du trône et sert sous des tyrans.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="173">Non, le sort, qui signale envers vous son caprice,</l>
+	<l id="174">N'a point permis encore une telle injustice,</l>
+	<l id="175">Et si d'Agamemnon l'avis est écouté,</l>
+	<l id="176">Vos malheurs, votre rang, tout sera respecté ;</l>
+	<l id="177">Hécube et ses enfants seront libres, Madame.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="178">Qu'entends-je ? À la pitié vous ouvririez votre âme !</l>
+	<l id="179">Les Grecs la connaîtraient ! Les Grecs pourraient, grands dieux,</l>
+	<l id="180">Nous laisser la douceur de pleurer en ces lieux !</l>
+	<l id="181">Je pourrais d'Ilion fouler encor la cendre !</l>
+	<l id="182">On ne m'envierait point les rives du Scamandre !</l>
+	<l id="183">Prêtresse des tombeaux, il me serait permis</l>
+	<l id="184">D'évoquer sur ces bords les mânes de mes fils !</l>
+	<l id="185">Seigneur, soyez l'appui de ma triste vieillesse ;</l>
+	<l id="186">Intéressez pour nous les princes de la Grèce :</l>
+	<l id="187">Montrez-vous généreux après tant de fureurs :</l>
+	<l id="188">Je pourrai vivre encore, après tant de malheurs.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="189">Oui, je cours vous défendre ; Agamemnon, Madame,</l>
+	<l id="190">Va tâcher d'acquérir quelques droits sur votre âme :</l>
+	<l id="191">Heureux si j'adoucis, à force de bienfaits,</l>
+	<l id="192">Les maux que, par nos mains, le destin vous a faits !</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Hécube, Polyxène.
+</stage>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="193">Quoi ! Madame ! Un rayon d'une fausse espérance</l>
+	<l id="194">Peut-il tromper ainsi votre vive souffrance ?</l>
+	<l id="195">Les Grecs, qui devraient bien vous être mieux connus,</l>
+	<l id="196">Sans retour ont proscrit le sang de Dardanus.</l>
+	<l id="197">Eux, nous laisser ici ! N'en croyez rien, Madame.</l>
+	<l id="198">Ah ! Loin de respecter les débris de Pergame,</l>
+	<l id="199">Les barbares qu'ils sont, ils veulent, dans ses rois,</l>
+	<l id="200">L'écraser, s'il se peut, une seconde fois.</l>
+	<l id="201">Quelle gloire pour eux, qu'Hécube et Polyxène,</l>
+	<l id="202">Conduites en Ithaque, à Sparte ou dans Mycène,</l>
+	<l id="203">Ornent le char pompeux de vainqueurs inhumains !</l>
+	<l id="204">Aux emplois les plus vils ils réduiront nos mains ;</l>
+	<l id="205">Leurs femmes se feront de cruelles délices</l>
+	<l id="206">De nous assujettir à d'insultants caprices :</l>
+	<l id="207">Voilà ce que du sort nous réservent les coups ;</l>
+	<l id="208">Voilà cette pitié que les Grecs ont pour nous.</l>
+	<l id="209">Mais d'une multitude ardente, forcenée,</l>
+	<l id="210">N'entends-je pas au loin la clameur effrénée ?</l>
+	<l id="211">Ah ! Ne demeurons pas plus longtemps en ces lieux ;</l>
+	<l id="212">Dérobons-nous, Madame, à ces cris odieux.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="213">Le malheur, dont j'ai fait un long apprentissage,</l>
+	<l id="214">À tout souffrir, ma fille, endurcit mon courage.</l>
+	<l id="215">Rentrez, laissez-moi seule au milieu des tombeaux ;</l>
+	<l id="216">L'infortune y sourit à l'espoir du repos.</l>
+<stage type="exit">Polyxène sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="HÉCUBE"><speaker>HÉCUBE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="217">Oui, d'une illusion je flattais ma misère ;</l>
+	<l id="218">Ma fille, il est trop vrai, ta déplorable mère</l>
+	<l id="219">Succombant sous l'excès de sa juste douleur,</l>
+	<l id="220">Va donc te voir passer au pouvoir d'un vainqueur !</l>
+	<l id="221">Quel destin, dieux puissants, pour une infortunée</l>
+	<l id="222">Qu'attendait dans Pergame un si noble hyménée !</l>
+	<l id="223">Hélas ! elle est bien jeune, et doit souffrir longtemps.</l>
+	<l id="224">Mon sort est moins affreux ; ah ! Du moins mes vieux ans</l>
+	<l id="225">M'annoncent que bientôt l'heureux moment arrive</l>
+	<l id="226">Où la mère d'Hector ne sera plus captive.</l>
+	<l id="227">Ô toi, mon cher Hector ! Objet de mon amour,</l>
+	<l id="228">J'espérai d'Ilion tant que tu vis le jour.</l>
+	<l id="229">Hélas ! Si moins d'ardeur eût transporté ton âme,</l>
+	<l id="230">J'admirerais encor la grandeur de Pergame.</l>
+	<l id="231">Hélène, impur fléau des miens, de mes états,</l>
+	<l id="232">Puisse des dieux sur toi s'appesantir le bras !</l>
+	<l id="233">Puisse des vastes mers la fureur vengeresse</l>
+	<l id="234">Te fermer à jamais le chemin de la Grèce,</l>
+	<l id="235">T'engloutir, et vomir sur d'arides déserts</l>
+	<l id="236">Ce corps dont la beauté désola l'univers !</l>
+	<l id="237">Mais Iphise paraît : son maintien, son visage,</l>
+	<l id="238">Du malheur que j'attends sont pour moi le présage.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Hécube, Iphise.
+</stage>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="239">Ah ! Parle, ne crains pas d'irriter mes douleurs ;</l>
+	<l id="240">Mes yeux sont, tu le sais, accoutumés aux pleurs.</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="241" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="241" syll="10" part="f">Les Grecs, sans doute, ont, dans cette journée,</l>
+	<l id="242">De ma fille et de moi réglé la destinée.</l>
+	<l id="243">Explique-toi ; je puis supporter tous les coups :</l>
+	<l id="244">N'ai-je pas vu périr mes fils et mon époux ?</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="245">Vos malheurs sont comblés ; les Grecs, sur le rivage,</l>
+	<l id="246">Des captives déjà disposaient le partage.</l>
+	<l id="247">Agamemnon paraît. Rois, s'est-il écrié,</l>
+	<l id="248">Il est beau qu'un vainqueur connaisse la pitié ;</l>
+	<l id="249">Par respect pour leur rang, d'une honteuse chaîne</l>
+	<l id="250">N'affranchirez-vous pas Hécube et Polyxène ?</l>
+	<l id="251">Sur les rives du Xante, ah ! laissez-les pleurer ;</l>
+	<l id="252">Quelle crainte Ilion nous peut-il inspirer ?</l>
+	<l id="253">Les Grecs applaudissaient ; mais le cruel Ulysse,</l>
+	<l id="254">Cet habile artisan de fraude et d'artifice,</l>
+	<l id="255">Par un discours adroit a détruit dans les coeurs</l>
+	<l id="256">L'intérêt qu'à l'armée inspiraient vos malheurs ;</l>
+	<l id="257">Le sort a décidé des reines de Pergame,</l>
+	<l id="258">Et dans les fers d'Ulysse il vous place, Madame.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="259">Moi, dans les fers d'Ulysse ! ô sort ! sois satisfait,</l>
+	<l id="260">Je n'attendais pas moins ; mon opprobre est complet.</l>
+	<l id="261">Pénélope aura donc pour esclave une reine !</l>
+	<l id="262">Mais tu ne parles pas du sort de Polyxène,</l>
+	<l id="263">Chère Iphise ? Pourquoi ce silence et ces pleurs ?</l>
+	<l id="264">Réponds-moi... Je comprends. Ô mortelles douleurs !</l>
+	<l id="265">Loin des yeux maternels, ma fille infortunée</l>
+	<l id="266">Est, à porter des fers, comme moi condamnée :</l>
+	<l id="267">L'implacable destin nous poursuit-il assez !</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="268">Il vous poursuit, hélas ! plus que vous ne pensez.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="269" syll="10" part="i">Que veux-tu dire ? Achève, au nom des dieux.</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="269" syll="2" part="f">Madame,</l>
+	<l id="270">De tout votre courage il faut armer votre âme.</l>
+	<l id="271">Irrité du refus qu'il venait d'essuyer,</l>
+	<l id="272">Mais à la loi des Grecs contraint de se plier,</l>
+	<l id="273">S'avance hors des rangs le fier roi de Mycène.</l>
+	<l id="274">L'urne s'agite ; il lit le nom de Polyxène.</l>
+	<l id="275">Pyrrhus accourt soudain ; son désordre, ses cris</l>
+	<l id="276">D'étonnement d'abord ont frappé les esprits.</l>
+	<l id="277">- Grecs, dit-il, arrêtez ; mon père la réclame :</l>
+	<l id="278">Polyxène est sa part du butin de Pergame.</l>
+	<l id="279">De votre long oubli ses mânes irrités,</l>
+	<l id="280">Veulent que par sa mort les vents soient achetés ;</l>
+	<l id="281">Telle est du demi- dieu la volonté suprême,</l>
+	<l id="282">Que vient de m'annoncer sa grande ombre elle-même. —</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="283">Tous mes sens sont glacés d'épouvante et d'horreur.</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="284">Le soldat est saisi d'une sainte terreur.</l>
+	<l id="285">On s'agite en tumulte, et les chefs de la Grèce</l>
+	<l id="286">Vont, dit-on, de vos bras arracher la princesse.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="287">Iphise, que dis-tu ? L'arracher de mes bras,</l>
+	<l id="288">La traîner... Ce forfait ne s'accomplira pas.</l>
+	<l id="289">Justes Dieux, qui voyez les crimes de la terre,</l>
+	<l id="290">Contre les assassins lancez votre tonnerre ;</l>
+	<l id="291">Défendez l'opprimé luttant seul contre tous :</l>
+	<l id="292">Voilà, Dieux protecteurs, des soins dignes de vous.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE SECOND</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Hécube, Polyxène.
+</stage>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="293">Ma présence à vos maux devient-elle importune ?</l>
+	<l id="294">Vous me fuyez, ma mère ! Ah ! De votre infortune</l>
+	<l id="295">Que ma tendresse encore adoucisse les coups !</l>
+	<l id="296">De quel nouveau malheur, hélas ! Gémissez-vous ?</l>
+	<l id="297">Des pleurs que vous versez révélez le mystère.</l>
+	<l id="298">Vous ne répondez rien ?... Ne vous suis-je plus chère ?</l>
+	<l id="299" syll="6" part="i">Ne suis-je plus pour vous ?...</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="299" syll="6" part="f">Qu'oses-tu dire, ô ciel !</l>
+	<l id="300">Viens, viens te reposer sur le sein maternel.</l>
+	<l id="301">Avant qu'à mon amour ma fille soit ravie,</l>
+	<l id="302">Dans cet embrassement, Dieux, ôtez-moi la vie.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="303">Dans cet embrassement oublions nos malheurs.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="304" syll="6" part="i">Elle me fait mourir.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="304" syll="6" part="f">Séchez enfin vos pleurs.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="305">Polydore, mon fils ! par quel destin funeste,</l>
+	<l id="306" syll="6" part="i">Dans la Thrace égorgé...</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="306" syll="6" part="f">Polyxène vous reste.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="307">Tu te trompes, ma fille, on va nous séparer.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="308">Nous séparer ! Grands dieux, j'ai pu, sans murmurer,</l>
+	<l id="309">Supporter sur ces bords mes fers et ma misère ;</l>
+	<l id="310">Mes fers étaient légers, vous me laissiez ma mère.</l>
+	<l id="311">Mais je suivrai loin d'elle un barbare vainqueur !</l>
+	<l id="312">Le ciel n'a point encore épuisé sa rigueur !</l>
+	<l id="313">L'une et l'autre il no us faut, par un tourment plus rude,</l>
+	<l id="314">De la captivité subir la solitude !</l>
+	<l id="315">Ma mère, se peut-il, je ne vous verrai plus !</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="316" syll="1" part="i">Non.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="316" syll="11" part="f">Vous m'appellerez de vos cris superflus !</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="317" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="317" syll="10" part="f">Vous souffrirez, et votre Polyxène</l>
+	<l id="318">Ne pourra soulever le poids de votre chaîne !</l>
+	<l id="319">De ses pesantes mains l'âge va vous glacer,</l>
+	<l id="320">Et mes bras caressants ne pourront vous presser !</l>
+	<l id="321">Commence-t-il bientôt, ce supplice barbare ?</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="322">Ma fille, en ce moment, peut-être on le prépare.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="323">Mais les vents sont muets ; les Grecs jusqu'à ce jour...</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="324">Les Grecs sa vent comment on obtient leur retour.</l>
+	<l id="325" syll="6" part="i">Ulysse !... Je me meurs...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Hécube, Polyxène, Ulysse, Soldats.
+</stage>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage type="toward">, à Hécube.
+	</stage>
+	<l id="325" syll="6" part="f">Vous êtes informée</l>
+	<l id="326">Du redoutable arrêt qu'a prononcé l'armée ;</l>
+	<l id="327">Un sang qui vous est cher, répandu sous nos coups,</l>
+	<l id="328">Doit du terrible Achille apaiser le courroux....</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="329">Voilà donc le secret que me cachait ma mère,</l>
+	<l id="330">Et ce que du destin vous gardait la colère !</l>
+	<l id="331">Ô reine malheureuse ! À quel sort vous réduit</l>
+	<l id="332">L'implacable rigueur du Dieu qui vous poursuit !</l>
+	<l id="333">Ma mère, on ne veut pas qu'avec vous je partage</l>
+	<l id="334">Les maux de la vieillesse et ceux de l'esclavage !</l>
+	<l id="335">De vos tremblantes mains vous m'allez voir ravir,</l>
+	<l id="336">Et la fureur des Grecs va sur moi s'assouvir !</l>
+	<l id="337">Vous seule à ma tendresse arrachez cette plainte ;</l>
+	<l id="338">J'envisage la mort sans douleur et sans crainte.</l>
+	<l id="339">Ce n'est pas qu'étalant un courage affecté,</l>
+	<l id="340">J'oppose à mon trépas l'insensibilité.</l>
+	<l id="341">Mais puisque j'ai perdu père, frères, couronne,</l>
+	<l id="342">Puisque du deuil partout l'image m'environne,</l>
+	<l id="343">Puisque dans l'esclavage il me faudrait souffrir,</l>
+	<l id="344">Je suis la soeur d'Hector, et je saurai mourir.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="345">Ulysse, écoutez-moi, vous le devez peut-être ;</l>
+	<l id="346">Soutirez qu'une captive interroge son maître.</l>
+	<l id="347">Vous souvient-il du jour où, dans nos murs surpris,</l>
+	<l id="348">La mort vous entourait et glaçait vos esprits ?</l>
+	<l id="349">Mon nom errait alors sur vos lèvres tremblantes ;</l>
+	<l id="350">Vous pressiez mes genoux de vos mains suppliantes :</l>
+	<l id="351">J'étais, me disiez-vous, maîtresse de vos jours.</l>
+	<l id="352" syll="6" part="i">Je l'étais ; qu'ai-je fait ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="352" syll="6" part="f">Il m'en souvient toujours ;</l>
+	<l id="353">D'un ennemi sans arme écoutant la prière,</l>
+	<l id="354">Hécube m'a des cieux conservé la lumière.</l>
+	<l id="355">Oui, de votre pitié ma vie est un bienfait.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="356">Vous l'entendez, grands Dieux, cet aveu qu'il me fait !</l>
+	<l id="357">Ma crédule bonté sauva les jours d'Ulysse,</l>
+	<l id="358">Et l'ingrat, de ma fille il presse le supplice !</l>
+	<l id="359">Il a soif de mon sang ! Mais pourquoi l'immoler,</l>
+	<l id="360">Dites ; quel est le dieu que vous faites parler ?</l>
+	<l id="361">Achille courroucé demande une victime !</l>
+	<l id="362">Eh ! Qu'a fait Polyxène et quel est donc son crime ?</l>
+	<l id="363">Elle n'a point trempé dans les lâches complots</l>
+	<l id="364">Qui tranchèrent les jours de ce jeune héros.</l>
+	<l id="365">Ah ! S'il faut à son ombre une victime humaine,</l>
+	<l id="366">Le choix n'est pas douteux, sacrifiez Hélène ;</l>
+	<l id="367">Vous vengerez ensemble et vos maux et les miens :</l>
+	<l id="368">Son sang satisfera les Grecs et les Troyens.</l>
+	<l id="369">L'épouse de Pâris est seule criminelle.</l>
+	<l id="370">Ah ! Ne repoussez pas ma douleur maternelle,</l>
+	<l id="371">Seigneur ; c'est à mon tour d'embrasser vos genoux :</l>
+	<l id="372">Ayez pitié d'Hécube, elle eut pitié de vous.</l>
+	<l id="373">C'est assez du trépas de toute ma famille,</l>
+	<l id="374">De mes débiles mains n'arrachez point ma fille.</l>
+	<l id="375">« Mon coeur, par elle encore, au repos est rendu ;</l>
+	<l id="376">Polyxène est pour moi tout ce que j'ai perdu.</l>
+	<l id="377">Compagne de mes maux, appui de ma vieillesse,</l>
+	<l id="378">Tout mon bonheur passé renaît dans sa tendresse. »</l>
+	<l id="379">Ah ! De votre pouvoir gardez-vous d'abuser ;</l>
+	<l id="380">Le sont se lassera de vous favoriser.</l>
+	<l id="381">Quel vainqueur peut compter sur un succès durable ?</l>
+	<l id="382">Voyez, j'étais heureuse, et je suis misérable.</l>
+	<l id="383">Je m'enorgueillissais de ma vaine grandeur ;</l>
+	<l id="384">Un jour a renversé tout ce frêle bonheur.</l>
+	<l id="385">Hécube est votre amie et votre suppliante ;</l>
+	<l id="386">De ces titres, sur vous que la voix soit puissante.</l>
+	<l id="387">Retournez vers les Grecs, que votre humanité</l>
+	<l id="388">Les fasse enfin rougir de tant de cruauté.</l>
+	<l id="389">Dites qu'il est affreux que leur fureur tardive</l>
+	<l id="390">Sur les autels sacrés égorge une captive</l>
+	<l id="391">De qui, dans le désordre et l'horreur des combats,</l>
+	<l id="392">Le sang n'a point coulé sous le fer des soldats.</l>
+	<l id="393">Priez, intéressez ; votre sage éloquence</l>
+	<l id="394">Eut toujours sur les Grecs une entière puissance.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="395">Ne voyez point en moi l'un de vos ennemis.</l>
+	<l id="396">De vos cruels malheurs, Madame, je gémis ;</l>
+	<l id="397">J'ai de votre bienfait conservé la mémoire ;</l>
+	<l id="398">Mais je ne puis des Grecs vous immoler la gloire.</l>
+	<l id="399">Puis-je leur proposer de laisser sans honneurs</l>
+	<l id="400">Les mânes du héros qui les rendit vainqueurs ?</l>
+	<l id="401">Achille a demandé le sang de Polyxène ;</l>
+	<l id="402">Il le doit obtenir. S'il exigeait Hélène,</l>
+	<l id="403">J'irais, en l'arrachant des mains de Ménélas,</l>
+	<l id="404">La remettre moi-même en celles de Calchas.</l>
+	<l id="405">Les dieux sont irrités : par de grands sacrifices</l>
+	<l id="406">Il est temps que les Grecs se les rendent propices,</l>
+	<l id="407">Et que dans leurs tombeaux les mânes apaisés</l>
+	<l id="408">Nous ramènent les vents qui nous sont refusés.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="409">Les dieux sont irrités ! Ô temples de Phrygie,</l>
+	<l id="410">Détruits et saccagés par un vainqueur impie,</l>
+	<l id="411">Autels qu'ont profanés des soldats furieux,</l>
+	<l id="412">Dites-lui quels forfaits ont irrité les dieux !</l>
+	<l id="413">Et vous, tombeaux, et vous, dont les saints privilèges</l>
+	<l id="414">Ont été violés par des mains sacrilèges,</l>
+	<l id="415">Ne soyez plus muets ; à la Grèce apprenez</l>
+	<l id="416">Pourquoi les morts ici gémissent indignés.</l>
+	<l id="417">Sous le fer des bourreaux lorsque ta soeur succombe,</l>
+	<l id="418">Hector, pour la sauver sors aussi de la tombe,</l>
+	<l id="419">Et qu'Ulysse, frappé de crainte et de respect,</l>
+	<l id="420">Une seconde fois recule à ton aspect.</l>
+	<l id="421">« Si le fils de Téthis veut poursuivre sa proie,</l>
+	<l id="422">Vous combattrez encor devant les murs de Troie,</l>
+	<l id="423">Et peut-être les dieux, las de se partager,</l>
+	<l id="424">S'uniront-ils pour nous dans ce nouveau danger. »</l>
+	<l id="425">Mais Hector et les dieux, et le fils de Laërte,</l>
+	<l id="426">Tout est sourd à mes cris, tout, conspire ma perte ;</l>
+	<l id="427">En discours impuissants s'exhale ma douleur.</l>
+	<l id="428">Grecs, s'il vous faut d'Achille apaiser la fureur,</l>
+<stage type="explicit">J'ai été obligé d'abréger beaucoup à la représentation cette scène si touchante dans Euripide, de qui elle est presque littéralement traduite. Je crois devoir rétablir ici le morceau que j'ai retranché ; quelques personnes peut-être seront bien aises de lire la scène telle qu'elle a été conçue par le poète grec. [NdA]</stage>
+	<l id="429">Mes discours impuissants se perdent dans les airs.</l>
+	<l id="430">Ma fille, par pitié, si mes jours te sont chers,</l>
+	<l id="431">Pour détourner de toi cet affreux sacrifice,</l>
+	<l id="432">Tombe en pleurs aux genoux de l'insensible Ulysse.</l>
+	<l id="433">Il est père, et déjà je le vois s'attendrir ;</l>
+	<l id="434">Tes larmes, tes accents vont enfin le fléchir.</l>
+	<l id="435">Que dans ce flanc plutôt elle soit assouvie ;</l>
+	<l id="436">Dans ce flanc malheureux Paris puisa la vie,</l>
+	<l id="437">Frappez, et du guerrier qu'il perça de ses traits,</l>
+	<l id="438">Apaisez, par ma mort, les mânes satisfaits.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE</speaker><stage type="show">, montrant Polyxène.
+	</stage>
+	<l id="439">Achille veut son sang, Madame, et non le vôtre.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="440">Eh bien, sur son tombeau répandez l'un et l'autre.</l>
+	<l id="441">Qu'une double victime apaise son courroux.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="442">C'est assez qu'une seule expire sous nos coups ;</l>
+	<l id="443">Et que n'a pu des dieux le décret moins sévère,</l>
+	<l id="444">Permettre que sa mort ne fut pas nécessaire !</l>
+	<l id="445">N'écoute pas, ma fille, une fierté funeste,</l>
+	<l id="446">Tes jours sont, ta le sais, le seul bien qui me reste.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="447">Ulysse craint mes pleurs, il détourne les yeux ;</l>
+	<l id="448">Il craint que, pour surprendre un sentiment pieux,</l>
+	<l id="449">Ma suppliante main ne s'attache à la sienne ;</l>
+	<l id="450">Qu'Ulysse se rassure, une femme troyenne</l>
+	<l id="451">De la nécessité saura subir la loi ;</l>
+	<l id="452">La mort qu'on me destine est un bienfait pour moi.</l>
+	<l id="453">Pourquoi voudrais-je vivre ? Au sein de la puissance,</l>
+	<l id="454">Dans la pourpre des rois, j'ai reçu la naissance ;</l>
+	<l id="455">J'ai vu, tout conspirait alors à mon bonheur,</l>
+	<l id="456">Vingt rivaux couronnés se disputer mon coeur.</l>
+	<l id="457">L'hymen d'un grand monarque attendait Polyxène ;</l>
+	<l id="458">Que dis-je ? Ici déjà dans ma cour j'étais reine,</l>
+	<l id="459">Et j'aurais des dieux même eu la félicité,</l>
+	<l id="460">S'ils avaient à leurs dons joint l'immortalité.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="461">Non, non, avec sa sa fille Hécube veut mourir.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="462">Hécube n'est plus libre, Hécube doit souffrir.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="463">Qui pourrait de mes bras arracher Polyxène ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="464">La force : obéissez, la résistance est vaine.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="465">Écoutez-moi, madame, et vous, daignez, seigneur,</l>
+	<l id="466">D'une mère, un moment, respecter la douleur.</l>
+	<l id="467">Maintenant, ô revers, affreuse ignominie !</l>
+	<l id="468">Polyxène est esclave !... Abandonnons la vie.</l>
+	<l id="469">Peut-être, pour grossir son avare trésor,</l>
+	<l id="470">Un maître, à prix d'argent, voudrait la soeur d'Hector ;</l>
+	<l id="471">Mourons, n'attendons pas qu'au sein de la bassesse,</l>
+	<l id="472">Du sang qui coule en moi se perde la noblesse,</l>
+	<l id="473">Et qu'un esclave abject, abusant de ses droits,</l>
+	<l id="474">Déshonore mon lit qu'ont espéré des rois.</l>
+<stage type="toward">À Ulysse.</stage>
+	<l id="475">Venez donc, à l'autel menez votre victime.</l>
+<stage type="toward">À Hécube.</stage>
+	<l id="476">Vous, ne combattez point un désir légitime,</l>
+	<l id="477">Ma mère, par vos pleurs au lieu de m'affaiblir,</l>
+	<l id="478">Permettez que je meure avant de m'avilir,</l>
+	<l id="479">Et que le fer sacré promptement me délivre</l>
+	<l id="480">De l'affront d'être esclave et du tourment de vivre.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="481">Sa magnanimité redouble ma douleur.</l>
+	<l id="482">Grecs, s'il vous faut d'Achille apaiser la fureur, etc.</l>
+<stage type="toward">À Hécube.</stage>
+	<l id="483">Dans cette lutte, hélas ! Quelle est votre espérance,</l>
+	<l id="484">Ma mère ? Il en est temps, cédez à la puissance.</l>
+	<l id="485">Eh ! quoi, voulez-vous voir de farouches soldats</l>
+	<l id="486">M'arrachant sans pitié de vos débiles bras,</l>
+	<l id="487">Maltraiter, outrager le rang et la vieillesse ?</l>
+	<l id="488">Que vos embrassements consolent ma tendresse ;</l>
+	<l id="489">Ouvrez-moi votre sein, recevez mes adieux ;</l>
+	<l id="490" syll="6" part="i">Vivez, je vais mourir.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="490" syll="6" part="f">Impitoyables dieux !</l>
+	<l id="491">Enfin, c'en est assez, terminez ma misère.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="492">Que dirai-je à Priam, au grand Hector, mon frère ?</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="493">Dis-leur que je succombe à l'excès du malheur.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="494">O sein qui m'as nourrie ! Ô tendresse ! Ô douleur !</l>
+	<l id="495">Ulysse, je vous suis, votre victime est prête ;</l>
+	<l id="496">Du voile révéré que l'on couvre ma tête.</l>
+<stage type="toward">À Ulysse.</stage>
+	<l id="497">Adieu, ma mère, adieu. Seigneur, éloignons-nous.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="498" syll="6" part="i">Soldats, conduisez-la.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les précédents, Agamemnon.
+</stage>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="498" syll="6" part="f">Soldats, que faites-vous ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="499">Polyxène est aux Grecs, et le fils de Pélée</l>
+	<l id="500">Ordonne qu'à son ombre elle soit immolée.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="501">Polyxène est à moi, seul j'en puis disposer.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="502">À Pyrrhus, qui l'attend, l'osez-vous refuser ?</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="503">J'ose tout contre qui méconnaît ma puissance.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE</speaker><stage>, à Agamemnon.
+	</stage>
+	<l id="504">Ah ! Seigneur, sauvez-la ; protégez l'innocence ;</l>
+	<l id="505">Contre des inhumains, de mon sang altérés,</l>
+	<l id="506">J'implore à vos genoux les droits les plus sacrés.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="507">Rentrez, ne craignez rien ni des Grecs ni d'Achille ;</l>
+<stage type="show">Montrant sa tente.</stage>
+	<l id="508">Nul mortel n'oserait violer-cet asile.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE</speaker><stage type="toward">, à Agamemnon.
+	</stage>
+	<l id="509">De mon trépas eu vain vous suspendez les coups.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="510">Viens, le ciel peut encor se déclarer pour nous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Agamemnon, Ulysse.
+</stage>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="511">Seigneur, j'ai réprimé, pour l'honneur de l'armée,</l>
+	<l id="512">Le courroux dont mon âme a droit d'être enflammée ;</l>
+	<l id="513">Au mépris de mes droits, je souffre même encor,</l>
+	<l id="514">Qu'on dispose à mes yeux de la mère d'Hector ;</l>
+	<l id="515">J'aurais trop à rougir si, devant leurs captives,</l>
+	<l id="516">Les Grecs de leurs débats troublaient encor ces rives,</l>
+	<l id="517">Et vengeaient les malheurs des femmes d'Ilion</l>
+	<l id="518">Par les emportements de la sédition ;</l>
+	<l id="519">Mais je puis maintenant faire éclater sans crime</l>
+	<l id="520">De l'indignation le transport légitime,</l>
+	<l id="521">Et, sans porter atteinte au rang d'Agamemnon,</l>
+	<l id="522">D'un refus étonnant lui demander raison.</l>
+	<l id="523">Je ne reconnais point, seigneur, à sa conduite,</l>
+	<l id="524">Le roi qui de la Grèce a commandé l'élite,</l>
+	<l id="525">Ou plutôt, si je puis m'expliquer librement,</l>
+	<l id="526">Je reconnais Atride à son ressentiment :</l>
+	<l id="527">Il voudrait, contre Achille armant encor sa haine,</l>
+	<l id="528">Ainsi que Briséis, lui ravir Polyxène.</l>
+	<l id="529">S'il avait un peu moins pour lui d'inimitié,</l>
+	<l id="530">Agamemnon pour elle aurait moins de pitié.</l>
+	<l id="531">Mais il faut qu'un grand coeur à son pays immole</l>
+	<l id="532">Des torts qu'il éprouva le souvenir frivole.</l>
+	<l id="533">Songez quel fut Achille ; au de là du trépas</l>
+	<l id="534">Que votre vain courroux ne le poursuive pas.</l>
+	<l id="535">Celui qui, remplissant ses hautes destinées,</l>
+	<l id="536">A préféré la gloire à de longues années ;</l>
+	<l id="537">Celui qui, se rendant sous les murs d'Ilion,</l>
+	<l id="538">En courant, a vaincu Téléphe, Eëtion,</l>
+	<l id="539">A conquis Ténédos et Lesbos et la Thrace,</l>
+	<l id="540">De la superbe Thèbes a su punir l'audace,</l>
+	<l id="541">Et qui, pour rappeler d'un seul mot tous ses droits,</l>
+	<l id="542">Dans les murs de Pergame a fait entrer nos rois,</l>
+	<l id="543">Vous l'avouerez, seigneur, un tel guerrier, je pense,</l>
+	<l id="544">Peut des Grecs espérer quelque reconnaissance,</l>
+	<l id="545">Et ce n'est pas en vain que son ombre en courroux</l>
+	<l id="546">Nous aura révélé ce qu'elle attend de nous.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="547">L'inimitié, seigneur, n'est point ce qui me guider ;</l>
+	<l id="548">Rendez plus de justice aux sentiments d'Atride.</l>
+	<l id="549">Sans doute il fut un temps où, d'un farouche orgueil,</l>
+	<l id="550">(Du pouvoir absolu trop ordinaire écueil)</l>
+	<l id="551">Le coeur d'Agamemnon ne sut pas se défendre ;</l>
+	<l id="552">Mais Priam égorgé, mais Ilion en cendre,</l>
+	<l id="553">Mais Hécube captive, ont changé mes esprits.</l>
+	<l id="554">Des grandeurs maintenant je mesure le prix ;</l>
+	<l id="555">Je vois leur frêle éclat ; j'apprends par la victoire</l>
+	<l id="556">Combien un seul moment peut renverser de gloire.</l>
+	<l id="557">Il ne faut pas toujours, pour perdre les états,</l>
+	<l id="558">Mille vaisseaux, seigneur, et dix ans de combats ;</l>
+	<l id="559">Un seul jour peut suffire : un jour, une heure même</l>
+	<l id="560">Peut, du front d'un monarque, ôter le diadème,</l>
+	<l id="561">Immoler la prudence aux caprices du sort,</l>
+	<l id="562">Et devant le plus faible abaisser le plus fort.</l>
+	<l id="563">De ces grandes leçons je sens trop l'importance,</l>
+	<l id="564">Et quoique avec justice, et sans vaine arrogance,</l>
+	<l id="565">Je pusse retenir le prix de mes exploits,</l>
+	<l id="566">Et ne me laisser pas dépouiller tant de fois,</l>
+	<l id="567">Qu'Achille encor vivant demandât Polyxène,</l>
+	<l id="568">Atride à son amour la céderait sans peine ;</l>
+	<l id="569">Mais que pour hécatombe un sang pur soit versé,</l>
+	<l id="570">Seigneur, ce sacrifice est atroce, insensé ;</l>
+	<l id="571">Croit-on que d'un héros l'ombre en soit honorée ?</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="572">« Il attend sa vengeance, on l'a trop différée.</l>
+	<l id="573">Son repos est troublé par un si long oubli. »</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="574">« Son repos ! Non, Seigneur : notre sort est rempli</l>
+	<l id="575">Du jour où le trépas, fermant notre paupière,</l>
+	<l id="576">Des cieux, sans nul retour, nous ravit la lumière ;</l>
+	<l id="577">Et Minos, quand par lui tout mortel est jugé,</l>
+	<l id="578">Demande s'il fut juste, et non s'il fut vengé. »</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="579">Mais si vous dépouillez ce fils de la victoire,</l>
+	<l id="580" syll="10" part="i">Quel prix de tant d'exploits lui restera ?</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="580" syll="2" part="f">Sa gloire ;</l>
+	<l id="581">Et malheur au guerrier qui, d'autres biens épris,</l>
+	<l id="582">Ne se montreront pas satisfait à ce prix.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="583">Les Grecs, vous le savez, doivent, d'un vent propice,</l>
+	<l id="584">Acheter le retour par un grand sacrifice.</l>
+	<l id="585">« Vers nos états, après un siège de dix ans,</l>
+	<l id="586">Si les chemins encor nous sont fermés longtemps,</l>
+	<l id="587">C'est en vain que les murs de la superbe Troie</l>
+	<l id="588">Des feux lancés par nous sont devenus la proie ;</l>
+	<l id="589">Sur nos propres lauriers nous répandons des pleurs,</l>
+	<l id="590">Et le sol des vaincus dévore les vainqueurs. »</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="591">« Je ne croirai jamais le ciel assez barbare</l>
+	<l id="592">Pour qu'à ce prix sur nous sa faveur se déclare ;</l>
+	<l id="593">Mais loin de nos foyers, dussions-nous du malheur</l>
+	<l id="594">Subir encor dix ans l'implacable fureur,</l>
+	<l id="595">J'aimerais mieux languir éloigné de Mycènes,</l>
+	<l id="596">Que devoir mon retour au sang de Polyxène. »</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="597">Vous fûtes plus docile aux volontés des dieux,</l>
+	<l id="598">Quand votre propre sang fut demandé par eux.</l>
+	<l id="599">Agamemnon, sans doute, eut moins de barbarie,</l>
+	<l id="600">En livrant à Calchas sa fille Iphigénie ;</l>
+	<l id="601">Ce titre si pompeux, ce nom de roi des rois,</l>
+	<l id="602">Valait bien que du sang il étouffât la voix ;</l>
+	<l id="603">Mais quand il ne s'agit que de sauver la Grèce,</l>
+	<l id="604">Pour des captifs alors sa pitié s'intéresse.</l>
+	<l id="605">Le sang qu'il prodigua, c'était le sang des siens,</l>
+	<l id="606">Et celui qu'il ménage est le sang des Troyens.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="607">Vos perfides conseils, il est vrai, m'égarèrent ;</l>
+	<l id="608">Mais contre vous bientôt les dieux se déclarèrent :</l>
+	<l id="609">Ils sauvèrent ma fille, et c'est un soin pieux</l>
+	<l id="610">Que d'imiter enfin la clémence des Dieux.</l>
+	<l id="611">Oui, le jour qu'à l'autel dévoilant mon visage,</l>
+	<l id="612">Je vis notre salut descendre d'un nuage,</l>
+	<l id="613">Je jurai d'empêcher tout sacrifice humain ;</l>
+	<l id="614">Je jurai, mon serment ne saurait être vain.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="615">Par vos refus ainsi vous trahissez la Grèce.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="616">Je la trahirais plus par ma lâche faiblesse.</l>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+	<l id="617">Craignez que contre vous le soldat révolté</l>
+	<l id="618">N'ose enfin se soustraire à votre autorité.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="619">Atride, qui sait mal supporter la menace,</l>
+	<l id="620">Peut des séditieux punir encor l'audace ;</l>
+	<l id="621">Et les Grecs, qu'à l'instant ma voix va convoquer,</l>
+	<l id="622">Entre leur chef et vous vont enfin s'expliquer.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<stage type="aparte">À part.</stage>
+	<l id="623">Je vous suis. S'il le faut, employons l'artifice :</l>
+	<l id="624">Sauver encor les Grecs est le destin d'Ulysse.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE TROISIÈME</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="625">À la discorde ainsi nos vainqueurs sont en proie !</l>
+	<l id="626">Dieux qui les divisez vous voulez venger Troie.</l>
+	<l id="627">Ô ! Qu'à mes tristes yeux ce tableau serait doux,</l>
+	<l id="628">De voir les Grecs périr, et par leurs propres coups !</l>
+	<l id="629">Quel bonheur, si, des feux qui brûlèrent Pergame,</l>
+	<l id="630">Dans leur camp révolté se rallumait la flamme !</l>
+	<l id="631">Si tous ces grands débris, soulevés à la fois,</l>
+	<l id="632">Les allaient écraser sous leur énorme poids,</l>
+	<l id="633">Et si Priam vengé souriait dans sa tombe,</l>
+	<l id="634">À l'aspect consolant d'un pareil hécatombe !</l>
+	<l id="635">Grecs, si ma mort sur vous doit attirer ces maux,</l>
+	<l id="636">Frappez : je vais moi-même au-devant des bourreaux.</l>
+	<l id="637">Mais tant de gloire, hélas ! Ne m'est pas réservée ;</l>
+	<l id="638">Des plus cruels affronts Polyxène abreuvée,</l>
+	<l id="639">Bien loin que son trépas soit funeste aux vainqueurs.</l>
+	<l id="640">Doit, au prix de son sang, terminer leurs malheurs.</l>
+	<l id="641">Cette mort, je le sens, cette mort est affreuse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Polyxène, Hécube, Iphise.
+</stage>
+<sp who="IPHISE"><speaker>IPHISE</speaker><stage type="toward">, à Hécube.
+	</stage>
+	<l id="642">Écartez de vos maux l'image douloureuse ;</l>
+	<l id="643">Calmez, au nom des Dieux, vos esprits agités.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="644">Ma fille à l'instant même était à mes côtés ;</l>
+<stage type="watch">L'apercevant.</stage>
+	<l id="645">Je ne vois plus ma fille... Ô chère Polyxène !</l>
+	<l id="646">Quel motif, loin de moi, quel sentiment t'entraîne ?</l>
+	<l id="647">Au sommeil un moment ma paupière a cédé ;</l>
+	<l id="648">J'ai vu Pyrrhus soudain, par la fureur guidé,</l>
+	<l id="649">Qui, l'arrachant des bras de ta tremblante mère,</l>
+	<l id="650">Te traînait expirante au tombeau de son père.</l>
+	<l id="651">J'ai vu se balancer le glaive dans sa main,</l>
+	<l id="652">Et le cruel trois fois le plonger dans ton sein.</l>
+	<l id="653">Je frissonne, et m'éveille, et d'horreur agitée,</l>
+	<l id="654">J'appelle Polyxène, et tu m'avais quittée !</l>
+	<l id="655">Je l'avouerai, j'ai cru, dans cet affreux moment,</l>
+	<l id="656">À la réalité de mon pressentiment ;</l>
+	<l id="657">J'ai cru... mais je te vois, ma fille m'est rendue.</l>
+	<l id="658">Ah ! Que sur toi toujours je repose ma vue !</l>
+	<l id="659">Mon coeur, jusqu'à présent, ne sentait pas assez</l>
+	<l id="660">Quels biens dans ton amour les Dieux m'avaient laissés.</l>
+	<l id="661">La nuit sur nous encore étend son voile sombre ;</l>
+	<l id="662">Un Grec marche vers nous à la faveur de l'ombre :</l>
+	<l id="663">Son regard semble errer inquiet, incertain.</l>
+	<l id="664">Ce Grec, qui peut-il être, et quel est son dessein ?</l>
+	<l id="665">Rentrons, un juste effroi s'empare de mon âme ;</l>
+	<l id="666" syll="2" part="i">Rentrons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Hécube, Polyxène, Iphise, Un soldat grec.
+</stage>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+	<l id="666" syll="10" part="f">À mon aspect ne fuyez point, Madame ;</l>
+	<l id="667">Vous voyez un soldat qui, s'il respire encor,</l>
+	<l id="668">Doit le jour qui l'éclaire à la pitié d'Hector :</l>
+	<l id="669">Vers vous secrètement Agamemnon m'envoie.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="670">Eh bien, de son appui que faut-il que je croie ?</l>
+</sp>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+	<l id="671">Il plaint vos maux, il veut en adoucir l'horreur ;</l>
+	<l id="672">Mais la religion se joint à la fureur</l>
+	<l id="673">Pour combattre le voeu de son coeur magnanime.</l>
+	<l id="674">L'armée, envers les dieux, croirait commettre un crime,</l>
+	<l id="675">Si le sang, par Achille aujourd'hui demandé,</l>
+	<l id="676">N'était aujourd'hui même à son ombre accordé.</l>
+	<l id="677">Dans les décrets des dieux, sans aspirer à lire,</l>
+	<l id="678">Je suis les mouvements que la pitié m'inspire ;</l>
+	<l id="679">J'obéis à mon roi, dont le noble secours</l>
+	<l id="680">De la princesse encor pourra sauver les jours.</l>
+	<l id="681">Par mes soins empressés sa fuite est assurée :</l>
+	<l id="682">Une barque en secret près d'ici préparée,</l>
+	<l id="683">Sur un rivage ami va conduire vos pas.</l>
+	<l id="684">Fiez-vous à mes soins ; venez, ne craignez pas :</l>
+	<l id="685">Du sang qui coule en moi si la source est commune,</l>
+	<l id="686">Les Dieux m'ont fait le coeur plus grand que ma fortune.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="687">Ô ciel ! Récompensez ce généreux soldat ;</l>
+	<l id="688">Il est reconnaissant, quand Ulysse est ingrat ;</l>
+	<l id="689">Il est reconnaissant, quand de notre misère</l>
+	<l id="690">Un stérile avenir est tout ce qu'il espère</l>
+	<l id="691">Eh bien donc, puisqu'il faut me séparer de toi,</l>
+	<l id="692">Puisque telle est du sort l'irrévocable loi,</l>
+	<l id="693">Adieu, ma fille, adieu ; tout l'amour de ta mère,</l>
+	<l id="694">Tous ses voeux te suivront sur la rive étrangère,</l>
+	<l id="695">Qui, contre un attentat, va protéger tes jours.</l>
+	<l id="696">Ce triste exil pourra ne pas durer toujours ;</l>
+	<l id="697">Peut-être, quand la mort finira ma carrière,</l>
+	<l id="698">Te sera-t-il permis de fermer ma paupière :</l>
+	<l id="699">Oui, les Grecs, écoutant des sentiments plus doux,</l>
+	<l id="700">Rougiront des fureurs qu'ils exercent sur nous.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="701">Moi, fuir ! Eh ! Dans quels lieux pourrais je, hélas ! Ma mère,</l>
+	<l id="702">Cacher en sûreté ma honte et ma misère ?</l>
+	<l id="703">D'un des rois de la Grèce implorant la pitié,</l>
+	<l id="704">Irai-je offrir ma tête à son inimitié ?</l>
+	<l id="705">Irai-je, dans l'Asie, errant de ville en ville,</l>
+	<l id="706">Chez un prince allié mendier un asile ?</l>
+	<l id="707">Lâchement immolé, Polydore fait voir</l>
+	<l id="708">Quelle hospitalité je dois en recevoir.</l>
+	<l id="709">Non, ma mère, à mes pas toute terre est fermée ;</l>
+	<l id="710">Ma place est aux enfers. Par l'honneur animée,</l>
+	<l id="711">Je veux avec fierté descendre chez Pluton,</l>
+	<l id="712">Digne encore de vous, d'Hector et d'Ilion.</l>
+	<l id="713">Soldat, dis à ton roi qu'en ce moment terrible</l>
+	<l id="714">À ses nobles bienfaits Polyxène est sensible,</l>
+	<l id="715">Mais que les accepter n'est pas en mon pouvoir,</l>
+	<l id="716">Et que jusqu'à la fin je ferai mon devoir.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="717">Le plus saint des devoirs est de sauver ta mère ;</l>
+	<l id="718">Je meurs si tu péris. Je crus, dans ma misère,</l>
+	<l id="719">Que j'avais épuisé la coupe des douleurs ;</l>
+<stage type="show">Montrant Polyxène.</stage>
+	<l id="720">Mais non ; sa dureté manquait à mes malheurs.</l>
+	<l id="721">Ah ! C'est trop différer dans ce péril extrême ;</l>
+	<l id="722">Ma fille, je le veux, partez à l'instant même,</l>
+	<l id="723">Ou, dans le camp des Grecs, prompte à vous devancer,</l>
+	<l id="724">Du fer qui vous attend je vole me percer.</l>
+	<l id="725">Décidez maintenant ce que vous devez faire.</l>
+	<l id="726">Mais les moments sont chers ; exauce ma prière :</l>
+	<l id="727">Faut-il, pour te fléchir, embrasser tes genoux ?</l>
+	<l id="728">Mon triomphe, à ce prix, ma fille, sera doux.</l>
+</sp>
+<sp who="POLYXÈNE"><speaker>POLYXÈNE.</speaker>
+	<l id="729">Ah ! C'en est trop enfin, vous l'emportez, madame.</l>
+	<l id="730">Que vous puis-je opposer ? Vous déchirez mon âme.</l>
+<stage type="toward">Au soldat.</stage>
+	<l id="731">Quoi qu'il arrive, allons, et suivons, sans tarder,</l>
+	<l id="732">Le rivage où vos pas sont prêts à me guider.</l>
+	<l id="733">Pour la dernière fois, embrassons-nous, ma mère.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="734">Non, les dieux me rendront une fille si chère.</l>
+	<l id="735">Que ne peut ma vieillesse accompagner leurs pas ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="HÉCUBE"><speaker>HÉCUBE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="736">Dieux qui nous protégez, ne vous démentez pas ;</l>
+	<l id="737">S'il en est parmi vous qui d'une antique offense</l>
+	<l id="738">Aient dû sur Ilion poursuivre la vengeance,</l>
+	<l id="739">Du superbe Ilion les murs sont renversés ;</l>
+	<l id="740">Ses rois sont au tombeau ; n'est-ce donc point assez ?</l>
+	<l id="741">Sur un rejeton faible et battu par l'orage</l>
+	<l id="742">Faudra-t-il que la haine exerce encor sa rage ?</l>
+	<l id="743">Tant de fureur, grands dieux, est indigne de vous !</l>
+	<l id="744">La pitié doit enfin succéder au courroux ;</l>
+	<l id="745">Vous voudrez, au trépas en arrachant ma fille,</l>
+	<l id="746">Des héros phrygiens ranimer la famille.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Hécube, Agamemnon.
+</stage>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="747">Ah ! Seigneur, quels tributs je dois à vos bienfaits !</l>
+	<l id="748">Votre vertu prévient le plus noir des forfaits ;</l>
+	<l id="749">Les dieux parlent en vain ; c'est en vain que l'armée</l>
+	<l id="750">Est contre Polyxène en tumulte animée ;</l>
+	<l id="751">En vain Pyrrhus éclate en transports furieux ;</l>
+	<l id="752">Vous triomphez des Grecs, de Pyrrhus et des dieux ;</l>
+	<l id="753">M'acquitter envers vous n'est pas en ma puissance,</l>
+	<l id="754">Et je charge le ciel de ma reconnaissance.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="755">Comment de vos malheurs n'aurais-je pas gémi ?</l>
+	<l id="756">Pour des jours précieux, comme vous j'ai frémi,</l>
+	<l id="757">Vos tourments sont les miens : dans ces débats, Madame,</l>
+	<l id="758">De tendres souvenirs ont agité mon âme ;</l>
+	<l id="759">Pour la nature en pleurs mes discours ont plaidé,</l>
+	<l id="760">Et quiconque était père, à ma voix a cédé.</l>
+	<l id="761">Que Calchas, s'il le faut, dans le sang des génisses,</l>
+	<l id="762">Recherche avidement des oracles propices ;</l>
+	<l id="763">Au sacrificateur un crime est épargné ;</l>
+	<l id="764">Son bras dans votre sang ne sera point baigné ;</l>
+	<l id="765">Je viens vous apporter ces heureuses nouvelles.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="766">Que je mouille vos mains de larmes maternelles,</l>
+	<l id="767">Seigneur ! De vos bienfaits laissez-moi respirer ;</l>
+	<l id="768">La malheureuse Hécube osait moins espérer.</l>
+	<l id="769">Mais puisqu'il est ainsi, la fuite est inutile ;</l>
+	<l id="770">Sur des bords étrangers ne cherchons plus d'asile ;</l>
+	<l id="771">Ce guide généreux par vous-même adressé.....</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="772" syll="3" part="i">J'ignore....</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="772" syll="9" part="f">Quoi ! Seigneur, tout mon sang s'est glacé.</l>
+	<l id="773">Serait-ce un traître ? Oh ! Non, ce crime est impossible ;</l>
+	<l id="774">À mon cruel malheur il s'est montré sensible,</l>
+	<l id="775">J'ai même vu des pleurs s'échapper de ses yeux.</l>
+	<l id="776">Courons, éclaircissons..... Mais on vient en ces lieux ;</l>
+	<l id="777" syll="4" part="i">C'est Iphise....</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Les precédents, Iphise.
+</stage>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="777" syll="8" part="f">Dis-moi, qu'as-tu fait de ma fille ?</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="778">Ô des rois d'Ilion malheureuse famille !</l>
+	<l id="779">Ô céleste courroux que rien ne peut lasser !</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="780">Je frémis.... Quel malheur vient-elle m'annoncer ?</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="781">Le plus affreux de tous. Notre guide en silence</l>
+	<l id="782">Semblait de l'ennemi tromper la vigilance ;</l>
+	<l id="783">Par des détours secrets il nous faisait marcher ;</l>
+	<l id="784">Des tentes de Pyrrhus je le vis s'approcher ;</l>
+	<l id="785">Soudain paraît Ulysse ; et le soldat, ô crime !</l>
+	<l id="786">S'avance en s'écriant : j'amène la victime.</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="787">Je reconnais Ulysse à ce crime odieux.</l>
+</sp>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="788">Iphise, un voile épais est tombé sur mes yeux ;</l>
+	<l id="789">Et c'est moi, moi, ma fille... Ah ! Je l'ai cru sincère,</l>
+	<l id="790">Il invoquait Hector, il plaignait ma misère ;</l>
+	<l id="791">C'est ainsi que Priam fut trompé par Sinon,</l>
+	<l id="792">Et périr par la fourbe est le sort d'Ilion.</l>
+</sp>
+<sp who="IPHISE"><speaker>IPHISE.</speaker>
+	<l id="793">De farouches soldats, soudain environnée,</l>
+	<l id="794">Aux tentes de Pyrrhus Polyxène est traînée.</l>
+	<l id="795">Pyrrhus, à ses regards en la voyant s'offrir,</l>
+	<l id="796">Frappé de sa beauté, craignait de s'attendrir ;</l>
+	<l id="797">Il court, il la devance au tombeau de son père.</l>
+	<l id="798">Là, ce cruel guerrier retrouve sa colère.</l>
+	<l id="799">Bientôt, près du tombeau, Polyxène à genoux ;</l>
+	<l id="800">Guerrier, frappe mon sein, je l'expose à tes coups,</l>
+	<l id="801">Dit-elle. Pyrrhus frappe ; elle tombe, elle expire.</l>
+	<l id="802">Sa mort change les coeurs ; on la plaint, on l'admire :</l>
+	<l id="803">Par un sort si cruel chacun se sent toucher,</l>
+	<l id="804">Et mille mains déjà lui dressent un bûcher,</l>
+	<l id="805">Comme s'il suffisait, pour réparer le crime,</l>
+	<l id="806">Qu'un funèbre appareil honore la victime !</l>
+</sp>
+<sp who="AGAMEMNON"><speaker>AGAMEMNON.</speaker>
+	<l id="807">On peut venger du moins ce forfait, et j'y cours.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII ET DERNIÈRE.</head><stage> Hécube, Iphise.
+</stage>
+<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+	<l id="808">Les dieux marquent enfin le terme de mes jours,</l>
+	<l id="809">Vous tous qu'aux sombres bords a retrouvés ma fille,</l>
+	<l id="810">Ô Priam ! Ô mes fils ! déplorable famille !</l>
+	<l id="811">Le vainqueur qui m'attend me dit de vous quitter ;</l>
+	<l id="812">Mais vous m'ouvrez vos bras, et je cours m'y jeter ;</l>
+	<l id="813">Des Grecs prêts à partir j'entends les cris de joie ;</l>
+<stage type="suicide">Hécube se tue.</stage>
+	<l id="814">Ulysse, en cet état, viens emporter ta proie.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

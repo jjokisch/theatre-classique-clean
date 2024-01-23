@@ -1,0 +1,1339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LES TROIS GENDARMES, PARODIE</title>
+			<author type="texte" ISNI="0000 0001 0905 2286">Charles MONSELET (1825-1888)</author>
+			<author type="texte" ISNI="0000 0000 6128 6752">Gabriel RICHARD (1767-1832)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, mai 2023</editor>
+			<publisher>Publié par Paul FIEVRE, juin 2023.</publisher>
+			<idno>MONSELET-RICHARD_TROIS_GENDARMES</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Parodie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1811-1820</periode>
+			<taille>250-500</taille>
+			<permalien cote="BnF LLA YF-12553">https://gallica.bnf.fr/ark:/12148/bpt6k5565054z</permalien>
+			</SourceDesc>
+	</fileDesc>
+	</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES TROIS GENDARMES</titlePart>
+			<titlePart type="sub">PARODIE EN UN ACTE ET UN VERS des MOUSQUERAIRES DE MM. DUMAS ET MAQUET.</titlePart>
+		</docTitle> 
+		<docDate value="1846">1846.</docDate>
+		<docAuthor id="MONSELET, RICHARD">PAR  MM. GABRIEL RICHARD ET CHARLES MONSELET</docAuthor>
+		<docImprint>
+			<printer id="CAUSSEROUGE">Imprimerie de F. CAUSSEROUGE, rue Tusial, 23.</printer>
+			<copyright>La propriété de cet ouvrage est exclusivement réservée aux auteurs</copyright>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="FEIGNANT" sex="1" type="H" statut="gendarme" age="A" stat_amour="néant">FEIGNANT</role>.</castItem>
+			<castItem><role id="CARAMEL" sex="1" type="H" statut="gendarme" age="A" stat_amour="néant">CARAMEL</role>.</castItem>
+			<castItem><role id="FORTOS" sex="1" type="H" statut="gendarme" age="A" stat_amour="néant">FORTOS</role>.</castItem>
+			<castItem><role id="PATHOS" sex="1" type="H" statut="gendarme" age="A" stat_amour="néant">PATHOS</role>.</castItem>
+			<castItem><role id="MORDONC" sex="1" type="H" statut="voleur" age="A" stat_amour="néant">MORDONC</role>, rapin, en costume de turc.</castItem>
+			<castItem><role id="CROMWELL" sex="1" type="H" statut="restaurateur" age="A" stat_amour="néant">CROMWELL</role>, brasseur-restaurateur.</castItem>
+			<castItem><role id="PATUROT" sex="1" type="H" statut="employé" age="A" stat_amour="néant">PATUROT</role>, garçon.</castItem>
+			<castItem><role id="MILADY BACCHANAL" sex="2" type="H" statut="aristocrate" age="A" stat_amour="néant">MILADY BACCHANAL</role>, en débardeur.</castItem>
+			<castItem><role id="MASQUES et GARÇONS" sex="9" type="H" statut="peuple" age="A" stat_amour="néant">MASQUES et GARÇONS</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.866667, 2.333333">La scène se passe la banlieue de Paris en Carnaval.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>LES TROIS GENDARMES.</head>
+<stage type="explicit">Les indications de droite et de gauche se prennent par rapport aux spectateurs.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Feignant, Pathos, Fortos, Caramel, Mordonc, Milady Bacchanal.
+</stage>
+<stage type="decor">Le théâtre représente une salle de restaurant avec un cabinet à gauche qui est en saillie et qui a une fenêtre garnie de barreau en face du spectateur plus une porte donnant sur ta scène et élevée de quelques marches. À droite, premier plan, une fenêtre avec balcon plus loin deux portes la plus proche avec une lucarne. Portes au fond et à gauche.</stage>
+<stage type="location/run">Au lever du rideau, des couples de masques traversent la salle en galopant sur l'air final de la Tulipe Orageuse. Ils sortent par la gauche. Arrivent en dernier lieu Mordonc et Milady, poursuivis par les gendarmes.</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="1">Amis, c'est trop souffrir ces écarts impudents</l>
+	<l id="2">Empoignez cette femme et flanquez-la dedans !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="3" syll="6" part="i">À moi mon cher Mordonc !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="3" syll="6" part="f">Arrêtez c'est ma femme.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="4" syll="6" part="i">Qu'est-ce que ça nous fait ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="4" syll="2" part="m">Mordonc !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="4" syll="4" part="f">Tu me fends l'âme !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="5">Ah ! Je cultiverai la vertu désormais</l>
+	<l id="6" syll="5" part="i">Ne me prenez pas !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="6" syll="7" part="f">C'est comme si tu chantais.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="7">Gendarmes ! Que par vous elle soit relâchée.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="8" syll="6" part="i">Sa danse l'était trop.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="nervous">, exaspéré.
+	</stage>
+	<l id="8" syll="6" part="f">Qu'elle soit arrachée</l>
+	<l id="9" syll="6" part="i">De vos mains, en ce cas !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="9" syll="6" part="f">Tu n'y toucheras point.</l>
+	<l id="10">Fortos, assommez-moi ce turc d'un coup de poing.</l>
+<stage type="hit/costume/fall">Fortos retrousse sa manche. Caramel lui fait passer Mordonc auquel il donne un coup de poing sur la tête qui lui enfonce sur turban jusqu'au cou. Mordonc tombe assis.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage>, rabattant ses manches, 
+	</stage>
+	<l id="11" syll="6" part="i">N'en reviendra pas.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="11" syll="6" part="f">Renfermons la sauteuse.</l>
+<stage type="push/close/watch/stand">Il enferme Milady dans un cabinet, à droite. En se retournant il aperçoit Mordonc debout devant lui.</stage>
+	<l id="12" syll="6" part="i">Que te faut-il encor ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="12" syll="6" part="f">Rendez-moi ma danseuse !</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="13">Remordonc ? Je l'avais tout_à_l_heure assommé...</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="14">Par un renfoncement m'as-tu cru désarmé,</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="15">Attendez donc ; je connais sa figure...</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+<note type="L">Rapin : Terme familier. Se dit, dans les ateliers de peinture, d'un jeune élève que l'on charge des travaux les plus grossiers et des commissions. [L]</note>
+	<l id="16">C'est ce méchant rapin dont la moindre posture</l>
+	<l id="17" syll="6" part="i">Insulte à la pudeur.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL</speaker><stage type="watch">, le lorgnant.
+	</stage>
+	<l id="17" syll="6" part="f">Je crois me souvenir</l>
+	<l id="18">D'avoir vu quelque part ce turban de vizir...</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="19">Oh ! Moi, je vous ai bien reconnu tout de suite !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="20">Alors, file ton noeud sur le champ - et plus vite</l>
+	<l id="21" syll="2" part="i">Que ça !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="21" syll="10" part="f">Non pas avant que vous m'ayez rendu</l>
+	<l id="22" syll="6" part="i">Ma femme entendez-vous !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="22" syll="6" part="f">Nous t'avons entendu ;</l>
+	<l id="23">Mais te la rendre... Zut ! Éloigne-toi, circule ;</l>
+	<l id="24">C'est le voeu de la loi que ma bouche articule.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="25">La loi te prescrit-elle. Ô gendarme illégal</l>
+	<l id="26">De renfermer sous clé l'ornement de ce bal</l>
+	<l id="27">Milady_Bacchanal la reine de mon âme ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="28">Mais tu ne sais donc pas ce que c'est que ta femme ?</l>
+	<l id="29">Effroi de la police, horreur de ses suppôts.</l>
+	<l id="30">Son nom seul fait rougir tous nos municipaux.</l>
+	<l id="31">La Chaumière la vit trôner sous ses ombrages</l>
+	<l id="32">Sa danse est une mer toujours grosse d'orages,</l>
+<note type="L">Polker : Danser la polka. [L]</note>
+	<l id="33">Et dès qu'en l'aperçoit polker d'un pied glissant,</l>
+	<l id="34">Le bon goût outragé s'envole en gémissant !</l>
+	<l id="35" syll="3" part="i">Qu'en dis-tu?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="35" syll="3" part="m">C'est ma femme !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="35" syll="6" part="f">Elle a, trois nuits entières</l>
+	<l id="36">Au feu des lampions sans fermer les paupières,</l>
+<note type="L">Théâtre du Ranelagh : Situé 5 rue des Vignes dans le XVIèmme arrondissement de Paris.</note>
+	<l id="37">Rempli le Ranelagh du bruit de ses exploits</l>
+	<l id="38">Chacun de nous au moins l'a coffrée une fois ;</l>
+	<l id="39">Pathos au Grand-Vainqueur, Fortos à la Chartreuse.</l>
+	<l id="40">Ta femme enfin, vois-tu, c'est... c'est une farceuse !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="41" syll="3" part="i">C'est ma femme !</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="41" syll="6" part="f">Souvent s'offrant à tous les yeux,</l>
+<note type="C">restaurant Deffieux : Restaurant situé au 20 boulevard Saint-Martin, il fut incendié pendant la Commune de Paris/</note>
+	<l id="42">Elle sortit au jour du restaurant_Deffieux !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="43" syll="3" part="i">C'est ma femme !</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="43" syll="9" part="f">Et moi-même, - ô conduite effroyable ! - </l>
+	<l id="44">Je la vis maintes fois ronfler sous une table.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="45" syll="10" part="i">C'est ma femme ! - À la fin la rendrez-vous ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="45" syll="2" part="f">Jamais !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="pray">, suppliant.
+	</stage>
+	<l id="46">Voyons comportez-vous en chevaliers français.</l>
+	<l id="47">Rendez-vous mes voeux rendez-vous à mes larmes,</l>
+	<l id="48">Ô gendarmes des rois et rois de nos gendarmes !...</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="49" syll="6" part="i">Tu perds ta peine.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="49" syll="6" part="f">C'est là votre dernier mot ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="50" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="50" syll="11" part="f">Suffit. On s'en va. Vous me la paierez... Trop !</l>
+	<l id="51">Dès ce jour, pour vous quatre objets de mes embûches.</l>
+	<l id="52">Le sentier de la vie est parsemée de bûches ;</l>
+	<l id="53">Je suis rageur, messieurs, et, malgré le danger,</l>
+	<l id="54">L'uniforme m'offusque - et je veux en manger !</l>
+	<l id="55">Il ne s'agira plus de vaines balançoires :</l>
+	<l id="56">Je saurai de vos jours faire des purgatoires ;</l>
+	<l id="57">Fuyant tes casse-cous entrouverts sous vos pas,</l>
+	<l id="58">Vous ne dormirez plus, vous ne mangerez pas !</l>
+	<l id="59">Ô chantre du gendarme et du jus de réglisse,</l>
+<note type="">Jacques Charles Odry (1781-1853), : acteur et dramaturge. Il a publié un poème en deux chants nommé "Les Gendarmes".</note>
+	<l id="60">Odry ! Viens m'inspirer quelque nouveau supplice.</l>
+	<l id="61">Et que les épiciers, les voyant sur le flanc,</l>
+	<l id="62">Leur servent de la craie au lieu de sucre blanc !...</l>
+	<l id="63">Ma fureur sur vos fronts aujourd'hui va s'abattre,</l>
+	<l id="64">Et vous y passerez, - mes amours, - tous les quatre</l>
+	<l id="65" syll="2" part="i">Adieu.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="65" syll="10" part="f">Tu n'en verras, Mordonc passer aucun ;</l>
+	<l id="66" syll="6" part="i">C'est moi qui te le dis !</l>
+<stage type="fight/fall">Ils fondent tous les quatre sur Mordonc, celui-ci donne un croc en jambe à Pathos qui se trouve le plus près et qui tombe par terre.</stage>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="66" syll="6" part="f">À toi, Pathos ! - Et d'un !</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Feignant, Pathos, Portos, Caramel.
+</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="67">Ah ! Cette trahison anime ma colère</l>
+	<l id="68">Pathos sur son séant demeure assis par terre.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="69">Cher Pathos ! Serais-tu fourbu comme un cheval ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="70" syll="6" part="i">Je vais le relever.</l>
+<stage type="fall">Il manque tomber. </stage>
+	<l id="70" syll="5" part="m">Comment ça va-t-il ?</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS.</speaker>
+	<l id="70" syll="1" part="f">Mal.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="71" syll="6" part="i">Il l'a pris par derrière ?</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS.</speaker>
+	<l id="71" syll="1" part="m">Oui.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="71" syll="5" part="f">Le trait est pendable.</l>
+	<l id="72">Qui de nous ne se plaint, Messieurs, du misérable ?</l>
+	<l id="73">L'infâme, l'autre jour, à mon chapeau flétri</l>
+	<l id="74">Mit, au lieu de cocarde, un pied_de_céleri.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="75">Raillant de notre corps la dignité suprême,</l>
+	<l id="76">Il enduisit le mien de fromage_à_la_crème.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="77">Faisant un tour discret dans un coin du jardin,</l>
+	<l id="78">Hier, je vis mes habits disparaître soudain.</l>
+	<l id="79">Mordonc les emportait : il les jeta, le traître,</l>
+	<l id="80">Dans la Seine qui coule au pied de la fenêtre ;</l>
+	<l id="81">Pour me couvrir un peu ne laissant près de moi</l>
+	<l id="82">Qu'un sabre qui fut loin de remplir cet emploi.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="83">À toi, n'a-t-il pas fait, Pathos, un autre outrage ?</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS.</speaker>
+	<l id="84" syll="1" part="i">Si.</l>
+<stage type="wave">Il exprime par geste que Mordonc lui a donné un coup de pied  quelque part.</stage>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="84" syll="11" part="f">Cette pantomime a redoublé ma rage.</l>
+	<l id="85">Si Pathos ne dit rien, il n'en pense pas moins.</l>
+	<l id="86">À nous venger tous quatre employons tous nos soins ;</l>
+	<l id="87" syll="8" part="i">Mordonc n'a qu'à se bien tenir.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="87" syll="4" part="f">C'est un fier drôle</l>
+	<l id="88">À qui j'aurais démis volontiers une épaule</l>
+	<l id="89">Fracassé quelque membre ou brisé quelques os,</l>
+	<l id="90" syll="4" part="i">Saperlotte !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="90" syll="8" part="f">Contiens cette fougue. Fortos.</l>
+	<l id="91">Chacun de nous connaît ta vigueur musculaire.</l>
+	<l id="92">Tu mangerais un boeuf - si l'on te laissait faire</l>
+	<l id="93">Mais ton esprit est lourd presque autant que ton bras ;</l>
+	<l id="94">Tu ne songeas à rien qu'à faire six repas</l>
+	<l id="95" syll="2" part="i">Par jour.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="95" syll="10" part="f">Je l'avouerai je suis veuf, à mon aise,</l>
+	<l id="96">Gourmand comme quatorze et buveur comme seize ;</l>
+	<l id="97">Je fends tout seul mon bois et je porte cinq cents ;</l>
+	<l id="98">Et lorsque je m'amuse à flâner dans les champs</l>
+	<l id="99">Je déracine un arbre ou j'assomme une bête ;</l>
+	<l id="100">Enfin, je suis très fort - et pourtant, je m'embête!</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="101" syll="6" part="i">D'où vient cela, Fortos ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="101" syll="6" part="f">J'ai de l'ambition.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="102">Rêves tu, par hasard, la députation ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="103">J'ai toujours désiré d'être sergent de ville.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="104">Tu le seras. Pour moi, je demeure tranquille ;</l>
+	<l id="105">Pourvu que je sois gai, que je me porte bien</l>
+	<l id="106">Que ma bourse soit pleine - il ne me faut plus rien ;</l>
+	<l id="107">J'ai de beaux souvenirs d'amour, et, sans envie,</l>
+	<l id="108">Je descends en riant le fleuve de la vie.</l>
+	<l id="109">- Mais toi, beau Caramel, des gendarmes la fleur,</l>
+	<l id="110">Lovelace en tricorne autrefois voltigeur,</l>
+	<l id="111">Faublas en baudrier jaune, objet de cent flammes,</l>
+	<l id="112" syll="6" part="i">Pourquoi cet air rêveur ?</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="112" syll="6" part="f">Moi, je pense-z-aux femmes !</l>
+	<l id="113">Je ne rêve qu'à ça, je n'adore que ça ;</l>
+	<l id="114">Et trop souvent, hélas ! L'amour me fracassa.</l>
+<stage type="entrance/location">Ici Mordonc paraît à une porte opposée au moment où il le portait à son nez.</stage>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC. </speaker>
+	<l id="115" syll="3" part="i">Et de deux !</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS.</speaker>
+	<l id="115" syll="1" part="m">Oh !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="115" syll="8" part="f">Quoi donc ? Pourquoi ce cri funeste ?</l>
+<stage type="touch">Pathos frôle l'endroit blessé.</stage>
+	<l id="116">Ne réponds pas, Pathos ; je devine ton geste.</l>
+	<l id="117">Contre cet ennemi, tous nous nous liguerons ;</l>
+	<l id="118">Car ce n'est pas pour rien que dans nos escadrons.</l>
+	<l id="119">Nous voyant tous les quatre unis en frères d'armes.</l>
+	<l id="120">On nous a surnommés jadis les trois gendarmes !</l>
+	<l id="121">Donnez-moi votre main. - Fraternel serrement !</l>
+	<l id="122">De tes amis, Pathos, écoute le serment</l>
+<stage type="steal">Il lui arrache son mouchoir au moment où il le portait à son nez.</stage>
+	<l id="123">Jurons sur ce mouchoir troué qui nous rassemble,</l>
+	<l id="124" syll="6" part="i">De ne pas nous quitter.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="124" syll="6" part="f">Et de rester ensemble !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="125">Et si l'un de nous doit, être faible et mou, choir.</l>
+	<l id="126">Qu'il se souvienne alors du serment du mouchoir !</l>
+	<l id="127">Chers amis si j'en crois un rayon qui qui m'éclaire,</l>
+	<l id="128">Cette noble union deviendra populaire ;</l>
+	<l id="129">File sera chantée un jour sur tous les tons,</l>
+	<l id="130">Et l'on en écrira des romans-feuilletons !</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="131">Et puis on en fera pour le théâtre une oeuvre...</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="132" syll="6" part="i">Avec douze décors !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="132" syll="6" part="f">Et rideau de manoeuvre !</l>
+<stage type="silence/knock">Silence d'enthousiasme, on entend frapper à droite.</stage>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="133" syll="5" part="i">On frappe à côté.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="133" syll="7" part="f">C'est Milady_Bacchanal.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage>, en dehors.
+	</stage>
+	<l id="134" syll="6" part="i">Je m'ennuie ; il fait froid...</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="134" syll="6" part="f">Ça nous est bien égal !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="135">Montrons quelques égards pour ce sexe fragile ;</l>
+	<l id="136">Et, pendant, qu'emboîtant le pas tous à la file,</l>
+	<l id="137">Vous presserez l'apprêt de notre déjeuner,</l>
+	<l id="138">Je vais voir cette femme et la morigéner.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="139">Voilà ce que j'appelle une parole sage.</l>
+	<l id="140">Car j'ai faim, sacrebleu ! Comme un anthropophage.</l>
+<stage type="exit">Pathos, Fortos et Caramel sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Feignant, Milady.
+</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="open">, allant ouvrir le cabinet de droite.
+	</stage>
+	<l id="141" syll="6" part="i">Approchez, Milady.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="141" syll="6" part="f">Me voila sans façon.</l>
+	<l id="142">Vous allez me lâcher, n'est-ce pas, mon garçon ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="143">Ah ça ! Croyez-vous donc, femme inconséquente !</l>
+<note type="L">Quante : Combien grand. De cet adjectif si usité jusque dans le XVIe siècle et si utile, il ne reste plus que quantes, qui lui-même a vieilli. [L]</note>
+	<l id="144">Circuler librement toutes les fois et quante</l>
+	<l id="145">Vue le cerveau rempli d'un bol de punch an rhum,</l>
+	<l id="146">Vous viendrez sous nos yeux braver le décorum,</l>
+	<l id="147">Et dans vos balancés dépassant toutes bornes,</l>
+	<l id="148">Hérisser nos cheveux sous nos chapeaux à cornes ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="149">Gendarme, au nom du ciel, montrez-moi le loquet !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="150" syll="4" part="i">Pourquoi faire ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="150" syll="5" part="m">Parbleu ! Pour sortir.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="150" syll="3" part="f">S'il vous plaît ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="impatient">, frappant du pied.
+	</stage>
+	<l id="151" syll="6" part="i">Je m'en veux aller, moi !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="151" syll="6" part="f">La chose est impossible.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="152" syll="6" part="i">Monsieur, soyez, galant.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="152" syll="6" part="f">Non, je suis insensible.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="153">Veux-tu me voir moisir au fond de ce local</l>
+	<l id="154">Comme un fruit au vinaigre inclus dans un bocal ?</l>
+	<l id="155">Je ne crois pas qu'ici tu veuilles que j'expire...</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="156">C'est pourtant comme j'ai l'honneur de vous le dire.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="157" syll="6" part="i">Ah ! Je me vengerai !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="157" syll="6" part="f">Faites, ma chère enfant</l>
+	<l id="158">La peur n'a point d'accès sur l'âme de Feignant.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="159">De Feignant, as-tu dit ? Est-ce ainsi qu'on le nomme ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="160" syll="6" part="i">Sans doute ; qu'avez-vous ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="160" syll="6" part="f">Je le tiens donc, cet homme !</l>
+<stage type="loud">Haut. </stage>
+	<l id="161" syll="6" part="i">Feignant, regardez-moi.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="turn">, tournant autour d'elle.
+	</stage>
+	<l id="161" syll="6" part="f">Soit j'y mets tous mes soins :</l>
+	<l id="162">Vous êtes une femme ; - il me semble du moins.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="163">Ne reconnais-tu pas, ô gendarme vulgaire,</l>
+	<l id="164">L'Ariane par toi délaissée à Cythère  ?</l>
+	<l id="165">Ne te souvient il plus des premières amours ?...</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+<note type="L">Sabretache : Espèce de sac plat qui pend à côté du sabre de certains cavaliers. [L] Emploi de terme, comme apostrophe.</note>
+	<l id="166">M'entends-je ? Est-ce donc vous, Sabretache ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="167" syll="2" part="i">Toujours !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage>, à part.
+	</stage>
+	<l id="167" syll="10" part="f">[D]ieu ! Que ma dignité me semble compromise !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="168">La rigueur à présent est elle encor de mise ;</l>
+	<l id="169">Et quand tu m'empoignais, n'avais-tu donc pas là</l>
+	<l id="170">Quelque chose, ô Feignant, qui disait : - la voilà !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="171" syll="6" part="i">Non, je vous l'avouerai.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="171" syll="6" part="f">Refaisons connaissance.</l>
+	<l id="172">Te souvient-il, ami, des jours de notre enfance,</l>
+	<l id="173">Où nous étions tous deux pleins de timidité ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="174">Fichtre ! Que vous avez depuis bien profité !</l>
+	<l id="175">De vos traits néanmoins, je ne me souviens guère ;</l>
+	<l id="176">Aussi pour m'assurer si c'est bien vous, ma chère.</l>
+	<l id="177">Dites, n'avez-vous pas un signe quelque part ?...</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+<note type="C">Fleur de lys : marque corporelle au fer rouge infamant.</note>
+	<l id="178" syll="6" part="i">Certes... une fleur_de_lys.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="178" syll="6" part="f">Béni soit le hasard !</l>
+	<l id="179">Je te reconnais là, ma chère Sabretache :</l>
+	<l id="180">Le sergent te pardonne et l'amant te relâche.</l>
+	<l id="181">Va faire dans le bal flotter ton pantalon ;</l>
+	<l id="182" syll="6" part="i">Un peu moins de cancan !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="182" syll="6" part="f">Et plus de violon !</l>
+	<l id="183" syll="2" part="i">J'y compte.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="183" syll="10" part="f">Tu l'as dit : livrons-nous à la joie :</l>
+	<l id="184">L'amour au corps de garde arrache enfin sa proie !</l>
+	<l id="185">De notre déjeuner tu feras les honneurs ;</l>
+	<l id="186" syll="6" part="i">Arrivez, mes amis.</l>
+<stage type="walk">Il remonte la scène.</stage>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="186" syll="6" part="f">Je vous tiens, oppresseurs !</l>
+	<l id="187">Ta vieille passion n'est point ce que l'on pense</l>
+	<l id="188">L'amour cède chez moi le pas à la vengeance.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="entrance/quick/closer">, arrivant par la gauche, bas et vite à Milady.
+	</stage>
+	<l id="189">J'ai tout vu, tout compris ! J'apporte sous mon bras</l>
+	<l id="190" syll="6" part="i">De quoi nous venger tous.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="190" syll="1" part="m">C'est...</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="190" syll="5" part="f">De la mort-aux-rats</l>
+<stage type="give/exit">Il lui remet une énorme sucrière de pâtissier et disparaît.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Feignant, Pathos, Portos, Caramel, Milady.
+</stage>
+<stage type="entrance/decor/exit">Plusieurs garçons apportent une table servie et se retirent.</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="191">Fortos et Caramel, Pathos, je vous présente</l>
+	<l id="192">Une ancienne conquête, une femme charmante.</l>
+	<l id="193">L'amour sur ses erreurs jette un voile prudent,</l>
+	<l id="194" syll="1" part="i">Et...</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage type="interrupt">, l'interrompant.
+	</stage>
+	<l id="194" syll="8" part="m">Si nous nous mettions à table ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="194" syll="3" part="f">Sur le champ.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="195">Ah ! Que votre union paraît pleine de charmes !</l>
+	<l id="196">Où peut-on être mieux qu'au milieu des gendarmes ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage type="impatient">, impatient.
+	</stage>
+	<l id="197">Mes amis, entamons ce festin au plus tôt !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="toward/anxious">, à Milady qui parait inquiète.
+	</stage>
+	<l id="198" syll="6" part="i">Qu'avez-vous, Milady ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="198" syll="6" part="f">J'ai perdu mon couteau.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="199" syll="6" part="i">Nous allons le trouver.</l>
+<stage type="hide/get">Ils le fourrent tous quatre sous la table. Milady tire la sucrière.</stage>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="aparte">, à part.
+</stage>
+<stage type="pour">Saupoudrant.</stage>
+	<l id="199" syll="6" part="f">Voici l'instant suprême !</l>
+	<l id="200">Allez-donc ! Allez donc ! C'est leur mort que je sème.</l>
+<stage type="loud">Haut. </stage>
+	<l id="201">Ah ! Le voilà, Messieurs, je l'ai trouvé ; merci.</l>
+<stage type="stand">Les gendarmes se relèvent.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="202" syll="6" part="i">Mangerons-nous enfin !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="202" syll="6" part="f">Que veut dire ceci ?</l>
+	<l id="203">Je trouve à ce bifteck de bizarres nuances.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="204">De l'art du cuisinier ce sont des exigences ;</l>
+	<l id="205" syll="3" part="i">N'importe.</l>
+<stage type="give">Elle lui tend son assiette.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="205" syll="3" part="m">Mangeons donc !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="205" syll="6" part="f">Du tout. Je le défends.</l>
+	<l id="206">Je répugne à manger de tels ingrédients.</l>
+	<l id="207" syll="2" part="i">Cromwell !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les mêmes, Cromwell.
+</stage>
+<sp who="CROMWELL"><speaker>CROMWELL</speaker><stage type="entrance">, paraissant.
+	</stage>
+	<l id="207" syll="2" part="m">Messieurs.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="207" syll="8" part="f">Approche, avant-dernier des hommes !</l>
+	<l id="208" syll="3" part="i">Regarde.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="208" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="208" syll="2" part="m">Ceci.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="208" syll="9" part="f">C'est un bifteck aux pommes</l>
+	<l id="209" syll="2" part="i">De terre.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="209" syll="10" part="f">En le voyant ton coeur n'a pas tremblé ?</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="210">Est-ce qu'il sentirait par hasard le brûlé,</l>
+	<l id="211">Ou conserverait-il - catastrophe funeste ! - </l>
+	<l id="212">De poivre ou de girofle un goût trop indigeste ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="213">La pâleur de ton oeuvre a trahi ton forfait.</l>
+	<l id="214" syll="6" part="i">Connais-tu ces couleurs ?</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="214" syll="6" part="f">Je reste stupéfait.</l>
+	<l id="215">Certes, un tel supplément me paraît ou peu fade,</l>
+	<l id="216">Et je n'ai point trempé dans cette cassonade.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="217">D'où vient pourtant l'aspect blanchâtre de ce rôt ?</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="218">Me soupçonneriez-vous d'arsenic ? - Paturot !</l>
+	<l id="219">C'est le nom du garçon qui régit ma cuisine.</l>
+<stage type="closer">Un garçon s'avance.</stage>
+	<l id="220">Regardez ; la candeur est peinte sur sa mine.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="221">Silence ! Nous allons le mettre au pied du mur.</l>
+	<l id="222" syll="6" part="i">C'est toi qui fis ce mets ?</l>
+</sp>
+<sp who="LE GARÇON"><speaker>LE GARÇON.</speaker>
+	<l id="222" syll="2" part="m">Moi ? Non.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="222" syll="4" part="f">J'en étais sûr.</l>
+	<l id="223" syll="6" part="i">C'est égal manges-en.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="223" syll="6" part="f">Mange ou crains ma colère</l>
+</sp>
+<sp who="LE GARÇON"><speaker>LE GARÇON.</speaker>
+	<l id="224" syll="2" part="i">Pourtant...</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="224" syll="10" part="f">Mangeras-tu ? Je t'ai pris pour tout faire.</l>
+	<l id="225" syll="2" part="i">Allons.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="225" syll="2" part="m">Eh bien ?</l>
+</sp>
+<sp who="LE GARÇON"><speaker>LE GARÇON</speaker><stage type="eat">, mangeant.
+	</stage>
+	<l id="225" syll="2" part="m">C'est bon.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage>, brandissant sa fourchette.
+	</stage>
+	<l id="225" syll="3" part="m">Dans ce cas...</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="225" syll="3" part="f">Attendons.</l>
+</sp>
+<sp who="LE GARÇON"><speaker>LE GARÇON</speaker><stage type="pain">, se tordant.
+	</stage>
+	<l id="226" syll="6" part="i">Oh que ça me fait mal !</l>
+<stage type="fall">Il tombe.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="226" syll="6" part="f">Quelles convulsions !</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="227">Il n'est plus !... Ce trépas est rempli d'amertume.</l>
+	<l id="228">Emportez au plutôt ce cuisinier posthume !</l>
+</sp>
+<stage type="carry">Le corps de Paturot est enlevé par des garçons.</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+<note type="L">Patent : Évident, manifeste. [L]</note>
+	<l id="229" syll="6" part="i">L'homicide est patent.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="229" syll="6" part="f">Mais qui donc l'a dicté ?</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="230">Je m'en doute, Messieurs. À cet air agité.</l>
+	<l id="231">À ce trouble, pour moi ce n'est plus un mystère...</l>
+	<l id="232" syll="6" part="i">Cette femme a tout fait.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="stand">, se levant.
+	</stage>
+	<l id="232" syll="6" part="f">Je ne saurais le taire.</l>
+	<l id="233" syll="10" part="i">Mais le coup est manqué. N'en parlons plus,</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="233" syll="2" part="f">Horreur !</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="234">Mon bonnet de coton se dresse de terreur.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="stand/together">, se levant avec les gendarmes.
+	</stage>
+	<l id="235">À de semblables jeux vous n'êtes pas novice</l>
+	<l id="236">Madame, mais sur vous veillera la police.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="237">La police ! L'objet de mon ressentiment</l>
+	<l id="238">La police qui fit arrêter mon amant</l>
+<note type="L">Flambard : Fam. Gai luron, fanfaron, vaniteux. [L]</note>
+	<l id="239">Puissent tous les flambards des bals de la barrière</l>
+	<l id="240">Sous leurs coups de talon l'exterminer entière !</l>
+	<l id="241">Puissent, tous embrasés, les murs de ses prisons</l>
+	<l id="242">Sons leurs débris fumants broyer ses bataillons !</l>
+	<l id="243">Puissé-je de mes yeux voir les sergents de ville</l>
+	<l id="244">Des débardeurs coffrés recevoir une pile ;</l>
+	<l id="245">Voir le dernier gendarme enrhumé du cerveau,</l>
+	<l id="246">Moi seule en être cause - et trouver ça très beau !</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="247">Oui, mais nous te tenons, Milady_Bacchanal.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="248">Crains que d'un nom eau plat ma main ne te régale !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="show">, lui montrant le cabinet à droite.
+	</stage>
+	<l id="249">Veuillez vous transvaser dans ces appartenons.</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="250" syll="6" part="i">Sans adieu, Milady.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+<note type="L">Chenapan : Vaurien, bandit. </note>
+	<l id="250" syll="6" part="f">Sans adieu, chenapans.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Feignant, Caramel, Fortos, Pathos, Cromwell.
+</stage>
+<sp who="CARAMEL"><speaker>CARAMEL</speaker><stage type="carry">, revenant avec la clé.
+	</stage>
+	<l id="251">Voilà sa liberté que je mets dans ma poche.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="252">Cromwell. que fais-tu la triste et pensif ? Approche.</l>
+	<l id="253">Nous allons détailler dans un procès-verbal</l>
+<note type="L">Arsenical : Qui contient de l'arsenic. Savon arsenical. Les sels arsenicaux. [L]</note>
+	<l id="254">Ce crime peu décent – et même arsenical :</l>
+	<l id="255">Regarde à nom fournir du papier et de l'encre.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="256" syll="6" part="i">Tout est dans cette chambre.</l>
+<stage type="show">Il leur indique le cabinet à gauche.</stage>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="256" syll="6" part="f">Allons y jeter l'ancre.</l>
+<stage type="entrance">Ils entrent.</stage>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL</speaker><stage type="alone">, seul sur la scène.
+	</stage>
+	<l id="257">J'ai l'air triste, m'a dit ce sergent sans façon.</l>
+	<l id="258">Ah ! J'en ai par malheur et l'air et la chanson !</l>
+	<l id="259">C'est que je pense à toi, marmiton bénévole,</l>
+	<l id="260">Roi futur de la broche et de la casserole,</l>
+	<l id="261">Ô jeune Paturot, victime d'un échec,</l>
+	<l id="262">Digne d'un meilleur sort et d'un autre bifteck !</l>
+<stage type="exit/location">Il sort par la droite.</stage>
+FEIGNANT, dans le cabinet.
+	<l id="263">Or ça, verbalisons. Pathos le calligraphe,</l>
+	<l id="264">Écrivez, et tâchez de mettre l'orthographe,</l>
+	<l id="265">Caramel dictera ; moi, je veille sur vous.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="266">Moi de mou bras de fer, je vous protège tous.</l>
+<stage type="silence">Silence.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les Quatre Gendarmes, dont h cabinet à gauche Mordonc amenant Cromwell à grands pas.
+</stage>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="low">, bas.
+	</stage>
+	<l id="267" syll="3" part="i">Ils sont là !</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="267" syll="1" part="m">Qui?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage>, de même.
+	</stage>
+	<l id="267" syll="3" part="m">Chut ! Eux.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="267" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="267" syll="3" part="m">Les gendarmes.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="267" syll="2" part="f">Qu'est-ce ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="268" syll="10" part="i">Ce cabinet n'a pas d'autre porte ?</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="268" syll="1" part="m">Non.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="268" syll="1" part="f">Laisse</l>
+	<l id="269" syll="6" part="i">Moi seul alors. Va-t-en.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="269" syll="6" part="f">Je m'en garderai bien.</l>
+	<l id="270">Vous leur joueriez des tours. Vous êtes un vaurien ;</l>
+	<l id="271" syll="4" part="i">Je vous connais.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="271" syll="8" part="f">Cromwell retourne à ta boutique.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="272" syll="2" part="i">Non, non</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="272" syll="10" part="f">C'est mal agir envers une pratique.</l>
+	<l id="273">N'es-tu donc plus mon hôte et suis-je plus vraiment</l>
+	<l id="274">L'agréable pochard que tu révères tant ?</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="275">Mais vos désirs, Mordonc, ne sont pas raisonnables.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="276">Me couché-je jamais ailleurs que sous tes tables,</l>
+	<l id="277">Et dans mes meilleurs jours, ai-je jamais couru</l>
+	<l id="278">À des vins différents de celui de ton cru ?</l>
+	<l id="279">Pour toi, mon estomac, prodigue de louanges</l>
+	<l id="280">Engloutit sans broncher les mets les plus étranges ;</l>
+<note type="L">Matou : Fig. et par plaisanterie. Un homme en général, le mari. [L]</note>
+	<l id="281">Et quand pour un civet tu guignais un matou,</l>
+	<l id="282">N'ai-je point su l'aider à lui tordre le cou ?</l>
+	<l id="283">Ne-t-ai-je pas garde ces secrets culinaires ?</l>
+	<l id="284">N'es tu plus mon ami ? Ne sommes-nous plus frères ?</l>
+	<l id="285">Ciel ! J'aperçois enfin des larmes dans tes yeux</l>
+	<l id="286">L'amitié d'un traiteur est un bienfait des dieux !...</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="287">Ah par les sentiments comme tu sais me prendre !</l>
+	<l id="288" syll="9" part="i">En effet, ils sont là. Que veux-tu ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="288" syll="3" part="f">Les surprendre.</l>
+	<l id="289">Ton coeur, ô cuisinier, peut être sans effroi</l>
+	<l id="290">Je me charge de tout et je prends tout sur moi.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="291" syll="6" part="i">Mais que demandes-tu ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="show">, montrant le cabinet.
+	</stage>
+	<l id="291" syll="6" part="f">Ça, donne moi ces quatre</l>
+	<l id="292" syll="1" part="i">Hommes.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL</speaker><stage>, après un silence.
+	</stage>
+	<l id="292" syll="3" part="m">Prenez-les.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="292" syll="8" part="f">Ah rien ne saurait m'abattre</l>
+	<l id="293">Désormais. Ils vont donc avoir un pied_de_nez !</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="294" syll="3" part="i">Que fais-tu ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage>, fermant la porte du cabinet.
+	</stage>
+	<l id="294" syll="2" part="m">Tu vois.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="toward">, aux gendarmes.
+	</stage>
+	<l id="294" syll="7" part="f">Nous sommes emprisonnés.</l>
+	<l id="295">Alerte, amis ! De nous on veut faire une proie.</l>
+</sp>
+<stage type="stand/stop">Les gendarmes se lèvent et se mettent aux aguets. Pendant que Mordonc parle, ils expriment leur terreur par une mimique silencieuse</stage>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="dream">, délirant.
+	</stage>
+	<l id="296">Et maintenant du feu pour faire un feu de joie !</l>
+	<l id="297">Je veux les entourer de flamme et de tisons :</l>
+	<l id="298">Ce sont des ennemis j'en ferai des charbons !</l>
+	<l id="299">D'un gendarme rôti que l'odeur est suave !...</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="300" syll="9" part="i">Et si le commissaire arrivait ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="300" syll="3" part="f">Je le brave.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="301" syll="6" part="i">Et les sapeurs pompiers ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="301" syll="6" part="f">Trop tard seront ici.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="302">Mais, sacrebleu, Mordonc, mon bien sera roussi !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="303">Ce motif met un frein à mes projets funestes.</l>
+	<l id="304" syll="6" part="i">Laisse-moi cher ami.</l>
+<stage type="hesitate">Cromwel hésite ; avec fureur.</stage>
+	<l id="304" syll="6" part="f">Va-t-en, ou crains mes gestes !</l>
+<stage type="exit">Cromwel1, il sort par la droite.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage type="location"> Feignant, Caraml, Fortos, Pathos dans le cabinet de gauche, Mordonc, Milady dans le cabinet de droite.
+</stage>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="walk/agitated">, promenant d'un air agité.
+	</stage>
+	<l id="305">Les ferai-je bouillir ? Les ferai-je empailler ?</l>
+	<l id="306">Encor si Milady pouvait me conseiller ?</l>
+	<l id="307" syll="4" part="i">Chère belle !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="location">, hors de la scène.
+	</stage>
+	<l id="307" syll="2" part="m">Mordonc !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="307" syll="6" part="f">C'est la voix de ma femme.</l>
+	<l id="308">Est-ce vous Milady, débardeur, de mon âme ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="309">Hélas ! Dans cette chambre un tyran me retient.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="310">La porte cédera bientôt ; ne craignez rien.</l>
+	<l id="311" syll="2" part="i">Une, deux!</l>
+<stage type="push">Il pousse violemment la porte qui s'ouvre.</stage>
+	<l id="311" syll="6" part="f">Enfoncé ! Le succès m'environne</l>
+	<l id="312">Allons de la beauté recevoir ma couronne !</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage type="location"> Feignant, Caramel, Portos, Pathos, dans le cabinet de gauche.
+</stage>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="313">Amis, à badiner ne nous amusons point,</l>
+	<l id="314">Fortos, vous assommez un boeuf d'un coup_de_poing ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="315">Quatre même à la fois si le besoin s'en montre.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="316">De votre force, il faut aujourd'hui faire montre.</l>
+<stage type="show/location">Lui montrant la fenêtre qui fait face au public.</stage>
+	<l id="317" syll="10" part="i">Pouvez vous desceller un barreau ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="317" syll="2" part="f">Même trois</l>
+	<l id="318" syll="7" part="i">S'il le faut. Prenez garde ! Han !</l>
+<stage type="get/fall">Il [saisit] un barreau qui cède et se renverse avec lui.</stage>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="318" syll="5" part="f">C'était du vieux bois.</l>
+	<l id="319" syll="6" part="i">Relevez-vous, Fortos.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="319" syll="6" part="f">Et maintenant, qu'on passe</l>
+	<l id="320" syll="6" part="i">Par la fenêtre. Allons !</l>
+<stage type="location">Ils descendent sur la scène dans le plus grand silence.</stage>
+	<l id="320" syll="6" part="f">À présent, volte_face !</l>
+	<l id="321">Amis, plaçons ici le quartier général</l>
+<note type="C">Référence à la Conquête de l'Italie par Annibal, qui s'arrêta à Capoue.</note>
+	<l id="322">Cette chambre est Capoue et Mordonc Annibal.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="323">Que la pitié du coeur surtout soit éloignée ;</l>
+	<l id="324">Je veux le régaler d'une danse soignée.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="325" syll="3" part="i">Je l'entends.</l>
+<stage type="location">Feignant se place derrière la porte du cabinet de droite ; Pathos devant celle du cabinet de gauche ; Caramel, à droite, au fond ; Forthos au fond, à gauche, Mordonc, arrive sans les voir.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Feignant, Caramel, Portos, Pathos, Mordonc.
+</stage>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="325" syll="9" part="f">Tout conspire à ma félicité</l>
+	<l id="326">La vengeance là-bas, l'amour de ce côté.</l>
+<stage type="watch/wave/ironic">Il aperçoit Pathos immobile qui le salue ironiquement. </stage>
+	<l id="327" syll="1" part="i">Hein ?</l>
+<stage type="away">Il recule en le regardant et se trouve face à face avec Faignant.</stage>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="wave">, saluant.
+	</stage>
+	<l id="327" syll="11" part="f">Cher Monsieur Mordonc, comment va la petite</l>
+	<l id="328" syll="2" part="i">Santé ? </l>
+<stage type="stop">Même jeu, Mordonc arrive devant Caramel.</stage>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL</speaker><stage type="wave">, saluant.
+	</stage>
+	<l id="328" syll="10" part="f">Monsieur Mordonc, quelle aimable visite !</l>
+<stage type="stop">Même jeu, Mordonc est arrêté par Fortos.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage type="wave">, saluant.
+	</stage>
+	<l id="329" syll="9" part="i">Votre humble serviteur, cher Monsieur.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="329" syll="3" part="f">Je suis pris !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="330" syll="9" part="i">Mordonc, vous êtes fait au même.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="330" syll="3" part="f">J'ai compris.</l>
+<stage type="closer">Les quatre gendarmes se rapprochent.</stage>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="331">Vous nous avez voulu servir une tartine</l>
+	<l id="332" syll="3" part="i">Tout à l'heure ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="332" syll="9" part="f">Et pour moi, vous chauffez la cuisine</l>
+	<l id="333" syll="3" part="i">N'est-ce pas ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="333" syll="9" part="f">Nous voulons rabattre ton caquet.</l>
+	<l id="334">Et voir si tu sauras te servir du briquet.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="disregard">, avec mépris.
+	</stage>
+	<l id="335">Vous allez sur le dos me tomber tous les quatre.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="336">L'un après l'autre ici lu pourras nous combattre.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="337">Donnez-moi donc un fer, car je veux sans retard</l>
+<note type="L">Chicard : Personnage de carnaval se livrant à des danses grotesques dans les bals masqués, en vogue dans la deuxième partie du XIXe siècle </note>
+	<l id="338">Laver dans votre sang la honte d'un chicard.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="339" syll="6" part="i">En costume de turc ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="339" syll="6" part="f">Que vous importe en somme ?</l>
+	<l id="340">Monsieur, pour être turc je n'en suis pas moins homme.</l>
+<stage type="get/threat">Il prend le sabre de Fortos qui fait un geste de menace.</stage>
+	<l id="341" syll="3" part="i">Je suis prêt.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="threat">, dégainant.
+	</stage>
+	<l id="341" syll="3" part="m">Je commence.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL</speaker><stage type="threat">, dégainant.
+	</stage>
+	<l id="341" syll="3" part="m">Après moi.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="341" syll="3" part="f">Pourquoi donc ?</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage type="threat">, se posant en boxeur.
+	</stage>
+	<l id="342" syll="3" part="i">Laissez faire !</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS</speaker><stage type="threat/location">, dégainant et s'interposant.
+	</stage>
+	<l id="342" syll="1" part="m">Hé !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="342" syll="6" part="m">Morbleu ! Ce sera moi !</l>
+</sp>
+<sp who="CARAMEL, FORTOS"><speaker>CARAMEL et FORTOS.</speaker>
+	<l id="342" syll="2" part="f">Non ! Non !</l>
+<stage type="threat">Les quatre gendarmes sont prêts à en venir aux mains.</stage>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="threat">, toujours en garde.
+	</stage>
+	<l id="343">Gendarmes, prenez-vous mon bras pour une enseigne ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage>, écartant tout le monde.
+	</stage>
+	<l id="344">Lâchez-moi, mes amis, il faut que je le saigne.</l>
+	<l id="345">Sus, cher Monsieur_Mordonc, en garde, s'il vous plaît.</l>
+<stage type="away/turn">Et Mordoc rompt en tournant.</stage>
+	<l id="346">Vous faites la grimace ; ah ! Que vous êtes laid.</l>
+	<l id="347">Et pourquoi reculer et tourner de la sorte ?</l>
+	<l id="348">Messieurs, avez vous vu, cloué contre une porte,</l>
+	<l id="349" syll="10" part="i">Un [s]corpion vexé ? Regardez... Han !</l>
+<stage type="hurry">À ce moment Mordonc s'élance dans le cabinet où est Milady.</stage>
+	<l id="349" syll="2" part="f">Fripon !</l>
+	<l id="350" syll="3" part="i">Enfermé !</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="350" syll="3" part="m">Le brigand !</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="350" syll="3" part="m">Le traître !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="350" syll="6" part="m">Le poltron !</l>
+</sp>
+<sp who="PATHOS"><speaker>PATHOS.</speaker>
+	<l id="350" syll="1" part="f">Han!</l>
+<stage type="threat/fight">Avec les témoignages de la plus vivre indignation, il passe vivement son sabre par la [...] de la porte ; il ne peut le retirer. Ses amis unissent leurs efforts aux siens.</stage>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="351" syll="6" part="i">Courage ! Cela vient !</l>
+<stage type="work">[Il délivre] son sabre avec le turban de Mordonc.</stage>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="351" syll="3" part="m">Son turban !</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="351" syll="3" part="f">Non sans peine !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="352">Sa coiffure ne peut assouvir notre haine.</l>
+	<l id="353" syll="8" part="i">Fortos, enfoncez-moi ceci !</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="353" syll="4" part="f">C'est du sapin !</l>
+<stage type="hurt/fall">Il se jette contre la porte avec effort et comme elle n'est pas, fermée, il trébuche et tombe.</stage>
+	<l id="354" syll="6" part="i">N'importe... Elle a cédé !</l>
+<stage type="get/threat">Les trois autres gendarmes se précipitent dans le  cabinet et amènent Mordonc par le collet.</stage>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="354" syll="6" part="f">Nous le tenons enfin !</l>
+	<l id="355">Pour arrêter l'essor de tous ses artifices</l>
+	<l id="356">Qu'on le livre de suite aux plus affreux supplices.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="357">La loi_du_talion servira nos courroux :</l>
+	<l id="358">Qu'il mange le bifteck qu'il a salé pour nous.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="359" syll="4" part="i">Je n'ai pas faim !</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="359" syll="8" part="f">Alors la chose est retardée</l>
+	<l id="360">Messieurs ! Pathos a l'air de trouver une idée.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="361">En effet, ce supplice est commode et perçant,</l>
+	<l id="362">Et c'est sans y penser qu'on meurt en s'asseyant.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="363">Un sabre à l'estomac est pourtant indigeste.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="364">Ta douceur, Caramel, pourrait t'être funeste.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="365">Je ne veux pas m'asseoir sur un siège pointu !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="366">Mais de tous ces trépas lequel préfères-tu ?</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="367" syll="6" part="i">Sur ma parole... aucun.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="367" syll="6" part="f">J'aime cette franchise.</l>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS</speaker><stage>, indiquant la fenêtre.
+	</stage>
+	<l id="368">Sous ce balcon. Messieurs, l'onde écume et se brise,</l>
+	<l id="369" syll="10" part="i">Dans la Seine jetons ce turc affreux.</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="369" syll="2" part="f">C'est dit !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="370" syll="4" part="i">J'en appelle !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="370" syll="4" part="m">Meurs donc, Mordonc !</l>
+</sp>
+<stage type="pull/throw/location">On l'enlève et on le jette par la fenêtre.</stage>
+<sp who="MORDONC"><speaker>MORDONC</speaker><stage type="throw">, précipité.
+	</stage>
+	<l id="370" syll="4" part="f">Ah ! Milady !</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI ET DERNIÈRE.</head><stage> Feignant, Caramel, Portos, Pathos, Milady, Cromwell, puis Mordonc.
+</stage>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="entrance/hurry">, sortant précipitamment du cabinet.
+	</stage>
+	<l id="371">Dieu quel trouble ces cris ont jeté dans mon âme !</l>
+	<l id="372">Ces gendarmes encor ! Messieurs, je vous réclame</l>
+	<l id="373">Mordonc. Répondez-moi. Quel peut être son sort ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="show">, désignant la fenêtre.
+	</stage>
+	<l id="374" syll="9" part="i">Que vouliez-vous qu'il fit contre quatre ?</l>
+<stage type="fall/faint">Milady tombant anéantie.</stage>
+	<l id="374" syll="3" part="f">Il est mort !</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="375">Qu'on laisse à sa douleur cette femme imprudente.</l>
+	<l id="376" syll="2" part="i">Cromwell !</l>
+<stage type="entrance">Cromwell paraît.</stage>
+	<l id="376" syll="10" part="f">Que l'on nous serve à souper pour quarante !</l>
+<stage type="touch/exit/closer">À ces mots, Fortos serre la main de Feignant et ils sortent tous pendant que Cromwell s'approche de Milady.</stage>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="377" syll="6" part="i">Qu'avez-vous, Milady ?</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="377" syll="6" part="f">Ils ont jeté Mordonc</l>
+	<l id="378" syll="4" part="i">Dans ta Seine.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL</speaker><stage type="location/watch">, courant à la fenêtre.
+	</stage>
+	<l id="378" syll="8" part="f">C'est vrai ! Je l'aperçois au fond.</l>
+	<l id="379">Il se débat... Ô ciel ! Si tu restes sévère</l>
+	<l id="380">Pour cet ivrogne, au moins que l'eau lui soit légère !</l>
+<stage type="entrance/face">Rentrent les gendarmes, les bras croisés et très pâles.</stage>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="381">Je ne me trompe pas revoilà ces recors.</l>
+	<l id="382" syll="6" part="i">Que cherchez-vous ici ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="382" syll="6" part="f">Nous avons des remords.</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL.</speaker>
+	<l id="383">La pâleur en effet est d'un étrange augure,</l>
+	<l id="384">Et leur crime est écrit en blanc sur leur figure.</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY</speaker><stage type="kneel">, se jetant genoux.
+	</stage>
+	<l id="385">Si vous sauvez Mordonc, je promets pour longtemps</l>
+	<l id="386">De vivre dans sa crainte et l'amour des sergents.</l>
+</sp>
+<sp who="CARAMEL"><speaker>CARAMEL.</speaker>
+	<l id="387">Alexandre_Dumas, Madame, avec sa plume</l>
+	<l id="388">Lui-même n'y saurait parvenir. Un volume</l>
+	<l id="389" syll="6" part="i">N'en viendrait pas à bout.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="">, illuminé.
+	</stage>
+	<l id="389" syll="6" part="f">Une ligne pourtant</l>
+	<l id="390">Suffira, mes amis, à cet événement.</l>
+<stage type="get">Il s'empare d'une ligne appendue au mur.</stage>
+</sp>
+<sp who="FORTOS"><speaker>FORTOS.</speaker>
+	<l id="391" syll="3" part="i">Que dis-tu ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="show">, brandissant la ligne.
+	</stage>
+	<l id="391" syll="9" part="f">Que voici qui sauvera sa vie.</l>
+	<l id="392">Il est bercé par la vague en furie.</l>
+	<l id="393">Mais il lève la tète et son oeil aperçoit</l>
+	<l id="394">La ficelle. Ça prend ! Joignez-vous tous à moi.</l>
+	<l id="395">Ah ! cela me rappelle un MAL bien estimable</l>
+	<l id="396">Le vrai peut quelquefois n'être pas vraisemblable.</l>
+	<l id="397">Une secousse encor ; le voici du niveau.</l>
+	<l id="398" syll="1" part="i">Ah !</l>
+</sp>
+<stage type="entrance/hugh">Mordonc paraît au bout de la {scène], saute dans l'appartement et va se jeter au cou de Milady.</stage>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="398" syll="3" part="m">Milady !</l>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="398" syll="2" part="m">Mordonc !</l>
+</sp>
+<sp who="CROMWELL"><speaker>CROMWELL</speaker><stage>, t'essuyant les yeux.
+	</stage>
+	<l id="398" syll="6" part="f">Je pleure comme un veau !</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="399">Gendarmes, c'est donc vous qui me sauvez la vie ?</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT</speaker><stage type="touch">, lui tendant la main.
+	</stage>
+	<l id="400">Soyons amis, Mordonc, c'est moi qui t'en convie.</l>
+</sp>
+<sp who="MORDONC"><speaker>MORDONC.</speaker>
+	<l id="401">Ah ! Je veux désormais vous révérer toujours !</l>
+	<l id="402">C'est vous qui me rendez à mes chères amours.</l>
+</sp>
+<sp who="FEIGNANT"><speaker>FEIGNANT.</speaker>
+	<l id="403">Grave cette maxime au fin fond de ton âme :</l>
+	<l id="404" syll="8" part="i">Le gendarme est l'ami de l'homme.</l>
+<stage type="toword">Se retournant galamment vers Milady.</stage>
+	<l id="404" syll="4" part="f">et de la femme.</l>
+<stage type="title">VARIANTE.</stage>
+<stage type="explicit">Les vers suivants qui s'adaptent à la fin te la dernière scène des Trois Gendarmes permettent de terminer la pièce, par une danse quelconque.</stage>
+</sp>
+<sp who="MILADY"><speaker>MILADY.</speaker>
+	<l id="405">Et nous tous, célébrons ces jours trois fuis bénis</l>
+	<l id="406">Qui nous montrent les turcs aux gendarmes unis.</l>
+	<l id="407">Par une Mazurka réservée et décente</l>
+	<l id="408">La mère en permettra le spectacle... à sa tante.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1596 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES PETITS CADEAUX, COMÉDIE.</title>
+			<author type="texte" ISNI="0000 0001 1473 8442">Jacques NORMAND (1848-1931)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, mars 2023.</editor>
+				<publisher>Publié par Paul FIEVRE, avril 2023.</publisher>
+				<idno>NORMAND_PETITSCADEAUX</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1871-1880</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YF-24 (1)">https://gallica.bnf.fr/ark:/12148/bpt6k5662215v</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES PETITS CADEAUX</titlePart>
+			<titlePart type="sub">COMÉDIE EN UN ACTE</titlePart>
+		</docTitle>
+		<docDate value="1878">1878. Tous droits réservés.</docDate>
+		<docAuthor id="NORMAND, Jacques">PAR M. JACQUES NORMAND</docAuthor>
+		<docImprint>
+			<editor id="OLLENDORF">PARIS, PAUL OLLENDORF, ÉDITEUR, 28 bis, RUE DE RICHELIEU.</editor>
+			<printer>ÉVREUX, IMPRIMERIE DE CHALRES HÉRISSEY.</printer>
+		</docImprint>
+	<performance>
+		<premiere date="1875-05-12" location="Salle du Conservatoire">Jouée pour la première fois à Paris, dans la salle du Conservatoire, le 12 mai 1875.</premiere>
+	</performance>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="MONSIEUR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR</role>, M. COQUELIN.</castItem> 
+		<castItem><role id="MADAME" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME</role>, Madame FAVARD de la Comédie Française.</castItem> 
+		<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour="néant">UN DOMESTIQUE</role>, M. COQUELIN.</castItem> 
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+	<note>Extrait de "Théâtre de campagne, Première série (...)" Paris : Paul OLLENDORFF, 1876. pp. 162-191.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LES PETITS CADEAUX</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Monsieur, endormi dans un fauteuil, près de la cheminée, Un Domestique.
+</stage>
+<stage type="decor">Un salon.</stage>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE</speaker><stage type="carry">, apportant le journal.
+</stage>
+<p id="1">
+	<s id="1">Monsieur... </s>
+	<s id="2">Il dort ! </s>
+	<s id="3">Silence ! </s>
+	<s id="4">Ne le réveillons pas !... </s>
+	<s id="5">Il serait furieux !</s>
+</p>
+<stage type="drop/exit">Il pose le journal sur la table et sort sur la pointe des pieds.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="alone/dream/loud">, seul et rêvant tout haut.
+</stage>
+<p id="2">
+	<s id="1">Garçon ! </s>
+	<s id="2">Du Champagne ! </s>
+	<s id="3">Des carafes frappées ! </s>
+</p>
+<stage type="sing">Fredonnant un air de danse.</stage>
+<p id="3">
+	<s id="1">Maintenant, si nous dansions un peu ? </s>
+	<s id="2">C'est cela ! </s>
+	<s id="3">Une petite danse à caractère... </s>
+</p>
+<stage type="agiatated/furniture">Il s'agite sur son fauteuil.</stage>
+<p id="4">
+	<s id="1">En avant deux ! </s>
+</p>
+<stage type="wave/break/axake">Il remue les jambes et renverse les pincettes qui tombent avec fracas. Se réveillant en sursaut.</stage>
+<p id="5">
+	<s id="1">Hein ! </s>
+	<s id="2">Qu'est-ce donc ? </s>
+</p>
+<stage type="touch">Il se frotte les yeux.</stage>
+<p id="6">
+	<s id="1">Je me croyais... </s>
+	<s id="2">Mais non, je suis bien chez moi, dans mon salon... </s>
+	<s id="3">Onze_heures ! </s>
+	<s id="4">Voilà une heure au moins que je dors. </s>
+</p>
+<stage type="yawn">Il bâille.</stage>
+<p id="7">
+	<s id="1">Je me suis levé de si bonne heure... </s>
+	<s id="2">Ou plutôt je me suis couché si tard ! </s>
+	<s id="3">Brrrou ! </s>
+	<s id="4">Qu'il fait froid ! </s>
+</p>
+<stage type="closer">Il se rapproche du feu.</stage>
+<p id="8">
+	<s id="1">Je me sens tout singulier, ce matin... </s>
+	<s id="2">Mal à mon aise... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Voilà ce que c'est que de faire des folies ! </s>
+	<s id="5">Quand on a une femme charmante, - car elle est charmante, ma femme, - oublier ses devoirs jusqu'à aller souper avec... </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Monsieur, vous devriez rougir ! </s>
+</p>
+<stage type="stand/watch">Il se lève et se regarde dans la glace.</stage>
+<p id="9">
+	<s id="1">Pas du tout ! </s>
+	<s id="é">Vous êtes au contraire d'un pâle !... </s>
+</p>
+<stage type="slap">Se donnant un soufflet.</stage>
+<p id="10">
+	<s id="1">Misérable ! </s>
+	<s id="2">Rougis donc ! </s>
+	<s id="3">Repens-toi, Don_Juan ! </s>
+</p>
+<stage type="closer">S'avançant.</stage>
+<p id="11">
+	<s id="1">Don_Juan, à trente-cinq ans sonnés, c'est un peu... ridicule ! </s>
+	<s id="2">Que voulez-vous ! </s>
+	<s id="3">J'adore ma femme, c'est incontestable, mais le ciel m'a départi un coeur sensible, et l'on doit toujours, assure-t-on, obéir à son coeur. </s>
+	<s id="4">J'obéis donc souvent... trop souvent même. </s>
+	<s id="5">Ainsi, hier soir encore, hé bien ! </s>
+	<s id="6">Mon pauvre coeur a parle et j'ai eu la faiblesse de l'écouter. </s>
+	<s id="7">« Blanche, ai-je dit à ma femme, je suis obligé d'aller au cercle pour la réception d'un membre étranger. </s>
+	<s id="8">Je ne rentrerai probablement que tard : ne m'attends pas. » </s>
+	<s id="9">Elle m'a répondu, avec une douceur d'ange : « Va ! mon ami ! » </s>
+	<s id="10">Et j'ai été, moi infâme, non pas au cercle, mais dans un cabinet particulier, où je n'ai reçu personne, mais où j'ai amené quelqu'un... </s>
+	<s id="11">Ah ! </s>
+	<s id="12">Les regrets ! </s>
+	<s id="13">Les remords m'étouffent ; j'ai honte de ma conduite : je suis bien coupable ! </s>
+</p>
+<stage type="fall/furniture/hide/naive">Il tombe dans un fauteuil, se cachant le visage dans les mains ; puis au bout d'un instant, naïvement.</stage>
+<p id="12">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Non ! </s>
+	<s id="3">Que Voulez-vous ? </s>
+	<s id="4">J'ai beau faire ! </s>
+	<s id="5">Les remords ne m'étouffent pas, et je ne puis arriver à avoir honte de moi-même... </s>
+	<s id="6">Non, vraiment, je ne le puis pas... </s>
+	<s id="7">Ah ! </s>
+	<s id="8">C'est que j'ai un système admirable pour me mettre d'accord avec ma conscience ; un système parfait, à l'usage des maris au coeur sensible comme moi, et que j'expliquerais bien si j'étais sûr... </s>
+	<s id="9">Mais, sous ce rapport, je puis être tranquille, absolument tranquille, n'est-ce pas ?... </s>
+	<s id="10">Donc, ce système, le voici. </s>
+	<s id="11">Chaque fois...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Monsieur, Un Domestique.
+</stage>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="1">
+	<s id="1">On apporte un paquet pour monsieur.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="2">
+	<s id="1">De chez qui ?</s>
+</p>
+</sp>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE.</speaker>
+<p id="3">
+	<s id="1">De chez le bijoutier.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="4">
+	<s id="1">Ah ! </s>
+	<s id="2">Bien ! </s>
+	<s id="3">Donnez !</s>
+</p>
+</sp>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE</speaker><stage type="give">, lui remettant un écrin.
+</stage>
+<p id="5">
+	<s id="1">La facture est ci-jointe.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, prenant et lisant.
+</stage>
+<p id="6">
+	<s id="1">Diable ! </s>
+	<s id="2">C'est cher... </s>
+	<s id="3">Enfin, il le faut. </s>
+</p>
+<stage type="toward">Au domestique.</stage>
+<p id="7">
+	<s id="1">Dites que je passerai. </s>
+</p>
+<stage type="exit">Le domestique sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Comprenez-vous ? </s>
+	<s id="3">Le système, le voilà. Chaque fois que je commets une faute, je la répare ; chaque fois que j'obéis à mon coeur, je fais à ma femme un cadeau. </s>
+	<s id="4">Hier soir j'ai failli : vite un bijou ce matin. </s>
+	<s id="5">C'est réglé : je n'y manque jamais. </s>
+	<s id="6">Ce système de compensation est simplement admirable : grâce à lui, ma femme, qui aime naturellement les bijoux, est fort contente... et moi aussi ; grâce à lui, je mets une sourdine à la voix de ma conscience, qui est vraiment bonne fille et ne crie pas trop fort. </s>
+</p>
+<stage type="sit">S'asseyant et ouvrant l'écrin.</stage>
+<p id="2">
+	<s id="1">Ah ! </s>
+	<s id="2">J'ai été généreux aujourd'hui ; il est vrai que j'ai été si coupable hier soir ! </s>
+	<s id="3">Et puis, il faut bien faire quelques folies, pour s'en faire pardonner d'autres. </s>
+	<s id="4">Une bague ravissante... avec des perles ! </s>
+	<s id="5">Elle adore les perles. </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Cela réjouit de faire son devoir... ou à peu près...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Monsieur, Madame.
+</stage>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="1">
+	<s id="1">Je vous dérange ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="close">, refermant vivement l'écrin.
+</stage>
+<p id="2">
+	<s id="1">Mais non, ma chère ; jamais !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="watch">, ayant vu le mouvement.
+</stage>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">J'en étais sûre ! </s>
+	<s id="3">À nous deux, maintenant !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="watch">, de même.
+</stage>
+<p id="4">
+	<s id="1">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="5">
+	<s id="1">Rien.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="6">
+	<s id="1">J'avais cru... je me suis trompé. </s>
+	<s id="2">Comment cela va-t-il, ce matin ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="7">
+	<s id="1">Très bien, mon ami, merci. </s>
+	<s id="2">Et vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="8">
+	<s id="1">À merveille !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="9">
+	<s id="1">Vous avez l'air d'être gelé !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="10">
+	<s id="1">Gelé ! </s>
+	<s id="2">Moi ? </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Non, au contraire ! </s>
+	<s id="5">J'ai même trop chaud. </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="11">
+	<s id="1">Acceptons tout ! </s>
+	<s id="2">Je suis si coupable !
+</s>
+</p>
+<stage type="closer/sweet">S'approchant de sa femme, avec câlinerie.</stage>
+<p id="12">
+	<s id="1">A-t-on bien dormi, cette nuit, et a-t-on pardonné ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="13">
+	<s id="1">Pardonné ? </s>
+	<s id="2">À qui ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="14">
+	<s id="1">À moi.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="15">
+	<s id="1">Et quoi donc ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="16">
+	<s id="1">Mais, mon abandon d'hier soir. </s>
+	<s id="2">Je vous ai quittée...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, s'asseyant.
+</stage>
+<p id="17">
+	<s id="1">C'est vrai ! </s>
+	<s id="2">Je n'y pensais plus.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="offended">, piqué.
+</stage>
+<p id="18">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="19">
+	<s id="1">Eh bien ! </s>
+	<s id="2">L'avez-vous reçu convenablement ce membre étranger ? </s>
+	<s id="3">Vous êtes-vous montrés hospitaliers : pour ce pauvre homme ? </s>
+
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="20">
+	<s id="1">Sans doute.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="21">
+	<s id="1">C'est un Turc ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="22">
+	<s id="1">Non... </s>
+	<s id="2">Un Polonais.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="23">
+	<s id="1">Avec des bottes ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="24">
+	<s id="1">Non... </s>
+	<s id="2">C'est-à-dire si ! </s>
+	<s id="4">Des bottes, mais si petites !... </s>
+	<s id="5">Presque des bottines ! </s>
+	<s id="6">Ah ! </s>
+	<s id="7">C'était très intéressant, cette réception, très brillant... </s>
+	<s id="8">Et cela a duré fort tard. </s>
+	<s id="9">Et vous, ma chère, qu'avez-vous fait ? </s>
+	<s id="10">Vous avez dû bien vous ennuyer ainsi, toute seule au coin de votre feu...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="25">
+	<s id="1">Mais non ! </s>
+	<s id="2">Je vous assure. </s>
+	<s id="3">J'ai travaillé, j'ai lu ; à onze heures, j'étais couchée.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part.
+</stage>
+<p id="26">
+	<s id="1">Onze heures ! </s>
+	<s id="2">L'heure du crime ! </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Ma conscience !</s>
+</p>
+<stage type="show">Montrant l'écrin qu'il a tenu constamment derrière lui.</stage>
+<p id="27">
+	<s id="1">Heureusement que j'ai là de quoi l'apaiser. </s>
+</p>
+<stage type="loud/push/furniture">Haut à sa femme, et s'appuyant sur le dossier de sa chaise.</stage>
+<p id="28">
+	<s id="1">Ma chère Blanche...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="low">, bas.
+</stage>
+<p id="29">
+	<s id="1">Voilà l'attaque qui commence. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="30">
+	<s id="1">Mon ami...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="31">
+	<s id="1">Savez-vous ce que je me disais tout à l'heure en vous regardant ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="32">
+	<s id="1">Je m'en doute.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="33">
+	<s id="1">Et c'est...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="34">
+	<s id="1">Que je suis jolie ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="35">
+	<s id="1">Non... </s>
+	<s id="2">C'est-à-dire, si ! </s>
+	<s id="3">Mais je me disais aussi autre chose.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="36">
+	<s id="1">Et c'était ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="37">
+	<s id="1">Que je suis un mari bien coupable, de vous laisser ainsi si souvent seule le soir, de n'être pas toujours près de vous, à vos côtés...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="38">
+	<s id="1">Oh ! </s>
+	<s id="2">Je ne vous en veux pas !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="39">
+	<s id="1">Parce que vous êtes la bonté même ! </s>
+	<s id="2">Mais moi, je me fais souvent des reproches, de violents reproches...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="40">
+	<s id="1">Oh ! </s>
+	<s id="2">Ils sont bien peu mérités !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="41">
+	<s id="1">Mais si, ils le sont... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="42">
+	<s id="1">Ange ! </s>
+	<s id="2">Va ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="43">
+	<s id="1">Aussi, afin de me prouver que vous m'avez pardonné tout à fait, soyez donc assez bonne pour...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="continue">, continuant sur le même ton.
+</stage>
+<p id="44">
+	<s id="1">Accepter ce petit cadeau...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="45">
+	<s id="1">Justement... </s>
+	<s id="2">Que je suis trop heureux...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="continue">, continuant.
+</stage>
+<p id="46">
+	<s id="1">De pouvoir vous offrir.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, un peu interloqué.
+</stage>
+<p id="47">
+	<s id="1">C'est cela... </s>
+	<s id="2">Vous aviez deviné...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="48">
+	<s id="1">Sans doute ; vous êtes si bon et si souvent bon pour moi !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="49">
+	<s id="1">Jamais assez !... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="50">
+	<s id="1">Scélérat ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="51">
+	<s id="1">Vous acceptez, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="52">
+	<s id="1">Moi ? </s>
+	<s id="2">Mais certainement... </s>
+	<s id="3">J'ai déjà accepté deux broches, trois paires de pendants_d_oreilles, cinq bagues et à peu près autant de bracelets ; et je n'accepterais pas aujourd'hui ce... cette... </s>
+	<s id="4">Qu'est-ce que c'est, cette fois-ci ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="53">
+	<s id="1">Une bague... avec des perles... </s>
+	<s id="2">Vous aimez les perles, je crois ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="leave">, sans prendre l'écrin.
+</stage>
+<p id="54">
+	<s id="1">Oh ! </s>
+	<s id="2">Vous devriez commencer à en être sûr. </s>
+	<s id="3">- Donc, c'est dit, j'accepte ; mais à une condition.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="55">
+	<s id="1">J'y souscris d'avance. </s>
+	<s id="2">Et c'est...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="56">
+	<s id="1">De me permettre d'agir à votre égard comme vous le faites au mien.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, se reculant étonné.
+</stage>
+<p id="57">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="58">
+	<s id="1">Je veux aussi vous faire mon petit cadeau.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="59">
+	<s id="1">À moi ? </s>
+	<s id="2">Et pourquoi ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="60">
+	<s id="1">Et vous, pourquoi m'en faites-vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="61">
+	<s id="1">Moi ? </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="62">
+	<s id="1">Diable ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="63">
+	<s id="1">Parce que cela me fait plaisir.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="64">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Moi aussi. </s>
+	<s id="3">Tenez, je me suis aperçue que votre porte-monnaie - inépuisable - commençait à vieillir : le voici remplacé. </s>
+</p>
+<stage type="get/give">Elle tire un porte-monnaie de sa poche et le lui tend.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="get">, sans prendre le porte-monnaie.
+</stage>
+<p id="65">
+	<s id="1">Merci bien... mais... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="66">
+	<s id="1">Cela me fait un singulier effet !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, lui tendant le porte-monnaie.
+</stage>
+<p id="67">
+	<s id="1">Allons ! </s>
+	<s id="2">Donnez à gauche, moi à droite ; c'est un échange : cela vous va-t-il ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="68">
+	<s id="1">Très bien !... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="69">
+	<s id="1">Ah ! </s>
+	<s id="2">Mais ! </s>
+	<s id="3">Pas du tout ! </s>
+</p>
+<stage type="get">Il prend le porte-monnaie, et Madame la bague.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="watch">, regardant la bague.
+</stage>
+<p id="70">
+	<s id="1">Ravissante.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, regardant le porte-monnaie.
+</stage>
+<p id="71">
+	<s id="1">Très joli !... </s>
+</p>
+<stage type="toward">À sa femme.</stage>
+<p id="72">
+	<s id="1">Merci, ma chère ; mais c'est la dernière fois, je pense, que vous me faites un cadeau ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="73">
+	<s id="1">Pourquoi cela ? </s>
+	<s id="2">Mon porte-monnaie n'est-il pas de votre goût ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="74">
+	<s id="1">Tout à fait... mais...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="75">
+	<s id="1">Alors, pourquoi m'arrêter en si beau chemin ? </s>
+</p>
+<stage type="tocuh/sweet">Prenant le bras de son mari avec câlinerie.</stage>
+<note type="L">Mellerio : Nom d'une joaillerie parisienne pluri-centenaire installée rue de la Paix, toujours dirigée par une decendante de la famille Mellerio.</note>
+<p id="76">
+	<s id="1">Vous souvenez-vous, mon cher, voilà quinze jours environ, nous nous promenions le soir rue_de_la_Paix ; vous m'avez fait remarquer, à la vitrine de Mellerio, une épingle de cravate, jolie, oh ! mais ! jolie !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="77">
+	<s id="1">Peut-être... </s>
+	<s id="2">Eh bien ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="78">
+	<s id="1">J'en ai commandé pour vous une pareille ; je dois même la recevoir ce matin.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="away">, se reculant.
+</stage>
+<p id="79">
+	<s id="1">Ah ! </s>
+	<s id="2">Non ! </s>
+	<s id="3">Cette fois-ci, c'est trop ! </s>
+	<s id="4">Je n'accepterai pas !</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="80">
+	<s id="1">Qu'est-ce que cela veut dire ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="81">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="82">
+	<s id="1">Parce que vous n'avez pas à me faire de cadeaux... </s>
+</p>
+<stage type="walk/agitated">Il se promène avec agitation de long en large.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="83">
+	<s id="1">Et vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="84">
+	<s id="1">Moi... c'est différent ! </s>
+	<s id="2">Parce que je ne veux pas que vous dépensiez votre argent inutilement.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="85">
+	<s id="1">Et vous ?...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="86">
+	<s id="1">Je vous répète que moi c'est différent ! </s>
+	<s id="2">Un mari peut faire des cadeaux à sa femme !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="87">
+	<s id="1">Et une femme à son mari !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="88">
+	<s id="1">Ce n'est pas la règle !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="89">
+	<s id="1">Ce sera l'exception !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="90">
+	<s id="1">Un porte-monnaie ! </s>
+	<s id="2">Une épingle ! </s>
+	<s id="3">Tout cela en même temps ! </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="91">
+	<s id="1">Moi, du moins, je mets quinze_jours d'intervalle !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="strong">, insistant.
+</stage>
+<p id="92">
+	<s id="">Vous ne voulez pas ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="93">
+	<s id="1">Nous avons des moments très durs à passer.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="94">
+	<s id="1">Nous les passerons !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="95">
+	<s id="1">Ce sont de folles dépenses ! </s>
+	<s id="2">Il faut penser à l'avenir, aux enfants !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="96">
+	<s id="1">Nous n'en avons pas !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="97">
+	<s id="1">Nous en aurons !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="98">
+	<s id="1">Enfin, mon cher, je veux que vous acceptiez.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="99">
+	<s id="1">Et moi, je m'y refuse absolument.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="sit/furniture">, se jetant dans un fauteuil d'un air indifférent.
+</stage>
+<p id="100">
+	<s id="1">Puisque c'est un système, je me tais ! </s>
+</p>
+<stage type="get/open/watch">Elle prend le journal, l'ouvre et a l'air de lire, tout en observant son mari.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à lui-même.
+</stage>
+<p id="101">
+	<s id="1">Un système ?... </s>
+	<s id="2">Est-ce un mot à mon adresse ? </s>
+	<s id="3">Dieu ! </s>
+	<s id="4">Que ma situation est embarrassante ! </s>
+	<s id="5">Pour me faire ce cadeau, a-t-elle les mêmes raisons que moi ?... </s>
+	<s id="6">Oh ! </s>
+	<s id="7">Je ne veux pas le croire. </s>
+	<s id="8">Sait-elle tout ? </s>
+	<s id="9">Je voudrais bien savoir si elle sait tout ; mais, d'un autre côté, si elle ne sait rien, j'ai peur, en ayant l'air de savoir qu'elle sait tout, de lui faire tout savoir... </s>
+	<s id="10">Mon_Dieu ! </s>
+	<s id="11">Mon_Dieu !... </s>
+</p>
+<stage type="closer">S'approchant de sa femme.</stage>
+<p id="102">
+	<s id="1">Blanche...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="read">, sans interrompre sa lecture.
+</stage>
+<p id="103">
+	<s id="1">Mon épingle !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="104">
+	<s id="1">Écoutez-moi...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="105">
+	<s id="1">Mon épingle !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="106">
+	<s id="1">Non ! </s>
+	<s id="2">Mille fois non ! </s>
+</p>
+<stage type="walk/agitated/silence">Il se promène avec agitation de long en large. Un silence.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="read">, lisant.
+</stage>
+<p id="107">
+	<s id="">« On annonce comme certain qu'un nouveau soulèvement vient d'avoir lieu en Algérie, dans la province d'Oran... » </s>
+</p>
+<stage type="sigh">Avec un soupir.</stage>
+<p id="108">
+	<s id="1">Pauvre Charles !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="109">
+	<s id="1">Qui, Charles ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="110">
+	<s id="1">Charles_de_Verrières, mon cousin. </s>
+	<s id="2">Vous l'avez vu une fois.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="111">
+	<s id="1">L'officier de chasseurs_d_Afrique ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="112">
+	<s id="1">Justement ! </s>
+	<s id="2">À propos, j'ai oublié de vous dire qu'il est à Paris en ce moment.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="113">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="114">
+	<s id="1">Oui. </s>
+	<s id="2">Il est même venu me voir hier.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="115">
+	<s id="1">Hier ?...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<note type="L">Dolman : Veste à manches faisant partie de l'uniforme des hussards. [L]</note>
+<p id="116">
+	<s id="1">Il était en uniforme... grandes bottes molles - de vraies bottes, celles-là - pantalon rouge, dolman bleu... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Je ne connais rien de charmant comme cet uniforme ! </s>
+	<s id="4">Ce bleu surtout est adorable, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="117">
+	<s id="1">Peuh ! </s>
+	<s id="2">C'est bien salissant !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="118">
+	<s id="1">Il paraît qu'il s'est admirablement conduit là-bas ; on l'a nommé capitaine ; il a donné la chasse aux Arabes ; il a même tué un chef, je crois...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="119">
+	<s id="1">C'est lui-même qui vous a mise au courant de ces hauts faits d'armes ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<note type="L">Ruban rouge : marque que celui qui la porte est en détenteur de la Légion d'honneur. </note>
+<p id="120">
+	<s id="1">Oh ! </s>
+	<s id="2">Vous le.connaissez peu ! </s>
+	<s id="3">Il est aussi modeste que brave !... </s>
+	<s id="4">J'ai su tout cela indirectement... </s>
+	<s id="5">D'ailleurs, en dépit de sa modestie, un bout de ruban rouge, sur ce bleu... salissant, était une preuve...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="121">
+	<s id="1">Oh ! </s>
+	<s id="2">Une preuve ! </s>
+	<s id="3">Aujourd'hui, tout le monde est décoré !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="watch/costume">, levant les yeux sur la boutonnière de son mari et regardant fixement.
+</stage>
+<p id="122">
+	<s id="1">Tout le monde ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="think">, comprenant le mouvement.
+</stage>
+<p id="123">
+	<s id="1">Tout le monde dans l'armée ! </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="124">
+	<s id="1">Ah ça ! </s>
+	<s id="2">Est-ce que le cousin_de_Verrières serait pour quelque chose dans le cadeau que ma femme veut bien me faire aujourd'hui ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="read">, relisant le journal.
+</stage>
+<p id="125">
+	<s id="1">Si cette nouvelle est vraie, il va être obligé de retourner là-bas..? et tout de suite. </s>
+	<s id="2">Pauvre cousin !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="126">
+	<s id="1">Les soldats sont faits pour se battre !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="127">
+	<s id="1">Sans doute, on en tue même quelques-uns de temps en temps. </s>
+	<s id="2">Ah ! </s>
+	<s id="3">C'est horrible à penser !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="128">
+	<s id="1">Hé bien ! </s>
+	<s id="2">N'y pensez pas !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="129">
+	<s id="1">Monsieur_de_Verrières est mon cousin, mon ami d'enfance : nous avons été élevés ensemble ; il a même été question un moment... </s>
+	<s id="2">Mais cela n'a pas réussi.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="130">
+	<s id="1">Tant pis !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="131">
+	<s id="1">Merci bien !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="132">
+	<s id="1">Tant pis... pour vous, qui adorez le bleu de ciel.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="133">
+	<s id="1">Oh ! </s>
+	<s id="2">L'uniforme n'est que l'accessoire ; je vous assure que Monsieur_de_Verrières sait porter un habit.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="134">
+	<s id="1">De grâce, assez de plaisanteries ! </s>
+	<s id="2">Parlons franchement ! </s>
+	<s id="3">- Ce cadeau...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="stand/quick">, se levant vivement.
+</stage>
+<p id="135">
+	<s id="1">Vous l'acceptez... </s>
+	<s id="2">Enfin !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="136">
+	<s id="1">Non pas ! </s>
+	<s id="2">De cadeau...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="137">
+	<s id="1">Hé bien ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="138">
+	<s id="1">Voyons, ma chère, dites-moi toute la vérité : vous me le donnez parce que vous voulez me faire comprendre... </s>
+	<s id="2">Comment dirai-je ? </s>
+	<s id="3">Me faire sentir que vous avez appris...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="quick">, vivement.
+</stage>
+<p id="139">
+	<s id="1">Quoi donc ? </s>
+	<s id="2">Qu'ai-je appris ? </s>
+	<s id="3">Qu'ai-je pu apprendre ? </s>
+	<s id="4">Mon ami, dites-le-moi... </s>
+	<s id="5">Vous savez combien je suis curieuse... </s>
+	<s id="6">Est-ce quelque chose qui vous intéresse ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part.
+</stage>
+<p id="140">
+	<s id="">Impossible de rien savoir... </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="141">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="142">
+	<s id="1">Quelque chose de fâcheux pour vous ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="143">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="144">
+	<s id="1">Pour moi ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="145">
+	<s id="1">Pas davantage.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="146">
+	<s id="1">Qu'est-ce donc, enfin ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="147">
+	<s id="1">Mais rien... </s>
+	<s id="2">Je ne sais même plus de quoi je voulais parler... </s>
+	<s id="3">J'avais la tête ailleurs.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="watch">, le regardant en face.
+</stage>
+<p id="148">
+	<s id="">En effet, vous avez un air étrange ce matin, mon ami, vous êtes pâle... </s>
+	<s id="2">Vous avez mal dormi, sans doute... </s>
+	<s id="3">Seriez-vous malade ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="149">
+	<s id="1">Mais non... mais non...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="150">
+	<s id="1">Peut-être avez-vous froid ? </s>
+	<s id="2">Je vais faire mettre une bûche au feu. </s>
+</p>
+<stage type="ring">Elle sonne.</stage>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part.
+</stage>
+<p id="151">
+	<s id="1">Il est écrit que je ne saurai rien. </s>
+	<s id="2">Je ne puis pourtant rester dans un doute pareil... </s>
+	<s id="3">Mais comment diable en sortir ?</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Mêmes, Le Domestique.
+</stage>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="toward">, au domestique.
+</stage>
+<p id="1">
+	<s id="1">Mettez une bûche au feu.</s>
+</p>
+</sp>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE.</speaker>
+<p id="2">
+	<s id="1">On apporte à l'instant un paquet pour Madame.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="3">
+	<s id="1">De chez qui ?</s>
+</p>
+</sp>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE</speaker><stage type="give">, lui donnant le paquet.
+</stage>
+<p id="4">
+	<s id="1">De chez le bijoutier.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Donnez...</s>
+</p>
+<stage type="exit">Le domestique sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Monsieur, Madame.
+</stage>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<stage type="closer/slow">Elle s'avance à petits pas près de son mari, en tenant le
+petit paquet en l'air.</stage>
+<p id="1">
+	<s id="">La voilà !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="open">, sans lever les yeux.
+</stage>
+<p id="2">
+	<s id="1">Ce qui est dit, est dit !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="1">
+	<s id="1">C'est une perle, comme la bague que vous m'avez donnée. </s>
+	<s id="2">- Aimez-vous les perles ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="2">
+	<s id="1">Pas du tout,</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="3">
+	<s id="1">Elle vient de chez Mellerio, comme votre bague : c'est de la même fabrique.</s>
+</p>	
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part.
+</stage>
+<p id="4">
+	<s id="1">Serait-ce une allusion ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="5">
+	<s id="1">Décidément, vous ne voulez pas accepter ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="6">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="7">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Tant pis ! </s>
+	<s id="3">Car si vous l'aviez prise, je vous aurais dit...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="8">
+	<s id="1">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="9">
+	<s id="1">Ce que vous désirez tant savoir.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="10">
+	<s id="1">Vous m'auriez dit... </s>
+	<s id="2">Pourquoi vous me faites ce cadeau ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="11">
+	<s id="1">Justement !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="12">
+	<s id="1">Est-ce la vérité ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="13">
+	<s id="1">A vous de vous en assurer.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="14">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="15">
+	<s id="1">En acceptant.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="16">
+	<s id="1">Eh bien ! </s>
+	<s id="2">J'accepte.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="">, lui tendant la boite.
+</stage>
+<p id="17">
+	<s id="1">Voici.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="18">
+	<s id="1">Pardon ! </s>
+	<s id="2">J'accepte ; mais exécutez-vous d'abord, je ne prendrai qu'après.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="19">
+	<s id="1">Pas de compromis : donnant, donnant.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="20">
+	<s id="1">Cependant...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="21">
+	<s id="1">Alors vous ne saurez rien.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part.
+</stage>
+<p id="22">
+	<s id="1">Elle est impitoyable. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="23">
+	<s id="1">Savez-vous que vous avez la volonté d'un homme ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="24">
+	<s id="1">Et vous la curiosité d'une femme ? </s>
+	<s id="2">Voyons ! </s>
+	<s id="3">Une, deux...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="25">
+	<s id="1">Trois ! </s>
+	<s id="2">J'accepte.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="26">
+	<s id="1">Enfin !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="get">, prenant la boîte.
+</stage>
+<p id="27">
+	<s id="1">Et je prends livraison... </s>
+	<s id="2">Maintenant, votre promesse.</s>
+</p>
+</sp>
+<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE</speaker><stage type="entrance">, entrant et annonçant.
+</stage>
+<p id="28">
+	<s id="1">Le déjeuner est servi. </s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="29">
+	<s id="1">Si nous allions déjeuner ? </s>
+	<s id="2">Je me meurs de faim.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="30">
+	<s id="1">Et votre promesse ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="31">
+	<s id="1">Onze_heures_et_demie ! </s>
+	<s id="2">Mon_Dieu ! </s>
+	<s id="3">Que j'ai faim. </s>
+	<s id="4">Votre bras ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="32">
+	<s id="1">Mais, ma chère, cette promesse...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="33">
+	<s id="1">Après le déjeuner.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="34">
+	<s id="1">Non, je vous en prie, tout de suite.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="35">
+	<s id="1">Vous tenez donc bien à le savoir ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="36">
+	<s id="1">Beaucoup.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="37">
+	<s id="1">Vous avez peut-être tort, en vérité.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="38">
+	<s id="1">N'importe !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="39">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Mon ami, écoutez-moi. </s>
+	<s id="3">Voilà cinq ans que nous sommes mariés, n'est-il pas vrai ? </s>
+	<s id="4">Pendant les quatre premières années, soit dit sans reproche, vous me faisiez de temps en temps un cadeau, mais de temps en temps seulement, juste assez pour ne pas manquer au proverbe et « entretenir l'amitié ». </s>
+	<s id="5">Tout à coup, voilà un an environ, les cordons de votre bourse se délient comme par enchantement ; le Pactole y avait passé sans doute ; je reçois cadeaux sur cadeaux, colliers petits et grands, bagues pour tous les doigts, bracelets divers : en un mot, de quoi avoir l'air d'une châsse, si je portais tout ce que j'ai reçu.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="40">
+	<s id="1">Et ce procédé vous a blessée ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="41">
+	<s id="1">Non pas ! </s>
+	<s id="2">Mais étonnée. </s>
+	<s id="3">Je suis femme, mon ami, très femme, c'est-à-dire curieuse à la centième puissance, et tandis qu'à chaque nouveau cadeau je vous disais tout haut : « Merci ! », je me disais tout bas, en moi-même : « Pourquoi ? » </s>
+	<s id="4">Toutes vos pierreries, destinées à m'éblouir, m'ont au contraire éclairée, car il m'est venu tout à coup en tête un souvenir, bien bizarre, vous l'avouerez.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="42">
+	<s id="1">Un souvenir ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="43">
+	<s id="1">Oui, je me suis souvenue de ces madones italiennes surchargées de parures merveilleuses, de bijoux étincelants, qu'elles doivent à un repentir généreux ou à une tardive expiation. </s>
+	<s id="2">Ce souvenir m'a fait réfléchir, j'ai comparé, j'ai cherché à comprendre... et je crois avoir compris.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="aparte">, à part. 
+</stage>
+<p id="44">
+	<s id="1">Pincé ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="45">
+	<s id="1">Mais, je vous assure..,</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="46">
+	<s id="1">Si, mon ami ! </s>
+	<s id="2">J'ai compris. </s>
+	<s id="3">Vous venez d'en avoir la preuve.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="47">
+	<s id="1">La preuve ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="48">
+	<s id="1">Oui. </s>
+	<s id="2">Cette épingle que je vous ai donnée.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="49">
+	<s id="1">Comment ! </s>
+	<s id="2">Cette épingle, vous me l'avez donnée, parce que vous... parce que je...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="50">
+	<s id="1">Justement !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="51">
+	<s id="1">Mais c'est indigne ! </s>
+	<s id="2">Comment, vous osez m'avouer en face que je... que vous...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="52">
+	<s id="1">Mais dites-le donc !</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="53">
+	<s id="1">Que vous m'avez indignement trompé !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage type="cold">, avec le plus grand sang-froid.
+</stage>
+<p id="54">
+	<s id="1">Merci, mon cher ! </s>
+	<s id="2">Vous vous êtes trahi ; jusqu'ici je pouvais encore douter ; maintenant, je sais à quoi m'en tenir.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage>, à part.
+</stage>
+<p id="55">
+	<s id="">Imbécile ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="56">
+	<s id="1">Il ne s'agit pas de moi, Madame, mais de vous ! </s>
+	<s id="2">Il est des choses qui sont excusables pour un homme et impardonnables pour une femme, et je veux... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Ce Monsieur_de_Verrières !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME</speaker><stage>, riant.
+</stage>
+<p id="57">
+	<s id="">Allons, mon cher, ne vous agitez pas ainsi, comme un Othello : Monsieur_de_Verrières est en Afrique depuis quatre ans et ne songe pas, que je sache, à en revenir.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="58">
+	<s id="1">Qui me le prouve ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="49">
+	<s id="1">Si ce que vous craignez eût été vrai, vous l'eusse-je avoué ? </s>
+	<s id="2">- Vous savez bien que non... par expérience.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="50">
+	<s id="1">Mais alors ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="51">
+	<s id="1">Hé bien ! </s>
+	<s id="2">J'ai voulu savoir si mes doutes étaient fondés ; pour cela, je n'avais qu'un moyen : vous combattre avec vos propres armes : c'est ce que j'ai fait... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Que je m'amuse depuis une demi-heure ! </s>
+	<s id="5">Je vous presse, je vous pousse, je me donne le plaisir bien permis, vous l'avouerez, de vous tourmenter un peu ; enfin, vous venez de vous livrer vous-même : c'est tout ce que je voulais. </s>
+	<s id="6">Comprenez-vous maintenant ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="56">
+	<s id="1">Oui, je comprends ! </s>
+	<s id="2">Et je suis un sot d'oublier un seul moment que vous êtes la plus aimable des femmes et que vous devriez être la plus aimée. </s>
+	<s id="3">C'est ce que je vous promets désormais. </s>
+	<s id="4">M'est-il permis de signer ma promesse sur la main de mon vainqueur ? </s>
+</p>
+<stage type="kiss">Il lui prend la main et va pour la baiser.</stage>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="57">
+	<s id="1">Prenez garde ! </s>
+	<s id="2">Il y a sur cette main-là les deux dernières bagues que vous m'avez données.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="kiss">, cherchant à lui embrasser le bras.
+</stage>
+<p id="58">
+	<s id="1">Un peu plus haut, alors.</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="59">
+	<s id="1">Attention au troisième bracelet... </s>
+	<s id="2">C'est celui de février dernier.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="60">
+	<s id="1">Ah ! </s>
+	<s id="2">Tous ces bijoux maudits ! </s>
+	<s id="3">Que je ne les voie plus ! </s>
+	<s id="4">Jetez-les ! </s>
+	<s id="5">Jetez-les !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="61">
+	<s id="1">Halte-là ! </s>
+	<s id="2">Mon ami : pas de sacrifice inutile ! </s>
+	<s id="3">- Seulement souvenez-vous bien d'une chose : ce cadeau que je vous fais aujourd'hui, je vous le donne ; mais au premier cadeau expiatoire que vous m'offrez...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="62">
+	<s id="1">Hé bien ?</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="63">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Les petits cadeaux...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="64">
+	<s id="1">Ça entretient l'amitié ?...</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="65">
+	<s id="1">Non ! </s>
+	<s id="2">Ça se rend.</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<p id="66">
+	<s id="1">Diable !</s>
+</p>
+</sp>
+<sp who="MADAME"><speaker>MADAME.</speaker>
+<p id="67">
+	<s id="1">Maintenant, nous pouvons aller déjeuner, mon ami. </s>
+	<s id="2">Vous voilà au courant de la situation, n'est-il pas vrai ? </s>
+	<s id="3">Votre bras...</s>
+</p>
+</sp>
+<sp who="MONSIEUR"><speaker>MONSIEUR.</speaker>
+<stage type="closer/toward">Il prend le bras de Madame, puis, passant sur le
+devant de la scène, au public.</stage>
+<p id="68">
+	<s id="1">Vous savez... </s>
+	<s id="2">Je ne vous le recommande plus, mon système... </s>
+	<s id="3">Il coûte très cher et ne vaut rien !</s>
+</p>
+<stage type="close">La toile tombe.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

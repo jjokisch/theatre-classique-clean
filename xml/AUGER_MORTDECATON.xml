@@ -1,0 +1,2772 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA MORT DE CATON, TRAGÉDIE.</title>
+				<author type="texte" ISNI="">Jacques AUGER (16..-16..)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, août 2022.</editor>
+				<publisher>Publié par Paul FIEVRE, septembre 2022.</publisher>
+				<idno>AUGER_MORTDECATON</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire</inspiration>
+				<type>vers</type>
+				<structure>Cinq actes</structure>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien cote="BnF ARS 8-BL-13881">https://gallica.bnf.fr/ark:/12148/bpt6k10901853</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA MORT DE CATON</titlePart>
+			<titlePart type="sub">OU L'ILLUSTRE DÉSESPÉRÉ</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1648">M. DC. XLVIII. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="AUGER, Jacques"/>
+		<docImprint>
+			<privilege id="">
+				<p>Louis par la grâce de Dieu, Roi de France et de Navarre : à nos amés et féaux les gens tenants nos Cours de parlement, Maîtres des requêtes ordinaires de notre Hôtel, Baillifs, Sénéchaux, Prévôts, ou leurs lieutenant, et autres juges et officiers qu'il appartiendra, Salut. Notre cher et bien âmé Jacques Auger nous a fait remontrer qu'il avait composé une pièce de théâtre intitulée La Mort de Caton, ou l'Illustre désespéré, laquelle in désirerait fait imprimer et mettre en lumière, ce qu'il ne peut faire sans nos lettres à ce nécessaire, humblement nous requérant icelles. À CESCAUSES désirant favorablement traiter ledit exposant, nous lui avons permis et permettons par ces présentes, de faire imprimer, vendre et distribuer ladite pièce de théâtre, par tel libraire et imprimeur qu'il avisera bon être, en tel volume et caractère que bon lui semblera, durant le temps et espace de trois ans entiers et accomplis, à compter du jour que ladite pièce sera achevée pour la première fois ; pendant lequel temps nous faisons très expresses inhibitions et défenses à tous libraires et imprimeurs, et autres personnes de quelque qualité qu'elle soient, de contrefaire ledit livre, l'imprimer ou faire imprimer, vendre ni distribuer,sur peine de confiscation des exemplaires, de quinze cents livres d'amende, et de tous dépens, dommages et intérêts dudit exposant : à la charge toutefois de mettre deux exemplaires dudit livre en notre bibliothèque publique, et un autre en celle de notre très cher et féal le Sieur Séguier, Chevalier et Chancelier de France à peine de nullité des présentes ; CAR TEL est notre plaisir ; nonobstant Clameur de Haro, Charte Normande et autres lettres à ce contraires. DONNÉ àPAris le seizième jour de Septembre l'an de grâce 1647. Et de notre règne le cinquième. Signé, par leRoi en son conseil, VABOIS. Et scellé du grand sceau de cire jaune sur simple queue.</p>
+			</privilege>
+			<acheveImprime id="1647-12-05">Achevé d'imprimer pour la première fois à Rouen par Laurent Maurry, ce cinquième décembre 1647.</acheveImprime>
+			<editor id="BESONGNE">Imprimé à Rouen et se vend À Paris, Chez CARDIN BESONGNE au haut de la montée de la Sainte-Chapelle, aux Roses vermeilles.</editor>
+		</docImprint>
+		<performance>
+			<premiere date="1646" location=""/>
+		</performance>
+	<div type="PREFACE"><head>AU LECTEUR.</head>
+		<p>Je ne fais pas sortir Caton du tombeau pour monter sur le théâtre du monde, à dessein de porter au désespoir ceux qui se trouvent accablés d'une revers de fortune, et de quelques fâcheuses tribulations : La Politique, et la Morale même des païens, ont des maximes directement opposés à ce malheureux procédé, et les vertus qui servent de phare et de conduite de belles âmes, les doivent empêcher d'en venir à ces extrémités.</p>
+		<p>Je le propose aux grands capitaines, pour servir de modèle et d'idée à leur générosité, et sur cet exemple ils pourront former une vaillance capable d'affronter les hasards, tentes les périls, éviter les dangers, braver la fortune, et résister à ses ennemis. Une personne auguste et généreuse est comme un astre adorable qui sert de guide aux belles âmes, pour les conduire au sommet de la Vertu : mais comme toutes les médailles ont leur revers, je fais paraître Caton au jour, afin qu'on reconnaisse en lui ses tâches et ses défauts, et montrer aux plus grands hommes de la terre, que bien qu'ils soient élevés au dessus de la tête des autres, ils ne laissent pas d'avoir des défauts dans leurs avantages, et des imperfections dans leurs vertus, qui ternissent le plus souvent la pompe et la gloire, qui sont les derniers degrés du trône de leur grandeur. Il est vrai que Caton avait presque toutes les parties requises à faire un grand héros, et Rome prisa ce personnage autant qu'on doit estimer les mérites d'un homme, qui n'a rien de commun avec ses âmes roturières et basses, qui rampent toujours sur la terre ; la monde aurait encor bien du sujet d'élever des statues en son honneur et de célébrer ses trophées, si le dernier période de sa vie n'eut pas démenti son progrès et son commencement. On peut encore considérer un grand défaut de prudence et de jugement en la conduite de ce grand personnage, en souffrant le neveu de son ennemi dans Utique ; i: devait prévoir que son accortise et les submissions qu'il rendait même jusqu'aux soldats, était un stratagème duquel il se servait, pour avoir une parfaite connaissance de tout ce qui se passait, au préjudice des avantages de la gloire de César ; Bel exemple, où l'on doit apprendre à se défier de toutes choses, et jamais il ne doit sortir de la bouche d'un général d'armée cette parole , Je ne pensais pas que cela dût arriver. Les peintres et les sculpteurs agissent diversement pour donner la perfection à leurs ouvrages ; ceux qui pratiquent l'art d'Appelle commencent par le dessin du crayon, ajoutent couleur à couleur jusqu'à l'accomplissement de leur tableau. Les sculpteur tout au contraire retranchent toujours partie à partir, et jamais ils ne peuvent arriver au but de leur attente, qu'en suivant cette route. En suite de ces pensées, je dirai qu'il est impossible à l'Art militaire de former grand capitaine et un général d'armée, qu'en imitant ces deux méthodes, qui consistent à retrancher les imperfections vicieuses qui décréditent l'estime d'un grand héros, et d'ajouter à ces expériences celles de tous ceux qui l'ont précédé. César était vigilant, Alexandre valeureux, Hannibal hardi, Pompée entreprenant, Caton résolu, et de ces imperfections qu'on remarque en ces particuliers, on ne pourrait former un chef accompli, digne et capable de faire trembler tout le monde à la tête d'une armée. Mais toutefois nous ne pouvons ignorer qu'Alexandre en plusieurs actions a paru tout à fait téméraire, s'exposant à des périls qui n'étaient que des emplois de soldats, ou tout du moins de simple capitaines. César ne peut pas s'exempter d'une pareille tâche, et tout généreux qu'il était, il a manqué tant de fois à sa conduite, qu'on peut dire assurément de lui que la Fortune a fait plus pour sa gloire , que son courage et sa valeur. Si Pompée eut su bien user de l'avantage que le sort lui donnait sur son rival, Pharsale aurait été exempte du déluge du sang sang romain, et la gloire et la liberté del'Empire n'eussent jamais trouvé leur funeste écueil dans ses campagnes. Hannibal triomphait absolument de Rome, et Carthage sa rivale aurait eu le titre de reine de l'Univers, si ce héros eut poursuivi sa pointe et sa victoire , sans s'amuser dans les délices et les voluptés qui ternirent l'éclat de sa renommée ; et sans poursuivre ces digressions, si note Caton eut été plus judicieux et prévoyant, il n'eut jamais été réduit aux extrémités de son désespoir. Utique avait des forces capables d'énerver celles de César, et ce victorieux trouvant plus d'un obstacle à ses superbes désirs. Ainsi notre Caton n'ayant pas toutes les perfections d'un accompli généreux, il ne faut pas s'étonner s'il parait imprudent, et même s'il ajoute quelque créance à de fausses nouvelles, les plus sages et les plus judicieux ne manque que trop souvent. Enfin, je fais voir Caton tel qu'il était, et non pas tel qu'il devait être ; je pouvais dans la disposition de mon ouvrage, trahir la fidélité de l'histoire, et faire que Caton eut été le plus parfait et le plus généreux de son siècle, mais ne pouvant ignorer ce que les historiens disent de lui, j'ai voulu suivre Plutarque et les autres célèbres écrivains, pour donner plus de poids et de crédit à la vérité du sujet qui ne doit jamais tenir du Roman, ou de la Fable. Au reste si Cornélie est quelque peu surprise dans la bienveillance que César lui faisait témoigner, je laisse à considérer aux plus judicieux quelles agitations d'esprit peut avoir une femme veuve, agitée et presque accablée en des malheurs qui la privaient de la moindre espérance de s'en pouvait retirer ; j'ose assurer qu'en de pareils orages, toutes sortes d'asiles qui se présentent sont désirables, et la raison a bien de la peine à résoudre en quel havre elle doit jeter l'ancre de son espérance, lorsqu'elle croit n'en avoir plus. Mais encore dans sa surprise  elle revient en elle-même, et se dépitant de sa lâcheté, commande à son coeur de se rendre autant généreux qu'il le devait être, pour ne souffrir pas à ses désirs de s'émanciper jusqu'à ce point, de lui faire trahir la fidélité qu'elle devait à la gloire d'un époux qui ne pouvait mourir dans son coeur, et quittant ses faiblesses on la voit aussitôt résolue à la vengeance ; ce qu'elle eut exécuté, si la force eut égalé la force de son courage. Bref, (cher lecteur) je te présente cette pièce, non pas comme des plus accomplies et des plus parfaites, et telle qu'elle est, si tu prends quelque divertissement à la voir, tu me donneras sujet de la faire suivre de plusieurs autres, pourvu que ta bonté supplée au défaut qui se coule dans l'impression et qui trompe assez souvent les plus clair-voyants.</p>
+	</div>
+	<castList><head>ACTEURS.</head>
+		<castItem><role id="JULES CÉSAR" sex="1" type="H" statut="empereur" age="A" stat_amour="">JULES CÉSAR</role>.</castItem>
+		<castItem><role id="LUCIUS" sex="1" type="H" statut="aristocrate" age="J" stat_amour="">LUCIUS</role>, neveu de César.</castItem>
+		<castItem><role id="CATON" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">CATON</role>.</castItem>
+		<castItem><role id="BRUTUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">BRUTUS</role>.</castItem>
+		<castItem><role id="PORTIUS" sex="1" type="H" statut="aristocrate" age="J" stat_amour="">PORTIUS</role>, fils de Caton.</castItem>
+		<castItem><role id="MAGNUS" sex="1" type="H" statut="aristocrate" age="J" stat_amour="">MAGNUS</role>, fils de Pompée.</castItem>
+		<castItem><role id="SEXTUS" sex="1" type="H" statut="aristocrate" age="J" stat_amour="">SEXTUS</role>, fils de Pompée.</castItem>
+		<castItem><role id="STATILLIUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">STATILLIUS</role>, seigneur romain.</castItem>
+		<castItem><role id="MARTIA" sex="2" type="H" statut="aristocrate" age="A" stat_amour="">MARTIA</role>, femme de Caton.</castItem>
+		<castItem><role id="PHILANTE" sex="2" type="H" statut="suivante" age="A" stat_amour="">PHILANTE</role>, sa suivante.</castItem>
+		<castItem><role id="CORNÉLIE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">CORNÉLIE</role>, veuve de Pompée.</castItem>
+		<castItem><role id="JULIE" sex="1" type="H" statut="suivante" age="A" stat_amour="">JULIE</role>, sa suivante.</castItem>
+		<castItem><role id="PETROLE" sex="2" type="H" statut="esclave" age="A" stat_amour="">PETROLE</role>, esclave de Caton.</castItem>
+	</castList>
+	<set location="Utique" country="Italie" periode="Ier avant JC" gps="37.0397, 10.03">La scène est dans Utique au Palais de Caton.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Cornélie, Julie, Caton.
+</stage>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<note type="C">Pompée est mort assassiné le 28 septembre 48 avant JC par Achillas et Septimus.</note>
+	<l id="1">Enfin Pompée est mort par la main d'un perfide,</l>
+	<l id="2">Et sa femme a souffert ce cruel parricide,</l>
+	<l id="3">Sans pouvoir l'empêcher et même sans mourir</l>
+	<l id="4">Par les cruelle mains qui nous l'on fait périr.</l>
+	<l id="5">Ton infortune, ô Rome ! Après ces grands désastres</l>
+	<l id="6">Ne doit rien espérer du sort, ni des astres,</l>
+	<l id="7">Ton malheur procédant des plus cruels destins</l>
+	<l id="8">Te fera bientôt voir la perte des Latins ;</l>
+	<l id="9">Tu t'en dois assurer, puisque le coeur d'un homme</l>
+	<l id="10">N'est plus pour soutenir les intérêts de Rome,</l>
+	<l id="11">Et le mal que me tue en ces commun malheurs.</l>
+	<l id="12">C'est que pour me venger c'est trop peu que mes pleurs.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="13">Vous avez un Caton qui jour et nuit soupire</l>
+	<l id="14">Pour la mort de Pompée et l'honneur de l'Empire,</l>
+	<l id="15">Et pendant qu'il vivra, Rome a droit d'espérer</l>
+	<l id="16">Que de tous ses malheurs il la peut retirer ;</l>
+	<l id="17">Pour abattre l'orgueil d'une superbe adversaire,</l>
+	<l id="18">Il n'est pas à savoir ce que sa main doit faire.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="19">Je crois que tous les Dieux s'irritent contre nous,</l>
+	<l id="20">Et qu'il faut se résoudre à souffrir leur courroux :</l>
+	<l id="21">César à ses désirs a le destin prospère,</l>
+	<l id="22">La victoire le fuit où son courage espère ;</l>
+<note type="C">Pharsale : Lieu d'une bataille romaine entre César et Pompée du 29 juin au 9 août 48 avec JC. Pharsale se trouve en Thessalie (Grèce).</note>
+	<l id="23">Pharsale a déjà vu quelle était sa valeur,</l>
+	<l id="24">Il brave la fortune autant que le malheur ;</l>
+	<l id="25">Et Rome a peu d'espoir parmi ce triste orage</l>
+	<l id="26">De pouvoir s'exempter de son prochain naufrage.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="27">Je ferai reconnaître avec combine de soin</l>
+	<l id="28">J'embrasse sa défense et la sers au besoin :</l>
+	<l id="29">Déjà des bons soldats la campagne est fermée,</l>
+	<l id="30">Nous espérons beaucoup des chefs de notre armée,</l>
+	<l id="31">Scipion et Juba secondent nos desseins,</l>
+	<l id="32">Une belle espérance anime les Romains ;</l>
+	<l id="33">Vidant un différent qui nous retient en doute,</l>
+	<l id="34">Pour combattre César ils vont prendre leur route.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="35">Dieux ! Quel empêchement vient encor nous troubler ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="36">Il est de conséquence, et l'on le doit celer :</l>
+	<l id="37">Une heure et tout du plus demande mon silence ;</l>
+	<l id="38">Et pour l'aller vider donnez m'en la licence.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="39">Prenez-la de vous-même et d'un coeur généreux,</l>
+	<l id="40">Rendez-vous, s'il se peut, notre état plus heureux,</l>
+	<l id="41">Que chacun prenne peine à faire des miracles</l>
+	<l id="42">Malgré tous les efforts des plus puissants obstacles ;</l>
+	<l id="43">Et pensez que Pompée est encor parmi vous.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="44">Nous avons à venger l'Empire et votre époux,</l>
+	<l id="45">Et si les Dieux ont soin de la grandeur Romaine,</l>
+	<l id="46">Nous la verrons encor pompeuse et souveraine.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="47">Ai-je assez de vertu pour mériter des cieux</l>
+	<l id="48">Un effet qui dépend de la bonté des Dieux ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Cornélie, Julie.
+</stage>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="49">Avez-vous le pouvoir de braver la fortune</l>
+	<l id="50">Lorsque la cruauté la rend trop importune ?</l>
+	<l id="51">Quoi ! Le coeur d'une femme aurait assez d'effort</l>
+	<l id="52">De vouloir résister contre les lois du sort ?</l>
+	<l id="53">Vu que le plus souvent les têtes couronnées</l>
+	<l id="54">Tombent sous les rigueurs des fières destinées.</l>
+	<l id="55">Ayant perdu Pompée, à quoi bon s'amuser ?</l>
+	<l id="56">Pensant venger sa mort, je me laisse abuser,</l>
+	<l id="57">Son malheureux destin dans son désastre extrême</l>
+	<l id="58">N'a point craint de ravir une part de moi-même,</l>
+	<l id="59">Et toutefois on voit contre notre amitié</l>
+	<l id="60">Vivre une part d'un tout sans son autre moitié ;</l>
+	<l id="61">Ma faiblesse est en cause, et trop irrésolue,</l>
+	<l id="62">Je ne peux sur moi-même être assez absolue,</l>
+	<l id="63">Mais connaissant ma perte, et la peine où je suis,</l>
+	<l id="64">Pourquoi ne pouvoir pas terminer mes ennuis ?</l>
+	<l id="65">Pompée, il faut encore que ta vertu m'anime</l>
+	<l id="66">Pour offrir à ta gloire une illustre victime :</l>
+	<l id="67">Si tu vis dans mon coeur, ne souffriras-tu pas</l>
+	<l id="68">Que pour revivre au tien j'avance mon trépas ?</l>
+	<l id="69">Si la mort te permet d'avoir quelque pensée</l>
+	<l id="70">De celle qui pour toi se trouve intéressée,</l>
+	<l id="71">Ne l'accuses-tu point d'une faible amitié</l>
+	<l id="72">De rechercher si peu sa plus faible moitié ?</l>
+	<l id="73">Il n'en faut pas douter, ma faute est trop extrême</l>
+	<l id="74">De vivre si longtemps comme hors de toi-même,</l>
+	<l id="75">Je devrais m'efforcer par de puissants efforts</l>
+	<l id="76">De trouver ton esprit ayant perdu ton corps.</l>
+	<l id="77">Mais qui peut m'empêcher de terminer ma vie ?</l>
+	<l id="78">Si j'en ai la puissance aussi bien que l'envie,</l>
+	<l id="79">Personne ne le peut, ainsi dois-je bientôt</l>
+	<l id="80">Entrer dans le tombeau qui te retient enclot.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="81">Un lâche désespoir combat votre constance,</l>
+	<l id="82">Mais ne vous perdez pas faute de résistance :</l>
+	<l id="83">C'est dans les grands périls qu'un esprit combattu</l>
+	<l id="84">Doit faire reconnaître en quoi gît sa vertu.</l>
+	<l id="85">Si vous aimez Pompée ayez un grand courage</l>
+	<l id="86">Pour tirer la raison de son funeste outrage,</l>
+	<l id="87">Montrez-vous généreuse à braver le hasard,</l>
+	<l id="88">Sa mort se doit venger par celle de César.</l>
+	<l id="89">Que dirait votre époux dans la demeure sombre</l>
+	<l id="90">Sitôt qu'il connaîtrait Cornélie, ou son ombre,</l>
+	<l id="91">Sans doute si les morts ont du ressentiment</l>
+	<l id="92">Il en fera paraître avec étonnement ;</l>
+	<l id="93">Je vous laisse à penser quel sera son reproche,</l>
+	<l id="94">Et s'il ne fuira pas votre première approche ;</l>
+	<l id="95">Ingrate (dira-t-il) ne me devais-tu pas</l>
+	<l id="96">La perte de César plutôt que ton trépas ?</l>
+	<l id="97">Caton n'avait-il plus ni de coeur ni d'épée</l>
+	<l id="98">Pour venger la patrie et la mort de Pompée ?</l>
+	<l id="99">Et ne devais-tu pas seconder ses desseins</l>
+	<l id="100">Autant pour mon malheur que celui des Romains ?</l>
+	<l id="101">Regarde que ta perte offusque ton estime,</l>
+	<l id="102">Et que ton procédé n'est pas bien légitime ;</l>
+	<l id="103">Ainsi j'ai grand sujet d'éviter ton abord,</l>
+	<l id="104">N'ayant pas eu le coeur d'avoir vengé ma mort.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="105">Ton discours me surprend, rappelant ma constance</l>
+	<l id="106">Je réveille en mon âme un reste d'espérance :</l>
+	<l id="107">Mais qui pourrait savoir si quelques bons destins</l>
+	<l id="108">Voudront prendre parti du côté des Latins ?</l>
+	<l id="109">Pharsale les a vus dans le sang et des larmes,</l>
+	<l id="110">Où César triomphait par ses injustes armes.</l>
+	<l id="111">Charmante illusion qui vient flatter mon coeur</l>
+	<l id="112">Jusqu'à croire qu'on peut terrasser ce vainqueur,</l>
+	<l id="113">Ne tromperas-tu point l'esprit de Cornélie ?</l>
+	<l id="114">J'ai sujet d'en douter, Rome étant affaiblie ;</l>
+	<l id="115">La voyant partagée, ah ! Qui de ses enfants</l>
+	<l id="116">Rendra par sa valeur ses destins triomphants ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="117">Cette crainte apparente où votre coeur se fonde</l>
+	<l id="118">Ne doit point étonner que le commun du monde,</l>
+	<l id="119">Une âme généreuse emploie avec du soin</l>
+	<l id="120">Ce quelle a de valeur dans son plus grand besoin,</l>
+	<l id="121">Il faut que vous changiez de courage et de termes</l>
+	<l id="122">Pour faire agir ici des vertus bien plus fermes ;</l>
+	<l id="123">Voyez quel intérêt vous engage en ce point,</l>
+	<l id="124">D'entreprendre beaucoup, et de ne craindre point ;</l>
+	<l id="125">Que Rome en ses malheurs ou se lève, ou succombe,</l>
+	<l id="126">Il faut qu'un des partis vainque, et que l'autre tombe</l>
+	<l id="127">Et si l'on ne peut pas la guérir autrement,</l>
+	<l id="128">Il faut bien se résoudre à cet événement ;</l>
+	<l id="129">Ainsi le corps malade a besoin de saignée.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="130">Ah, tristes incidents ! Étrange destinée !</l>
+	<l id="131">Puisque pour terminer l'excès de nos malheurs</l>
+	<l id="132">Il faut mêler du sang encore avec nos pleurs,</l>
+	<l id="133">Sans savoir si le ciel d'une douceur propice</l>
+	<l id="134">Nous favorisera si près du précipice,</l>
+	<l id="135">Ou si sa providence autant que le hasard</l>
+	<l id="136">Veulent à nos dépens favoriser César.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="137">On remarque souvent par des effets contraires</l>
+	<l id="138">Qui sont les accidents des armes journalières :</l>
+	<l id="139">Tel triomphe aujourd'hui qui demain combattu</l>
+	<l id="140">Pour maintenir sa gloire il manque de vertu.</l>
+	<l id="141">César étant vainqueur des combats de Pharsale</l>
+	<l id="142">Peut avoir la fortune en son progrès fatale ;</l>
+	<l id="143">Pompée a succombé plutôt par un malheur</l>
+	<l id="144">Que par aucun défaut de force et de valeur,</l>
+	<l id="145">Et si sa destinée eut été plus prospère,</l>
+	<l id="146">Assurément son gendre eut vaincu le beau-père :</l>
+	<l id="147">Pharsale n'ayant pu déterminer son sort,</l>
+	<l id="148">L'Égypte n'a pas craint de résoudre sa mort ;</l>
+	<l id="149">Son monarque insolent, sans cause légitime</l>
+	<l id="150">En a fait à César une illustre victime ;</l>
+	<l id="151">Ptolomée est coupable encor plus que César,</l>
+	<l id="152">Faisant ce que n'a pu la guerre et la hasard,</l>
+	<l id="153">Et si ce Roi barbare eut secondé sa gloire,</l>
+	<l id="154">Votre époux à son tour aurait eu la victoire.</l>
+	<l id="155">La volonté des Dieux en dispose autrement,</l>
+	<l id="156">Toutefois espérons un autre événement :</l>
+	<l id="157">Caton étant vivant, vous avez plus d'un homme,</l>
+	<l id="158">Pour tirer la raison de Pompée et de Rome :</l>
+	<l id="159">Peut-être que César poursuivant son bonheur,</l>
+	<l id="160">Vient, mais pour perdre ici la victoire et l'honneur,</l>
+	<l id="161">Si la fortune aveugle a résolu sa perte,</l>
+	<l id="162">L'empire aura bientôt sa gloire recouverte,</l>
+	<l id="163">Ce perfide abattu d'une généreux effort,</l>
+	<l id="164">Éprouvera sa foi les caprices du sort,</l>
+	<l id="165">Si votre âme a désir de plaire au grand Pompée,</l>
+	<l id="166">Il faut dans un dessein la tenir occupée,</l>
+	<l id="167">Pour faire offrir César aux mânes d'un époux,</l>
+	<l id="168">Et noyer dans son sang votre juste courroux.</l>
+	<l id="169">D'autre part si Caton triomphe en notre armée,</l>
+	<l id="170">Nous irons dans l'Égypte, et vaincrons Ptolémée,</l>
+	<l id="171">Et son trône ébranlé par un dernier combat</l>
+	<l id="172">Croulera sous les pieds d'un lâche potentat ;</l>
+	<l id="173">Et s'il tombe en vos mains, votre juste colère</l>
+	<l id="174">Porter à vos enfants à bien venger leur père.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="175">Voilà de beaux exploits dignes à raconter,</l>
+	<l id="176">Combattre de la sorte, on n'y peut résister :</l>
+	<l id="177">Oui, César est vaincu, l'on surprend Ptolomée,</l>
+	<l id="178">Et l'Égypte déjà succombe à notre armée,</l>
+	<l id="179">Notre Rome triomphe, et des peuples soumis</l>
+	<l id="180">Suivent partout ses chars comme ses ennemis :</l>
+	<l id="181">Victoire imaginée, et conquêtes frivoles,</l>
+	<l id="182">Qui n'ont point d'autre bruit qu'au vent de tes paroles,</l>
+	<l id="183">Puisque ce grand vainqueur n'a que trop de vertu</l>
+	<l id="184">Pour maintenir son sort, s'il se voit combattu ;</l>
+	<l id="185">Ainsi notre espérance a peu de certitude.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="186">Votre raison s'emporte à trop d'inquiétude,</l>
+	<l id="187">Espérons des destins des progrès bien meilleurs.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="188">Si nous voyons encore accroître nos malheurs,</l>
+	<l id="189">Qui pourra résister contre leur violence ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="190">Le Ciel nous armera de force et de constance,</l>
+	<l id="191">Pour choisir une route en de tels accidents,</l>
+	<l id="192">Et suivre les avis des hommes plus prudents.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="193">Je le veux espérer, quoiqu'un rude atteinte</l>
+	<l id="194">Me donne moins d'espoir que de peur et de crainte,</l>
+	<l id="195">Dans la peine où je suis... Mais voici mes enfants,</l>
+	<l id="196">Qui des Dieux les rendra tout à fait triomphants ?</l>
+	<l id="197">J'attends de la fortune une faveur prospère,</l>
+	<l id="198">Pour venger mon époux, l'Empire et votre père.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Sextus, Magnus, Cornélie, Julie.
+</stage>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="199">Le sang que nous portons conserve une chaleur</l>
+	<l id="200">Qui fera reconnaître une illustre valeur :</l>
+	<l id="201">Étant fils de Pompée, il est facile à croire</l>
+	<l id="202">Que nous ne ferons rien d'indigne de sa gloire.</l>
+	<l id="203">Scipion est choisi pour le chef des Romains,</l>
+	<l id="204">Juba seconde aussi ses généreux desseins,</l>
+	<l id="205">Nous, de la mort d'un père ayant l'âme animée,</l>
+	<l id="206">Espérez un succès digne de notre armée.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="207">Que Caton eut mieux fait, selon mon jugement,</l>
+	<l id="208">J'eusse espéré de lui quelque autre événement,</l>
+	<l id="209">Cet homme incomparable a bien plus de prudence,</l>
+	<l id="210">La conduite d'un chef vaut mieux que la vaillance.</l>
+</sp>
+<sp who="MAGNUS"><speaker>MAGNUS.</speaker>
+	<l id="211">Nos guerriers le voulaient, et d'une même voix</l>
+	<l id="212">Ils en ont au Conseil conclu le juste choix,</l>
+	<l id="213">Et chaque capitaine aspirait que cet homme</l>
+	<l id="214">Prit le gouvernement des affaires de Rome,</l>
+	<l id="215">L'attachant tout à fait pour notre liberté :</l>
+	<l id="216">Scipion en sa place en a l'autorité,</l>
+	<l id="217">Étant vice-consul le droit de préférence</l>
+	<l id="218">L'emporte d'un Prêteur sans nulle résistance ;</l>
+	<l id="219">On voit que cet esprit ne s'intéresse en rien</l>
+	<l id="220">Que dans les intérêts qui touchent notre bien.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="221">Puisse le Ciel propice et comme je l'espère</l>
+	<l id="222">Porter votre courage à venger votre père,</l>
+	<l id="223">Et que Rome opprimée anime vos vertus</l>
+	<l id="224">Pour voir ses ennemis tout à fait abattus :</l>
+	<l id="225">Mais cependant Caton n'aura-t-il rien à faire</l>
+	<l id="226">Contre l'injuste orgueil d'un perfide adversaire ?</l>
+</sp>
+<sp who="MAGNUS"><speaker>MAGNUS.</speaker>
+<note type="C">Utique : ville antique située dans l'actuelle Tunisie.</note>
+	<l id="227">Utique est son emploi : ses soins de toutes parts,</l>
+	<l id="228">L'occupent tout entier déjà sur les remparts ;</l>
+	<l id="229">Et malgré le Conseil il rempare une ville</l>
+	<l id="230">Où César trouvera sans doute son asile,</l>
+<note type="C">Juba Ier (-85,-46) : dernier roi de Numidie (royaume Berbère couvrant principalement le nord de l'Algérie à l'ouest de la Lybie), il fut vaincu par César.</note>
+	<l id="231">En faveur de Juba chacun avait conclu</l>
+	<l id="232">Sa démolition si Caton l'eut voulu ;</l>
+	<l id="233">Pour le ressentiment de la mort de Pompée</l>
+	<l id="234">On voulait la passer par le fil de l'épée,</l>
+	<l id="235">Mais ce coeur pitoyable a des ressentiments</l>
+	<l id="236">Qui nous ferons du tort parmi ces mouvements.</l>
+	<l id="237">Souvent les premiers coups sont des coups de tonnerre</l>
+	<l id="238">Qui décident bientôt le destin d'une guerre</l>
+	<l id="239">Et l'ennemi s'étonne en voyant à ses yeux</l>
+	<l id="240">La sang de son parti qui coule en mille lieux :</l>
+	<l id="241">Pendant que la pitié lui donne des alarmes,</l>
+	<l id="242">Nous allons faire voir les efforts de nos armes,</l>
+	<l id="243">Bravant notre infortune et l'orgueil de César,</l>
+	<l id="244">Sans craindre les périls qui suivent le hasard,</l>
+	<l id="245">Ainsi l'on connaîtra que le sang de Pompée</l>
+	<l id="246">Nous porte à le venger avec Rome usurpée.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="247">Sa perte nous oblige à ces nobles desseins,</l>
+	<l id="248">Avec nos intérêts la gloire des Romains,</l>
+	<l id="249">Nous presse puissamment d'aller dedans l'armée</l>
+	<l id="250">Acquérir des lauriers et de la renommée.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="251">Allez, mes chers enfants, et d'un bras glorieux</l>
+	<l id="252">Attaquez l'ennemi, restez victorieux ;</l>
+	<l id="253">Si le Ciel favorise aujourd'hui ma requête.</l>
+	<l id="254">J'ose vous assurer d'une illustre conquête.</l>
+	<l id="255">Mais mon coeur s'attendrit en voulant vous quitter,</l>
+	<l id="256">La raison et l'amour viennent m'inquiéter,</l>
+	<l id="257">Souffrez que la tendresse abandonne une mère</l>
+	<l id="258">Puisque la raison veut qu'on venge votre père,</l>
+	<l id="259">Elle parle en mon âme et fait taire l'amour,</l>
+	<l id="260">Je lui dois ce respect de régner à son tour,</l>
+	<l id="261">Et si quelque pitié me donne des alarmes,</l>
+	<l id="262">Elle arrête aussitôt mes soupirs à mes larmes,</l>
+	<l id="263">Et fait croire à mon coeur qu'en dépit du hasard</l>
+	<l id="264">Vous allez triompher du destin de César.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Magnus, Sextus.
+</stage>
+<sp who="MAGNUS"><speaker>MAGNUS.</speaker>
+	<l id="265">Quoi qu'une illustre ardeur me rend tout de flamme,</l>
+	<l id="266">Le soupçon et la crainte inquiètent mon âme,</l>
+	<l id="267">Et j'ai peine à savoir d'où provient cette humeur</l>
+	<l id="268">Qui coule dans mon sang et la glace et la peur :</l>
+	<l id="269">La générosité qui me donne l'envie</l>
+	<l id="270">D'exposer pour l'État et mon sang et ma vie,</l>
+	<l id="271">Semble m'abandonner, et mon coeur éperdu,</l>
+	<l id="272">Avant que de combattre estime tout perdu.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="273">Un esprit généreux résiste à ces atteintes,</l>
+	<l id="274">Et brave absolument toutes sortes de craintes :</l>
+	<l id="275">Vous savez quels motifs nous portent au combat,</l>
+	<l id="276">La mort de notre père et l'honneur de l'État</l>
+	<l id="277">Doivent nous animer tellement le courage</l>
+	<l id="278">Qu'il faut rester vainqueurs dans ce sanglant orage.</l>
+	<l id="279">La fortune inconstance aime assez à changer,</l>
+	<l id="280">Le destin de César est proche de danger,</l>
+	<l id="281">Peut-il monter plus haut avec ses artifices ?</l>
+	<l id="282">Il est sur le penchant de mille précipices,</l>
+	<l id="283">Son âme criminelle a de puissants remords,</l>
+	<l id="284">Il craint également les vivants et les morts,</l>
+	<l id="285">Il ne sait où fuir sur la terre et sur l'onde,</l>
+	<l id="286">Il a peine à trouver quelque refuge au monde :</l>
+	<l id="287">S'il va dans les Enfers, s'il monte dans les Cieux,</l>
+	<l id="288">Il est partout haï des hommes et des Dieux,</l>
+	<l id="289">Agité de la sorte il est peu redoutable,</l>
+	<l id="290">Je pense qu'à soi-même il est épouvantable,</l>
+	<l id="291">Et comme un Prométhée et les jours et les nuits</l>
+	<l id="292">Son âme se consomme en d'étranges ennuis.</l>
+	<l id="293">Allons, s'il faut mourir, chercher nos funérailles</l>
+	<l id="294">Au front des escadrons et parmi les batailles</l>
+	<l id="295">La mort est glorieuse en de pareils hasards,</l>
+	<l id="296">On ne peut mieux mourir que dans le champ de Mars ;</l>
+	<l id="297">Mais si quelqu'un des Dieux rend notre sort prospère,</l>
+	<l id="298">Vengeons tout à la fois l'Empire et notre père.</l>
+</sp>
+<sp who="MAGNUS"><speaker>MAGNUS.</speaker>
+	<l id="299">Je n'ai point de souhait qui ne vise à ce point,</l>
+	<l id="300">Et quoi que je m'étonne on ne me verra point</l>
+	<l id="301">Amuser davantage à mes inquiétudes,</l>
+	<l id="302">Je combats puissamment ces attaques si rudes :</l>
+	<l id="303">La résolution l'emporte à cette fois,</l>
+	<l id="304">Il nous fait signaler par de nobles emplois,</l>
+	<l id="305">Et faire reconnaître où notre gloire aspire</l>
+	<l id="306">Vengeant le grand Pompée et défendant l'Empire.</l>
+</sp>
+<sp who="SEXTUS"><speaker>SEXTUS.</speaker>
+	<l id="307">Puissent donc tous les Dieux seconder nos destins,</l>
+	<l id="308">Tant pour notre intérêt que celui des Latins :</l>
+	<l id="309">Que Rome encore un coup conçoive une espérance</l>
+	<l id="310">De relever sa gloire et même sa puissance,</l>
+	<l id="311">Mais nous perdons le temps en discours superflus,</l>
+	<l id="312" syll="6" part="i">L'occasion nous presse.</l>
+</sp>
+<sp who="MAGNUS"><speaker>MAGNUS.</speaker>
+	<l id="312" syll="6" part="f">Allons n'en parlons plus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Brutus, Caton.
+</stage>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="313">Je ne sais si la crainte attaque son courage,</l>
+	<l id="314">Et s'il prévoit l'effet d'un trop sanglant orage,</l>
+	<l id="315">Ou si quelque feintise éclot l'invention</l>
+	<l id="316">Pour mieux nous déguiser sa vaine ambition.</l>
+	<l id="317">Sans doute il poursuivra tout à fait sa carrière,</l>
+	<l id="318">N'attendons pas de lui qu'il retourne en arrière,</l>
+	<l id="319">L'orgueil qui le conduit lui flatte trop le coeur</l>
+	<l id="320">Pour produire une chose indigne d'un vainqueur ;</l>
+	<l id="321">Mais ne rendons pas à ces belles paroles,</l>
+	<l id="322">Amusons son courrier par des délais frivoles,</l>
+	<l id="323">Cependant la bataille en son dernier effort,</l>
+	<l id="324">Apprendra quel parti plaît davantage au sort.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="325">Ma résolution s'accorde avec le vôtre,</l>
+	<l id="326">Si les Dieux sont pour nous, oui ! La victoire est nôtre,</l>
+	<l id="327">Tant de vaillants Romains jaloux de leur grandeur</l>
+	<l id="328">Produiront des exploits dignes de leur ardeur,</l>
+	<l id="329">Et l'intérêt de Rome est une illustre amorce</l>
+	<l id="330">Pour donner à leur coeur la vaillance et la force,</l>
+	<l id="331">De relever un trône à demi renversé,</l>
+	<l id="332">Et d'affermir l'État puissamment traversé.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="333">En tout cas si le Ciel redouble nos désastres,</l>
+	<l id="334">S'il ne nous veut plus voir qu'avec ses mauvais astres,</l>
+	<l id="335">Utique a des remparts, et nous de la valeur</l>
+	<l id="336">Pour donner de l'obstacle à ce nouveau malheur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="337">Nos pouvons l'arrêter du moins plus d'une année,</l>
+	<l id="338">Cette ville est bien forte, et toute environnée</l>
+	<l id="339">De fossés, de remparts, bastions et dehors,</l>
+	<l id="340">La vaillance a le soin de courir sur les forts,</l>
+	<l id="341">Les magasins sont pleins, et de vivre et d'armes,</l>
+	<l id="342">Nous sommes assistés de plusieurs bons gendarmes,</l>
+	<l id="343">Qui ne manqueront pas de générosité</l>
+	<l id="344">Pour défendre leur gloire et notre liberté :</l>
+	<l id="345">Parmi tant de secours prenons plus d'assurance,</l>
+	<l id="346">Un héros est vainqueur s'il en a l'espérance,</l>
+	<l id="347">Devant que de combattre à son seul démarcher</l>
+	<l id="348">Il fait paraître assez qu'il s'en va triompher.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="349">Ces mêmes sentiments vont me faire résoudre</l>
+	<l id="350">De voir briller l'éclair, sans redouter la foudre,</l>
+	<l id="351">Quoi qu'il puisse arriver de gloire ou de malheur</l>
+	<l id="352">Na trahissons jamais notre illustre valeur,</l>
+	<l id="353">Opposons nos lauriers au tonnerre, à l'orage,</l>
+	<l id="354">Montrons dans les périls quel est notre courage ?</l>
+	<l id="355">Si le sort se courrouce encore contre nous,</l>
+	<l id="356">Faisons que la vertu méprise tous ses coups.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="357">Une âme généreuse en tout temps s'évertue</l>
+	<l id="358">De relever sa gloire étant trop combattue ;</l>
+	<l id="359">Mais quand le Ciel s'en mêle et veut vous accabler,</l>
+	<l id="360">Le coeur le plus constant s'étonne et doit trembler !</l>
+	<l id="361">Subissons les rigueurs d'une aveugle fortune</l>
+	<l id="362">Si dans cette occurrence est trop importune,</l>
+	<l id="363" syll="6" part="i">Mais tentons les effets...</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="363" syll="3" part="m">Quels effets ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="363" syll="3" part="f">Du hasard,</l>
+	<l id="364">Premier que de nous rendre au pouvoir de César ;</l>
+	<l id="365" syll="6" part="i">Où va Statillius ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Statillius, Caton, Brutus.
+</stage>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="365" syll="6" part="f">Un courrier à la porte,</l>
+	<l id="366">De la part de César, de nouveau vous apporte</l>
+	<l id="367">Sa résolution ; mais je n'ai pas voulu</l>
+	<l id="368">Agir dans ce sujet d'un pouvoir absolu :</l>
+	<l id="369">Je défère à vos soins les coups de la prudence,</l>
+	<l id="370">Pour me réserver ceux qui suivent la vaillance,</l>
+	<l id="371">Avisez sur ce fait de me donner pouvoir</l>
+	<l id="372">Ou de le rebuter, ou de le recevoir.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="373">Courriers dessus courriers, nouvelles sus nouvelles</l>
+	<l id="374">Doivent inquiéter les plus sages cervelles,</l>
+	<l id="375">Pour moi je suis d'avis, qu'en un sujet pareil</l>
+	<l id="376">L'affaire s'en décide avec tout la Conseil.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="377">Conforme à votre avis, il faut qu'on délibère</l>
+	<l id="378">S'il fait bon suivre l'ordre et croire un adversaire,</l>
+	<l id="379">Allons pour en résoudre, un tel événement</l>
+	<l id="380">Mérite qu'on y pense avec du jugement.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Martia, Philante, Cornélie, Julie.
+</stage>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="381">Sans doute on voit assez que César est en peine,</l>
+	<l id="382">Il se trouve ébloui de la grandeurs Romaine,</l>
+	<l id="383">Et tout près de combattre il se trouve étonné</l>
+	<l id="384">Ne sachant à quel point le Ciel l'a destiné.</l>
+	<l id="385">Quoi Rome, aurais-tu bien la force et l'avantage</l>
+	<l id="386">De relever ta gloire après ce triste otage ?</l>
+	<l id="387">Le peut-on espérer ? Ah ! Dieux, dites-le moi,</l>
+	<l id="388">Soulagez en ce point ma crainte et mon effroi :</l>
+	<l id="389">Mais quand cela serait, Rome étant partagée,</l>
+	<l id="390">Ne peut beaucoup gagner sans se voir outragée,</l>
+	<l id="391">La victoire pour elle augmente son malheur.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="392">Cruels événements que choquent sa grandeur,</l>
+	<l id="393">Et que feront connaître à la race future</l>
+	<l id="394">Le déplorable état de sa triste aventure :</l>
+	<l id="395">Que doit-on espérer parmi tant de combats,</l>
+	<l id="396">Si Rome en se levant tombe aussitôt en bas ;</l>
+	<l id="397">Nos mêmes citoyens d'une fureur brutale</l>
+	<l id="398">S'en vont ressusciter les malheurs de Pharsale,</l>
+	<l id="399">Et sans considérer la gloire de leur sang</l>
+	<l id="400">Ils s'en vont de leurs mains s'ouvrir leur propre flanc,</l>
+	<l id="401">Justes Dieux ! Leur fureur prépare en ces batailles</l>
+	<l id="402">D'un État affaibli les tristes funérailles,</l>
+	<l id="403">La patrie agitée a droit de redouter</l>
+	<l id="404">Ce carreau foudroyant si proche d'éclater,</l>
+	<l id="405">Et le plus grand malheur qui menace sa tête,</l>
+	<l id="406">C'est que des deux côtés elle craint le tempête ;</l>
+	<l id="407">Du parti de César elle attend des horreurs,</l>
+	<l id="408">Du nôtre, en succombant, des soupirs et des pleurs ;</l>
+	<l id="409">Le vainqueur, le vaincu dans ces tristes batailles</l>
+	<l id="410">Déchireront tous deux son coeur, et ses entrailles,</l>
+	<l id="411">Puisqu'on ne peut pas voir ses destins triomphants</l>
+	<l id="412">Que parmi les malheurs de ses propres enfants.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="413">Cornélie, on voit bien qu'on a beaucoup à craindre,</l>
+	<l id="414">Et jusqu'à quel danger César nous veut contraindre,</l>
+	<l id="415">Il a beau déguiser sa rage et ses desseins,</l>
+	<l id="416">Il en veut, mais sans doute, au destin des Romains ;</l>
+	<l id="417">Rome, c'est ta grandeur qui cause ta ruine,</l>
+	<l id="418">Tu ne craignais pas tant dedans ton origine,</l>
+	<l id="419">Je crois pour le certain que tes prospérités</l>
+	<l id="420">Font une bonne part de tes adversités :</l>
+	<l id="421">Ton sort fait des jaloux, et tout ton avantage</l>
+	<l id="422">Ne sert qu'à t'opprimer chaque jour davantage,</l>
+	<l id="423">Ce tyran qui t'afflige aurait bien moins d'ardeur</l>
+	<l id="424">Si la fortune avait modéré ta grandeur.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="425">Quoi que César pratique, on tire en conséquence</l>
+	<l id="426">Qu'un désir de régner l'attache à sa puissance,</l>
+	<l id="427">N'ayant plus de Pompée à choquer ses desseins,</l>
+	<l id="428">Rome est prête à tomber sous l'effort de ses mains,</l>
+	<l id="429">Et bien que le Sénat semble reprendre haleine,</l>
+	<l id="430">Pourrait-il recouvrir sa pompe souveraine,</l>
+	<l id="431">Sa grandeur languissante avec sa majesté</l>
+	<l id="432">S'en vont dans cet orage éclipser leur clarté.</l>
+	<l id="433">Injuste conquérant, modère ton génie,</l>
+	<l id="434">Adoucis ton courroux, borne ta tyrannie,</l>
+	<l id="435">Viens déclarer ton crime et ton lâche attentat</l>
+	<l id="436">Aux pieds de Cornélie et devant le Sénat ;</l>
+	<l id="437">Je perds le souvenir de la mort de Pompée,</l>
+	<l id="438">Si de notre intérêt ton âme est occupée,</l>
+	<l id="439">Sans te rendre absolu dessus nos citoyens,</l>
+	<l id="440">Par un motif barbare et de sanglants moyens.</l>
+	<l id="441">Mais c'est nous abuser d'une attente frivole</l>
+	<l id="442">Puisqu'on sait que l'orgueil est la plus chère idole,</l>
+	<l id="443">Premier que d'abaisser son sort ambitieux</l>
+	<l id="444">Il verrait dessus lui tomber la feu des Cieux.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="445">Je flotte en ces périls comme une nef sans voile</l>
+	<l id="446">Qui ne peut dans la nuit découvrir son étoile,</l>
+	<l id="447">Et malgré la tempête elle ose présumer</l>
+	<l id="448">De trouver son salut, proche de s'abîmer.</l>
+	<l id="449">Je flatte mon esprit, et je me fais accroire</l>
+	<l id="450">Que le destin nous doit bien plus d'une victoire,</l>
+	<l id="451">Retournant en moi-même et consultant mon coeur,</l>
+	<l id="452">Ma résolution succombe à la douleur.</l>
+	<l id="453">Si j'ai de l'espérance, au même temps la crainte</l>
+	<l id="454">Produit dedans mon âme une fâcheuse atteinte,</l>
+	<l id="455">Si mon esprit s'emporte à quelque désespoir,</l>
+	<l id="456">La raison me ramène aux lois de mon devoir,</l>
+	<l id="457">Dans ces divers transports, et parmi tant de doutes</l>
+	<l id="458">Mon âme a de la peine à bien choisir ses routes,</l>
+	<l id="459">Et je suis obligée et les jours et les nuits</l>
+	<l id="460">De gémir sous le faix d'une foule d'ennuis.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="461">De plus pressants malheurs agitent ma pensée,</l>
+	<l id="462">Votre âme à mon égal n'est pas intéressée,</l>
+	<l id="463">La mort d'un cher époux m'afflige au dernier point,</l>
+	<l id="464">Et j'ai mille tourments que votre coeur n'a point.</l>
+	<l id="465">Quand je pense à Pompée, il faut que je confesse</l>
+	<l id="466">Que mes yeux sont témoins de ma grande tristesse,</l>
+	<l id="467">Et d'autre côté Rome est un sujet puissant</l>
+	<l id="468">Qui redouble mon mal d'un tourment languissant,</l>
+	<l id="469">Je ressens deux vautours déchirer mes entrailles</l>
+	<l id="470">Sans pouvoir avancer mes tristes funérailles ;</l>
+	<l id="471">De la part de Pompée, ah ! Que dois-je espérer</l>
+	<l id="472">Sinon que de me perdre à force de pleurer,</l>
+	<l id="473">Et quoi que ma misère étonne la nature,</l>
+	<l id="474">Qui peut avoir pitié de ma triste aventure.</l>
+	<l id="475">Rome est pareillement l'objet de mes douleurs,</l>
+	<l id="476">Je verse à son regard (on le voit) bien des pleurs,</l>
+	<l id="477">Son désastre à tous coups fait que mon coeur soupire,</l>
+	<l id="478">Et mon mal est si grand, que j'ai peine à le dire,</l>
+	<l id="479">Dans tant d'adversités j'avoue ingénument</l>
+	<l id="480">Que je perds ma constance avec mon jugement.</l>
+	<l id="481">Il est vrai que votre âme en ces sujets de craintes</l>
+	<l id="482">Peut s'affliger beaucoup par ces rudes atteintes,</l>
+	<l id="483">Mais Caton vous console, et sa douce amitié</l>
+	<l id="484">Partage les douleurs de sa chère moitié :</l>
+	<l id="485">Ainsi si votre peine est dans un point extrême,</l>
+	<l id="486">Vous trouvez de la joie en celui qui vous aime,</l>
+	<l id="487">Mais je n'espère rien dans mes adversités,</l>
+	<l id="488">Je n'ose plus penser à mes prospérités,</l>
+	<l id="489">De toutes parts le mal m'attaque et m'environne,</l>
+	<l id="490">Ma constance à ce coup s'ébranle et m'abandonne,</l>
+	<l id="491">Faisant réflexion sur mes tristes malheurs</l>
+	<l id="492">Je ne peux arrêter la source de mes pleurs.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="493">Chacun ressent son mal, en vain je m'évertue</l>
+	<l id="494">De soulager le mien qui m'afflige et me tue,</l>
+	<l id="495">Je succombe aux douleurs, et j'ai trop peu d'effort</l>
+	<l id="496">Pour écarter de moi les rigueurs de mon sort.</l>
+	<l id="497">J'aperçois que Caton revient d'un soin fidèle</l>
+	<l id="498">Consoler nos travaux d'une heureuse nouvelle,</l>
+	<l id="499">Que le ciel favorable à nos plus beaux désirs</l>
+	<l id="500">Donne quelque relâche à tant de déplaisirs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Caton, Martia, Cornélie, Philante, Julie.
+</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="501">César nous fait savoir par un nouveau message</l>
+	<l id="502">Le motif qui le porte à voir finir l'orage,</l>
+	<l id="503">Il est las, se dit-il de voir rougir ses mains</l>
+	<l id="504">Dans le sang généreux des plus nobles Romains,</l>
+	<l id="505">Et regrette la mort de son gendre Pompée,</l>
+	<l id="506" syll="6" part="i">Qui n'est pas un effet...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="506" syll="2" part="m">Hélas !</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="506" syll="4" part="f">De son épée,</l>
+	<l id="507">Lui-même dans l'Egypte a pensé succomber,</l>
+	<l id="508">Mais les Dieux l'ont sauvé tout proche de tomber,</l>
+	<l id="509">Son monarque barbare avait encore l'envie</l>
+	<l id="510">D'offrir à sa colère et sa gloire et sa vie ;</l>
+	<l id="511">Mais ce Prince averti de cette lâcheté,</l>
+	<l id="512">A fait paraître assez de générosité.</l>
+	<l id="513">Ptolémée a servi d'une illustre victime</l>
+	<l id="514">Pour purger dans son sang la noirceur de son crime,</l>
+	<l id="515">Photin l'a devancé d'un infâme trépas,</l>
+	<l id="516">Le même est arrivé du perfide Acillas :</l>
+	<l id="517">Ces traîtres conseillers ont souffert le supplice,</l>
+	<l id="518">Et César a fait voir quelle était sa justice.</l>
+	<l id="519">Je vous donne un motif d'avoir moins de courroux</l>
+	<l id="520">Puisqu'il a su venger la mort de votre époux,</l>
+	<l id="521">Après ce témoignage il faut être Romaine,</l>
+	<l id="522">Afin que la douceur l'emporte sur la haine,</l>
+	<l id="523">Je crois qu'il vous regarde avec moins de pitié</l>
+	<l id="524">Que d'amour, et son coeur cherchant votre amitié</l>
+	<l id="525">Reconnaît vos beautés, et commande à son âme</l>
+	<l id="526">De se laisser toucher d'une amoureuse flamme.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="527">Passez légèrement sur un si mauvais pas,</l>
+	<l id="528">Ce discours me surprend, même ne me plaît pas.</l>
+	<l id="529">Ah ! Caton, vous savez où la douleur me blesse.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="530">Bien souvent le plaisir succède à la tristesse.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="531">Pénétrer les desseins de cet ambitieux</l>
+	<l id="532">N'appartient qu'à l'esprit sage et judicieux :</l>
+	<l id="533">Après tout il prétend justifier sa cause</l>
+	<l id="534">Et se rendre innocent du fait qu'on lui suppose,</l>
+	<l id="535">C'est à nous de l'entendre en ses prétentions,</l>
+	<l id="536">Et de la recevoir dans ses soumissions ;</l>
+	<l id="537">Mais je crains qu'il n'emploie et la feinte et la ruse,</l>
+	<l id="538" syll="6" part="i">Et qu'en ce procédé...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="538" syll="6" part="f">Sans doute il vous amuse,</l>
+	<l id="539">Il n'est que trop certain qu'il doit être suspect,</l>
+	<l id="540">César n'est pas un homme à rendre du respect,</l>
+	<l id="541">Gardez quelque surprise, et sur la défiance</l>
+	<l id="542">Faites-lui toujours voir quelle est votre prudence,</l>
+	<l id="543">Il pense m'apaiser par un étrange effet,</l>
+	<l id="544">Pour se rendre innocent de tout ce qu'il a fait :</l>
+	<l id="545">Son esprit est grossier d'inventer tant de ruses,</l>
+	<l id="546">Et mon âme aurait tort de croire ses excuses,</l>
+	<l id="547">Hors de mes intérêts qui se voudrait fier</l>
+	<l id="548">Qu'un semblable dessein le pût justifier ?</l>
+	<l id="549">Non, quoi qu'il puisse dire, et quoi qu'il puisse faire,</l>
+	<l id="550">Je suivrai les motifs de ma juste colère,</l>
+	<l id="551">Je ne m'arrête pas dessus un compliment,</l>
+	<l id="552">Il faut bien d'autre chose à mon ressentiment,</l>
+	<l id="553">En quelque lieu qu'il soit des climats de la terre</l>
+	<l id="554">Je déclare à sa vie une immortelle guerre ;</l>
+	<l id="555">Qu'il monte sur les Cieux, qu'il descende aux enfers,</l>
+	<l id="556">J'emploierai contre lui les flammes et les fers,</l>
+	<l id="557">Et ma haine implacable étant presqu'infinie</l>
+	<l id="558">N'aura jamais de trêve avec sa tyrannie.</l>
+	<l id="559">Il montre qu'il n'a pas l'esprit bien délié</l>
+	<l id="560">De croire qu'un époux soit si tôt oublié,</l>
+	<l id="561">Cornélie est toujours justement occupée</l>
+	<l id="562">À chercher les moyens de venger son Pompée ;</l>
+	<l id="563">Faites paix avec lui, rendez-vous ses sujets,</l>
+	<l id="564">Approuvez la rigueur de ses lâches projets,</l>
+	<l id="565">Que Rome l'autorise en tout ce qu'il désire,</l>
+	<l id="566">Qu'il se rende absolu du destin de l'Empire,</l>
+	<l id="567">Je serai généreuse, et d'un noble attentat</l>
+	<l id="568">J'irai le poignarder moi-même en plein Sénat.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="569">Cette illustre colère est digne de votre âme,</l>
+	<l id="570">Et je voudrais brûler d'une aussi belle flamme,</l>
+	<l id="571">Je pense avec raison qu'un état malheureux</l>
+	<l id="572">Rencontre un grand secours dans un coeur généreux ;</l>
+	<l id="573">Mais je mêle un reproche avec votre louange,</l>
+	<l id="574">Voyant jusqu'à quel point la passion vous range,</l>
+	<l id="575">Vous rendez criminels tous vos meilleurs amis,</l>
+	<l id="576">Et croyez que César les a déjà soumis,</l>
+	<l id="577">Cette erreur vous transporte et vous devriez croire</l>
+	<l id="578">Que Rome a plus de soin de conserver sa gloire.</l>
+	<l id="579">Nous écoutons César, mais comme humilié,</l>
+	<l id="580">J'observe assez souvent son esprit délié</l>
+	<l id="581">Et sur tous ses projets portant l'intelligence</l>
+	<l id="582">Je découvre à peu près quelle est son insolence.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="583">À moins que d'être Dieux, vous ne saurez jamais</l>
+	<l id="584">Si son âme désire ou la guerre ou la paix,</l>
+	<l id="585">Mais dans son procédé je vois bien que cet homme</l>
+	<l id="586">Désire absolument l'autorité de Rome,</l>
+	<l id="587">Du depuis que Pompée est au nombre des morts</l>
+	<l id="588">Il s'est fait redouter par ses cruels efforts,</l>
+	<l id="589">Feignant de se soumettre au vouloir de l'Empire,</l>
+	<l id="590">Il cache aux moins rusés où son orgueil aspire,</l>
+	<l id="591">Mais on verra bientôt où se porte son coeur</l>
+	<l id="592">Si dans cette bataille il reste le vainqueur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="593">Nous n'avons rien conclu touchant cette matière,</l>
+	<l id="594">Utique à ses projets servira de barrière,</l>
+	<l id="595">Pour conserver encor les grandeurs de l'État,</l>
+	<l id="596">Nous suivrons les avis des Dieux et du Sénat ;</l>
+	<l id="597">Croiriez-vous que Caton eut si peu de courage</l>
+	<l id="598">De pouvoir vivre et voir Rome dans l'esclavage,</l>
+	<l id="599">Il porte dans le coeur trop de fidélité</l>
+	<l id="600">Pour vouloir condescendre à cette lâcheté.</l>
+	<l id="601">Assurez vous sur moi que César et ses ligues</l>
+	<l id="602">Se verront terrassés sous l'effort de nos brigues,</l>
+	<l id="603">Et bien loin d'obéir à ses prétentions</l>
+	<l id="604">Je m'oppose tout seul à ses ambitions,</l>
+	<l id="605">Premier que de l'entendre en sa moindre défense</l>
+	<l id="606">Nous voulons qu'il se range à notre obéissance,</l>
+	<l id="607">Le croyant criminel, il faut comme sujet</l>
+	<l id="608">Qu'il rende ici de tout ce qu'il a fait.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="609">En ce cas, Cornélie, il fait borner vos plaintes,</l>
+	<l id="610">Et donner quelque trêve à vos vives atteintes,</l>
+	<l id="611">Le Sénat s'intéresse à venger votre époux.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="612">Son procédé ne peut modérer mon courroux,</l>
+	<l id="613">Quoi qu'on révère assez ses soins et sa prudence</l>
+	<l id="614">De mon ressentiment je prends la confidence,</l>
+	<l id="615">Et je n'ai point d'espoir dans la peine où je suis</l>
+	<l id="616">De trouver un remède à borner mes ennuis ;</l>
+	<l id="617">Qui pourrait consoler la pauvre Cornélie,</l>
+	<l id="618">Et donner du relâche à sa mélancolie ?</l>
+	<l id="619">Pompée, attire-moi si tu peux dans le Ciel</l>
+	<l id="620">Pour affranchir mon sort d'un tourment si cruel,</l>
+	<l id="621">Je ne connais que toi, si ta valeur m'écoute,</l>
+	<l id="622">Qui puisse m'enseigner ce phare et cette route :</l>
+	<l id="623">Ne laisse plus souffrir ta plus chère moitié,</l>
+	<l id="624">Regarde mes malheurs d'un regard de pitié,</l>
+	<l id="625">C'est tromper mon esprit d'une vaine espérance</l>
+	<l id="626">De penser de ta mort obtenir la vengeance.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="627">J'ai droit de vous blâmer voyant ce désespoir,</l>
+	<l id="628">Et vous doutez beaucoup d'un généreux pouvoir :</l>
+	<l id="629">Quoi ! Sommes-nous vaincus pour parler de la sorte ?</l>
+	<l id="630">Voyez en quelle erreur la passion vous porte,</l>
+	<l id="631">Et pour vous assurer dans ces émotions,</l>
+	<l id="632" syll="6" part="i">Allez voir de César...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="632" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="632" syll="5" part="f">Les soumissions,</l>
+	<l id="633">Ce papier nous les montre, et vous pourrez connaître</l>
+	<l id="634">Les désirs de son âme en lisant cette lettre.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="635">Ah ! Que pourrons-nous voir s'il se moque de nous ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="636">La plainte et les regrets qu'il fait de votre époux.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="637">Dois-je ajouter créance à des discours frivoles ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="638">Espérez quelque chose au sens de ses paroles,</l>
+	<l id="639">Et prenez de la peine à les bien consulter,</l>
+	<l id="640">Il sait l'art très parfait de feindre et de flatter :</l>
+	<l id="641">Brutus survient ici, nous allons par ensemble</l>
+	<l id="642">Penser plus d'une fois de ce qu'il nous en semble.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Brutus, Caton.
+</stage>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="643">Caton, il nous fait voir parmi tant de rigueurs</l>
+	<l id="644">Si notre procédé peut finir nos malheurs,</l>
+	<l id="645">Accorder à César la fin de sa requête</l>
+<note type="L">Accoiser : Rendre coi, calme, tranquille. [L]</note>
+	<l id="646">N'est pas le vrai moyen d'accoiser la tempête,</l>
+	<l id="647">Il serait à propos qu'il se rendit soumis,</l>
+	<l id="648">Sans se rendre cruel plus que nos ennemis,</l>
+<note type="L">Renforcir : Devenir plus fort. [L]</note>
+	<l id="649">Voyant qu'il continue à renforcir ses armes</l>
+	<l id="650">Nous devons redouter quelques tristes alarmes,</l>
+	<l id="651">Le tenant pour suspect, je crois pour le certain</l>
+	<l id="652">Qu'il vient nous commander, mais l'épée à la main.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="653">Suivons de point en point notre ordre et nos maximes,</l>
+	<l id="654">Voyant que ses raisons sont si peu légitimes :</l>
+	<l id="655">En matière d'État, doit on pas réprouver</l>
+	<l id="656">Ce qu'un juste intérêt ne doit point avouer ?</l>
+	<l id="657">Je regarde encor Rome en sa pompe ordinaire,</l>
+	<l id="658">Et je ne peux aimer qui s'en rend adversaire,</l>
+<note type="L">Feintise : Synonyme de feinte, avec cette seule nuance que feintise vieillit et qu'il a un air archaïque. [L]</note>
+	<l id="659">Si César par feintise agit dans ses projets,</l>
+	<l id="660">Pourquoi vouloir traiter ou de trêve ou de paix ?</l>
+	<l id="661">Peut-être que l'arme étonne son courage,</l>
+	<l id="662">Et qu'il craint de périr dans ce sanglant orage.</l>
+	<l id="663">Sans doute il voit déjà devant ses pavillons</l>
+<note type="C">L'aigle est le symbole de Rome. </note>
+	<l id="664">L'Aigle qui sert de guide à tous nos bataillons :</l>
+	<l id="665">Mais ce qui peut causer nos douleurs et nos peines</l>
+	<l id="666">C'est que nous combattons les nations Romaines,</l>
+	<l id="667">Ces nobles Sénateurs, nos parents, nos amis,</l>
+	<l id="668">Il faut qu'ils soient vaincus ou bien nous voir soumis.</l>
+	<l id="669">C'est l'ordre du destin touchant cette occurrence,</l>
+	<l id="670">Il faut qu'un des partis rende l'obéissance.</l>
+	<l id="671">Ah ! Que dis-je, ô César, jamais ta vanité</l>
+	<l id="672">N'imposera des lois dessus ma liberté,</l>
+	<l id="673">Et je propose aux Dieux autant qu'il m'est possible,</l>
+	<l id="674">Que je serai toujours dans un point inflexible,</l>
+	<l id="675">Quoi qu'il puisse arriver du côté du hasard</l>
+	<l id="676">Je résiste sans cesse aux projets de César.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="677">Ma générosité doit seconder un homme</l>
+	<l id="678">Qui veut vivre et mourir pour l'intérêt de Rome,</l>
+	<l id="679">La résolution que je remarque en vous</l>
+	<l id="680">Me rend de votre gloire et rival, et jaloux :</l>
+	<l id="681">J'envie un tel courage, et ma valeur doit suivre</l>
+	<l id="682">Un héros qui me montre un exemple à bien vivre,</l>
+	<l id="683">Et sur ces mêmes pas, je veux régler les miens</l>
+	<l id="684">Pour épargner la vie à nos concitoyens ;</l>
+	<l id="685">Le soin de la patrie est un témoin fidèle</l>
+	<l id="686">Qui fait paraître assez l'ardeur de votre zèle,</l>
+	<l id="687">Et quiconque vous fuit et vous peut imiter,</l>
+	<l id="688">Est sans doute Romain, et s'en peut bien vanter.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="689">César n'a pas ce droit, puisque son âme espère</l>
+	<l id="690">Déranger sous ses lois le destin de sa mère,</l>
+	<l id="691">Mais la gloire et l'honneur d'être de ses enfants</l>
+	<l id="692">Ne conviendront jamais à des princes tyrans,</l>
+	<l id="693">Il perd cet avantage, et puisque sa puissance</l>
+	<l id="694">Veut que l'Empire soit sous son obéissance.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="695">Renvoyons son neveu pour mieux lui témoigner</l>
+	<l id="696">Que Rome est encor Rome, et qu'elle veut régner,</l>
+	<l id="697">Et que dans sa conduite elle fait assez croire</l>
+	<l id="698">Qu'elle a trop de moyens pour maintenir sa gloire,</l>
+	<l id="699">Sans doute on n'a raison de le tenir suspect,</l>
+	<l id="700">Il trahit son devoir autant que son respect,</l>
+	<l id="701">Et dans cette insolence où le porte l'audace,</l>
+	<l id="702">Il ne peut espérer de faveur ni de grâce ;</l>
+	<l id="703">Rompons la conférence, et dès aujourd'hui</l>
+	<l id="704">L'orage éclate et fonde avec fureur sur lui,</l>
+	<l id="705">Et prions que les Dieux emploient plus d'un foudre</l>
+	<l id="706">Pour réduire l'orgueil de ce tyran en poudre,</l>
+	<l id="707">Afin que son désastre apprenne à nos Romains</l>
+	<l id="708">Que l'Empire répugne à voir des souverains.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="709">Je crois que ce guerrier nous pourra bien apprendre</l>
+	<l id="710">S'il a quelque dessein de nous vouloir surprendre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Statillius, Caton, Brutus.
+</stage>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="711">Oui sans doute il le veut, n'en doutez nullement,</l>
+	<l id="712">Attendez vous d'en voir le triste événement,</l>
+	<l id="713">Me rendant pour l'État généreux et fidèle</l>
+	<l id="714">Je ne dois pas permettre une brigue nouvelle ;</l>
+	<l id="715">On fait courir un bruit qui doit vous étonner.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="716" syll="3" part="i">Et quel bruit ?</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="716" syll="3" part="m">Lucius.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="716" syll="3" part="m">Que fait-il ?</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="716" syll="3" part="f">Mutiner</l>
+	<l id="717">Beaucoup de nos soldats, et de là je présage</l>
+	<l id="718">Qu'on verra sur Utique éclater tout l'orage ;</l>
+	<l id="719">Si la chose est certaine à quel point sommes nous ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="720">Animons nos desseins d'un généreux courroux,</l>
+	<l id="721">Et quoi que l'artifice invente et puisse faire</l>
+	<l id="722">Prévenons les projets de ce lâche adversaire.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="723">Qui peut croire cela si la commission</l>
+	<l id="724">Nous fait voir l'ennemi dans la soumission,</l>
+	<l id="725">Sa lettre de créance est un vrai témoignage</l>
+	<l id="726">Du dessein principal où son oncle l'engage.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="727">Soyez plus avisés dans ce fait important.</l>
+	<l id="728">Redoutez davantage et ne croyez pas tant,</l>
+	<l id="729">Empêchons les effets de ces nouvelles brigues</l>
+	<l id="730">Par de sages conseils et de puissantes ligues :</l>
+	<l id="731">On commence à prévoir d'étranges accidents,</l>
+	<l id="732">César trompe au dehors, Lucius au dedans,</l>
+	<l id="733">Et sous un beau semblant qu'il fait ici paraître</l>
+	<l id="734">Il fait des actions et d'un lâche et d'un traître.</l>
+	<l id="735">Je ne dois pas m'en taire, ici de tous côtés</l>
+	<l id="736">Grand nombre de soldats n'ont que des lâchetés,</l>
+	<l id="737">Chaque troupe résiste aux lois de la milice,</l>
+	<l id="738">Et pervertir son coeur d'une étrange malice :</l>
+	<l id="739">Que doit-on redouter de ce commencement</l>
+	<l id="740">Qu'un désordre confus dans son événement ;</l>
+	<l id="741">César étant vainqueur perdez toute espérance</l>
+	<l id="742">De faire contre lui la moindre résistance,</l>
+	<l id="743">Le moyen de la faire ayant dans nos remparts</l>
+	<l id="744">Un homme qui vous brave et fuit de toute parts,</l>
+	<l id="745">Remarquant les défauts qui sont dans cette ville</l>
+	<l id="746">Il va faire un écueil d'un favorable asile,</l>
+	<l id="747">Pensez à ce désordre il en est bien saison,</l>
+	<l id="748">Et détournez l'effet de cette trahison.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="749">Je ne suis pas trompé de cette procédure,</l>
+	<l id="750">J'en ressens dans mon âme une atteinte assez dure ;</l>
+	<l id="751">Et j'ai peine à penser comme l'on a permis</l>
+	<l id="752">Ce procédé étrange avec nos ennemis ;</l>
+	<l id="753">Mais la faute étant faite, allons à ce remède</l>
+	<l id="754">Pour rompre le dessein d'où le malheur procède.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="755">Nous sommes bien déçus parmi nos plus grands soins.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="756">Il ne faut pas se rendre en de pareils besoins,</l>
+	<l id="757">C'est ici qu'il nous faut avoir de la constance,</l>
+	<l id="758">Et montrer à César beaucoup de résistance :</l>
+	<l id="759">Agissons par sagesse autant que par valeur</l>
+	<l id="760">Pour ne s'abîmer pas dans ce nouveau malheur ;</l>
+	<l id="761">La chose est bien facile, et sans vous mettre en peine</l>
+	<l id="762">Empêchons tout à fait l'émotion soudaine,</l>
+	<l id="763">Que Lucius retourne, et ne le souffrons plus,</l>
+	<l id="764">Ses divers entretiens sont du tout superflus.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="765">Puisque César diffère à vouloir comparaître,</l>
+	<l id="766">Disons que Lucius fait l'action d'un traître,</l>
+	<l id="767">Et sens prêter l'oreille à tant de vains propos</l>
+	<l id="768">Agissons pour l'Empire et pour notre repos,</l>
+	<l id="769">Laissons faire l'armée et celui qui la guide,</l>
+	<l id="770">Scipion n'eut jamais le courage timide,</l>
+	<l id="771">Brutus ose assurer qu'il sait bien que son coeur</l>
+	<l id="772">Emploiera ses efforts pour demeurer vainqueur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="773">Renvoyons ses courriers avec diligence,</l>
+	<l id="774">Et prenons du Sénat une autre intelligence,</l>
+	<l id="775">Pour faire voir partout que la fidélité</l>
+	<l id="776">Nous porte à maintenir Rome et sa liberté.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Caton, Statillius.
+</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="777">C'est peut être un faux bruit qui court parmi la ville.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="778">Ma créance en ce point n'y voit rien de facile :</l>
+	<l id="779">Mais quoi qu'il en puisse être, un généreux effort.</l>
+	<l id="780">N'apprendra comme il faut braver un mauvais sort.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="781">On n'en veut pas à vous, l'éclat de la tempête</l>
+	<l id="782">Quoi qu'il vous fasse peut recherche une autre tête,</l>
+	<l id="783">César qui me connaît de son destin jaloux</l>
+	<l id="784">Ne choisit que la mienne à lancer son courroux ;</l>
+	<l id="785">Sur ce cruel projet son âme est occupée,</l>
+	<l id="786">Il faut joindre ma perte à celle de Pompée,</l>
+	<l id="787">Sa cruauté le veut, les Dieux en sont d'accord,</l>
+	<l id="788">Et moi je me dispose aux rigueurs de mon sort.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="789">Il faut perdre la vie après que mon courage</l>
+	<l id="790">Aura de ma valeur donné du témoignage,</l>
+	<l id="791">Si l'armée est défaite, et que tout soit perdu,</l>
+	<l id="792">César aura bientôt ce qu'il a prétendu ?</l>
+	<l id="793">Un coup de désespoir fait souvent des miracles,</l>
+	<l id="794">Quiconque est résolu méprise les obstacles,</l>
+	<l id="795">C'est dans les grands périls qu'une illustre vertu</l>
+	<l id="796">Relève avecque gloire un courage abattu.</l>
+	<l id="797">C'est parmi les hasards qu'il faut changer de termes,</l>
+	<l id="798">Et les occasions rendent nos coeurs plus fermes,</l>
+	<l id="799">La moindre lâcheté doit s'éloigner d'un coeur</l>
+	<l id="800">Qui désire affronter un superbe vainqueur :</l>
+	<l id="801">Je croirais de me rendre en tout point ridicule</l>
+	<l id="802">Si je manquais d'avoir la valeur d'un Hercule,</l>
+	<l id="803">Dans l'état où je suis mon destin glorieux</l>
+	<l id="804">Oserait attaquer les hommes et les Dieux.</l>
+	<l id="805">Quand je verrais sur moi fondre plus d'un tonnerre,</l>
+	<l id="806">Et trembler sous mes pieds les climats de la terre,</l>
+	<l id="807">Sans démentir ne rien ma gloire et mon effort</l>
+	<l id="808">Je ne craindrais jamais ni César ni la mort.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="809">Vous me rendez jaloux, et je sens que mon âme</l>
+	<l id="810">Reprend beaucoup de force en voyant votre flamme,</l>
+	<l id="811">Et plût aux Dieux que Rome en de pareils desseins</l>
+	<l id="812">Pût se vanter d'avoir beaucoup de tels Romains,</l>
+	<l id="813">Sa grandeur ébranlée aurait sujet de croire</l>
+	<l id="814">Qu'elle aurait des appuis pour soutenir sa gloire,</l>
+	<l id="815">Parmi ce grand désastre où le sort nous a mis,</l>
+	<l id="816">Dieux ! Faute d'en avoir on nous verra soumis,</l>
+	<l id="817">Nous le sommes déjà, César pense sans crime</l>
+	<l id="818">Acquérir dessus nous un pouvoir légitime,</l>
+	<l id="819">Et pour avoir un prix digne de ses exploits</l>
+	<l id="820">Rome doit se résoudre à recevoir ses lois,</l>
+	<l id="821">Et son âme superbe autant qu'on le peut être,</l>
+	<l id="822">Ne peut plus endurer de reconnaître en maître,</l>
+	<l id="823">À moins que l'Univers, un coeur comme le sien</l>
+	<l id="824">Ne trouvera jamais de repos ni de bien.</l>
+	<l id="825">Cruelle ambition ! Fatale destinée !</l>
+	<l id="826">Rome à tant de malheurs se trouve abandonnée,</l>
+	<l id="827">Et ce nouveau tyran (à l'Empire odieux)</l>
+	<l id="828">Ne craint plus le courroux des hommes et des Dieux.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="829">Un reste d'espérance anime encore mon âme,</l>
+	<l id="830">Je ne suis pas un homme à recevoir du blâme,</l>
+	<l id="831">Montrons notre courage, et malgré le hasard</l>
+	<l id="832">Disputons la victoire au destin de César :</l>
+	<l id="833">Parmi cette occurrence une âme résolue,</l>
+	<l id="834">Peut faire encore trembler une force absolue,</l>
+	<l id="835">Aussi bien quelque jour faut-il pas que la mort</l>
+	<l id="836">Arrête en sa fureur le cours de notre sort ?</l>
+	<l id="837">Un esprit magnanime est peu considérable</l>
+	<l id="838">S'il craint de recevoir son coup inévitable,</l>
+	<l id="839">La résolution fait tous les généreux,</l>
+	<l id="840">Au contraire la peur produit les malheureux,</l>
+	<l id="841">L'estime a grand bonheur quand un noble courage</l>
+	<l id="842">Exerce sa constance au plus fort de l'orage,</l>
+	<l id="843">Un amas de périls réveillent la vertu,</l>
+	<l id="844">Tel est bien attaqué qui n'est pas abattu,</l>
+	<l id="845">Si Rome est oppressée, ah ! Que notre puissance</l>
+	<l id="846">Abaisse l'ennemi sous son obéissance ;</l>
+	<l id="847">Ne désespérons pas de vaincre ce vainqueur,</l>
+	<l id="848">Et puis, que le désir en naît dans notre coeur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="849">Nous devons l'espérer quoi que la Renommée</l>
+	<l id="850">Publie à_haute_voix la perte de l'armée :</l>
+	<l id="851">Il faut bien être ferme en de tels incidents</l>
+	<l id="852">Pour ne s'ébranler pas parmi tant d'accidents ;</l>
+	<l id="853">Quoi que je sois constant, ce n'est pas sans crainte,</l>
+	<l id="854">Si j'ai beaucoup d'espoir il est mêlé de crainte :</l>
+	<l id="855">Mille soins différents partagent mes soucis,</l>
+	<l id="856">Et chacun ne connaît qui sont tous mes ennuis :</l>
+	<l id="857">Du côté du vainqueur ma misère est extrême,</l>
+	<l id="858">D'autre part je m'afflige en ceux que mon coeur aime,</l>
+	<l id="859">Et quand je considère où le sort nous a mis</l>
+	<l id="860">Je déplore à la fois l'Empire et nos amis :</l>
+	<l id="861">Des vivantes douleurs me portent dans la gêne,</l>
+	<l id="862">Dieux ! Qui ne m'aurait pas pour la gloire Romaine,</l>
+	<l id="863">Qui succombe aux efforts d'un insolent orgueil,</l>
+	<l id="864">Et rencontre sa perte où je vois mon écueil...</l>
+	<l id="865">Chez Brutus, est-il vrai ce qu'on m'a voulu dire,</l>
+	<l id="866">Rome a-t-elle perdu les droits de son Empire,</l>
+	<l id="867">Venez-vous confirmer par un triste discours</l>
+	<l id="868">Sa triste décadence et la fin de mes jours ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Brutus, Catin, Statillius.
+</stage>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="869">Ah ! Nous sommes réduits dans un désastre étrange</l>
+	<l id="870">Connaissant l'infortune où le destin nous range,</l>
+	<l id="871">L'Empire est aux abois, sa gloire et sa grandeur</l>
+	<l id="872">Éclipsent tout à coup leur reste de splendeur :</l>
+	<l id="873">Un perfide insolent commande à la fortune</l>
+	<l id="874">Pendant qu'elle se montre envers nous importune,</l>
+	<l id="875">Un parti s'est formé, nous sommes tous perdus,</l>
+	<l id="876">Des succès malheureux ensemble confondus</l>
+	<l id="877">Accablent ma constance, et me font assez croire</l>
+	<l id="878">Que l'empire aujourd'hui perd tout à fait sa gloire,</l>
+	<l id="879">Nous avions apaisé ces esprits factieux</l>
+	<l id="880">Punissant de la mort les plus séditieux ;</l>
+	<l id="881">Mais sur ce nouveau bruit qui passe toute créance,</l>
+	<l id="882">Ces mutins aussitôt transportés d'arrogance,</l>
+	<l id="883">Trahissant leur devoir courent de toutes parts</l>
+	<l id="884">Criant vive César même sur les remparts.</l>
+	<l id="885">Je ne sais que résoudre, enfin il vous faut dire</l>
+	<l id="886">La perte de l'armée, et celle de l'Empire ;</l>
+	<l id="887">Il n'en faut plus douter, le bruit fait trop d'éclat,</l>
+	<l id="888">Nos soins ne peuvent plus favoriser l'État :</l>
+	<l id="889">Caton, il faut céder à ce destin sévère</l>
+	<l id="890">Puisque le Ciel n'est pas à tant de voeux prospères,</l>
+	<l id="891">En vain nous résistons à la fatalité,</l>
+	<l id="892">L'Empire perd sa gloire et nous la liberté.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="893">Quoi donc Rome est vaincue ? Et notre résistance</l>
+	<l id="894">N'a pu de la fortune arrêter l'inconstance,</l>
+	<l id="895">Les Dieux sont irrités contre elle et contre nous,</l>
+	<l id="896">Et nous servons de bute aux traits de leurs courroux,</l>
+	<l id="897">Leur haine est implacable aussi bien qu'infinie</l>
+	<l id="898">Favorisant César jusqu'à la tyrannie,</l>
+	<l id="899">Et ces derniers efforts de rage et de fureur</l>
+	<l id="900">Font de notre patrie un théâtre d'horreur.</l>
+	<l id="901">César, ta destinée est dans un point extrême,</l>
+	<l id="902">Mais seras-tu content de notre diadème ?</l>
+	<l id="903">Ton âme insatiable a des prétentions</l>
+	<l id="904">Qui ne répugne point à tes ambitions ;</l>
+	<l id="905">Tu peux vaincre partout, et puisque tu l'espères</l>
+	<l id="906">Le destin t'a promis de t'être assez prospère,</l>
+	<l id="907">Puisque nous n'avons pu borner tes grands desseins,</l>
+	<l id="908">Joints la perte du monde à celle des Romains.</l>
+	<l id="909">Oui, oui, que l'univers succombe sous tes armes,</l>
+	<l id="910">Fais couler des torrents et de sang et de larmes,</l>
+	<l id="911">Ton sentier est frayé, va suis-le jusqu'au bout,</l>
+	<l id="912">Il faut pour t'assouvir posséder un grand tout ;</l>
+	<l id="913">Tu fais revivre en toi la destin d'Alexandre,</l>
+	<l id="914">Invente un nouveau monde et va tôt le surprendre,</l>
+	<l id="915">Si tu ne peux borner ton coeur ambitieux,</l>
+	<l id="916">Va-t-en dessus le Ciel faire la guerre aux Dieux.</l>
+	<l id="917">Mais d'où vient que Caton dans le malheur s'étonne,</l>
+	<l id="918">Faut-il que la constance au péril l'abandonne,</l>
+	<l id="919">Son coeur si généreux manquera-t-il d'effort</l>
+	<l id="920">Lorsqu'il faut contredire aux caprices du sort ?</l>
+	<l id="921">Rappelle ta vertu puisqu'elle est nécessaire</l>
+	<l id="922">Pour combattre aujourd'hui ton superbe adversaire,</l>
+	<l id="923">Oppose à sa vaillance un courage indompté</l>
+	<l id="924">Qui ne manqua jamais de générosité.</l>
+	<l id="925">Qu'il soit vrai, qu'il soit faux, du destin de l'armée</l>
+	<l id="926">Fermons l'oreille au bruit qu'en fait le Renommée,</l>
+	<l id="927">Et par précaution d'un désastre attendu</l>
+	<l id="928">Que l'Empire en ce lieu soit encore défendu :</l>
+	<l id="929">Le conseil, la valeur, le courage et les armes</l>
+	<l id="930">Nous servirons bien mieux que la crainte et les larmes,</l>
+	<l id="931">Rome espère de nous le reste de nos soins,</l>
+	<l id="932">Contentons ses désirs dans ses plus grands besoins.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS. </speaker>
+	<l id="933">Si nous pouvions agir selon notre espérance</l>
+	<l id="934">Sans trouver parmi nous la moindre résistance,</l>
+	<l id="935">Accordant la valeur à nos prétentions,</l>
+	<l id="936">Nous pourrions résister à tant d'afflictions :</l>
+	<l id="937">Mais voyant des soldats que la crainte effarouche,</l>
+	<l id="938">N'avoir que le seul nom de César en la bouche,</l>
+	<l id="939">Applaudir à sa gloire, approuver ses desseins,</l>
+	<l id="940">Que doit-on espérer de ces lâches Romains.</l>
+	<l id="941">Je crois qu'on les verra bientôt quitter les armes,</l>
+	<l id="942">Puisqu'un simple rapport leur cause tant d'alarmes,</l>
+	<l id="943">Ainsi c'est se tromper de croire qu'un vainqueur</l>
+	<l id="944">Ne puisse les dompter puisqu'ils n'ont plus de coeur,</l>
+	<l id="945">Leur vaillance est séduite autant que leur courage,</l>
+	<l id="946">Et loin de se défendre ils lui rendront hommage,</l>
+	<l id="947">Combattus au dehors et trahis au dedans,</l>
+	<l id="948">Qui pourrait s'opposer à tels accidents.</l>
+	<l id="949">Cédons, cédons au sort dont la rigueur nous brave,</l>
+	<l id="950">Et n'espérons plus rien que le titre d'esclave,</l>
+	<l id="951">Notre infortune ajoute aux maux qu'on a soufferts,</l>
+	<l id="952">La honte, les mépris, les rigueurs et les fers.</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="953">Si l'espoir de vaincus est de ne rien attendre,</l>
+	<l id="954">Il ne faut plus penser à se vouloir défendre :</l>
+	<l id="955">Que nous pourrait servir d'employer la valeur,</l>
+	<l id="956">Si l'on a pas l'espoir de vaincre le malheur ?</l>
+	<l id="957">La résistance est vaine, et quoi qu'on puisse faire,</l>
+	<l id="958">À nos plus beaux projets la fortune est contraire,</l>
+	<l id="959">Chaque jour la victoire en dépit du hasard</l>
+	<l id="960">Se déclare à nos yeux du parti de César ;</l>
+	<l id="961">Et comme intéressée au progrès des armes</l>
+	<l id="962">Sa main le rend vainqueur dans toutes les alarmes :</l>
+	<l id="963">Nous voyons que s'il est quelque peu combattu,</l>
+	<l id="964">C'est pour faire éclater cent fois plus sa vertu,</l>
+	<l id="965">Et quiconque s'oppose à cette âme invincible,</l>
+	<l id="966">Apprend qu'à sa valeur toute chose est possible ;</l>
+	<l id="967">Ce n'est pas que mon coeur trahisse son devoir,</l>
+	<l id="968">Et que je m'abandonne à suivre un désespoir,</l>
+	<l id="969">Non, tant que je vivrai mon âme généreuse</l>
+	<l id="970">Cherchera les moyens d'être plus glorieuse.</l>
+	<l id="971">Dans ce dernier désastre où l'on croit tout perdu,</l>
+	<l id="972">Où nous sommes trompés d'un espoir prétendu,</l>
+	<l id="973">Je veux faire paraître à la fortune adverse</l>
+	<l id="974">Ma générosité lorsqu'elle nous traverse :</l>
+	<l id="975">Toutefois j'ai regret de n'avoir point plutôt</l>
+	<l id="976">Prévenu ce dessein qui nous surprend d'assaut,</l>
+	<l id="977">Lucius a perdu la jeunesse Romaine,</l>
+	<l id="978">Lucius a produit le malheur qui nous gêne,</l>
+	<l id="979">La commerce trompeur de sa fausse amitié</l>
+	<l id="980">Fait de notre fortune un objet de pitié,</l>
+	<l id="981">Mais encor, devons-nous nous résoudre quelque chose,</l>
+	<l id="982">Arrêtons les effets d'une si terrible cause,</l>
+	<l id="983">Dans le fort de l'orage un esprit généreux</l>
+	<l id="984">Pour se voir attaqué se croit-il malheureux ?</l>
+	<l id="985">Non, si la résistance est digne de la gloire,</l>
+	<l id="986">Vainquons à notre fois César et sa victoire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Portius, Brutus, Caton, Statillius. 
+</stage>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="987">Lucius effrayé revient dessus ses pas,</l>
+	<l id="988">Je ne sais si l'horreur qu'il conçoit au trépas</l>
+	<l id="989">Gêne sa conscience et lui ferme la bouche,</l>
+	<l id="990">Puisqu'on ne peut apprendre où la douleur le touche :</l>
+	<l id="991">Il m'a parlé des yeux d'une esprit interdit,</l>
+	<l id="992">En voulant s'exprimer s'il ne sait ce qu'il dit :</l>
+	<l id="993">De cette conjecture allons à la créance,</l>
+	<l id="994">Oui César est vaincu, j'en ai trop d'assurance,</l>
+	<l id="995">Lui qui faisait trembler tout dessous sa vertu,</l>
+	<l id="996">Par le vouloir des Dieux se retrouve abattu ;</l>
+	<l id="997">Que de voeux et d'encens, ô bonté souveraine,</l>
+	<l id="998">Vous doit pour ce bien fait la nation Romaine.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="999">Je me sens tout ému, mon coeur s'envole aux Cieux,</l>
+	<l id="1000">Allons tôt rendre hommage au souverain des Dieux,</l>
+	<l id="1001">Dans un excès de joie il faut que la tristesse</l>
+	<l id="1002">S'abîme tout à coup, qu'à son tour l'allégresse</l>
+	<l id="1003">Ramène les plaisirs, afin que désormais</l>
+<note type="L">Temple de Janus : Temple de Rome qui officialise la Guerre (ouverture) et la Paix (fermeture).</note>
+	<l id="1004">Le temple de Janus soit fermé par la paix.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1005">J'ai trop raison de croire une chose contraire,</l>
+	<l id="1006">Le bonheur de César sans doute l'a fait taire,</l>
+	<l id="1007">Conservant dans son coeur nos étranges malheurs</l>
+	<l id="1008">Il n'a pu s'exprimer qu'en parlant par ses pleurs,</l>
+	<l id="1009" syll="6" part="i">Je vous dis ma pensée...</l>
+</sp>
+<sp who="STATILLIUS"><speaker>STATILLIUS.</speaker>
+	<l id="1009" syll="6" part="f">Il est meilleur de croire</l>
+	<l id="1010">Que le destin nous donne aujourd'hui la victoire ;</l>
+	<l id="1011">En former quelque doute on offense les Dieux,</l>
+	<l id="1012">L'Empire est un objet trop respecté des Cieux,</l>
+	<l id="1013">Dans son plus grand désastre ils font voir leur clémence,</l>
+	<l id="1014">Au contraire César va voir se décadence.</l>
+	<l id="1015">Compagnons de ma gloire, animons nos chaleurs,</l>
+	<l id="1016">Poursuivons le vaincu pour finir nos malheurs ;</l>
+	<l id="1017">Portius, n'as-tu point une pareille envie,</l>
+	<l id="1018">L'Empire en ce progrès demande notre vie,</l>
+	<l id="1019">Et pour lui témoigner notre fidélité</l>
+	<l id="1020">Allons vaincre ou mourir pour notre liberté.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1021">Je réponds au désir qui t'anime et te porte,</l>
+	<l id="1022">L'espérance en nos coeurs sans doute n'est plus morte,</l>
+	<l id="1023">Secondant ta valeur qui me vient d'échauffer,</l>
+	<l id="1024">Allons dans le combat pour vaincre et triompher.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Caton, Brutus.
+</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1025" syll="6" part="i">Brutus que vous semble ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1025" syll="6" part="f">Un si noble courage</l>
+	<l id="1026" syll="6" part="i">Promet beaucoup de chose.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1026" syll="6" part="f">Il rendra témoignage</l>
+	<l id="1027">Qu'un coeur comme le sien oserait disputer</l>
+	<l id="1028">L'Empire de la terre à quelque Jupiter,</l>
+	<l id="1029" syll="6" part="i">Vu sa belle espérance.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1029" syll="6" part="f">Et moi tout au contraire</l>
+	<l id="1030">Je dis qu'il en dit moins que ce qu'il prétend faire.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1031">Le temps nous apprendra qu'en de pareils discours</l>
+	<l id="1032">On ne doit s'assurer d'y trouver du secours ;</l>
+	<l id="1033">Toutefois secondons le coeur de ce jeune homme,</l>
+	<l id="1034">Qui prend tant d'intérêt pour la gloire de Rome :</l>
+	<l id="1035">Il faut apprendre aussi, si nous avons l'honneur,</l>
+	<l id="1036">Que César soit vaincu, que Scipion vainqueur</l>
+	<l id="1037">Revient avec triomphe animer nos Orphées</l>
+	<l id="1038">Pour rendre ce qu'on doit à ces nobles trophées.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1039">Voilà de grands bonheurs si l'on ne trompe point.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Cornélie, Julie.
+</stage>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1040">Le malheur où je suis m'a réduite en un point</l>
+	<l id="1041">Qu'il faut que je confesse aux yeux de tout le monde</l>
+	<l id="1042">L'effet le plus cruel de ma douleur profonde :</l>
+	<l id="1043">Alors que la vengeance animait plus mon coeur</l>
+	<l id="1044">Pour tirer ma raison d'un superbe vainqueur,</l>
+	<l id="1045">La fortune me brave, et me fait reconnaître</l>
+	<l id="1046">Que nous sommes contraint de recevoir un maître ?</l>
+	<l id="1047">Ô destins inconstants ! Vous l'avez résolu,</l>
+	<l id="1048">Vous rendez aujourd'hui ce perfide absolu,</l>
+	<l id="1049">Rome est assujettie, et sa pompe et sa gloire</l>
+	<l id="1050">Vont relever d'éclat une injuste victoire.</l>
+	<l id="1051">César notre ennemi, ce barbare inhumain,</l>
+	<l id="1052">Triomphe tout à fait de l'Empire Romain :</l>
+	<l id="1053">Sa puissance invincible en dépit des obstacles</l>
+	<l id="1054">Vient encor de nouveau produire des miracles ;</l>
+	<l id="1055">Les Dieux nous ont trahis secondant sa valeur,</l>
+	<l id="1056">Pour nous réduire au point d'un extrême malheur.</l>
+	<l id="1057">Cornélie, à quoi bon être tant occupée</l>
+	<l id="1058">À chercher les moyens de venger ton Pompée,</l>
+	<l id="1059">Si contre tes projets le sort injurieux</l>
+	<l id="1060">Oppose injustement et la terre et les Cieux ;</l>
+	<l id="1061">Non, César ne peut plus tomber sous ma puissance,</l>
+	<l id="1062">Pour lancer dessus lui les traits de ma vengeance ;</l>
+	<l id="1063">Vainqueur de tous côtés, il peut bien se vanter</l>
+	<l id="1064">Que rien dans l'univers ne lui peut résister.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1065">Quoi ! Vous donnez créance à ces tristes nouvelles,</l>
+	<l id="1066">Et blessez votre coeur d'atteintes trop cruelles.</l>
+	<l id="1067">Vous allez au devant [d]es effets du hasard,</l>
+	<l id="1068">Et prenez le parti du côté de César ;</l>
+	<l id="1069">Madame, assurez vous que ce bruit du vulgaire</l>
+	<l id="1070">N'est qu'une invention qui vient de l'adversaire,</l>
+	<l id="1071">Se voyant attaqué, redoutant le malheur,</l>
+	<l id="1072">Il se sert de la feinte à faute de valeur ;</l>
+	<l id="1073" syll="6" part="i">Ainsi pour étonner...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1073" syll="6" part="f">Tu te trompes, Julie,</l>
+	<l id="1074">Et ta parole offense en un point Cornélie :</l>
+	<l id="1075">César est généreux, et sa vertu me plaît,</l>
+	<l id="1076">J'ai peine à le haïr, tout ennemi qu'il est ;</l>
+	<l id="1077">Si la mort d'un époux ne le rendait blâmable,</l>
+	<l id="1078">Il serait dans mon âme assez considérable :</l>
+	<l id="1079">J'ajoute à ce malheur ces furieux desseins</l>
+	<l id="1080">Qui nous font redouter la perte des Romains ;</l>
+	<l id="1081">Ces divers sentiments combattent ma pensée,</l>
+	<l id="1082">Et dans chaque parti je suis intéressée,</l>
+	<l id="1083">Je voudrais que César fut moins bien vertueux,</l>
+	<l id="1084">Je voudrais que mon bras fut plus impétueux,</l>
+	<l id="1085">On me verrait bientôt en surpassant la foudre</l>
+	<l id="1086">Attaquer son audace et la réduire en poudre :</l>
+	<l id="1087">Mais je respecte encor sa gloire et son honneur,</l>
+	<l id="1088">Sans porter de l'envie à son plus grand bonheur ;</l>
+	<l id="1089">Il semble que le ciel lorsqu'il nous abandonne,</l>
+	<l id="1090">L'élevant d'une main, de l'autre il le couronne,</l>
+	<l id="1091">Forçant la destinée à suivre son conseil,</l>
+	<l id="1092">Il va prendre ce Prince au monde sans pareil.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1093">Vous le croyez vainqueur et d'une juste guerre.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1094">Non seulement cela, mais que toute la terre</l>
+	<l id="1095">Abaissée à ses pieds chérira quelque jour</l>
+	<l id="1096">La grandeur de sons sort par force ou par amour.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1097">Ainsi votre vengeance est un peu modérée,</l>
+	<l id="1098" syll="2" part="i">Bientôt...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1098" syll="10" part="f">Hélas ! Je parle en inconsidérée,</l>
+	<l id="1099">Si j'aime sa vertu je hais son attentat,</l>
+	<l id="1100">Mais quoi qu'il puisse faire à nous ravir l'État,</l>
+	<l id="1101">Je te peux assurer qu'il n'aura point d'estime</l>
+	<l id="1102">Qu'elle ne soit jugée et juste et légitime,</l>
+	<l id="1103">Et si notre parti se retrouve abattu,</l>
+	<l id="1104">Sa gloire n'en doit rien qu'à sa seule vertu.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1105">Vous l'estimez beaucoup dedans son insolence.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1106">Je le désire tel pour plaire à ma vengeance,</l>
+	<l id="1107">Offrant une victime aux mânes d'un époux,</l>
+	<l id="1108">Elle ne peut sans gloire assouvir mon courroux.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1109">Je m'étonne beaucoup de votre procédure.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1110">Dis que tu ne sens pas les douleurs que j'endure,</l>
+	<l id="1111">Et parmi tant d'ennuis un coeur comme le mien</l>
+	<l id="1112">S'emporte à des excès lorsqu'il n'espère rien.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1113">Martia vous apporte un remède à vos larmes.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<note type="L">Accoiser : Rendre coi, calme, tranquille. [L]</note>
+	<l id="1114">Julie, ah ! Qui pourrait accoiser mes alarmes ?</l>
+	<l id="1115">Ne pouvant adoucir les rigueurs de mon sort,</l>
+	<l id="1116">Je dois fuir la vie et courir à la mort.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Maria, Philante, Cornélie, Julie.
+</stage>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1117">Ce faux bruit qui courait n'a plus de certitude,</l>
+	<l id="1118">Donnez quelque relâche à votre inquiétude,</l>
+	<l id="1119">Et pensez que le Ciel par un noble dessein,</l>
+	<l id="1120">Va relever le gloire à l'Empire Romain.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1121">Je voudrais l'espérer, si la moindre apparence</l>
+	<l id="1122">Disposait mon esprit d'en avoir le créance ;</l>
+	<l id="1123">Mais parmi nos malheur j'ai peine à concevoir,</l>
+	<l id="1124">Quel serait le motif d'en donner de l'espoir.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1125">Nous croyons que César dans le bruit du vulgaire</l>
+	<l id="1126">Rencontre à ses desseins la Fortune contraire,</l>
+	<l id="1127">Et même Portius, avec la joie au coeur,</l>
+	<l id="1128">M'a dit que Scipion était resté vainqueur ;</l>
+	<l id="1129">ET vous devez penser que votre répugnance</l>
+	<l id="1130">N'en peut pas amoindrir la gloire et l'espérance ;</l>
+	<l id="1131">Lucius effrayé retournant sus ses pas,</l>
+	<l id="1132">Confirme assez la chose, et je n'en doute pas.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1133">Quoi ! Sans l'interroger, Martia voudrait croire</l>
+	<l id="1134">Que Scipion remporte aujourd'hui la victoire ?</l>
+	<l id="1135">Et que César vaincu dans ce dernier combat</l>
+	<l id="1136" syll="6" part="i">Reconnaîtra son crime.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1136" syll="6" part="f">Oui, même en plein Sénat ;</l>
+	<l id="1137">On nous fait espérer cette belle occurrence.</l>
+</sp>
+<sp who="PHILANTE"><speaker>PHILANTE.</speaker>
+	<l id="1138">Si l'on doit s'assurer dessus une apparence,</l>
+	<l id="1139">Le peuple à pleine voix témoigne en divers lieux</l>
+	<l id="1140" syll="" part="i">Ce bonheur espéré...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1140" syll="6" part="f">Même on prépare aux Dieux</l>
+	<l id="1141">La victime ordinaire en de pareilles fêtes.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1142">Rome n'a pas encor de borne en ses conquêtes,</l>
+	<l id="1143">On voit changer de face à son mauvais destin,</l>
+	<l id="1144">La Paix va retourner chez le peuple Latin ;</l>
+	<l id="1145">Ses ennemis domptés adorant sa puissance</l>
+	<l id="1146">Lui rendront des devoirs de leur obéissance.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1147">Je ne sais quel sujet me contraint d'en douter,</l>
+	<l id="1148">Mais j'ai plus d'un motif d'y vouloir résister,</l>
+	<l id="1149">Et ce caprice étrange où mon esprit s'engage</l>
+	<l id="1150">Donne à notre ennemi la gloire et l'avantage :</l>
+	<l id="1151">Contre mon sentiment je ressens que mon coeur</l>
+	<l id="1152">Ne conçoit rien de bas du sort de ce vainqueur,</l>
+	<l id="1153">Et quoi que je répugne où va sa tyrannie,</l>
+	<l id="1154">Je suis aveuglément l'effort de mon génie,</l>
+	<l id="1155">Et ne peut démentir d'un esprit interdit</l>
+	<l id="1156">La gloire et le bonheur que son destin m'en dit ;</l>
+	<l id="1157">Et bien que mon courroux soit juste et légitime,</l>
+	<l id="1158">Martia, je ne peux offenser son estime.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1159">Je pense que sa lettre aurait quelque pouvoir</l>
+	<l id="1160">D'obliger Cornélie à suivre son vouloir,</l>
+	<l id="1161">L'amour peut adoucir la colère et la haine.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1162">Quittons la raillerie, et sans vous mettre en peine,</l>
+	<l id="1163">Si césar est vaincu je vous promets ma foi</l>
+	<l id="1164">Qu'on verra quel pouvoir il peut avoir sur moi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="CATON"><speaker>CATON</speaker><stage>, seul tenant le lettre de César.
+</stage>
+<stage type="poem">STANNES.</stage>
+<poem type="stances">
+<lg n="1">
+	<l id="1165">Caton de grâce tu dois croire</l>
+	<l id="1166">Que la fin de tous mes desseins</l>
+	<l id="1167">Regarde l'honneur des Romains,</l>
+	<l id="1168">Et non pas des motifs de relever ma gloire :</l>
+	<l id="1169">Si j'ai si souvent combattu</l>
+	<l id="1170">Pour rendre Pompée abattu,</l>
+	<l id="1171">Juge sans passion de ma juste colère,</l>
+	<l id="1172">Et de ce qu'il a fait et de ce que je fis,</l>
+	<l id="1173">Par ainsi tu verras si le sort d'un beau-père</l>
+	<l id="1174">Doit rendre obéissante à celui d'un beau-fils.</l>
+</lg>
+<lg n="2">
+	<l id="1175">Si Rome souffert en sa perte,</l>
+	<l id="1176">César regrette ce malheur,</l>
+	<l id="1177">Et ne peut pas voir sans douleur</l>
+	<l id="1178">Sa plaie encore sanglante et tous les jours ouverte :</l>
+	<l id="1179">Quiconque accusera mon sort</l>
+	<l id="1180">D'être la cause de sa mort,</l>
+	<l id="1181">Offense ma valeur, trahit ma renommée,</l>
+	<l id="1182">Et doit s'instruire mieux des effets du hasard,</l>
+	<l id="1183">Qui lui firent trouver aux mains de Ptolomée</l>
+	<l id="1184">Ce qu'il n'eut pas reçu de celles de César.</l>
+</lg>
+<lg n="3">
+	<l id="1185">Toutefois son destin me touche,</l>
+	<l id="1186">Et j'ose en accuser les Dieux :</l>
+	<l id="1187">Souvent on peut voir à mes yeux</l>
+	<l id="1188">Le regret que j'en porte, aussi bien qu'en ma bouche :</l>
+	<l id="1189">Celui qui creusa son tombeau,</l>
+	<l id="1190">N'a pas eu le destin plus beau,</l>
+	<l id="1191">Désirant me surprendre avec de l'avantage,</l>
+	<l id="1192">Son orgueil combattu d'un généreux pouvoir,</l>
+	<l id="1193">Éprouva ma fortune et trouva son naufrage</l>
+	<l id="1194">Où je crus voir le mien réduit au désespoir.</l>
+</lg>
+<lg n="4">
+	<l id="1195">Ainsi l'on voit que la justice</l>
+	<l id="1196">S'intéresse en tous mes emplois,</l>
+	<l id="1197">Si j'ai péché contre les lois</l>
+	<l id="1198">Je veux à mon retour souffrir plus d'un supplice ;</l>
+	<l id="1199">Qui je désire en plein Sénat</l>
+	<l id="1200">Me justifier de l'attentat</l>
+	<l id="1201">Duquel je suis coupable au rapport de l'envie,</l>
+	<l id="1202">Et si son équité me trouve un criminel</l>
+	<l id="1203">Je livre en sa puissance et ma gloire et ma vie,</l>
+	<l id="1204">Pour les noircir tous deux d'un reproche éternel.</l>
+</lg>
+<lg n="5">
+	<l id="1205">Guidez d'une belle espérance</l>
+	<l id="1206">Donnons trêve à tant de combats,</l>
+	<l id="1207">Mettent tous deux les armes bas</l>
+	<l id="1208">Que Rome en notre accord reprenne une assurance :</l>
+	<l id="1209">Pour moi tout vainqueur que je suis</l>
+	<l id="1210">On me verra bientôt soumis</l>
+	<l id="1211">Au vouloir du Sénat qui fait trembler le terre,</l>
+	<l id="1212">Je donnerai parole au pied de nos autels,</l>
+	<l id="1213">Que jamais mon destin n'entreprendra la guerre</l>
+	<l id="1214">Qu'en défendant l'empire et les dieux immortels.</l>
+</lg>
+<lg n="6">
+	<l id="1215">Mais, Caton, César te conjure</l>
+	<l id="1216">D'adoucir ce juste courroux</l>
+	<l id="1217">Que Cornélie a d'un époux</l>
+	<l id="1218">À qui je n'ai point fait ni de tort ni d'injure ;</l>
+	<l id="1219">Dis lui que touché de pitié</l>
+	<l id="1220">Je plains que sa chère moitié</l>
+	<l id="1221">Ne peut fléchir le coeur d'un monarque barbare,</l>
+	<l id="1222">Qu'au contraire on verra la plupart de mes soins</l>
+	<l id="1223">S'employer pour servir une vertu si rare,</l>
+	<l id="1224">Sans jamais la quitter dans ses plus grands besoins.</l>
+</lg>
+</poem>
+	<l id="1225">Trompeuse illusion ! Décevable artifice !</l>
+	<l id="1226">Qui cachaient de César la haine et la malice,</l>
+	<l id="1227">Votre masque est levé, l'on voit à découvert</l>
+	<l id="1228">Le prétexte insolent de celui qui nous perd :</l>
+	<l id="1229">Dois-je accuser les Dieux ou bien mon imprudence,</l>
+	<l id="1230">Caton, de qui prends-tu maintenant confidence ?</l>
+	<l id="1231">T'étant trompé toi-même, arrête ta raison</l>
+	<l id="1232">À te rendre l'auteur de cette trahison,</l>
+	<l id="1233">Ah ! Ce n'est pas le Ciel qui me force à me plaindre,</l>
+	<l id="1234">L'honneur que je lui dois me dispose à le craindre ;</l>
+	<l id="1235">Mais voyant le désastre où le sort nous a mis,</l>
+	<l id="1236">Je le prends à partie avec nos ennemis.</l>
+	<l id="1237">Les Dieux aiment César, je n'en ai point de doute,</l>
+	<l id="1238">Quoi ! Pouvait-il sans deux poursuivre cette route ?</l>
+	<l id="1239">Il est hors de créance, et son sort absolu</l>
+	<l id="1240">N'a point de dignités que les Dieux n'aient voulu,</l>
+	<l id="1241">Depuis longtemps je sais que son courage aspire</l>
+	<l id="1242">À tenir dans ses mains les rênes de l'Empire,</l>
+	<l id="1243">Son orgueil n'a pas craint mille difficultés</l>
+	<l id="1244">Qui traversaient le cours de ses prospérités ;</l>
+	<l id="1245">Méprisant toute chose, on voit que son génie</l>
+	<l id="1246">S'est frayé le chemin jusqu'à la tyrannie ;</l>
+	<l id="1247">Enfin le faute est faite, et notre illustre effort</l>
+	<l id="1248">N'a pu jamais borner le pouvoir de son sort,</l>
+	<l id="1249">Rome a sujet de croire après un tel outrage</l>
+	<l id="1250">Que sa perte est prochaine, et qu'il faut que l'orage</l>
+	<l id="1251">Éclate dessus elle, et que sa liberté</l>
+	<l id="1252">Arrive au dernier point de sa fatalité.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Portius, Caton.
+</stage>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1253">Je vous surprends ici dans votre inquiétude ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1254">La fortune nous donne une attaque bien rude.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1255">Ce n'est pas d'aujourd'hui qu'on connaît son erreur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1256">Hélas ! Caton succombe aux traits de sa fureur.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1257">Enfin votre constance est hors de son assiette,</l>
+	<l id="1258">Quoi qu'il soit très certain que l'armée est défaite,</l>
+	<l id="1259">Que César est vainqueur, et Scipion vaincu,</l>
+	<l id="1260">Voyez comme Caton a jusqu'ici vécu :</l>
+	<l id="1261">Et sans aller chercher d'exemple qu'en vous-même,</l>
+	<l id="1262">Montrez votre courage en ce désastre extrême,</l>
+	<l id="1263">Relevez cet esprit un peu trop abattu,</l>
+	<l id="1264">Et ne trahissez pas Caton ni sa vertu.</l>
+	<l id="1265">La fortune autrefois nous fut aussi fatale,</l>
+	<l id="1266">Rome éprouva sa haine aux combats de Pharsale,</l>
+	<l id="1267">Là du sang des Romains se fit presqu'une mer,</l>
+	<l id="1268">Vous mangeâtes dedans, mais sans vous abîmer :</l>
+	<l id="1269">La Libye aujourd'hui nous est pas plus contraire,</l>
+	<l id="1270">Un semblable accident, et le même adversaire</l>
+	<l id="1271">Doivent trouver Caton avec autant de coeur</l>
+	<l id="1272">Qu'il en fit voir alors contre ce fier vainqueur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1273">Quelque espérance alors relevait mon courage,</l>
+	<l id="1274">Me rendant immobile au plus fort de l'orage :</l>
+	<l id="1275">Dans des torrents de sang roulant de toutes parts,</l>
+	<l id="1276">Dessus des monts de corps tombés dessous les dards,</l>
+	<l id="1277">Parmi la même horreur, dans Pharsale étalée,</l>
+	<l id="1278">Ma vertu s'y trouva sans s'y voir accablée :</l>
+	<l id="1279">Mais ici le destin m'oblige au désespoir,</l>
+	<l id="1280">La valeur m'abandonne autant que le pouvoir,</l>
+	<l id="1281">Et toute mon attente étant presque étouffée,</l>
+	<l id="1282">Voulez-vous que je serve à César de trophée ;</l>
+	<l id="1283">J'aurai toujours le bruit de la postérité</l>
+	<l id="1284">D'être parti du monde avec ma liberté,</l>
+	<l id="1285">Et puisque la fortune à tous moments nous brave,</l>
+	<l id="1286">C'est vivre malheureux que de vivre en esclave,</l>
+	<l id="1287">Et l'unique moyen de vaincre un mauvais sort</l>
+	<l id="1288">Consiste à se résoudre à chercher la mort.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1289">C'est de mettre en danger de perdre son estime</l>
+	<l id="1290">Que suivre un désespoir sans cause légitime :</l>
+	<l id="1291">Je veux que le malheur vienne fondre sur nous,</l>
+	<l id="1292">Que le Ciel pour nous perdre éclate en son courroux,</l>
+	<l id="1293">Qu'un vainqueur insolent par sa victoire aspire</l>
+	<l id="1294">D'élever sa fortune au dessus de l'Empire :</l>
+	<l id="1295">Devez-vous pour cela ne vous défendre pas,</l>
+	<l id="1296">Et de peur de lui nuire aller dans le trépas,</l>
+	<l id="1297">Votre âme généreuse en ce point d'importance</l>
+	<l id="1298">Doit faire plus d'efforts et plus de résistance ;</l>
+	<l id="1299">Et sans craindre César, non plus que le malheur,</l>
+	<l id="1300">Produire un dernier coup digne de la valeur.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1301">Je ferai reconnaître à la race future</l>
+	<l id="1302">Les moyens de braver une triste aventure :</l>
+	<l id="1303">Tel me pense déjà tributaire à César,</l>
+	<l id="1304">Qu'il connaîtra Caton triompher du hasard ;</l>
+	<l id="1305">Je ne suis pas encor dans cette dernière heure,</l>
+	<l id="1306">Où j'ai déterminé qu'il faut que Caton meure,</l>
+	<l id="1307">Il faut que mon exemple, autant que de mourir,</l>
+	<l id="1308">Serve à ceux qu'on ne peut maintenant secourir.</l>
+	<l id="1309">Vous que le destin rend témoin d'une fortune,</l>
+	<l id="1310">Aveugle en notre endroit, à l'empire importune,</l>
+	<l id="1311">Voyez de quel esprit constant et glorieux</l>
+	<l id="1312">Je méprise la terre et je m'élève aux Cieux.</l>
+	<l id="1313">Une gloire immortelle anime votre père</l>
+	<l id="1314">D'aller trouver un bien que tout le monde espère,</l>
+	<l id="1315">Survivre en nos malheurs c'est mépriser ce bien</l>
+	<l id="1316">Qui fait le possédant qu'on espère plus rien :</l>
+	<l id="1317">Je commence à parler d'une philosophie</l>
+	<l id="1318">Dont le plus noble effet dans le Ciel se défie,</l>
+	<l id="1319">Et cette apothéose ou tendent mes désirs</l>
+	<l id="1320">Rassasiera mon coeur de gloire et de plaisirs ;</l>
+	<l id="1321">Un jour... Mais Lucius, de nouveau vient m'instruire</l>
+	<l id="1322">Du devoir que je dois au tyran de l'Empire,</l>
+	<l id="1323">Remarquez son discours, et moi d'une autre part</l>
+	<l id="1324">Je vais donner encore mes soins sur le rempart.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lucieus, Portius.
+</stage>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1325">Mon retour ne doit pas vous mettre tant en peine,</l>
+	<l id="1326">Ni vous donner sujet de colère et de haine,</l>
+	<l id="1327">Votre seul intérêt a disposé mon coeur</l>
+	<l id="1328">À modérer beaucoup les transports du vainqueur,</l>
+	<l id="1329">Et quoi que la victoire animait sa vengeance</l>
+	<l id="1330">J'ai fait que la rigueur défère à la clémence,</l>
+	<l id="1331">Et d'un si noble effet on prend la liberté</l>
+	<l id="1332">De former des soupçons de ma fidélité.</l>
+	<l id="1333">Les Dieux m'en sont témoins si j'ai la moindre envie</l>
+	<l id="1334">De voir dessous César notre Rome asservie,</l>
+	<l id="1335">Si son sang et le mien ont de mêmes aïeux,</l>
+	<l id="1336">Le sien de Lucius n'est pas ambitieux,</l>
+	<l id="1337">Il faut sans passion considérer les choses,</l>
+	<l id="1338">Et jugeant des effets n'ignorer pas les causes,</l>
+	<l id="1339">Je dis fort peut du reste, il suffit qu'on sait bien</l>
+	<l id="1340">Si César nous apporte ou du mal ou du bien :</l>
+	<l id="1341">Mais j'ose vous jurer que je ne peux sans larmes</l>
+	<l id="1342">Voir l'injuste progrès de ses cruelles armes,</l>
+	<l id="1343">Devant son pavillon, entouré d'étendards,</l>
+	<l id="1344">Il voyait du combat le reste des fuyards,</l>
+	<l id="1345">Et ce coeur généreux criait parmi la plaine,</l>
+	<l id="1346">Sauvez soldats, sauvez la jeunesse Romaine.</l>
+	<l id="1347">Tout ce que je pus faire embrassant ses genoux,</l>
+	<l id="1348">Fut d'éteindre le feu de son premier courroux,</l>
+	<l id="1349">Lucius (me dit-il) le regret qui me touche,</l>
+	<l id="1350">N'est pas un mal qu'on peut exprimer par la bouche,</l>
+	<l id="1351">Mon âme est affligée en tout autant de lieux</l>
+	<l id="1352">Que je vois de Romains mourir devant mes yeux,</l>
+	<l id="1353">Ces montagnes de corps qui demandent la flamme,</l>
+	<l id="1354">Par des coups de pitié viennent blesser mon âme,</l>
+	<l id="1355">Je devrais ce me semble avoir bien moins vécu</l>
+	<l id="1356">S'il faut pas tant de sang que César ait vaincu.</l>
+	<l id="1357">Fatale destinée à mes voeux si contraire,</l>
+	<l id="1358">Faut-il qu'à mes amis je paraisse adversaire,</l>
+	<l id="1359">Destins injurieux, vous avez les desseins</l>
+	<l id="1360">D'amoindrir la grandeur de l'État des Romains :</l>
+	<l id="1361">Tous les Rois de la terre en cent et cent batailles</l>
+	<l id="1362">N'en pouvaient avancer les tristes funérailles,</l>
+	<l id="1363">Il fallait qu'elle-même en ces fatalités,</l>
+	<l id="1364">Opposât ses enfants à ses prospérités</l>
+	<l id="1365">Elle l'a fait, je vois la jeunesse Romaine,</l>
+	<l id="1366">S'abîmer dans son sang qui couvre cette plaine,</l>
+	<l id="1367">Ici nos légions, ici nos étendards,</l>
+	<l id="1368">Romains contre Romains tombants de toutes parts,</l>
+	<l id="1369">Me font mourir en eux d'une mort languissante</l>
+	<l id="1370">Sans pouvoir étancher leur plaie encor sanglante,</l>
+	<l id="1371">Et ne pouvant mourir par ce barbare effort</l>
+	<l id="1372">Je cherche les moyens pour me donner la mort.</l>
+	<l id="1373">Verra-t-on point finir ces actions tragiques</l>
+	<l id="1374">Qui font toujours durer nos malheurs domestiques !</l>
+	<l id="1375">Étrange événement qui choque mon destin,</l>
+	<l id="1376">Et cause la discorde à l'Empire Latin,</l>
+	<l id="1377">Lucius, si Caton reconnaissait mon zèle,</l>
+	<l id="1378">Nous viderions bientôt cette vieille querelle,</l>
+	<l id="1379">Quoi que victorieux sans le rendre soumis,</l>
+	<l id="1380">Il sera, s'il lui plaît, de mes meilleurs amis.</l>
+	<l id="1381">Je m'offre à ses souhaits, et d'un coeur plein de joie</l>
+	<l id="1382">Je pars, je cours, je viens, afin que Caton voit</l>
+	<l id="1383">Qu'on peut bientôt borner le cours à ses projets</l>
+	<l id="1384">Qui ferment le passage au retour de la paix.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1385">L'on parle assurément lorsqu'on a l'avantage,</l>
+	<l id="1386">Un succès plein de gloire anime davantage,</l>
+	<l id="1387">Et personne ne peut vous choquer en un point</l>
+	<l id="1388">Que César nous déguise et qu'on ne connaît point</l>
+	<l id="1389">Toutefois l'artifice où son esprit s'amuse</l>
+	<l id="1390">N'est pas assez subtil à déguiser la ruse,</l>
+	<l id="1391">Il faut n'avoir point d'yeux, ni même de raison,</l>
+	<l id="1392">Pour ne découvrir pas quelle est sa trahison,</l>
+	<l id="1393">Son âme insatiable, et de sang et de larmes</l>
+	<l id="1394">Nous veut faire obéir par l'effort de ses armes,</l>
+	<l id="1395">Avançant chaque jour ses perfides desseins,</l>
+	<l id="1396">N'est ce pas s'acquérir l'Empire des Romains !</l>
+	<l id="1397">À quoi bon consulter si souvent les oracles,</l>
+	<l id="1398">De publier partout sa gloire et ses miracles,</l>
+	<l id="1399">S'il n'était résolu dans ses projets divers</l>
+	<l id="1400">De se rendre bientôt maître de l'Univers ?</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1401">On ne peut vous guérir des maux de sa pensée,</l>
+	<l id="1402">La vôtre en cette cause est trop intéressée,</l>
+	<l id="1403">Et sans blâmer César dans ses intentions,</l>
+	<l id="1404">On devait l'approuver en ses soumissions,</l>
+	<l id="1405">Je suis venu moi-même au danger de ma vie</l>
+	<l id="1406">Avertir le Sénat de sa plus belle envie,</l>
+	<l id="1407">Chacun me regardait d'un regard de piété</l>
+	<l id="1408">Formant mille soupçons de ma fidélité ;</l>
+	<l id="1409">J'ai voulu tout souffrir sans faire aucun murmure,</l>
+	<l id="1410">Rome méritait bien de souffrir une injure,</l>
+	<l id="1411">Ma constance étonna les esprit plus mutins</l>
+	<l id="1412">Qui ne peuvent souffrir la paix chez les Latins,</l>
+	<l id="1413">Vous le savez vous-même, et dans cette occurrence</l>
+	<l id="1414">Je fais connaître assez beaucoup d'obéissance.</l>
+	<l id="1415">Hier je sortis d'ici comme chassé de vous,</l>
+	<l id="1416">J'y reviens aujourd'hui sans haine et sans courroux,</l>
+	<l id="1417">Mais si vous préférez la guerre à la concorde,</l>
+	<l id="1418">La vengeance agira, mais sans miséricorde,</l>
+	<l id="1419">C'est manquer de raison ; qu'irriter un vainqueur</l>
+	<l id="1420">Qui peut faire d'Utique un spectacle d'horreur.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1421">Caton n'est pas trompé, l'effort de son génie</l>
+	<l id="1422">Présageait que César voulait la tyrannie :</l>
+	<l id="1423">Ce discours affligeant fait reconnaître assez</l>
+	<l id="1424">Que sa haine en ira jusqu'au dernier excès,</l>
+	<l id="1425">Ayant vu tant d'éclairs, il fallait se résoudre,</l>
+	<l id="1426">Que l'orage devait finir d'un coup de foudre,</l>
+	<l id="1427">Notre attente est certaine, et les plus clairvoyants</l>
+	<l id="1428">Nous ont assez prédit le règne des tyrans.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Brutus, Lucius, Portius.
+</stage>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1429">Rome à qui nous devons l'honneur de la naissance</l>
+	<l id="1430">Tombe enfin sous l'effort d'une injuste puissance</l>
+	<l id="1431">Après s'être agrandie en dépit des hasards</l>
+	<l id="1432">Il fallait qu'elle obéisse au premier des Césars,</l>
+	<l id="1433">Et de tous nos malheurs le plus grand et le pire</l>
+	<l id="1434">C'est que la tyrannie offense notre Empire ;</l>
+	<l id="1435">Les Dieux pour nous punir enfin l'ont résolu,</l>
+	<l id="1436">En vain nous résistons contre un sort absolu,</l>
+	<l id="1437">Nous voyons le désastre où ce tyran nous range.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1438">Vous avez de César une pensée étrange,</l>
+	<l id="1439">Et jugez assez mal de ses intentions.</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1440" syll="6" part="i">Dis plutôt qu'on connaît...</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1440" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1440" syll="4" part="f">Ses ambitions</l>
+	<l id="1441">Je ne sais quel motif s'accorde à ton génie</l>
+	<l id="1442">De seconder César dedans sa tyrannie :</l>
+	<l id="1443">Il est vrai que ton sang ne peut se démentir,</l>
+	<l id="1444">Si ton oncle entreprend, on t'y voit consentir ;</l>
+	<l id="1445">Mais voyant redoubler nos misères publiques</l>
+	<l id="1446">Devais-tu pas haïr l'auteur de ces pratiques ?</l>
+	<l id="1447">Ennemis conjurés de nos prospérités,</l>
+	<l id="1448">Faut-il vous signaler par tant de cruautés ?</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1449">Ah ! Vous nous offensez, mais d'une étrange sorte,</l>
+	<l id="1450">L'erreur qui vous égare et même vous transporte,</l>
+	<l id="1451">Déçoit votre pensé autant que la raison,</l>
+	<l id="1452">D'accuser ce vainqueur d'aimer la trahison :</l>
+	<l id="1453">Son âme généreuse a fait assez paraître</l>
+	<l id="1454">Qu'elle avait de l'horreur que l'Empire eut un maître,</l>
+	<l id="1455">Si Pompée eut voulu modérer ses desseins,</l>
+	<l id="1456">Pharsale n'est point vu mourir tant de Romains,</l>
+	<l id="1457">Et les flancs arrosés d'une orage sanglante</l>
+	<l id="1458">N'eussent vu Rome alors vaincus et triomphante ;</l>
+	<l id="1459">Mais son coeur obstiné trahissant son devoir,</l>
+	<l id="1460">Pensant de son beau-père affaiblir le pouvoir,</l>
+	<l id="1461">Trouva que la Fortune était bien moins prospère</l>
+	<l id="1462">À ses lâches projets, qu'à ceux de son beau-père ;</l>
+	<l id="1463">Mais quoi ? Rome à présent n'ayant plus de rivaux,</l>
+	<l id="1464">Doit-on pas travailler pour terminer ses maux ?</l>
+</sp>
+<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+	<l id="1465">Il fait bon écouter tant de discours frivoles,</l>
+	<l id="1466">Même donner créance à tes vaines paroles,</l>
+	<l id="1467">Puisque par les effets d'un triste événement</l>
+	<l id="1468">Nous sommes obligés d'en juger autrement :</l>
+	<l id="1469">Ah ! Qu'en ce procédé ton esprit dissimule,</l>
+	<l id="1470">Donnant pour véritable un discours ridicule,</l>
+	<l id="1471">Mais Caton et Brutus ont un autre regard</l>
+	<l id="1472">Pour découvrir bien mieux les projets de César.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1473">Allons le consulter, je crois qu'il pourra dire</l>
+	<l id="1474">Jusqu'à quelle grandeur sa destinée aspire,</l>
+	<l id="1475">Cet esprit pénétrant connaît son attentat,</l>
+	<l id="1476">Et l'espoir qui le porte à se voir potentat ;</l>
+	<l id="1477">L'ignorance affectée est blâmable en un homme</l>
+	<l id="1478">Qui s'emploie à dessein de vouloir trahir Rome.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1479">Si son opinion s'accorde à votre erreur,</l>
+	<l id="1480">Nous ne sommes pas prêt de sortir de malheur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="1481">Je l'ai toujours prédit, hélas ! Ma prévoyance</l>
+	<l id="1482">Prenait ses sentiments d'une haute prudence :</l>
+	<l id="1483">Les concours glorieux de ses nobles exploits</l>
+	<l id="1484">Donnait bien de la force à ce que j'en pensais.</l>
+	<l id="1485">Ah, pauvre infortunée ! Où sont tes avantages,</l>
+	<l id="1486">Ta gloire en ces écueils rencontre des naufrages,</l>
+	<l id="1487">Et tu connais assez en ces malheurs divers</l>
+	<l id="1488">Que tu ne seras plus Reine de l'Univers :</l>
+	<l id="1489">Oui, Rome en ce désastre est réduite à la chaîne,</l>
+	<l id="1490">Ce tyran lui ravit l'honneur de souveraine,</l>
+	<l id="1491">Ses grandeurs et sa pompe avec sa majesté</l>
+	<l id="1492">Sont dessous le pouvoir d'une autre autorité.</l>
+	<l id="1493">Les soupirs de mon âme avec mes justes larmes,</l>
+<note type="L">Accoiser : Rendre coi, calme, tranquille. [L]</note>
+	<l id="1494">N'ont pu forcer les Dieux d'accoiser ses alarmes,</l>
+<note type="L">Climatérique : Qui appartient à un des âges de la vie regardés comme critiques. [L]</note>
+	<l id="1495">Son an_climatérique a fait voir sa rigueur</l>
+	<l id="1496">En réduisant sa gloire au pouvoir d'un vainqueur ;</l>
+	<l id="1497">Et parmi ce désordre où je me vois réduite</l>
+	<l id="1498">La destin de César me presse et sollicite,</l>
+	<l id="1499">J'agrée avec plaisir  et sa gloire et ses voeux,</l>
+	<l id="1500">Sans savoir au certain;hélas ! Ce que je veux.</l>
+	<l id="1501">Oui, j'espère en celui qui m'afflige et me tue</l>
+	<l id="1502">Dans les ressentiments dont je suis combattue ;</l>
+	<l id="1503">La haine avec l'amour tyrannisent mon coeur,</l>
+	<l id="1504">Sans savoir qui des deux s'en rendra le vainqueur ;</l>
+	<l id="1505">Charmante illusion et douce intelligence,</l>
+	<l id="1506">Qui formez un obstacle à ma juste vengeance,</l>
+	<l id="1507">Je perds le souvenir de la mort d'un époux</l>
+	<l id="1508">Alors que je devrais avoir plus de courroux,</l>
+	<l id="1509">Cet agréable effet démentira sa cause,</l>
+	<l id="1510">César aura pouvoir de vaincre toute chose,</l>
+	<l id="1511">Et sans considérer ou son sort nous a mis,</l>
+	<l id="1512">Je l'estime aujourd'hui de mes meilleurs amis.</l>
+	<l id="1513">Mais l'offense en ce point la grandeur de mon âme</l>
+	<l id="1514">De vouloir consentir à cette lâche flamme,</l>
+	<l id="1515">Puis-je en ce procédé avoir de l'équité,</l>
+	<l id="1516">En ternissant ma gloire et ma fidélité.</l>
+	<l id="1517">Quoi ? Mépriser Pompée et trahis ma constance,</l>
+	<l id="1518">Cornélie, est-ce ainsi que tu fais résistance</l>
+	<l id="1519">Alors que tu devrais produire un noble effort</l>
+	<l id="1520">Pour punir un barbare en lui donnant le mort ?</l>
+	<l id="1521">Tu crois que ce tyran d'une indiscrète flamme</l>
+	<l id="1522">Doit terminer les maux qui tourmentent ton âme,</l>
+	<l id="1523">Femme inconsidérée à quoi t'amuses-tu ?</l>
+	<l id="1524">De grâce, écoute un peu ta mourante vertu,</l>
+	<l id="1525">Réveille ta sagesse, anime ton courage</l>
+	<l id="1526">Et pense si tu dois pardonner cet ouvrage.</l>
+	<l id="1527">Quoi ! César devenu le plus fier des tyrans,</l>
+	<l id="1528">Qui vient à sa fureur d'immoler mes enfants,</l>
+	<l id="1529">Lui qui rend tous les jours Rome très désolée,</l>
+	<l id="1530">Prendrait quelque intérêt de me voir consolée.</l>
+	<l id="1531">J'ai tort, je le confesse, en ces extrémités</l>
+	<l id="1532">Haïssons l'ennemi de nos prospérités,</l>
+	<l id="1533">Je découvre aujourd'hui son insolente ruse,</l>
+	<l id="1534">Ce traître me déçoit, la passion m'abuse,</l>
+	<l id="1535">Dans ces divers transports mon esprit prévenu</l>
+	<l id="1536">Doit régler l'avenir par ce qui est avenu.</l>
+	<l id="1537">Folle et débile erreur que mon âme déteste</l>
+	<l id="1538">Cent fois plus qu'on ne fait et la rage et la peste,</l>
+	<l id="1539">Pourquoi me décevoir puisque je connais bien</l>
+	<l id="1540">Que parmi ces malheurs je n'espère plus rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Julie, Cornélie. 
+</stage>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1541">Madame, le Sénat, avec toute sa suite</l>
+	<l id="1542" syll="1" part="i">Vient...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1542" syll="2" part="m">Pourquoi ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1542" syll="9" part="f">Vous donner sa dernière visite.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1543">Justes Dieux, son départ redouble mon ennui,</l>
+	<l id="1544">Il est donc résolu de partir cette nuit :</l>
+	<l id="1545">Ah ! Rome, où vas-tu voir tes pompes si célèbres,</l>
+	<l id="1546">S'il faut pour les sauver rechercher les ténèbres.</l>
+	<l id="1547">Grand Sénat dont le gloire étonnait l'Univers,</l>
+	<l id="1548">Je m'afflige en voyant un si triste revers,</l>
+	<l id="1549">Il faut bien que le Ciel implacable en sa haine</l>
+	<l id="1550">Soit devenu jaloux de la grandeur Romaine,</l>
+	<l id="1551">Puisque sa liberté, sa gloire et son état</l>
+	<l id="1552">Vont recevoir des lois d'nu cruel potentat.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Martia, Cornélie, Julie.
+</stage>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1553">Ah ! Chère Cornélie, on connaît à cette heure</l>
+	<l id="1554" syll="6" part="i">Que Rome est aux abois...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1554" syll="6" part="f">Et qu'il faut que je meure.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1555">Votre génie avait prévu fidèlement</l>
+	<l id="1556">Le déplorable effet de cet événement.</l>
+	<l id="1557" syll="6" part="i">Rome, hélas ! Rome enfin...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1557" syll="6" part="f">Donnons trêve aux alarmes,</l>
+	<l id="1558" syll="6" part="i">Et pour un autre temps...</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1558" syll="2" part="m">Ô Dieux !...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1558" syll="4" part="f">Gardons nos larmes,</l>
+	<l id="1559">Le Sénat nous attend, voulant quitter les lieux,</l>
+	<l id="1560">Allons pour recevoir l'honneur de son adieu.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Caton, Portius.
+</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1561">Dans ces divers malheurs d'une perte commune,</l>
+	<l id="1562">Je n'envisage point une mauvaise fortune,</l>
+	<l id="1563">Le public m'intéresse, et tous mes plus grands soins</l>
+	<l id="1564">M'ont donné tout entier où j'ai vu ses besoins :</l>
+	<l id="1565">Rome, tu le sais bien et l'univers doit croire</l>
+	<l id="1566">Que Caton n'a rien fait d'indigne de ta gloire ;</l>
+	<l id="1567">Partout où j'ai pu voir ton destin combattu,</l>
+	<l id="1568">J'ai pensé le défendre employant ma vertu,</l>
+	<l id="1569">Et mon coeur n'avait point plus grande inquiétude</l>
+	<l id="1570">Que la crainte de voir l'Empire en servitude,</l>
+	<l id="1571">Mais puisque les destins irrités contre nous</l>
+	<l id="1572">Nous font tout de nouveau ressentir leur courroux,</l>
+	<l id="1573">Que la perte dernière est encor plus fatale</l>
+	<l id="1574">Que celle qu'on reçut aux plaine de Pharsale,</l>
+	<l id="1575">Dois-je après ce désastre espérer que le sort</l>
+	<l id="1576">Peut empêcher ma perte et me conduire au port ?</l>
+	<l id="1577">C'est me tromper beaucoup que d'en avoir l'attente,</l>
+	<l id="1578">La Fortune envers moi se rend trop insolente,</l>
+	<l id="1579">Ainsi n'espérant rien, j'estime que mon coeur</l>
+	<l id="1580">Doit d'un si mauvais sort se rendre le vainqueur ?</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1581">Faut-il qu'un grand courage en un péril extrême</l>
+	<l id="1582">Vienne jusqu'à ce point de se trahir soi-même ?</l>
+	<l id="1583">Manquez-vous de constance ou plutôt de valeur</l>
+	<l id="1584">N'opposant point d'obstacle aux efforts du malheur ?</l>
+	<l id="1585">Faites réflexion sur ce qu'on doit à Rome ;</l>
+	<l id="1586">Et pensez que Caton est bien plus qu'un autre homme,</l>
+	<l id="1587">Si vous n'ignorez pas quelle est votre vertu,</l>
+	<l id="1588">Employez son pouvoir vous voyant combattu,</l>
+	<l id="1589">La gloire étant le prix d'une âme généreuse</l>
+	<l id="1590">Il faut que les périls la rendre glorieuse ;</l>
+	<l id="1591" syll="6" part="i">La magnanimité...</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1591" syll="6" part="f">J'arrête ce discours,</l>
+	<l id="1592">Puisqu'il n'est qu'affligeant sur la fin de mes jours,</l>
+	<l id="1593">Vous connaissez mal, et si l'on considère</l>
+	<l id="1594">L'infortune de Rome avec notre misère,</l>
+	<l id="1595">Dois-je avoir des sujets d'employer ma valeur</l>
+	<l id="1596">Étant privé d'espoir de vaincre le malheur ?</l>
+	<l id="1597">Si j'étais du commun, je prendrais soin de plaire</l>
+	<l id="1598">À celui que les Dieux rendent notre adversaire,</l>
+	<l id="1599">Mais n'ayant rien de bas, ma générosité</l>
+	<l id="1600">N'approuvera jamais le moindre lâcheté.</l>
+	<l id="1601">Il est vrai que je sens de puissantes alarmes ;</l>
+	<l id="1602">Et qu'un autre que moi céderait à vos larmes ;</l>
+	<l id="1603">Mais le sort de Caton le rend si généreux</l>
+	<l id="1604">Qu'il aurait peine à vivre et se voir malheureux :</l>
+	<l id="1605">Connaissez ma pensée autant que mon envie,</l>
+	<l id="1606">Je retourne en mon centre, et cherche une autre vie,</l>
+	<l id="1607">Ne voulant pas servir de risée au destin</l>
+	<l id="1608">Qui trahit notre gloire et le peuple Latin.</l>
+	<l id="1609">Toutefois vos désirs me donnent de la peine</l>
+	<l id="1610">Autant que l'intérêt de la gloire Romaine,</l>
+	<l id="1611">Et la douce amitié que Caton a pour vous</l>
+	<l id="1612">L'oblige à s'exempter de son juste courroux.</l>
+	<l id="1613">Pourquoi ne vivre pas si ma vie est si chère</l>
+	<l id="1614">À Portius qui criant le perte de son père ?</l>
+	<l id="1615">C'est se rendre insensible et tenir du tyran</l>
+	<l id="1616">Que de fermer l'oreille aux soupirs d'un enfant :</l>
+	<l id="1617">Mon fils ne craignez plus, votre pitié l'emporte,</l>
+	<l id="1618">Ma résolution demeure la moins forte,</l>
+	<l id="1619">Et de votre douleur me tenant combattu</l>
+	<l id="1620">Je veux trahir pour vous ma gloire et ma vertu.</l>
+	<l id="1621">Mais, hélas ! Qu'ai-je dit, et qui le pourra croire,</l>
+	<l id="1622">Que je veuille trahir ma constance et ma gloire,</l>
+	<l id="1623">Caton n'est plus Caton puisque sa lâcheté</l>
+	<l id="1624">Débauche en ce dessein sa générosité ;</l>
+	<l id="1625">Même alors qu'on connaît qu'une forme adverse</l>
+	<l id="1626">Jusqu'à l'extrémité tous les jours le traverse :</l>
+	<l id="1627">Non, non, n'espérez pas qu'un coeur comme le mien</l>
+	<l id="1628">Démente sa valeur lorsqu'il n'espère rien,</l>
+	<l id="1629">Au contraire en voyant que notre inquiétude</l>
+	<l id="1630">N'attend plus que la honte avec la servitude?</l>
+	<l id="1631">Il est plus noble à moi de courir au tombeau</l>
+	<l id="1632">Que de m'y voir porter par les mains d'un bourreau.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1633">Seigneur ! Au nom des Dieux ayez plus d'espérance,</l>
+	<l id="1634">Éprouvez de César une fois la clémence,</l>
+	<l id="1635">Si ce vainqueur s'irrite embrassant ses genoux,</l>
+	<l id="1636">Si votre humilité n'apaise son courroux,</l>
+	<l id="1637">Alors vous pourrez bien sans perdre votre estime</l>
+	<l id="1638">Vous donner à vous-même une mort légitime,</l>
+	<l id="1639">Et ce sang généreux que Rome tient si cher,</l>
+	<l id="1640">Coulant devant ses yeux lui saura reprocher</l>
+	<l id="1641">Que l'orgueil qui le porte à tenir du barbare</l>
+	<l id="1642">Devait moins offenser une vertu si rare.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1643">Portius, ce conseil étonne mes esprits,</l>
+	<l id="1644">Et j'en dois justement concevoir du mépris,</l>
+	<l id="1645">Ma vie étant exempte et de crime et d'offense,</l>
+	<l id="1646">Caton n'a pas besoin d'inventer sa défense :</l>
+	<l id="1647">César ne verra point ma générosité</l>
+	<l id="1648">Produire aucun effet de crainte et lâcheté ;</l>
+	<l id="1649">M'abaisser de la sorte aux pieds d'un adversaire</l>
+	<l id="1650">Répugne entièrement à ce que je dois faire,</l>
+	<l id="1651">Je suis toujours moi-même, et je ne peux souffrir</l>
+	<l id="1652">Un effet plus cruel cent fois que de mourir.</l>
+	<l id="1653">Jugez plus sainement d'une âme résolue</l>
+	<l id="1654">Qui ne peut endurer de puissance absolue,</l>
+	<l id="1655">Mourant j'ai le bonheur dans ma fatalité</l>
+	<l id="1656">De laisser encore Rome avec sa liberté :</l>
+	<l id="1657">Ainsi ma destinée en malheurs si féconde</l>
+	<l id="1658">Adoucit mon désastre en me tirant du monde,</l>
+	<l id="1659">Je mourrai satisfait dans l'honneur de mon sort</l>
+	<l id="1660">D'être au lieu de César la cause de ma mort.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1661">Il faut sur votre exemple apprendre de vous suivre,</l>
+	<l id="1662">Et finir nos malheurs en finissant de vivre,</l>
+	<l id="1663">Je serais trop blâmable en se sort malheureux</l>
+	<l id="1664">De manquer d'imiter un coeur si généreux,</l>
+	<l id="1665">Son modèle est ma règle, et sa même constance</l>
+	<l id="1666">Me porte à ce dessein sans nulle répugnance,</l>
+	<l id="1667">Et pour n'éprouver pas un plus mauvais hasard</l>
+	<l id="1668">Je dérobe ma tête aux rigueurs de César.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1669">Je ne peux supporter cette pensée étrange !</l>
+	<l id="1670">Contentez-vous de voir où la destin me range,</l>
+	<l id="1671">César n'estime pas que nul autre que moi</l>
+	<l id="1672">Puisse lui contredire et lui donner la loi :</l>
+	<l id="1673">Mais puisque la fortune à mes voeux si contraire</l>
+	<l id="1674">Seconde les desseins d'un superbe adversaire,</l>
+	<l id="1675">J'accorde à son erreur, me voyant sans pourvoir,</l>
+	<l id="1676">De suivre aveuglément un heureux désespoir.</l>
+	<l id="1677">Toutefois en mourant je vous laisse un exemple</l>
+	<l id="1678">Qui fera des Catons si quelqu'un la contemple,</l>
+	<l id="1679">Et quoi que je m'oblige aux rigueurs du trépas</l>
+	<l id="1680">Je revivrai dans ceux qui suivront tous mes pas ;</l>
+	<l id="1681">Mais changeons de discours puisque Petrole arrive,</l>
+	<l id="1682" syll="6" part="i">Et bien tous nos amis ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Petrole, Caton, Portius.
+</stage>
+<sp who="PETROLE"><speaker>PETROLE.</speaker>
+	<l id="1682" syll="6" part="f">Seigneur, quittant la rive,</l>
+	<l id="1683">La mer avec ses flots par un étrange effort</l>
+	<l id="1684">Semblait les rejeter de son sein dans le port :</l>
+<note type="L">Autan : En poésie, vent violent. {L]</note>
+	<l id="1685">Les autans mutinés secondant sa colère</l>
+	<l id="1686">Faisaient voir aux Romains leur cruauté sévère ;</l>
+	<l id="1687">Parmi tant de périls, le plus ferme éperdu</l>
+	<l id="1688">En perdant l'espérance estimait tout perdu ;</l>
+	<l id="1689">Mais le ciel tout à coup en dévoilant sa face</l>
+	<l id="1690">A rendu l'air serein avec la mer bonace ;</l>
+	<l id="1691">Et le calme arrêtant l'insolence des flots,</l>
+	<l id="1692">L'espoir est revenu flatter les matelots :</l>
+	<l id="1693">Le pilote avisé reconnaît son étoile</l>
+	<l id="1694">Cependant que le vent s'empourpre dans la voile,</l>
+<note type="L">Timon : Terme de marine. D'abord la barre du gouvernail, puis, par extension, le gouvernail lui-même. [L]</note>
+	<l id="1695">Et guidant le timon, d'un soin officieux,</l>
+	<l id="1696">La flotte a disparu tout à coup à mes yeux.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1697">Toujours nouveaux malheurs du Ciel et de la terre,</l>
+	<l id="1698">Les hommes et les Dieux nous font partout la guerre,</l>
+	<l id="1699">Et sans nulle espérance, ou de trêve ou de paix,</l>
+	<l id="1700">Leur courroux poursuivra notre sort pour jamais :</l>
+	<l id="1701">Mais puisqu'ils sont partis quelque destin prospère</l>
+	<l id="1702">Leur sera favorable ainsi que je l'espère :</l>
+	<l id="1703">Notre Statillius n'est-il point avec eux ?</l>
+</sp>
+<sp who="PETROLE"><speaker>PETROLE.</speaker>
+	<l id="1704">Combattu de la crainte il faisait mille voeux,</l>
+	<l id="1705">Pour obtenir du Ciel une prompte assistance</l>
+	<l id="1706">Désirant de César éviter la présence.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1707">Ô courage indompté ! Race de la valeur</l>
+	<l id="1708">Qui par de vains discours fait la guerre au malheur,</l>
+	<l id="1709">Mais craignant les effets d'une attaque subite</l>
+	<l id="1710">Trouve assez de secours dans une prompte fuite,</l>
+	<l id="1711">Indiscrète jeunesse, à qui t'amuses-tu</l>
+	<l id="1712">D'avoir si peu de soin de suivre la vertu ?</l>
+	<l id="1713">Quittons cette pensée où m'arrête cet homme,</l>
+	<l id="1714">Ne pensons plus à lui pour repenser à Rome ;</l>
+<stage type="listen">Lucius entend ces deux vers.</stage>
+	<l id="1715">Chère patrie, il faut faire encore un effort</l>
+	<l id="1716">Pour relever un peu ton misérable sort.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lucius, Caton, Portius, Petrole.
+</stage>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1717">Il ne tiendra qu'à vous de voir sa destinée,</l>
+	<l id="1718">Loin du mal qui la rend trop infortunée,</l>
+	<l id="1719">Modérez ce courage, usez de la raison,</l>
+	<l id="1720">S'obstiner maintenant n'est pas bien de saison,</l>
+	<l id="1721">Un peu d'humilité peut faire des miracles,</l>
+	<l id="1722">Et dissiper bientôt tous les plus grands obstacles :</l>
+	<l id="1723">Si César est vainqueur, son destin glorieux</l>
+	<l id="1724">Ne peut tant s'élever sans le secours des Dieux,</l>
+	<l id="1725">Au reste ses désirs sot autre chose qu'on ne pense,</l>
+	<l id="1726">Il ne veut que l'honneur pour toute récompense,</l>
+	<l id="1727">Loin de monter au trône et d'être souverain</l>
+	<l id="1728">Il voudrait affermir le sceptre en votre main ;</l>
+	<l id="1729">Mais comme on sait assez où sa belle âme aspire,</l>
+	<l id="1730">Ses intérêts à part, la gloire de l'Empire</l>
+	<l id="1731" syll="6" part="i">Anime sa valeur...</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1731" syll="6" part="f">Lucius, tes propos</l>
+	<l id="1732">Apportent du désordre et non pas du repos :</l>
+	<l id="1733">Pourquoi dissimuler avec tant d'artifice</l>
+	<l id="1734">D'un barbare insolent l'orgueil et l'injustice ;</l>
+	<l id="1735">Caton le considère en ses prétentions,</l>
+	<l id="1736">Et sait assez juger de ses ambitions,</l>
+	<l id="1737">Son âme à mon esprit se montre toute nue,</l>
+	<l id="1738">Dans ses plus grands secrets elle m'est trop connue,</l>
+	<l id="1739">Mais puisque le destin le seconde à ce point,</l>
+	<l id="1740">Qu'il règne absolument, je ne l'empêche point.</l>
+	<l id="1741">Cependant qu'il s'élève, il faut que je m'abaisse,</l>
+	<l id="1742">Et que Rome devienne esclave, de maîtresse.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1743">Caton, espérez mieux d'un héros comme lui.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1744">Toute sorte d'espoir m'abandonne aujourd'hui.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1745">Son âme généreuse aime trop la clémence.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1746">Dieux ! Pourquoi étant sans nulle offense.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1747">Sans crime on peut souvent éprouver la vertu,</l>
+	<l id="1748">Parmi tant de périls vous voyant combattu</l>
+	<l id="1749">D'une fortune adverse, on a raison de croire</l>
+	<l id="1750">Que chercher son salut n'est pas ternir sa gloire :</l>
+	<l id="1751">Mon destin a pouvoir sur le sort du vainqueur,</l>
+	<l id="1752">Je suis le confident des secrets de son coeur,</l>
+	<l id="1753">S'il regarde mes voeux, pensez que la tempête</l>
+	<l id="1754">N'éclatera jamais si près de votre tête ;</l>
+	<l id="1755">Ainsi soyez plus ferme et n'appréhendez rien</l>
+	<l id="1756">Si Lucius vous peut procurer tant de bien.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1757">Tu me prends pour un autre estimant qu'un outrage</l>
+	<l id="1758">Ne peut intéresser un généreux courage :</l>
+	<l id="1759">Mais Caton n'est pas tel qu'on l'estime aujourd'hui,</l>
+	<l id="1760">Malgré tous les malheurs qui tombent dessus lui,</l>
+	<l id="1761">Toujours semblable à soi, sa constance ordinaire</l>
+	<l id="1762">Ne manquera jamais à ce qu'elle doit faire ;</l>
+	<l id="1763">Ainsi c'est temps perdu de penser que son coeur</l>
+	<l id="1764">Défère quelque chose aux désirs de vainqueur.</l>
+	<l id="1765">Nous le verrons pourtant, mais sans qu'aucune crainte</l>
+	<l id="1766">Puisse dans mon esprit donner la moindre atteinte,</l>
+	<l id="1767">Qu'il vienne assurément couronner ses desseins,</l>
+	<l id="1768">Et mettre dans les fers le reste des Romains :</l>
+	<l id="1769">Autant que la Fortune élève son audace,</l>
+	<l id="1770">Autant qu'un mauvais sort redouble ma disgrâce,</l>
+	<l id="1771">Caton demeure ferme et même généreux</l>
+	<l id="1772">Pour tirer son bonheur d'une destin malheureux.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1773">Vous n'appréhendez pas le péril trop étrange</l>
+	<l id="1774">Où l'obstination assurément vous range,</l>
+	<l id="1775">Résolu de vous perdre, au moins ayez pitié</l>
+	<l id="1776">De ceux qui vous sont joints d'un lien d'amitié.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1777">Parmi ce grand désastre où le malheur m'engage,</l>
+	<l id="1778">Il suffit que Caton rencontre son naufrage,</l>
+	<l id="1779">Et pendant qu'il subit les rigueurs de son sort,</l>
+	<l id="1780">De grâce à mes amis découvre quelque port :</l>
+	<l id="1781">Des enfants, une femme, et même Cornélie</l>
+	<l id="1782">Joignent à mes douleurs de la mélancolie.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1783">Pourquoi penser à nous avecque tant de soin ?</l>
+	<l id="1784">Pour vous trahir vous-même en un si grand besoin,</l>
+	<l id="1785">Seigneur, au nom des Dieux soyez plus raisonnable,</l>
+	<l id="1786">Et ne me rendez pas tout à fait misérable,</l>
+	<l id="1787">Ou souffrez par raison que marchant sur vos pas</l>
+	<l id="1788">L'honneur m'oblige aussi de vous suivre au trépas.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1789">Regardez qui je suis et quelle est ma conduite</l>
+	<l id="1790">N'ayant rien à sauver que mon peu de mérite,</l>
+	<l id="1791">Si je peux commander, qui me doit obéir ?</l>
+	<l id="1792">Quoi ! Dois-je me résoudre à suivre un tel désir ?</l>
+	<l id="1793">Portius me contraindre à cette procédure,</l>
+	<l id="1794">Contentez-vous de voir la peine que j'endure.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1795">Hélas ! Dois-je obéir jusqu'à l'extrémité</l>
+	<l id="1796">D'approuver les effets de l'inhumanité !</l>
+	<l id="1797">Serais-je autant barbare en ce fait si tragique,</l>
+	<l id="1798">Que les tigres d'Asie, et les lions d'Afrique ?</l>
+	<l id="1799">Quoi ? Ne répugnera pas votre désespoir</l>
+	<l id="1800">C'est contenter mon père et suivre son devoir.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1801">Que votre résistance est fâcheuse à mon âme,</l>
+	<l id="1802">Et que j'ai de raison de blâmer cette flamme :</l>
+	<l id="1803">Pouvez-vous méconnaître en quoi gît le bonheur,</l>
+	<l id="1804">Et ce que je dois faire à conserver l'honneur ;</l>
+	<l id="1805">Songez plus d'une fois que la gloire me porte</l>
+	<l id="1806">Malgré vos sentiments d'agir de cette sorte,</l>
+	<l id="1807">Vous connaîtrez bientôt qu'en ce point ma valeur</l>
+	<l id="1808">Devait agir ainsi pour borner mon malheur.</l>
+	<l id="1809">Lucius, mes amis ont besoin de ta grâce</l>
+	<l id="1810">Pour trouver dans l'orage un port et la bonace,</l>
+	<l id="1811">Si je peux quelque chose envers ton amitié</l>
+	<l id="1812">Regarde ces objets d'un regard de pitié,</l>
+	<l id="1813">Je dois les conserver autant qu'il m'est possible,</l>
+	<l id="1814">Apprends que leur malheur ne m'est que trop sensible,</l>
+	<l id="1815">N'ayant rien de si cher qu'une femme et mon fils,</l>
+	<l id="1816">Empêchons s'il se peut de les voir où je suis ;</l>
+	<l id="1817">Ta douceur a pouvoir de soulager ma peine,</l>
+	<l id="1818">Fait voir encor un coup que ton âme est Romaine,</l>
+	<l id="1819">Défère quelque chose à mes prétentions.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1820">Je veux vous témoigner beaucoup d'affections,</l>
+	<l id="1821">Et j'aurais grand désir, touchant votre prière,</l>
+	<l id="1822">Que la grâce envers vous fut une grâce entière.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1823">Je n'y prends point de part ayant assez de coeur</l>
+	<l id="1824">Se l'obtenir pour moi, parlant à ce vainqueur,</l>
+	<l id="1825">S'il n'a la dureté d'une bête farouche,</l>
+	<l id="1826">Lucius, il saura mes désir par ma bouche ;</l>
+	<l id="1827">Mais surtout souviens-toi que ton coeur m'a promis</l>
+	<l id="1828">Un soin particulier pour sauver mes amis.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1829" syll="6" part="i">Je vous le jure encor.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1829" syll="6" part="f">Je vois que la Fortune</l>
+	<l id="1830">Commence à se montrer un peu moins importune,</l>
+	<l id="1831">Et je dois prolonger la suite de mes jours</l>
+	<l id="1832">Puisqu'en tant de malheurs je trouve encore secours ;</l>
+	<l id="1833">Je vais me préparer à recevoir cet homme</l>
+	<l id="1834">Que les Dieux ont choisi pour triompher de Rome.</l>
+</sp>
+<sp who="LUCIUS"><speaker>LUCIUS.</speaker>
+	<l id="1835">Et moi je veux agir selon tout mon espoir</l>
+	<l id="1836">Pour donner de la paix un favorable espoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Portius, Petrole.
+</stage>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1837">Rigoureuse contrainte, étrange inquiétude,</l>
+	<l id="1838">Si nous sommes réduits dedans la servitude :</l>
+	<l id="1839">Ah Rome incomparable ! Empire florissant !</l>
+	<l id="1840">Qu'un barbare aujourd'hui rend du tout impuissant !</l>
+	<l id="1841">Je déplore ta perte avec un flux de larmes,</l>
+	<l id="1842">Et ton trône abattu, mais par tes propres armes.</l>
+	<l id="1843">État infortuné, malheureux citoyens,</l>
+	<l id="1844">Pour fuir ces malheurs vous manquez de moyens,</l>
+	<l id="1845">Dieux ! Rome n'est plus Rome, et sa gloire ternie</l>
+	<l id="1846">Courbera sa grandeur dessous la tyrannie.</l>
+	<l id="1847">Que Caton a sujet d'être si généreux,</l>
+	<l id="1848">Pour s'affranchir du sort qui nous rend malheureux,</l>
+	<l id="1849">Aussi bien notre espoir n'a point de certitude.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Caton, Pétrole, Portius.
+</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1850">Quoi ! Caton n'a-t-il pas assez d'inquiétude ?</l>
+	<l id="1851">Sans l'obliger encor par un nouveau malheur</l>
+	<l id="1852">D'abandonner son âme aux traits de la douleur :</l>
+	<l id="1853">Ah ! Quelle cruauté de lui ravir les armes</l>
+	<l id="1854">Prêt d'être environné d'un monde de gendarmes ;</l>
+	<l id="1855">Quoi ! Le veut-on encore sans défense et sans fer</l>
+	<l id="1856">La livrer à César qui pense en triompher ?</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1857" syll="6" part="i">De grâce écoutez-moi.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1857" syll="6" part="f">Je n'écoute personne,</l>
+	<l id="1858">Mais pensez seulement au sujet qui m'étonne,</l>
+	<l id="1859">Revoyez, mais bientôt mon épée ou ma main</l>
+	<l id="1860">Terminera mes jours sans attendre à demain,</l>
+	<l id="1861" syll="6" part="i">Et ne m'irritez pas.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS</speaker><stage type="toxard">, parlant à Petrole.
+	</stage>
+	<l id="1861" syll="6" part="f">Ô Dieux l'étrange chose !</l>
+<stage type="exit">Caton part.</stage>
+	<l id="1862">De son dernier malheur il veut être la cause :</l>
+	<l id="1863">Va lui porter ce fer dont la fatalité</l>
+	<l id="1864">Exercera sur lui trop d'inhumanité.</l>
+<stage type="exit">Petrole part.</stage>
+	<l id="1865">Dois-je perdre aujourd'hui la cause de moi-même,</l>
+	<l id="1866">Je me trouve étonné dans ce désordre extrême,</l>
+	<l id="1867">Cruelle destinée et malheureuse nuit,</l>
+	<l id="1868">Devez-vous redoubler l'excès de notre ennui :</l>
+	<l id="1869">Mais Dieux ! Quel bruit confus vient frapper mon oreille,</l>
+<stage type="noise">Caton fait du bruit dans sa chambre.</stage>
+	<l id="1870">Sus, accourez à moi, que chacun se réveille.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Caton, Portius.
+</stage>
+<stage type="decor">Il faut tirer le rideau et faire paraître Caton sur son lit s'étant blessé.</stage>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1871" syll="6" part="i">Voici votre victime...</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1871" syll="6" part="f">Ô destins trop cruels !</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1872">Qui s'offre pour l'Épire à nos Dieux immortels !</l>
+	<l id="1873">Ne tachez point sa gloire et ses vertus célèbres</l>
+	<l id="1874">Par de lâches soupirs et des plaintes funèbres.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1875">Ô père infortuné ! Quelle étrange rigueur !</l>
+	<l id="1876">D'employer votre épée à vous percer le coeur !</l>
+	<l id="1877">Quoi mourir de la sorte ? Ô funeste aventure !</l>
+	<l id="1878" syll="6" part="i">Qui fait trembler d'horreur...</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1878" syll="3" part="m">Écoutez.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1878" syll="3" part="f">La nature.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Cornélie, Martia, Julie, Philante, Caton, Portius.
+</stage>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1879">Hélas ! Caton soi-même a trahi sa vertu,</l>
+	<l id="1880">Il succombe aux efforts dont il est combattu,</l>
+	<l id="1881" syll="6" part="i">Quelle étrange infortune !</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1881" syll="6" part="f">Ô funeste désastre !</l>
+	<l id="1882">Que le Ciel nous regarde avec un mauvais astre.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1883">Donnez-moi du silence et non pas tant de pleurs,</l>
+	<l id="1884">Puisqu'ils ne peuvent point soulager nos malheurs,</l>
+	<l id="1885">Dans cette extrémité de mon heure dernière.</l>
+	<l id="1886">Laissez moi sans murmure achever ma carrière ;</l>
+	<l id="1887">Faites réflexion dessus tant d'accidents,</l>
+	<l id="1888">Des malheurs au dehors, des soupçons au dedans,</l>
+	<l id="1889">Un Empire envahi, cette ville ébranlée,</l>
+	<l id="1890">Rendaient de ma destin l'espérance accablée.</l>
+	<l id="1891">Devais-je, ah dites-le moi ! Contraindre encor mon coeur</l>
+	<l id="1892">D'abaisser sa constance au pied de ce vainqueur ?</l>
+	<l id="1893">Si votre jugement en sait discerner les choses,</l>
+	<l id="1894">Approuvez ces effets reconnaissant les causes,</l>
+	<l id="1895">Et dites que Caton s'est rendu généreux,</l>
+	<l id="1896">Pour arrêter le cours d'un destin malheureux :</l>
+	<l id="1897">Une âme magnanime est peu considérable</l>
+	<l id="1898">De souffrir la rigueur d'un sort si misérable ;</l>
+	<l id="1899" syll="6" part="i">Ainsi consolez-vous.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1899" syll="6" part="f">Qui vous peut consoler</l>
+	<l id="1900">Parmi tant de malheur qui vont nous accabler ?</l>
+	<l id="1901">Je perds le jugement et ma raison s'égare</l>
+	<l id="1902">Osant vous appeler et cruel et barbare,</l>
+	<l id="1903">D'avoir sans nulle crainte abrégé les beaux jours</l>
+	<l id="1904">De l'objet le plus saint de mes chastes amours.</l>
+	<l id="1905">Ah ! Pouviez-vous sans moi suivre une telle envie ?</l>
+	<l id="1906">Et ravir de mes yeux les charmes de ma vie :</l>
+	<l id="1907">J'apprends avec regret que trop d'inimitié</l>
+	<l id="1908">Produit ces lâchetés contre votre moitié,</l>
+	<l id="1909">Regardez qui je suis et réveillez votre âme</l>
+	<l id="1910">À ce doux souvenir et d'amante et de femme,</l>
+	<l id="1911">Ne vous offensez pas de me voir en courroux,</l>
+	<l id="1912">Modérant ma colère, écoutez cher époux,</l>
+	<l id="1913">Martia vous conjure avec cette tendresse</l>
+	<l id="1914">Qui chassait d'entre nous la haine et la tristesse,</l>
+	<l id="1915">Déferez quelque chose à son ressentiment,</l>
+	<l id="1916">Et voyez par pitié l'excès de son tourment.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1917">Vous nous devez ce bien pour soulager nos peines,</l>
+	<l id="1918">Retenez votre vie et le sang de vos veines ;</l>
+	<l id="1919">Quoi ? Caton, voulez-vous par ce malheur nouveau</l>
+	<l id="1920">Porter notre espérance avec vous au tombeau ?</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1921">Que l'amour est puissant : Martia, qu'on effraie</l>
+	<l id="1922">De fermer mon sépulcre en refermant ma plaie,</l>
+	<l id="1923">Ah ! Je vous jure encore une ferme amitié,</l>
+	<l id="1924">Mon coeur se rend sensible et cède à la pitié,</l>
+	<l id="1925">Martia croiriez-vous que l'esprit de divorce</l>
+	<l id="1926">M'obligeât de quitter mon épouse par force,</l>
+	<l id="1927">Non, ne le croyez pas, j'ai d'autres sentiments.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Petrole, Martia, Julie, Philante, Caton, Portius, Cornélie.
+</stage>
+<sp who="PETROLE"><speaker>PETROLE</speaker><stage type="toward">, à Portius.
+	</stage>
+	<l id="1928" syll="6" part="i">Seigneur, César arrive.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS</speaker><stage type="toward">, à Petrole.
+	</stage>
+	<l id="1928" syll="6" part="f">Ô quels événements !</l>
+	<l id="1929">Pétrole parle bas ; si Caton peut entendre</l>
+	<l id="1930">Cet effet si nouveau que tu me viens d'apprendre,</l>
+	<l id="1931">Se voyant prévenu, je crois pour le certain</l>
+	<l id="1932">Qu'un second désespoir sortira de sa main :</l>
+	<l id="1933">Mais d'où peux-tu savoir cette triste nouvelle ?</l>
+</sp>
+<sp who="PETROLE"><speaker>PETROLE.</speaker>
+	<l id="1934">N'en soyez pas en doute, elle est assez fidèle,</l>
+	<l id="1935">Utique le révère, il marche sur mes pas,</l>
+	<l id="1936">Et sait que votre père avance son trépas.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1937">Quelle étrange surprise ! Effet inconcevable !</l>
+	<l id="1938">César de tous côtés n'est que trop redoutable ;</l>
+	<l id="1939" syll="6" part="i">Utique le révère.</l>
+</sp>
+<sp who="PETROLE"><speaker>PETROLE.</speaker>
+	<l id="1939" syll="6" part="f">Et sans beaucoup d'effort</l>
+	<l id="1940">Son audace a cédé, reconnaissant son sort,</l>
+	<l id="1941">Et les plus généreux ont manqué de courage</l>
+	<l id="1942">Voyant dessus leur tête éclater tout l'orage.</l>
+</sp>
+<sp who="PORTIUS"><speaker>PORTIUS.</speaker>
+	<l id="1943" syll="6" part="i">Le voici, quel prodige !</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> César, Lucius, Caton, Martia, Cornélie, Julie, Petrole.
+</stage>
+<sp who="PORTIUS"><speaker>PORTIUS</speaker><stage type="toxard">, à César.
+	</stage>
+	<l id="1943" syll="6" part="f">Ô grand victorieux !</l>
+	<l id="1944">Voyez votre rival mourir devant vos yeux.</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR</speaker><stage type="toward">, à Caton.
+	</stage>
+	<l id="1945">Caton, vous avez tort, je blâme votre audace,</l>
+	<l id="1946" syll="6" part="i">Vous offensez ma gloire.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1946" syll="6" part="f">Ô Ciel ! Quelle disgrâce,</l>
+	<l id="1947">Ce dernier coup me tue, ô lâche trahison !</l>
+	<l id="1948">César devant mes yeux ! César dans ma maison !</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR.</speaker>
+	<l id="1949">Il ne vient pas ici comme votre adversaire,</l>
+	<l id="1950">Pourquoi l'estimez-vous à vos souhaits contraires,</l>
+	<l id="1951">Lui qui n'a point de coeur sinon pour vous aimer,</l>
+	<l id="1952">Quels motifs avez-vous de le vouloir blâmer ?</l>
+	<l id="1953">On ne peut ignorer quelle raison le porte</l>
+	<l id="1954">De soutenir l'Empire et lui servir d'escorte :</l>
+	<l id="1955">Pompée avait grand tort de former des desseins...</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1956">Parler de mon époux ! Ennemis des Romains !</l>
+	<l id="1957">Et même en ma présence ! Ô fière destinée !</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR.</speaker>
+	<l id="1958" syll="6" part="i">Taisez-vous, Cornélie.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="1958" syll="6" part="f">Ah ! Pauvre infortunée.</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR.</speaker>
+	<l id="1959">De grâce écoutez-moi dans mon ressentiment,</l>
+	<l id="1960">Pour apprendre l'effet d'une triste événement,</l>
+	<l id="1961">On doit assez savoir que le sort de Pompée</l>
+	<l id="1962">N'accusera jamais César ni son épée,</l>
+	<l id="1963">Et malgré les jaloux d'une illustre valeur,</l>
+	<l id="1964">Je suis trop innocent de son triste malheur.</l>
+	<l id="1965">Par devoir j'ai choqué tant de lâches pratiques,</l>
+	<l id="1966">Qui fomentaient l'horreur de nos maux domestiques,</l>
+	<l id="1967">César de tous côtés et les jours et les nuits</l>
+	<l id="1968">Se trouvait accablé de tristesse et d'ennuis,</l>
+	<l id="1969">Et jamais ma prière en toutes ces alarmes</l>
+	<l id="1970">N'a pu vous disposer à mettre bas les armes.</l>
+	<l id="1971">J'ai parlé de la paix, on ne m'écoutait point,</l>
+	<l id="1972">Soyez judicieux à balancer ce point,</l>
+	<l id="1973">Et suivant la justice où l'équité se fonde,</l>
+	<l id="1974">Défendez l'innocence aux yeux de tout le monde.</l>
+	<l id="1975">Je maintiens justement contre mes envieux</l>
+	<l id="1976">Qu'on devait s'opposer aux esprits factieux ;</l>
+	<l id="1977">Au reste si Pompée est mort dans l'Égypte,</l>
+	<l id="1978">Rapportez son désastre au malheur de sa fuite.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1979">César, que d'artifice et de présomption ?</l>
+	<l id="1980">Qui ne connaîtrait pas ta vaine ambition</l>
+	<l id="1981">Pourrait bien ignorer où ton courage aspire.</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR.</speaker>
+	<l id="1982">Je n'ai rien entrepris qui fut contre l'Empire.</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1983">Tu te trompes, César, et nous savons assez</l>
+	<l id="1984">Que ton superbe orgueil s'emporte à trop d'excès :</l>
+	<l id="1985">Ta feinte est découverte, et suivant ton génie</l>
+	<l id="1986">Tu veux ranger l'État dessous ta tyrannie ;</l>
+	<l id="1987">Je parle assurément, et même tu sais bien</l>
+	<l id="1988">Que Caton de César ne doit espérer rien.</l>
+	<l id="1989">Mais j'ai regret pourtant dans la peine où nous sommes</l>
+	<l id="1990">Que tu sois devenu le plus méchant des hommes,</l>
+	<l id="1991">Bourreau de ta patrie, ennemi des Romains</l>
+	<l id="1992">Qui rougit tous les jours dedans leur sang tes mains,</l>
+	<l id="1993">Tu viens pour avancer mes tristes funérailles,</l>
+	<l id="1994">Soûle toi de mon coeur, dévore mes entrailles.</l>
+<stage type="threat">Caton assure la plaie.</stage>
+	<l id="1995">Je meurs, mais satisfait puisque je meurs Romain.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1996" syll="1" part="i">Ah !</l>
+</sp>
+<sp who="CATON"><speaker>CATON.</speaker>
+	<l id="1996" syll="11" part="f">C'est à dire, libre, et de sa propre main.</l>
+</sp>
+<sp who="MARTIA"><speaker>MARTIA.</speaker>
+	<l id="1997">Caton, attendez-moi, Dieux ! Quitter votre femme,</l>
+	<l id="1998">Vous vivez dans mon coeur, elle vit dans votre âme,</l>
+	<l id="1999">Et le noeud qui nous lie est si ferme et si beau,</l>
+	<l id="2000">Que l'un ne peut sans l'autre aller dans le tombeau.</l>
+</sp>
+<sp who="CATON"><speaker>CATON</speaker><stage type="toward">, à sa femme.
+	</stage>
+	<l id="2001" syll="4" part="i">Je meurs content.</l>
+</sp>
+<sp who="CÉSAR"><speaker>CÉSAR</speaker><stage type="toward">, à Caton.
+	</stage>
+	<l id="2001" syll="8" part="f">Caton, ah ! Son âme s'envole</l>
+	<l id="2002">Sur l'accent languissant d'une fière parole :</l>
+	<l id="2003">Que je suis malheureux de manquer de pouvoir</l>
+	<l id="2004">Où je vois triompher un cruel désespoir,</l>
+	<l id="2005">Martia, Cornélie, en voyant ces désastres</l>
+	<l id="2006">N'en blâmez point César, mais les Dieux et les astres.</l>
+	<l id="2007">Ah Caton ! Ah Pompée ! Ah déplorable sort !</l>
+	<l id="2008">Qui de vous ou de moi produit ce lâche effort ?</l>
+	<l id="2009">Sans me justifier l'événement des choses</l>
+	<l id="2010">En fait connaître assez les plus funestes causes.</l>
+	<l id="2011">Justes Dieux, réprimez la fureur des Destins,</l>
+	<l id="2012">Et donnez quelque trêve aux malheurs des Latins ;</l>
+	<l id="2013">Je vais pleurer leur mort, mêlez vos pleurs aux miens,</l>
+	<l id="2014">Car pour vous consoler je n'ai que ces moyens.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Martia, Cornélie, Philante, Julie, Portius, Pétrole. 
+</stage> 
+<sp who="MARTIA"><speaker>MARTIA.	</speaker>
+	<l id="2015">N'ayant plus d'espérance après ce coup de foudre,</l>
+	<l id="2016">Quelle est ma destinée ! Et que dois-je résoudre !</l>
+	<l id="2017">Portius, Cornélie, et vous mes chers amis</l>
+	<l id="2018">Déplorez le désastre où le sort nous a mis :</l>
+	<l id="2019">Voyez notre infortune en malheurs trop seconde,</l>
+	<l id="2020">Voyez où nous réduit l'inconstance du monde,</l>
+	<l id="2021">Et puisqu'un désespoir me ravit mon époux,</l>
+	<l id="2022">Destins lancés sur moi votre injuste courroux,</l>
+	<l id="2023">La tombe étant ouverte, et la Parque en colère,</l>
+	<l id="2024">Caton a fait trop voir ce que ma main doit faire.</l>
+</sp>
+<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+	<l id="2025">Plutôt consolons nous autant que les vertus</l>
+	<l id="2026">Ont soin de relever des esprits abattus,</l>
+	<l id="2027">Et malgré nos malheurs concevons l'espérance</l>
+	<l id="2028">De voir notre ennemi dessous notre puissance.</l>
+	<l id="2029">Après l'avoir puni nos deux d'un même pas</l>
+	<l id="2030">Nous irons retrouver nos époux aux trépas.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

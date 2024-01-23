@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>TROISIÈME DIALOGUE DES JEUX CHAMPÊTRES, COMÉDIE</title>
+				<author type="text" ISNI="0000 0001 2138 6051">GENLIS, Stéphanie-Félicité Du Crest de (1746-1830)</author>
+			</titleStmt>
+			<publicationStmt>
+				<editor>Texte établi par Paul Fièvre, décembre 2018.</editor>
+				<publisher>Publié par Paul FIEVRE, décembre 2018.</publisher>
+				<idno>GENLIS_TROISIEMEDIALOGUE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>dialogue</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1821-1830</periode>
+				<taille>(mesure non pertinente</taille>
+				<permalien cote="BnF ARS RESERVE 16-Z-23378">https://gallica.bnf.fr/ark:/12148/bpt6k15186021</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">TROISIÈME DIALOGUE</titlePart>
+			<titlePart type="sub">DES JEUX CHAMPÊTRES DES ENFANTS</titlePart>
+		</docTitle> 
+		<docDate value="1829">1829</docDate>
+		<docAuthor id="GENLIS, Madame de"/>
+		<docImprint>
+			<printer>À PARIS, A. MARC, Libraire, Auteur et éditeur du Dictionnaire des romans, Rue Rameau N°11. Quartier du Palais Royal. </printer>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="ICÉLIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">ICÉLIE</role>, agée de 18 ans.</castItem>
+			<castItem><role id="LÉONILLE" sex="2" type="H" statut="enfant" age="E" stat_amour="néant">LÉONILLE</role>, agée de 12 ans, soeur d'Icélie.</castItem>
+			<castItem><role id="LOUIS" sex="1" type="H" statut="enfant" age="E" stat_amour="néant">LOUIS</role>, frère d'Icélie et de Léonille.</castItem>
+		</castList>
+		<set location="Campagne" country="France" periode="XVIIIème" link=""/>
+		<note>Extrait de LES JEUX CHAMPÊTRES DES ENFANTS et l'île Par Madame la Comtesse de Genlis, orné de huit gravures. TROISIÈME ÉDITION, 1829. pp. 25-32</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>TROISIÈME DIALOGUE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="1">
+	<s id="1">Nous ne t'apportons que trois plantes, parce qu'on nous a rappelés et que nous n'avons pas eu le temps de chercher la quatrième.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="2">
+	<s id="1">C'est bien ; car cela prouve que vous n'avez pas voulu faire attendre et que vous êtes de bons enfants.</s> 
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="3">
+	<s id="1">Il faut bien être obéissant pour vivre en paix.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="4">
+	<s id="1">Oui, c'est le plus court ; des querelles et des gronderies sont si ennuyeuses !</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="5">
+	<s id="1">Et puis, monsieur l'abbé dit toujours qu'il faut savoir obéir à propos pour commander quand on en a le droit.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="6">
+	<s id="1">Il a bien raison.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<stage type="explicit">Jonc, en latin, juncus ; la moelle du jonc d'eau sert à faire des mêches de lampes.</stage>
+<p id="7">
+	<s id="1">Tiens, voilà nos plantes : le jonc avec lequel on fait de si jolis petits paniers et le buis dont on nous donne de si beaux rameaux à Pâques, et puis dont les petites feuilles, toujours vertes, sont si amusantes l'hiver.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="6">
+	<s id="1">Comment donc cela !</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<stage type="explicit">Buis, en latin, buxus. On prétend que son bois râpé est sudorifique, et qu'il donne un esprit acide et une huile fétide, bonne pour l'épilepsie et pour le mal de dents ; les feuilles sont amères et rougissent le papier bleu.</stage>
+<note type="L">Toton : Espèce de dé à quatre faces, qui est percé d'une cheville, et qu'on fait tourner sur cette cheville ; les quatre faces sont marquées des lettres A, D, R, T : A, initiale du latin accipe, prends, fait prendre un jeton ; D, initiale de da, donne, fait mettre un jeton ; R, initiale de rien, indique qu'on n'a rien à mettre ni à prendre ; T, initiale du latin totum, tout, indique que le joueur prend tout l'enjeu ; c'est un jeu d'enfants. [L]</note>
+<p id="7">
+	<s id="1">Mais, sûrement, on met une de ces petites feuilles sur une pelle bien chaude et pendant plusieurs minutes elle tourne comme un toton ; c'est charmant !</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="8">
+	<s id="1">Je ne me rappelais pas ce petit jeu.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<stage type="explicit">Lierre, en latin, hedera. On donne le nom de lierre à deux plantes différentes qui sont le lierre en arbre et le lierre terrestre. Ces deux sortes de végétaux ne sont ni de même genre ni de même classe; le lierre terrestre, ou herbe de la Saint- Jean, croît dans les lieux humides et dans les champs, ses fleurs sont bleues et d'une seule pièce en gueule : c'est celte plante qui sert en médecine comme un des meilleurs vulnéraires, et contre l'asthme pituiteux et contre les glaires. Le lierre en arbre est la plante si célébrée par les poètes, les fleurs sont en roses, composées chacune de six pétales de couleur herbacée. Nous voyons ici très-souvent cette plante rampante le long des arbres ou des murailles, dans les jardins, dans les champs et dans les prairies; elle est de la classe des labiées (c'est-à-dire des fleurs qui ont la forme de lèvres); on prétend que le suc de cette plante, aspiré par les narines, guérit entièrement le plus violent mal de tête. Quelquefois les tourneurs travaillent le bois des gros troncs d'arbres de lierre et en font des verres à boire auxquels on attribuait autrefois la singulière propriété de laisser filtrer l'eau et de retenir le vin, lorsqu'on y mettait ensemble ces deux liqueurs, idée qui venait sans doute de ce que cet arbre était consacré à Bacchus. Le lierre de Bacchus a son fruit doré ; il est commun en Grèce. C'est l'hedera dionysios des botanistes modernes.</stage>
+<p id="9">
+	<s id="1">Moi, j'ai cueilli le lierre, parce qu'on en fait de jolies guirlandes qui ne jaunissent point. </s>
+	<s id="2">Marie m'a promis qu'à la fête de maman, elle m'en garnirait une robe blanche.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="10">
+	<s id="1">A présent que vous savez comment on fait un herbier, desséchez vous-même vos plantes.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="11">
+	<s id="1">Tu ne veux pas nous aider ce soir ?</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="12">
+	<s id="1">Il faut ne demander de l'aide que lorsqu'on ne peut s'en passer : j'aime à faire moi-même tout ce que je peux faire tout seul.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="13">
+	<s id="1">C'est à la fois un très bon principe et une fort bonne habitude.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="14">
+	<s id="1">Mais, se faire un devoir d'être complaisante est aussi un bon principe, je crois ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="15">
+	<s id="1">Assurément, et si tu me demandes de t'aider à dessécher ta plante, j'y consentirai.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="16">
+	<s id="1">Eh bien, place-la sur le papier, et moi je la mettrai sous presse.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS</speaker><stage>, à Léonille.
+</stage>
+<p id="17">
+	<s id="1">Tu ne te charges pas du plus difficile. </s>
+	<s id="2">Pour moi, je ne veux pas de secours, et voilà déjà mes plantes arrangées, regarde, Icélie.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="18">
+	<s id="1">À merveille ! </s>
+	<s id="2">Allons, voilà qui est fini : à propos, notre herbier va être un peu interrompu.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="19">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="20">
+	<s id="1">Oui, maman a décidé que nous avancerions notre départ pour le Languedoc. </s>
+	<s id="2">Nous partirons après demain; ainsi nous ne pourrons nous occuper demain que des apprêts de notre voyage, qui ne sera pas très long, car maman est obligée de revenir ici au mois de juillet.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="21">
+	<s id="1">Je n'en suis pas fâché ; le printemps est si beau en Languedoc ! </s>
+	<s id="2">Et nous trouverons les plantes bien plus avancées qu'ici. </s>
+	<s id="4">Je crois qu'il est temps d'aller souper. </s>
+	<s id="5">Il faudra nous lever demain de grand matin pour faire nos paquets ; nous emporterons notre herbier naissant, il a déjà sept plantes ; c'est un joli commencement !</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="22">
+	<s id="1">J'entends ma bonne qui vient nous avertir pour le souper.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="23">
+	<s id="1">Allons.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="24">
+	<s id="1">Ah ! </s>
+	<s id="2">Je suis charmée de partir pour le Languedoc.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

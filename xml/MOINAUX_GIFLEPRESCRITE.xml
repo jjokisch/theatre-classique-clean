@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>UNE GIFLE PRESCRITE, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 0654 8120">Jules MOINAUX (1815-1895)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>MOINAUX_GIGLEPRESCRITE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1881-1890</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k5718390w</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">UNE GIFLE PRESCRITE.</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés.</docDate>
+		<docAuthor id="MOINAUX, Jules">par JULES MOINEAUX, rédacteur de la Gazette des Tribunaux.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, CHEVALIER-MARESCQ ÉDITEUR, 20 rue SOUFFLOT, 20.</editor>
+			<printer id="NOBLET">8517. - Paris. Imprimerie de Ch. Noblet, 13 rue Cujas. - 1881</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="narrateur" age="A" stat_amour="néant">LE NARRATEUR</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président du tribunal" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			<castItem><role id="MONSIEUR VILLERONDE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR VILLERONDE</role>.</castItem>
+			<castItem><role id="MONSIEUR LOUESLOUP" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR LOUESLOUP</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de MOINAUX, Jules, "Les tribunaux comiques", Paris, Chevalier-Marescq éditeur, 1881. pp 209-211</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>UNE GIFLE PRESCRITE.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker>LE NARRATEUR.</speaker>
+<p id="1">
+	<s id="1">Si le procès de Monsieur_Villeronde  n'est pas venu plus tôt, ce n'est pas la faute de la justice, et il ne peut s'en prendre qu'à lui-même.</s>
+</p>
+<p id="2">
+	<s id="1">Monsieur_Villeronde a essuyé deux revers : un revers de fortune, qui l'a fait partir pour l'Amérique, et un revers de main, qui l'a fait revenir, à Paris pour obtenir satisfaction de cet outrage. </s>
+	<s id="2">De retour du Nouveau_Monde avec un joli sac, son premier soin, en arrivant, a été de porter plainte, contre Monsieur_Louesloup, l'auteur de la voie_de_fait commise.</s>
+</p>
+<p id="3">
+	<s id="1">Voici donc plaignant et prévenu devant la police_correctionnelle. </s>
+	<s id="2">Louesloup affirme qu'il n'a aucun souvenir de la gifle dont réparation est demandée...</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="4">
+	<s id="1">C'est facile à dire parce qu'il y a huit ans de cela, mais moi...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="5">
+	<s id="1">Je vous arrête tout de suite : le fait est prescrit.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="6">
+	<s id="1">Monsieur, pour moi, il est aussi frais que si c'était d'hier ; quand j'y pense, je me sens, encore sur la figure la marque des cinq doigts et le pouce de Monsieur_Louesloup.</s>
+</p>
+</sp>
+<sp who="LOUESLOUP"><speaker>LOUESLOUP.</speaker>
+<p id="7">
+	<s id="1">Comment, cinq doigts et le pouce ? </s>
+	<s id="2">Ça ferait six alors, et le tribunal peut voir...</s>
+</p>	
+<stage type="show">Il montre ses mains.</stage>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="8">
+	<s id="1">Un doigt de plus ou de moins ne change rien à la chose.</s>
+</p>
+</sp>
+<sp who="LOUESLOUP"><speaker>LOUESLOUP.</speaker>
+<p id="9">
+	<s id="1">Non, mais ça changerait quelque chose à ma main.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE. </speaker>
+<p id="10">
+	<s id="1">Je demande réparation d'honneur au moyen de 1.00 francs, et du plus de prison que le tribunal me fera l'amitié de vous accorder.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT. </speaker>
+<p id="11">
+	<s id="1">Je vous répète qu'il y a prescription.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="12">
+	<s id="1">Alors, comme ça, j'en suis pour ma gifle ?...</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Il fallait porter plainte dans le délai voulu.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="14">
+	<s id="1">Monsieur_le_Président, c'est ce que j'avais fait tout de suite ; pendant ce temps-là il m'est arrivé des malheurs avec un filou qui m'a ratissé complètement, et j'ai couru après lui en Amérique.</s>
+</p>
+<stage type="explicit">Le tribunal renvoie Louesloup des fins de la plainte.</stage>
+<p id="15">
+	<s id="1">Alors, j'en suis pour ma gifle.</s>
+</p>
+</sp>
+<sp who="LOUESLOUP"><speaker>LOUESLOUP.</speaker>
+<p id="16">
+	<s id="1">Mais puisque je ne m'en souviens plus, c'est comme si vous ne l'aviez pas reçue.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="17">
+	<s id="1">Retirez-vous.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE</speaker><stage type="toward/exit">, à Louesloup, en s'en allant.
+</stage>
+<p id="18">
+	<s id="1">Alors l'honneur est donc satisfait.</s>
+</p>
+</sp>
+<sp who="LOUESLOUP"><speaker>LOUESLOUP.</speaker>
+<p id="19">
+	<s id="1">Complètement.</s>
+</p>
+</sp>
+<sp who="VILLERONDE"><speaker>VILLERONDE.</speaker>
+<p id="20">
+	<s id="1">Si c'est comme ça...</s>
+</p>
+<stage type="away">Les deux adversaires partent en causant amicalement</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,2347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LA COUPE ET LES LÈVRES, POÈME DRAMATIQUE</title>
+			<author type="texte" ISNI="0000 0001 2133 4059">Alfred MUSSET (1810-1857)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE avril 2023.</editor>
+			<publisher>publié par Paul FIEVRE, mai 2023</publisher>
+			<idno>MUSSET_COUPE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Poème dramatique</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Cinq actes</structure>
+			<type>vers</type>
+			<periode>1861-1870</periode>
+			<taille>1250-1500</taille>
+			<permalien cote="BnF LLA Z-9551">https://gallica.bnf.fr/ark:/12148/bpt6k6154197q</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA COUPE ET LES LÈVRES</titlePart>
+			<titlePart type="sub">Poème dramatique en cinq actes et en vers.</titlePart>
+			<titlePart type="sub">Représentée pour la première fois au Théâtre-Français le 22 février 1849, publiée en 1850.</titlePart>
+		</docTitle> 
+		<docDate value="1867">1867.</docDate>
+		<docAuthor id="MUSSET, Alfred de" bio="muset">D'ALFRED DE MUSSET</docAuthor>
+		<docImprint>
+			<editor id="CHARPENTIER">PARIS, CHARPENTIER, ÉDITEUR, 28 QUAI DE L'ÉCOLE.</editor>
+			<printer id="LAHURE">IMPRIMERIE GÉNÉRALE DE CH. LAHURE, Rue de Flaurus, 8, à Paris.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1831" location=""/>
+		</performance>
+	<div type="citation">
+		<p>Entre la coupe et les lèvres, il reste encore de la place pour un malheur.</p>
+		<p>(Ancien proverbe)</p>
+	</div>
+	<div type="dedicace"><adresse>Dédicace à Alfred T.</adresse>
+		<p>Voici mon cher ami, ce que je vous dédie :</p>
+		<p type="v">Quelque chose approchant comme une tragédie,</p>
+		<p type="v">Un spectacle ; en un mot, quatre mains de papier.</p>
+		<p type="v">J'attendrai là-dessus que le diable m'éveille.</p>
+		<p type="v">Il est sain de dormir, - ignoble de bâiller.</p>
+		<p type="v">J'ai fait trois mille vers : allons, c'est à merveille.</p>
+		<p type="v">Baste ! Il faut s'en tenir à sa vocation.</p>
+		<p type="v">Mais quelle singulière et triste impression</p>
+		<p type="v">Produit un manuscrit ! - Tout à l'heure, à ma table,</p>
+		<p type="v">Tout ce que j'écrivais me semblait admirable.</p>
+		<p type="v">Maintenant, je ne sais, - je n'ose y regarder.</p>
+		<p type="v">Au moment du travail, chaque nerf, chaque fibre</p>
+		<p type="v">Tressaille comme un luth que l'on vient d'accorder.</p>
+		<p type="v">On n'écrit pas un mot que tout l'être ne vibre.</p>
+		<p type="v">(Soit dit sans vanité, c'est ce que l'on ressent.)</p>
+		<p type="v">On ne travaille pas, - on écoute, - on attend.</p>
+		<p type="v">C'est comme un inconnu qui vous parle à voix basse.</p>
+		<p type="v">On reste quelquefois une nuit sur la place,</p>
+		<p type="v">Sans faire un mouvement et sans se retourner.</p>
+		<p type="v">On est comme un enfant dans ses habits de fête,</p>
+		<p type="v">Qui craint de se salir et de se profaner ;</p>
+		<p type="v">Et puis, - et puis, - enfin ! - On a mal à la tête.</p>
+		<p type="v">Quel étrange réveil ! - Comme on se sent boiteux !</p>
+		<p type="v">Comme on voit que Vulcain vient de tomber des cieux !</p>
+		<p type="v">C'est le cercueil humain, un moment entr'ouvert.</p>
+		<p type="v">Qui, laissant retomber son couvercle débile,</p>
+		<p type="v">Ne se souvient de rien, sinon qu'il a souffert.</p>
+		<p type="v">Si tout finissait là ! Voilà le mot terrible.</p>
+		<p type="v">C'est Jésus, couronné d'une flamme invisible,</p>
+		<p type="v">Venant du Pharisien partager le repas.</p>
+		<p type="v">Le Pharisien parfois voit luire une auréole</p>
+		<p type="v">Sur son hôte divin, - puis, quand elle s'envole,</p>
+		<p type="v">Il dit au Fils de Dieu : Si tu ne l'étais pas ?</p>
+		<p type="v">Je suis le Pharisien, et je dis à mon hôte :</p>
+		<p type="v">Si ton démon céleste était un imposteur ?</p>
+		<p type="v">Il ne s'agit pas là de reprendre une faute,</p>
+		<p type="v">De retourner un vers comme un commentateur,</p>
+		<p type="v">Ni de se remâcher comme un boeuf qui rumine.</p>
+		<p type="v">Il est assez de mains, chercheuses de vermine,</p>
+		<p type="v">Qui savent éplucher un récit malheureux,</p>
+		<p type="v">Comme un pâtre espagnol épluche un chien lépreux.</p>
+		<p type="v">Mais croire que l'on tient les pommes d'Hespérides</p>
+		<p type="v">Et presser tendrement un navet sur son coeur !</p>
+		<p type="v">Voilà, mon cher ami, ce qui porte un auteur</p>
+		<p type="v">À des auto-da-fés, - à des infanticides.</p>
+		<p type="v">Les rimeurs, vous voyez, sont comme les amants.</p>
+		<p type="v">Tant qu'on n'a rien écrit, il en est d'une idée</p>
+		<p type="v">Comme d'une beauté qu'on n'a pas possédée :</p>
+		<p type="v">On l'adore, on la suit ; - ses détours sont charmants.</p>
+		<p type="v">Pendant que l'on tisonne en regardant la cendre,</p>
+		<p type="v">On la voit voltiger ainsi qu'un salamandre ;</p>
+		<p type="v">Chaque mot fait pour elle est comme un billet doux ;</p>
+		<p type="v">On lui donne à souper ; - qui le sait mieux que vous ?</p>
+		<p type="v">(Vous pourriez au besoin traiter une princesse.)</p>
+		<p type="v">Mais dès qu'elle se rend, bonsoir, le charme cesse.</p>
+		<p type="v">On sent dans sa prison l'hirondelle mourir.</p>
+		<p type="v">Si tout cela, du moins, vous laissait quelque chose !</p>
+		<p type="v">On garde le parfum en effeuillant la rose ;</p>
+		<p type="v">Il n'est si triste amour qui n'ait son souvenir.</p>
+		<p type="v">Lorsque la jeune fille, à la source voisine,</p>
+		<p type="v">A sous les nénuphars lavé ses bras poudreux,</p>
+		<p type="v">Elle reste au soleil, les mains sur sa poitrine,</p>
+		<p type="v">À regarder longtemps pleurer ses beaux cheveux.</p>
+		<p type="v">Elle sort, mais pareille aux rochers de Borghèse,</p>
+		<p type="v">Couverte de rubis comme un poignard persan, - </p>
+		<p type="v">Et sur son front luisant sa mère qui la baise</p>
+		<p type="v">Sent du fond de son coeur la fraîcheur de son sang.</p>
+		<p type="v">Mais le poète, hélas ! S'il puise à la fontaine,</p>
+		<p type="v">C'est comme un braconnier poursuivi dans la plaine,</p>
+		<p type="v">Pour boire dans sa main, et courir se cacher, - </p>
+		<p type="v">Et cette main brûlante est prompte à se sécher.</p>
+		<p type="v">Je ne fais pas grand cas, pour moi, de la critique.</p>
+		<p type="v">Toute mouche qu'elle est, c'est rare qu'elle pique.</p>
+		<p type="v">On m'a dit l'an passé que j'imitais Byron :</p>
+		<p type="v">Vous qui me connaissez, vous savez bien que non.</p>
+		<p type="v">Je hais comme la mort l'état de plagiaire ;</p>
+		<p type="v">Mon verre n'est pas grand, mais je bois dans mon verre.</p>
+		<p type="v">C'est bien peu, je le sais, que d'être homme de bien,</p>
+		<p type="v">Mais toujours est-il vrai que je n'exhume rien.</p>
+		<p type="v">Je ne me suis pas fait écrivain politique,</p>
+		<p type="v">N'étant pas amoureux de la place publique.</p>
+		<p type="v">D'ailleurs, il n'entre pas dans mes prétentions</p>
+		<p type="v">D'être l'homme du siècle et de ses passions.</p>
+		<p type="v">C'est un triste métier que de suivre la foule,</p>
+		<p type="v">Et de vouloir crier plus fort que les meneurs,</p>
+		<p type="v">Pendant qu'on se raccroche au manteau des traîneurs.</p>
+		<p type="v">On est toujours à sec, quand le fleuve s'écoule.</p>
+		<p type="v">Que de gens aujourd'hui chantent la liberté,</p>
+		<p type="v">Comme ils chantaient les rois, ou l'homme de brumaire !</p>
+		<p type="v">Que de gens vont se pendre au levier populaire,</p>
+		<p type="v">Pour relever le dieu qu'ils avaient souffleté !</p>
+		<p type="v">On peut traiter cela du beau nom de rouerie,</p>
+		<p type="v">Dire que c'est le monde et qu'il faut qu'on en rie.</p>
+		<p type="v">C'est peut-être un métier charmant, mais tel qu'il est,</p>
+		<p type="v">Si vous le trouvez beau, moi, je le trouve laid.</p>
+		<p type="v">Je n'ai jamais chanté ni la paix ni la guerre ;</p>
+		<p type="v">Si mon siècle se trompe, il ne m'importe guère :</p>
+		<p type="v">Tant mieux s'il a raison, et tant pis s'il a tort ;</p>
+		<p type="v">Pourvu qu'on dorme encore au milieu du tapage,</p>
+		<p type="v">C'est tout ce qu'il me faut, et je ne crains pas l'âge</p>
+		<p type="v">Où les opinions deviennent un remord.</p>
+		<p type="v">Vous me demanderez si j'aime ma patrie.</p>
+		<p type="v">Oui ; - j'aime fort aussi l'Espagne et la Turquie.</p>
+		<p type="v">Je ne hais pas la Perse, et je crois les Indous</p>
+		<p type="v">De très honnêtes gens qui boivent comme nous.</p>
+		<p type="v">Mais je hais les cités, les pavés et les bornes,</p>
+		<p type="v">Tout ce qui porte l'homme à se mettre en troupeau,</p>
+		<p type="v">Pour vivre entre deux murs et quatre faces mornes ;</p>
+		<p type="v">Le front sous un moellon, les pieds sur un tombeau.</p>
+		<p type="v">Vous me demanderez si je suis catholique.</p>
+		<p type="v">Oui ; - j'aime fort aussi les dieux Lath et Nésu.</p>
+		<p type="v">Tartak et Pimpocau me semblent sans réplique ;</p>
+		<p type="v">Que dites-vous encor de Parabavastu ?</p>
+		<p type="v">J'aime Bidi, - Khoda me paraît un bon sire ;</p>
+		<p type="v">Et quant à Kichatan, je n'ai rien à lui dire.</p>
+		<p type="v">C'est un bon petit dieu que le dieu Michapous.</p>
+		<p type="v">Mais je hais les cagots, les robins et les cuistres,</p>
+		<p type="v">Qu'ils servent Pimpocau, Mahomet ou Vishnou.</p>
+		<p type="v">Vous pouvez de ma part répondre à leurs ministres</p>
+		<p type="v">Que je ne sais comment je vais je ne sais où.</p>
+		<p type="v">Vous me demanderez si j'aime la sagesse.</p>
+		<p type="v">Oui ; - j'aime fort aussi le tabac à fumer.</p>
+		<p type="v">J'estime le bordeaux, surtout dans sa vieillesse ;</p>
+		<p type="v">J'aime tous les vins francs, parce qu'ils font aimer.</p>
+		<p type="v">Mais je hais les cafards, et la race hypocrite</p>
+		<p type="v">Des tartufes de moeurs, comédiens insolents,</p>
+		<p type="v">Qui mettent leurs vertus en mettant leurs gants blancs.</p>
+		<p type="v">Le diable était bien vieux lorsqu'il se fit ermite.</p>
+		<p type="v">Je le serai si bien, quand ce jour-là viendra,</p>
+		<p type="v">Que ce sera le jour où l'on m'enterrera.</p>
+		<p type="v">Vous me demanderez si j'aime la nature.</p>
+		<p type="v">Oui ; - j'aime fort aussi les arts et la peinture.</p>
+		<p type="v">Le corps de la Vénus me paraît merveilleux.</p>
+		<p type="v">La plus superbe femme est-elle préférable ?</p>
+		<p type="v">Elle parle, il est vrai, mais l'autre est admirable,</p>
+		<p type="v">Et je suis quelquefois pour les silencieux.</p>
+		<p type="v">Mais je hais les pleurards, les rêveurs à nacelles,</p>
+		<p type="v">Les amants de la nuit, des lacs, des cascatelles,</p>
+		<p type="v">Cette engeance sans nom, qui ne peut faire un pas</p>
+		<p type="v">Sans s'inonder de vers, de pleurs et d'agendas.</p>
+		<p type="v">La nature, sans doute, est comme on veut la prendre.</p>
+		<p type="v">Il se peut, après tout, qu'ils sachent la comprendre ;</p>
+		<p type="v">Mais eux, certainement, je ne les comprends pas.</p>
+		<p type="v">Vous me demanderez si j'aime la richesse.</p>
+		<p type="v">Oui ; - j'aime aussi parfois la médiocrité.</p>
+		<p type="v">Et surtout, et toujours, j'aime mieux ma maîtresse ;</p>
+		<p type="v">La fortune, pour moi, n'est que la liberté.</p>
+		<p type="v">Elle a cela de beau, de remuer le monde,</p>
+		<p type="v">Que, dès qu'on la possède, il faut qu'on en réponde,</p>
+		<p type="v">Et que, seule, elle met à l'air la volonté.</p>
+		<p type="v">Mais je hais les pieds-plats, je hais la convoitise.</p>
+		<p type="v">J'aime mieux un joueur, qui prend le grand chemin ;</p>
+		<p type="v">Je hais le vent doré qui gonfle la sottise,</p>
+		<p type="v">Et, dans quelque cent ans, j'ai bien peur qu'on ne dise</p>
+		<p type="v">Que notre siècle d'or fut un siècle d'airain.</p>
+		<p type="v">Vous me demanderez si j'aime quelque chose.</p>
+		<p type="v">Je m'en vais vous répondre à peu près comme Hamlet :</p>
+		<p type="v">Doutez, Ophélia, de tout ce qui vous plaît,</p>
+		<p type="v">De la clarté des cieux, du parfum de la rose ;</p>
+		<p type="v">Doutez de la vertu, de la nuit et du jour ;</p>
+		<p type="v">Doutez de tout au monde, et jamais de l'amour.</p>
+		<p type="v">Tournez-vous là, mon cher, comme l'héliotrope</p>
+		<p type="v">Qui meurt les yeux fixés sur son astre chéri,</p>
+		<p type="v">Et préférez à tout, comme le Misanthrope,</p>
+		<p type="v">La chanson de ma mie, et du Bon roi Henri.</p>
+		<p type="v">Doutez, si vous voulez, de l'être qui vous aime,</p>
+		<p type="v">D'une femme ou d'un chien, mais non de l'amour même.</p>
+		<p type="v">L'amour est tout, - l'amour, et la vie au soleil.</p>
+		<p type="v">Aimer est le grand point, qu'importe la maîtresse ?</p>
+		<p type="v">Qu'importe le flacon, pourvu qu'on ait l'ivresse ?</p>
+		<p type="v">Faites-vous de ce monde un songe sans réveil.</p>
+		<p type="v">S'il est vrai que Schiller n'ait aimé qu'Amélie,</p>
+		<p type="v">Goethe que Marguerite, et Rousseau que Julie,</p>
+		<p type="v">Que la terre leur soit légère ! - Ils ont aimé.</p>
+		<p type="v">Vous trouverez, mon cher, mes rimes bien mauvaises :</p>
+		<p type="v">Quant à ces choses-là, je suis un réformé.</p>
+		<p type="v">Je n'ai plus de système, et j'aime mieux mes aises ;</p>
+		<p type="v">Mais j'ai toujours trouvé honteux de cheviller.</p>
+		<p type="v">Je vois chez quelques-uns, en ce genre d'escrime,</p>
+		<p type="v">Des rapports trop exacts avec un menuisier.</p>
+		<p type="v">Gloire aux auteurs nouveaux, qui veulent à la rime</p>
+		<p type="v">Une lettre de plus qu'il n'en fallait jadis !</p>
+		<p type="v">Bravo ! C'est un bon clou de plus à la pensée.</p>
+		<p type="v">La vieille liberté par Voltaire laissée</p>
+		<p type="v">Etait bonne autrefois pour les petits esprits.</p>
+		<p type="v">Un long cri de douleur traversa l'Italie</p>
+		<p type="v">Lorsqu'au pied des autels Michel-Ange expira.</p>
+		<p type="v">Le siècle se fermait, - et la mélancolie,</p>
+		<p type="v">Comme un pressentiment, des vieillards s'empara.</p>
+		<p type="v">L'art, qui sous ce grand homme avait quitté la terre</p>
+		<p type="v">Pour se suspendre au ciel, comme le nourrisson</p>
+		<p type="v">Se suspend et s'attache aux lèvres de sa mère,</p>
+		<p type="v">L'art avec lui tomba. - Ce fut le dernier nom</p>
+		<p type="v">Dont le peuple toscan ait gardé la mémoire.</p>
+		<p type="v">Aujourd'hui l'art n'est plus, - personne n'y veut croire.</p>
+		<p type="v">Notre littérature a cent mille raisons</p>
+		<p type="v">Pour parler de noyés, de morts, et de guenilles.</p>
+		<p type="v">Elle-même est un mort que nous galvanisons.</p>
+		<p type="v">Elle entend son affaire en nous peignant des filles,</p>
+		<p type="v">En tirant des égouts les muses de Régnier.</p>
+		<p type="v">Elle-même en est une, et la plus délabrée</p>
+		<p type="v">Qui de fard et d'onguents se soit jamais plâtrée.</p>
+		<p type="v">Nous l'avons tous usée, - et moi tout le premier.</p>
+		<p type="v">Est-ce à moi, maintenant, au point où nous en sommes,</p>
+		<p type="v">De vous parler de l'art et de le regretter ?</p>
+		<p type="v">Un mot pourtant encore avant de vous quitter.</p>
+		<p type="v">Un artiste est un homme, - il écrit pour des hommes.</p>
+		<p type="v">Pour prêtresse du temple, il a la liberté ;</p>
+		<p type="v">Pour trépied, l'univers ; pour éléments, la vie ;</p>
+		<p type="v">Pour encens, la douleur, l'amour et l'harmonie ;</p>
+		<p type="v">Pour victime, son coeur ; - pour dieu, la vérité.</p>
+		<p type="v">L'artiste est un soldat, qui des rangs d'une armée</p>
+		<p type="v">Sort, et marche en avant, - ou chef, - ou déserteur.</p>
+		<p type="v">Par deux chemins divers il peut sortir vainqueur.</p>
+		<p type="v">L'un, comme Calderon et comme Mérimée,</p>
+		<p type="v">Incruste un plomb brûlant sur la réalité,</p>
+		<p type="v">Découpe à son flambeau la silhouette humaine,</p>
+		<p type="v">En emporte le moule, et jette sur la scène</p>
+		<p type="v">Le plâtre de la vie avec sa nudité.</p>
+		<p type="v">Pas un coup de ciseau sur la sombre effigie,</p>
+		<p type="v">Rien qu'un masque d'airain, tel que Dieu l'a fondu.</p>
+		<p type="v">Cherchez-vous la morale et la philosophie ?</p>
+		<p type="v">Rêvez, si vous voulez, - voilà ce qu'il a vu.</p>
+		<p type="v">L'autre, comme Racine et le divin Shakspeare,</p>
+		<p type="v">Monte sur le théâtre, une lampe à la main,</p>
+		<p type="v">Et de sa plume d'or ouvre le coeur humain.</p>
+		<p type="v">C'est pour vous qu'il y fouille, afin de vous redire</p>
+		<p type="v">Ce qu'il aura senti, ce qu'il aura trouvé,</p>
+		<p type="v">Surtout, en le trouvant, ce qu'il aura rêvé.</p>
+		<p type="v">L'action n'est pour lui qu'un moule à sa pensée.</p>
+		<p type="v">Hamlet tuera Clodius, - Joad tuera Mathan ; - </p>
+		<p type="v">Qu'importe le combat, si l'éclair de l'épée</p>
+		<p type="v">Peut nous servir dans l'ombre à voir les combattants ?</p>
+		<p type="v">Le premier sous les yeux vous étale un squelette.</p>
+		<p type="v">Songez, si vous voulez, de quels muscles d'athlète,</p>
+		<p type="v">De quelle chair superbe, et de quels vêtements</p>
+		<p type="v">Pourraient être couverts de si beaux ossements.</p>
+		<p type="v">Le second vous déploie une robe éclatante,</p>
+		<p type="v">Des muscles invaincus, une chair palpitante,</p>
+		<p type="v">Et vous laisse à penser quels sublimes ressorts</p>
+		<p type="v">Impriment l'existence à de pareils dehors.</p>
+		<p type="v">Celui-là voit l'effet, - et celui-ci la cause.</p>
+		<p type="v">Sur cette double loi le monde entier repose.</p>
+		<p type="v">Dieu seul (qui se connaît) peut tout voir à la fois.</p>
+		<p type="v">Quant à moi, Petit-Jean, quand je vois, - quand je vois,</p>
+		<p type="v">Je vous préviens, mon cher, que ce n'est pas grand'chose ;</p>
+		<p type="v">Car, pour y voir longtemps, j'aime trop à voir clair :</p>
+		<p type="v">Man delights not me, sir, nor woman neither.</p>
+		<p type="v">Mais s'il m'était permis de choisir une route,</p>
+		<p type="v">Je prendrais la dernière, et m'y noierais sans doute.</p>
+		<p type="v">Je suis passablement en humeur de rêver.</p>
+		<p type="v">Et je m'arrête ici, pour ne pas le prouver.</p>
+		<p type="v">Je ne sais trop à quoi tend tout ce bavardage.</p>
+		<p type="v">Je voulais mettre un mot sur la première page :</p>
+		<p type="v">À mon très honoré, très honorable ami,</p>
+		<p type="v">Monsieur - et caetera - comme on met aujourd'hui,</p>
+		<p type="v">Quand on veut proprement faire une dédicace.</p>
+		<p type="v">Je l'ai faite un peu longue, et je m'en aperçois.</p>
+		<p type="v">On va s'imaginer que c'est une préface.</p>
+		<p type="v">Moi qui n'en lis jamais ! - Ni vous non plus, je crois.</p>
+		<p>Août 1832.</p>
+	</div>
+	<div type=""><head>INVOCATION</head>
+		<p type="v">Aimer, boire et chasser, voilà la vie humaine</p>
+		<p type="v">Chez les fils du Tyrol, - peuple héroïque et fier !</p>
+		<p type="v">Montagnard comme l'aigle, et libre comme l'air !</p>
+		<p type="v">Beau ciel, où le soleil a dédaigné la plaine,</p>
+		<p type="v">Ce paisible océan dont les monts sont les flots !</p>
+		<p type="v">Beau ciel tout sympathique, et tout peuplé d'échos !</p>
+		<p type="v">Là, siffle autour des puits l'écumeur des montagnes,</p>
+		<p type="v">Qui jette au vent son coeur, sa flèche et sa chanson.</p>
+		<p type="v">Venise vient au loin dorer son horizon.</p>
+		<p type="v">La robuste Helvétie abrite ses campagnes.</p>
+		<p type="v">Ainsi les vents du sud t'apportent la beauté,</p>
+		<p type="v">Mon Tyrol, et les vents du nord la liberté.</p>
+		<p type="v">Salut, terre de glace, amante des nuages,</p>
+		<p type="v">Terre d'hommes errants et de daims en voyages,</p>
+		<p type="v">Terre sans oliviers, sans vigne et sans moissons.</p>
+		<p type="v">Ils sucent un sein dur, mère, tes nourrissons ;</p>
+		<p type="v">Mais ils t'aiment ainsi, - sous la neige bleuâtre</p>
+		<p type="v">De leurs lacs vaporeux, sous ce pâle soleil</p>
+		<p type="v">Qui respecte les bras de leurs femmes d'albâtre,</p>
+		<p type="v">Sous la ronce des champs qui mord leur pied vermeil.</p>
+		<p type="v">Noble terre, salut ! Terre simple et naïve,</p>
+		<p type="v">Tu n'aimes pas les arts, toi qui n'es pas oisive.</p>
+		<p type="v">D'efféminés rêveurs tu n'es pas le séjour ;</p>
+		<p type="v">On ne fait sous ton ciel que la guerre et l'amour.</p>
+		<p type="v">On ne se vieillit pas dans tes longues veillées.</p>
+		<p type="v">Si parfois tes enfants, dans l'écho des vallées,</p>
+		<p type="v">Mêlent un doux refrain aux soupirs des roseaux,</p>
+		<p type="v">C'est qu'ils sont nés chanteurs, comme de gais oiseaux.</p>
+		<p type="v">Tu n'as rien, toi, Tyrol, ni temples, ni richesse,</p>
+		<p type="v">Ni poètes, ni dieux ; - tu n'as rien, chasseresse !</p>
+		<p type="v">Mais l'amour de ton coeur s'appelle d'un beau nom :</p>
+		<p type="v">La liberté ! - Qu'importe au fils de la montagne</p>
+		<p type="v">Pour quel despote obscur envoyé d'Allemagne</p>
+		<p type="v">L'homme de la prairie écorche le sillon ?</p>
+		<p type="v">Ce n'est pas son métier de traîner la charrue ;</p>
+		<p type="v">Il couche sur la neige, il soupe quand il tue ;</p>
+		<p type="v">Il vit dans l'air du ciel, qui n'appartient qu'à Dieu.</p>
+		<p type="v">- L'air du ciel ! L'air de tous ! Vierge comme le feu !</p>
+		<p type="v">Oui, la liberté meurt sur le fumier des villes.</p>
+		<p type="v">Oui, vous qui la plantez sur vos guerres civiles,</p>
+		<p type="v">Vous la semez en vain, même sur vos tombeaux ;</p>
+		<p type="v">Il ne croît pas si bas, cet arbre aux verts rameaux.</p>
+		<p type="v">Il meurt dans l'air humain, plein de râles immondes,</p>
+		<p type="v">Il respire celui que respirent les mondes.</p>
+		<p type="v">Montez, voilà l'échelle, et Dieu qui tend les bras.</p>
+		<p type="v">Montez à lui, rêveurs, il ne descendra pas !</p>
+		<p type="v">Prenez-moi la sandale, et la pique ferrée :</p>
+		<p type="v">Elle est là sur les monts, la liberté sacrée.</p>
+		<p type="v">C'est là qu'à chaque pas l'homme la voit venir,</p>
+		<p type="v">Ou, s'il l'a dans le coeur, qu'il l'y sent tressaillir.</p>
+		<p type="v">Tyrol, nul barde encor n'a chanté tes contrées.</p>
+		<p type="v">Il faut des citronniers à nos muses dorées,</p>
+		<p type="v">Et tu n'es pas banal, toi dont la pauvreté</p>
+		<p type="v">Tend une maigre main à l'hospitalité.</p>
+		<p type="v">- Pauvre hôtesse, ouvre-moi ! Tu vaux bien l'Italie,</p>
+		<p type="v">Messaline en haillons, sous les baisers pâlie,</p>
+		<p type="v">Que tout père à son fils paye à sa puberté.</p>
+		<p type="v">Moi, je te trouve vierge, et c'est une beauté ;</p>
+		<p type="v">C'est la mienne ; - il me faut, pour que ma soif s'étanche,</p>
+		<p type="v">Que le flot soit sans tache, et clair comme un miroir.</p>
+		<p type="v">Ce sont les chiens errants qui vont à l'abreuvoir.</p>
+		<p type="v">Je t'aime. - Ils ne t'ont pas levé ta robe blanche.</p>
+		<p type="v">Tu n'as pas, comme Naples, un tas de visiteurs,</p>
+		<p type="v">Et des ciceroni pour tes entremetteurs.</p>
+		<p type="v">La neige tombe en paix sur tes épaules nues. - </p>
+		<p type="v">Je t'aime, sois à moi. Quand la virginité</p>
+		<p type="v">Disparaîtra du ciel, j'aimerai des statues.</p>
+		<p type="v">Le marbre me va mieux que l'impure Phryné</p>
+		<p type="v">Chez qui les affamés vont chercher leur pâture,</p>
+		<p type="v">Qui fait passer la rue au travers de son lit,</p>
+		<p type="v">Et qui n'a pas le temps de nouer sa ceinture</p>
+		<p type="v">Entre l'amant du jour et celui de la nuit.</p>
+	</div>
+
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE CHASSEUR FRANK" sex="1" type="H" statut="chasseur" age="A" stat_amour="">LE CHASSEUR FRANK</role>.</castItem>
+			<castItem><role id="LE PALATIN STRANIO" sex="1" type="H" statut="palatin" age="A" stat_amour="">LE PALATIN STRANIO</role>.</castItem>
+			<castItem><role id="LE CHEVALIER GUNTHER" sex="1" type="H" statut="chevalier" age="A" stat_amour="">LE CHEVALIER GUNTHER</role>.</castItem>
+			<castItem><role id="UN LIEUTENANT DE FRANK" sex="1" type="H" statut="lieutenant" age="A" stat_amour="">UN LIEUTENANT DE FRANK</role>.</castItem>
+			<castItem><role id="MONTAGNARDS CHEVALIERS" sex="1" type="H" statut="chavalier" age="A" stat_amour="">MONTAGNARDS CHEVALIERS</role>.</castItem>[a-z
+			<castItem><role id="MOINES" sex="1" type="H" statut="moise" age="A" stat_amour="">MOINES</role>.</castItem>
+			<castItem><role id="PEUPLE" sex="1" type="H" statut="peuple" age="A" stat_amour="">PEUPLE</role>.</castItem>
+			<castItem><role id="MONNA BELCOLORE" sex="2" type="H" statut="" age="A" stat_amour="">MONNA BELCOLORE</role>.</castItem>
+			<castItem><role id="DÉIDAMIA" sex="2" type="H" statut="" age="A" stat_amour="">DÉIDAMIA</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">Costumes du temps de Louis XVI.</set>
+		<note>Texte issu de "OEuvres d'Alfred de Musset/ ornées de dessins de M. Bida gravés en taille-douce par les premiers artistes)", Paris Charpentier Editeur, 1867.- pp. 325-404</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Les Chasseurs, Frank.
+</stage>
+<stage type="decor/frire">Une place publique. - Un grand feu allumé au milieu. </stage>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="1">Pâle comme l'amour, et de pleurs arrosée,</l>
+	<l id="2">La nuit aux pieds d'argent descend dans la rosée.</l>
+	<l id="3">Le brouillard monte au ciel, et le soleil s'enfuit.</l>
+	<l id="4">Éveillons le plaisir, son aurore est la nuit !</l>
+	<l id="5">Diane a protégé notre course lointaine.</l>
+	<l id="6">Chargés d'un lourd butin, nous marchons avec peine ;</l>
+	<l id="7">Amis, reposons-nous ; - déjà, le verre en main,</l>
+	<l id="8">Nos frères sous ce toit commencent leur festin.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="9">Moi, je n'ai rien tué ; - la ronce et la bruyère</l>
+	<l id="10">Ont déchiré mes mains ; - mon chien, sur la poussière,</l>
+	<l id="11">A léché dans mon sang la trace de mes pas.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="12">Ami, les jours entre eux ne se ressemblent pas.</l>
+	<l id="13">Approche, et viens grossir notre joyeuse troupe.</l>
+	<l id="14">L'amitié, camarade, est semblable à la coupe</l>
+	<l id="15">Qui passe, au coin du feu, de la main à la main.</l>
+	<l id="16">L'un y boit son bonheur, et l'autre sa misère ;</l>
+	<l id="17">Le ciel a mis l'oubli pour tous au fond du verre ;</l>
+	<l id="18">Je suis heureux ce soir, tu le seras demain.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="19">Mes malheurs sont à moi, je ne prends pas les vôtres.</l>
+	<l id="20">Je ne sais pas encor vivre aux dépens des autres ;</l>
+	<l id="21">J'attendrai pour cela qu'on m'ait coupé les mains.</l>
+	<l id="22">Je ne ferai jamais qu'un maigre parasite,</l>
+	<l id="23">Car ce n'est qu'un long jeûne et qu'une faim maudite</l>
+	<l id="24">Qui me feront courir à l'odeur des festins.</l>
+	<l id="25">Je tire mieux que vous, et j'ai meilleure vue.</l>
+	<l id="26">Pourquoi ne vois-je rien ? voilà la question.</l>
+	<l id="27">Suis-je un épouvantail ? - ou bien l'occasion,</l>
+	<l id="28">Cette prostituée, est-elle devenue</l>
+	<l id="29">Si boiteuse et si chauve, à force de courir,</l>
+	<l id="30">Qu'on ne puisse à la nuque une fois la saisir ?</l>
+	<l id="31">J'ai cherché comme vous le chevreuil dans la plaine, - </l>
+	<l id="32">Mon voisin l'a tué, mais je ne l'ai pas vu.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="33">Et si c'est ton voisin, pourquoi le maudis-tu ?</l>
+	<l id="34">C'est la communauté qui fait la force humaine.</l>
+	<l id="35">Frank, n'irrite pas Dieu, - le roseau doit plier.</l>
+	<l id="36">L'homme sans patience est la lampe sans huile,</l>
+	<l id="37">Et l'orgueil en colère est mauvais conseiller.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="38">Votre communauté me soulève la bile.</l>
+	<l id="39">Je n'en suis pas encore à mendier mon pain.</l>
+	<l id="40">Mordieu, voilà de l'or, messieurs, j'ai de quoi vivre.</l>
+	<l id="41">S'il plaît à l'ennemi des hommes de me suivre,</l>
+	<l id="42">Il peut s'attendre encore à faire du chemin.</l>
+	<l id="43">Il faut être bâtard pour coudre sa misère</l>
+	<l id="44">Aux misères d'autrui. - Suis-je un esclave ou non ?</l>
+	<l id="45">Le pacte_social n'est pas de ma façon :</l>
+	<l id="46">Je ne l'ai pas signé dans le sein de ma mère.</l>
+	<l id="47">Si les autres ont peu, pourquoi n'aurais-je rien ?</l>
+	<l id="48">Vous qui parlez de Dieu, vous blasphémez le mien.</l>
+	<l id="49">Tout nous vient de l'orgueil, même la patience.</l>
+	<l id="50">L'orgueil, c'est la pudeur des femmes, la constance</l>
+	<l id="51">Du soldat dans le rang, du martyr sur la croix.</l>
+	<l id="52">L'orgueil, c'est la vertu, l'honneur et le génie,</l>
+	<l id="53">C'est ce qui reste encor d'un peu beau dans la vie,</l>
+	<l id="54">La probité du pauvre et la grandeur des rois.</l>
+	<l id="55">Je voudrais bien savoir, nous tous tant que nous sommes,</l>
+	<l id="56">Et moi tout le premier, à quoi nous sommes bons ?</l>
+	<l id="57">Voyez-vous ce ciel pâle, au delà de ces monts ?</l>
+	<l id="58">Là, du soir au matin, fument autour des hommes</l>
+	<l id="59">Ces vastes alambics qu'on nomme les cités.</l>
+	<l id="60">Intrigues, passions, périls et voluptés,</l>
+	<l id="61">Toute la vie est là, - tout en sort, tout y rentre.</l>
+	<l id="62">Tout se disperse ailleurs, et là tout se concentre.</l>
+	<l id="63">L'homme y presse ses jours pour en boire le vin,</l>
+	<l id="64">Comme le vigneron presse et tord son raisin.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="65">Frank, une ambition terrible te dévore.</l>
+	<l id="66">Ta pauvreté superbe elle-même s'abhorre ;</l>
+	<l id="67">Tu te hais, vagabond, dans ton orgueil de roi,</l>
+	<l id="68">Et tu hais ton voisin d'être semblable à toi.</l>
+	<l id="69">Parle, aimes-tu ton père ? aimes-tu ta patrie ?</l>
+	<l id="70">Au souffle du matin sens-tu ton coeur frémir,</l>
+	<l id="71">Et t'agenouilles-tu lorsque tu vas dormir ?</l>
+	<l id="72">De quel sang es-tu fait, pour marcher dans la vie</l>
+	<l id="73">Comme un homme de bronze, et pour que l'amitié,</l>
+	<l id="74">L'amour, la confiance et la douce pitié</l>
+	<l id="75">Viennent toujours glisser sur ton être insensible,</l>
+	<l id="76">Comme des gouttes d'eau sur un marbre poli ?</l>
+	<l id="77">Ah ! Celui-là vit mal qui ne vit que pour lui.</l>
+	<l id="78">L'âme, rayon du ciel, prisonnière invisible,</l>
+	<l id="79">Souffre dans son cachot de sanglantes douleurs.</l>
+	<l id="80">Du fond de son exil elle cherche ses soeurs ;</l>
+	<l id="81">Et les pleurs et les chants sont les voix éternelles</l>
+	<l id="82">De ces filles de Dieu qui s'appellent entre elles.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="83">Chantez donc, et pleurez, si c'est votre souci.</l>
+	<l id="84">Ma malédiction n'est pas bien redoutable ;</l>
+	<l id="85">Telle qu'elle est pourtant je vous la donne ici.</l>
+	<l id="86">Nous allons boire un toast, en nous mettant à table,</l>
+	<l id="87" syll="6" part="i">Et je vais le porter :</l>
+<stage type="get/drink">Prenant un verre.</stage>
+	<l id="87" syll="6" part="f">Malheur aux nouveau-nés !</l>
+	<l id="88">Maudit soit le travail ! Maudite l'espérance !</l>
+	<l id="89">Malheur au coin de terre où germe la semence,</l>
+	<l id="90">Où tombe la sueur de deux bras décharnés !</l>
+	<l id="91">Maudits soient les liens du sang et de la vie !</l>
+	<l id="92">Maudite la famille et la société !</l>
+	<l id="93">Malheur à la maison, malheur à la cité,</l>
+	<l id="94">Et malédiction sur la mère patrie !</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>UN AUTRE CHOEUR</speaker><stage type="exit/location">, sortant d'une maison.
+	</stage>
+	<l id="95">Qui parle ainsi ? qui vient jeter sur notre toit,</l>
+	<l id="96">À cette heure de nuit, ces clameurs monstrueuses,</l>
+	<l id="97">Et nous sonner ainsi les trompettes hideuses</l>
+	<l id="98">Des malédictions ? - Frank, réponds, est-ce toi ?</l>
+	<l id="99">Ce n'est pas d'aujourd'hui que je connais ta vie.</l>
+	<l id="100">Tu n'es qu'un paresseux plein d'orgueil et d'envie.</l>
+	<l id="101">Mais de quel droit viens-tu troubler des gens de bien ?</l>
+	<l id="102">Tu hais notre métier, Judas ! Et nous, le tien.</l>
+	<l id="103">Que ne vas-tu courir et tenter la fortune,</l>
+	<l id="104">Si le toit de ton père est trop bas pour ton front ?</l>
+	<l id="105">Ton orgueil est scellé comme un cercueil de plomb.</l>
+	<l id="106">Tu crois punir le ciel en lui gardant rancune ;</l>
+	<l id="107">Et tout ce que tu peux, c'est de raidir tes bras</l>
+	<l id="108">Pour blasphémer un Dieu qui ne t'aperçoit pas.</l>
+	<l id="109">Travailles-tu pour vivre, et pour t'aider toi-même ?</l>
+	<l id="110">Ne te souviens-tu pas que l'ange du blasphème</l>
+	<l id="111">Est de tous les déchus le plus audacieux,</l>
+	<l id="112">Et qu'avant de maudire il est tombé des cieux ?</l>
+</sp>
+<sp who="CHASSEURS"><speaker>TOUS LES CHASSEURS.</speaker>
+	<l id="113">Pourquoi refuses-tu ta place à notre table ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="toward">, à l'un d'eux.
+	</stage>
+	<l id="114">Hélas ! Noble seigneur, soyez-moi charitable !</l>
+	<l id="115">Un denier, s'il vous plaît, j'ai bien soif et bien faim.</l>
+	<l id="116">Rien qu'un pauvre denier pour m'acheter du pain.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="117">Te fais-tu le bouffon de ta propre détresse ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="118">Seigneur, si vous avez une belle maîtresse,</l>
+	<l id="119">Je puis la célébrer, et chanter tour à tour</l>
+	<l id="120">La médiocrité, l'innocence et l'amour.</l>
+	<l id="121">C'est bien le moins qu'un pauvre égaye un peu son hôte.</l>
+	<l id="122">S'il est pauvre, après tout, s'il a faim, c'est sa faute.</l>
+	<l id="123">Mais croyez-vous qu'il soit prudent et généreux</l>
+	<l id="124">De jeter des pavés sur l'homme qui se noie ?</l>
+	<l id="125">Il ne faut pas pousser à bout les malheureux.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="126">À quel sombre démon ton âme est-elle en proie ?</l>
+	<l id="127">Tu railles tristement et misérablement.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="128">Car si ces malheureux ont quelque orgueil dans l'âme,</l>
+	<l id="129">S'ils ne sont pas pétris d'une argile de femme,</l>
+	<l id="130">S'ils ont un coeur, s'ils ont des bras, ou seulement</l>
+	<l id="131">S'ils portent par hasard une arme à la ceinture...</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="132">Que veut dire ceci ? veux-tu nous provoquer ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="133">Un poignard peut se tordre, et le coup peut manquer.</l>
+	<l id="134">Mais si, las de lui-même et de sa vie obscure,</l>
+	<l id="135">Le pauvre qu'on insulte allait prendre un tison,</l>
+	<l id="136">Et le porter en feu dans sa propre maison !</l>
+<stage type="get/fire/throw">Il prend une bûche embrasée dans le feu allumé sur la place, et la jette dans sa chaumière.</stage>
+	<l id="137">Sa maison est à lui, - c'est le toit de son père,</l>
+	<l id="138">C'est son toit, - c'est son bien, le tombeau solitaire</l>
+	<l id="139">Des rêves de ses jours, des larmes de ses nuits ;</l>
+	<l id="140">Le feu doit y rester, si c'est lui qui l'a mis.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="141">Agis-tu dans la fièvre ? Arrête, incendiaire.</l>
+	<l id="142">Veux-tu du même coup brûler la ville entière ?</l>
+	<l id="143">Arrête ! - Où nos enfants dormiront-ils demain ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="144">Me voici sur le seuil, mon épée à la main.</l>
+	<l id="145">Approchez maintenant, fussiez-vous une armée.</l>
+	<l id="146">Quand l'univers devrait s'en aller en fumée,</l>
+	<l id="147">Tonnerre et sang ! Je fais un spectre du premier</l>
+	<l id="148">Qui jette un verre d'eau sur un brin de fumier.</l>
+	<l id="149">Ah ! Vous croyez, messieurs, si je vous importune,</l>
+	<l id="150">Qu'on peut impunément me chasser comme un chien ?</l>
+	<l id="151">Ne m'avez-vous pas dit d'aller chercher fortune ?</l>
+	<l id="152">J'y vais. - Vous l'avez dit, vous qui n'en feriez rien ;</l>
+	<l id="153">Moi, je le fais, - je pars. - J'illumine la ville.</l>
+	<l id="154">J'en aurai le plaisir, en m'en allant ce soir,</l>
+	<l id="155">De la voir de plus loin, s'il me plaît de la voir.</l>
+	<l id="156">Je ne fais pas ici de folie inutile :</l>
+	<l id="157">Ceux qui m'ont accusé de paresse et d'orgueil</l>
+	<l id="158">Ont dit la vérité. - Tant que cette chaumière</l>
+	<l id="159">Demeurera debout, ce sera mon cercueil.</l>
+	<l id="160">Ce petit toit, messieurs, ces quatre murs de pierre,</l>
+	<l id="161">C'était mon patrimoine, et c'est assez longtemps</l>
+	<l id="162">Pour aimer son fumier, que d'y dormir vingt ans.</l>
+	<l id="163">Je le brûle, et je pars ; - c'est moi, c'est mon fantôme</l>
+	<l id="164">Que je disperse aux vents avec ce toit_de_chaume.</l>
+	<l id="165">Maintenant, vents du nord, vous n'avez qu'à souffler ;</l>
+	<l id="166">Depuis assez longtemps, dans les nuits de tempête,</l>
+	<l id="167">Vous venez ébranler ma porte et m'appeler.</l>
+	<l id="168">Frères, je viens à vous, - je vous livre ma tête.</l>
+	<l id="169">Je pars, - et désormais que Dieu montre à mes pas</l>
+	<l id="170">Leur route, - ou le hasard, si Dieu n'existe pas !</l>
+<stage type="exit">Il sort en courant.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<stage type="decor/entrance">Une plaine. Frank rencontre une jeune fille.</stage>
+<sp who="LA JEUNE FILLE"><speaker>LA JEUNE FILLE.</speaker>
+	<l id="171">Bonsoir, Frank, où vas-tu ? La plaine est solitaire.</l>
+	<l id="172">Qu'as-tu fait de tes chiens, imprudent montagnard ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="173">Bonsoir, Déidamia, qu'as-tu fait de ta mère ?</l>
+	<l id="174">Prudente jeune fille, où t'en vas-tu si tard ?</l>
+</sp>
+<sp who="LA JEUNE FILLE"><speaker>LA JEUNE FILLE.</speaker>
+	<l id="175">J'ai cueilli sur ma route un bouquet d'églantine ;</l>
+	<l id="176">Le voilà, si tu veux, pour te porter bonheur.</l>
+<stage type="throw">Elle lui jette son bouquet.</stage>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="alone/get">, seul, ramassant le bouquet.
+	</stage>
+	<l id="177">Comme elle court gaîment ! Sa mère est ma voisine ;</l>
+	<l id="178">J'ai vu cette enfant-là grandir et se former.</l>
+	<l id="179">Pauvre, innocente fille ! Elle aurait pu m'aimer.</l>
+<stage type="exit">Exit.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<stage type="decor/light">Un chemin creux dans la forêt. - Le point du jour.</stage>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="sit/location">, assis sur l'herbe.
+	</stage>
+	<l id="180">Et quand tout sera dit, - quand la triste demeure</l>
+	<l id="181">De ce malheureux Frank, de ce vil mendiant,</l>
+	<l id="182">Sera tombée en poudre et dispersée au vent,</l>
+	<l id="183">Lui, que deviendra-t-il ? - Il sera temps qu'il meure !</l>
+	<l id="184">Et s'il est jeune encor, s'il ne veut pas mourir ?</l>
+	<l id="185">Ah ! Massacre et malheur ! Que vais-je devenir ?</l>
+<stage type="sleep">Il s'endort.</stage>
+</sp>
+<sp who="LA VOIX"><speaker>UNE VOIX</speaker><stage type="location">, dans un songe.
+	</stage>
+	<l id="186">Il est deux routes dans la vie :</l>
+	<l id="187">L'une solitaire et fleurie,</l>
+	<l id="188">Qui descend sa pente chérie</l>
+	<l id="189">Sans se plaindre et sans soupirer.</l>
+	<l id="190">Le passant la remarque à peine,</l>
+	<l id="191">Comme le ruisseau de la plaine,</l>
+	<l id="192">Que le sable de la fontaine</l>
+	<l id="193">Ne fait pas même murmurer.</l>
+	<l id="194">L'autre, comme un torrent sans digue,</l>
+	<l id="195">Dans une éternelle fatigue,</l>
+	<l id="196">Sous les pieds de l'enfant prodigue</l>
+	<l id="197">Roule la pierre d'Ixion.</l>
+	<l id="198">L'une est bornée et l'autre immense ;</l>
+	<l id="199">L'une meurt où l'autre commence ;</l>
+	<l id="200">La première est la patience,</l>
+	<l id="201">La seconde est l'ambition.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="dream">, rêvant.
+	</stage>
+	<l id="202">Esprits ! Si vous venez m'annoncer ma ruine,</l>
+	<l id="203">Pourquoi le Dieu qui me créa</l>
+	<l id="204">Fit-il, en m'animant, tomber sur ma poitrine</l>
+	<l id="205">L'étincelle divine</l>
+	<l id="206">Qui me consumera ?</l>
+	<l id="207">Pourquoi suis-je le feu qu'un salamandre habite ?</l>
+	<l id="208">Pourquoi sens-je mon coeur se plaindre et s'étonner,</l>
+	<l id="209">Ne pouvant contenir ce rayon qui s'agite,</l>
+	<l id="210">Et qui, venu du ciel, y voudrait retourner ?</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="211">Ceux dont l'ambition a dévoré la vie,</l>
+	<l id="212">Et qui sur cette terre ont cherché la grandeur,</l>
+	<l id="213">Ceux-là, dans leur orgueil, se sont fait un honneur</l>
+	<l id="214">De mépriser l'amour et sa douce folie.</l>
+	<l id="215">Ceux qui, loin des regards, sans plainte et sans désirs,</l>
+	<l id="216">Sont morts silencieux sur le corps d'une femme,</l>
+	<l id="217">Ô jeune montagnard, ceux-là, du fond de l'âme,</l>
+	<l id="218">Ont méprisé la gloire et ses tristes plaisirs.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="219">Vous parlez de grandeur, et vous parlez de gloire.</l>
+	<l id="220">Aurai-je des trésors ? l'homme dans sa mémoire</l>
+	<l id="221">Gardera-t-il mon souvenir ?</l>
+	<l id="222">Répondez, répondez, avant que je m'éveille.</l>
+	<l id="223">Déroulez-moi ce qui sommeille</l>
+	<l id="224">Dans l'océan de l'avenir !</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="225">Voici l'heure où, le coeur libre d'inquiétude,</l>
+	<l id="226">Tu te levais jadis pour reprendre l'étude,</l>
+	<l id="227">Tes pensers de la veille et tes travaux du jour.</l>
+	<l id="228">Seul, poursuivant tout bas tes chimères d'amour,</l>
+	<l id="229">Tu gagnais lentement la maison solitaire</l>
+	<l id="230">Où ta Déidamia veillait près de sa mère.</l>
+	<l id="231">Frank, tu venais t'asseoir au paisible foyer,</l>
+	<l id="232">Raconter tes chagrins, sinon les oublier.</l>
+	<l id="233">Tous deux sans espérance, et dans la solitude,</l>
+	<l id="234">Enfants, vous vous aimiez, et bientôt l'habitude</l>
+	<l id="235">Tous les jours, malgré toi, t'enseigna ce chemin ;</l>
+	<l id="236">Car l'habitude est tout au pauvre coeur humain.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="237">Esprits, il est trop tard, j'ai brûlé ma chaumière !</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="238" syll="6" part="i">Repens-toi ! Repens-toi !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="238" syll="6" part="f">Non ! Non ! J'ai tout perdu.</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="239" syll="6" part="i">Repens-toi ! Repens-toi !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="239" syll="6" part="f">Non ! J'ai maudit mon père.</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="240">Alors, lève-toi donc, car ton jour est venu.</l>
+<stage type="light/awake">Le soleil paraît ; Frank s'éveille ; Stranio, jeune palatin, et sa maîtresse, Monna Belcolore, passent à cheval.</stage>
+</sp>
+<sp who="STRANIO"><speaker>STRANIO.</speaker>
+	<l id="241">Holà ! Dérange-toi, manant, pour que je passe.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="242">Attends que je me lève, et prends garde à tes pas.</l>
+</sp>
+<sp who="STRANIO"><speaker>STRANIO.</speaker>
+	<l id="243">Chien, lève-toi plus vite, ou reste sur la place.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="244">Tout beau, l'homme à cheval, tu ne passeras pas.</l>
+	<l id="245">Dégaine-moi ton sabre, ou c'est fait de ta vie.</l>
+	<l id="246" syll="6" part="i">Allons, pare ceci.</l>
+<stage type="fight/fall">Ils se battent. Stranio tombe.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="246" syll="6" part="f">Comment t'appelles-tu ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="247" syll="3" part="i">Charles Frank.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="247" syll="9" part="f">Tu me plais, et tu t'es bien battu.</l>
+	<l id="248" syll="3" part="i">Ton pays ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="248" syll="3" part="m">Le Tyrol.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="248" syll="6" part="f">Me trouves-tu jolie ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="249" syll="6" part="i">Belle comme un soleil.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="249" syll="6" part="f">J'ai dix-huit ans, - et toi ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="250" syll="2" part="i">Vingt ans.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="250" syll="10" part="f">Monte à cheval, et viens souper chez moi.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<stage type="decor">Un salon.</stage>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="location">, devant une table chargée d'or.
+	</stage>
+	<l id="251">De tous les fils secrets qui font mouvoir la vie,</l>
+	<l id="252">Ô toi, le plus subtil et le plus merveilleux !</l>
+	<l id="253">Or ! Principe de tout, larme au soleil ravie !</l>
+	<l id="254">Seul dieu toujours vivant, parmi tant de faux dieux !</l>
+	<l id="255">Méduse, dont l'aspect change le coeur en pierre,</l>
+<note type="L">Rosière : Jeune fille qui, dans un village, obtient la rose destinée à être le prix de la sagesse. [L]</note>
+	<l id="256">Et fait tomber en poudre aux pieds de la rosière</l>
+	<l id="257">La robe d'innocence et de virginité ! - </l>
+	<l id="258">Sublime corrupteur ! - Clef de la volonté ! - </l>
+	<l id="259">Laisse-moi t'admirer ! - Parle-moi, - viens me dire</l>
+	<l id="260">Que l'honneur n'est qu'un mot, que la vertu n'est rien ;</l>
+	<l id="261">Que, dès qu'on te possède, on est homme de bien ;</l>
+	<l id="262">Que rien n'est vrai que toi ! - Qu'un esprit en délire</l>
+	<l id="263">Ne saurait inventer de rêves si hardis,</l>
+	<l id="264">Si monstrueusement en dehors du possible,</l>
+	<l id="265">Que tu ne puisse encor sur ton levier terrible</l>
+	<l id="266">Soulever l'univers, pour qu'ils soient accomplis !</l>
+	<l id="267">- Que de gens cependant n'ont jamais vu qu'en songe</l>
+	<l id="268">Ce que j'ai devant moi ! - Comme le coeur se plonge</l>
+	<l id="269">Avec ravissement dans un monceau pareil ! - </l>
+	<l id="270">Tout cela, c'est à moi ; - les sphères et les mondes</l>
+	<l id="271">Danseront un millier de valses et de rondes,</l>
+	<l id="272">Avant qu'un coup semblable ait lieu sous le soleil.</l>
+	<l id="273">Ah ! Mon coeur est noyé ! - Je commence à comprendre</l>
+	<l id="274">Ce qui fait qu'un mourant que le frisson va prendre</l>
+	<l id="275">À regarder son or trouve encor des douceurs,</l>
+	<l id="276">Et pourquoi les vieillards se font enfouisseurs.</l>
+<stage type="count">Comptant.</stage>
+	<l id="277">Quinze mille en argent, - le reste en signature.</l>
+	<l id="278">C'est un coup du destin. - Quelle étrange aventure !</l>
+	<l id="279">Que ferais-je aujourd'hui, qu'aurais-je fait demain,</l>
+	<l id="280">Si je n'avais trouvé Stranio sur mon chemin ?</l>
+	<l id="281">Je tue un grand seigneur, et lui prends sa maîtresse :</l>
+	<l id="282">Je m'enivre chez elle, et l'on me mène au jeu.</l>
+	<l id="283">À_jeun, j'aurais perdu, - je gagne dans l'ivresse ;</l>
+	<l id="284">Je gagne et je me lève. - Ah ! C'est un coup de Dieu.</l>
+<stage type="open/furniture">Il ouvre la fenêtre.</stage>
+	<l id="285">Je voudrais bien me voir passer sous ma fenêtre</l>
+	<l id="286">Tel que j'étais hier. - Moi, Frank, seigneur et maître</l>
+	<l id="287">De ce vaste logis, possesseur d'un trésor,</l>
+	<l id="288">Voir passer là-dessous Frank le coureur_de_lièvres,</l>
+	<l id="289">Frank le pauvre, l'oeil morne et la faim sur les lèvres,</l>
+	<l id="290">Le voir tendre la main et lui jeter cet or.</l>
+	<l id="291">Tiens, Frank, tiens, mendiant, prends cela, pauvre hère.</l>
+<stage type="get">Il prend une poignée d'or.</stage>
+	<l id="292">Il me semble en honneur que le ciel et la terre</l>
+	<l id="293">Ne sauraient plus m'offrir que ce qui me convient,</l>
+	<l id="294">Et que depuis hier le monde m'appartient.</l>
+<stage type="exit">Exit.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head> 
+<stage type="location">Une route. - Montagnards, passant.</stage>
+<sp who="CHASSEURS"><speaker>CHANSON DE CHASSE</speaker><stage type="location">, dans le lointain.
+	</stage>
+	<l id="295">Chasseur, hardi chasseur, que vois-tu dans l'espace ?</l>
+	<l id="296">Mes chiens grattent la terre et cherchent une trace.</l>
+	<l id="297">Debout, mes cavaliers ! C'est le pied du chamois. - </l>
+	<l id="298">Le chamois s'est levé. - Que ma maîtresse est belle ! - </l>
+	<l id="299">Le chamois tremble et fuit. - Que Dieu veille sur elle ! - </l>
+	<l id="300">Le chamois rompt la meute et s'enfuit dans le bois. - </l>
+	<l id="301">Je voudrais par la main tenir ma belle amie. - </l>
+	<l id="302">La meute et le chamois traversent la prairie :</l>
+	<l id="303">Hallali, compagnons, la victoire est à nous ! - </l>
+	<l id="304">Que ma maîtresse est belle, et que ses yeux sont doux !</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="305">Amis, dans ce palais, sur la place où nous sommes,</l>
+	<l id="306">Respire le premier et le dernier des hommes,</l>
+	<l id="307">Frank, qui vécut vingt ans comme un hardi chasseur.</l>
+	<l id="308">Aujourd'hui dans les fers d'une prostituée,</l>
+	<l id="309">Que fait-il ? - Nuit et jour cette enceinte est fermée.</l>
+	<l id="310">La solitude y règne, image de la mort.</l>
+	<l id="311">Quelquefois seulement, quand la nuit est venue,</l>
+	<l id="312">On voit à la fenêtre une femme inconnue</l>
+	<l id="313">Livrer ses cheveux noirs aux vents affreux du nord.</l>
+	<l id="314">Frank n'est plus ! Sur les monts nul ne l'a vu paraître.</l>
+	<l id="315">Puisse-t-il s'éveiller ! - Puisse-t-il reconnaître</l>
+	<l id="316">La Voix des temps passés ! - Frères, pleurons sur lui.</l>
+	<l id="317">Charles ne viendra plus, au joyeux hallali,</l>
+	<l id="318">Entouré de ses chiens sur les herbes sanglantes,</l>
+	<l id="319">Découdre, les bras nus, les biches expirantes,</l>
+	<l id="320">S'asseoir au rendez-vous, et boire dans ses mains</l>
+	<l id="321">La neige des glaciers, vierge de pas humains.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage type="sit"> Monna Belcolore, Frank, assis dans un kiosque.
+</stage>
+<stage id="light/">La nuit. - Une terrasse au bord d'un chemin. </stage>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="322">Dors, ô pâle jeune homme, épargne ta faiblesse.</l>
+	<l id="323">Pose jusqu'à demain ton coeur sur ta maîtresse ;</l>
+	<l id="324">La force t'abandonne, et le jour va venir.</l>
+	<l id="325">Carlo, tes beaux yeux bleus sont las, - tu vas dormir.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="326">Non, le jour ne vient pas, - non, je veille et je brûle !</l>
+	<l id="327">Ô Belcolore, le feu dans mes veines circule.</l>
+	<l id="328">Mon coeur languit d'amour, et si le temps s'enfuit,</l>
+	<l id="329">Que m'importe ce ciel, et son jour et sa nuit ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="330">Ah ! Carlo, mon Carlo, ta tête chancelante</l>
+	<l id="331">Va tomber dans mes mains, sur ta coupe brûlante.</l>
+	<l id="332">Tu t'endors, tu te meurs, tu t'enfuis loin de moi.</l>
+	<l id="333">Ah ! Lâche efféminé tu t'endors malgré toi.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="334">Oui, le jour va venir. - Ô ma belle maîtresse !</l>
+	<l id="335">Je me meurs ; oui, je suis sans force et sans jeunesse,</l>
+	<l id="336">Une ombre de moi-même, un reste, un vain reflet,</l>
+	<l id="337">Et quelquefois la nuit mon spectre m'apparaît.</l>
+	<l id="338">Mon_Dieu ! Si jeune hier, aujourd'hui je succombe.</l>
+	<l id="339">C'est toi qui m'as tué, ton beau corps est ma tombe.</l>
+	<l id="340">Mes baisers sur ta lèvre en ont usé le seuil.</l>
+	<l id="341">De tes longs cheveux noirs tu m'as fait un linceul.</l>
+	<l id="342">Éloigne ces flambeaux, - entr'ouvre la fenêtre.</l>
+	<l id="343">Laisse entrer le soleil, c'est mon dernier peut-être.</l>
+	<l id="344">Laisse-le-moi chercher, laisse-moi dire adieu</l>
+	<l id="345">À ce beau ciel si pur qu'il a fait croire en Dieu !</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="346">Pourquoi me gardes-tu, si c'est moi qui te tue,</l>
+	<l id="347">Et si tu te crois mort pour deux nuits de plaisir ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="348">Tous les amants heureux ont parlé de mourir.</l>
+	<l id="349">Toi, me tuer, mon_Dieu ! Du jour où je t'ai vue,</l>
+	<l id="350">Ma vie a commencé ; le reste n'était rien ;</l>
+	<l id="351">Et mon coeur n'a jamais battu que sur le tien.</l>
+	<l id="352">Tu m'as fait riche, heureux, tu m'as ouvert le monde.</l>
+	<l id="353">Regarde, ô mon amour ! Quelle superbe nuit !</l>
+	<l id="354">Devant de tels témoins, qu'importe ce qu'on dit,</l>
+	<l id="355">Pourvu que l'âme parle, et que l'âme réponde ?</l>
+	<l id="356">L'ange des nuits d'amour est un ange muet.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="357">Combien as-tu gagné ce soir au lansquenet ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="358">Qu'importe ? Je ne sais. - Je n'ai plus de mémoire.</l>
+	<l id="359">Voyons, - viens dans mes bras, - laisse-moi t'admirer. - </l>
+	<l id="360">Parle, réveille-moi, - conte-moi ton histoire.</l>
+	<l id="361">Quelle superbe nuit ! - Je suis prêt à pleurer.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="362">Si tu veux t'éveiller, dis-moi plutôt la tienne.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="363">Nous sommes trop heureux pour que je m'en souvienne.</l>
+	<l id="364">Que dirais-je, d'ailleurs ? Ce qui fait les récits,</l>
+	<l id="365">Ce sont des actions, des périls, dont l'empire</l>
+	<l id="366">Est vivace, et résiste à l'heure des oublis.</l>
+	<l id="367">Mais moi qui n'ai rien vu, rien fait, qu'ai-je à te dire ?</l>
+	<l id="368">L'histoire de ma vie est celle de mon coeur ;</l>
+	<l id="369">C'est un pays étrange où je fus voyageur.</l>
+	<l id="370">Ah ! Soutiens-moi le front, la force m'abandonne !</l>
+	<l id="371">Parle, parle, je veux t'entendre jusqu'au bout.</l>
+	<l id="372">Allons, un beau baiser, et c'est moi qui le donne,</l>
+	<l id="373">Un baiser pour ta vie et qu'on me dise tout.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE</speaker><stage type="sigh">, soupirant.
+	</stage>
+	<l id="374">Ah ! Je n'ai pas toujours vécu comme l'on pense.</l>
+	<l id="375">Ma famille était noble, et puissante à Florence.</l>
+	<l id="376">On nous a ruinés ; - ce n'est que le malheur</l>
+	<l id="377">Qui m'a forcée à vivre aux dépens de l'honneur...</l>
+	<l id="378" syll="6" part="i">Mon coeur n'était pas fait...</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="turn">, se détournant.
+	</stage>
+	<l id="378" syll="6" part="f">Toujours la même histoire !</l>
+	<l id="379">Voici peut-être ici la vingtième catin</l>
+	<l id="380">À qui je la demande, et toujours ce refrain !</l>
+	<l id="381">Qui donc ont-elles vu d'assez sot pour y croire ?</l>
+	<l id="382">Mon_Dieu ! Dans quel bourbier me suis-je donc jeté ?</l>
+	<l id="383">J'avais cru celle-ci plus forte, en vérité !</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="384" syll="6" part="i">Quand mon père mourut...</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="384" syll="6" part="f">Assez, je t'en supplie.</l>
+	<l id="385">Je me ferai conter le reste par Julie</l>
+	<l id="386">Au premier carrefour où je la trouverai.</l>
+	<l id="387">Tous deux restent en silence quelque temps.</l>
+	<l id="388">Dis-moi, ce fameux jour que tu m'as rencontré,</l>
+	<l id="389">Pourquoi, par quel hasard, - par quelle sympathie,</l>
+	<l id="390">T'es-tu de m'emmener senti la fantaisie ?</l>
+	<l id="391">J'étais couvert de sang, poudreux, et mal vêtu.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="392">Je te l'ai déjà dit, tu t'étais bien battu.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="393">Parlons sincèrement, je t'ai semblé robuste.</l>
+	<l id="394">Tes yeux, ma chère enfant, n'ont pas deviné juste.</l>
+	<l id="395">Je comprends qu'une femme aime les portefaix ;</l>
+	<l id="396">C'est un goût comme un autre, il est dans la nature.</l>
+	<l id="397">Mais moi, si j'étais femme, et si je les aimais,</l>
+	<l id="398">Je n'irais pas chercher mes gens à l'aventure ;</l>
+	<l id="399">J'irais tout simplement les prendre aux cabarets ;</l>
+	<l id="400">J'en ferais lutter six, et puis je choisirais.</l>
+	<l id="401">Encore un mot : cet homme à qui je t'ai volée</l>
+	<l id="402">T'entretenait sans doute, - il était ton amant.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="403" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="403" syll="11" part="f">- Cette affreuse mort ne t'a pas désolée ?</l>
+	<l id="404">Cet homme, il m'en souvient, râlait horriblement.</l>
+	<l id="405">L'oeil gauche était crevé, - le pommeau_de_l_épée</l>
+	<l id="406">Avait ouvert le front, - la gorge était coupée.</l>
+	<l id="407">Sous les pieds des chevaux l'homme était étendu.</l>
+	<l id="408">Comme un lierre arraché qui rampe et qui se traîne</l>
+	<l id="409">Pour se suspendre encore à l'écorce d'un chêne,</l>
+	<l id="410">Ainsi ce malheureux se traînait suspendu</l>
+	<l id="411">Aux restes de sa vie. - Et toi, ce meurtre infâme</l>
+	<l id="412">Ne t'a pas de dégoût levé le coeur et l'âme ?</l>
+	<l id="413">Tu n'as pas dit un mot, tu n'as pas fait un pas !</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="414">Prétends-tu me prouver que j'aie un coeur de pierre ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="415">Et ce que je te dis ne te le lève pas !</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="416">Je hais les mots grossiers - ce n'est pas ma manière.</l>
+	<l id="417">Mais quand il n'en faut qu'un, je n'en dis jamais deux.</l>
+	<l id="418" syll="6" part="i">Frank, tu ne m'aimes plus.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="418" syll="6" part="f">Qui ? moi ? Je vous adore.</l>
+	<l id="419">J'ai lu, je ne sais où, ma chère Belcolore,</l>
+	<l id="420">Que les plus doux instants pour deux amants heureux,</l>
+	<l id="421">Ce sont les entretiens d'une nuit d'insomnie,</l>
+	<l id="422">Pendant l'enivrement qui succède au plaisir.</l>
+	<l id="423">Quand les sens apaisés sont morts pour le désir ;</l>
+	<l id="424">Quand, la main à la main, et l'âme à l'âme unie,</l>
+	<l id="425">On ne fait plus qu'un être, et qu'on sent s'élever</l>
+	<l id="426">Ce parfum du bonheur qui fait longtemps rêver ;</l>
+	<l id="427">Quand l'amie, en prenant la place de l'amante,</l>
+	<l id="428">Laisse son bien-aimé regarder dans son coeur,</l>
+	<l id="429">Comme une fraîche source, où l'onde est confiante,</l>
+	<l id="430">Laisse sa pureté trahir sa profondeur.</l>
+	<l id="431">C'est alors qu'on connaît le prix de ce qu'on aime,</l>
+	<l id="432">Que du choix qu'on a fait on s'estime soi-même,</l>
+	<l id="433">Et que dans un doux songe on peut fermer les yeux !</l>
+	<l id="434">N'est-ce pas, Belcolore ? N'est-ce pas, mon amie ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="435" syll="3" part="i">Laisse-moi.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="435" syll="9" part="f">N'est-ce pas que nous sommes heureux ? - </l>
+	<l id="436">Mais, j'y pense ! - Il est temps de régler notre vie.</l>
+	<l id="437">Comme on ne peut compter sur les jeux de hasard,</l>
+	<l id="438">Nous piperons d'abord quelque honnête vieillard,</l>
+	<l id="439">Qui fournira le vin, les meubles et la table.</l>
+	<l id="440">Il gardera la nuit, et moi j'aurai le jour.</l>
+	<l id="441">Tu pourras bien parfois lui jouer quelque tour,</l>
+	<l id="442">J'entends quelque bon tour, adroit et profitable.</l>
+	<l id="443">Il aura des amis que nous pourrons griser ;</l>
+	<l id="444">Tu seras le chasseur, et moi, le lévrier.</l>
+	<l id="445">Avant tout, pour la chambre, une fille discrète,</l>
+	<l id="446">Capable de graisser une porte secrète,</l>
+	<l id="447">Mais nous la paierons bien ; aujourd'hui tout se vend.</l>
+	<l id="448">Quant à moi, je serai le chevalier servant.</l>
+	<l id="449">Nous ferons à nous deux la perle des ménages.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="450">Ou tu vas en finir avec tes persiflages,</l>
+	<l id="451">Ou je vais tout à l'heure en finir avec toi.</l>
+	<l id="452">Veux-tu faire la paix ? Je ne suis pas boudeuse,</l>
+	<l id="453" syll="6" part="i">Voyons, viens m'embrasser.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="453" syll="6" part="f">Cette fille est hideuse...</l>
+	<l id="454">Mon_Dieu, deux jours plus tard, c'en était fait de moi !</l>
+<stage type="push">Il va s'appuyer sur la terrasse ; un soldat passe à cheval sur la route.</stage>
+</sp>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT</speaker><stage type="sing">, chantant.
+	</stage>
+	<l id="455">Un soldat qui va son chemin</l>
+	<l id="456">Se raille du tonnerre.</l>
+	<l id="457">Il tient son sabre d'une main,</l>
+	<l id="458">Et de l'autre son verre.</l>
+	<l id="459">Quand il meurt, on le porte en terre</l>
+	<l id="460">Comme un seigneur.</l>
+	<l id="461">Son coeur est à son amie,</l>
+	<l id="462">Son bras est à sa patrie,</l>
+	<l id="463">Et sa tête à l'empereur.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="call">, l'appelant.
+	</stage>
+	<l id="464">Holà, l'ami ! Deux mots. - Vous semblez un compère</l>
+	<l id="465">De bonne contenance, et de joyeuse humeur.</l>
+	<l id="466">Vos braves compagnons vont-ils entrer en guerre ?</l>
+	<l id="467">Dans quelle place forte est donc votre empereur ?</l>
+</sp>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT</speaker><stage type="toward">, à Glurens.
+	</stage>
+	<l id="468">Dans deux jours nous serons en campagne.</l>
+	<l id="469">Je rejoins de ce pas ma corporation.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="470">Venez-vous de la plaine, ou bien de la montagne ?</l>
+	<l id="471">Connaissez-vous mon père, et savez-vous mon nom ?</l>
+</sp>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+	<l id="472">Oh ! Je vous connais bien. - Vous êtes du village</l>
+	<l id="473">Vis-à-vis le moulin. - Que faites-vous donc là ?</l>
+	<l id="474" syll="6" part="i">Venez-vous avec nous ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="474" syll="6" part="f">Oui, certes, et me voilà.</l>
+<stage type="down/location">Il descend dans le chemin.</stage>
+	<l id="475">Je ne me suis pas mis en habit de voyage ;</l>
+	<l id="476">Vous me prêterez bien un vieux sabre là-bas ?</l>
+<stage type="toward">À Belcolore.</stage>
+	<l id="477">Adieu, ma belle enfant, je ne souperai pas.</l>
+</sp>
+<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+	<l id="478">On vous équipera. - Montez toujours en croupe.</l>
+	<l id="479">Parbleu ! Compagnon Frank, vous manquiez à la troupe.</l>
+	<l id="480">Ah ! çà ! Dites-moi donc, tout en nous en allant,</l>
+	<l id="481" syll="6" part="i">S'il est vrai qu'un beau soir...</l>
+<stage type="exit/run">Ils partent au galop.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE</speaker><stage>, sur le balcon.
+	</stage>
+	<l id="481" syll="6" part="f">Je l'aime cependant.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>	
+<stage type="location">Devant un palais.</stage>
+<sp who="LES SOLDATS"><speaker>CHOEUR DE SOLDATS.</speaker>
+	<l id="482">Telles par l'ouragan les neiges flagellées</l>
+	<l id="483">Bondissent en sifflant des glaciers aux vallées ;</l>
+	<l id="484">Tels se sont élancés, au signal du combat,</l>
+	<l id="485">Les enfants du Tyrol et du Palatinat.</l>
+	<l id="486">Maintenant l'empereur a terminé la guerre.</l>
+	<l id="487">Les cantons sur leur porte ont plié leur bannière.</l>
+	<l id="488">Écoutez, écoutez : c'est l'adieu des clairons ;</l>
+	<l id="489">C'est la vieille Allemagne appelant ses barons.</l>
+	<l id="490">Remonte maintenant, chasseur du cerf timide !</l>
+	<l id="491">Remonte, fils du Rhin, compagnon intrépide ;</l>
+	<l id="492">Tes enfants sur ton coeur vont venir se presser.</l>
+	<l id="493">Sors de ta lourde armure, et va les embrasser.</l>
+	<l id="494">Soldats, arrêtons-nous. - C'est ici la demeure</l>
+	<l id="495">Du capitaine Frank, du plus grand des soldats.</l>
+	<l id="496">Notre vieil empereur l'a serré dans ses bras.</l>
+	<l id="497">Couronné par le peuple, il viendra tout à l'heure</l>
+	<l id="498">Souper dans ce palais avec ses compagnons.</l>
+	<l id="499">Jamais preux chevalier n'a mieux conquis sa gloire.</l>
+	<l id="500">Il a seul, près d'Innsbruck, emporté l'aigle noire,</l>
+	<l id="501">Du coeur de la mêlée aux bouches des canons.</l>
+	<l id="502">Vingt fois ses cuirassiers l'ont cru, dans la bataille,</l>
+	<l id="503">Coupé par les boulets, brisé par la mitraille.</l>
+	<l id="504">Il avançait toujours, - toujours en éclaireur,</l>
+	<l id="505">On le voyait du feu sortir comme un plongeur.</l>
+	<l id="506">Trois balles l'ont frappé ; sa trace était suivie ;</l>
+	<l id="507">Mais le dieu des hasards n'a voulu de sa vie</l>
+	<l id="508">Que ce qu'il en fallait pour gagner ses chevrons</l>
+	<l id="509">Et pouvoir de son sang dorer ses éperons.</l>
+	<l id="510">Mais que nous veut ici cette fille italienne,</l>
+	<l id="511">Les cheveux en désordre, et marchant à grands pas ?</l>
+	<l id="512">Où courez-vous si fort, femme ? On ne passe pas.</l>
+<stage type="entrance">Entre Belcolore.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="513">Est-ce ici la maison de votre capitaine ?</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="514">Oui. - Que lui voulez-vous ? - Parlez au lieutenant.</l>
+</sp>
+<sp who="LE LIEUTENANT"><speaker>LE LIEUTENANT.</speaker>
+	<l id="515">On ne peut ni passer ni monter, ma princesse.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="516">Il faut bien que je passe et que j'entre pourtant.</l>
+	<l id="517">Mon nom est Belcolore, et je suis sa maîtresse.</l>
+</sp>
+<sp who="LE LIEUTENANT"><speaker>LE LIEUTENANT.</speaker>
+	<l id="518">Parbleu ! Ma chère enfant, je vous reconnais bien.</l>
+	<l id="519">J'en suis au désespoir, mais je suis ma consigne.</l>
+	<l id="520">Si Frank est votre amant, tant mieux : je n'en crois rien.</l>
+	<l id="521">Ce serait un honneur dont vous n'êtes pas digne.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="522">S'il n'est pas mon amant, il le sera ce soir.</l>
+	<l id="523">Je l'aime ; comprends-tu ? Je l'aime. - Il m'a quittée,</l>
+	<l id="524">Et je viens le chercher, si tu veux le savoir.</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="525">Quelle tête de fer a donc cette effrontée,</l>
+	<l id="526">Qui court après les gens, un stylet à la main ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="527">Il me sert de flambeau pour m'ouvrir le chemin.</l>
+	<l id="528">Allons, écartez-vous, et montrez-moi la porte.</l>
+</sp>
+<sp who="LE LIEUTENANT"><speaker>LE LIEUTENANT.</speaker>
+	<l id="529">Puisque vous le voulez, ma belle, la voilà.</l>
+	<l id="530">Qu'elle entre, et qu'on lui donne un homme pour escorte.</l>
+	<l id="531">C'est un diable incarné que cette femme-là.</l>
+	<l id="532">Belcolore entre dans le palais. Entre Frank couronné, à cheval.</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>CHOEUR DU PEUPLE.</speaker>
+	<l id="533">Couvert de ces lauriers, il te sied, ô grand homme !</l>
+	<l id="534">De marcher parmi nous comme un triomphateur.</l>
+	<l id="535">La guerre est terminée, et l'empereur se nomme</l>
+	<l id="536">Ton royal débiteur.</l>
+	<l id="537">Descends, repose-toi. - Reste dans l'hippodrome,</l>
+	<l id="538">Lave tes pieds sanglants, victorieux lutteur.</l>
+<stage tppe="down">Frank descend de cheval.</stage>
+</sp>
+<sp who="LES CHEVALIERS"><speaker>CHOEUR DES CHEVALIERS.</speaker>
+	<l id="539">Homme heureux, jeune encor, tu récoltes la gloire,</l>
+	<l id="540">Cette plante tardive, amante des tombeaux.</l>
+	<l id="541">La terre qui t'a vu chasse de sa mémoire</l>
+	<l id="542">L'ombre de ses héros.</l>
+	<l id="543">Pareil à Béatrix au seuil du purgatoire,</l>
+	<l id="544">Tes ailes vont s'ouvrir vers des chemins nouveaux.</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+	<l id="545">Allons, que ce beau jour, levé sur une fête,</l>
+	<l id="546">Dans un joyeux banquet finisse dignement.</l>
+	<l id="547">Tes convives de fleurs ont couronné leur tête ;</l>
+	<l id="548">Ton vieux père t'attend.</l>
+	<l id="549">Que tardons-nous encore ? Allons, la table est prête.</l>
+	<l id="550">Entrons dans ton palais ; déjà la nuit descend.</l>
+<stage type="exit">Ils entrent dans le palais.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Frank, Gunther, restés seuls.
+</stage> Frank, Gunther, restés seuls.
+<sp who="GUNTHER"><speaker>GUNTHER.</speaker>
+	<l id="551">Ne les suivez-vous pas, seigneur, sous ce portique ?</l>
+	<l id="552">Ô mon maître ! Au milieu d'une fête publique,</l>
+	<l id="553">Qui d'un si juste coup frappe nos ennemis,</l>
+	<l id="554">Avez-vous distingué le coeur de vos amis ?</l>
+	<l id="555">Hélas ! Les vrais amis se taisent dans la foule ;</l>
+	<l id="556">Il leur faut, pour s'ouvrir, que ce vain flot s'écoule.</l>
+	<l id="557">Ô mon frère, ô mon maître, ils t'ont proclamé roi !</l>
+	<l id="558">Dieu merci, quoique vieux, je puis encor te suivre,</l>
+	<l id="559">Jeune soleil levant, si le ciel me fait vivre.</l>
+	<l id="560">Je ne suis qu'un soldat, Seigneur, excusez-moi.</l>
+	<l id="561">Mon amitié vous blesse et vous est importune.</l>
+	<l id="562">Ne partagez-vous point l'allégresse commune ?</l>
+	<l id="563">Qui vous arrête ici ? Vous devez être las.</l>
+	<l id="564">La peine et le danger font les joyeux repas.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker><stage>, dans la maison.
+	</stage>
+	<l id="565">Chantons, et faisons vacarme,</l>
+	<l id="566">Comme il convient à de dignes buveurs.</l>
+	<l id="567">Vivent ceux que le vin désarme !</l>
+	<l id="568">Les jours de combat ont leur charme ;</l>
+	<l id="569">Mais la paix a bien ses douceurs.</l>
+</sp>
+<sp who="GUNTHER"><speaker>GUNTHER.</speaker>
+	<l id="570">Seigneur, mon cher seigneur, pourquoi ces regards sombres ?</l>
+	<l id="571">Le vin coule et circule. - Entendez-vous ces chants ?</l>
+	<l id="572">Des convives joyeux je vois flotter les ombres</l>
+	<l id="573">Derrière ces vitraux de feux resplendissants.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker><stage>, à la fenêtre.
+	</stage>
+	<l id="574">Frank, pourquoi tardes-tu ? - Gunther, si notre troupe</l>
+	<l id="575">Ne fait pas, sous ce toit, peur à vos cheveux blancs,</l>
+	<l id="576">Soyez le bienvenu pour vider une coupe.</l>
+	<l id="577">Nous sommes assez vieux pour oublier les ans.</l>
+</sp>
+<sp who="GUNTHER"><speaker>GUNTHER.</speaker>
+	<l id="578">La pâleur de la mort est sur votre visage,</l>
+	<l id="579">Seigneur. - D'un noir souci votre esprit occupé</l>
+	<l id="580">Méconnaît-il ma voix ? - De quel sombre nuage</l>
+	<l id="581">Les rêves de la nuit l'ont-ils enveloppé ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="582">Fatigué de la route et du bruit de la guerre,</l>
+	<l id="583">Ce matin de mon camp je me suis écarté :</l>
+	<l id="584">J'avais soif ; mon cheval marchait dans la poussière,</l>
+	<l id="585">Et sur le bord d'un puits je me suis arrêté.</l>
+	<l id="586">J'ai trouvé sur un banc une femme endormie,</l>
+	<l id="587">Une pauvre laitière, une enfant de quinze ans,</l>
+	<l id="588">Que je connais, Gunther. Sa mère est mon amie.</l>
+	<l id="589">J'ai passé de beaux jours chez ces bons paysans.</l>
+	<l id="590">Le cher ange dormait les lèvres demi-closes. - </l>
+	<l id="591">(Les lèvres des enfants s'ouvrent, comme les roses,</l>
+	<l id="592">Au souffle de la nuit.) - Ses petits bras lassés</l>
+	<l id="593">Avaient dans son panier roulé les mains ouvertes.</l>
+	<l id="594">D'herbes et d'églantine elles étaient couvertes.</l>
+	<l id="595">De quel rêve enfantin ses sens étaient bercés,</l>
+	<l id="596">Je l'ignore. On eût dit qu'en tombant sur sa couche,</l>
+	<l id="597">Elle avait à moitié laissé quelque chanson</l>
+	<l id="598">Qui revenait encor voltiger sur sa bouche,</l>
+	<l id="599">Comme un oiseau léger sur la fleur d'un buisson.</l>
+	<l id="600">Nous étions seuls. - J'ai pris ses deux mains dans les miennes,</l>
+	<l id="601">Je me suis incliné, - sans l'éveiller pourtant. - </l>
+	<l id="602">Ô Gunther ! J'ai posé mes lèvres sur les siennes,</l>
+	<l id="603">Et puis je suis parti, pleurant comme un enfant.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Frank, vêtu en moine et masqué ; deux serviteurs.
+</stage>
+<stage type="location/furniture">Devant le palais de Frank. La porte est tendue en noir. - On dresse un catafalque.</stage>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="604">Que l'on apporte ici les cierges et la bière.</l>
+	<l id="605">Souvenez-vous surtout que c'est moi qu'on enterre,</l>
+	<l id="606">Moi, capitaine Frank, mort hier dans un duel.</l>
+	<l id="607">Pas un mot, - ni regard, - ni haussement_d_épaules ;</l>
+	<l id="608">Pas un seul mouvement qui sorte de vos rôles.</l>
+	<l id="609" syll="6" part="i">Songez-y. - Je le veux.</l>
+<stage type="exit">Les serviteurs s'en vont.</stage>
+	<l id="609" syll="6" part="f">Eh bien ! Juge éternel,</l>
+	<l id="610">Je viens t'interroger. Les transports de la fièvre</l>
+	<l id="611">N'agitent pas mon sein. - Je ne viens ni railler</l>
+	<l id="612">Ni profaner la mort. - J'agis sans conseiller.</l>
+	<l id="613">Regarde, et réponds-moi. - Je fais comme l'orfèvre</l>
+	<l id="614">Qui frappe sur le marbre une pièce d'argent.</l>
+	<l id="615">Il reconnaît au son la pure fonderie,</l>
+	<l id="616">Et moi, je viens savoir quel son rendra ma vie,</l>
+	<l id="617">Quand je la frapperai sur ce froid monument.</l>
+	<l id="618">Déjà le jour paraît ; le soldat sort des tentes.</l>
+	<l id="619">Maintenant le bois vert chante dans le foyer ;</l>
+	<l id="620">Les rames du pêcheur et du contrebandier</l>
+	<l id="621">Se lèvent, de terreur et d'espoir palpitantes.</l>
+	<l id="622">Quelle agitation, quel bruit dans la cité !</l>
+	<l id="623">Quel monstre remuant que cette humanité !</l>
+	<l id="624">Sous ses dix mille toits, que de corps, que d'entrailles !</l>
+	<l id="625">Que de sueurs sans but, que de sang, que de fiel !</l>
+	<l id="626">Sais-tu pourquoi tu dors et pourquoi tu travailles,</l>
+	<l id="627">Vieux monstre aux mille pieds, qui te crois éternel ?</l>
+	<l id="628">Cet honnête cercueil a quelques pieds, je pense,</l>
+	<l id="629">De plus que mon berceau. - Voilà leur différence.</l>
+	<l id="630">Ah ! Pourquoi mon esprit va-t-il toujours devant,</l>
+	<l id="631">Lorsque mon corps agit ? Pourquoi dans ma poitrine</l>
+	<l id="632">Ai-je un ver travailleur qui toujours creuse et mine,</l>
+	<l id="633">Si bien que sous mes pieds tout manque en arrivant ?</l>
+<stage type="entrance">Entre le choeur des soldats et du peuple.</stage>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="634">On dit que Frank est mort. Quand donc ? comment s'appelle</l>
+	<l id="635">Celui qui l'a tué ? Quelle était la querelle ?</l>
+	<l id="636">On parle d'un combat. - Quand se sont-ils battus ?</l>
+<stage type="narration">Frank, durant cette scène, doit déguiser sa voix. Je prie ceux qui la trouveraient invraisemblable d'aller au bal de l'Opéra. Un de mes amis fit déguiser sa servante au carnaval et la plaça dans son salon, au milieu d'un bal où personne n'était masqué. On ne lui avait mis qu'un petit masque sans barbe qui ne cachait point la bouche ; et cependant elle dansa presque deux heures entières, sans être reconnue, avec des jeunes gens à qui elle avait apporté deux cents verres d'eau dans sa vie.</stage>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage>, masqué.
+	</stage>
+	<l id="637">À qui parlez-vous donc ? Il ne vous entend plus.</l>
+<stage type="show">Il leur montre la bière.</stage>
+</sp>
+<sp strteg="wave" who="LE CHOEUR"><speaker>LE CHOEUR</speaker><stage>, s'inclinant.
+	</stage>
+	<l id="638">S'il est un meilleur monde au-dessus de nos têtes,</l>
+	<l id="639">Ô Frank ! Si du séjour des vents et des tempêtes</l>
+	<l id="640">Ton âme sur ces monts plane et voltige encor ;</l>
+	<l id="641">Si ces rideaux de pourpre et ces ardents nuages,</l>
+	<l id="642">Que chasse dans l'éther le souffle des orages,</l>
+	<l id="643">Sont des guerriers couchés dans leurs armures d'or,</l>
+	<l id="644">Penche-toi, noble coeur, sur ces vertes collines,</l>
+	<l id="645">Et vois tes compagnons briser leurs javelines</l>
+	<l id="646">Sur cette froide terre, où ton corps est resté !</l>
+</sp>
+<sp who="GUNTHER"><speaker>GUNTHER</speaker><stage type="entrance/hurry">, accourant.
+	</stage>
+	<l id="647">Quoi ! Si brave et si jeune, et sitôt emporté !</l>
+	<l id="648">Mon Frank ! Est-ce bien vrai, messieurs ? Ah ! Mort funeste !</l>
+	<l id="649">Moi qui ne demandais qu'à vivre assez longtemps</l>
+	<l id="650">Pour te voir accomplir ta mission céleste !</l>
+	<l id="651">Me voilà seul au monde avec mes cheveux blancs !</l>
+	<l id="652">Moi qui n'avais de jeune encor que ta jeunesse !</l>
+	<l id="653">Moi qui n'aimais que toi ! Misérable vieillesse !</l>
+	<l id="654">Je ne te verrai plus, mon Frank ! On t'a tué.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="655">Ce pauvre vieux Gunther, je l'avais oublié.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="656">Qu'on voile les tambours, que le prêtre s'avance.</l>
+	<l id="657">À genoux, compagnons, tête nue, et silence.</l>
+	<l id="658">Qu'on dise devant nous la prière des morts.</l>
+	<l id="659">Nous voulons au tombeau porter le capitaine.</l>
+	<l id="660">Il est mort en soldat, sur la terre chrétienne.</l>
+	<l id="661">L'âme appartient à Dieu ; l'armée aura le corps.</l>
+</sp>
+<sp who="TROIS MOINES"><speaker>TROIS MOINES</speaker><stage type="closer">, s'avançant.
+</stage>
+<stage type="sing">Chant.</stage>
+	<l id="662">Le Seigneur sur l'ombre éternelle</l>
+	<l id="663">Suspend son ardente prunelle,</l>
+	<l id="664">Et, glorieuse sentinelle,</l>
+	<l id="665">Attend les bons et les damnés.</l>
+	<l id="666">Il sait qui tombe dans sa voie ;</l>
+	<l id="667">Lorsqu'il jette au néant sa proie,</l>
+	<l id="668">Il dit aux maux qu'il nous envoie :</l>
+	<l id="669">« Comptez les morts que vous prenez. »</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker><stage type="kneel">, à genoux.
+	</stage>
+	<l id="670">Seigneur, j'ai plus péché que vous ne pardonnez.</l>
+</sp>
+<sp who="LES MOINES"><speaker>LES MOINES.</speaker>
+	<l id="671">Il dit aux épaisses batailles :</l>
+	<l id="672">« Comptez vos chefs sans funérailles,</l>
+	<l id="673">Qui pour cercueil ont les entrailles</l>
+	<l id="674">De la panthère et du lion ;</l>
+	<l id="675">Que le juste triomphe ou fuie,</l>
+	<l id="676">Comptez, quand le glaive s'essuie,</l>
+	<l id="677">Les morts tombés comme la pluie</l>
+	<l id="678">Sur la montagne et le sillon. »</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="679">Seigneur, préservez-moi de la tentation.</l>
+</sp>
+<sp who="LES MOINES"><speaker>LES MOINES.</speaker>
+	<l id="680">« Car un jour de pitié profonde,</l>
+	<l id="681">Ma parole, en terreur féconde,</l>
+	<l id="682">Sur le pôle arrêtant le monde,</l>
+	<l id="683">Les trépassés se lèveront ;</l>
+	<l id="684">Et des mains vides de l'abîme</l>
+	<l id="685">Tombera la frêle victime,</l>
+	<l id="686">Qui criera : Grâce ! - Et de son crime</l>
+	<l id="687">Trouvera la tache à son front. »</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="688">Et mes dents grinceront ! Mes os se sécheront !</l>
+</sp>
+<sp who="LES MOINES"><speaker>LES MOINES.</speaker>
+	<l id="689">Qu'il vienne d'en bas ou du faîte,</l>
+	<l id="690">Selon le dire du prophète,</l>
+	<l id="691">Justice à chacun sera faite,</l>
+	<l id="692">Ainsi qu'il aura mérité ;</l>
+	<l id="693">Or donc, gloire à Dieu notre père.</l>
+	<l id="694">Si l'impie a vécu prospère,</l>
+	<l id="695">Que le juste en son âme espère !</l>
+	<l id="696">Gloire à la sainte Trinité !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="697">C'est une jonglerie atroce, en vérité !</l>
+	<l id="698">Ô toi qui les entends, suprême intelligence,</l>
+	<l id="699">Quelle pagode ils font de leur Dieu de vengeance !</l>
+	<l id="700">Quel bourreau rancunier, brûlant à petit feu !</l>
+	<l id="701">Toujours la peur du feu. - C'est bien l'esprit de Rome.</l>
+	<l id="702">Ils vous diront après que leur Dieu s'est fait homme.</l>
+	<l id="703">J'y reconnais plutôt l'homme qui s'est fait Dieu.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR</speaker>
+	<l id="704">Notre tâche, messieurs, n'est pas encor remplie.</l>
+	<l id="705">Nous avons pour son âme imploré le pardon :</l>
+	<l id="706">Si l'un de nous connaît l'histoire de sa vie,</l>
+	<l id="707" syll="6" part="i">Qu'il s'avance et qu'il parle.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="707" syll="6" part="f">Ah ! Nous y voilà donc !</l>
+</sp>
+<sp who="L'OFFICIER"><speaker>UN OFFICIER</speaker><stage type="closer">, sortant des rangs.
+	</stage>
+	<l id="708">Soldats et chevaliers, braves compagnons d'armes,</l>
+	<l id="709">Si jamais homme au monde a mérité vos larmes,</l>
+	<l id="710">C'est celui qui n'est plus. - Charle était mon ami.</l>
+	<l id="711">J'ai le droit d'être fier dès qu'il s'agit de lui.</l>
+	<l id="712">- Né dans un bourg obscur, au fond d'une chaumière,</l>
+	<l id="713">Frank chez des montagnards vécut longtemps en frère,</l>
+	<l id="714">En fils, - chéri de tous, et de tous bien venu.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="closer">, s'avançant.
+	</stage>
+	<l id="715">Vous vous trompez, Monsieur, vous l'avez mal connu.</l>
+	<l id="716">Frank était détesté de tout le voisinage.</l>
+	<l id="717">Est-il ici quelqu'un qui soit de son village ?</l>
+	<l id="718">Demandez si c'est vrai. - Moi, j'en étais aussi.</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+	<l id="719">Moine, n'interromps pas. - Cet homme est son ami.</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="720">C'est vrai que le cher homme avait l'âme un peu fière ;</l>
+	<l id="721">S'il aimait ses voisins, il n'y paraissait guère ;</l>
+	<l id="722">Un certain jour surtout qu'il brûla sa maison.</l>
+	<l id="723">Je n'en ai jamais su, quant à moi, la raison.</l>
+</sp>
+<sp who="L'OFFICIER"><speaker>L'OFFICIER.</speaker>
+	<l id="724">Si Charle eut des défauts, ne troublons pas sa cendre.</l>
+	<l id="725">Sont-ce de tels témoins qu'il nous convient d'entendre ?</l>
+	<l id="726">Soldats, Frank se sentait une autre mission.</l>
+	<l id="727">Qui jamais s'est montré plus vif dans l'action,</l>
+	<l id="728">Plus fort dans le conseil ? - Qui jamais mieux que Charle</l>
+	<l id="729">Prouva son éloquence à l'heure où le bras parle ?</l>
+	<l id="730">Vous le savez, soldats, j'ai combattu sous lui ;</l>
+	<l id="731">Je puis dire à mon tour : Moi, j'en étais aussi.</l>
+	<l id="732">Une ardeur sans égale, un courage indomptable,</l>
+	<l id="733">Un homme encor meilleur qu'il n'était redoutable,</l>
+	<l id="734">Une âme de héros, - voilà ce que j'ai vu.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="735">Vous vous trompez, Monsieur, vous l'avez mal connu.</l>
+	<l id="736">Frank n'a jamais été qu'un coureur_d_aventure,</l>
+	<l id="737">Qu'un fou, risquant sa vie et celle des soldats,</l>
+	<l id="738">Pour briguer des honneurs qu'il ne méritait pas.</l>
+	<l id="739">Né sans titres, sans bien, parti d'une masure,</l>
+	<l id="740">Il faisait au combat ce qu'on fait aux brelans,</l>
+	<l id="741">Il jouait tout ou rien, - la mort ou la fortune.</l>
+	<l id="742">Ces gens-là bravent tout, - l'espèce en est commune ;</l>
+	<l id="743">Ils inondent les ports, l'armée et les couvents.</l>
+	<l id="744">Croyez-vous que ce Frank valût sa renommée ?</l>
+	<l id="745">Qu'il respectât les lois ? qu'il aimât l'empereur ?</l>
+	<l id="746">Il a vécu huit jours, avant d'être à l'armée,</l>
+	<l id="747">Avec la Belcolore, comme un entremetteur.</l>
+	<l id="748">Est-il ici quelqu'un qui dise le contraire ?</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="749">Ma foi ! Depuis le jour qu'il a quitté son père,</l>
+	<l id="750">C'est vrai que ledit Frank a fait plus d'un métier.</l>
+	<l id="751">Nous la connaissons bien, nous, Monna_Belcolore.</l>
+	<l id="752">Elle couchait chez lui ; - nous l'avons vue hier.</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+	<l id="753" syll="6" part="i">Laissez parler le moine ! - </l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="753" syll="6" part="f">Il a fait pis encore :</l>
+	<l id="754">Il a réduit son père à la mendicité.</l>
+	<l id="755">Il avait besoin d'or pour cette courtisane ;</l>
+	<l id="756">Le peu qu'il possédait, c'est là qu'il l'a porté.</l>
+	<l id="757">Soldats, que faites-vous à celui qui profane</l>
+	<l id="758">La cendre d'un bon fils et d'un homme de bien ?</l>
+	<l id="759">J'ai mérité la mort, si ce crime est le mien.</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+	<l id="760">Dis-nous la vérité, moine, et parle sans crainte.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="761">Mais si les Tyroliens qui sont dans cette enceinte</l>
+	<l id="762">Trouvent que j'ai raison, s'ils sont prêts au besoin</l>
+	<l id="763">À faire comme moi, qui prends Dieu pour témoin...</l>
+</sp>
+<sp who="LES TYROLIENS"><speaker>LES TYROLIENS.</speaker>
+	<l id="764">Oui, oui, nous l'attestons, Frank est un misérable.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="765">Le jour qu'il refusa sa place à votre table,</l>
+	<l id="766" syll="6" part="i">Vous en souvenez-vous ?</l>
+</sp>
+<sp who="LES TYROLIENS"><speaker>LES TYROLIENS.</speaker>
+	<l id="766" syll="6" part="f">Oui, oui, qu'il soit maudit !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="767">Le jour qu'il a brûlé la maison de son père ?</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="768" syll="6" part="i">Oui ! Le moine sait tout.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="768" syll="6" part="f">Et si, comme on le dit,</l>
+	<l id="769">Il a tué Stranio sur le bord de la route...</l>
+</sp>
+<sp who="LE PEUPLE"><speaker>LE PEUPLE.</speaker>
+	<l id="770">Stranio, ce palatin que Brandel a trouvé</l>
+	<l id="771">Au fond de la forêt, couché sur le pavé ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="772" syll="6" part="i">C'est lui qui l'a tué !</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="772" syll="6" part="f">Pour le piller, sans doute !</l>
+	<l id="773">Misérable assassin ! Meurtrier sans pitié !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="774">Et son orgueil de fer, l'avez-vous oublié ?</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="775" syll="6" part="i">Jetons sa cendre au vent !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="775" syll="6" part="f">Au vent le parricide !</l>
+	<l id="776">Le coupeur_de_jarrets, l'incendiaire au vent !</l>
+	<l id="777" syll="6" part="i">Allons, brisons ceci.</l>
+<stage type="open">Il ouvre la bière.</stage>
+</sp>
+<sp who="LE PEUPLE ET LES SOLDATS"><speaker>LE PEUPLE ET LES SOLDATS.</speaker>
+	<l id="777" syll="6" part="f">Moine, la bière est vide.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="costume">, se démasquant.
+	</stage>
+	<l id="778">La bière est vide ? Alors c'est que Frank est vivant.</l>
+</sp>
+<sp who="LES SOLDATS"><speaker>LES SOLDATS.</speaker>
+	<l id="779" syll="6" part="i">Capitaine, c'est vous !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="toward">, à l'officier.
+	</stage>
+	<l id="779" syll="6" part="f">Lieutenant, votre épée.</l>
+	<l id="780">Vous avez laissé faire une étrange équipée.</l>
+	<l id="781">Si j'avais été mort, où serais-je à présent ?</l>
+	<l id="782">Vous ne savez donc pas qu'il y va de la tête ?</l>
+	<l id="783">Au nom de l'empereur, Monsieur, je vous arrête ;</l>
+	<l id="784">Ramenez vos soldats, et rendez-vous au camp.</l>
+<stage type="exit">Tout le monde sort en silence.</stage>
+	<l id="785">C'en est fait, - une soif ardente, inextinguible,</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="786">Dévorera mes os tant que j'existerai.</l>
+	<l id="787">Ô mon_Dieu ! Tant d'efforts, un combat si terrible,</l>
+	<l id="788">Un dévouement sans borne, un corps tout balafré...</l>
+	<l id="789">Allons, un peu de calme, il n'est pas temps encore.</l>
+	<l id="790">Qui vient de ce côté ? n'est-ce pas Belcolore ?</l>
+	<l id="791">Ah ! Ah ! Nous allons voir ; - Tout n'est pas fini là.</l>
+<stage type="costume/hide">Il remet son masque et recouvre la bière.</stage>
+<stage type="entrance/costume/kneel">Entre Belcolore en grand deuil ; elle va s'agenouiller sur les marches du catafalque.</stage>
+	<l id="792">C'est bien elle ; elle approche, elle vient, - la voilà.</l>
+	<l id="793">Voilà bien ce beau corps, cette épaule charnue,</l>
+	<l id="794">Cette gorge superbe et toujours demi-nue,</l>
+	<l id="795">Sous ces cheveux plaqués ce front stupide et fier,</l>
+	<l id="796">Avec ces deux grands yeux qui sont d'un noir d'enfer.</l>
+	<l id="797">Voilà bien la sirène et la prostituée ; - </l>
+	<l id="798">Le type de l'égout ; - la machine inventée</l>
+	<l id="799">Pour désopiler l'homme et pour boire son sang ;</l>
+	<l id="800">La meule de pressoir de l'abrutissement.</l>
+	<l id="801">Quelle atmosphère étrange on respire autour d'elle !</l>
+	<l id="802">Elle épuise, elle tue, et n'en est que plus belle.</l>
+	<l id="803">Deux anges destructeurs marchent à son côté ;</l>
+	<l id="804">Doux et cruels tous deux, - la mort, - la volupté.</l>
+	<l id="805">- Je me souviens encor de ces spasmes terribles,</l>
+	<l id="806">De ces baisers muets, de ces muscles ardents,</l>
+	<l id="807">De cet être absorbé, blême et serrant les dents.</l>
+	<l id="808">S'ils ne sont pas divins, ces moments sont horribles.</l>
+	<l id="809">Quel magnétisme impur peut-il donc en sortir ?</l>
+	<l id="810">Toujours en l'embrassant j'ai désiré mourir.</l>
+	<l id="811">- Ah ! Malheur à celui qui laisse la débauche</l>
+	<l id="812">Planter le premier clou sous sa mamelle gauche !</l>
+	<l id="813">Le coeur d'un homme vierge est un vase profond :</l>
+	<l id="814">Lorsque la première eau qu'on y verse est impure,</l>
+	<l id="815">La mer y passerait sans laver la souillure ;</l>
+	<l id="816">Car l'abîme est immense, et la tache est au fond.</l>
+<stage type="closer/location">Il s'approche du tombeau.</stage>
+	<l id="817">Qui donc pleurez-vous là, Madame ? êtes-vous veuve ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="818">Veuve, vous l'avez dit, - de mes seules amours.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="819">D'hier, apparemment, - car cette robe est neuve.</l>
+	<l id="820" syll="6" part="i">Comme le noir vous sied !</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="820" syll="6" part="f">D'hier, et pour toujours.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="821">Toujours, avez-vous dit ? - Ah ! Monna_Belcolore,</l>
+	<l id="822" syll="6" part="i">Toujours, c'est bien longtemps.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="822" syll="6" part="f">D'où me connaissez-vous ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="823">De Naples, où cet hiver je te cherchais encore.</l>
+	<l id="824">Naples est si beau, ma chère, et son ciel est si doux !</l>
+	<l id="825">Tu devrais bien venir m'aider à m'y distraire.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="826" syll="6" part="i">Je ne vous remets pas.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="826" syll="6" part="f">Bon ! Tu m'as oublié !</l>
+	<l id="827">Je suis masqué, d'ailleurs, et que veux-tu, ma chère ?</l>
+	<l id="828">Ton coeur est si peuplé, je m'y serai noyé.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="829">Passez votre chemin, moine, et laissez-moi seule.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="830">Bon ! Si tu pleures tant, tu deviendras bégueule.</l>
+	<l id="831">Voyons, ma belle amie, à parler franchement,</l>
+	<l id="832">Tu vas te trouver seule, et tu n'as plus d'amant.</l>
+	<l id="833">Ton capitaine Frank n'avait ni sou ni maille.</l>
+	<l id="834">C'était un bon soldat, charmant à la bataille ;</l>
+	<l id="835">Mais quel pauvre écolier en matière d'amour !</l>
+	<l id="836">Sentimental la nuit, et persifleur le jour.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="837">Tais-toi, moine insolent, si tu tiens à ton âme ;</l>
+	<l id="838">Il n'est pas toujours bon de me parler ainsi.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="839">Ma foi, les morts sont morts : - si vous voulez, Madame,</l>
+	<l id="840">Cette bourse est à vous, cette autre, et celle-ci ;</l>
+	<l id="841">Et voilà le papier pour faire l'enveloppe.</l>
+<stage type="drop">Il couvre la bière d'or et de billets.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="842">Si je te disais oui, tu serais mal tombé.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="843">Ah ! Voilà Jupiter qui tente Danaé.</l>
+<stage type="loud">Haut.</stage>
+	<l id="844">Je vous en avertis, je suis très misanthrope :</l>
+	<l id="845">Je vous enfermerais dans le fond d'un palais.</l>
+	<l id="846">J'ai l'humeur_bilieuse, et je bats mes valets.</l>
+	<l id="847">Quand je digère mal, j'entends qu'on m'obéisse.</l>
+	<l id="848">J'aime qu'on soit joyeux lorsque j'ai la jaunisse,</l>
+	<l id="849">Et, quand je ne dors pas, tout le monde est debout.</l>
+	<l id="850">Je suis capricieux, - êtes-vous de mon goût ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="851" syll="6" part="i">Non, par la sainte croix !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="851" syll="6" part="f">Si vous aimez les roubles,</l>
+	<l id="852">Il m'en reste encor là, mais je n'ai que des doubles.</l>
+<stage type="drop">Il jette une autre bourse sur la bière.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="853" syll="6" part="i">Tu me donnes cela ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="853" syll="6" part="f">Voyez l'attraction !</l>
+	<l id="854">Comme la chair est faible à la tentation !</l>
+<stage type="loud">Haut.</stage>
+	<l id="855">J'ai de plus un ulcère à côté de la bouche,</l>
+	<l id="856">Qui m'a défiguré ; - je suis maigre, et je louche :</l>
+	<l id="857">Mais ces misères-là ne te dégoûtent pas.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="858" syll="6" part="i">Vous me faites frémir.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="858" syll="6" part="f">J'ai là, Dieu me pardonne,</l>
+	<l id="859">Certain bracelet d'or qu'il faut que je vous donne :</l>
+	<l id="860">Il ira bien, je pense, avec ce joli bras.</l>
+<stage type="drop">Il jette un bracelet sur la bière.</stage>
+	<l id="861">Cet ulcère est horrible, il m'a rongé la joue,</l>
+	<l id="862">Il m'a brisé les dents. - J'étais laid, je l'avoue ;</l>
+	<l id="863">Mais depuis que je l'ai, je suis vraiment hideux :</l>
+	<l id="864">J'ai perdu mes sourcils, ma barbe et mes cheveux.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="865" syll="6" part="i">Dieu de ciel, quelle horreur !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="865" syll="6" part="f">J'ai là, sous ma simarre,</l>
+	<l id="866">Un collier de rubis d'une espèce assez rare.</l>
+<stage type="drop">Il jette un collier sur la bière.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="867" syll="6" part="i">Il est fait à Paris ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="867" syll="6" part="f">Voyez-vous le poisson,</l>
+	<l id="868">Comme il vient à fleur d'eau reprendre l'hameçon !</l>
+<stage type="loud">Haut.</stage>
+	<l id="869">Si c'était tout, du moins ! Mais cette affreuse plaie</l>
+	<l id="870">Me donne l'air d'un mort traîné sur une claie ;</l>
+	<l id="871">Elle pompe mon sang, mes os sont cariés</l>
+	<l id="872">De la nuque du crâne à la plante des pieds...</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="873">Assez, au nom du ciel ! Je vous demande grâce !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="874">Si tu t'en vas, rends-moi ce que je t'ai donné.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="875" syll="6" part="i">Vous mentez à plaisir.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="875" syll="6" part="f">Veux-tu que je t'embrasse ?</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="876" syll="6" part="i">Eh bien ! Oui, je le veux.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="876" syll="6" part="f">Tu pâlis, Danaé.</l>
+<stage type="touch/loud">Il lui prend la main. Haut.</stage>
+	<l id="877">Regarde, mon enfant ; cette rue est déserte.</l>
+	<l id="878">Dessous ce catafalque est un profond caveau.</l>
+	<l id="879">Descendons-y tous deux ; la porte en est ouverte.</l>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="880" syll="6" part="i">Sous la maison de Frank !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="880" syll="6" part="f">- Pourquoi pas mon tombeau ?</l>
+<stage type="loud">Haut.</stage>
+	<l id="881">- Au fait, nous sommes seuls ; cette bière est solide.</l>
+	<l id="882">Asseyons-nous dessus. - Nous serons en plein vent.</l>
+	<l id="883" syll="6" part="i">Qu'en dites-vous, mon coeur ?</l>
+<stage type="get/open">Il écarte le drap mortuaire ; la bière s'ouvre.</stage>
+</sp>
+<sp who="BELCOLORE"><speaker>BELCOLORE.</speaker>
+	<l id="883" syll="6" part="f">Moine, la bière est vide.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="dress">, se démasquant.
+	</stage>
+	<l id="884">La bière est vide ? alors c'est que Frank est vivant.</l>
+	<l id="885">- Va-t'en, prostituée, ou ton heure est venue !</l>
+	<l id="886">- Va-t'en, ne parle pas ! Ne te retourne pas !</l>
+<stage type="threat">Il la chasse son poignard à la main.</stage>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="887">Ta lame, ô mon stylet, est belle toute nue</l>
+	<l id="888">Comme une belle vierge. - Ô mon coeur et mon bras,</l>
+	<l id="889">Pourquoi donc tremblez-vous, et pourquoi l'un de l'autre</l>
+	<l id="890">Vous approchez-vous donc, comme pour vous unir ?</l>
+	<l id="891">Oui, c'était ma pensée ; - était-ce aussi la vôtre,</l>
+	<l id="892">Providence de Dieu, que tout allait finir ?</l>
+	<l id="893">- Et toi, morne tombeau, tu m'ouvres ta mâchoire.</l>
+	<l id="894">Tu ris, spectre affamé. Je n'ai pas peur de toi.</l>
+	<l id="895">Je renierai l'amour, la fortune et la gloire ;</l>
+	<l id="896">Mais je crois au néant, comme je crois en moi.</l>
+	<l id="897">Le soleil le sait bien, qu'il n'est sous la lumière</l>
+	<l id="898">Qu'une immortalité, celle de la matière.</l>
+	<l id="899">La poussière est à Dieu ; - le reste est au hasard.</l>
+	<l id="900">Qu'a fait le vent du nord des cendres de César ?</l>
+	<l id="901">Une herbe, un grain de blé, mon_Dieu, voilà la vie.</l>
+	<l id="902">Mais moi, fils du hasard, moi Frank, avoir été</l>
+	<l id="903">Un petit monde, un tout, une forme pétrie,</l>
+	<l id="904">Une lampe où brûlait l'ardente volonté,</l>
+	<l id="905">Et que rien, après moi, ne reste sur le sable</l>
+	<l id="906">Où l'ombre de mon corps se promène ici-bas ?</l>
+	<l id="907">Rien ! Pas même un enfant, un être périssable !</l>
+	<l id="908">Rien qui puisse y clouer la trace de mes pas !</l>
+	<l id="909">Rien qui puisse crier d'une voix éternelle</l>
+	<l id="910">À ceux qui téteront la commune mamelle :</l>
+	<l id="911">Moi, votre frère aîné, je m'y suis suspendu !</l>
+	<l id="912">Je l'ai tétée aussi, la vivace marâtre ;</l>
+	<l id="913">Elle m'a, comme à vous, livré son sein d'albâtre...</l>
+	<l id="914">- Et pourtant, jour de Dieu, si je l'avais mordu ?</l>
+	<l id="915">Si je l'avais mordu, le sein de la nourrice ;</l>
+	<l id="916">Si je l'avais meurtri d'une telle façon,</l>
+	<l id="917">Qu'elle en puisse à jamais garder la cicatrice,</l>
+	<l id="918">Et montrer sur son coeur les dents du nourrisson ?</l>
+	<l id="919">Qu'importe le moyen, pourvu qu'on s'en souvienne ?</l>
+	<l id="920">Le bien a pour tombeau l'ingratitude humaine.</l>
+	<l id="921">Le mal est plus solide : Érostrate à raison.</l>
+	<l id="922">Empédocle a vaincu les héros de l'histoire</l>
+	<l id="923">Le jour qu'en se lançant dans le coeur de l'Etna,</l>
+	<l id="924">Du plat de sa sandale il souffleta la gloire,</l>
+	<l id="925">Et la fit trébucher si bien qu'elle y tomba.</l>
+	<l id="926">Que lui faisait le reste ? Il a prouvé sa force.</l>
+	<l id="927">Les siècles maintenant peuvent se remplacer ;</l>
+	<l id="928">Il a si bien gravé son chiffre sur l'écorce,</l>
+	<l id="929">Que l'arbre peut changer de peau sans l'effacer.</l>
+	<l id="930">Les parchemins sacrés pourriront dans les livres,</l>
+	<l id="931">Les marbres tomberont comme des hommes ivres,</l>
+	<l id="932">Et la langue d'un peuple avec lui s'éteindra ;</l>
+	<l id="933">Mais le nom de cet homme est comme une momie,</l>
+	<l id="934">Sous les baumes puissants pour toujours endormie,</l>
+	<l id="935">Sur laquelle jamais l'herbe ne poussera.</l>
+	<l id="936">- Je ne veux pas mourir. Regarde-moi, Nature.</l>
+	<l id="937">Ce sont deux bras nerveux que j'agite dans l'air.</l>
+	<l id="938">C'est dans tous tes néants que j'ai trempé l'armure</l>
+	<l id="939">Qui me protégera de ton glaive de fer.</l>
+	<l id="940">J'ai faim. - Je ne veux pas quitter l'hôtellerie.</l>
+	<l id="941">Allons, qu'on se remue, et qu'on me rassasie,</l>
+	<l id="942">Ou sinon, je me fais l'intendant de ma faim.</l>
+	<l id="943">Prends-y garde, je pars. - N'importe le chemin. - </l>
+	<l id="944">Je marcherai, - j'irai, - partout où l'âme humaine</l>
+	<l id="945">Est en spectacle, et souffre. - Ah ! La haine ! La haine !</l>
+	<l id="946">La seule passion qui survive à l'espoir !</l>
+	<l id="947">Tu m'as déjà hanté, boiteuse au manteau noir.</l>
+	<l id="948">Nous nous sommes connus dans la maison_de_chaume ;</l>
+	<l id="949">Mais je ne croyais pas que ton pâle fantôme,</l>
+	<l id="950">De tous ceux qui dans l'air voltigeaient avec toi,</l>
+	<l id="951">Dût être le dernier qui restât près de moi.</l>
+	<l id="952">- Eh bien ! Baise-moi donc, triste et fidèle amie.</l>
+	<l id="953">Tu vois, j'ai soulevé les voiles de ma vie. - </l>
+	<l id="954">Nous partirons ensemble ; et toi qui me suivras,</l>
+	<l id="955">Comme une soeur pieuse, aux plus lointains climats,</l>
+	<l id="956">Tu seras mon asile et mon expérience,</l>
+	<l id="957">Si le doute, ce fruit tardif et sans saveur,</l>
+	<l id="958">Est le dernier qu'on cueille à l'arbre de science,</l>
+	<l id="959">Qu'ai-je à faire de plus, moi qui le porte au coeur ?</l>
+	<l id="960">Le doute ! Il est partout, et le courant l'entraîne,</l>
+	<l id="961">Ce linceul transparent, que l'incrédulité</l>
+	<l id="962">Sur le bord de la tombe a laissé par pitié</l>
+	<l id="963">Au cadavre flétri de l'espérance humaine !</l>
+	<l id="964">- Ô siècles à venir ! Quel est donc votre sort ?</l>
+	<l id="965">La gloire comme une ombre au ciel est remontée,</l>
+	<l id="966">L'amour n'existe plus ; - la vie est dévastée, - </l>
+	<l id="967">Et l'homme, resté seul, ne croit plus qu'à la mort.</l>
+	<l id="968">- Tel que dans un pillage, en un jour de colère,</l>
+	<l id="969">On voit, à la lueur d'un flambeau funéraire,</l>
+	<l id="970">Des meurtriers, courbés dans un silence affreux,</l>
+	<l id="971">Égorger une vierge, et dans ses longs cheveux</l>
+	<l id="972">Plonger leurs mains de sang ; la frêle créature</l>
+	<l id="973">Tombe comme un roseau sur ses bras mutilés : - </l>
+	<l id="974">Tels les analyseurs égorgent la nature</l>
+	<l id="975">Silencieusement, sous les cieux dépeuplés.</l>
+	<l id="976">- Que vous restera-t-il, enfants de nos entrailles,</l>
+	<l id="977">Le jour où vous viendrez suivre les funérailles</l>
+	<l id="978">De cette moribonde et vieille humanité ?</l>
+	<l id="979">Ah ! Tu nous maudiras, pâle postérité !</l>
+	<l id="980">Nos femmes ne mettront que des vieillards au monde.</l>
+	<l id="981">Ils frapperont la terre avant de s'y coucher ;</l>
+	<l id="982">Puis ils crieront à Dieu : Père, elle était féconde.</l>
+	<l id="983">À qui donc as-tu dit de nous la dessécher ?</l>
+	<l id="984">- Mais vous, analyseurs, persévérants sophistes,</l>
+	<l id="985">Quand vous aurez tari tous les puits des déserts,</l>
+	<l id="986">Quand vous aurez prouvé que ce large univers</l>
+	<l id="987">N'est qu'un mort étendu sous les anatomistes ;</l>
+	<l id="988">Quand vous nous aurez fait de la création</l>
+	<l id="989">Un cimetière en ordre, où tout aura sa place,</l>
+	<l id="990">Où vous aurez sculpté, de votre main de glace,</l>
+	<l id="991">Sur tous les monuments la même inscription ;</l>
+	<l id="992">Vous, que ferez-vous donc, dans les sombres allées</l>
+	<l id="993">De ce jardin muet ? - Les plantes désolées</l>
+	<l id="994">Ne voudront plus aimer, nourrir, ni concevoir ; - </l>
+	<l id="995">Les feuilles des forêts tomberont une à une, - </l>
+	<l id="996">Et vous, noirs fossoyeurs, sur la bière commune</l>
+	<l id="997">Pour ergoter encor vous viendrez vous asseoir ;</l>
+	<l id="998">Vous vous entretiendrez de l'homme perfectible ; - </l>
+	<l id="999">Vous galvaniserez ce cadavre insensible,</l>
+	<l id="1000">Habiles vermisseaux, quand vous l'aurez rongé ;</l>
+	<l id="1001">Vous lui commanderez de marcher sur sa tombe,</l>
+	<l id="1002">À cette ombre d'un jour, - jusqu'à ce qu'elle tombe</l>
+	<l id="1003">Comme une masse inerte, et que Dieu soit vengé.</l>
+	<l id="1004">- Ah ! Vous avez voulu faire les Prométhées ;</l>
+	<l id="1005">Et vous êtes venus, les mains ensanglantées,</l>
+	<l id="1006">Refondre et repétrir l'oeuvre du Créateur !</l>
+	<l id="1007">Il valait mieux que vous, ce hardi tentateur,</l>
+	<l id="1008">Lorsque ayant fait son homme, et le voyant sans âme,</l>
+	<l id="1009">Il releva la tête et demanda le feu.</l>
+	<l id="1010">Vous, votre homme était fait ! Vous, vous aviez la flamme !</l>
+	<l id="1011">Et vous avez soufflé sur le souffle de Dieu.</l>
+	<l id="1012">- Le mépris, Dieu puissant, voilà donc la science !</l>
+	<l id="1013">L'éternelle sagesse est l'éternel silence ;</l>
+	<l id="1014">Et nous aurons réduit, quand tout sera compté,</l>
+	<l id="1015">Le balancier de l'âme à l'immobilité.</l>
+	<l id="1016">- Quel hideux océan est-ce donc que la vie,</l>
+	<l id="1017">Pour qu'il faille y marcher à la superficie,</l>
+	<l id="1018">Et glisser au soleil en effleurant les eaux,</l>
+	<l id="1019">Comme ce fils de Dieu qui marchait sur les flots ?</l>
+	<l id="1020">Quels monstres effrayants, quels difformes reptiles</l>
+	<l id="1021">Labourent donc les mers sous les pieds des nageurs,</l>
+	<l id="1022">Pour qu'on trouve toujours les vagues si tranquilles,</l>
+	<l id="1023">Et la pâleur des morts sur le front des plongeurs ?</l>
+	<l id="1024">A-t-elle assez traîné, cette éternelle histoire</l>
+	<l id="1025">Du néant de l'amour, du néant de la gloire,</l>
+	<l id="1026">Et de l'enfant prodigue auprès de ses pourceaux !</l>
+	<l id="1027">Ah ! Sur combien de lits, sur combien de berceaux,</l>
+	<l id="1028">Elle est venue errer, d'une voix lamentable,</l>
+	<l id="1029">Cette complainte usée et toujours véritable,</l>
+	<l id="1030">De tous les insensés que l'espoir a conduit !</l>
+	<l id="1031">- Pareil à ce Gygès, qui fuyait dans la nuit</l>
+	<l id="1032">Le fantôme royal de la pâle baigneuse</l>
+	<l id="1033">Livrée un seul instant à son ardent regard,</l>
+	<l id="1034">Le jeune ambitieux porte une plaie affreuse,</l>
+	<l id="1035">Tendre encor, mais profonde, et qui saigne à l'écart.</l>
+	<l id="1036">Ce qu'il fait, ce qu'il voit des choses de la vie,</l>
+	<l id="1037">Tout le porte, l'entraîne à son but idéal,</l>
+	<l id="1038">Clarté fuyant toujours, et toujours poursuivie,</l>
+	<l id="1039">Étrange idole, à qui tout sert de piédestal.</l>
+	<l id="1040">Mais si tout en courant, la force l'abandonne,</l>
+	<l id="1041">S'il se retourne, et songe aux êtres d'ici-bas,</l>
+	<l id="1042">Il trouve tout à coup que ce qui l'environne</l>
+	<l id="1043">Est demeuré si loin, qu'il n'y reviendra pas.</l>
+	<l id="1044">C'est alors qu'il comprend l'effet de son vertige,</l>
+	<l id="1045">Et que, s'il ne regarde au ciel, il va tomber.</l>
+	<l id="1046">Il marche ; - son génie à poursuivre l'oblige ; - </l>
+	<l id="1047">Il marche, et le terrain commence à surplomber. - </l>
+	<l id="1048">Enfin, - mais n'est-il pas une heure dans la vie</l>
+	<l id="1049">Où le génie humain rencontre la folie ? - </l>
+	<l id="1050">Ils luttent corps à corps sur un rocher glissant.</l>
+	<l id="1051">Tous deux y sont montés, mais un seul redescend.</l>
+	<l id="1052">- Ô mondes, ô Saturne, immobiles étoiles,</l>
+	<l id="1053">Magnifique univers, en est-ce ainsi partout ?</l>
+	<l id="1054">Ô nuit, profonde nuit, spectre toujours debout,</l>
+	<l id="1055">Large création, quand tu lèves tes voiles</l>
+	<l id="1056">Pour te considérer dans ton immensité,</l>
+	<l id="1057">Vois-tu du haut en bas la même nudité ?</l>
+	<l id="1058">- Dis-moi donc, en ce cas, dis-moi, mère imprudente,</l>
+	<l id="1059">Pourquoi m'obsèdes-tu de cette soif ardente,</l>
+	<l id="1060">Si tu ne connais pas de source où l'étancher ?</l>
+	<l id="1061">Il fallait la créer, marâtre, ou la chercher.</l>
+	<l id="1062">L'arbuste a sa rosée, et l'aigle a sa pâture.</l>
+	<l id="1063">Et moi, que t'ai-je fait pour m'oublier ainsi ?</l>
+	<l id="1064">Pourquoi les arbrisseaux n'ont-ils pas soif aussi ?</l>
+	<l id="1065">Pourquoi forger la flèche, éternelle Nature,</l>
+	<l id="1066">Si tu savais toi-même, avant de la lancer,</l>
+	<l id="1067">Que tu la dirigeais vers un but impossible,</l>
+	<l id="1068">Et que le dard parti de ta corde terrible,</l>
+	<l id="1069">Sans rencontrer l'oiseau, pouvait te traverser ?</l>
+	<l id="1070">- Mais cela te plaisait. - C'était réglé d'avance.</l>
+	<l id="1071">Ah ! Le vent du matin ! Le souffle du printemps !</l>
+	<l id="1072">C'est le cri des vieillards. - Moi, mon_Dieu, j'ai vingt ans !</l>
+	<l id="1073">- Oh ! Si tu vas mourir, ange de l'espérance,</l>
+	<l id="1074">Sur mon coeur, en partant, viens encor te poser ;</l>
+	<l id="1075">Donne-moi tes adieux et ton dernier baiser.</l>
+	<l id="1076">Viens à moi. - Je suis jeune, et j'aime encor la vie.</l>
+	<l id="1077">Intercède pour moi ; - demande si les cieux</l>
+	<l id="1078">Ont une goutte d'eau pour une fleur flétrie. - </l>
+	<l id="1079">Bel ange, en la buvant, nous mourrons tous les deux.</l>
+	<l id="1080">Il se jette à genoux ; un bouquet tombe de son sein.</l>
+	<l id="1081">Qui me jette à mes pieds mon bouquet d'églantine ?</l>
+	<l id="1082">As-tu donc si longtemps vécu sur ma poitrine,</l>
+	<l id="1083">Pauvre herbe ! - C'est ainsi que ma Déidamia</l>
+	<l id="1084">Sur le bord de la route à mes pieds te jeta.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>	
+<stage type="location">Une place.</stage>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1085">Tressez-moi ma guirlande, ô mes belles chéries !</l>
+	<l id="1086">Couronnez de vos fleurs mes pauvres rêveries.</l>
+	<l id="1087">Posez sur ma langueur votre voile embaumé ;</l>
+	<l id="1088">Au coucher du soleil j'attends mon bien-aimé.</l>
+</sp>
+<sp who="LES VIERGES"><speaker>LES VIERGES.</speaker>
+	<l id="1089">Adieu, nous te perdons, ô fille des montagnes !</l>
+	<l id="1090">Le bonheur nous oublie en venant te chercher.</l>
+	<l id="1091">Arrose ton bouquet des pleurs de tes compagnes ;</l>
+	<l id="1092">Fleur de notre couronne, on va t'en arracher.</l>
+</sp>
+<sp who="LES FEMMES"><speaker>LES FEMMES.</speaker>
+	<l id="1093">Vierge, à ton beau guerrier nous allons te conduire.</l>
+	<l id="1094">Nous te dépouillerons du manteau virginal.</l>
+	<l id="1095">Bientôt les doux secrets qu'il nous reste à te dire</l>
+	<l id="1096">Feront trembler ta main sous l'anneau nuptial.</l>
+</sp>
+<sp who="LES VIERGES"><speaker>LES VIERGES.</speaker>
+	<l id="1097">L'écho n'entendra plus ta chanson dans la plaine ;</l>
+	<l id="1098">Tu ne jetteras plus la toison des béliers</l>
+	<l id="1099">Sous les lions d'airain, pères de la fontaine,</l>
+	<l id="1100">Et la neige oubliera la forme de tes pieds.</l>
+</sp>
+<sp who="LES FEMMES"><speaker>LES FEMMES.</speaker>
+	<l id="1101">Que ton visage est beau ! Comme on y voit, ma chère,</l>
+	<l id="1102">Le premier des attraits, la beauté du bonheur !</l>
+	<l id="1103">Comme Frank va t'aimer ! Comme tu vas lui plaire,</l>
+	<l id="1104">Ô ma belle Diane, à ton hardi chasseur !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1105">Je souffre cependant. - Si vous me trouvez belle,</l>
+	<l id="1106">Dites-le-lui, mes soeurs, il m'en aimera mieux.</l>
+	<l id="1107">Mon_Dieu, je voudrais l'être, afin qu'il fût heureux.</l>
+	<l id="1108">Ne me comparez pas à la jeune immortelle :</l>
+	<l id="1109">Hélas ! De ta beauté je n'ai que la pâleur,</l>
+	<l id="1110">Ô Diane ! Et mon front la doit à ma douleur.</l>
+	<l id="1111">Ah ! Comme j'ai pleuré ! Comme tout sur la terre</l>
+	<l id="1112">Pleurait autour de moi quand mon Charle avait fui !</l>
+	<l id="1113">Comme je m'asseyais à côté de ma mère,</l>
+	<l id="1114">Le coeur gros de soupirs ! - Mes soeurs, dites-le-lui.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="LES MONTAGNARDS"><speaker>LES MONTAGNARDS.</speaker>
+	<l id="1115">Ainsi Frank n'est pas mort : - c'est la fable éternelle</l>
+	<l id="1116">Des chasseurs à_l_affût d'une fausse nouvelle,</l>
+	<l id="1117">Et ceux qui vendaient l'ours ne l'avaient pas tué.</l>
+	<l id="1118">Comme il leur a fait peur quand il s'est réveillé !</l>
+	<l id="1119">Mais aujourd'hui qu'il parle, il faut bien qu'on se taise.</l>
+	<l id="1120">- On avait fait jadis, quand l'Hercule_Farnèse</l>
+	<l id="1121">Fut jeté dans le Tibre, un Hercule nouveau.</l>
+	<l id="1122">On le trouvait pareil, on le disait plus beau :</l>
+	<l id="1123">Le modèle était mort, et le peuple crédule</l>
+	<l id="1124">Ne sait que ce qu'il voit. - Pourtant le vieil Hercule</l>
+	<l id="1125">Sortit un jour des eaux ; - l'athlète colossal</l>
+	<l id="1126">Fut élevé dans l'air à côté de son ombre,</l>
+	<l id="1127">Et le marbre insensé tomba du piédestal.</l>
+	<l id="1128">Frank renaît : ce n'est plus cet homme au regard sombre,</l>
+	<l id="1129">Au front blême, au coeur dur, et dont l'oisiveté</l>
+	<l id="1130">Laissait sur ses talons traîner sa pauvreté.</l>
+	<l id="1131">C'est un gai compagnon, un brave homme de guerre,</l>
+	<l id="1132">Qui frappe sur l'épaule aux honnêtes fermiers.</l>
+	<l id="1133">Aussi, Dieu soit loué, ses torts sont oubliés,</l>
+	<l id="1134">Et nous voilà tous prêts à boire dans son verre.</l>
+	<l id="1135">C'est aujourd'hui sa noce avec Déidamia.</l>
+	<l id="1136">Quel bon coeur de quinze ans ! Et quelle ménagère !</l>
+	<l id="1137">S'il fut jamais aimé, c'est bien de celle-là.</l>
+	<l id="1138">- Un soldat m'a conté l'histoire de la bière.</l>
+	<l id="1139">Il paraît que d'abord Frank s'était mis dedans.</l>
+	<l id="1140">Deux de ses serviteurs, ses deux seuls confidents,</l>
+	<l id="1141">Fermèrent le couvercle, et, dès la nuit venue,</l>
+	<l id="1142">Le prêtre et les flambeaux traversèrent la rue.</l>
+	<l id="1143">Après que sur leur dos les porteurs l'eurent pris :</l>
+	<l id="1144">« Vous laisserez, dit-il, un trou pour que l'air passe.</l>
+	<l id="1145">Puisque je dois un jour voir la mort face à face,</l>
+	<l id="1146">Nous ferons connaissance, et serons vieux amis. »</l>
+	<l id="1147">Il se fit emporter dans une sacristie ;</l>
+	<l id="1148">Regardant par son trou le ciel de la patrie,</l>
+	<l id="1149">Il s'en fut au saint lieu dont les chiens sont chassés,</l>
+	<l id="1150">Sifflant dans son cercueil l'hymne des trépassés.</l>
+	<l id="1151">Le lendemain matin, il voulut prendre un masque,</l>
+	<l id="1152">Pour assister lui-même à son enterrement.</l>
+	<l id="1153">Eh ! Quel homme ici-bas n'a son déguisement ?</l>
+<note type="L">Froc : La partie de l'habit des moines qui couvre la tête et les épaules. [L]</note>
+	<l id="1154">Le froc du pèlerin, la visière du casque,</l>
+	<l id="1155">Sont autant de cachots pour voir sans être vu.</l>
+	<l id="1156">Et n'en est-ce pas un souvent que la vertu ?</l>
+	<l id="1157">Vrai masque de bouffon, que l'humble hypocrisie</l>
+	<l id="1158">Promène sur le vain théâtre de la vie,</l>
+	<l id="1159">Mais qui, mal fixé, tremble, et que la passion</l>
+	<l id="1160">Peut faire à chaque instant tomber dans l'action.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<stage type="decor">Une petite chambre.</stage>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1161">Et tu m'as attendu, ma petite Mamette !</l>
+	<l id="1162">Tu comptais jour par jour dans ton coeur et ta tête.</l>
+	<l id="1163">Tu restais là, debout, sur ton seuil entr'ouvert.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1164">Mon ami, mon ami, Mamette a bien souffert !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1165">Les heures s'envolaient, - et l'aurore et la brune</l>
+	<l id="1166">Te retrouvaient toujours sur ce chemin perdu.</l>
+	<l id="1167">Ton Charle était bien loin. - Toi, comme la fortune,</l>
+	<l id="1168">Tu restais à sa porte, - et tu m'as attendu !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1169">Comme vous voilà pâle et la voix altérée !</l>
+	<l id="1170">Mon_Dieu ! Qu'avez-vous fait si loin et si longtemps ?</l>
+	<l id="1171">Ma mère, savez-vous, était désespérée.</l>
+	<l id="1172">Mais vous pensiez à nous quand vous aviez le temps ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1173">J'ai connu dans ma vie un pauvre misérable</l>
+	<l id="1174">Que l'on appelait Frank, - un être insociable,</l>
+	<l id="1175">Qui de tous ses voisins était l'aversion.</l>
+	<l id="1176">La famine et la peur, soeurs de l'oppression,</l>
+	<l id="1177">Vivaient dans ses yeux creux ; - la maigreur dévorante</l>
+	<l id="1178">L'avait horriblement décharné jusqu'aux os.</l>
+	<l id="1179">Le mépris le courbait, et la honte souffrante</l>
+	<l id="1180">Qui suit le pauvre était attachée à son dos.</l>
+	<l id="1181">L'univers et ses lois le remplissaient de haine.</l>
+	<l id="1182">Toujours triste, toujours marchant de ce pas lent</l>
+	<l id="1183">Dont un vieux pâtre suit son troupeau nonchalant,</l>
+	<l id="1184">Il errait dans les bois, par les monts et la plaine.</l>
+	<l id="1185">Et braconnant partout, et partout rejeté,</l>
+	<l id="1186">Il allait gémissant sur la fatalité ;</l>
+	<l id="1187">Le col toujours courbé comme sous une hache :</l>
+	<l id="1188">On eût dit un larron qui rôde et qui se cache,</l>
+	<l id="1189">Si ce n'est pis encore, - un mendiant honteux</l>
+	<l id="1190">Qui n'ose faire un coup, crainte d'être victime,</l>
+	<l id="1191">Et, pour toute vertu, garde la peur du crime,</l>
+	<l id="1192">Ce chétif et dernier lien des malheureux.</l>
+	<l id="1193">Oui, ma chère Mamette, oui, j'ai connu cet être.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1194">Qui donc est là, debout, derrière la fenêtre,</l>
+	<l id="1195">Avec ces deux grands yeux, et cet air étonné ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1196" syll="6" part="i">Où donc ? Je ne vois rien.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1196" syll="6" part="f">Si. - Quelqu'un nous écoute,</l>
+	<l id="1197">Qui vient de s'en aller quand tu t'es retourné.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1198">C'est quelque mendiant qui passe sur la route.</l>
+	<l id="1199">Allons, Déidamia, cela t'a fait pâlir.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1200">Eh bien, et ton histoire, où veut-elle en venir ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1201">Une autre fois, - c'était au milieu des orgies,</l>
+	<l id="1202">Je vis dans un miroir, aux clartés des bougies,</l>
+	<l id="1203">Un joueur pris de vin, couché sur un sofa,</l>
+	<l id="1204">Une femme, ou du moins la forme d'une femme,</l>
+	<l id="1205">Le tenait embrassé, comme je te tiens là.</l>
+	<l id="1206">Il se tordait en vain sous le spectre sans âme ;</l>
+	<l id="1207">Il semblait qu'un noyé l'eût pris entre ses bras.</l>
+	<l id="1208">Cet homme infortuné... Tu ne m'écoutes pas ?</l>
+	<l id="1209" syll="6" part="i">Voyons, viens m'embrasser.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1209" syll="6" part="f">Oh ! Non, je vous en prie.</l>
+<stage type="kiss">Il l'embrasse de force.</stage>
+	<l id="1210">Frank, mon cher petit Charle, attends qu'on nous marie ;</l>
+	<l id="1211">Attends jusqu'à ce soir. - Ma mère va venir.</l>
+	<l id="1212">Je ne veux pas, Monsieur. - Ah ! Tu me fais mourir !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1213">Lumière du soleil, quelle admirable fille !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1214">Il faudra, mon ami, nous faire une famille ;</l>
+	<l id="1215">Nous aurons nos voisins, ton père, tes parents,</l>
+	<l id="1216">Et ma mère surtout. - Nous aurons nos enfants.</l>
+	<l id="1217">Toi, tu travailleras à notre métairie ;</l>
+	<l id="1218">Moi, j'aurai soin du reste et de la laiterie ;</l>
+	<l id="1219">Et, tant que nous vivrons, nous serons tous les deux,</l>
+	<l id="1220">Tous les deux pour toujours, et nous mourrons bien vieux.</l>
+	<l id="1221" syll="6" part="i">Vous riez ? Pourquoi donc ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1221" syll="6" part="f">Oui, je ris du tonnerre.</l>
+	<l id="1222">Oui, le diable m'emporte, il peut tomber sur moi.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1223">Qu'est-ce que c'est, Monsieur ? Voulez-vous bien vous taire !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1224">Va toujours, mon enfant, je ne ris pas de toi.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1225">Qui donc est encor là ? Je te dis qu'on nous guette.</l>
+	<l id="1226">Tu ne vois pas là-bas remuer une tête ?</l>
+	<l id="1227" syll="6" part="i">Là, - dans l'ombre du mur ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1227" syll="6" part="f">Où donc ? de quel côté ?</l>
+	<l id="1228">Vous avez des terreurs, ma chère, en vérité.</l>
+<stage type="hugh">Il la prend dans ses bras.</stage>
+	<l id="1229">Il me serait cruel de penser qu'une femme,</l>
+	<l id="1230">Ô Mamette, moins belle et moins pure que toi,</l>
+	<l id="1231">Dans des lieux étrangers, par un autre que moi,</l>
+	<l id="1232">Pût être autant aimée. - Ah ! J'ai senti mon âme</l>
+	<l id="1233">Qui redevenait vierge à ton doux souvenir,</l>
+	<l id="1234">Comme l'onde où tu viens mirer ton beau visage</l>
+	<l id="1235">Se fait vierge, ma chère, et dans ta chaste image</l>
+	<l id="1236">Sous son cristal profond semble se recueillir !</l>
+	<l id="1237">C'est bien toi ! - Je te tiens, - toujours fraîche et jolie,</l>
+	<l id="1238">Toujours comme un oiseau, prête à tout oublier.</l>
+	<l id="1239">Voilà ton petit lit, ton rouet, ton métier,</l>
+	<l id="1240">OEuvre de patience et de mélancolie.</l>
+	<l id="1241">Ô toi, qui tant de fois as reçu dans ton sein</l>
+	<l id="1242">Mes chagrins et mes pleurs, et qui m'as en échange</l>
+	<l id="1243">Rendu le doux repos d'un front toujours serein ;</l>
+	<l id="1244">Comment as-tu donc fait, dis-moi, mon petit ange,</l>
+	<l id="1245">Pour n'avoir rien gardé de mes maux, quand mon coeur</l>
+	<l id="1246">A tant et si souvent gardé de ton bonheur ?</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1247">Ah ! Vous savez toujours, vous autres hypocrites,</l>
+	<l id="1248">De beaux discours flatteurs bien souvent répétés.</l>
+	<l id="1249">Je les aime, mon_Dieu ! Quand c'est vous qui les dites ;</l>
+	<l id="1250">Mais ce n'est pas pour moi qu'ils étaient inventés.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1251">Dis-moi, tu ne veux pas venir en Italie ?</l>
+	<l id="1252">En Espagne ? à Paris ? nous mènerions grand train.</l>
+	<l id="1253">Avec si peu de frais tu serais si jolie !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1254">Est-ce que vous trouvez ce bonnet-là vilain ?</l>
+	<l id="1255">Vous verrez tout à l'heure, avec ma belle robe</l>
+	<l id="1256">Et mon tablier vert. - Vous riez, vous riez ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1257">Dans une heure d'ici nous serons mariés.</l>
+	<l id="1258">Ce baiser que tu fuis, et que je te dérobe,</l>
+	<l id="1259">Tu me le céderas, Mamette, de bon coeur.</l>
+	<l id="1260">Dans une heure, ô mon_Dieu ! Tu viendras me le rendre.</l>
+	<l id="1261" syll="6" part="i">Mamette, je me meurs.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1261" syll="6" part="f">Ah ! Moi, je sais attendre !</l>
+	<l id="1262">Voyons, laissez-moi donc être un peu votre soeur.</l>
+	<l id="1263">Une heure, une heure encore, et je serai ta femme.</l>
+	<l id="1264">Oui, je vais te le rendre, et de toute mon âme,</l>
+	<l id="1265">Ton baiser dévorant, mon Frank, ton beau baiser !</l>
+	<l id="1266">Et ton tonnerre alors pourra nous écraser.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1267">Oh ! Que cette heure est longue ! Oh ! Que vous êtes belle !</l>
+	<l id="1268">De quelle volupté déchirante et cruelle</l>
+	<l id="1269">Vous me noyez le coeur, froide Déidamia !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1270">Regardez, regardez, la tête est toujours là.</l>
+	<l id="1271" syll="6" part="i">Qui donc nous guette ainsi ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1271" syll="6" part="f">Mamette, ô mon amante !</l>
+	<l id="1272">Ne me détourne pas cette lèvre charmante.</l>
+	<l id="1273">Non ! Quand l'éternité devrait m'ensevelir !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1274">Mon ami, mon amant, respectez votre femme.</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1275">Non ! Non ! Quand ton baiser devrait brûler mon âme !</l>
+	<l id="1276">Non ! Quand ton Dieu jaloux devrait nous en punir !</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1277">Eh bien ! Oui, ta maîtresse, - eh bien ! Oui, ton amante,</l>
+	<l id="1278">Ta Mamette, ton bien, ta femme et ta servante.</l>
+	<l id="1279">Et la mort peut venir, et je t'aime, et je veux</l>
+	<l id="1280">T'avoir là dans mes bras et dans mes longs cheveux,</l>
+	<l id="1281">Sur ma robe de lin ton haleine embaumée.</l>
+	<l id="1282">Je sais que je suis belle, et plusieurs m'ont aimée ;</l>
+	<l id="1283">Mais je t'appartenais, j'ai gardé ton trésor.</l>
+<stage type="hugh">Elle tombe dans ses bras.</stage>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="stand/abrupt">, se levant brusquement.
+	</stage>
+	<l id="1284" syll="6" part="i">Quelqu'un est là, c'est vrai.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1284" syll="6" part="f">Qu'importe ? Charle, Charle !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK.</speaker>
+	<l id="1285">Ah ! Massacre et tison d'enfer ! - C'est Belcolore !</l>
+	<l id="1286">Restez ici, Mamette, il faut que je lui parle.</l>
+<stage type="jump/location">Il saute par la fenêtre.</stage>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA.</speaker>
+	<l id="1287">Mon_Dieu ! Que va-t-il faire, et qu'est-il arrivé ?</l>
+	<l id="1288">Le voilà qui revient. - Eh bien ! L'as-tu trouvé ?</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="location">, à la fenêtre, en dehors.
+	</stage>
+	<l id="1289">Non, mais, par le tonnerre, il faudra qu'il y vienne.</l>
+	<l id="1290">Je crois que c'est un spectre, et vous aviez raison.</l>
+	<l id="1291">Attendez-moi. - Je fais le tour de la maison.</l>
+</sp>
+<sp who="DÉIDAMIA"><speaker>DÉIDAMIA</speaker><stage type="location">, courant à la fenêtre.
+	</stage>
+	<l id="1292">Charle, ne t'en va pas ! S'il s'enfuit dans la plaine,</l>
+	<l id="1293">Laisse-le s'envoler, ce spectre de malheur.</l>
+<stage type="entrance/location/away">Belcolore paraît de l'autre côté de la fenêtre et s'enfuit aussitôt.</stage>
+	<l id="1294">Au secours ! Au secours ! On m'a frappée au coeur.</l>
+<stage type="fall/exit">Déidamia tombe et sort en se traînant.</stage>
+</sp>
+<sp who="LES MONTAGNARDS"><speaker>LES MONTAGNARDS</speaker><stage type="run/location">, accourant au dehors.
+	</stage>
+	<l id="1295">Frank ! Que se passe-t-il ? On nous appelle, on crie.</l>
+	<l id="1296">Qui donc est là par terre étendu dans son sang ?</l>
+	<l id="1297">Juste Dieu ! C'est Mamette ! Ah ! Son âme est partie.</l>
+	<l id="1298">Un stylet italien est entré dans son flanc.</l>
+	<l id="1299" syll="6" part="i">Au meurtre ! Frank, au meurtre !</l>
+</sp>
+<sp who="FRANK"><speaker>FRANK</speaker><stage type="entrance/location/dead/hugh">,rentrant dans la cabane avec Déidamia morte dans ses bras
+	</stage>
+	<l id="1299" syll="6" part="f">Ô toi, ma bien-aimée !</l>
+	<l id="1300">Sur mon premier baiser ton âme s'est fermée.</l>
+	<l id="1301">Pendant plus de quinze ans tu l'avais attendu,</l>
+	<l id="1302">Mamette, et tu t'en vas sans me l'avoir rendu.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

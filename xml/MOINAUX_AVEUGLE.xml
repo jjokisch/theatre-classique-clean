@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>L'AVEUGLE QUI CONDUIT SON CHIEN, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 0654 8120">Jules MOINAUX (1815-1895)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>MOINAUX_cerclevicieux</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1881-1890</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k5718390w</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'AVEUGLE QUI CONDUIT SON CHIEN.</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés.</docDate>
+		<docAuthor id="MOINAUX, Jules">par JULES MOINEAUX, rédacteur de la Gazette des Tribunaux.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, CHEVALIER-MARESCQ ÉDITEUR, 20 rue SOUFFLOT, 20.</editor>
+			<printer id="NOBLET">8517. - Paris. Imprimerie de Ch. Noblet, 13 rue Cujas. - 1881</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="narrateur" age="A" stat_amour="néant">LE NARRATEUR</role>.</castItem>
+			<castItem><role id="L'AGENT" sex="1" type="H" statut="agent" age="A" stat_amour="néant">L'AGENT</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président du tribunal" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			<castItem><role id="LE PRÉVENU" sex="1" type="H" statut="mendiant" age="A" stat_amour="néant">LE PRÉVENU</role>, aveugle de profession.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de MOINAUX, Jules, "Les tribunaux comiques", Paris, Chevalier-Marescq éditeur, 1881. pp 327-329</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>L'AVEUGLE QUI CONDUIT SON CHIEN.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker>LE NARRATEUR.</speaker>
+<p id="1">
+	<s id="1">Un aveugle, assis sur le banc des prévenus, regarde avec curiosité l'auditoire, le tribunal, le greffier, les huissiers, la salle d'audience, la pendule, enfin tout ce qui d'ordinaire n'a aucun intérêt pour les aveugles.</s>
+</p>
+<p id="2">
+	<s id="1">À la vérité, cet homme exerce simplement la profession d'aveugle ; il a tout ce qui concerne son état : la clarinette, le caniche, le bâton ; seulement, il a d'excellents yeux, ce qui lui donne cet avantage sur ses confrères de reconnaître la fausse monnaie quand on lui en jette dans sa sébile. </s>
+	<s id="2">Il comparaît devant la justice sous la prévention de mendicité en feignant des infirmités.</s>
+</p>
+</sp>
+<sp who="UN AGENT"><speaker>UN AGENT.</speaker>
+<p id="2">
+	<s id="1">Je suivais depuis quelques instants cet homme sur le boulevard extérieur ; il chantait à tue-tête une chanson lamentable et alternait avec des airs de clarinette, lorsque tout_à_coup je le vois aller directement à un banc et s'y asseoir en retenant son chien qui continuait à marcher ; je me dis : C'est bien drôle ! </s>
+	<s id="2">Comment savait-il qu'il y a un banc là ? </s>
+	<s id="3">Il s'y est assis sans tâtonnements, sans hésitation... </s>
+	<s id="4">C'est bien drôle !</s>
+</p>
+<p id="3">
+	<s id="1">Une fois assis, il fait venir son chien entre ses jambes ; le chien s'assied sur son derrière, et l'homme se met à débiter son chapelet : « Ayez pitié, d'un pauvre aveugle. »</s>
+</p>
+<p id="4">
+	<s id="1">Je l'observe, et je remarque que chaque fois qu'il passait une personne bien mise il criait bien plus haut, ou plutôt, quand c'était un pauvre diable qui passait, mon aveugle ne disait rien. </s>
+	<s id="2">Après l'avoir vu recevoir l'aumône trois ou quatre fois, je l'ai arrêté et conduit au poste.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT</speaker><stage type="toward">, au prévenu. 
+</stage>
+<p id="5">
+	<s id="1">Reconnaissez vous avoir mendié ?</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="6">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour avoir demandé, non ; pour ça, je nie ; je chantais, c'est vrai, parce que.... vous savez... on est de bonne humeur, ça vous donne envie de chanter ; ça arrive à tout le monde ; mais pour avoir demandé, non.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="7">
+	<s id="1">Mais l'agent, vous a vu recevoir plusieurs fois.</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="8">
+	<s id="1">Oui, des personnes qui ont cru que je demandais, mais je ne demandais rien.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="9">
+	<s id="1">Vous êtes un mendiant de profession, vous avez déjà été condamné pour cela.</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="10">
+	<s id="1">Le passé est passé ; mais le jour que dit Monsieur_l_agent, non.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="11">
+	<s id="1">Mais vous aviez un chien et une clarinette.</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="12">
+	<s id="1">Tout le monde peut avoir un chien et une clarinette.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="13">
+	<s id="1">Les aveugles, oui ; et c'est précisément la cécité que vous simuliez.</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="14">
+	<s id="1">Qu'est-ce que je dissimulais ?</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="15">
+	<s id="1">Vous feigniez d'être aveugle, et vous ne l'êtes pas.</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="16">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="MONSIEUR LE PRÉSIDENT"><speaker>MONSIEUR LE PRÉSIDENT.</speaker>
+<p id="17">
+	<s id="1">Eh bien, pourquoi disiez-vous : Ayez pitié d'un pauvre aveugle ?</s>
+</p>
+</sp>
+<sp who="LE PRÉVENU"><speaker>LE PRÉVENU.</speaker>
+<p id="18">
+	<s id="1">Si j'ai dit ça, c'était en parlant de mon chien ; c'est lui qui est aveugle, la pauvre bête ; alors je le mène promener.</s>
+</p>
+</sp>
+<stage type="explicit">Le tribunal à condamné ce digne émule de Patachon à un mois de prison.</stage>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

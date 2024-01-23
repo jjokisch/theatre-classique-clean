@@ -1,0 +1,1673 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>LE RADEAU DE LA MÉDUSE, COMÉDIE EN UN ACTE</title>
+				<author type="texte" ISNI="0000 0001 2137 1490">Tristan BERNARD (1866-1947) </author>
+			</titleStmt>
+			<publicationStmt>	
+				<publisher>Texte établi par Paul FIEVRE août 2022</publisher>
+				<publisher>Publié par Paul FIEVRE septembre 2022</publisher>
+				<idno>BERNARDT_DAISY</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1891-1900</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 4-YTH-8023">https://gallica.bnf.fr/ark:/12148/bpt6k9810135k</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+<front>
+	<docTitle>
+	    <titlePart part="main">LE RADEAU DE LA MÉDUSE</titlePart>
+		<titlePart part="sub">COMÉDIE EN UN ACTE</titlePart> 
+		<titlePart part="sub">Représentée pour la première fois, à Paris, sur le Théâtre de la Renaissance, le 6 février 1898.</titlePart>
+	</docTitle>
+   <docDate value="1904">1904.</docDate>
+   <docAuthor id="BERNARD, Tristan">de TRISTAN BERNARD.</docAuthor>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="HENRI" sex="1" type="H" statut="bourgeois" age="V" stat_amour="">HENRI</role>, vingt-cinq ans.</castItem>
+		<castItem><role id="MONSIEUR LALBERT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">MONSIEUR LALBERT</role>, soixante ans.</castItem>
+		<castItem><role id="HENRIETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">HENRIETTE</role>, vingt ans.</castItem>
+		<castItem><role id="MADAME LALBERT" sex="2" type="H" statut="bourgeois" age="V" stat_amour="">MADAME LALBERT</role>, cinquante ans.</castItem>
+		<castItem><role id="OLGA" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">OLGA</role>.</castItem>
+		<castItem><role id="STÉPHANIE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">STÉPHANIE</role>.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE RADEAU DE LA MÉDUSE</head>
+<stage type="decor">Porte au fond. Une autre porte au second plan, à gauche. Au premier plan, à gauche, la cheminée et deux fauteuils. Au premier plan, à droite, un piano posé perpendiculairement à la rampe. Le tabouret du piano est entre le mur de droite et le piano.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Olga, Stéphanie.
+</stage>
+<stage type="costume">Toutes deux sont en tablier blanc.</stage>
+<sp who="OLGA"><speaker>OLGA</speaker><stage type="work">, enlevant des housses.
+</stage>
+<p id="1">
+	<s id="1">Eh bien !</s>
+	<s id="2">C'est entendu comme ça. </s>
+	<s id="3">Vous montez dîner chez vous au galop, et vous venez me prendre tout de suite après. </s>
+	<s id="4">Il doit être sept_heures_un_quart.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE</speaker><stage type="get">, tirant sa montre.
+</stage>
+<p id="2">
+	<s id="1">Si vous disiez sept_heures_et_demie. </s>
+	<s id="2">Je vais juste. </s>
+	<s id="3">Je l'ai encore remontée dimanche dernier sur l'horloge_du_Panthéon. </s>
+	<s id="4">Ça commence à huit_heures_et_demie, et il y a plus qu'un pas d'ici l'Ambigu.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="3">
+	<s id="1">Dépêchez-vous d'aller dîner.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="4">
+	<s id="1">Oh ! </s>
+	<s id="2">Mes maîtres ne doivent pas encore avoir fini...</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="5">
+	<s id="1">Moi, les miens ont fini depuis un_quart_d_heure.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="6">
+	<s id="1">C'est vrai que vous mangez chez vous à des heures impossibles.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="7">
+	<s id="1">Ne m'en parlez pas, ma pauvre amie, tous les jours à table à six_heures_un_quart.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="8">
+	<s id="1">Drôle d'idée de dîner si tôt.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="9">
+	<s id="1">C'est des habitudes de province. </s>
+	<s id="2">Le patron, avant d'être chef_de_bureau, était quelque chose en province ; il était ponts-et-chaussées qu'on m'a dit, ou receveur, enfin dans les sous-préfectures. </s>
+	<s id="3">Je crois que c'était à la sous-préfecture de Bordeaux ou de Genève. </s>
+	<s id="4">Enfin il y avait de la province dans tout ça. </s>
+	<s id="5">Ils sont venus s'installer ici, il y a cinq ans. </s>
+	<s id="6">Monsieur a obtenu son changement parce que la mère à Madame tenait de décéder et de laisser des maisons sur le pavé de Paris. </s>
+	<s id="7">Alors ils sont venus ici, Monsieur et Madame, pour que les maisons soient pas toutes seules, les recueillir et les soigner. </s>
+	<s id="8">Mais notre Monsieur, on peut dire que c'est un vieux original.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="10">
+	<s id="1">Un vieux original, que vous dites ?... </s>
+	<s id="2">J'ai connu aussi un maître qui était comme ça. </s>
+	<s id="3">Ils sont drôles, ces gens-là, les vieux originals.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="11">
+	<s id="1">À son ministère, il est détesté comme la peste, parce qu'il est grincheux, tatillon, et qu'il arrive toujours le premier au bureau, dès les onze heures, avant tous les employés, avant tous les garçons. </s>
+	<s id="2">Ça ne le gêne pas beaucoup... </s>
+	<s id="3">Nous déjeunons à dix heures et quart... </s>
+	<s id="4">Toujours des habitudes de province... </s>
+	<s id="5">Le matin, déjeuner à dix heures et quart... </s>
+	<s id="6">Le soir, à six heures et quart.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="12">
+	<s id="1">C'est commode pour aller au théâtre.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<note type="C">Margotin : Sorte de petit fagot de menues branches préparé pour allumer le feu. Assemblage de deux ou trois crins tordus, dont on fait des lignes pour la pêche. [L]</note>
+<p id="13">
+	<s id="1">Oui, mais quand on y va aussi peu souvent que moi ! </s>
+	<s id="2">En revanche, c'est rudement gênant le dimanche quand il faut être rentrée à cinq_heures de l'après-midi pour allumer son feu, surtout que j'ai un fourneau de fourneau qui ne sait pas ce que c'est que de prendre, même avec des margotins.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="14">
+	<s id="1">Ils tous laissent encore assez souvent sortir le soir.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="15">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour ça, ils ne sont pas regardants... </s>
+	<s id="3">Ainsi, quand j'ai demandé à Madame la permission pour aller à l'Ambigu, elle n'a fait aucune difficulté. </s>
+	<s id="4">Et pourtant il tient deux personnes ce soir. </s>
+	<s id="5">Un Monsieur et une dame qui tiennent pour une place. </s>
+	<s id="6">Il faut croire que ce n'est pas des gens de grande importance, puisqu'on me laisse sortir tout de même et qu'on n'a pas fait de préparatifs pour eux.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE</speaker><stage>, se levant.
+</stage>
+<p id="16">
+	<s id="1">Oh ! </s>
+	<s id="2">Sept heures trente-cinq ! </s>
+	<s id="3">Je monte dîner au galop, ma petite, et je tiens tous prendre dans un quart d'heure... </s>
+	<s id="4">Ils doivent avoir fini, là-haut... </s>
+	<s id="5">C'est la nounou qui sert à table, à ma place... </s>
+	<s id="6">Chez nous, ils dînent à sept_heures, sept_heures_un_quart.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="17">
+	<s id="1">C'est des heures, ça ! </s>
+	<s id="2">Mais six_heures_un_quart. </s>
+	<s id="3">Il faut avoir été sous-préfet à Genève.</s>
+</p>
+</sp>
+<sp who="STÉPHANIE"><speaker>STÉPHANIE.</speaker>
+<p id="18">
+	<s id="1">Je file. </s>
+	<s id="2">Je viens tous prendre. </s>
+	<s id="3">Ou bien, montez me chercher, puisque tous serez prête avant moi... </s>
+	<s id="4">vous pourrez dire bonjour à Célina.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="19">
+	<s id="1">Oui, ça ta mieux comme ça. </s>
+	<s id="2">À tout à l'heure.</s>
+</p>
+<stage type="exit">Stéphanie sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Olga, puis Madame Lalbert.
+</stage>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="entrance">, entrant par la porte de droite.
+</stage>
+<p id="1">
+	<s id="1">Quand tous faites cuire des choux_de_Bruxelles comme ce soir, je tous ai déjà répété dix fois qu'il fallait tenir bien fermée votre porte de cuisine. </s>
+	<s id="2">Sans quoi l'odeur se répand dans tout l'appartement. </s>
+	<s id="3">Ce salon en est empesté. </s>
+	<s id="4">Comme c'est agréable pour ce Monsieur et cette Dame qui tiennent passer la soirée !</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="2">
+	<s id="1">Ça n'est pas une mauvaise odeur... </s>
+	<s id="2">Tout à l'heure, en rentrant du bureau, Monsieur a dit : </s>
+	<s id="3">« Oh ! quelle bonne odeur de choux ! »</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="3">
+	<s id="1">Oui, avant le dîner. </s>
+	<s id="2">Mais maintenant qu'ils sont mangés, ça ne produit pas la même impression.</s>
+</p>
+<stage type="ring">On sonne.</stage>
+<p id="4">
+	<s id="1">Tenez ! </s>
+	<s id="2">Voilà justement ce Monsieur et cette Dame. </s>
+	<s id="3">Ils sont exacts. </s>
+	<s id="4">Monsieur leur a dit que nous nous couchions de bonne heure et qu'il ne fallait pas tenir passé huit heures.</s>
+</p>
+<stage type="ring">On sonne.</stage>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">Ils sont impatients... </s>
+	<s id="3">Ne vous pressez pas, ma fille... </s>
+	<s id="4">C'est un jeune homme qui tient pour cette place de contrôleur. </s>
+	<s id="5">Mon mari doit désigner le candidat de son choix, et le ministre nommera le candidat de mon mari. </s>
+	<s id="6">Ils attendront un peu.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="6">
+	<s id="1">L'escalier est chauffé.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="7">
+	<s id="1">Vous les ferez entrer ici, et vous leur direz que je vais venir.</s>
+</p>
+<stage type="">On sonne.</stage>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">Ils sont pressés, décidément. </s>
+	<s id="3">Redressez-moi bien le dessus du piano... </s>
+	<s id="4">Moi, je trouve que c'est impoli de s'impatienter comme ça.</s>
+</p>
+</sp>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="9">
+	<s id="1">Ce n'est pas qu'ils s'impatientent, Madame, mais du dehors, avec cette sonnette, on n'entend pas quelquefois si ça sonne en dedans.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="10">
+	<s id="1">Allez leur ouvrir.</s>
+</p>
+<stage type="exit/furniture/location">Olga sort. Madame Lalbert range quelques sièges et sort à son tour par la porte de droite.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Olga, Henri, Henriette.
+</stage>
+<sp who="OLGA"><speaker>OLGA.</speaker>
+<p id="1">
+	<s id="1">Si ces Messieurs Dames veulent attendre quelques instants, Madame et Monsieur ne seront pas longtemps à venir.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="2">
+	<s id="1">Moi, je me trotte chercher Stéphanie.</s>
+</p>
+<stage type="exit">Elle sort à gauche.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Henri, Henriette.
+</stage>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="touch">, se frottant les mains.
+</stage>
+<p id="1">
+	<s id="1">Je suis content, ma petite Rette.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="2">
+	<s id="1">Pourquoi, mon petit Ri ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="3">
+	<s id="1">Parce que, ma petite Rette, nous allons faire un bon dîner... </s>
+	<s id="2">Sens-moi cette odeur de choux.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="4">
+	<s id="1">Je connais ça... </s>
+	<s id="2">C'est sûrement des choux_de_Bruxelles.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="5">
+	<s id="1">Je les adore.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="6">
+	<s id="1">Seulement je trouve qu'on dîne tard dans cette maison-ci.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="7">
+	<s id="1">Et nous ne sommes pas encore à table... </s>
+	<s id="2">Il n'est que huit heures moins dix. </s>
+	<s id="3">Monsieur Lalbert m'a dit : « Ne tenez pas plus tard que huit_heures. » </s>
+	<s id="4">Il n'est donc pas probable qu'on dîne avant huit heures.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="8">
+	<s id="1">Ça a dû te faire plaisir, quand il t'a incité ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="9">
+	<s id="1">Penses-tu ? </s>
+	<s id="2">Je lui avais soumis ma demande pour cette place avec la lettre de notre ami Bayen. </s>
+	<s id="3">Le soir, à quatre heures, je suis retourné à son bureau, et il m'a dit : « Je veux tous avoir un de ces soirs chez moi. </s>
+	<s id="4">Venez sans façon avec votre femme. </s>
+	<s id="5">Madame Lalbert sera contente de faire votre connaissance. » </s>
+	<s id="6">Et il a ajouté : « Ne tenez pas plus tard que huit_heures_moins_le_quart. »</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="10">
+	<s id="1">Il est tout-puissant pour te faire obtenir cette place ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="11">
+	<s id="1">Oui ; le ministre lui demande son avis, et il nommera la personne qu'il aura désignée. </s>
+	<s id="2">C'est toujours comme ça que ça se passe.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="12">
+	<s id="1">Ça serait bien, mon petit, d'avoir cette place. </s>
+	<s id="2">Tu gagnerais le double de ce que tu as maintenant.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="13">
+	<s id="1">Ça serait mieux que bien. </s>
+	<s id="2">Ça serait nécessaire. </s>
+	<s id="3">Autrement je ne sais pas comme nous sortirons des embarras où je suis. </s>
+	<s id="4">C'est ça qui nous tirerait de la purée !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="14">
+	<s id="1">J'ai faim. </s>
+	<s id="2">En ce moment, quand tu parles de purée, je ne peux faire autrement que de penser à une bonne purée de marrons.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="15">
+	<s id="1">Avec une dinde au milieu.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="16">
+	<s id="1">On doit bien manger ici.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="17">
+	<s id="1">De la bonne cuisine de ménage. </s>
+	<s id="2">Tu as vu, comme j'ai déjeuné en précision de ce dîner-là. </s>
+	<s id="3">Un oeuf et une côtelette. </s>
+	<s id="4">Il faut faire honneur au repas de Monsieur et Madame Lalbert. </s>
+	<s id="5">Ce sont des gens à vous bourrer.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="18">
+	<s id="1">À vous mettre le manger de force dans votre assiette.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="19">
+	<s id="1">Je me laisserai faire. </s>
+	<s id="2">Je résisterai pour la forme... </s>
+	<s id="3">Jamais je n'ai eu faim comme aujourd'hui... </s>
+	<s id="4">La seule crainte que j'ai, c'est de manger trop... </s>
+	<s id="5">Attention à ne pas faire de gaffes, petit chéri. </s>
+	<s id="6">Il s'agit de ne pas déplaire à ces gens-là. </s>
+	<s id="7">Si nous leur déplaisons, tu sais, la place est dans le seau.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="20">
+	<s id="1">Sois tranquille...</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="21">
+	<s id="1">Tais-toi. </s>
+	<s id="2">J'entends nos hôtes. </s>
+	<s id="3">Réfrène tes appétits carnassiers. </s>
+	<s id="4">Moi, je dissimule les miens, non sans peine.</s>
+</p> 
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Henri, Henriette, Monsieur Lalbert, Madame Lalbert.
+</stage>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="1">
+	<s id="1">Bonjour, Madame. </s>
+	<s id="2">Bonjour, Monsieur. </s>
+	<s id="3">Rosette, je te présente Monsieur_et_Madame_Henri_Bardin.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="2">
+	<s id="1">Madame, vous êtes bien aimable d'être venue.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="3">
+	<s id="1">Oh ! </s>
+	<s id="2">Madame ! </s>
+	<s id="3">Ma femme était impatiente de faire votre connaissance ! </s>
+	<s id="4">Elle me pressait tout à l'heure... </s>
+	<s id="5">« Dépêche-toi, mon ami ! Ne faisons pas attendre Monsieur_et_Madame_Lalbert. »</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="4">
+	<s id="1">Oh ! </s>
+	<s id="2">Il ne fallait pas tant vous presser et vous gêner pour ça ! </s>
+	<s id="3">Je vous aurais attendus paisiblement en lisant mon journal. </s>
+	<s id="4">Mais c'est très bien d'être venus à l'heure indiquée.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">Nous n'aimons pas changer les habitudes des gens.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="6">
+	<s id="1">Nous avons nous-mêmes des habitudes très régulières. </s>
+	<s id="2">La vie n'est agréable qu'à ce prix.</s>
+</p>
+<stage type="STOP">Un temps.</stage>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="7">
+	<s id="1">Asseyez-vous donc, Monsieur et Madame...</s>
+</p>
+<stage type="sit/wait">Ils s'assoient : un temps.</stage>
+<p id="8">
+	<s id="1">Avez-vous entendu crier les journaux du soir ?... </s>
+	<s id="2">Y a-t-il du nouveau cette après-midi à la Chambre ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="9">
+	<s id="1">Rien de nouveau... </s>
+	<s id="2">Je ne crois pas... </s>
+	<s id="3">Rien de nouveau.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="10">
+	<s id="1">Il y a une discussion sur les sucres, dont j'aurais bien aimé connaître le résultat... </s>
+	<s id="2">Enfin, rien ne presse. </s>
+	<s id="3">J'attendrai à demain.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="11">
+	<s id="1">Est-ce que vous vous intéressez, Madame, aux nouvelles de la Chambre ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, après avoir regardé Henri.
+</stage>
+<p id="12">
+	<s id="1">Un petit peu, Madame, un petit peu.</s>
+</p>
+<stage type="silence">Un temps.</stage>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="low/toward">, à demi-voix à Lalbert.
+</stage>
+<p id="13">
+	<s id="1">Je vais voir si la bonne est toujours à la cuisine...</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="14">
+	<s id="1">Je vous demande pardon. </s>
+	<s id="2">Monsieur et Madame, quelques ordres à donner à ma cuisinière.</s>
+</p>
+</sp>
+<sp who="HENRI, HENRIETTE"><speaker>HENRI et HENRIETTE</speaker><stage type="together/hurry">, ensemble avec empressement.
+</stage>
+<p id="15">
+	<s id="1">Faites-donc, Madame, faites.</s>
+</p>
+<stage type="exit">Madame Lalbert sort.</stage>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="16">
+	<s id="1">Ne trouvez-vous pas que ça sent le chou ? </s>
+	<s id="2">C'est insupportable. </s>
+	<s id="3">Nous avons une cuisinière qui empeste l'appartement avec sa cuisine.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="17">
+	<s id="1">Mais c'est une odeur qui n'est pas désagréable.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="stand">, se levant.
+</stage>
+<p id="18">
+	<s id="1">Vous avez là de bien jolis tableaux.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="19">
+	<s id="1">Pas mal, pas mal. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Vous savez ! </s>
+	<s id="4">c'est pour garnir les murs. </s>
+	<s id="5">Je n'y fais jamais attention.</s>
+</p>
+<stage type="stop">Un temps.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="20">
+	<s id="1">Vous habitez dans un quartier bien agréable.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="21">
+	<s id="1">Un peu retiré.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="22">
+	<s id="1">C'est ce qui en fait le charme.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="low/toward">, rentrant, à demi-voix à Lalbert.
+</stage>
+<p id="23">
+	<s id="1">C'est trop fort ! </s>
+	<s id="2">Crois-tu, Émile ? </s>
+	<s id="4">Elle est partie. </s>
+	<s id="5">Non, tu sais, ça ne peut pas durer avec cette fille.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="24">
+	<s id="1">Je disais, Madame, à Monsieur_Lalbert, que j'aimais beaucoup votre quartier.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="25">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, je ne l'aime pas trop. </s>
+	<s id="3">Il est tellement mal commode pour les provisions. </s>
+	<s id="4">Les fournisseurs sont au diable. </s>
+	<s id="5">Le boulanger est à dix minutes, le boucher à un quart d'heure.</s>
+</p>
+<stage type="">Un temps.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="stand/closer">, se levant et allant au piano.
+</stage>
+<p id="26">
+	<s id="">Je vous demande pardon, Madame, si j'examine de si près votre dessus de piano. </s>
+	<s id="2">Je le trouve d'une broderie exquise. </s>
+	<s id="3">Regarde donc, Henri.</s>
+</p>
+<stage type="low/toward">Bas à Henri qui s'est approché.</stage>
+<p id="27">
+	<s id="1">J'ai une faim atroce. </s>
+	<s id="2">Et on ne dînera pas de sitôt.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="28">
+	<s id="1">Regarde ces fleurs comme c'est fin.</s>
+</p>
+<stage type="low">Bas.</stage>
+<p id="29">
+	<s id="1">On ne dînera pas de sitôt. </s>
+	<s id="2">La cuisinière est sortie. </s>
+	<s id="3">C'est moi qui balancerais une cuisinière, si elle sortait comme ça au moment du dîner.</s>
+</p>
+<stage type="">Haut.</stage>
+<p id="30">
+	<s id="1">Tu vois, c'est comme le dessus de piano de tante Sophie... </s>
+	<s id="2">Mais j'aime beaucoup mieux celui-là.</s>
+</p>
+<stage type="">Bas.</stage>
+<p id="31">
+	<s id="1">Parle-leur un peu. </s>
+	<s id="2">La conversation va languir. </s>
+	<s id="3">J'ai épuisé le dessus du piano.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="32">
+	<s id="1">J'ai trop faim pour parler. </s>
+	<s id="2">Je parlerai à table.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="sit">, revenant s'asseoir.
+</stage>
+<p id="33">
+	<s id="1">Et vous sortez quelquefois, le soir, Madame ? </s>
+	<s id="2">Vous allez au théâtre ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="34">
+	<s id="1">Oh ! </s>
+	<s id="2">Jamais.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="35">
+	<s id="1">Nous non plus. </s>
+	<s id="2">Nous sortons pour aller voir des amis. </s>
+	<s id="3">Voilà tout.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="36">
+	<s id="1">C'est si difficile d'aller au théâtre avec les habitudes de Paris. </s>
+	<s id="2">On dîne de plus en plus tard... </s>
+	<s id="3">Nous, il nous arrive parfois de nous mettre à table à neuf_heures_moins_le_quart.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="37">
+	<s id="1">C'est effrayant ! </s>
+	<s id="2">Comment pouvez-vous supporter cela ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="38">
+	<s id="1">Oh ! </s>
+	<s id="3">Ça ne nous fait rien du tout. </s>
+	<s id="4">N'est-ce pas, Henriette ? </s>
+	<s id="5">Nous dînons à n'importe quelle heure.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="39">
+	<s id="1">Vous avez des estomacs complaisants.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="40">
+	<s id="1">Et puis, huit_heures_et_demie, ce n'est pas une heure exagérée. </s>
+	<s id="2">Qui dîne à huit_heures peut dîner facilement à huit_heures_et_demie.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="41">
+	<s id="1">Moi, je trouve que huit_heures, c'est déjà une heure terrible pour se mettre à table.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="42">
+	<s id="1">C'est vrai. </s>
+	<s id="2">On ne devrait pas dîner si tard. </s>
+	<s id="3">Mais les exigences de la vie de Paris...</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="43">
+	<s id="1">Mais j'y songe... </s>
+	<s id="2">Vous avez l'habitude de dîner à huit_heures ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="44">
+	<s id="1">Oui, Madame, nous avons l'habitude. </s>
+	<s id="2">C'est une heure tout à fait normale pour nous.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="45">
+	<s id="1">C'est notre heure.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="46">
+	<s id="1">Alors Monsieur_Lalbert, en vous disant de venir ici de bonne heure, vous a forcés à changer vos habitudes ? </s>
+	<s id="2">Nous sommes désolés de vous avoir obligés à dîner de meilleure heure ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="47">
+	<s id="1">Comment cela ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="48">
+	<s id="1">Voyons, pour arriver ici avant huit_heures et faire le trajet depuis chez vous, vous avez dû dîner à sept_heures ?</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="49">
+	<s id="1">Moi, quoi que je fasse le soir, je ne change jamais mes habitudes. </s>
+	<s id="2">Je dîne tous les soirs à six_heures_un_quart.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="50">
+	<s id="1">C'est l'habitude de mon mari. </s>
+	<s id="2">Tous les soirs à six_heures_un_quart.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="51">
+	<s id="1">Et comme c'est plus agréable ! </s>
+	<s id="2">Ainsi, moi, à cette heure-ci, ma digestion est à moitié faite. </s>
+	<s id="3">À dix_heures, elle sera terminée. </s>
+	<s id="4">Je peux me coucher de bonne heure. </s>
+	<s id="5">Je puis me permettre de bien dîner. </s>
+	<s id="6">Par exemple ce soir, j'ai mangé des choux de Bruxelles ; moi j'adore les choux de Bruxelles. </s>
+	<s id="7">Vous aimez les choux de Bruxelles ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bien faiblement.
+</stage>
+<p id="52">
+	<s id="1">Oh !... </s>
+	<s id="2">Oui, assez.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="53">
+	<s id="1">Tu n'as pas besoin de dire que tu en as mangé. </s>
+	<s id="2">Ça se sent assez dans l'appartement... </s>
+	<s id="3">Vous n'êtes pas incommodée par cette odeur, Madame ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, faiblement.
+</stage>
+<p id="54">
+	<s id="1">Ça n'est pas une si mauvaise odeur.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="55">
+	<s id="1">Nous avons une cuisinière impossible. </s>
+	<s id="2">Elle ne tient pas compte des recommandations qu'on lui fait. </s>
+	<s id="3">Je l'aurais renvoyée depuis longtemps, si elle ne cuisinait pas aussi bien. </s>
+	<s id="4">Mais elle cuisine d'une façon exquise.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="56">
+	<s id="1">Ce soir, elle nous avait fait un potage velouté. </s>
+	<s id="2">C'était un baume sur l'estomac... </s>
+	<s id="3">Moi, je suis fou du potage velouté ! </s>
+	<s id="4">Je ne comprends pas qu'on n'aime pas le potage velouté. </s>
+	<s id="5">Ne me dites pas que vous ne l'aimez pas. </s>
+	<s id="6">Je ne vous comprendrais plus... </s>
+	<s id="7">Vous ne l'aimez pas ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage>, faiblement.
+</stage>
+<p id="57">
+	<s id="1">Si, je l'aime.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="57">
+	<s id="1">Mon_Dieu, Seigneur !</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="58">
+	<s id="1">D'abord, je ne pourrais pas dîner sans potage. </s>
+	<s id="2">Quand on n'a pas faim, ça vous donne de l'appétit. </s>
+	<s id="3">Et quand on a faim, c'est un délice.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="59">
+	<s id="1">J'ai bien vu ça. </s>
+	<s id="2">C'est à peine si tu en as laissé.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="60">
+	<s id="1">Ah ! </s>
+	<s id="2">Que c'est bon, un bon potage !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="61">
+	<s id="1">Mon_Dieu, Seigneur !</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="62">
+	<s id="1">Madame, vous allez nous faire le plaisir de nous chanter quelque chose. </s>
+	<s id="2">On dit que vous avez une jolie voix.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="63">
+	<s id="1">Oh ! </s>
+	<s id="2">Madame ! </s>
+	<s id="3">Excusez-moi. </s>
+	<s id="4">Je ne suis pas très bien disposée ce soir.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="64">
+	<s id="1">Ma femme ne pensait pas que vous la prieriez de chanter. </s>
+	<s id="2">Quand on doit chanter, on mange en conséquence. </s>
+	<s id="3">Ce soir, elle a dîné comme à son ordinaire, et...</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="65">
+	<s id="1">Oh ! </s>
+	<s id="2">nous savons que madame n'est pas une chanteuse de profession. </s>
+	<s id="3">Si elle a mangé un peu trop, elle chantera un peu moins brillamment. </s>
+	<s id="4">Ce sera toujours assez bon pour nous. </s>
+	<s id="5">Nous sommes amateurs, et assez connaisseurs. </s>
+	<s id="6">Mais pas cependant jusqu'au point de faire attention à ces nuances.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="66">
+	<s id="1">Soit, je vais chanter.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="67">
+	<s id="1">Quelque chose d'entraînant.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="68">
+	<s id="1">Je chante souvent de vieilles chansons populaires. </s>
+	<s id="2">C'est très connu. </s>
+	<s id="3">Mais c'est toujours agréable à entendre. </s>
+	<s id="4">Voyons laquelle pourrais-je chanter ?</s>
+</p>
+<stage type="weeak">D'un ton lamentable.</stage>
+	<l id="1">Il était un petite navire</l>
+	<l id="2">Qui n'avait ja-ja-jamais navigué...</l>
+	<l id="3">Au bout de cinq à six semaines.</l>
+	<l id="4">Les vivres vin-vin-vinrent à manquer.</l>
+<p id="69">
+	<s id="1">Non, décidément, c'est trop triste. </s>
+	<s id="">Je vais vous chanter autre chose.</s>
+</p>
+<stage type="low/toward">Bas à Henri qui est auprès d'elle.</stage>
+<p id="70">
+	<s id="1">Trouve un prétexte pour aller dans l'antichambre. </s>
+	<s id="2">La cuisine est à l'entrée. </s>
+	<s id="3">Nous l'avons aperçue tout à l'heure. </s>
+	<s id="4">Prends-moi n'importe quoi, un bout de pain qui traîne.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="loud">, haut.
+</stage>
+<p id="71">
+	<s id="2">Je crois avoir apporté dans mon pardessus un morceau de musique. </s>
+	<s id="3">Permettez que j'aille le chercher.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="72">
+	<s id="1">Je vais aller.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="73">
+	<s id="1">Comment ? </s>
+	<s id="2">Mais je ne veux pas que vous vous dérangiez... </s>
+	<s id="3">Je ne souffrirai pas...</s>
+</p>
+<stage type="exit/location">Il sort par le fond.</stage>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="low/toward">, bas à son mari.
+</stage>
+<p id="74">
+	<s id="1">Il est gentil, ce jeune homme.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="75">
+	<s id="1">Oui, très doux, très poli, très bien élevé. </s>
+	<s id="2">Il conviendrait vraiment d'une façon parfaite pour la place qu'il m'a demandée. </s>
+	<s id="3">Il paraît intelligent. </s>
+	<s id="4">Il a toutes les qualités de l'emploi. </s>
+	<s id="5">C'est une place où l'on est constamment en communication avec le public. </s>
+	<s id="6">Il faut un garçon bien élevé et doux.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="76">
+	<s id="1">Tu vas le désigner ?</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="77">
+	<s id="1">Non ; c'est regrettable qu'il fasse aussi bien l'affaire... </s>
+	<s id="2">Mais je ne peux pas le désigner. </s>
+	<s id="3">Je suis absolument obligé de désigner le protégé de Boufret.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="78">
+	<s id="1">Mais ce petit jeune homme est un protégé de ton ami Bayen.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="79">
+	<s id="1">Hé bien, oui ! </s>
+	<s id="2">Mais je suis assez ami avec Bayen pour n'avoir pas besoin de m'occuper de ses protégés. </s>
+	<s id="3">Et puis Bayen n'y tient pas. </s>
+	<s id="4">Il m'a dit hier qu'il n'y tenait pas.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, à part.
+</stage>
+<p id="80">
+	<s id="1">Il ne revient pas. </s>
+	<s id="2">Il est là-bas sans lumière.</s>
+</p>
+<stage type="noise">On entend un léger bruit.</stage>
+<p id="81">
+	<s id="1">Pourvu qu'il n'aille pas casser quelque chose.</s>
+</p>
+<stage type="noise/stand/watch/smile/embarrassed">Bruit épouvantable de vaisselle brisée. Henriette se lève du tabouret et regarde les Lalbert avec un sourire forcé.</stage>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="82">
+	<s id="1">Qu'est-ce que c'est que ce bruit ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="83">
+	<s id="1">Quel bruit ?</s>
+</p>
+<stage type="entrance">Henri apparaît à la porte du fond.</stage>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="84">
+	<s id="1">Qu'est-ce que c'est que ce bruit ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="stress">, froidement.
+</stage>
+<p id="85">
+	<s id="">Ce bruit ?...</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="86">
+	<s id="1">Comment ! </s>
+	<s id="2">Vous n'avez pas entendu ce bruit dans la cuisine ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="87">
+	<s id="1">Non, c'est dans l'escalier ; huit à dix personnes qui sont tombées avec de la ferraille et de la porcelaine.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="88">
+	<s id="1">C'est effrayant ! </s>
+	<s id="2">Je vais voir.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="89">
+	<s id="1">Non, tout est arrangé. </s>
+	<s id="2">Madame_Bardin est impatiente de vous chanter un morceau de musique ravissant que j'avais emporté dans mon pardessus.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="90">
+	<s id="1">Vous l'avez trouvé ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="91">
+	<s id="1">...Non, non. </s>
+	<s id="2">C'est une fatalité. </s>
+	<s id="3">Je ne l'ai pas trouvé. </s>
+	<s id="4">Je l'ai laissé chez moi. </s>
+	<s id="5">Mais Madame Bardin vous en chantera un autre, aussi ravissant. </s>
+	<s id="6">Un autre que nous allons certainement trouver en cherchant dans votre musique.</s>
+</p>
+<stage type="location/search">Il passe derrière le piano près d'Henriette et fait semblant de chercher dans les partitions.</stage> 
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="92">
+	<s id="1">Qu'est-ce que tu as trouvé ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="93">
+	<s id="1">Trois choses. </s>
+	<s id="2">Un morceau de pain, qui était sur une table...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="94">
+	<s id="1">Donne.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="95">
+	<s id="1">Il est très dur, tellement dur qu'il m'a servi à ouvrir le buffet.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="96">
+	<s id="1">Donne tout de même. </s>
+	<s id="2">Et puis ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="97">
+	<s id="1">Un oeuf. </s>
+	<s id="2">Tiens !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="98">
+	<s id="1">Donne... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Mon_Dieu !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="99">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="100">
+	<s id="1">L'oeuf est tombé. </s>
+	<s id="2">Il a roulé sur ma robe.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="101">
+	<s id="1">Je n'ose pas regarder.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="102">
+	<s id="1">Si, si. </s>
+	<s id="2">Je t'en prie.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="103">
+	<s id="1">Nous sommes sauvés. </s>
+	<s id="2">C'est un oeuf dur.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="104">
+	<s id="1">Donne.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="105">
+	<s id="1">Ce n'est pas tout. </s>
+	<s id="2">J'ai encore un morceau de canard froid... </s>
+	<s id="3">Parle-leur un peu.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="loud">, haut.
+</stage>
+<p id="106">
+	<s id="1">Vous avez un appartement charmant.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="107">
+	<s id="1">Ils n'ont pas entendu.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="108">
+	<s id="1">Vous avez un appartement charmant.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="109">
+	<s id="1">Oui... </s>
+	<s id="2">Est-ce que-vous trouvez ce qu'il vous faut ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="110">
+	<s id="1">Oui, oui, nous trouvons.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="closer">, s'approchant.
+</stage>
+<p id="111">
+	<s id="1">Vous ne trouvez pas ? </s>
+	<s id="2">Quel est le titre du morceau ?</s>
+</p>
+<stage type="eat/hide">Henriette, qui s'apprêtait à mordre dans le pain, le cache précipitamment.</stage> 
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="112">
+	<s id="1">Je vous en prie. </s>
+	<s id="2">Ne vous dérangez pas. </s>
+	<s id="3">Restez bien assise. </s>
+	<s id="4">Ma femme va vous chanter quelque chose.</s>
+</p>
+<stage type="puch">Il repousse doucement Madame Lalbert à sa place.</stage>
+<p id="113">
+	<s id="1">Nous cherchons quelque chose de très gai, de très enlevant.</s>
+</p>
+<stage type="closer">Il revient près d'Henriette.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, qui a essayé de mordre dans le pain, bas.
+</stage>
+<p id="113">
+	<s id="1">Le pain est trop dur. </s>
+	<s id="2">Passe-moi l'oeuf.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="114">
+	<s id="1">Il est dur aussi. </s>
+	<s id="2">Et ça va être long à peler.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="115">
+	<s id="1">Allons, passe-moi le canard.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="116">
+	<s id="1">Je l'ai laissé dans les partitions. </s>
+	<s id="2">Parle-leur. </s>
+	<s id="3">Occupe-les un peu.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="117">
+	<s id="1">Qu'est-ce que je peux leur dire ? </s>
+	<s id="2">Je vais leur raconter la dispute que j'ai eue avec ma bonne.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="118">
+	<s id="1">Faute de mieux.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="loud/abrupt">, haut et brusquement.
+</stage>
+<p id="119">
+	<s id="1">J'ai eu cet après-midi une dispute avec ma bonne. </s>
+	<s id="2">J'en suis encore tout émue.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="120">
+	<s id="1">Oh ! </s>
+	<s id="2">Ces domestiques sont insupportables.</s>
+</p>
+<stage type="eat">Henriette essaie de mordre le pain.</stage>
+<p id="121">
+	<s id="1">Vous ne trouvez pas ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="push">, la repoussant.
+</stage>
+<p id="122">
+	<s id="1">Ne vous dérangez pas, je vous en prie.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="123">
+	<s id="1">As-tu le canard ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<note type="C"/>
+<p id="124">
+	<s id="1">Je suis en train de le rattraper. </s>
+	<s id="2">Il était tombé dans « Robert le Diable ».</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="125">
+	<s id="1">Occupe-les pendant que je le mangerai.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="126">
+	<s id="1">Oh ! </s>
+	<s id="2">oui, ces domestiques sont terribles !</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="127">
+	<s id="1">Il faut tout surveiller, tout compter. </s>
+	<s id="2">Si je vous disais que je suis obligée de compter mes oeufs chaque fois qu'elle sort. </s>
+	<s id="3">Elle en descendait au concierge.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="128">
+	<s id="1">Voici le canard.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="129">
+	<s id="1">Passe-le-moi vite. </s>
+	<s id="2">Et va les occuper.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="130">
+	<s id="1">Ainsi, ce soir, nous n'avons presque pas touché au poulet. </s>
+	<s id="2">Je l'ai enfermé dans mon armoire de salle à manger. </s>
+	<s id="3">Jamais il ne traîne de restes à la cuisine.</s>
+</p>
+<stage type="eat">Henriette s'apprête à manger le canard.</stage>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="131">
+	<s id="1">Si, tu te trompes, Rosette. </s>
+	<s id="2">On trouverait à la cuisine une aile de canard. </s>
+	<s id="3">Mais celle-là, je suis tranquille. </s>
+	<s id="4">Elle n'y touchera pas.</s>
+</p>
+<stage type="eat/stop">Henriette qui mâchait une bouchée de canard s'arrête subitement.</stage>
+<p id="132">
+	<s id="1">C'est un morceau que j'ai fait mettre de côté pour le Laboratoire_municipal. </s>
+	<s id="2">Nous avons failli être empoisonnés...</s>
+</p>
+<stage type="hurry/sick">Henri se précipite vers le piano. Henriette dissimule mal un haut-le-coeur.</stage>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="133">
+	<s id="1">Avez-vous trouvé quelque chose à nous chanter ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="134">
+	<s id="1">Oui, oui, tout de suite.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="135">
+	<s id="1">Je n'en puis plus... </s>
+	<s id="2">Va me chercher à manger dehors.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="136">
+	<s id="1">Impossible. </s>
+	<s id="2">Ce quartier est perdu. </s>
+	<s id="3">Ils ont dit tout à l'heure qu'il n'y avait pas de fournisseurs à côté, et les boulangeries sont fermées.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="137">
+	<s id="1">Je n'en puis plus...</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<note type="C"/>
+<p id="138">
+	<s id="1">Connaissez-vous la « valse des Oiseaux de Paradis » ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="loud">, haut.
+</stage>
+<p id="139">
+	<s id="1">Oui, oui, tout de suite... </s>
+	<s id="2">Nous allons trouver.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="140">
+	<s id="1">Je n'en puis plus... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Mais ! </s>
+	<s id="4">Tu sais, c'est effrayant. </s>
+	<s id="5">Je crois que je deviens enragée. </s>
+	<s id="6">Ça s'était un peu calmé. </s>
+	<s id="7">Maintenant, ça reprend... </s>
+	<s id="8">Je deviens féroce...</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<note type="C"/>
+<p id="141">
+	<s id="1">Et « Bonsoir Suzon » ? </s>
+	<s id="2">C'est bien joli aussi. </s>
+	<s id="3">Mais il y a des difficultés.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="142">
+	<s id="1">Ces gens-là sont des bourreaux !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="143">
+	<s id="1">Ils ne savent pas.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="144">
+	<s id="1">Ça m'est égal. </s>
+	<s id="2">Je vais leur dire leur fait.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="145">
+	<s id="1">Je t'en prie. </s>
+	<s id="2">Contiens-toi... </s>
+	<s id="3">J'ai faim aussi, mais je me contiens. </s>
+	<s id="5">Pense à cette place. </s>
+	<s id="6">Ménageons-les.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="146">
+	<s id="1">L'as-tu, cette place ? </s>
+	<s id="2">Quand l'auras-tu ? </s>
+	<s id="3">Ils ne t'en parlent seulement pas.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="low">, bas.
+</stage>
+<p id="147">
+	<s id="1">Ils attendent que je leur en parle. </s>
+	<s id="2">Je vais leur en parler...</s>
+</p>
+<stage type="">Il va s'asseoir auprès de Lalbert.</stage>
+<p id="148">
+	<s id="1">Monsieur_Lalbert avez-vous un peu réfléchi... </s>
+	<s id="2">Au sujet de ce que je vous ai demandé l'autre jour ?</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="149">
+	<s id="1">Oui... </s>
+	<s id="2">Oui... </s>
+	<s id="3">J'ai réfléchi beaucoup... </s>
+	<s id="4">Certainement vous avez des titres... </s>
+	<s id="5">Et à la prochaine vacance... </s>
+	<s id="6">Je ne dis pas. </s>
+	<s id="7">Mais pour cette place, c'était trop tard, bien trop tard. </s>
+	<s id="8">Elle est donnée depuis ce matin.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="150">
+	<s id="1">Donnée de ce matin !</s>
+</p>
+<stage type="music">Henriette joue un air furieux sur le piano.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="strong">, d'une voix impérieuse.
+</stage>
+<p id="151">
+	<s id="1">Henri !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="152">
+	<s id="1">Ma chérie ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="loud">, haut.
+</stage>
+<p id="153">
+	<s id="1">Tu supportes ça ?</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="154">
+	<s id="1">Mon amie...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, à demi-voix.
+</stage>
+<p id="155">
+	<s id="1">Mais dis-leur donc leur fait à ces deux vieilles bêtes. </s>
+	<s id="2">Soulage-toi.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage>, à demi-voix et résolument.
+</stage>
+<p id="156">
+	<s id="1">Hé bien ! </s>
+	<s id="2">Oui ! </s>
+	<s id="3">Je vais leur dire leur fait... </s>
+	<s id="4">Tout est perdu. </s>
+	<s id="5">Mais on va rigoler.</s>
+</p>
+<stage type="closer">Ils s'approchent tous les deux des Lalbert. Henri prend une chaise et s'assoit à cheval dessus.</stage>
+<p id="157">
+	<s id="1">Alors, Monsieur Lalbert, vous trouvez naturel de vous conduire comme vous faites ?... </s>
+	<s id="2">C'est de l'inconscience.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="158">
+	<s id="1">Comment ! </s>
+	<s id="2">Voilà trois heures que vous nous faites subir des affres effroyables ! </s>
+	<s id="3">Vous rétablissez la torture !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="159">
+	<s id="1">Mais ce que vous nous infligez dépasse en horreur tous les supplices connus ! </s>
+	<s id="2">Si notre supplice n'a pas égalé celui d'Ugolin dévorant ses enfants !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="160">
+	<s id="1">Ce n'est certes pas de votre faute !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="161">
+	<s id="1">C'est parce que nous n'avons pas d'enfants.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="162">
+	<s id="1">J'ai faim !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="163">
+	<s id="1">J'ai faim !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="164">
+	<s id="1">J'ai faim !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="165">
+	<s id="1">J'ai faim !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="lost">, comme égarée.
+</stage>
+<p id="166">
+	<s id="1">Ah ! </s>
+	<s id="2">Maintenant il faut que je mange ! </s>
+	<s id="3">Je veux manger tout de suite ! </s>
+	<s id="4">Je neveux pas attendre davantage !</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="167">
+	<s id="1">Avez-vous quelque chose à nous donner à manger, autre chose que du canard empoisonné ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="167">
+	<s id="1">Car ils nous ont donné du canard empoisonné !</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage type="frighten">, tremblante.
+</stage>
+<p id="168">
+	<s id="1">J'ai un poulet froid... </s>
+	<s id="2">Certainement... </s>
+	<s id="3">Je vais vous le donner.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+<p id="169">
+	<s id="1">Sang-Dieu ! </s>
+	<s id="2">Nous allons le prendre ! </s>
+	<s id="3">Où est-il ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="170">
+	<s id="1">Dans le buffet de la salle_à_manger... </s>
+	<s id="2">Vous y trouverez du vin...</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="gat/abrupt">, prenant les clés et brusquement.
+</stage>
+<p id="171">
+	<s id="1">Merci. </s>
+	<s id="2">Nous allons nous procurer des victuailles.</s>
+</p>
+<stage type="exit">Ils sortent avec des cris sauvages. Monsieur et Madame Lalbert restent atterrés de chaque cité de la cheminée.</stage>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="172">
+	<s id="1">Qu'est-ce que ça veut dire ?</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="173">
+	<s id="1">Je n'en sais rien.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="174">
+	<s id="1">Ah !... </s>
+	<s id="2">Ils n'avaient pas dîné !</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="175">
+	<s id="1">Pourquoi ne l'ont-ils pas dit gentiment ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="176">
+	<s id="1">C'est une femme effrayante !</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="177">
+	<s id="1">C'est un forcené ! </s>
+	<s id="2">Un démon !</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="178">
+	<s id="1">Pourquoi as-tu invité ces gens-là ?</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="179">
+	<s id="1">Est-ce que je savais ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="180">
+	<s id="1">Ce sont des êtres terribles.</s>
+</p>
+<stage type="frighten">Avec terreur.</stage>
+<p id="181">
+	<s id="1">Oh ! </s>
+	<s id="2">Mon ami, et toi qui lui as refusé sa place ! </s>
+	<s id="3">Il va se venger.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT</speaker><stage type="low">, faiblement.
+</stage>
+<p id="182">
+	<s id="1">Tu crois ?</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="183">
+	<s id="1">Oh ! </s>
+	<s id="2">Mon ami ! </s>
+	<s id="3">Il faut lui donner la place !</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT</speaker><stage type="low">, faiblement.
+</stage>
+<p id="184">
+	<s id="1">Un garçon si emporté, si violent...</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="185">
+	<s id="1">Justement... </s>
+	<s id="2">Rappelle-toi ce fou furieux qui l'année dernière a voulu tuer Ricon, ton collègue. </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Mon ami ! </s>
+	<s id="5">Il faut lui donner la place !</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="186">
+	<s id="1">Les voici.</s>
+</p>
+<stage type="stand/hurry/entrance">Ils se lèvent tous les deux avec empressement. Henri et Henriette rentrent avec des victuailles.</stage>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT</speaker><stage>, vivement.
+</stage>
+<p id="187">
+	<s id="1">Monsieur, quelque chose à vous dire... </s>
+	<s id="2">Mon mari a commis tout à l'heure une petite erreur... </s>
+	<s id="3">La place en question n'est pas donnée... </s>
+	<s id="4">Il s'agissait d'une autre... </s>
+	<s id="5">Pour celle-là, c'est entendu, vous l'aurez.</s>
+</p>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="proud">, noblement.
+</stage>
+<p id="188">
+	<s id="1">Merci !... </s>
+	<s id="2">Nous allons finir ça et nous retirer.</s>
+</p>
+</sp>
+<sp who="MADAME LALBERT"><speaker>MADAME LALBERT.</speaker>
+<p id="189">
+	<s id="1">Vous viendrez nous voir. </s>
+	<s id="2">Nous arrangerons ça demain. </s>
+	<s id="3">Venez pour dîner à six heures un quart.</s>
+</p>
+</sp>
+<sp who="LALBERT"><speaker>LALBERT.</speaker>
+<p id="190">
+	<s id="1">Non ! </s>
+	<s id="2">Non... </s>
+	<s id="3">À l'heure qui vous plaira.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

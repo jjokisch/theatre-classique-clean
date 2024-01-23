@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>QUATRIÈME DIALOGUE DES JEUX CHAMPÊTRES, COMÉDIE</title>
+				<author type="text" ISNI="0000 0001 2138 6051">GENLIS, Stéphanie-Félicité Du Crest de (1746-1830)</author>
+			</titleStmt>
+			<publicationStmt>
+				<editor>Texte établi par Paul Fièvre, décembre 2018.</editor>
+				<publisher>Publié par Paul FIEVRE, décembre 2018.</publisher>
+				<idno>GENLIS_PREMIERDIALOGUE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>dialogue</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Un acte</structure>
+				<type>prose</type>
+				<periode>1821-1830</periode>
+				<taille>(mesure non pertinente</taille>
+				<permalien cote="BnF ARS RESERVE 16-Z-23378">https://gallica.bnf.fr/ark:/12148/bpt6k15186021</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">QUATRIÈME DIALOGUE</titlePart>
+			<titlePart type="sub">DES JEUX CHAMPÊTRES DES ENFANTS</titlePart>
+		</docTitle> 
+		<docDate value="1829">1829</docDate>
+		<docAuthor id="GENLIS, Madame de"/>
+		<docImprint>
+			<printer>À PARIS, A. MARC, Libraire, Auteur et éditeur du Dictionnaire des romans, Rue Rameau N°11. Quartier du Palais Royal. </printer>
+		</docImprint>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="ICÉLIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">ICÉLIE</role>, agée de 18 ans.</castItem>
+			<castItem><role id="LÉONILLE" sex="2" type="H" statut="enfant" age="E" stat_amour="néant">LÉONILLE</role>, agée de 12 ans, soeur d'Icélie.</castItem>
+			<castItem><role id="LOUIS" sex="1" type="H" statut="enfant" age="E" stat_amour="néant">LOUIS</role>, frère d'Icélie et de Léonille.</castItem>
+		</castList>
+		<set location="Campagne" country="France" periode="XVIIIème" link="">La scène est dans une terre du Languedoc.</set>
+		<note>Extrait de LES JEUX CHAMPÊTRES DES ENFANTS et l'île par Madame la Comtesse de Genlis, orné de huit gravures. TROISIÈME ÉDITION, 1829. pp. 33-47</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>QUATRIÈME DIALOGUE.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="1">
+	<s id="1">Oh ! </s>
+	<s id="2">Nous allons donc recommencer nos jeux et notre travail sur les plantes. </s>
+	<s id="3">Voilà déjà la boule_de_neige avec laquelle j'ai tant joué à la balle quand j'étais tout petit.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="2">
+	<s id="1">Comme elle est ronde, il faudra la partager adroitement en deux, pour lui donner un côté plat afin de la dessécher.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="3">
+	<s id="1">C'est toi qui feras cette opération.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="4">
+	<s id="1">Volontiers.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<stage type="description">Le rosier sauvage est nommé églantier, ou gratte-cul, ou rose cochonnière, ou rose de chien, en latin cynorrhodon. Il naît souvent au tronc ou aux branches du rosier sauvage une espèce d'épongé velue, grosse comme une petite pomme ou une grosse noix, de couleur rousse, qu'on appelle éponge du rosier sauvage, et dans les boutiques bédéguar. On prétend que réduite en charbon et en poudre, ou simplement desséchée et pulvérisée, c'est un spécifique contre les goutres. Les fleurs de l'églantier sont purgatives, mais le sirop qu'on en prépare est plus astringent, c'est-à-dire resserre davantage.</stage>
+<p id="5">
+	<s id="1">Voici une jolie rose d'églantier.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="6">
+	<s id="1">Jolie, pas trop ; les grosses roses du jardin sont bien plus jolies.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="7">
+	<s id="1">C'est selon les goûts ; d'ailleurs ; il faut que tu saches que la nature ne produit que des fleurs simples, et que toutes les fleurs doubles sont l'ouvrage des jardiniers, qui ont imaginé une méthode très simple de doubler, presque toutes les fleurs.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="8">
+	<s id="1">C'est vrai, je n'ai jamais vu de fleur double dans les champs.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="9">
+	<s id="1">L'homme qui a reçu du Créateur le souffle_divin, qui lui donne une âme immortelle, a été revêtu de la souveraineté de la création; il a seul l'intelligence et le pouvoir de cultiver la terre, d'en multiplier et d'en embellir les productions, et de dompter les animaux.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="10">
+	<s id="1">Enfin, de doubler les fleurs.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="11">
+	<s id="1">Et ce qui te plaira davantage, d'adoucir les fruits par la culture, de les rendre plus sucrés et plus sains.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="12">
+	<s id="1">Ah ! </s>
+	<s id="2">Le beau privilège ! </s>
+	<s id="3">À présent je suis fier d'être homme.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="13">
+	<s id="1">Pour moi, j'aime bien les roses des champs, leurs couleurs sont si fraîches, leurs épines sont si belles ! Tiens, regarde la jolie couronne que j'ai faite de ces épines.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="14">
+	<s id="1">Oui, c'est fort adroit et fort joli !</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="15">
+	<s id="1">Je la suspendrai au pied de mon petit crucifix.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="16">
+	<s id="1">Mais les couronnes que tu feras pour la Fête-Dieu seront faites avec des roses de Bourgogne, et celles-là sont doubles.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="17">
+	<s id="1">Je ne méprise pas du tout les fleurs doubles ; j'aime toutes les fleurs, celles des champs et celles des jardins.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="18">
+	<s id="1">Ce qui me plaît le plus dans les roses, c'est d'en faire claquer les feuilles sur le front.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="19">
+	<s id="1">C'est en effet là une jolie propriété.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="20">
+	<s id="1">Mais sûrement. </s>
+	<s id="3">Tiens, écoute.</s>
+</p>
+<stage type="touch">Il en fait claquer une sur le front de Léonille.</stage>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="21">
+	<s id="1">Tu m'as fait peur.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="22">
+	<s id="1">On peut employer une rose à un usage plus agréable ; on peut en faire un gobelet. </s>
+	<s id="2">Il faut pour cela une grosse rose de jardin, on la remplit d eau , qu'elle contient fort bien, et l'on boit ainsi une eau parfumée.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="23">
+	<s id="1">Cela vaut mieux que le creux de la main.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="24">
+	<s id="1">Nous en ferons l'essai demain à la fontaine du parc.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="25">
+	<s id="1">Je vais encore sur les roses vous apprendre une chose fort amusante.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="26">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="27">
+	<s id="1">Procurez-vous du bon tabac bien naturel.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="28">
+	<s id="1">Oui, j'en prendrai dans la tabatière de Monsieur l'abbé.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="29">
+	<s id="1">Mettez votre rose dans l'eau, et couvrez toute la corolle.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="30">
+	<s id="1">Qu'est-ce que la corolle ?</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="31">
+	<s id="1">La corolle, c'est l'ensemble de la fleur, formée par les pétales.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<p id="32">
+	<s id="">Je sais depuis longtemps que la petite verdure qui renferme les pétales s'appelle calice.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="33">
+	<s id="1">Revenons au tabac.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="34">
+	<s id="1">Eh bien, quand ta rose sera dans un verre d'eau, tu couvriras toute la corolle de tabac bien fin.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="35">
+	<s id="1">Oui, je le passerai au tamis.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="36">
+	<s id="1">Et dans lequel il n'y ait aucune substance étrangère. </s>
+	<s id="2">Au bout de quelques heures, tu secoueras ta rose, et tu la trouveras du plus beau vert du monde.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="37">
+	<s id="1">Que cela est curieux !</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="38">
+	<s id="1">Dès que tu aimes les choses curieuses, tu en apprendrais bien d'autres, si tu savais un peu de botanique et d'histoire naturelle.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="39">
+	<s id="1">Oh bien, quand je serai plus grand, j'apprendrai l'histoire naturelle et la botanique.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="40">
+	<s id="1">Voyons les deux autres plantes.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<stage type="explicit">Oranger, en latin, aurantium. Cet arbre est originaire de la Chine d'où les Portugais ont apporté les premières graines. Bomare dit, dans son dictionnaire, qu'on voyait encore à Lisbonne, de son temps (il y a environ quarante ans), dans le jardin du comte de Saint-Laurent, le premier arbre d'où sont sortis tous les orangers qui font l'ornement de nos jardins d'Europe. L'eau de fleurs d'orange est céphalique (c'est-à-dire bonne pour la tête), spasmodique (bonne pour les nerfs) ; elle est aussi très-efficace contre les vers et contre la toux. On dit que l'écorce est fébrifuge et vermifuge, c'est-à-dire bonne contre la fièvre et contre les vers.</stage>
+<p id="41">
+	<s id="1">Ma soeur a voulu prendre la fleur d'orange, parce qu'on en fait des petites couronnes et des petits bouquets pour le mariage ; et moi je t'apporte une orange que j'aime tant à jeter en l'air et à retenir sur la pointe de mon couteau ; la voici avec la peau découpée, comme Léonille les arrange au désert.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="42">
+	<s id="1">Tu penses bien que nous ne mettrons pas l'orange dans l'herbier.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="43">
+	<s id="1">Non, c'est seulement pour dire tout ce qu'on en peut faire.</s>
+</p>
+</sp>
+<sp who="LÉONILLE"><speaker>LÉONILLE.</speaker>
+<stage type="explicit">Lilas, ou queue de renard de jardin, en latin, liloe, plante originaire des Indes orientales.</stage>
+<p id="44">
+	<s id="1">Maintenant voici du lilas.</s>
+</p>
+</sp>
+<sp who="ICÉLIE"><speaker>ICÉLIE.</speaker>
+<p id="45">
+	<s id="1">Quelle charmante petite guirlande de lilas en forme de croix ! </s>
+	<s id="2">Cela pourra fort bien se dessécher. </s>
+	<s id="3">Je suis bien aise que cette plante entre dans notre herbier, car elle est certainement l'une des plus jolies de la fin du printemps.</s>
+</p>
+</sp>
+<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<p id="46">
+	<s id="1">Voilà toutes les fleurs de cette saison qui servent à nos jeux ; ainsi nous allons nous reposer jusqu'aux cerises.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

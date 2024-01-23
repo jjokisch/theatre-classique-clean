@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+<teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>VERS LES SAULES, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0000 7728 8824">Albert GLATIGNY (1839-1873)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Paul FIEVRE, décembre 2022</editor>
+				<publisher>Publié par Paul FIEVRE janvier 2023</publisher>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>vers</type>
+				<periode>1861-1870</periode>
+				<taille>250-500</taille>
+				<permalien cote="BnF LLA Yth 18892">https://gallica.bnf.fr/ark:/12148/bpt6k8630793z</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+<front>
+	<docTitle>
+	 <titlePart part="main">VERS LES SAULES</titlePart>
+ 	<titlePart part="sub">COMÉDIE</titlePart>
+ 	<titlePart part="sub">REPRÉSENTÉE LE 25 JUIN 1864 DANS LES SALONS DE L'ÉTABLISSEMENT THERMAL DE VICHY.</titlePart>
+	</docTitle>
+	<docDate value="1931"/>
+	<docAuthor id="GLATIGNY, Albert">ALBERT GLATIGNY</docAuthor>
+	<docImprint>
+		<editor id="">PARIS ACHILLE FAURE, LIBRAIRE, 22, Boulevard Saint-Martin. VIVHY, JULES CÉSAR, rue Montaret, 2.</editor>
+		<printer id="">Imp. Rochette, Letang et Wallon, Chemin-de-Reuilly, 12, Paris. </printer>
+	</docImprint>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="HENRI" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">HENRI</role>, Monsieur ARMAND GENTY.</castItem>
+		<castItem><role id="MARCEL" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MARCEL</role>, Monsieur AURÈLE.</castItem>
+		<castItem><role id="PONTCHARTRAIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">PONTCHARTRAIN</role>, Monsieur GAUDY.</castItem>
+		<castItem><role id="HENRIETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">HENRIETTE</role>, Madame BORELLI-DELAHAYE.</castItem>
+		<castItem><role id="BLONDINE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">BLONDINE</role>, Madame MARIE-PROTAT.</castItem>
+		<castItem><role id="ÉLÉONORE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">ÉLÉONORE</role>, Madame GUÉRARD.</castItem>
+	</castList>
+	<set location="À la campagne" country="France" periode="XIXème" gps="">À la campagne, au mois de juin.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>VERS LES SAULES</head>
+<stage type="decor">Le théâtre représente un paysage dans les environs de Paris. Au fond, apparaissant entre les branches, de grands arbres et des buissons de roses, une rivière. À droite, un cabaret de village, riant à l'oeil. À gauche, un banc de gazon sous une tonnelle de plantes grimpantes. (DÉCORS DE M. PLANTAD).</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Henri, Blondine.
+</stage>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="entrance">, entre.
+	</stage>
+	<l id="1">Ramasse qui voudra mon coeur, je n'en veux plus !</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE</speaker><stage type="entrance">, paraissant.
+	</stage>
+	<l id="2" syll="3" part="i">Je le prends.</l>
+<stage type="watch/surprise/continue">Henri la regarde surpris. Elle continue :</stage>
+	<l id="2" syll="9" part="f">Vous avez des trésors superflus ?</l>
+	<l id="3">Vous les jetez au vent et le vent me les donne.</l>
+	<l id="4">Exécutez-vous donc, cher Monsieur, je l'ordonne.</l>
+	<l id="5">Ce coeur qui m'appartient, je le veux à l'instant.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="6">Chère belle, ce coeur, qui m'embarrassait tant,</l>
+	<l id="7" syll="4" part="i">Qu'en ferez-vous ?</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="7" syll="" part="f">Qui sait ? Une boucle d'oreille,</l>
+	<l id="8">Une grappe semblable aux grappes de la treille</l>
+	<l id="9">Et que je presserai dans mes petites mains ;</l>
+	<l id="10">Le pelote de son où mes doigts inhumains</l>
+	<l id="11">Enfonceront l'acier qui mord ma chevelure,</l>
+	<l id="12">Ou bien j'effilerai sa fine dentelure</l>
+	<l id="13">Pour en garnir ma robe aux volants étagés.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="14">Ah ! Mon coeur est bien vieux pour tant d'emplois, songez...</l>
+	<l id="15" syll="6" part="i">Comment vous nomme-t-on ?</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="15" syll="2" part="m">Blondine.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="15" syll="4" part="f">Ô Blondinette !</l>
+	<l id="16">Quand on se pend longtemps après une sonnette,</l>
+	<l id="17" syll="9" part="i">Le cordon, un beau jour, se casse.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="17" syll="3" part="f">Grand malheur !</l>
+	<l id="18" syll="8" part="i">On en achète un autre. Après ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="18" syll="4" part="f">Ô lèvre en fleur !</l>
+	<l id="19">Vous riez ! Le moulin, haut perché sur la butte,</l>
+	<l id="20">Sait où votre bonnet, hier, fit sa culbute,</l>
+	<l id="21">Au bruit des rires fous et des claires chansons,</l>
+	<l id="22">Et, si nous cherchions bien, dans les prochains buissons</l>
+	<l id="23">Les rubans du bonnet se trouveraient encore.</l>
+	<l id="24">Abeille, vous savez où le miel se picore :</l>
+	<l id="25">Ce corsage, ces yeux vifs, témoins éclatants,</l>
+	<l id="26">Vont proclamer partout vos jeunes dix-huit ans.</l>
+	<l id="27">Mais moi ! Comme un vieillard dont la nuque grisonne,</l>
+	<l id="28">En matière d'amour, hélas ! je déraisonne,</l>
+	<l id="29">Et, malgré les appels de vos yeux embrasés,</l>
+	<l id="30">Ma lèvre ne sait plus où nichent les baisers !</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="31">Les cantonniers sont là pour indiquer la voie.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="32">Non ! Ils se cachent tous, de peur qu'on ne les voie.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="33">Écoutez, à me voir on dirait, je le sais,</l>
+	<l id="34">Une cervelle en l'air. Pourtant, j'ai des accès</l>
+	<l id="35">De bonté, qui parfois traversent ma folie.</l>
+	<l id="36">Je connais les sentiers de la mélancolie.</l>
+	<l id="37">Vous souffrez, je l'ai vu, car, par les jours d'été,</l>
+	<l id="38">Celui qui s'en va seul est un être attristé.</l>
+	<l id="39">Lorsqu'on entend frémir les airs de la guinguette,</l>
+	<l id="40">Que le plaisir à deux vous appelle et vous guette</l>
+	<l id="41">Et qu'il fait du soleil, il faut souffrir, vraiment,</l>
+	<l id="42">Pour se complaire ainsi dans son isolement !</l>
+	<l id="43">Or, moi qui ris toujours, je n'aime pas qu'on pleure.</l>
+	<l id="44">Je vous suivais depuis quelque temps. Tout à l'heure,</l>
+	<l id="45">Quand vous avez jeté ce cri désespéré,</l>
+	<l id="46">Je riais, et mon coeur s'est tout à coup serré.</l>
+	<l id="47">Cela m'a fait du mal. Et puis, je suis venue</l>
+	<l id="48">Tendre à votre douleur une main inconnue,</l>
+	<l id="49">Il est vrai, mais qui peut rendre vos maux moins lourds.</l>
+	<l id="50">Allez-vous repousser ma patte de velours ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="51">Cette petite main, je l'aime et je la baise,</l>
+	<l id="52">Mais elle ne peut rien pour moi. Je suis obèse,</l>
+	<l id="53" syll="9" part="i">Triste, cassé. Mon âge est absurde.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="53" syll="3" part="f">Ah ! Vieillard !</l>
+	<l id="54">Votre hâtif hiver est formé de brouillard,</l>
+	<l id="55">Mais le brouillard s'en va, quand les clartés sereines</l>
+	<l id="56">Embrasent l'horizon par les yeux des sirènes,</l>
+	<l id="57">Quand les beaux jours de juin invitent les rêveurs,</l>
+	<l id="58">Quand les pommes pour Ève ont de vertes saveurs !</l>
+	<l id="59">Ce dimanche est charmant parmi tous les dimanches ;</l>
+	<l id="60">Regardez : les bras nus s'échappent de leurs manches,</l>
+	<l id="61">Partout, joie et bonheur, et, si vous en doutiez,</l>
+	<l id="62">Écoutez les couplets épars des canotiers !</l>
+	<l id="63">Les amants, qui toujours trouvent où se repaître,</l>
+	<l id="64">Bravent sous les bosquets l'oeil du garde champêtre,</l>
+	<l id="65">Et, sur l'enseigne en bois du riant cabaret,</l>
+	<l id="66">Cupidon, qu'on barbouille avec du vin_clairet,</l>
+	<l id="67">Lance, sans nul repos, ses flèches éternelles,</l>
+	<l id="68">Et les perd au milieu des nombreuses tonnelles !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="69">Quand on porte le deuil de ses illusions...</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="70">Quand on est assailli de folles visions...</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="71">Ô passé bienheureux ! Henriette ! Henriette !</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="72">Ah ! Je la sais par coeur la vieille historiette</l>
+	<l id="73">Que vos pleurs étouffés murmurent. Tout est vieux,</l>
+	<l id="74">Tout rajeunit pourtant malgré les envieux !</l>
+	<l id="75">Vous aimiez une femme, et la femme inconstante</l>
+	<l id="76">Vers un autre pays porte aujourd'hui sa tente ?</l>
+	<l id="77">Mais, n'est-il qu'une vigne au monde où les raisins</l>
+	<l id="78">Mûrissent ? Il en est sur les côteaux voisins</l>
+	<l id="79">Où la grappe sanglante est encore accrochée.</l>
+	<l id="80">Nous pouvons nous donner la main. Je suis fâchée</l>
+	<l id="81">Avec Léon. Léon fut mon amant jadis,</l>
+	<l id="82">Eh bien ! Nous chanterons un seul De_Profundis,</l>
+	<l id="83">Pour l'amour de Léon, pour l'amour de la belle !</l>
+	<l id="84">Mais les pleurs sont fatals aux yeux. Je me rebelle</l>
+	<l id="85">Contre le spleen morose et les pleurs ennuyeux !</l>
+	<l id="86">Ma bouche veut s'ouvrir pour les éclats joyeux.</l>
+	<l id="87">Or, j'ai quitté Paris et j'ai pris les gondoles</l>
+	<l id="88">Pour les champs embaumés où, sous les girandoles,</l>
+	<l id="89">Étoiles que l'on met aux feuillages touffus,</l>
+	<l id="90">Les sons du violon mêlés aux bruits confus,</l>
+	<l id="91">Semblent prendre nos pieds, et leur coudre des ailes !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="92">Où, dans le bal poudreux, de vives demoiselles</l>
+	<l id="93">Passent les yeux chargés de flammes et d'éclairs,</l>
+	<l id="94">Où les vins du bouchon que l'eau sut rendre clairs.</l>
+	<l id="95">Se boivent si gaîment sous la verte charmille,</l>
+	<l id="96">Où tout rayonne, où tout flamboie, où tout fourmille !</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="97">Votre regard s'anime en en parlant. Pourquoi</l>
+	<l id="98">N'y pas venir, monsieur, au lieu de rester coi</l>
+	<l id="99" syll="9" part="i">Comme un épouvantail à pierrots ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="99" syll="3" part="f">Ô Blondine !</l>
+	<l id="100">La sagesse a touché ta lèvre grenadine.</l>
+	<l id="101">Tu dictes le devoir, ô mon jeune mentor !</l>
+	<l id="102">Ton ivresse a raison, et je suis un butor.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="103" syll="9" part="i">Eh bien, courons au bal tous les deux.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="103" syll="3" part="f">Oui, j'accepte !</l>
+	<l id="104">Nous tâcherons de joindre un exemple au précepte</l>
+	<l id="105">Et nous noierons l'amour dans un amour nouveau !</l>
+	<l id="106">Oui, le soleil de juin frappe sur mon cerveau !</l>
+	<l id="107">Je veux aimer encore, aimer sous les ramures,</l>
+	<l id="108">Aimer comme l'on aime au temps des moissons mûres,</l>
+	<l id="109">Au milieu des bluets et des coquelicots,</l>
+	<l id="110">Au milieu des baisers dont sont pleins les échos !</l>
+<stage type="kiss">Il l'embrasse !</stage>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="111" syll="6" part="i">Eh ! Que faites-vous donc ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="111" syll="6" part="f">Je t'embrasse, Blondine !</l>
+	<l id="112">Tiens, vois ce cabaret et lis : ICI L'ON DÎNE.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="113" syll="6" part="i">Je ne sais si je dois...</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="113" syll="6" part="f">Pas de scrupules vains !</l>
+	<l id="114">Ne t'en souviens-il plus, chère, c'est toi qui vins</l>
+	<l id="115">Tout d'abord me parler de joie et de folie</l>
+	<l id="116">Et ranimer en moi l'espérance pâlie !</l>
+	<l id="117">J'avais jeté mon coeur et tu l'as ramassé,</l>
+	<l id="118">Viens dîner ! Le menu sera bientôt dressé,</l>
+	<l id="119">Et l'amour surgira, victorieux athlète,</l>
+	<l id="120">Dans le rouge Argenteuil, les pieds sur l'omelette !</l>
+<stage type="exit/location/entrance">Ils entrent dans le cabaret. Paraissent, d'un autre coté, Henriette et Marcel.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Henriette, Marcel.
+</stage>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="121">Là nous sommes venus dans le mois des bourgeons ;</l>
+	<l id="122">Des canards barbotaient dans la vase et les joncs,</l>
+	<l id="123">De beaux petits canards que l'on mit à la broche...</l>
+	<l id="124">Bon ! Ma robe aux buissons à chaque instant s'accroche.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="125">Tel mon coeur à vos yeux s'accroche, belle enfant.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="126">Est-il bête ! Le poids de l'air est étouffant</l>
+	<l id="127">Et vous me récitez de ces fadeurs énormes !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="128" syll="3" part="i">Je vous aime !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="128" syll="9" part="f">Allez donc m'attendre sous les ormes !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="129" syll="4" part="i">Écoutez-moi...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="129" syll="" part="f">Voyons, taisez-vous, à la fin,</l>
+	<l id="130">Ou plutôt, commandez le dîner, j'ai très faim.</l>
+<stage type="stop/exit">Marcel veut répondre, mais, sur un geste impérieux d'Henriette, il sort en disant : </stage>
+	<l id="131" syll="6" part="i">Oh ! L'adorable fille !</l>
+<stage type="sit/entrance">Henriette s'est assise au pied d'un arbre. Entrent par le fond, Monsieur et Madame Pontchartrain.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Henriette, Monsieur et Madame Pontchartrain.
+</stage>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="131" syll="6" part="f">Oui, nous pourrons, bichette,</l>
+	<l id="132">Donner en cet endroit notre coup de fourchette.</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE.</speaker>
+	<l id="133">Ces bords de la rivière ont un calme si frais...</l>
+	<l id="134">Oh ! Les rêves charmants qu'en ce lieu je ferais !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="135" syll="4" part="i">Ouf ! Qu'il fait chaud !</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE.</speaker>
+	<l id="135" syll="2" part="m">Arsène !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="135" syll="4" part="m">Éléonore !</l>
+<stage type="exit">Ils passent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="135" syll="2" part="f">Aux branches</l>
+	<l id="136">De ces arbres, jadis pleines de gaîtés franches,</l>
+	<l id="137">J'ai pendu bien des fois mon mantelet. Souvent,</l>
+	<l id="138">J'ai couru, les cheveux soulevés par le vent,</l>
+	<l id="139">Sur ces bords. Il baisait mes tresses répandues</l>
+	<l id="140">En ondes sur mon col. Vous êtes-vous perdues,</l>
+	<l id="141">Belles heures d'amour que je cherche partout ?</l>
+	<l id="142">Ô Sèvres, Romainville, ô Meudon, Montretout,</l>
+	<l id="143">Jardins, ô parcs semés de roses, sources pures,</l>
+	<l id="144">Forêts dont le soleil colorait les guipures</l>
+	<l id="145">De feuilles et de fleurs ! Je suis triste aujourd'hui.</l>
+	<l id="146">C'est qu'alors, il était près de mes côtés, lui !</l>
+	<l id="147">Pourquoi l'ai-je quitté ? Dans ce mois de décembre,</l>
+	<l id="148">Quand il s'est trouvé seul en sa petite chambre,</l>
+	<l id="149">Quel froid l'a dû saisir alors ! Pauvre chéri,</l>
+	<l id="150">Comme il a dû souffrir ! Tout seul ! Est-il guéri ?</l>
+	<l id="151">Ah ! Sans doute qu'il a pris une autre maîtresse.</l>
+	<l id="152">Comme j'arracherais les yeux de la traîtresse,</l>
+	<l id="153">Si je la rencontrais quelque jour à son bras !</l>
+	<l id="154">Oh ! Dans mon coeur, Henri, dans mon coeur, tu vivras.</l>
+	<l id="155">Éternel souvenir des heures amoureuses,</l>
+	<l id="156">Souvenir éternel des heures bienheureuses !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Henriette, Henri.
+</stage>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="back">, revient.
+	</stage>
+	<l id="157">Choisissons un endroit propre à notre repas,</l>
+	<l id="158">Afin que les fâcheux ne nous dérangent pas.</l>
+	<l id="159">Vive Blondine ! c'est la maîtresse idéale.</l>
+	<l id="160">Tu brilles sur son front, aurore boréale,</l>
+	<l id="161">Et tout l'azur du ciel dans ses yeux est enclos.</l>
+	<l id="162" syll="5" part="i">Vive Blondine !</l>
+<stage type="cry">Henriette pleure, on entend un léger hoquet.</stage>
+	<l id="162" syll="7" part="f">Tiens, on dirait des sanglots,</l>
+	<l id="163">Une femme qui pleure ? Elle est seule. Pauvrette,</l>
+	<l id="164">Son chagrin passera. Je ne sais qui m'arrête</l>
+	<l id="165" syll="3" part="i">Auprès d'elle.</l>
+<stage type="recognize">La reconnaissant.</stage>
+	<l id="165" syll="3" part="m">Henriette !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, avec un cri.
+	</stage>
+	<l id="165" syll="6" part="f">Ah ! Mon_Dieu ! Te voilà.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="166">Dire que tout ceci pourtant m'ensorcela.</l>
+	<l id="167" syll="4" part="i">Ô ma raison !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="167" syll="4" part="m">Monsieur Henri...</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="167" syll="4" part="f">Mademoiselle...</l>
+	<l id="168">Ah ! Quel diable en mon coeur m'entraîne encor vers elle ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="169" syll="9" part="i">Je voudrais vous parler, mais je n'ose.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="169" syll="3" part="f">Achevez.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="170">Vous allez bien depuis... le jour où... vous savez ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="171">Où j'ai cru que j'allais mourir ! Vous êtes bonne.</l>
+	<l id="172">Oui, ce sont de ces jours funèbres qu'on charbonne</l>
+	<l id="173">Sur le mur, et ces jours ne s'effacent jamais...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="174" syll="6" part="i">Autrefois... tous les deux...</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="174" syll="6" part="f">Du temps que je t'aimais !</l>
+	<l id="175">C'est le Donec_gratus, la chanson éternelle !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="176">Quand nos mains se donnaient l'étreinte fraternelle</l>
+	<l id="177">Dans ta petite chambre. Ah ! Que nous nous aimions,</l>
+	<l id="178">Henri ! La nuit venait doucement, nous rêvions,</l>
+	<l id="179">Et le même sourire illuminait nos lèvres.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="180">Puis, comme pour payer les bijoux des orfèvres,</l>
+	<l id="181">L'amour ne suffit pas... Ah ! comme j'ai pleuré !</l>
+	<l id="182">Si tu savais combien j'étais désespéré !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="183">Qu'il fait chaud ! Sous le poids de l'air trop chaud, on plie.</l>
+	<l id="184">Et vous êtes venu... seul ? Est-elle jolie ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="185">Qu'irait-on faire au bois tout seul ! J'ai sous le bras</l>
+	<l id="186" syll="6" part="i">Dix-huit ans en jupon.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="186" syll="6" part="f">Tu me la montreras.</l>
+	<l id="187" syll="6" part="i">Comment la nommes-tu !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="187" syll="2" part="m">Blondine.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="187" syll="4" part="f">Ah ! cette fille ?</l>
+	<l id="188">Mais vous n'y songez pas, Henri, cela babille</l>
+	<l id="189" syll="6" part="i">Ainsi qu'un perroquet.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="189" syll="6" part="f">Elle parle à mon coeur.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="190">Mais ses yeux ont toujours un air louche et moqueur.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="191">Je les ai vus s'ouvrir, et la jeune espérance</l>
+	<l id="192">A coloré pour moi leur calme transparence.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="193">Non ! Ce n'est pas cela qu'il vous faut. À son nom</l>
+	<l id="194">J'ai tressailli de haine et de colère, non,</l>
+	<l id="195">Henri, ne l'aimez pas. Cette fille est méchante,</l>
+	<l id="196">Rien en elle ne vibre, en elle rien ne chante,</l>
+	<l id="197" syll="9" part="i">Comme elle vous rendrait malheureux !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="197" syll="3" part="f">Moins pourtant</l>
+	<l id="198">Que celle qui s'en est allée en emportant</l>
+	<l id="199">Mes rêves les plus chers ! Ah ! moins que cette ingrate</l>
+	<l id="200">Qui m'a fui lâchement, trouvant, l'aristocrate,</l>
+	<l id="201">Que ma chambre n'avait pas assez d'acajou,</l>
+	<l id="202">Et qui m'a laissé là comme on fait d'un joujou,</l>
+	<l id="203">Pour un je ne sais qui doré sur les coutures !</l>
+	<l id="204">Elle était bien aimée entre les créatures,</l>
+	<l id="205">Cependant, cette fille aux froides cruautés !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="206">Dites-moi, n'est-ce pas que vous la regrettez ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="207">Son épaule, le soir, était douce à ma tête,</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="208">Et pour la recevoir toujours elle était prête.</l>
+<stage type="closer/watch">Elle attire la tête de Henri sur son épaule, tous deux se regardent, rouges et embarrassés.</stage>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="209">Ô bizarre destin ! Quand je la rencontrais</l>
+	<l id="210">Parfois sur l'escalier, son visage si frais,</l>
+	<l id="211">Son nez si bien rosé, sa démarche hardie,</l>
+	<l id="212">Tout ce qui faisait d'elle une enfant étourdie,</l>
+	<l id="213">Rien ne conseillait l'amour, et je passais</l>
+	<l id="214">Insoucieux, et toi, cher ange, tu pressais</l>
+	<l id="215">Le pas, en murmurant : Que ce garçon est drôle !</l>
+	<l id="216">Un jour... Ah ! quel démon nous soufflait notre rôle ?</l>
+	<l id="217">Nous nous entretenions comme de gais amants.</l>
+	<l id="218">Je t'aimais, tu m'aimais, oh ! Quels enivrements !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="219">Comme vous passiez vite, adorables soirées !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="220">C'était l'hiver, la nuit abrégeait les vesprées.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="221">Et comme nous courions parlant à demi-voix,</l>
+	<l id="222">Dans la neige, ignorant si les vents étaient froids !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="223">Je t'aimais en ce temps où les portes sont closes,</l>
+	<l id="224">Où l'on s'embrasse, où l'on dit mille folles choses,</l>
+	<l id="225">Près de l'âtre où souvent le feu ne flambait plus.</l>
+	<l id="226">Mais nous n'en savions rien tous les deux ! Tu me plus</l>
+	<l id="227">Dans la morne saison où le grand ciel s'ennuie</l>
+	<l id="228">D'être toujours rayé parla bise et la pluie.</l>
+	<l id="229">Ô folle ! tu jouais avec mes vieux bouquins.</l>
+	<l id="230">Lorsque je regardais tes petits brodequins</l>
+	<l id="231">Revenir au logis, crottés et tout humides,</l>
+	<l id="232">Je disais : Espérons ! Quand les bourgeons timides</l>
+	<l id="233">Annonceront avril et les prés refleuris,</l>
+	<l id="234">On pourra s'envoler pour un jour de Paris.</l>
+	<l id="235">Les arbres, enivrés de leur nouvelle sève,</l>
+	<l id="236">Ombrageront la mousse ; oui, j'avais fait ce rêve.</l>
+	<l id="237">Je nous voyais tous deux marcher, jeunes et fous,</l>
+	<l id="238">Éveillant les échos bruyants autour de nous ;</l>
+	<l id="239">L'hiver est loin déjà ; les chansons éclatantes</l>
+	<l id="240">Agitent le rideau des feuilles palpitantes,</l>
+	<l id="241">Je suis seul ! Et pourtant, voilà bien le décor</l>
+	<l id="242" syll="6" part="i">Rêvé pour le bonheur !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="hugh">, lui jetant ses bras autour du cou.
+	</stage>
+	<l id="242" syll="6" part="f">Nous sommes deux encor !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="243" syll="6" part="i">Que me dis-tu !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="243" syll="6" part="f">Henri, c'est l'époque des roses,</l>
+	<l id="244">Les roses auraient peur devant nos fronts morose</l>
+	<l id="245">Aimons-nous et rions ! Écoute dans mon sein</l>
+	<l id="246">Mon coeur se ranimer et battre le tocsin.</l>
+	<l id="247">Oui, tu verras mes pieds vagabonder dans l'herbe</l>
+	<l id="248">Et mes mains entasser les pervenches en gerbe,</l>
+	<l id="249">Viens ! l'air retentira du cri de nos amours,</l>
+	<l id="250">Je suis folle de joie, et je t'aime toujours !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="251">Ah ! reste dans mes bras ! Reste, que je la baise</l>
+	<l id="252">Cette tête adorée. Ah ! Mauvaise ! Mauvaise !</l>
+	<l id="253">Que tu m'as fait de mal ! Si tu pouvais savoir</l>
+	<l id="254">Tout ce que j'ai souffert ? Si tu m'avais pu voir</l>
+	<l id="255">Heurter en sanglotant mon front sur les murailles,</l>
+	<l id="256">Et demander pourquoi l'heure des funérailles</l>
+	<l id="257">Était lente à venir ainsi ? Quand j'ai reçu</l>
+	<l id="258">Ce coup, je suis tombé. Ceux qui m'ont aperçu</l>
+	<l id="259">Les premiers dans ma chambre ont dit : Pauvre jeune homme !</l>
+	<l id="260">Il n'en reviendra pas ! Et le père Anthiome,</l>
+	<l id="261">Tu sais notre voisin, oh ! ce bon vieux ! c'est lui</l>
+	<l id="262">Qui m'a le mieux aidé pendant ces jours d'ennui</l>
+	<l id="263">A porter ma douleur. Tu lui tendras ta joue</l>
+	<l id="264">Ce soir. Il ne faut pas trop lui faire la moue,</l>
+	<l id="265">Car il va te gronder, sois en sûre. Ah ! Mon_Dieu !</l>
+	<l id="266">Dis, tu n'essaieras plus de jouer à ce jeu ?</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="267" syll="6" part="i">Pardonne-moi, Henri.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="267" syll="6" part="f">Oui. Car pendant ces heures,</l>
+	<l id="268">J'évoquais devant moi les autres, les meilleures,</l>
+	<l id="269">Celles qui se passaient en rires infinis,</l>
+	<l id="270">Je vivais ces moments à tout jamais bénis !</l>
+	<l id="271">Et puis, l'illusion, aidant à la mémoire,</l>
+	<l id="272">J'étais heureux. Mon coeur était comme une armoire</l>
+	<l id="273">Où tous mes souvenirs étaient numérotés,</l>
+	<l id="274">Alors, il me semblait te voir à mes côtés.</l>
+	<l id="275">Oui, mon isolement et mes larmes brûlantes,</l>
+	<l id="276">Mes désespoirs sans fin et mes angoisses lentes,</l>
+	<l id="277">Tout ce qui m'a vieilli, tout ce qui m'a glacé,</l>
+	<l id="278">Je te pardonne tout, pour le bonheur passé !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="279">Eh bien, pardonne aussi pour l'ivresse future,</l>
+	<l id="280" syll="6" part="i">Pour le bonheur présent.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="280" syll="6" part="f">Ô chère créature</l>
+	<l id="281" syll="6" part="i">Perdue et retrouvée !</l>
+<stage type="hugh/entrance">Ils se tiennent embrassés. Survient Marcel.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Henriette, Henri, Marcel.
+</stage>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="281" syll="6" part="f">Admirable tableau !</l>
+	<l id="282">Symphonie amoureuse où je fais un solo !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="283" syll="3" part="i">Tiens ! C'est vous ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="283" syll="9" part="f">Oui, c'est moi. Merci de la surprise</l>
+	<l id="284" syll="6" part="i">Que vous me prépariez.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="284" syll="6" part="f">Mon cher, aucune brise</l>
+	<l id="285">N'a soulevé mon coeur sur ses ailes pour vous.</l>
+	<l id="286">L'hirondelle retourne à l'ancien nid, si doux,</l>
+	<l id="287">Qu'elle aurait du toujours y demeurer blottie.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="288" syll="2" part="i">Perfide !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="288" syll="10" part="f">Et de quel droit cette absurde sortie !</l>
+	<l id="289" syll="9" part="i">Quand vous ai-je promis quelque chose ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="289" syll="3" part="f">Il est vrai...</l>
+	<l id="290" syll="6" part="i">Mais en prenant mon bras...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="290" syll="6" part="f">J'ai dit : Je vous suivrai</l>
+	<l id="291">À la campagne, mais, condition expresse :</l>
+	<l id="292">Vous ne me soufflerez pas un mot de tendresse.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="293" syll="6" part="i">Je ne dis pas non, mais...</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, riant.
+	</stage>
+	<l id="293" syll="6" part="f">Ah ! Ah ! Pauvre garçon !</l>
+	<l id="294">J'ai retrouvé Henri. Vous savez la chanson ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="295">Mais être venu deux et rester seul, c'est bête,</l>
+	<l id="296">Surtout quand le soleil vous donne sur la tête.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="297">Lydie est revenue, ô Calaïs ; allez</l>
+	<l id="298">Chercher quelque amoureuse ailleurs, si vous voulez !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="299">Adieu, Marcel ! L'oubli vous sera bien facile.</l>
+<stage type="touch/exit/sing">Elle prend le bras de Henri et sort en chantant :</stage>
+	<l id="300">Et l'on revient toujours,</l>
+	<l id="301">À ses premiers amours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="MARCEL"><speaker>MARCEL</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="302">Encore cet oiseau qui m'échappe ! Imbécile !</l>
+	<l id="303">Que pensez-vous de moi, tonnelles, verts rideaux,</l>
+	<l id="304">Qui me regardez là, sottement, grands badauds !</l>
+	<l id="305">Quitterai-je les champs tapageurs où l'on pêche,</l>
+	<l id="306">Sans avoir effleuré le velours d'une pêche ?</l>
+	<l id="307">Non ! non ! je veux rester, je resterai ! Tant pis !</l>
+	<l id="308">Mais il faut que j'égrène aussi quelques épis</l>
+	<l id="309">Dans la blonde campagne avec la Dorimène</l>
+	<l id="310">Que le sort vers l'endroit où sont mes pas amène !</l>
+	<l id="311">En route pour l'amour ! Cherchons bien. Justement</l>
+	<l id="312">Une dame, un monsieur vieux et laid, c'est charmant !</l>
+<stage type="entrance/together">Entrent Monsieur et Madame Pontchartrain.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Marcel, Monsieur et Madame Pontchartrain.
+</stage>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="313">Certes, il est des cas où le sage recule,</l>
+	<l id="314" syll="6" part="i">C'est un fait avéré...</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE.</speaker>
+	<l id="314" syll="6" part="f">Vous êtes ridicule.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL</speaker><stage type="closer">, s'approchant.
+	</stage>
+	<l id="315" syll="9" part="i">Je suis de votre avis, Madame.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="315" syll="3" part="f">Hein ! Quel est</l>
+	<l id="316">Cet intrus, et pour quoi me prend-il, s'il vous plaît ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="317" syll="8" part="i">Je ne vous parle pas, Monsieur.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="317" syll="2" part="m">Comment ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="317" syll="6" part="f">J'approuve</l>
+	<l id="318">Ce que Madame a dit à l'instant, et je trouve</l>
+	<l id="319">Qu'elle a deux fois raison. Donnez-moi donc la paix.</l>
+	<l id="320">Oui, Madame, cet homme est un butor épais,</l>
+	<l id="321" syll="3" part="i">Vous ayant...</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="321" syll="3" part="m">Mais, Monsieur...</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="321" syll="6" part="f">Assez sur ce chapitre.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="322">Ah ! Vous êtes encore un bien singulier pitre,</l>
+	<l id="323">Convenons-en ! Monsieur arrive là tout droit,</l>
+	<l id="324">Me trouve ridicule, et je n'ai pas le droit</l>
+	<l id="325">De me fâcher ! Allons, mais je n'aurais pas d'âme !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="326">Encore un coup, monsieur, je m'adresse à Madame.</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE</speaker><stage type="sweet">, avec douceur.
+	</stage>
+	<l id="327" syll="6" part="i">C'est à moi qu'il s'adresse.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN</speaker><stage type="shame">, anéanti.
+	</stage>
+	<l id="327" syll="6" part="f">Ah ! Très bien ! Je me tais.</l>
+	<l id="328" syll="2" part="i">Grands dieux !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="328" syll="10" part="f">Figurez-vous, Madame, que j'étais</l>
+	<l id="329">À la campagne, avec une jeune amoureuse,</l>
+	<l id="330">Charmante, vive et folle, un oiseau ! Vaporeuse</l>
+	<l id="331">À l'excès. Nous étions venus là pour dîner</l>
+	<l id="332">Ensemble ; puis après nous devions cheminer</l>
+	<l id="333">Par les sentiers perdus, où notre dialogue</l>
+	<l id="334">Fût devenu bien vite une divine églogue.</l>
+	<l id="335">Or, dès les premiers vers à peine murmurés,</l>
+	<l id="336">Brisant et disloquant les mètres préparés,</l>
+	<l id="337">Tombe un monsieur du ciel. Mon amante, ô frivole !</l>
+	<l id="338">Tressaille, pousse un cri, puis dans ses bras s'envole.</l>
+	<l id="339">Je reste là, madame. Et notez que j'avais</l>
+	<l id="340">Un tas de madrigaux qui n'étaient point mauvais,</l>
+	<l id="341">Un galant répertoire admirablement tendre,</l>
+	<l id="342">Et personne, personne à qui le faire entendre !</l>
+	<l id="343">C'était navrant ! Rentrer en dedans mon amour.</l>
+	<l id="344">Mais je vous vois, madame, et je vous fais la cour ;</l>
+	<l id="345">Je tombe à vos genoux, je saisis vos petites</l>
+	<l id="346">Menottes, qui nous font songer aux clématites,</l>
+	<l id="347">À la neige, au jasmin si pur, au lys vainqueur.</l>
+	<l id="348">J'y répands mes baisers. Voulez-vous de mon coeur ?</l>
+	<l id="349">Vous riez doucement. Car, sur votre visage,</l>
+	<l id="350">Le rire est un rayon dans un frais paysage,</l>
+	<l id="351">Et je prends votre bras, que vous m'abandonnez.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="352" syll="6" part="i">Et que fais-je en ceci, Monsieur ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="352" syll="4" part="m">Vous me gênez.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="352" syll="2" part="f">Mon_Dieu !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="353">Que fais-je en somme ? Une chose ordinaire.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN</speaker><stage type="estonish">, foudroyé.
+	</stage>
+	<l id="354">Quoi, la cour à ma femme, et vous !... sang et tonnerre !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL</speaker><stage type="listen">, sans l'écouter.
+	</stage>
+	<l id="355">Donc, Madame, vos yeux ont de charmants reflets.</l>
+	<l id="356">Tels brillent dans les cieux embrasés, les palais</l>
+	<l id="357">Où le rouge Phébus remise sa berline.</l>
+	<l id="358">Vous avez une grâce adorable et féline ;</l>
+	<l id="359">Vos mains sont d'un enfant; j'adore votre front,</l>
+	<l id="360">Ciel pur que les soucis jamais n'obscurciront ;</l>
+	<l id="361">Vos douces lèvres sont pareilles aux grenades,</l>
+	<l id="362">Une abeille y viendrait guider ses promenades.</l>
+	<l id="363">N'est-ce pas qu'il est doux, quand on a tout cela,</l>
+	<l id="364">Les yeux où le Soleil lui-même étincela</l>
+	<l id="365">Le charme, la beauté, la voix pure et sonore,</l>
+	<l id="366" syll="8" part="i">De se l'entendre dire ainsi qu'...</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN</speaker><stage type="shout">, éclatant.
+	</stage>
+	<l id="366" syll="4" part="f">Éléonore !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="367">De se l'entendre dire ainsi qu'à vos genoux,</l>
+	<l id="368" syll="6" part="i">Madame, je le dis.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="368" syll="6" part="f">Dieux bons ! Où sommes-nous !</l>
+	<l id="369">Vous allez mettre un terme à ces propos bizarres !</l>
+<stage type="kiss">Marcel sans répondre, embrasse la main de la dame.</stage>
+	<l id="370" syll="6" part="i">Eh ! Que faites-vous donc ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="370" syll="6" part="f">Parbleu ! Je prends des arrhes.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="371" syll="2" part="i">Voulez...</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="371" syll="10" part="f">Il est des gens bien impatientants.</l>
+	<l id="372">On m'appelle Marcel, Madame, et j'ai vingt ans,</l>
+	<l id="373" syll="6" part="i">Me voulez-vous aimer ?</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="373" syll="6" part="f">Est-ce ainsi qu'on me berne !</l>
+<note type="L">Giberne : Anciennement, nom d'une espèce de sac, dans lequel les grenadiers portaient des grenades. [L]</note>
+	<l id="374">Vous allez à l'instant mettre en votre giberne,</l>
+	<l id="375">Mon beau soldat d'amour, ces déclarations.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="376">Vous m'ennuyez avec vos interruptions !</l>
+	<l id="377">Voyons ! Me voulez-vous chercher une querelle ?</l>
+	<l id="378" syll="2" part="i">J'accepte !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="378" syll="3" part="f">Ma femme est...</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="378" syll="6" part="f">Je me battrai pour elle</l>
+	<l id="379">Et vous boirez mon sang, énorme spadassin !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="380" syll="3" part="i">Spadassin !</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="380" syll="9" part="f">Vous voulez vous rougir dans mon sein,</l>
+	<l id="381" syll="3" part="i">Rougissez !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="381" syll="3" part="m">Mais du tout !</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE</speaker><stage type="cry">, éplorée.
+	</stage>
+	<l id="381" syll="3" part="m">Au secours !</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Henriette, Henri, les Pontchartrain, Marcel.
+</stage>
+<sp who="HENRIETTE, HENRI"><speaker>HENRIETTE et HENRI</speaker><stage type="listen">, attirés par le bruit.
+	</stage>
+	<l id="381" syll="3" part="f">Qu'est-ce ? Qu'est-ce ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="382">Eh rien, c'est le fracas de cette grosse caisse.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="383" syll="6" part="i">Mon oncle Pontchartrain !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="383" syll="6" part="f">C'est toi ! Dieu soit loué !</l>
+	<l id="384">Viens défendre ton oncle, ô neveu dévoué !</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="proud">, majestueux.
+	</stage>
+	<l id="385">Vous n'avez pas toujours, pour moi, l'un de vos proches,</l>
+	<l id="386">Été, comme Bayard, un oncle sans reproches,</l>
+	<l id="387">Et je vais demander souvent aux usuriers,</l>
+	<l id="388">Quand les temps sont mauvais, l'argent que vous pourriez</l>
+	<l id="389">Me donner. Vous m'avez refusé ma cousine</l>
+	<l id="390">Pour lui faire épouser je ne sais quelle usine,</l>
+	<l id="391">Mais je serai clément, comme le sont les dieux,</l>
+	<l id="392">Plus peut-être. Je suis miséricordieux,</l>
+	<l id="393">Mais juste cependant. Parlez, jouis la cause.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="394">Tu seras indigné quand tu sauras ce qu'ose</l>
+	<l id="395" syll="4" part="i">Ce jeune homme.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="395" syll="4" part="m">Monsieur Marcel !</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="395" syll="4" part="f">Un bon garçon.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="396" syll="3" part="i">Spirituel.</l>
+</sp>
+<sp who="ÉLÉONORE"><speaker>ÉLÉONORE.</speaker>
+	<l id="396" syll="3" part="m">Aimable.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="396" syll="6" part="f">Et qui vient sans façon</l>
+	<l id="397">Me dire que je suis ridicule, à ma face !</l>
+	<l id="398">Mais ce n'est qu'un détail oiseux, et je l'efface.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="399" syll="2" part="i">Hé ! Diable !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="399" syll="10" part="f">Il tombe aux pieds de mon épouse, puis</l>
+	<l id="400">Dit qu'il l'aime. Je suis calme autant que je puis,</l>
+	<l id="401">Je parle doucement d'abord, monsieur m'envoie</l>
+	<l id="402">Haranguer les moineaux, et veut que je le voie</l>
+	<l id="403">Tranquillement conter ses fleurettes en l'air</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="404">Allons, modérez-vous, monsieur, vous avez l'air</l>
+	<l id="405">D'un dentiste enrhumé. Soyez donc plus auguste.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="406">Les ennuis sont un vin que le sage déguste</l>
+	<l id="407">Quand le moment en vient. Mon oncle, dégustez.</l>
+<stage type="toward">À Marcel.</stage>
+	<l id="408">Mais qui peut vous conduire à ces extrémités</l>
+	<l id="409" syll="10" part="i">D'aller faire la cour à ma tante ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="409" syll="2" part="f">La faute</l>
+	<l id="410">De tout ceci, Monsieur, sur le soleil ressaute.</l>
+	<l id="411">Que faire un jour de juin, quand on est dans les champs,</l>
+	<l id="412">Qu'autour de vous, partout, sur les coteaux penchants,</l>
+	<l id="413">Sur la route, on entend jaser sous les ombrelles</l>
+	<l id="414">Des couples de ramiers avec leurs tourterelles !</l>
+	<l id="415">On boit l'amour dans l'air. Moi j'étais venu deux,</l>
+	<l id="416">Et vous avez trompé mon espoir hasardeux.</l>
+	<l id="417">De là ma rage. Puis, vous m'avez dit vous-même :</l>
+	<l id="418">Lydie est revenue, ô Calaïs, et m'aime,</l>
+	<l id="419">Cherchez quelque amoureuse ailleurs si vous voulez !</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN</speaker><stage type="toward">, à Henri.
+	</stage>
+	<l id="420" syll="3" part="i">Tu l'as dit ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="420" syll="3" part="m">Je l'ai dit.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="420" syll="6" part="f">Mes esprits sont troublés.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="421">Mon oncle, vous voyez ; maintenant tout s'explique.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="422">Sa conduite à présent me paraît moins oblique.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="423">Madame se présente. Elle a de fort beaux yeux. </l>
+	<l id="424">Peut-on n'en pas sentir le charme gracieux ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="425" syll="9" part="i">Ce n'est guère facile en effet.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="425" syll="3" part="f">À ma place</l>
+	<l id="426">Qu'eussiez-vous fait, monsieur ? car on n'est pas de glace.</l>
+	<l id="427">Les yeux sont faits pour voir et le coeur pour sentir ?</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="428">L'argument est logique. Essayez d'en sortir.</l>
+</sp>
+<sp who="MONSIEUR PONTCHARTRAIN"><speaker>MONSIEUR PONTCHARTRAIN.</speaker>
+	<l id="429">Mon neveu, tout ceci me rend l'esprit perplexe,</l>
+	<l id="430">Certes, il a raison, mais pourtant ça me vexe...</l>
+	<l id="431" syll="3" part="i">Tiens, je pars.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Les mêmes, Blondine.
+</stage>
+<sp who="BLONDINE"><speaker>BLONDINE</speaker><stage type="location">, paraissant sur le seuil du cabaret.
+	</stage>
+	<l id="431" syll="9" part="f">Ça, voilà deux heures que j'attends.</l>
+<stage type="move">Mouvement général.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="432" syll="6" part="i">Cette femme, c'était...</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI</speaker><stage type="toward">, à Blondine.
+	</stage>
+	<l id="432" syll="6" part="f">Ma chère, un contre-temps</l>
+	<l id="433">Survient dans nos amours et finit le volume</l>
+	<l id="434">Dont le commencement est resté dans la plume.</l>
+	<l id="435">L'encre manquait. Pourquoi fatiguer le papier</l>
+	<l id="436">Qu'on froisserait en vain sans y rien copier ?</l>
+	<l id="437">L'oiseau du souvenir gazouillait dans les chênes,</l>
+	<l id="438">Et mon coeur s'est repris à ses premières chaînes.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="439">Eh, n'en rougissez pas ! heureux qui peut aimer,</l>
+	<l id="440">Mais plus heureux celui qui voit se ranimer</l>
+	<l id="441">L'amour qu'il oubliait, un jour d'ingratitude !</l>
+	<l id="442">Que voulais-je ? jeter en votre solitude,</l>
+	<l id="443">Un peu de ma folie, un peu de ma gaîté !</l>
+	<l id="444">Et, complice en cela du soleil de l'été,</l>
+	<l id="445">Quand vous niiez la joie, arrêter vos blasphèmes</l>
+	<l id="446">Qui se sont, à présent, interrompus d'eux-mêmes.</l>
+	<l id="447">Adieu donc ! Je m'en vais vous laissant, pauvre oiseau,</l>
+	<l id="448">Vous débattre à votre aise au milieu du réseau</l>
+	<l id="449">Fatal, où la sirène à la voix tentatrice</l>
+	<l id="450" syll="6" part="i">Vous a repris encor.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="450" syll="6" part="f">Chère consolatrice</l>
+	<l id="451">Qui vous consolera ? Qui consolerez-vous</l>
+	<l id="452" syll="3" part="i">Maintenant ?</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL</speaker><stage type="toward">, à Blondine.
+	</stage>
+	<l id="452" syll="9" part="f">Vous voyez un homme à vos genoux,</l>
+	<l id="453">Qui vous offre son bras pour aller dans la plaine,</l>
+	<l id="454">Un homme abandonné. Vous pouvez, Madeleine,</l>
+	<l id="455">Encore cette fois répandre vos parfums.</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE.</speaker>
+	<l id="456" syll="3" part="i">Nous verrons.</l>
+</sp>
+<sp who="MARCEL"><speaker>MARCEL.</speaker>
+	<l id="456" syll="3" part="m">Voyez vite.</l>
+</sp>
+<sp who="HENRI"><speaker>HENRI.</speaker>
+	<l id="456" syll="6" part="f">À nos ennuis défunts !</l>
+	<l id="457">Buvons et que la joie étincelle et fleurisse !</l>
+</sp>
+<sp who="BLONDINE"><speaker>BLONDINE</speaker><stage type="toward">, au public.
+	</stage>
+	<l id="458">Notre auteur n'a voulu peindre que son caprice,</l>
+	<l id="459">Dans cette comédie où tout va de travers.</l>
+	<l id="460">Quand il a secoué les rimes de nos vers,</l>
+	<l id="461">Sa raison voyageait sur une mer lointaine.</l>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+	<l id="462">Ô messieurs ! Désarmez la critique incertaine</l>
+	<l id="463">Pour cette oeuvre où l'amour allume son fanal,</l>
+	<l id="464">Et qui prend nos baisers pour tout couplet final.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

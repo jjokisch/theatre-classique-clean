@@ -1,0 +1,2904 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LES DEUX GOUGNOTTES, PIÈCE.</title>
+			<author type="texte" ISNI="0000 0001 0910 1850 ">Henri MONNIER (1799-1877)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, janvier 2023</editor>
+			<publisher>Publié par Paul FIEVRE, février 2023</publisher>
+			<idno>MONNIER_DEUXGOUGNOTTES</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Pièce</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1861-1870</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF LLA 8-Y2-90000 (1255)">https://gallica.bnf.fr/ark:/12148/bpt6k947008r</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES DEUX GOUGNOTTES</titlePart>
+		</docTitle> 
+		<docDate value="1953">1953</docDate>
+		<docAuthor id="MONNIER, Henri">par M. HENRI MONNIER</docAuthor>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="MADAME DU CROISY" sex="2" type="H" statut="aristocrate" age="A" stat_amour="néant">MADAME DU CROISY</role>, châtelaine.</castItem>
+			<castItem><role id="MADAME LOUISE DE LAVENEUR" sex="2" type="H" statut="aristocrate" age="A" stat_amour="néant">MADAME LOUISE DE LAVENEUR</role>.</castItem>
+			<castItem><role id="MADAME HENRIETTE DE FRÉMICOURT" sex="2" type="H" statut="aristocrate" age="A" stat_amour="néant">MADAME HENRIETTE DE FRÉMICOURT</role>.</castItem>
+			<castItem><role id="JULIE" sex="2" type="H" statut="femme de chambre" age="A" stat_amour="néant">JULIE</role>, femme de chambre.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="[N/A]">L'action se passe dans un château des bords de la Loire en 1860.</set>
+		<note>Ce dialogue a été copié, en 1863 , sur le manuscrit autographe, appartenant alors à M. Nadar, également illustre comme littérateur, photographe et aéronaute .</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LES DEUX GOUGNOTTES</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Madame du Croisy, Madame de
+Frémicourt, Madame de Laveneur, Julie.
+</stage>
+<stage type="decor/narration">Madame du Croisy introduit ses deux amies dans l'appartement qui leur est destiné ; Julie va et vient pour s'assurer que rien ne manque des choses indispensables dans une chambre à coucher.</stage>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="1">
+	<s id="1">Vous serez très mal ici, Mesdames, et j'en souffre vraiment... </s>
+	<s id="2">Mais c'est vous qui l'avez voulu...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>MADAME DE LAVENEUR.</speaker>
+<p id="2">
+	<s id="1">Au contraire, chère madame, nous serons on ne peut mieux ici, je vous jure ; on ne peut mieux.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+<p id="4">
+	<s id="1">Certainement .</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="4">
+	<s id="1">Vous aussi, Madame, vous pensez être bien dans ce grand appartement ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+
+<p id="5">
+	<s id="1">Il est charmant, et nous y serons admirablement.</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="6">
+	<s id="1">Alors, souffrez que Julie reste dans l'antichambre, pour le cas où vous auriez besoin d'elle ; je serais plus rassurée sur votre compte...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>MADAME LAVENEUR</speaker><stage type="strong">, vivement.
+</stage>
+<p id="7">
+	<s id="1">Non, non.. </s>
+	<s id="2">Nous ne redoutons rien... </s>
+	<s id="3">Du moins je n'ai pas peur...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+<p id="8">
+	<s id="1">Comment aurions nous peur dans un château-fort comme celui-ci ? </s>
+	<s id="2">Car ce n'est pas dans une de ces maisons de campagne comme on en voit tant, si légères qu'un coup de vent les renverse... </s>
+	<s id="3">Nous sommes à l'abri de tout, ici, certainement.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>MADAME DE LAVENEUR.</speaker>
+<p id="9">
+	<s id="1">Mais ce château n'a-t-il pas soutenu plusieurs sièges ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+<p id="10">
+	<s id="1">Je l'ai entendu dire, en effet.</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="11">
+	<s id="1">Pas du temps de Monsieur_du_Croisy, que je sache... </s>
+	<s id="2">- Julie.</s>
+</p>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<p id="12">
+	<s id="1">Madame ?</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="13">
+	<s id="1">Avez-vous fait ce que je vous avais recommandé ?</s>
+</p>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<p id="14">
+	<s id="1">Oui, Madame.</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="15">
+	<s id="1">Je vous abandonne donc, Mesdames, à votre malheureux sort.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>MADAME DE LAVENEUR.</speaker>
+<p id="16">
+	<s id="1">C'est cela, plaignez-nous ....</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="17">
+	<s id="1">À demain donc.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+<p id="18">
+	<s id="1">À demain, chère madame.</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="19">
+	<s id="1">À demain.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>MADAME DE LAVENEUR.</speaker>
+<p id="20">
+	<s id="1">Et bonne nuit.</s>
+</p>
+</sp>
+<sp who="MADAME DU CROISY"><speaker>MADAME DU CROISY.</speaker>
+<p id="21">
+	<s id="1">Bonne nuit.</s>
+</p>
+<stage type="exit">Madame du Croisy sort avec Julie, laissant Mesdames Laveneur et de Frémicourt seules dans leur appartement.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE DEUXIÈME.</head><stage> Louise de Laveneur et Henriette.
+</stage>
+<stage type="dress">Seules. Tout en causant, elles se déshabillent et se mettent au lit.</stage>
+<sp who="HENRIETTE"><speaker>MADAME DE FRÉMICOURT.</speaker>
+<p id="1">
+	<s id="1">Il est certain, chère Madame, que nous serons ici, on ne peut mieux ; n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE DE LAVENEUR.</speaker>
+<p id="2">
+	<s id="1">J'ai toujours adoré les grands appartements.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="4">
+	<s id="1">On a de l'air dans un grand appartement, on a de l'espace, on respire, on vit. </s>
+	<s id="2">- Vous avez à Paris, m'a-t-on dit, Madame, une délicieuse habitation ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="4">
+	<s id="1">Pour Paris .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="5">
+	<s id="1">Plusieurs dames de mes amies ont été de cet avis .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="6">
+	<s id="1">Quelle place au lit préférez-vous, dites-moi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="7">
+	<s id="1">Aucune, je les trouve toutes bonnes .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="8">
+	<s id="1">Bien vrai ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="9">
+	<s id="1">Je vous jure.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="10">
+	<s id="1">J'aime à croire que vous ne faites point de cérémonies ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="11">
+	<s id="1">Je n'en fais jamais .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="12">
+	<s id="1">J'avais une frayeur.... mais une frayeur atroce, que cette fille restât ici.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="13">
+	<s id="1">Toutes les fois qu'il m'est arrivé de faire coucher, ma femme_de_chambre dans mon voisinage, toujours il m'a été impossible de dormir.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="14">
+	<s id="1">Elle ronflait, peut-être ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="15">
+	<s id="1">Comme un soufflet de forge. </s>
+	<s id="2">C'était odieux !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="16">
+	<s id="1">Ne puis-je vous être d'aucune utilité ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="17">
+	<s id="1">Mille fois trop bonne, en vérité !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="18">
+	<s id="1">Je me mets entièrement à votre disposition.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="19">
+	<s id="1">À charge de revanche, je vous en prie.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="20">
+	<s id="1">Vous aviez une toilette charmante.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="21">
+	<s id="1">Oh ! </s>
+	<s id="2">Bien simple, bien simple ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="22">
+	<s id="1">Excessivement distinguée.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="23">
+	<s id="1">Que j'aime cette bonne Madame_du_Croisy !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="24">
+	<s id="1">Je l'aime beaucoup aussi.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="25">
+	<s id="1">Ma tante l'adorait. </s>
+	<s id="2">- Vos cheveux sont magnifiques ! ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="26">
+	<s id="1">Vous me flattez.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="26">
+	<s id="1">Pas le moins du monde. </s>
+	<s id="2">Jamais je n'en ai vu de plus beaux. </s>
+	<s id="3">J'en suis jalouse .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="27">
+	<s id="1">J'en ai beaucoup perdu, et cependant j'en ai toujours eu grand soin.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="28">
+	<s id="1">On le voit .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="lie/furniture">, se mettant au lit.
+</stage>
+<p id="29">
+	<s id="1">Je me mets au lit.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<note type="L">Lusignan : Commune du département de la Vienne au sud-ouest de Poitiers.</note>
+<p id="29">
+	<s id="1">Je ne vais pas tarder à vous rejoindre. </s>
+	<s id="2">- Étiez-vous déjà venue à Lusignan ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="30">
+	<s id="1">Une fois, avec ma tante; j'étais petite fille, c'est à peine si je me le rappelle.</s>
+	<s id="2">- Pauvre tante ! </s>
+	<s id="3">- Le croirez vous, je suis si souffrante ! </s>
+	<s id="3">Tantôt en descendant de voiture...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="31">
+	<s id="1">Vraiment ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="32">
+	<s id="1">Je me demandais si [j]e me mettrais à table. </s>
+	<s id="2">Tout à fait mal à mon aise.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="33">
+	<s id="1">Pourquoi m'en avoir rien dit ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="34">
+	<s id="1">Je n'ai point osé.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="35">
+	<s id="1">Vous avez eu tort.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="36">
+	<s id="1">J'ai su peur de me rendre intéressante ! </s>
+	<s id="2">J'ai bien fait, et m'en applaudis à présent ; ce n'était rien ; à peine sortie de table, je n'y ai plus pensé.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="37">
+	<s id="1">Et à présent.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="38">
+	<s id="1">Je n'y pense plus. </s>
+	<s id="2">- Je l'ai remarqué  : chaque fois que j'ai le malheur de changer mes habitudes, c'est un tribut qu'il faut que je paye : je suis faite pour rester chez moi. </s>
+	<s id="3">Non, décidément, je n'aime pas le campagne, je commence à le croire.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="39">
+	<s id="1">Le grand air peut-être produit sur vous cet effet.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="40">
+	<s id="1">Je le crois.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE</speaker><stage type="lie">, sur le point de monter au lit.
+</stage>
+<p id="41">
+	<s id="1">Voulez-vous, chère Madame, me faire l'honneur de m'accepter ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="42">
+	<s id="1">Comment donc ! </s>
+	<s id="2">Mais avec le plus grand des plaisirs.</s>
+	<s id="3">- Prenez place, je vous prie.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="43">
+	<s id="1">Du tout, du tout, je n'en ferai rien.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="44">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="45">
+	<s id="1">Je n'en ferai rien, vous dis-je : je suis ici on ne peut mieux.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="46">
+	<s id="1">J'étais loin de m'attendre à cette bonne fortune... </s>
+	<s id="2">C'est une surprise dont je vous suis infiniment de gré à la maîtresse de maison.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="47">
+	<s id="1">Il y a longtemps que le lui ai manifesté le désir de me rencontrer avec vous !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="48">
+	<s id="1">Mais c'est divin ce que vous me dites là !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="49">
+	<s id="1">Elle ne pouvait rien faire qui me fût plus agréable.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="50">
+	<s id="1">J'espère, chère Madame, justifier un jour l'excellent opinion que vous avez conçu de moi.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="51">
+	<s id="1">C'est déjà fait.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="52">
+	<s id="1">Vous me rendez bien fière !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="53">
+	<s id="1">Comme ce château est calme !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="54">
+	<s id="1">N'est-ce pas ? </s>
+	<s id="2">On se croirait au bout du monde.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="55">
+	<s id="1">Vous ne redoutez pas l'obscurité ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="56">
+	<s id="1">Au contraire.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="57">
+	<s id="1">Puis-je souffler la bougie ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="58">
+	<s id="1">Je n'osais vous en prier.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="59">
+	<s id="1">Vous aviez grand tort.</s>
+</p>
+<stage type="light">Elle souffle la bougie.</stage>
+<p id="60">
+	<s id="1">Comment vous trouvez-vous, à présent ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="61">
+	<s id="1">Admirablement. </s>
+	<s id="2">J'ai toujours trouvé qu'on est bien plus seule encore dans l'obscurité.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="62">
+	<s id="1">Je suis de votre avis.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="63">
+	<s id="1">Vous avez envie de dormir ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="64">
+	<s id="1">Pas du tout ; et vous, Madame ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="65">
+	<s id="1">Pas le moins du monde.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="66">
+	<s id="1">Causons un peu, alors.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="67">
+	<s id="1">Volontiers.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="68">
+	<s id="1">Approchez-vous de moi...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="69">
+	<s id="1">Je crains de vous gêner.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="70">
+	<s id="1">Quelle folie ! </s>
+	<s id="2">Vous êtes à cent lieues... </s>
+	<s id="3">Encore, encore. </s>
+	<s id="4">- Vous imposé-je ? </s>
+	<s id="5">Je ne le pense pas...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="71">
+	<s id="1">Non, chère Madame.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="72">
+	<s id="1">Encore... </s>
+	<s id="2">Encore... </s>
+	<s id="3">Avancez encore !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="73">
+	<s id="1">Je ne puis davantage.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="74">
+	<s id="1">Vous semblez avoir froid.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="75">
+	<s id="1">Vous croyez ?
+19</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="76">
+	<s id="1">J'en suis sûre. </s>
+	<s id="2">Vos petits pieds sont de marbre.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="77">
+	<s id="1">J'ai toujours eu froid aux pieds.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="78">
+	<s id="1">Moi aussi, quand j'étais demoiselle .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="79">
+	<s id="1">Et à présent ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="80">
+	<s id="1">C'est bien rare.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="81">
+	<s id="1">Quel silence !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="82">
+	<s id="1">Le silence le plus profond. </s>
+	<s id="2">Vous n'avez pas peur ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="83">
+	<s id="1">Peur ! </s>
+	<s id="2">Et de quoi ? </s>
+	<s id="3">- Comme il doit être tard !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="84">
+	<s id="1">Jamais on ne couche ici. </s>
+	<s id="2">Que je souffre donc de vous savoir si froid aux pieds.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="85">
+	<s id="1">J'en ai l'habitude.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="86">
+	<s id="1">Je vais les réchauffer aux miens ; voulez vous ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="87">
+	<s id="1">Mais vraiment, chère Madame, vous avez pour moi mille fois trop de bontés.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="88">
+	<s id="1">Vos ravissants petits petons !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="89">
+	<s id="1">Que vous êtes bonne !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="90">
+	<s id="1">C'est qu'aussi vous le méritez bien ! </s>
+	<s id="2">Comment vous trouvez-vous, à présent ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="91">
+	<s id="1">Je me sens déjà mieux.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="92">
+	<s id="1">Vous avez moins froid ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="93">
+	<s id="1">Plus du tout.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="94">
+	<s id="1">Vos bons et adorables petits pieds !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="95">
+	<s id="1">Vous n'avez rien à m'envier de ce côté-là.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="96">
+	<s id="1">Savez-vous que nous nous faisons des compliments comme des amoureux ? ...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="97">
+	<s id="1">Mais oui...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="98">
+	<s id="1">C'est singulier, toujours vous m'avez inspiré beaucoup de sympathie.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="99">
+	<s id="1">Vraiment !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="100">
+	<s id="1">Et cela, dès le premier jour .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="101">
+	<s id="1">J'allais vous avouer la même chose.</s>
+</p>
+
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="102">
+	<s id="1">Et dire que si nous ne nous étions rencontrées ici, peut-être serions-nous restées des éternités sans nous le dire !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="103">
+	<s id="1">Jamais je n'eusse osé.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="104">
+	<s id="1">En vérité ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="105">
+	<s id="1">Mon mari ne me permet pas de dire un mot.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="106">
+	<s id="1">Il a l'air si doux.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="107">
+	<s id="1">Mais il est si indifférent !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="108">
+	<s id="1">Vous m'étonnez.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="109">
+	<s id="1">Il est de glace.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="110">
+	<s id="1">Il me semble aux petits soins pour vous.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="111">
+	<s id="1">Devant le monde, oui.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="112">
+	<s id="1">Et en tête à tête ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="113">
+	<s id="1">Il ne dit rien, pas un mot... </s>
+	<s id="2">Au reste, il ne m'inspire aucune confiance...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="114">
+	<s id="1">Pauvre chère petite Madame !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="115">
+	<s id="1">C'est au point que, souvent, quand il m'arrivait de vouloir l'embrasser... </s>
+	<s id="2">J'en avais grande envie ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="116">
+	<s id="1">Eh bien ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="117">
+	<s id="1">Je n'osais point... </s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="117">
+	<s id="1">Je n'osais point ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="118">
+	<s id="1">Parce que ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="119">
+	<s id="1">Je ne savais si cela lui ferait plaisir. </s>
+	<s id="2">- Et si je vous disais...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="120">
+	<s id="1">Quoi donc ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="121">
+	<s id="1">Non !... À quoi bon ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="122">
+	<s id="1">Pourquoi ne pas me le dire ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="123">
+	<s id="1">Vous m'embarrassez.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="124">
+	<s id="1">Ai-je donc l'air si sévère ? </s>
+	<s id="2">Permettrez de n'en rien croire.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="125">
+	<s id="1">Si fait, je vous assure... </s>
+	<s id="2">- Et le vôtre ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="126">
+	<s id="1">N'en parlons pas, je vous prie. </s>
+	<s id="2">Je n'ai pas assez de bien à en dire : aussi ai-je fini par en prendre parti...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="127">
+	<s id="1">Comment cela ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="128">
+	<s id="1">Figurez-vous, chère Madame, des semaines entières...</s>
+</p>
+</sp><sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="129">
+	<s id="1">Sans vous embrasser ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="129">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="130">
+	<s id="1">Mais c'est affreux !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="131">
+	<s id="1">Et le vôtre ? </s>
+	<s id="2">Souvent aussi des semaines entières...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="132">
+	<s id="1">Sans me faire la moindre caresse ; dans l'intérêt de ma santé, à ce qu'il dit...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="133">
+	<s id="1">Ces messieurs disent tous la même chose...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="134">
+	<s id="1">Et la conduite qu'ils mènent aujourd'hui, comment la trouvez-vous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="135">
+	<s id="1">Originale.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="136">
+	<s id="1">Moi, je la trouve odieuse ; d'autant plus odieuse qu'ils savaient parfaitement que nous arrivions aujourd'hui. </s>
+	<s id="2">Mais non ! </s>
+	<s id="3">Ces messieurs n'ont pas voulu remettre leur partie. </s>
+	<s id="4">Ils s'en sont allés chasser, emmenant tout ce qu'il y avait d'hommes au château, ne prenant aucun souci de nous, et qui sait si, dans l'abandon où ils nous laissent, des gens mal intentionnés ne vont pas profiter de l'occasion pour nous surprendre... </s>
+	<s id="5">Cela pourrait bien arriver !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="137">
+	<s id="1">Vous me faites frémir !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="138">
+	<s id="1">J'espère qu'il n'en sera rien...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="139">
+	<s id="1">Je l'espère aussi.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="140">
+	<s id="1">Comme ils se ressemblent tous.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="141">
+	<s id="1">N'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="142">
+	<s id="1">Une fois qu'ils ont obtenu ce qu'ils désirent...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="143">
+	<s id="1">Ils parlent d'autre chose...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="144">
+	<s id="1">Ou s'endorment !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="145">
+	<s id="1">Ils sont tous taillés sur le même patron.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="146">
+	<s id="1">Il faut nous résigner</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="147">
+	<s id="1">C'est triste.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="148">
+	<s id="1">Que voulez-vous !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="149">
+	<s id="1">Dites-moi, chère Madame, voyez-vous encore quelque fois vos anciennes amies de pension ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="150">
+	<s id="1">Bien rarement.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="151">
+	<s id="1">Les aimiez-vous ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="152">
+	<s id="1">Le nombre en était restreint de celles que j'aimais ; mais je les aimais beaucoup .... </s>
+	<s id="2">Une, surtout...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="153">
+	<s id="1">Mariée ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="154">
+	<s id="1">Depuis deux mois .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="155">
+	<s id="1">J'en avais quelques-unes aussi, que j'ai conservées ; une surtout que je vois encore et que je préfère à toutes... </s>
+	<s id="2">Elle n'est pas mariée...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="156">
+	<s id="1">Elle désire l'être ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="157">
+	<s id="1">Non.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="158">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="159">
+	<s id="1">Elle a peur des enfants.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="160">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui, les vilains enfants !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="161">
+	<s id="1">Ils nous tuent .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="162">
+	<s id="1">Vous en avez ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="163">
+	<s id="1">Je n'en ai jamais eu.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="164">
+	<s id="1">Ni moi. </s>
+	<s id="2">- Comme j'ai chaud à présent !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="165">
+	<s id="1">Tant mieux, et j'en suis enchantée !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="166">
+	<s id="1">Et cela grâce à vous !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="167">
+	<s id="1">Nous n'avons plus froids à nos gentils petits petons ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="168">
+	<s id="1">Plus du tout. </s>
+	<s id="2">- Que vous êtes bonne, et comme vous me gâtez !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="169">
+	<s id="1">Non, je vous traite comme une adorable petite créature que vous êtes.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="170">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="171">
+	<s id="">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="172">
+	<s id="1">Vous me chatouillez ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="173">
+	<s id="1">Vous êtes chatouilleuse ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="174">
+	<s id="1">Beaucoup .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="175">
+	<s id="1">Comme toutes les blondes.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="176">
+	<s id="1">J'aurais tant aimée être brune !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="177">
+	<s id="1">Quelle idée !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="178">
+	<s id="1">Je serais homme, je n'aimerais que les brunes .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="179">
+	<s id="1">Les blondes sont plus aimantes, dit-on...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="180">
+	<s id="1">Le croiriez-vous ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="181">
+	<s id="1">Je suis tentée de le croire .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="182">
+	<s id="1">Quelle preuve en avez- vous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="183">
+	<s id="1">Ma petite amie, celle dont je vous ai parlé...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="184">
+	<s id="">Celle qui n'est point mariée ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="185">
+	<s id="1">Oui, ma petite Nini...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="186">
+	<s id="1">Elle est blonde ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="187">
+	<s id="1">Comme vous, de votre nuance, cendrée, que je trouve adorable !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="188">
+	<s id="1">Et elle est aimante ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="188">
+	<s id="1">Si elle est aimante ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="189">
+	<s id="1">Oui ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="190">
+	<s id="1">C'est-à-dire que lorsqu'il m'arrive de quitter Paris, ce qui a lieu bien rarement, elle est désolée, et si je suis deux jours sans lui donner de mes nouvelles, elle est aux_abois, elle pleure, elle se désespère, elle vous ferait pitié...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="191">
+	<s id="1">Pauvre demoiselle !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="192">
+	<s id="1">Elle ne peut rassembler deux idées... </s>
+	<s id="2">Puis quand elle me revoit ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="193">
+	<s id="1">Elle est enchantée ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="194">
+	<s id="1">Il lui prend des crises, des transports, qui feraient craindre pour sa raison, si on ne la connaissait pas. </s>
+	<s id="2">Ce que je vous dit est à la lettre...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="195">
+	<s id="1">Comment se traduisent ses accès ? </s>
+	<s id="2">Elle vous embrasse ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="196">
+	<s id="1">Elle me mange de caresse, elle me dévore !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="197">
+	<s id="1">Et vous, chère Madame, et vous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="198">
+	<s id="1">Chut !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="199">
+	<s id="1">Pourquoi ne pas me le dire, oui, pourquoi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="200">
+	<s id="1">Je vous le dirai.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="201">
+	<s id="1">Pourquoi ne pas me le dire, oui, pourquoi ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="202">
+	<s id="1">Plus tard, si jamais nous devenons bonnes amies.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="203">
+	<s id="1">Nous le deviendrons, n'est-ce pas ? </s>
+	<s id="2">Nous le deviendrons ; le pensez-vous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="204">
+	<s id="1">Je l'espère...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="205">
+	<s id="1">J'en serais bien heureuse !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="206">
+	<s id="1">Pas plus que moi.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="207">
+	<s id="1">Aussi, quand il a été décidé que nous passerions le nuit ensemble...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="208">
+	<s id="1">Quel effet a produit sur vous cette résolution ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="209">
+	<s id="1">Un plaisir ! </s>
+	<s id="2">Mais un plaisir.. que je n'osais y croire !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="210">
+	<s id="1">C'est on ne peut plus aimable ce que vous me dites là !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="211">
+	<s id="1">Je le dis comme je le pense .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="212">
+	<s id="1">Combien je suis ravie de vous voir dans ces bonnes dispositions.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="212">
+	<s id="1">Je ne sais ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="213">
+	<s id="1">Venez que je vous confesse. </s>
+	<s id="2">Dites-moi un peu ce que vous avez ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="214">
+	<s id="1">J'ai peur...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="215">
+	<s id="1">Peur ? </s>
+	<s id="2">Et de quoi ? </s>
+	<s id="3">Voyons, que je vous rassure ; n'auriez- vous pas confiance en moi, que vous avez si peur ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="216">
+	<s id="1">Oh ! </s>
+	<s id="2">Si fait ! </s>
+	<s id="3">Si fait ! </s>
+	<s id="4">Je vous jure.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="217">
+	<s id="1">Pourquoi donc alors être si émue ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="218">
+	<s id="1">J'ai tort ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="219">
+	<s id="1">Certainement, et grand tort. Venez, que je baise vos beaux yeux ; dites, le voulez- vous ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="220">
+	<s id="1">Oh ! </s>
+	<s id="2">Oui, oui, je vous en prie !... </s>
+	<s id="3">Je suis sûre que cela me fera du bien...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="221">
+	<s id="1">Bon petit trésor adoré ! Baisez moi vous aussi...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="222">
+	<s id="1">Avec grand plaisir !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="223">
+	<s id="1">Prouvez-moi que vous m'aimerez un jour...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="224">
+	<s id="1">Je vous aime déjà beaucoup !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="225">
+	<s id="1">Bien vrai ? </s>
+	<s id="2">Comme ma petite Nini ? ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="226">
+	<s id="1">Je doute qu'elle puisse vous aimer davantage...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="227">
+	<s id="1">Je voudrais pouvoir vous montrer comme elle m'embrasse...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="228">
+	<s id="1">Pourquoi ne pas le faire ? </s>
+	<s id="2">Oh ! oui ! oui ! </s>
+	<s id="3">montrez-le moi, je vous en prie, montrez-le moi !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="229">
+	<s id="1">Comme ceci... </s>
+	<s id="2">J'approche mes lèvres des siennes... </s>
+	<s id="3">Eh bien ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="230">
+	<s id="1">Ah ! </s>
+	<s id="2">Chère Madame ! ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="231">
+	<s id="1">Qu'avez-vous éprouvé ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="232">
+	<s id="1">Comme vous m'avez rendue heureuse !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="233">
+	<s id="1">Donne ta bouche, ange adoré ! </s>
+	<s id="2">Ton joli petit bec... </s>
+	<s id="3">Encore ! </s>
+	<s id="4">Encore ! </s>
+	<s id="5">Veux--tu ? ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="234">
+	<s id="1">Oui ! </s>
+	<s id="2">Oui ! </s>
+	<s id="3">Toujours ! </s>
+	<s id="4">Toujours !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="235">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="236">
+	<s id="1">Comment nous trouvons-nous de ces bonnes petites caresses ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="237">
+	<s id="1">C'est à en devenir folle !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="238">
+	<s id="1">Veux-tu le devenir ? </s>
+	<s id="2">Dis, cher ange, le devenir tout à fait ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="239">
+	<s id="1">Oh ! </s>
+	<s id="2">Oui ! </s>
+	<s id="3">Oh ! </s>
+	<s id="4">Oui !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="240">
+	<s id="1">Tiens, ma minette, tiens !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="241">
+	<s id="1">Ah ! </s>
+	<s id="2">Je suis morte !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="242">
+	<s id="1">Que c'est donc bon !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="243">
+	<s id="1">Es-tu ma petite femme ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="244">
+	<s id="1">Oui ! </s>
+	<s id="2">Oui !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="245">
+	<s id="1">Tu es bien à moi ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="246">
+	<s id="1">Oui, oui, bien à vous !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="244">
+	<s id="">Plus de vous entre nous, ma mignonne ; plus de vous, cher coeur, je t'en prie ; dis que tu es à moi, bien à moi !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="245">
+	<s id="1">Bien à toi, toute à toi,tout mon être, tout mon moi !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="246">
+	<s id="1">Que je te baise, que je te baise encore... </s>
+	<s id="2">Dis-moi, dis-moi de te baiser !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="245">
+	<s id="1">Baise-moi ! </s>
+	<s id="2">Baise-moi ! </s>
+	<s id="3">Toujours ! </s>
+	<s id="4">Encore !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="246">
+	<s id="1">Ta petite amie te procure-t-elle autant de bonheur ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="247">
+	<s id="1">Je n'ai jamais pu obtenir d'elle rien de ce que je rêvais.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="248">
+	<s id="1">Elle ne t'a pas devinée ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="249">
+	<s id="1">Jamais je n'ai pu que l'embrasser, et encore...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="250">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="251">
+	<s id="1">Pas comme j'aurais voulu...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="252">
+	<s id="1">Pas comme moi ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="253">
+	<s id="1">Mon bel ange, que je te baise encore, pour te bien montrer comme j'aurais désiré le faire... </s>
+	<s id="2">Tiens, tiens, tiens... </s>
+	<s id="3">Mes lèvres embrassant les tiennes... </s>
+	<s id="4">Mourir sur ta bouche... </s>
+	<s id="5">Voilà ce que je voudrais... </s>
+	<s id="6">Tiens, tiens, comme je le fais ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="254">
+	<s id="1">Comme nous le faisons, mignonne.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="255">
+	<s id="1">Dis- moi, mon ange ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="256">
+	<s id="1">Quoi donc, chère minon-minette ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="257">
+	<s id="1">Dis-moi tout ce que vous faites avec ta petite Nini. </s>
+	<s id="2">Je veux tout savoir !... </s>
+	<s id="3">Ne me cache rien, je t'en prie ! </s>
+	<s id="4">Vous embrassez-vous aussitôt au lit ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="258">
+	<s id="1">Pas tout de suite...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="259">
+	<s id="1">Que faites-vous, dis, que faites-vous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="260">
+	<s id="1">Nous nous mettons toutes nues .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="261">
+	<s id="1">Ce que je n'osais te demander...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="262">
+	<s id="1">Enfant ! </s>
+	<s id="2">Et pourquoi ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="263">
+	<s id="1">Veux-tu que j'ose ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="264">
+	<s id="1">Donne-moi ta main.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="265">
+	<s id="1">Tu es toute nue !... </s>
+	<s id="2">Rallume, je t'en prie, rallume, que je t'admire !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE</speaker><stage type="light">, après avoir rallumé la bougie.
+</stage>
+<p id="266">
+	<s id="1">Voilà.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="267">
+	<s id="1">Comme tu es belle ! </s>
+	<s id="2">Laisse moi bien te voir, t'admirer à mon aise !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="268">
+	<s id="1">Nous ne nous étions point encore vues...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="269">
+	<s id="1">Que depuis que nous sommes l'une à l'autre...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="270">
+	<s id="1">Comment ! </s>
+	<s id="2">Tout cela est à moi ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="271">
+	<s id="1">Tout est à toi ! </s>
+	<s id="2">Tout mon être ! </s>
+	<s id="3">Ma vie ! </s>
+	<s id="4">Toute à toi ! </s>
+	<s id="5">Toute !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="272">
+	<s id="1">Que tu es bonne !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="273">
+	<s id="1">Votre petite langue... dans ma bouche, donnez, donnez !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="274">
+	<s id="1">Tenez, tenez, gourmande...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="275">
+	<s id="1">Je suis aux anges ! </s>
+	<s id="2">Tiens, tiens, dans ma bouche ton petit nénet...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="274">
+	<s id="1">Donne le tien, ma mie, le tien dans la mienne !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="275">
+	<s id="1">Suce ! </s>
+	<s id="2">Suce ! </s>
+	<s id="3">Bonne chatte ! </s>
+	<s id="4">Suce.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="276">
+	<s id="1">Oh ! </s>
+	<s id="2">Mamie, mamie, je le fais ! </s>
+	<s id="3">Je...le... fait... </s>
+	<s id="4">M'as-tu sentie ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="277">
+	<s id="1">Oui ! </s>
+	<s id="2">Oui !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="278">
+	<s id="1">Ta main, mamie, ta main !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="279">
+	<s id="1">Tout humide...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="280">
+	<s id="1">Voyons chez vous, chère Madame... </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Cher coeur ! </s>
+	<s id="4">Tu l'es plus que moi encore...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="281">
+	<s id="1">Et point d'enfants à craindre ! ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="282">
+	<s id="1">Et nos maris ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="283">
+	<s id="1">Traitons-les comme ils le méritent : faisons les cocus !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="284">
+	<s id="1">Où vas-tu chez trésor, où vas-tu ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="285">
+	<s id="1">Laisse-moi, ma reine, laisse-moi tout visiter, comme à ma petite Nini.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="286">
+	<s id="1">Que fais-tu ma mie ? </s>
+	<s id="2">Que me fais-tu ? </s>
+	<s id="3">Que veux-tu ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="287">
+	<s id="1">Te montrer combien je t'aime !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="288">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon ange, tu me combles !... </s>
+	<s id="3">Je ... je me... </s>
+	<s id="4">Ah ! ah !... </s>
+	<s id="5">Tu m'as tuée... </s>
+	<s id="6">Que m'as- tu fait, Louise, que m'as tu fait ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="289">
+	<s id="1">Ce que tu vas me faire... </s>
+	<s id="2">Viens, viens, je t'en prie...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="290">
+	<s id="1">Oui, mais souffle la bougie ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="291">
+	<s id="1">Je ne te verrais plus...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="292">
+	<s id="1">Tu as raison .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="293">
+	<s id="1">Tu ne m'en veux pas, cher trésor, des jolies petites choses que je me suis permises ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="294">
+	<s id="1">Je serais bien ingrate... </s>
+	<s id="2">Et le preuve, c'est que je vais te rendre la pareille...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="295">
+	<s id="1">Mets-toi bien à ton aise, mon Henriette.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="296">
+	<s id="1">Oui, mignonne.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="297">
+	<s id="1">Ta petite tête est-elle bien ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="298">
+	<s id="1">Ne t'occupe pas de moi... </s>
+	<s id="2">Me sens-tu ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="299">
+	<s id="1">Oui, trésor, je sens ta bonne petite langue. </s>
+	<s id="2">Ah! Que c'est bon... </s>
+	<s id="3">Que c'est donc bon ! </s>
+	<s id="4">Va, va, mon ange chérie ; vas, vas... </s>
+	<s id="5">Ne me quitte pas ! </s>
+	<s id="6">Suce, suce! </s>
+	<s id="7">Promène ta petite langue comme je fais... </s>
+	<s id="8">Merci, merci ! </s>
+	<s id="9">Viens me baisser :</s>
+	<s id="10">Viens que je te baise, ta bonne bouche fraîche, toute humide de moi...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="300">
+	<s id="1">Vous êtes satisfaites, chère Madame, de votre petite élève.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="301">
+	<s id="1">Ma petite élève est une petite...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="302">
+	<s id="1">Une petite...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="303">
+	<s id="1">Une petite cochonne.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="304">
+	<s id="1">Nous sommes deux petites cochonnes.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="305">
+	<s id="1">Tu as été heureuse ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="306">
+	<s id="1">Si heureuse, que je n'ose le croire !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="305">
+	<s id="1">Tu n'avais encore rien goûté ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="306">
+	<s id="1">Si peu, comparé à ce que tu m'as fait éprouver...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="307">
+	<s id="1">As-tu jamais rêvé ce que nous avons fait ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="308">
+	<s id="1">Toujours, je l'ai désiré, mais je n'osais espérer rencontrer jamais quelqu'un qui me comprit comme tu m'as comprise, chère bonne !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="307">
+	<s id="1">Toujours... nous le ferons ensemble tou Toujours ....
+jours ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="308">
+	<s id="1">Suçons nous...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="309">
+	<s id="1">Je commence.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="310">
+	<s id="1">Comme tu me suces bien !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="311">
+	<s id="1">Pas mieux que toi... </s>
+	<s id="2">Va, va, mon chat ; plus vite, plus vite !... </s>
+	<s id="3">Tue-moi !... </s>
+	<s id="4">Tue-moi !... </s>
+	<s id="5">Comme si tu étais mon petit homme !... </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Ah ! </s>
+	<s id="8">Maman ! </s>
+	<s id="9">Ma... man, ah ! </s>
+	<s id="10">Ah !... </s>
+	<s id="11">Ah !... </s>
+	<s id="12">Je suis morte... </s>
+	<s id="13">Tu m'as ... tuée !... </s>
+	<s id="14">Tuée... </s>
+	<s id="15">Ah !... </s>
+	<s id="16">Que c'est bon !... </s>
+	<s id="17">Mon_Dieu !... </s>
+	<s id="18">Je suis... mor... te... </s>
+	<s id="19">Ah !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="312">
+	<s id="1">Tu n'aimeras jamais que moi ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="313">
+	<s id="1">Je te le promets .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="314">
+	<s id="1">Dis-moi, bonne chatte, je voudrais une chose...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="315">
+	<s id="1">Que voudrais -tu que je puisse te donner ? </s>
+	<s id="2">Cherche dans tout ce que je possède... </s>
+	<s id="3">Que peux-tu désirer que je ne t'aie donné ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="316">
+	<s id="1">Je voudrais, te dis-je, une chose...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="317">
+	<s id="1">Quelle chose ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="318">
+	<s id="1">Que nous disions...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="319">
+	<s id="1">Que veux-tu que je dise ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="320">
+	<s id="1">Des vilains mots...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="321">
+	<s id="1">Je n'en sais pas.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="322">
+	<s id="1">Si, si t'en prie, t'en prie ! ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="323">
+	<s id="1">On n'en disait pas à la pension.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="324">
+	<s id="1">On en disait à la mienne ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="325">
+	<s id="1">Commence.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="326">
+	<s id="1">Bonne minette, quel genre de caresses voudrais-tu me faire ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="337">
+	<s id="1">Je te les ai toutes faites.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="338">
+	<s id="1">Nomme m'en une..., non, ne me la fais pas... dis-la moi.. Que voudrais-tu me faire ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="339">
+	<s id="1">Je voudrais...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="340">
+	<s id="1">Quoi, mon ange ? </s>
+	<s id="2">Que voudrais-tu me faire, qui nous rendrai toutes deux bien heureuses ?... </s>
+	<s id="3">Et plus heureuses encore, si je l'entendais... </s>
+	<s id="4">Dis, chère minette, dis ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="341">
+	<s id="1">Je n'ose pas .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="342">
+	<s id="1">T'en prie... </s>
+	<s id="2">Dis-le tout haut !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="343">
+	<s id="1">Je voudrais te sucer...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="344">
+	<s id="1">Nous l'avons dit. </s>
+	<s id="2">Une chose, mamie, que nous n'avons point dire : que voudrais-tu me sucer ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="345">
+	<s id="1">Ton petit cucu...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="346">
+	<s id="1">Mon petit cucu...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="347">
+	<s id="1">Oui, ton petit cucu...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="348">
+	<s id="1">Ce n'est pas mon petit cucu que tu touche du doigt... </s>
+	<s id="2">Comment appelles-tu ce que tu touches ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="349">
+	<s id="1">Je ne sais.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="350">
+	<s id="1">Bien vrai ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="351">
+	<s id="1">Je te le jure.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="352">
+	<s id="1">C'est mon petit con, ma minette chérie, mon petit con. </s>
+	<s id="2">- Dis mon con, trésor, mon petit con !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="353">
+	<s id="1">Ton petit con.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="354">
+	<s id="1">Donne ton bec pour te remercier, ton cher petit bec ! </s>
+	<s id="2">- Dis-le encore ce mot, si joli dans ta bouche : mon con... </s>
+	<s id="3">Dis : mon con.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="355">
+	<s id="1">Ton con, mon ange, ton bon petit con !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="356">
+	<s id="1">Voudrais-tu m'enfiler, mon petit homme ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="357">
+	<s id="1">Oui, oui, je t'enfilerais !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="358">
+	<s id="1">Que mettrais-tu dans mon con, en m'enfilant.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="359">
+	<s id="1">Mon machin.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="360">
+	<s id="1">Quel machin ? </s>
+	<s id="2">Ou plutôt quelle machine ? </s>
+	<s id="3">Son nom, je t'en prie, son nom, à la machine. </s>
+	<s id="4">- Si je te le dis, le répéteras-tu ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="361">
+	<s id="1">Tout de suite .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="362">
+	<s id="1">Ma pine.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="363">
+	<s id="1">Ta pine.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="364">
+	<s id="1">C'est une pine mamie ; avec ta pine, ta pine dans mon con, ta grosse pine !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="365">
+	<s id="1">Ta belle pine, ta grosse pine dans mon con...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="366">
+	<s id="1">Tu me ma sucerais, ma pine ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="367">
+	<s id="1">Je te la sucerais, je la mettrais toute entière dans ma bouche, come je mets ma langue dans ton con... </s>
+	<s id="2">Écarte les jambes, que je l'y mette encore...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="368">
+	<s id="1">Tiens, tiens, tiens !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="369">
+	<s id="1">Merci ! </s>
+	<s id="2">Merci ! </s>
+	<s id="3">Comme je le suce, ton joli con !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="370">
+	<s id="1">Pourquoi ne sucerai-je point le tien ? </s>
+	<s id="2">Attends que je m'y mette... </s>
+	<s id="3">J'y suis !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="371">
+	<s id="1">Je n'ai jamais tant désiré une pine !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="372">
+	<s id="1">Écarte bien mes lèvres avec les doigts pour bien faire entrer ta langue, comme je te le fais... </s>
+	<s id="2">Va vite, va vite !... </s>
+	<s id="3">Bien !... Bien cochonne, je décharge... </s>
+	<s id="4">Le faire, mamie, c'est décharger...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="373">
+	<s id="1">Je décharge, je décharge...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="374">
+	<s id="1">Nous déchargeons ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="375">
+	<s id="1">Dans nos bouches, mamie, dans nos bouches !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="376">
+	<s id="1">Recommençons, sans nous quitter.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="377">
+	<s id="1">Oh oui ! </s>
+	<s id="2">Oh oui ! </s>
+	<s id="3">Tiens, tiens !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="378">
+	<s id="1">Jouis-tu comme moi ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="379">
+	<s id="1">Mieux qu'avec un pine...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="380">
+	<s id="1">Dans un con... </s>
+	<s id="2">Va, mamie, va... plus vite !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="381">
+	<s id="1">Dans nos deux cons... </s>
+	<s id="2">Tu jouis ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="382">
+	<s id="1">Dis toujours ta pine... ta... pi... ne...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="383">
+	<s id="1">Ta pine, ma pine... ma grosse pine...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="384">
+	<s id="1">Je décharge... </s>
+	<s id="2">Suce encore !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="385">
+	<s id="1">Suce aussi... Bien, bien ... con... pine... con... pine ... mon con ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="386">
+	<s id="1">Ma pine... mon vit... Dis mon vit...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="387">
+	<s id="1">Mon vit, ma pine et mon con ... </s>
+	<s id="2">Mon con et ta pine... </s>
+	<s id="3">Tu savais mon vit ... </s>
+	<s id="4">Où l'as tu su ? ...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="388">
+	<s id="1">J'ai entendu ma femme de chambre disant à son mari : "Ton vit" ; puis "Pinons"...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="389">
+	<s id="1">Pinons aussi, et déchargeons !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="390">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="391">
+	<s id="1">Oui, déchargeons... quand on le fait et que la liqueur s'épanche, on décharge.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="392">
+	<s id="1">Je décharge !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="393">
+	<s id="1">Tiens, tiens, tiens,les belles fesses que je baise ! </s>
+	<s id="2">Tes tétons qui raidissent... qui raidissent comme des pines !... </s>
+	<s id="3">J'en décharge... </s>
+	<s id="4">J'en... dé... dé... charge... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Je suis morte... mor... te...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="394">
+	<s id="1">Marions les, nos deux langues qui nous ont rendu si heureuses.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="395">
+	<s id="1">Mamie, nous pinons sans piner.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="395">
+	<s id="1">Je suis rompue.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="396">
+	<s id="1">Je le ferais encore !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="396">
+	<s id="1">Soyons raisonnables.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="397">
+	<s id="1">Un vit, un gros vit... </s>
+	<s id="2">Une grosse pine... </s>
+	<s id="3">Ta grosse pine !... </s>
+	<s id="4">Comme je te voudrais une grosse pine à moi à moi toute seule ! </s>
+	<s id="5">Que n'en as tu une !</s>
+	<s id="6">Ta pine, je la sucerais !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="398">
+	<s id="1">Roulons-nous dans nos bras... </s>
+	<s id="3">Serre-moi, serre-moi bien !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="399">
+	<s id="1">Tu m'enroule, petit serpent :</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="400">
+	<s id="1">Si l'on venait, mamie, si l'on venait...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="401">
+	<s id="1">Nous ne serions pas surprises, ne crains pas.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="402">
+	<s id="1">Tu crois ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="403">
+	<s id="1">J'ai pris mes précautions.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="404">
+	<s id="1">Tu pensais donc...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="405">
+	<s id="1">Oui, que je te ferais toutes les caresses que je t'ai faites ; et pourtant, je n'osais le croire...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="406">
+	<s id="1">Si je m'étais refusée ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="407">
+	<s id="1">Je me jetais pas la fenêtre, si je n'avais pas eu assez de force pour arriver à mes fins !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="408">
+	<s id="1">Je comptais sur ton sommeil pour te mettre la main à ton con, mais si doucement que tu aurais cru le faire seule...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="409">
+	<s id="1">J'avais la même idée.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="410">
+	<s id="1">Ces belles et bonnes fesses que je n'ai point assez baisées ! ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="411">
+	<s id="1">Ni moi les tiennes !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="412">
+	<s id="1">Dormons .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="413">
+	<s id="1">Oui... </s>
+	<s id="2">Mais nos doigts dans nos cons ...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="414">
+	<s id="1">Dans nos cons, comme des pines !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="415">
+	<s id="1">Les pines nous manquent.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="416">
+	<s id="1">Mais les hommes point.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="417">
+	<s id="1">Quels égoïstes !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="418">
+	<s id="1">Quand ils l'ont fait, ils nous quittent.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="419">
+	<s id="1">Ils débandent.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="420">
+	<s id="1">Tu dis ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="421">
+	<s id="1">Ils débandent : leurs pines sont molles et elles se retirent ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="422">
+	<s id="1">J'aurais tant aimé dormir ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="423">
+	<s id="1">Une pine dans ton con ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="424">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="425">
+	<s id="1">Dis-le !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="426">
+	<s id="1">Une grosse pine dans mon con.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="427">
+	<s id="1">Les aimes- tu ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="428">
+	<s id="1">Les grosses pines ? </s>
+	<s id="2">Je les aimerais, oui !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="429">
+	<s id="1">Ton mari ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="430">
+	<s id="1">Petite pine...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="431">
+	<s id="1">La pine du mien me blesse : elle est énorme.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="432">
+	<s id="1">Je n'ose la lui prendre, au mien...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="433">
+	<s id="1">Comme moi... </s>
+	<s id="2">Tu as plus de poils, et ils sont plus longs que les miens.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="434">
+	<s id="1">Laisse, laisse, mamie, tu me le ferais faire encore...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="435">
+	<s id="1">Tu déchargerais ?...</s>
+</p>
++</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="436">
+	<s id="1">Je déchargerais toujours ; c'est si bon !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="437">
+	<s id="1">Tu m'aimes ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="438">
+	<s id="1">Comme je n'ai jamais aimé ! </s>
+	<s id="2">Je t'aime pour te faire plaisir ; j'aime à te voir jouir... </s>
+	<s id="3">Tu es si belle quand tu jouis !...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="439">
+	<s id="1">Tes yeux sont à demi fermés... Viens que je les baise encore, mes beaux yeux !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="440">
+	<s id="1">Ils sont bien a toi.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="441">
+	<s id="1">Comme ton con ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="442">
+	<s id="1">Nos deux cons ! ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="443">
+	<s id="1">Dis-moi, mamie ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="444">
+	<s id="1">Que veux-tu ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="445">
+	<s id="1">Jouis-tu avec une vraie pine ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="446">
+	<s id="1">Je n'ai jamais bien joui... </s>
+	<s id="2">Quand j'allais bien jouir...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="447">
+	<s id="1">Elle se retirait ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="448">
+	<s id="1">Avant que je le fisse...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="449">
+	<s id="1">Que faisais-tu alors ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="450">
+	<s id="1">Je me touchais....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="451">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="452">
+	<s id="1">Donne ta main, que je la dirige ....</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="453">
+	<s id="1">Tu te branlais ?...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="454">
+	<s id="1">Oui ; je me branlais, pour en finir.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="455">
+	<s id="1">T'ai-je bien branlée ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="456">
+	<s id="1">Oh ! </s>
+	<s id="2">Oui ! </s>
+	<s id="3">Bien branlée !... </s>
+	<s id="4">Comment, mamie, ça s'appelle, quand on branle avec sa langue ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="457">
+	<s id="1">Faire minon-minette !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="458">
+	<s id="1">J'ai fait minon-minette.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="459">
+	<s id="1">Tu me le feras encore ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="460">
+	<s id="1">Toujours... </s>
+	<s id="2">Et toi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="461">
+	<s id="1">Aussi .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="462">
+	<s id="1">C'est si bon !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="463">
+	<s id="1">N'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="464">
+	<s id="1">Ton mari ne te l'a jamais fait ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="455">
+	<s id="1">Jamais.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="456">
+	<s id="1">Ni le mien. </s>
+	<s id="2">Et ta Nini ? </s>
+	<s id="3">Tu lui as fait minon-minette ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="457">
+	<s id="1">Oui .</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="458">
+	<s id="1">Ça la rend malade ; sans cela ....</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="459">
+	<s id="1">Pauvre minette !... Elle te le fait ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="460">
+	<s id="1">Elle adore me le faire. </s>
+	<s id="2">Plus je jouis, plus elle est heureuse .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="461">
+	<s id="1">A-t-elle une joli con ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="462">
+	<s id="1">Ce n'est pas le tien .</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="463">
+	<s id="1">Je n'aimerais pas une amie qui n'aimerait pas à le faire.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="464">
+	<s id="1">Elle l'aimerait ; mais si je le lui fait deux fois, elle est huit jours au lit</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="465">
+	<s id="1">Tu la branles ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="466">
+	<s id="1">Je suce ses tétons en la branlant.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="467">
+	<s id="1">Elle décharge ?...</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="468">
+	<s id="1">Comme nous n'avons jamais déchargé. </s>
+	<s id="2">Et la tienne, ta petite amie, que lui fais-tu ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="469">
+	<s id="1">Croirais-tu que je n'ai jamais pu la sucer ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="470">
+	<s id="1">Lui sucer le con ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="471">
+	<s id="1">Jamais je n'ai sucé son con.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="472">
+	<s id="1">Tu l'as branlée, ne me le cache pas ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="473">
+	<s id="1">Nous nous branlons.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="474">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="474">
+	<s id="1">C'est la croix et la bannière pour arriver là ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="475">
+	<s id="1">L'aimes-tu toujours ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="476">
+	<s id="1">Oses-tu me le demander ! </s>
+	<s id="2">À présent je la déteste.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="477">
+	<s id="1">Si j'avais une pine...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="478">
+	<s id="1">Je dormirais ta pine dans mon con ; et toi ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="479">
+	<s id="1">Mon vit dans tes cuisses ou dans ton con.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="479">
+	<s id="1">Dormons nos doigts dans nos cons.</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="480">
+	<s id="1">Nous les y avons !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="480">
+	<s id="1">À demain, trésor !</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="481">
+	<s id="1">À demain.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="482">
+	<s id="1">Demain, en nous réveillant, que ferons-nous ?</s>
+</p>
+</sp>
+<sp who="LOUISE"><speaker>LOUISE.</speaker>
+<p id="493">
+	<s id="1">Nous recommencerons.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

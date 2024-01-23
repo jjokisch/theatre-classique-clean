@@ -1,0 +1,3999 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MADAME GRÉGOIRE OU LE CABARET DE LA POMME DU PIN, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0003 5808 0245">Edmond ROCHEFORT (1790-1871)</author>
+				<author type="texte" ISNI="0000 0001 1029 4717"> Charles DUPEUTY (1798-1865)</author>
+				<author type="texte" ISNI="">Charles de LIVRY (1802-1867)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<publisher>Texte établi par Paul FIEVRE, septembre 2013.</publisher>
+				<publisher>Publié par Paul FIEVRE, octobre 2013.</publisher>
+				<idno>ROCHEFORT_DUPEUTY_LIVRY_HEUREUSEMENT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Vaudeville</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Deux actes</structure>
+				<type>mixte</type>
+				<periode>1821-1830</periode>
+				<taille>250-500</taille>
+				<permalien cote="BnF LLA YF-1121 (37)">https://gallica.bnf.fr/ark:/12148/bpt6k30486111</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">MADAME GRÉGOIRE OU LE CABARET DE LA POMME DU PIN</titlePart>
+			<titlePart type="sub">CHANSON EN DEUX ACTES</titlePart>
+			<titlePart type="sub">Représentée pour le première fois sur le théâtre national de Vaudeville le 21 mai 1830.</titlePart>
+		</docTitle> 
+		<docDate value="1838">1838</docDate>
+		<docAuthor id="ROCHEFORT, DUPEUTY, LIVRY" bio="rochon">par MM. ROCHEFORT, DUPEUTY, CHARLES (sic).</docAuthor>
+		<docImprint>
+			<privilege id=""/>
+			<acheveImprime id=""/>
+			<printer id="JULES DIDOT">PARIS. - IMPRIMERIE NORMALE DE JULES DIDOT L'AINÉ, n°4, boulevard d'Enfer.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1830-05-21" location="Théâtre national de Vaudeville">Représenté pour la première fois le 21 mai 1830 au Théâtre national de Vaudeville.</premiere>
+		</performance>
+		<castList><head>DISTRIBUTION DE LA PIÈCE</head>
+			<castItem><role id="D'AUBERVAL" sex="1" type="H" statut="danseur" age="A" stat_amour="néant">D'AUBERVAL</role>, danseur de l'Opéra. M. FONTENAY.</castItem>
+			<castItem><role id="BELROSE" sex="1" type="H" statut="sergent" age="A" stat_amour="néant">BELROSE</role>, sergent du guet. M. LAFONT.</castItem>
+			<castItem><role id="D'ESPARVILLE" sex="1" type="H" statut="financier" age="A" stat_amour="néant">D'ESPARVILLE</role>, financier. M. LEPEINTRE jeune.</castItem>
+			<castItem><role id="LUQUET" sex="1" type="H" statut="verrier" age="A" stat_amour="néant">LUQUET</role>, marchand verrier. M. ARNAL.</castItem>
+			<castItem><role id="BENOIT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">BENOIT</role>, falot de l'Opéra. M. ARMAND.</castItem>
+			<castItem><role id="MADAME GRÉGOIRE" sex="2" type="H" statut="cabaretière" age="A" stat_amour="néant">MADAME GRÉGOIRE</role>, cabaretière. Mme DOCHE.</castItem>
+			<castItem><role id="FANCHETTE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">FANCHETTE</role>, auvergnate, et et femme supposée de Benoît. Mlle WILMEN.</castItem>
+			<castItem><role id="MANON GIROUX" sex="2" type="H" statut="blanchisseuse" age="A" stat_amour="néant">MANON GIROUX</role>, blanchisseuse. Mme LACAZE.</castItem>
+			<castItem><role id="GIROUX" sex="1" type="H" statut="batelier" age="A" stat_amour="néant">GIROUX</role>, son mari, batelier. M. CASSEL.</castItem>
+			<castItem><role id="MARIOTTE" sex="2" type="H" statut="servante" age="A" stat_amour="néant">MARIOTTE</role>, servante. Mlle GEORGINA.</castItem>
+			<castItem><role id="UN CAPORAL DU GUET" sex="1" type="H" statut="caporal" age="A" stat_amour="néant">UN CAPORAL DU GUET</role>. M. ÉMILIEN.</castItem>
+			<castItem><role id="HOMMES DU PEUPLE" sex="1" type="H" statut="peuple" age="A" stat_amour="néant">HOMMES DU PEUPLE</role>.</castItem>
+			<castItem><role id="FEMMES DU PEUPLE" sex="2" type="H" statut="peuple" age="A" stat_amour="néant">FEMMES DU PEUPLE</role>.</castItem>
+			<castItem><role id="SOLDATS" sex="1" type="H" statut="soldat" age="A" stat_amour="néant">SOLDATS</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris, en 1760.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<stage type="decor">Le théâtre représente la jardin d'une guinguette ; des tables dans le fond, à droite et à gauche. Près de la coulisse de droite, une petite séparation à claire-voie, qui ferme à clef. Une maison à gauche.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Giroux, plusieurs hommes du peuples boivent à des tables à droite ; Les dragons de la Reine et des Gardes-Françaises boivent de l'autre côté ; les soldats jouent aux cartes.
+</stage>
+<sp who="CHOEUR GÉNÉRAL"><speaker>CHOEUR GÉNÉRAL</speaker><stage>, à deux parties.
+</stage>
+<stage type="title">AIR du Temps.</stage>
+	<l id="1">Mes amis, pour bien servir l'amour,</l>
+	<l id="2">Il faut boire ;</l>
+<stage type="ter">Ter.</stage>
+	<l id="3">Mes amis, pour bien servir l'amour,</l>
+	<l id="4">Il faut boire le nuit et le jour.</l>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+	<l id="5">Gnia par d'autre gloire</l>
+	<l id="6">Que de bien boire.</l>
+<stage type="hit">Il frappe sur la table.</stage>
+<stage type="explicit">REPRISE.</stage>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="7">Mes amis, pour bien servir l'amour,</l>
+<stage type="continue">etc.</stage>
+</sp>
+<sp who="UN SOLDAT"><speaker>UN SOLDAT.</speaker>
+	<l id="8">Moi qui suit sans chagrin,</l>
+	<l id="9">J'aime la fillette et le vin.</l>
+<stage type="hit">Frappant.</stage>
+	<l id="10">Une chopine !</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="11">Mes amis, pour bien servir l'amour,</l>
+<stage type="continue">etc.</stage>
+</sp>
+<sp who="MARIOTTE"><speaker>MARIOTTE.</speaker>
+<p id="1">
+	<s id="1">Queu bruit de carillon que vous faites !... </s>
+	<s id="2">Ici on n'a pas le temps de courir, on est toujours en l'air comme un volant.</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="2">
+	<s id="1">À boire !</s>
+</p>
+</sp>
+<sp who="MARIOTTE"><speaker>MARIOTTE.</speaker>
+<p id="3">
+	<s id="1">Oui, à crédit ? </s>
+	<s id="2">Si Madame_Grégoire n'avait que des pratiques comme vous, elle ne risquerait rien que de fermer son cabaret_de_la_Pomme-de-Pin.</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="4">
+	<s id="1">Dis-donc, poulette, tu chantes ben haut aujourd'hui... </s>
+	<s id="2">Mais il nous faut du liquide !</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="5">
+	<s id="1">Holà ! </s>
+	<s id="2">La bourgeoise !</s>
+</p>
+<stage type="noise">Ils font du bruit.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les mêmes ; Belrose, entrant par le fond. 
+</stage> 
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="1">
+	<s id="1">Quel est de ce bruit et de ce tapage ? </s>
+	<s id="2">Qui demande la bourgeoise ?</s>
+</p>
+</sp>
+<sp who="MARIOTTE"><speaker>MARIOTTE.</speaker>
+<p id="2">
+	<s id="1">Pardine, c'est des ivrognes qui font leur train ordinaire.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="3">
+	<s id="1">Mauvaise société, ça finira mal.</s>
+</p>
+<stage type="title">AIR. J'arrive de la guerre.</stage>
+	<l id="12">J' suis l' sergent intrépide</l>
+	<l id="13">Du guet ; </l>
+	<l id="14">Ce corps n'est point timide,</l>
+	<l id="15">On l' sait.</l>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+	<l id="16">Oui, quand un voleur vient par-là,</l>
+	<l id="17">De l'autr' côté le guet s'en va, </l>
+	<l id="18">Et voilà...</l>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="4">
+	<s id="1">Par amour pour la discipline, le sergent Belrose vous invite à vous liquider et à vous en aller !</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="5">
+	<s id="1">Et si ça ne nous plaît pas ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="6">
+	<s id="1">Alors j'appellerai mon escouade, et on vous fera entrer dehors sans façon.</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="7">
+	<s id="1">Nous voulons voir la bourgeoise !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="8">
+	<s id="1">La bourgeoise a de beaux yeux ; mais ça ne vous regarde pas. </s>
+	<s id="2">J'ajouterai que si vous aviez le malheur de lui plaire, ça vous rapporterait plus de coups de sabre que de plaisir véritable... chers amis, que vous êtes !</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<note type="L">Siam : Nom d'un jeu de quille qui se joue avec une roulette dont une face est plus petite que l'autre, de sorte qu'elle ne roule pas en ligne droite, mais décrit une courbe sur le sol. [L]</note>
+<p id="9">
+	<s id="1">Ah ! </s>
+	<s id="2">Le sergent attend que je m'en aille ! </s>
+	<s id="3">Eh ! </s>
+	<s id="4">Les autres ! </s>
+	<s id="5">Venez jouer au siam dans le fond du jardin, nous boirons jusqu'à ce soir si ça veut ; et en avant !</s>
+</p>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+<stage type="title">AIR :  du vaudeville des Cris de Paris.</stage>
+	<l id="19">Allons, mes enfants,</l>
+	<l id="20">En dépit des sergents ,</l>
+	<l id="21">Que l' vin coule,</l>
+	<l id="22">Et que la boule</l>
+	<l id="23">Roule</l>
+	<l id="24">Là-bas ;</l>
+	<l id="25">Par en bas</l>
+	<l id="26">La boule roulera,</l>
+	<l id="27">Et par en haut tout le vin coulera.</l>
+<stage type="exit/location">Les gens du peuple s'en vont à droite avec Mariotte ; les militaires sortent par le fond.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Belrose, et peu après Madame Grégoire.
+</stage> Grégoire.
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="1">
+	<s id="1">C'est étonnant comme les gens sans éducation manquent de tenue; il vient ici des tas de peuple qui font frémir à entendre...</s>
+</p>
+<stage type="watch">Regardant.</stage>
+<p id="2">
+	<s id="1">Mais voilà un objet qui ne fait pas frémir à voir... </s>
+	<s id="2">C'est Madame_Grégoire !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="exit">, sortant de chez elle, et saluant Belrose de la main.
+</stage>
+<stage type="title">AIR : C'est le gros Thomas.</stage>
+	<l id="28">Si j'ai du bonheur,</l>
+	<l id="29">Mes bénéfices sont modiques;</l>
+	<l id="30">Par ma bonne humeur</l>
+	<l id="31">Je charme toutes mes pratiques.</l>
+	<l id="32">Mon vin est bien pur,</l>
+	<l id="33">Mon coeur est bien pur ;</l>
+	<l id="34">Ici jamais rien de postiche.</l>
+	<l id="35">J' prête au pauvre et j'emprunte au riche, </l>
+	<l id="36">Et chacun voudrait</l>
+	<l id="37">Boire à mon cabaret.</l>
+	<l id="38">J' fais un peu de bien,</l>
+	<l id="39">Même au médisant qui me fronde ;</l>
+	<l id="40">Si j'avais l' moyen,</l>
+	<l id="41">J' voudrais en faire à tout le monde.</l>
+	<l id="42">Ici l'indigent</l>
+	<l id="43">Viendrait sans argent,</l>
+	<l id="44">Et, trouvant du vin sans mélange, </l>
+	<l id="45">Même quand manqu'rait la vendange, </l>
+	<l id="46">Gratis il pourrait</l>
+	<l id="47">Boire à mon cabaret.</l>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="3">
+	<s id="1">Avec ça que vous êtes toujours gaie, toujours superbe femme !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="4">
+	<s id="1">Monsieur Belrose, vous me tourmentez chaque jour de vos compliments... </s>
+	<s id="2">Je les écoute, parce que je ne risque rien; mais on m'a assuré que vous profitiez de ça pour vous vanter de me plaire ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="5">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Où serait l'offense?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="6">
+	<s id="1">Ainsi vous allez dire à tous vos camarades que je vous aime à la folie ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="7">
+	<s id="1">La plus belle des créatures, il y a la moitié de vrai dans ce que vous dites là. </s>
+	<s id="2">J'ai insinué que vous m'aimiez ; mais je n'ai pas été jusqu'à la folie !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="8">
+	<s id="1">Mais, Monsieur, de pareils propos peuvent me faire beaucoup de tort.</s>
+</p> 
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="9">
+	<s id="1">Du tort ? </s>
+	<s id="2">Oh ! oh ! </s>
+	<s id="3">Ceci est une injure personnelle pour mon physique ! </s>
+	<s id="4">Ça m'étonne extrêmement ; car je suis le plus beau des dix-sept enfants que ma mère se plut à mettre au monde ! </s>
+	<s id="5">En outre je suis sergent du guet, j'ai huit_sous par jour, et un héritage de dix-neuf_cent_livres, quant la mort aura frappé ma tante. </s>
+	<s id="6">J'ai pensé qu'avec tant d'opulence je pouvais aspirer à l'amour, et inopinément j'ai conclu avec moi-même qu'un de ces quatre matins je vous offrirais mon coeur avec ma main...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="10">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous avez arrangé ça tout seul ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">À la sourdine : loc. adv. Sans le bruit qui accompagne ordinairement la marche d'une troupe militaire. [L]</note>
+<p id="11">
+	<s id="1">À la sourdine.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="12">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Monsieur_Belrose, je vais vous répondre franchement. </s>
+	<s id="3">Vous êtes sans doute aimable, galant, brave et très capable de faire le bonheur d'une femme ; mais j'ai bien résolu de ne pas me donner un maître, et de rester votre très humble servante.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="13">
+	<s id="1">Bah ! </s>
+	<s id="2">Pourtant jusqu'à ce jour j'ai été fort heureux dans mes inclinations ; partout où j'ai porté ma gloire avec le vainqueur de Mahon, j'ai trouvé de très belles Vénus qui se sont éprises de moi : j'en ai plus de cent dont je vous en montrerai les cheveux, si ça vous fait plaisir ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="14">
+	<s id="1">Merci ! </s>
+	<s id="2">Je ne suis pas curieuse.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="15">
+	<s id="1">Histoire seulement de vous certifier mes conquêtes : c'était la tactique du vainqueur de Mahon !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">Le vainqueur de Mahon et vous, ça fait deux !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Échalas : Bâton de longueur variable auquel on attache un cep de vigne. [L]</note>
+<p id="17">
+	<s id="1">Oui, ça fait deux vainqueurs ! </s>
+	<s id="2">Au surplus, vous avez beau dire, une veuve a besoin d'un protecteur comme le sceptre de vigne a besoin d'échalas.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="18">
+	<s id="1">Je me protège toute seule ; d'ailleurs, êtes-vous bien sûr que je sois veuve ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="19">
+	<s id="1">C'est la rumeur populaire.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="20">
+	<s id="1">Et si je ne l'étais pas ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="21">
+	<s id="1">Vous me l'auriez dit.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="22">
+	<s id="1">Du tout, car c'est mon secret ; et c'est en le gardant que je me fais respecter.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Freluquet :  Terme familier. Homme léger, frivole et sans mérite. [L]</note>
+<p id="23">
+	<s id="1">Tout ça n'est pas clair et limpide. </s>
+	<s id="2">Tenez, Madame_Grégoire, ça finira mal ; vous recevez chez vous une ribambelle de freluquets...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="24">
+	<s id="1">Comment, des freluquets ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Maltôtier : Péj. Agent chargé du recouvrement de la maltôte, plus généralement de l'impôt. [L]</note>
+<note type="L">Muguet : Fig. Nom donné aux jeunes gens faisant profession d'élégance et de galanterie, parce qu'ils se parfumaient avec des essences de muguet. [L]</note>
+<p id="25">
+	<s id="1">Oui, oui, le nommé d'Auberval, beau danseur de l'Opéra ; le gros d_Esparville, cet avide maltôtier de la rue_Quincampoix ; et même ce petit muguet de Luquet, le marchand_de_bouteilles de la rue_de_la_Verrerie...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="26">
+	<s id="1">Il est vrai, ce sont des pratiques qui dépensaient beaucoup d'argent chez moi autrefois, mais qui n'y viennent plus du tout.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les Mêmes ; Luquet, entrant avec aplomb, et s'arrêtant au milieu du théâtre.
+</stage>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="1">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Voyez-vous comme il ne revient pas.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="2">
+	<s id="1">Observons-le minutieusement.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="carry">, une grosse rose à la main.
+</stage>
+<stage type="title">AIR. C'est une ruse (fragment de l'ouverture du Jeune Henri ).</stage> 
+	<l id="48">Reine des Grâces,</l>
+	<l id="49">Je viens à mon tour</l>
+	<l id="50">Dans ta cour !</l>
+	<l id="51">Et sur mes traces</l>
+	<l id="52">J'amène aussi l'Amour !</l>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="get">, prenant la rose de Luquet.
+</stage>
+<p id="3">
+	<s id="1">Voyez-vous !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="4">
+	<s id="1">Mais c'est inconvenant, ça... </s>
+	<s id="2">Bien le bonjour, Madame_Grégoire ; je viens d'après l'ordre de maman, vous savez , maman ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">N'est-ce pas pour un envoi de bouteilles ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="watch">, après avoir jeté un regard sur Belrose.
+</stage>
+<p id="6">
+	<s id="1">Oui, elles sont là...</s>
+</p> 
+<stage type="aparte">À part. </stage>
+<p id="7">
+	<s id="1">Dieu ! </s>
+	<s id="2">Qu'elle est belle femme !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage>, à part.
+</stage>
+<p id="8">
+	<s id="1">V'là un coup d'oeil louche. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="9">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est de la part de votre respectable mère ?...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="10">
+	<s id="1">Certainement, je suis son premier commis, à maman.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="11">
+	<s id="1">Est-il d'une bêtise invétérée avec sa maman.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<stage type="title">AIR. J'avais mis mon petit chapeau.</stage>
+	<l id="53">Nous avons des correspondants;</l>
+	<l id="54">C'est moi qui tiens les écritures</l>
+	<l id="55">, Et chez tous nos petits marchands</l>
+	<l id="56">C'est moi qui porte les factures.</l>
+	<l id="57">Et qui reçois le prix des fournitures.</l>
+	<l id="58">Travaillant les jours et les nuits,</l>
+	<l id="59">Je me consume dans les veilles ;</l>
+	<l id="60">Car nous fournissons des bouteilles</l>
+<stage type="bis">Bis.</stage>
+	<l id="61">À tous les bouchons de Paris.</l>
+<p id="12">
+	<s id="1">Madame Grégoire, j'ai fait déposer la marchandise dans la
+	petite cour.</s>
+</p> 
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="13">
+	<s id="1">Bien, bien, je vais la faire ranger.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="14">
+	<s id="1">Avez-vous besoin de moi ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, rentrant.
+</stage>
+<p id="15">
+	<s id="1">Non, non, vous êtes trop maladroit.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, la suivant.
+</stage>
+<p id="16">
+	<s id="1">J'irai avec vous à la cave.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Luquet, Belrose.
+</stage>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="get">, lui prenant la main.
+</stage>
+<p id="1">
+	<s id="1">Du tout, petit... </s>
+	<s id="2">On ne va pas avec la bourgeoise dans les recoins obscurs.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="2">
+	<s id="1">Qu'est-ce qu'il a donc, ce sergent ?</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="3">
+	<s id="1">Dieu ! </s>
+	<s id="2">Quelle est belle, de loin comme de près !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="get">, le tirant par le bras.
+</stage>
+<p id="4">
+	<s id="1">Marchand de verres casses, retournez chez votre maman.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="5">
+	<s id="1">Laissez-moi donc tranquille, je ne veux pas rire avec vous.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="6">
+	<s id="1">Ni moi non plus ; le guet ne rit jamais !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="7">
+	<s id="1">Ah çà ! </s>
+	<s id="2">Dites donc ! </s>
+	<s id="3">Parce que vous êtes militaire, faut pas croire que vous me faites peur ; sans maman, je serais soldat aussi, moi... je voulais m'engager.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="8">
+	<s id="1">Ceci est différent, jeune homme, je ne vous en estime que d'autant plus.</s>
+</p> 
+<stage type="aparte">À part. </stage>
+<p id="9">
+	<s id="1">Un plan ! </s>
+	<s id="2">Si je pouvais l'émincer de ce séjour... </s>
+	<s id="3">Rusons !</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="10">
+	<s id="1">Fils de famille, je n'ignore pas les efforts que font les parents pour vous couper le chemin de la fortune ; mais soyez plus sages que les papas et les mamans ! </s>
+	<s id="2">Par exemple, est-ce que vous n'auriez jamais eu envie d'aller aux Colonies, vous ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="11">
+	<s id="1">Aux Colonies ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Galamatias : Marie-Galante, Martinique, Amérique Méridionale.</note>
+<p id="12">
+	<s id="1">Oui... comme qui dirait Marie_Galande, Martinicle, Guadeloupe, ou tout autre continent de l'Amérique Mérimionalde.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="13">
+	<s id="1">Ma foi non. </s>
+	<s id="2">C'est donc bien beau, ces endroits-là ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="14">
+	<s id="1">C'est le pays des dieux et de la castonnade !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="15">
+	<s id="1">Bah !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="16">
+	<s id="1">Je me suis dit en vous envisageant : « V'là z'un gaillard que je veux faire aller loin ; » et comme on organise dans ce moment ici des bataillons colonials, si vous voulez, je vous recommanderai à un recruteur du quai_de_la_Ferraille, qui se fera un vrai plaisir de vous mettre dedans.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="17">
+	<s id="1">Dedans ? </s>
+	<s id="2">Comment l'entendez-vous ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="18">
+	<s id="1">La question n'est point là ... </s>
+	<s id="2">Aimez-vous les écus de trois livres ?</s>
+</p> 
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="19">
+	<s id="1">Tiens ! </s>
+	<s id="2">Cette bêtise !... </s>
+	<s id="3">Je les aime d'autant plus que j'en ai moins.</s>
+</p> 
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="20">
+	<s id="1">Alors... </s>
+	<s id="2">Allez aux Colonies ; il y en a comme des champignons dans la plaine des Vertus.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="21">
+	<s id="1">Le pays produit des petits écus ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="22">
+	<s id="1">Naturellement et sans culture. </s>
+	<s id="2">Autre question : aimez-vous ce sexe enchanteur qui parsème de fleurs le chemin de la vie ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="23">
+	<s id="1">Qui ça ? </s>
+	<s id="2">Les femmes ? </s>
+	<s id="3">Je les idolâtre !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="24">
+	<s id="1">Allez aux Colonies !... </s>
+	<s id="2">Là bas, elles sont folles des Européens ; les beaux et les pas beaux ; ainsi vous êtes sur de votre affaire.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="25">
+	<s id="1">Diable ! </s>
+	<s id="2">Si je savais ça...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="26">
+	<s id="1">Je le sais, moi, jeune homme. </s>
+	<s id="2">Tenez, un supposé : vous v'ià embarqué avec Son Excellence... </s>
+	<s id="3">Monseigneur_le_bailli_de_Suffren ; vous voguez sur les ondes amères, vous êtes couché dans des z'hamacs, et pendant la traversée, on ne vous nourrit que de biscuits...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="27">
+	<s id="1">Dieux ! </s>
+	<s id="2">Moi qui adore la pâtisserie !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="28">
+	<s id="1">Silence ! </s>
+	<s id="2">Écoutez et n'interrompez plus mon dialogue : Vous arrivez dans ce pays fabuleux ; alors, vous avez un nègre, un superbe esclave qui vous débarrasse de votre fusil en entrant, et monte la garde pour vous pendant que vous prenez du café dans du coco...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="29">
+	<s id="1">Coco ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="30">
+	<s id="1">Vous ne savez pas ce que c'est que du coco 7</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="31">
+	<s id="1">Si, parbleu ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Ils ont découvert la réglisse.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="32">
+	<s id="1">Porcelaine à l'usage de ces contrées... </s>
+	<s id="2">Il y a aussi des superbes ombrages, une végétation qui fait honte à nos forêts ; des perroquets qui raisonnent mieux que vous et moi.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="33">
+	<s id="1">Et nous souffrons ça... mais c'est humiliant !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Boisseau : Ancienne mesure de capacité pour les matières sèches, valant 13 litres, 01, ou 13 litres plus un centième réduits à 12 litres 50, c'est-à-dire au demi-quart de l'hectolitre, lorsqu'on voulut ramener les anciennes mesures aux mesures métriques. Vendre, mesurer au boisseau. [L]</note>
+<p id="34">
+	<s id="1">Et des champs de canne à sucre qui vous fournissent de l'eau sucrée quand il pleut. </s>
+	<s id="2">Pour ce qui touche les diamants, saphirs et autres rubis, on en trouve à remuer à la pelle, et ça se vend au boisseau, comme des haricots. </s>
+	<s id="3">Quant au service, il consiste à ne rien faire ; seulement, une fois par an, grande revue, dont il est impossible de se dispenser, à moins qu'on n'en ait obtenu la permission, et on ne la refuse jamais. </s>
+	<s id="4">Conclusion : Chaque serviteur de l'État a de droit trois magnifiques Africaines au teint d'ébène ; et ceux qui sont bien sages, on leur z'y donne des négresses blanches les dimanches.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="35">
+	<s id="1">Ah ! </s>
+	<s id="2">Par exemple ! </s>
+	<s id="3">Celle-là est trop forte !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="36">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Mon jeune camarade, qu'est-ce que vous dites de ça ?</s>
+</p> 
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="37">
+	<s id="1">Je dis que je me fais une demande : pourquoi le sergent, qui aime aussi les diamants, l'eau sucrée et les négresses blanches, ne va-t-il pas les chercher lui-même au lieu de m'y envoyer ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="38">
+	<s id="1">Ah çà ! </s>
+	<s id="2">Dis donc, mon petit bourgeois, est-ce que tu voudrais faire le malin avec le militaire, toi ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="39">
+	<s id="1">Du tout, je vous demande la raison...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="anger">, en colère.
+</stage>
+<p id="40">
+	<s id="1">Ah ! </s>
+	<s id="2">Tu me demandes raison !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="41">
+	<s id="1">Je vous demande la raison pour laquelle...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage>, le secouant.
+</stage>
+<note type="L">Arche-Marion : Douze barges amarrés ensemble entre le Pont Notre-Dame et le Pont d'Arcole de Paris et qui servaient aux blanchisseuses pour laver et sécher le linge. </note>
+<p id="42">
+	<s id="1">Je te dis que je t'ai insulté et que tu exiges satisfaction. </s>
+	<s id="2">Allons sous l'Arche-Marion, je vais te découper en morceaux comme l'Arlequin de la Comédie_Italienne.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="shout">, criant très fort.
+</stage>
+<p id="43">
+	<s id="1">Voulez-vous bien me lâcher !... </s>
+	<s id="2">Sergent, je vas crier !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Les Mêmes, Madame Grégoire.
+</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<stage type="title">AIR. du vaudeville de l'Ecu de six francs.</stage>
+	<l id="62">Eh bien ! Quel est donc ce tapage ?</l>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+	<l id="63">Il n'y a pas de quoi s'effrayer ;</l>
+	<l id="64">J' lui conseille un petit voyage...</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="65">Mais, pour le faire ainsi crier,</l>
+	<l id="66">Où voulez-vous donc l'envoyer ?</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="67">Qu'à jamais le ciel le confonde !</l>
+	<l id="68">Délivrez-moi d'ce furieux,</l>
+	<l id="69">Qui veut m'fair' partir de ces lieux</l>
+	<l id="70">Pour m'envoyer dans l'autre monde.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">Monsieur Belrose, je suis très mécontente de vous... </s>
+	<s id="2">En faisant des scènes comme ça, vous finirez par chasser toutes mes pratiques.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="2">
+	<s id="1">C'est vrai que j'ai le naturel un peu tapageur.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">En ce cas, j'aime autant voir vos talons que votre visage.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="4">
+	<s id="1">Si je ne me fais pas illusion, je comprends, par ces paroles, que vous m'accordez une permission de sortir... </s>
+	<s id="2">J'espère, jeune homme, que vous en profiterez avec moi.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="5">
+	<s id="1">Un instant... </s>
+	<s id="2">J'ai quelque chose... </s>
+	<s id="3">Une facture à remettre à Madame_Grégoire.</s>
+</p>
+<stage type="low/give">Bas, lui remettant le papier.</stage>
+<p id="6">
+	<s id="1">Belle cabaretière,je me flatte que vous serez contente de la qualité...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="get">, prenant le papier.
+</stage>
+<p id="7">
+	<s id="1">Tiens,comme il me regarde !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="8">
+	<s id="1">Adieu, ravissante tigresse !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="9">
+	<s id="1">Je retourne chez maman... </s>
+	<s id="2">Attends-moi sous l'arche.</s>
+</p>
+<stage type="escape">Il se sauve à toutes jambes.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Madame Grégoire, Belrose, et peu après d'Esparville et d'Auberval.
+</stage>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="1">
+	<s id="1">J'espère que vous ne m'en voulez plus des sottises que vous m'avez proférées.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="2">
+	<s id="1">Laissez-moi tranquille.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="watch">, regardant.
+</stage>
+<p id="3">
+	<s id="1">Bon ! </s>
+	<s id="2">Vous allez me payer ça, mon petit jeune homme... </s>
+	<s id="3">Tiens, plus personne...</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="4">
+	<s id="1">Au fait, bon_débarras, me v'là maître du terrain, comme le vainqueur de Mahon.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage>, en dehors.
+</stage>
+<p id="5">
+	<s id="1">Madame Grégoire !... </s>
+	<s id="2">Où est madame Grégoire ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="6">
+	<s id="1">Eh ! </s>
+	<s id="2">C'est la voix du financier.... d_Esparville !...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="7">
+	<s id="1">Allons ! </s>
+	<s id="2">Un de parti, un autre de revenu !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="entrance">, entrant.
+</stage>
+<stage type="title">AIR. du Menuet d'Exaudet.</stage>
+	<l id="71">Vrai Mondor,</l>
+	<l id="72">Matador</l>
+	<l id="73">De finance.</l>
+	<l id="74">J'ai de l'esprit, de l'argent,</l>
+	<l id="75">El le prouve en faisant</l>
+	<l id="76">Bombance.</l>
+<p id="8">
+	<s id="1">Bonjour, bonjour, sirène de la_Pomme-de-Pin.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage>, du dehors.
+</stage>
+<p id="9">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Personne ici... </s>
+	<s id="3">La fille !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="10">
+	<s id="1">Dieu me damne ! </s>
+	<s id="2">Je crois que c'est ce vaurien de D'Auberval.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="11">
+	<s id="1">Le danseur de l'Opéra ? </s>
+	<s id="2">Et de deux... </s>
+	<s id="3">Je bouillonne !</s>
+</p>
+<stage type="danse">D'Auberval, entre du fond en dansant.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="12">
+	<s id="1">Toujours folâtre et sautillant, Monsieur_d_Auberval.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="13">
+	<s id="1">Et vous, toujours éblouissante, mon Iris !</s>
+</p>
+<stage type="touch">Il serre la main à d'Esparville.</stage>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="14">
+	<s id="1">Son Iris ! </s>
+	<s id="2">Il est sans gêne, le Zéphir.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="watch">, regardant Belrose.
+</stage>
+<p id="15">
+	<s id="1">Eh quoi ? </s>
+	<s id="2">Qu'est-ce que c'est que ça ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">La bataille de Minorque : ou de Port-Mahon est un affrontement naval et terrestre qui a lieu en mai et juin 1756 au début de la guerre de Sept Ans. [Wikipedia]</note>
+<p id="16">
+	<s id="1">Ça, c'est rien ; c'est seulement le vainqueur de Mahon, qui vous cède le champ de bataille pour le moment ; mais qui vous engage à ne pas vous attarder dans ces parages... sans ça, gare la patrouille !</s>
+</p> 
+<stage type="wave">Les saluant.</stage>
+<p id="17">
+	<s id="1">Au plaisir de ne jamais vous revoir.</s>
+</p>
+<stage type="exit">Il sort majestueusement.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Les Mêmes, excepté Belrose.
+</stage>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage>, riant.
+</stage>
+<p id="1">
+	<s id="1">Ah ! ah ! ah !... </s>
+	<s id="2">Qu'a-t-il donc, ce bas-officier ?...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="2">
+	<s id="1">Le drôle est sans doute pris de vin.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Ne faites pas attention.... </s>
+	<s id="2">C'est un original... </s>
+	<s id="3">Ah çà ! </s>
+	<s id="4">Messieurs, quel heureux hasard vous amène ici tous deux ?</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="4">
+	<s id="1">Ce n'est pas le hasard, c'est le plaisir... Ma femme est à la campagne, et je me suis dit : « Voilà le moment de m'amuser. »</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Le mauvais sujet ! </s>
+	<s id="3">Moi, je me suis arraché inhumainement des bras de toutes ces dames... </s>
+	<s id="4">Elles voulaient me retenir... mais, en qualité de Zéphir, flic, flac, je m'envole, et me voilà.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="6">
+	<s id="1">On ne s'amuse qu'ici... La_Pomme-de-Pin ! </s>
+	<s id="2">Par_la_sambleu ! </s>
+	<s id="3">C'est une enseigne qui mérite attention, quand on vous voit, Madame_Grégoire !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="7">
+	<s id="1">Diable ! </s>
+	<s id="2">Il est galant, le financier !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<note type="L">Savonnette à vilain : Fig. Savonnette à vilain, charge qu'on achetait pour s'anoblir. [L]</note>
+<p id="8">
+	<s id="1">Oui, depuis que j'ai acheté une savonnette_à_vilain, j'ai de l'esprit ; je couvre mon jabot de tabac, je vais au cabaret, je m'encanaille : c'est très bon ton.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="9">
+	<s id="1">Ma foi ! </s>
+	<s id="2">Vivent les jolies femmes et l'indépendance ! </s>
+	<s id="3">On se voit, on se plaît, on s'adore, et le lendemain, flic, flac  une pirouette, et c'est fini.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="10">
+	<s id="1">On dit cependant que vous devez épouser Mademoiselle_Dubois, cette jolie actrice de la Comédie_Française ?</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="11">
+	<s id="1">La petite Dubois, mon Hermione ?... </s>
+	<s id="2">Le fait est que nous nous idolâtrons... </s>
+	<s id="3">Nous sommes en procès dans ce moment-ci.</s>
+</p>
+<stage type="title">AIR. Qu'est-qu' t'as donc, mon petit Uypolite.</stage>
+	<l id="77">Pour m'obtenir en mariage,</l>
+	<l id="78">Voyez le bizarre projet !</l>
+	<l id="79">De plaider elle a le courage, </l>
+	<l id="80">Et veut m'enchaîner tout-à-fait.</l>
+	<l id="81">Par un ordre du Châtelet.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="82">Pour un mari pareille esclandre !</l>
+	<l id="83">Je concevrais qu'on put plaider,</l>
+	<l id="84">Si c'était pour ne pas le prendre,</l>
+	<l id="85">Ou bien pour ne pas le garder.</l>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="12">
+	<s id="1">Bravo ! </s>
+	<s id="2">Méchante, voilà des principes !... </s>
+	<s id="">Comme ma belle plaideuse me cherche partout, je viens me cacher au cabaret, et je vous prie de me faire préparer pour minuit un souper succulent.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="13">
+	<s id="1">Tiens ! </s>
+	<s id="2">Je venais vous en commander un dans le même genre. </s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="14">
+	<s id="1">Pourvu qu'il ne se doute de rien.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="15">
+	<s id="1">Est-ce qu'il viendrait aussi pour ?... </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Non, un gros gourmand comme lui, ça ne pense qu'à la table.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Qu'avez-vous donc tous les deux ?</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="17">
+	<s id="1">Oh ! </s>
+	<s id="2">Rien, rien : c'est que j'avais l'intention de ne pas souper seul.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="18">
+	<s id="1">Absolument comme moi.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="19">
+	<s id="1">Et je voudrais confier à Madame_Grégoire...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="away">, s'éloignant..
+</stage>
+<p id="20">
+	<s id="1">À votre aise , mon cher ; je suis votre valet... </s>
+	<s id="2">Flic ! flac !</s>
+</p>
+<stage type="low/toward">D'Esparville parle bas à Madame Grégoire.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="21">
+	<s id="1">Bah ! </s>
+	<s id="2">Vraiment!.... </s>
+	<s id="3">Monsieur_d_Esparville, vous êtes bien bon.</s>
+</p>  
+<stage type="laugh">Riant.</stage>
+<p id="22">
+	<s id="1">Ah ! ah! ah !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="23">
+	<s id="1">J'étais sûr qu'elle prendrait la chose gaiement.</s>
+</p>
+<stage type="location">Remontant la scène.</stage>
+<p id="24">
+	<s id="1">Il faut avouer que je suis un coquin bien heureux.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="low/toward">, bas à madame Grégoire.
+</stage>
+<p id="25">
+	<s id="1">Je parierais que d_Esparville vous a dit quelque lourde bêtise... </s>
+	<s id="2">Moi j'ai quelque chose de plus sérieux à vous demander.</s>
+</p>
+<stage type="toward/closer">Il lui parle à l'oreille.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="26">
+	<s id="1">Lui aussi !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="aparte">, à part.
+</stage>
+<p id="27">
+	<s id="1">Chut !... </s>
+	<s id="2">Elle est émue !... </s>
+	<s id="3">Je produis le même effet sur toutes les femmes.</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="28">
+	<s id="1">Je vais passer là-dedans, écrire un mot à l'Opéra, pour prévenir que je ne serai pas de la fin du ballet, par indisposition.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="29">
+	<s id="1">Et moi, je vais à l'office, méditer le menu de mon souper : c'est de la plus haute importance.</s>
+</p>
+</sp>
+<sp who="ENSEMBLE"><speaker>ENSEMBLE</speaker><stage>, en sortant.
+</stage>
+<stage type="title">AIR.</stage>
+	<l id="86">Laissons</l>
+	<l id="87">Aux salons</l>
+	<l id="88">L'étiquette</l>
+	<l id="89">Et la coquette ;</l>
+	<l id="90">Le plaisir parfait</l>
+	<l id="91">N'est vraiment qu'au cabaret.</l>
+<stage type="exit">Ils entrent dans la maison.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="alone">, seule.
+</stage>
+<p id="1">
+	<s id="1">A-t-on jamais vu ça ! </s>
+	<s id="2">Me proposer de sou per en tête-à-tête avec eux ? </s>
+	<s id="3">Ils ne sont pas gênés... </s>
+	<s id="4">Sous prétexte qu'ils paient, ils se figurent que le cabaret et la cabaretière, c'est tout un... </s>
+	<s id="5">Oh ! ils ne savent pas à qui ils s'adressent.</s>
+</p>
+<stage type="title">AIR. Autrefois je pleurais ( le Mari et l'Amant).</stage>
+	<l id="92">Si chez moi je reçois,</l>
+	<l id="93">Si je vois</l>
+	<l id="94">À_la_fois,</l>
+	<l id="95">Tour-à-tour,</l>
+	<l id="96">Chaque jour,</l>
+	<l id="97">Et la ville et la cour, </l>
+	<l id="98">Riches, petits et grands,</l>
+	<l id="99">Je prends</l>
+	<l id="100">De tous les rangs,</l>
+	<l id="101">Sans effort, sans façon,</l>
+	<l id="102">Le langage et le ton. </l>
+<stage type="bis">Bis.</stage>
+	<l id="103">Qu'un galant talon-rouge,</l>
+	<l id="104">Qui de chez moi ne bouge,</l>
+	<l id="105">Souriant,</l>
+	<l id="106">Sautillant,</l>
+	<l id="107">Me dise : « Sur l'honneur ?</l>
+	<l id="108">Vous avez pris mon coeur,</l>
+	<l id="109">Au voleur ! Au voleur ! »</l>
+<stage type="face">Prenant un ton maniéré.</stage>
+<p id="2">
+	<s id="1">Moi, Monsieur_le_Marquis, lui dis-je en prenant un air dégagé ; on sait trop son monde pour se rendre coupable d'une pareille friponnerie.</s>
+</p>
+	<l id="110">Mais voilà que soudain</l>
+	<l id="111">Vient un gai boute_en_train ; C</l>
+	<l id="112">Son patois</l>
+	<l id="113">Est grivois ;</l>
+	<l id="114">Il élève la voix:</l>
+	<l id="115">« Votre vin est frelaté,</l>
+	<l id="116">C' n'est pas comm' voir' beauté,</l>
+	<l id="117">J'aim'rais mieux voir' minois. »</l>
+	<l id="118">Tu r'pass'ras un' autre fois, </l>
+<stage type="bis">Bis.</stage>
+	<l id="119">Chez madame Grégoire</l>
+	<l id="120">On ne vient que pour boire.</l>
+	<l id="121">Eh ! dis donc, mon garçon,</l>
+	<l id="122">Que ta cloch' chang' de son,</l>
+	<l id="123">Ou j'te donne une leçon.</l>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est que j'ai le propos et la main leste ; je réponds aux compliments par des douceurs, et aux insolences par des gestes ; tiens, voilà pour toi ; il faut être poli avec tout le monde.</s>
+</p>
+	<l id="124">Car chez moi, </l>
+<stage type="etc">etc.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Madame Grégoire; Benoît, Fanchette, entrant en disputant.
+</stage>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="1">
+	<s id="1">Je te dis que tu n'entreras pas.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="2">
+	<s id="1">Tant pis, j'ai soif, et je suis un honnête homme.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est encore cet ivrogne de Benoît, le falot de l'Opéra, qui boit jusqu'au dernier sou.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="4">
+	<s id="1">Je suis un honnête-homme, je veux à boire.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Du tout, tu en as assez pour aujourd'hui.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="6">
+	<s id="1">Ma chère dame, vous êtes bien bonne ; et vous cheriez encore plus meilleure, si vous mettiez mon homme à la porte.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="7">
+	<s id="1">Votre homme ? </s>
+	<s id="2">Comment vous êtes... </s>
+	<s id="3">Je savais bien qu'il avait pour femme une auvergnate ; mais elle ne vous ressemblait pas.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE. </speaker>
+<stage type="embarrassed/quick">Elle paraît d'abord embarrassée, et répond vivement.</stage>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">Je m'en vas vous dire... </s>
+	<s id="3">C'hest que je chuis sa seconde... </s>
+	<s id="4">Le schélérat a fait mourir la première de chagrin.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="tender">, attendri.
+</stage>
+<p id="9">
+	<s id="1">C'est la pure vérité !... </s>
+	<s id="2">Ma pauvre première ! </s>
+	<s id="3">Va !... </s>
+	<s id="4">À boire !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="10">
+	<s id="1">Non... </s>
+	<s id="2">V'là pourtant comme ils sont tous.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="11">
+	<s id="1">C'hest un mange-tout, un panier percé, qui me mettra chur la paille.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="12">
+	<s id="1">Allons, voyons, il ne faut pas pleurer ; je vous promets que s'il remet les pieds ici, c'est à moi qu'il aura affaire.</s>
+</p>
+cQs
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Je vois ce que c'est, vous me refusez des rafraîchissements, parce que je re[ç]ois d'hier onze_sous_six_deniers... </s>
+	<s id="3">Tenez, vlà un petit écu : payez-vous, et rayez-moi de dessus l'ardoise.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="14">
+	<s id="1">Comment tu as de l'argent... par quel hasard ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="15">
+	<s id="1">C'est pas l'hasard ; c'est mademoiselle_Dubois de la Comédie_Française...</s>
+</p> 
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage type="interrupt">, l'interrompant vivement.
+</stage>
+<p id="16">
+	<s id="1">C'hest cha... trois livres dans sa poche, et pas un liard à la maison.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, brusquement.
+</stage>
+<p id="17">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Donne ! </s>
+	<s id="3">On va te rendre.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="show">, tendant la main.
+</stage>
+<p id="18">
+	<s id="1">Ma monnaie.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="19">
+	<s id="1">Tenez, ma pauvre femme, la voilà.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="20">
+	<s id="1">Du tout, je n'entends pas ces comptes-là, moi !</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="21">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon_Dieu !... </s>
+	<s id="3">Vous vous cherez trompée, Madame_Grégoire; il vous donne un petit écu, et vous m'en remettez deux.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="22">
+	<s id="1">Je ne me trompe jamais ; vous avez votre compte.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="23">
+	<s id="1">Mais je vous assure...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="24">
+	<s id="1">Silence, ne dites rien à ce vaurien-là... </s>
+	<s id="2">Toi, tu vas me faire le plaisir de décamper, et plus vite que ça.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="25">
+	<s id="1">Ne vous fâchez pas, on s'en va ; mais ce soir mon épouse me le paiera.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage>, à Benoît qui est passé près d'elle.
+</stage>
+<p id="26">
+	<s id="1">Oui, comme dimanche paché.</s>
+</p>
+<stage type="voice">Changeant de voix. </stage>
+<p id="27">
+	<s id="1">Tiens, prends tout, et laisse-nous maintenant.</s>
+</p>
+<stage type="push">Madame Grégoire le met à la porte.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="away">, en s'en allant.
+</stage>
+<p id="28">
+	<s id="1">Tu me le paieras , mon épouse ; tu me le paieras plus cher qu'un_écu.</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Madame Grégoire, Fanchette.
+</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">Mariez-vous donc après ça... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Ben oui, les hommes... </s>
+	<s id="4">J'ai bien fait de ne vouloir jamais en prendre un... </s>
+	<s id="5">D'abord tous ces beaux messieurs qui viennent ici me faire la cour, disparaîtraient si j'étais mariée. </s>
+	<s id="6">Si j'étais veuve, ils se jetteraient à mes pieds, et il faudrait me décider... </s>
+	<s id="7">Je trouve plus de bénéfice à les laisser dans le doute...</s>
+</p> 
+<stage type="watch/location">Apercevant Fanchette, qui est restée timidement dans le fond.</stage>
+<p id="2">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Qu'est-ce que vous faites là, vous ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">C'hest que, voyez-vous, Madame_Grégoire, après che que mon homme il m'a promis, je n'ose plus retourna à la maison; il me battrait , et je me souviens encore de dimanche.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="4">
+	<s id="1">Mais, ma bonne, qu'est-ce que vous voulez que j'y fasse ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="5">
+	<s id="1">Vous qui avez toujours besoin de quelqu'un... chi vous vouliez me garda, pour la nourriture seulement ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="6">
+	<s id="1">Vous garda, vous garda ! </s>
+	<s id="2">Mais qu'est-ce que vous savez faire ?</s>
+</p> 
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="7">
+	<s id="1">Dam' ! </s>
+	<s id="2">Pas grand' chose ; mais je sais lire et écrire.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="8">
+	<s id="1">Allons, c'est bien, je ne veux pas que votre mari vous batte... </s>
+	<s id="2">Restez, vous m'aiderez, vous ferez ce que vous pourrez.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="9">
+	<s id="1">Ah ! </s>
+	<s id="2">Madame, que vous j'êtes donc bonne !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, lui remettant le papier de Luquet.
+</stage>
+<p id="10">
+	<s id="1">Non, je ne suis pas bonne. </s>
+	<s id="2">Mais voyons, pour commencer, tenez, additionnez cette facture-là, et voyez si le compte est juste.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage type="sit">, s'asseyant.
+</stage>
+<p id="11">
+	<s id="1">Oui, Madame, tout de chuite.</s>
+</p> 
+<stage type="aparte/voice">À part, quittant l'accent auvergnat.</stage>
+<p id="12">
+	<s id="1">Bon ! </s>
+	<s id="2">Me voilà installée dans la maison, et je verrai bien si ce qu'on m'a dit est vrai.</s>
+</p>
+<stage type="count">Elle s'occupe à compter.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, à part, regardant Fanchette.
+</stage>
+<p id="13">
+	<s id="1">Cette pauvre femme ! </s>
+	<s id="2">Si je pouvais trouver moyen de lui faire une petite fortune... </s>
+	<s id="3">Eh ! </s>
+	<s id="4">Mais j'y pense... </s>
+	<s id="5">Quelle idée ! </s>
+	<s id="6">Ces deux beaux messieurs qui m'ont proposé tout-à-l'heure... </s>
+	<s id="7">Oh ! </s>
+	<s id="8">Ce serait charmant ! </s>
+	<s id="9">Justement les loteries sont à la mode !</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage type="laugh">, riant.
+</stage>
+<p id="14">
+	<s id="1">Ah ! ah ! ah !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="15">
+	<s id="1">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="16">
+	<s id="1">Mais, Madame, che n'est pas une facture, cha... c'hest une déclaration d'amour, et bien drôle encore.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="17">
+	<s id="1">Vraiment ? </s>
+	<s id="2">Voyons donc.</s>
+</p>
+<stage type="read">Lisant.</stage>
+<stage type="title">Enigme amoureuse et en vers.</stage>
+	<l id="125">Je ne sais pas comment, je ne sais pas pourquoi</l>
+	<l id="126">J'adore une bergère</l>
+	<l id="127">Qui ne s'en doute guère ;</l>
+	<l id="128">Je ne sais pas comment,</l>
+	<l id="129">Je ne sais pas pourquoi ;</l>
+	<l id="130">Mais je sais seulement</l>
+<p id="18">
+	<s id="1">Que pour je ne sais qui je sens je ne sais quoi.</s>
+</p>
+<p id="19">
+	<s id="1">Signé Luquet, fabricant, rue_de_la_Verrerie.</s>
+</p>
+<p id="20">
+	<s id="1">Qu'est-ce que ça veut dire ?... </s>
+	<s id="2">Ah !... </s>
+	<s id="3">Post-scriptum. </s>
+	<s id="4">« En attendant l'honneur de la vôtre, je voudrais souper ce soir chez vous, en tête-à-tête, pour vous dire le mot de l'énigme. »</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="21">
+	<s id="1">Comment, et lui aussi ?... </s>
+	<s id="2">Ce petit nigaud !... </s>
+	<s id="3">Eh bien ! </s>
+	<s id="3">Tant mieux, au fait ; il sera traité comme les autres.</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="22">
+	<s id="1">Ma brave femme, passez dans ma chambre, et attendez-moi... </s>
+	<s id="2">D'ici à demain, vous serez peut-être plus riche que vous ne croyez.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="23">
+	<s id="1">Plaît-il, Madame ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="24">
+	<s id="1">Allez, allez, je n'ai pas de temps à perdre.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage type="aparte/exit">, à part, en sortant.
+</stage>
+<p id="25">
+	<s id="1">Que veut-elle dire ? </s>
+	<s id="Z">Ayons les yeux sur cette femme et sur lui.</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="26">
+	<s id="1">Je vous chalue, Madame_Grégoire.</s>
+</p>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Madame Grégoire, puis Luquet.
+</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">En vérité, on n'a pas d'idée deçà... </s>
+	<s id="2">On dirait qu'ils se sont tous donné le mot aujourd'hui... </s>
+	<s id="3">C'est drôle, une déclaration... </s>
+	<s id="4">Ça vous offense... </s>
+	<s id="5">Ça vous met en colère , et cependant ça fait plaisir.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, qui est entré au milieu de ce qui précède.
+</stage>
+<p id="2">
+	<s id="1">Je viens chercher la réponse au post-scriptum.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="stress">, feignant d'être émue.
+</stage>
+<p id="3">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="4">
+	<s id="1">Ne cherchez pas à cacher mon poulet... </s>
+	<s id="2">Vous l'avez lu, ce poulet que l'amour vous a présenté sous la forme d'une facture... </s>
+	<s id="3">C'est vous dire que mon ardeur voudrait être payée comptant, ou tout au plus à vingt-quatre_heures de date, belle cabaretière !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Vous êtes pressant, Monsieur_Luquet.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="6">
+	<s id="1">Nous sommes tous comme ça dans la rue_de_la_Verrerie.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="7">
+	<s id="1">Vous me demandez un rendez-vous, un tête-à-tête ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="8">
+	<s id="1">Oui, si ça vous est égal...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, baissant les yeux.
+</stage>
+<p id="9">
+	<s id="1">Si ça m'était égal, ça n'aurait pas grand prix.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="10">
+	<s id="1">Dieu ! </s>
+	<s id="2">Ça ne vous est pas égal... ni à moi non plus, parole_d_honneur !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="11">
+	<s id="1">Chut ! </s>
+	<s id="2">Ne parlons plus de ça, on pourrait nous entendre... Dans ce moment-ci, la maison est pleine de monde ; mais à l'heure du souper, un peu avant minuit...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="12">
+	<s id="1">Il n'y aura plus personne... </s>
+	<s id="2">Je vous comprends, divine détaillante... </s>
+	<s id="3">Dieu de Dieu ! </s>
+	<s id="4">Vais-je être heureux ! </s>
+	<s id="5">Le vais-je être... </s>
+	<s id="6">Me voilà lancé... j'ai fait une conquête ! </s>
+	<s id="7">Ô maman !</s>
+</p>
+<stage type="toward/wave">À madame Grégoire, qui lui fait signe de se taire.</stage>
+</sp>
+<sp who="ENSEMBLE"><speaker>MORCEAU D'ENSEMBLE.</speaker>
+<stage type="title">AIR. de Monsieur Doche.</stage>
+	<l id="131">Aussi vrai que vous êt's belle femme,</l>
+	<l id="132">Aussi vrai que j' suis beau garçon,</l>
+	<l id="133">J' réponds d'renfermer dans mon âme</l>
+	<l id="134">Mon sentiment et ma passion.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="135">Mais on vient, le plus grand mystère,</l>
+	<l id="136">Sur tout cela taisez-vous bien...</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="137">Soyez tranquille ; ici, j'espère</l>
+	<l id="138">Qu'on ne pourra s' douter de rien.</l>
+<stage type="location">Remontant la scène.</stage>
+	<l id="139">Tenez, je n' fais semblant de rien ;</l>
+	<l id="140">Regardez, je n'ai l'air de rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Les Mêmes, d'Esparville, puis d'Auberval.
+</stage>
+<stage type="title">SUITE DU MORCEAU D'ENSEMBLE.</stage>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage>, bas à madame Grégoire.
+	</stage>
+	<l id="141">Avez-vous réfléchi, ma chère ?</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, de même.
+	</stage>
+	<l id="142">Ce soir, à minuit !</l>
+<stage type="wave">Elle lui fait signe que D'Auberval vient d'entrer. - Il s'éloigne en se rengorgeant.</stage>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="low/toward">, bas à madame Grégoire.
+	</stage>
+	<l id="143">Ensemble irons-nous à Cythère ?</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="low/toward">, de même.
+	</stage>
+	<l id="144">Ce soir, après minuit...</l>
+	<l id="145">Surtout soyez discret.</l>
+	<l id="146">Gardez bien le secret, </l>
+<stage type="bis">Bis.</stage>
+</sp>
+<sp who="TOUS"><speaker>TOUS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="147">Du mystère !</l>
+	<l id="148">Du mystère !</l>
+	<l id="149">Je suis sûr de lui plaire !</l>
+	<l id="150">Je réponds du succès,</l>
+	<l id="151">Et je la tiens dans mes filets!</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="152">Du mystère !</l>
+	<l id="153">Du mystère !</l>
+	<l id="154">Je les tiens, je l'espère!</l>
+	<l id="155">Je réponds du succès...</l>
+	<l id="156">Ils tomberont dans mes filets!</l>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="wave">, saluant.
+</stage>
+<p id="1">
+	<s id="1">Madame Grégoire, je suis votre valet...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="2">
+	<s id="1">Le diable m'emporte si je ne suis pas tout vôtre !...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="low/toward">, bas à Madame Grégoire.
+</stage>
+<p id="3">
+	<s id="1">À minuit... il fera clair_de_lune, et Phébé guidera Cupidon !</s>
+</p> 
+<stage type="noise">Du bruit en dehors.</stage>
+<p id="4">
+	<s id="1">Oh ! la ! la ! </s>
+	<s id="2">Qu'est-ce que c'est que ça ?</s>
+</p>
+<stage type="back">Ils reviennent tous trois.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Les Mêmes; Femmes du Peuple, entrant par le fond, en se disputant.
+</stage>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+<stage type="title">Air : C'est la rage.</stage>
+	<l id="157">Du tapage,</l>
+<stage type="bis">Bis.</stage>
+	<l id="158">On trouble notre ménage.</l>
+	<l id="159">Du tapage, </l>
+<stage type="bis">Bis.</stage>
+	<l id="160">Ou rendez-nous nos époux.</l>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX</speaker><stage>, à madame Grégoire.
+	</stage>
+	<l id="161">Rends-nous nos homm's, ou gare une querelle,</l>
+	<l id="162">Ils n' sont ici qu' pour lorgner tes appas.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="163">Au cabaret s'ils vienn'nt pour ça, ma belle,</l>
+	<l id="164">C'est que chez eux sans doute ils n'en trouv'nt pas.</l>
+</sp>
+</div2>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Les mêmes ; Giroux, et tous les autres Hommes du Peuple, venant du jardin.
+</stage>
+<stage type="title">REPRISE DU CHOEUR.</stage>
+<stage type="title">ENSEMBLE.</stage>
+<sp who="LES HOMMES"><speaker>LES HOMMES.</speaker>
+	<l id="165">Quelle rage,</l>
+	<l id="166">Quel tapage</l>
+	<l id="167">Trouble ici le voisinage ?</l>
+	<l id="168">Quel tapage ! </l>
+<stage type="bis">Bis.</stage>
+	<l id="169">Apaisons tous</l>
+	<l id="170">Leur courroux.</l>
+</sp>
+<sp who="LES FEMMES"><speaker>LES FEMMES.</speaker>
+	<l id="171">Du tapage ! </l>
+<stage type="bis">Bis.</stage>
+</sp>
+<sp who="LUQUET, D'AUBERVAL, D'ESPARVILLE"><speaker>D'AUBERVAL, D'ESPARVILLE, LUQUET.</speaker>
+	<l id="172">Quel tapage ! </l>
+<stage type="bis">Bis.</stage>
+	<l id="173">Ici l'hymen fait ravage.</l>
+	<l id="174">Quelle rage !</l>
+<stage type="bis">Bis.</stage>
+	<l id="175">Auprès d'ell' tenons-nous</l>
+	<l id="176">Tous.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">Ah çà ! </s>
+	<s id="2">Après tout, à qui en avez-vous, mesdames ?</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="2">
+	<s id="1">Oui, c'est vrai, quoique vous avez, z'harpie s?</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<p id="3">
+	<s id="1">Tais-toi, sans coeur et sans foi ! </s>
+	<s id="2">Laisse parler ton épouse. </s>
+	<s id="3">À nous deux, la belle Grégoire ! </s>
+	<s id="4">Je vas te dégoiser ton histoire... </s>
+	<s id="5">Dans ta conduite gnia du louche, ma petite Sainte-Nitouche ! </s>
+	<s id="6">Tu ne veux pas te marier, et t'as chez toi la moitié de tous les hommes du quartier !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="4">
+	<s id="1">Vos hommes ! </s>
+	<s id="2">On se moque bien d'eux!</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<note type="L">Péronnelle : Terme de dénigrement. Jeune femme sotte et babillarde. [L]</note>
+<p id="5">
+	<s id="1">Laisse donc, péronnelle ! </s>
+	<s id="2">C'est toi qui les ensorcelle, avec ta prunelle et ta dentelle, Pompadour_du_faubourg !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="6">
+	<s id="1">Vous m'impatientez, à la fin ; voilà de jolis magots pour qu'on vous les enlève !</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="7">
+	<s id="1">Magots !...</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<note type="L">Piquette : Boisson faite d'eau et de marc de raisin. Par extension, mauvais vin. [L]</note>
+<p id="8">
+	<s id="1">Tiens, Madame_Mijaurée, qui fait sa sucrée parce qu'elle est bien parée ! </s>
+	<s id="2">Dirait-on pas que c'est grand' chose que sa buvette ! </s>
+	<s id="3">Attends que je lui taille une bavette, à cette marchande de piquette !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage>, vivement.
+</stage>
+<p id="9">
+	<s id="1">Ah çà ! </s>
+	<s id="2">Ma chère, vous êtes bien osée!...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="10">
+	<s id="1">Ne vous en mêlez pas, Monsieur_d_Auberval : puisqu'elle le prend sur ce ton-là, je vais lui répondre de même.</s>
+</p> 
+<stage type="wave">Mettant le poing sur la hanche.</stage>
+<note type="L">Harengère : Celle qui vend en détail des harengs et du poisson. Fig. Femme grossière. [L]</note>
+<note type="L">Ratafia : Liqueur spiritueuse, composée d'eau-de-vie, de sucre, et du jus de certains fruits ou de l'arome de quelque fleur.  [L]</note>
+<p id="11">
+	<s id="1">Ah çà ! </s>
+	<s id="2">Crois-tu, ma commère, que je ne me souviens plus d'être la fille de ma mère, et qu'une harengère me fera taire ? </s>
+	<s id="3">A-t-on jamais vu ça ? </s>
+	<s id="4">Une marchande de ratafia me reprocher mon état !... </s>
+	<s id="5">C'est parce que tu bois sec que t'as si bon bec !... </s>
+	<s id="6">C'est le jus de raisin qui te fait un si bon teint ; retourne à ta boutique avec toute ta clique ; je ne veux pas de pratique de ta fabrique, Madame_Rustique !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="12">
+	<s id="1">Bravo ! </s>
+	<s id="2">Bravo ! </s>
+	<s id="3">Par_la_sambleu ! </s>
+	<s id="4">Je ne vous connaissais pas ce talent-là !</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Tu m'appelles Madame_Rustique ? </s>
+	<s id="3">Prends garde à ton physique. </s>
+</p>
+<stage type="wave">Elle fait un mouvement.</stage>
+<p id="14">
+	<s id="1">Ne me retiens pas, Giroux, je suis en courroux ;  je veux lui donner un atout.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<note type="L">Flamberge : Nom donné quelquefois à l'épée du paladin Roland. Mettre flamberge au vent, tirer son épée ; et fig. faire bravade. [L]</note>
+<p id="15">
+	<s id="1">Allons, financier, flamberge au vent ; et chassons d'ici toute cette canaille.</s>
+</p>
+</sp>
+<sp who="GIROUX"><speaker>GIROUX.</speaker>
+<p id="16">
+	<s id="1">Canaille ! </s>
+	<s id="2">Nous allons voir qu'est-ce qu'en est. </s>
+</p>
+<stage type="threat">Ils se menacent.</stage>
+<note type="L">Brette : Longue épée. [L]</note>
+<p id="17">
+	<s id="1">Arrive donc, avec ta brette !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="18">
+	<s id="1">V'ià la garde du poste voisin.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="19">
+	<s id="1">La garde ! </s>
+	<s id="2">En ce cas faisons la paix, plus de dispute.</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<note type="L">Agonir : Accabler d'injures. Mot populaire et du plus mauvais langage. [L]</note>
+<p id="20">
+	<s id="1">Oui, oui, touche là, t'es pas fière, ma petite Grégoire ; tu ne crains pas de t'agonir avec une ancienne connaissance.</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<stage type="title">AIR. Garde à vous !</stage>
+	<l id="177">C'est le guet ! </l>
+<stage type="bis">Bis.</stage>
+	<l id="178">Le voilà qui s'avance;</l>
+	<l id="179">Amis, faisons silence,</l>
+	<l id="180">Plus de bruit indiscret,</l>
+	<l id="181">C'est le guet ! </l>
+<stage type="bis">Bis.</stage>
+	<l id="182">Cette troupe sévère</l>
+	<l id="183">Bientôt nous ferait taire,</l>
+	<l id="184">Et sous clef nous mettrait.</l>
+	<l id="185">Plus de bruit, c'est le guet !</l>
+</sp>
+</div2>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Les Mêmes, Belrose, Soldats.
+</stage>
+<stage type="location/wave">D'Auberval, d'Esparville et Luquet se retirent à l'écart, derrière les gens du peuple, sur un signe de Madame Grégoire.</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est Belrose.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="2">
+	<s id="1">Quel silence énigmatique !... </s>
+	<s id="2">Ça ne ressemble pas du tout au tapage qui a frappé l'ouïe de la force armée.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Vous savez bien, Monsieur_Belrose, qu'on ne fait jamais de bruit chez moi.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Quai des morfondus : actuellement quai de l'horloge sur l'île de la Cite à Paris.</note>
+<p id="4">
+	<s id="1">Je sais, je sais qu'il y a dans ce lieu bachique trois chevaliers du quai_des_Morfondus, qui troublent la tranquillité publique, et la mienne particulière.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Par exemple... </s>
+	<s id="3">Voyez plutôt tous ces braves gens.</s>
+</p>
+</sp>
+<sp who="MANON GIROUX"><speaker>MANON GIROUX.</speaker>
+<p id="6">
+	<s id="1">Sages comme des images.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="7">
+	<s id="1">Suffit. </s>
+	<s id="2">Je vous avais bien dit que le champ de bataille me resterait; on n'est pas pour rien le vainqueur de Mahon... </s>
+	<s id="3">Suivez-moi, guerriers invincibles !</s>
+</p>
+<stage type="entrance">Il entre avec les soldats ; Madame Grégoire ferme brusquement la porte.</stage>
+</sp>
+<sp who="TOUS"><speaker>TOUS</speaker><stage type="laugh">, riant.
+</stage>
+<p id="8">
+	<s id="1">Victoire ! </s>
+	<s id="2">Victoire ! </s>
+	<s id="3">Nous tenons le guet.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="9">
+	<s id="1">Ingénieuse héroïne, va !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="10">
+	<s id="1">Du vin à tous ces braves gens, c'est moi qui régale ; c'est le financier qui paie.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="11">
+	<s id="1">Oui !... </s>
+	<s id="2">Vive la mauvaise compagnie, c'est la bonne société !</s>
+</p> 
+</sp>
+<sp who="LUQUET, D'AUBERVAL, D'ESPARVILLE"><speaker>LUQUET, D'AUBERVAL, D'ESPARVILLE.</speaker>
+<stage type="title">AIR. Amis, il nous faut faire pause.</stage>
+	<l id="186">Allons, du vin pour tout le monde !</l>
+	<l id="187">Que l'on remplisse les flacons !</l>
+	<l id="188">Ensemble nous les viderons,</l>
+	<l id="189">Pendant que le guet fait sa ronde.</l>
+	<l id="190">Au bruit du verre il est si doux</l>
+	<l id="191">De fêter madame Grégoire !</l>
+	<l id="192">Elle aime à rire, elle aime à boire</l>
+	<l id="193">Elle aime à chanter comme nous !</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="194">Elle aime à rire, </l>
+<stage type="repeat">etc.</stage>
+</sp>
+<sp who="BELROSE, LA GARDE"><speaker>BELROSE et LA GARDE</speaker><stage type="entrance/location">, reparaissant dans la claire-voie.
+	</stage>
+	<l id="195">Ici nous n'avons vu personne ;</l>
+	<l id="196">Mais là-bas je les aperçois.</l>
+<stage type="open">Essayant d'ouvrir.</stage>
+	<l id="197">Je vais les coffrer tous les trois.</l>
+	<l id="198">Eh quoi ! C'est nous qu'on emprisonne!</l>
+<stage type="anger">Avec colère.</stage>
+	<l id="199">Qui nous retient sous les verrous ?</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="200">Sergent, c'est Madame_Grégoire.</l>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="talk">, parlant.
+</stage>
+<p id="12">
+	<s id="1">Comment, on ose arrêter la garde !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="carry">, un verre à la main.
+</stage>
+<p id="13">
+	<s id="1">À votre santé, habile Général !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="14">
+	<s id="1">Vainqueur de Mahon !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="15">
+	<s id="1">Racoleur des colonies !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="16">
+	<s id="1">À la garde ! </s>
+	<s id="2">À la garde !</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS</speaker><stage type="sing/drink">, chantant et trinquant.
+	</stage>
+	<l id="201">Elle aime à rire, elle aime à boire,</l>
+	<l id="202">Elle aime à chanter comme nous !</l>
+<stage type="watch/knock/hit/laugh/drink/location">Pendant ces couplets, Fanchette est restée en observation sur le pas de la porte de la maison ; Belrose frappa à coups redoublés pour sortir. - Tous les personnages rient et boivent sur la théâtre.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE SECOND</head>
+<stage type="decor">Le théâtre représente un intérieur de chambre à coucher fort simple. Au fond, un lit à rideaux entièrement fermés et à baldaquin ; à gauche, une fenêtre ; à côté, une porte donnant sur la rue ; à droite, sur un des côtés de la scène, une table avec des lumières dessus, et deux couverts au fond ; à côté du lit, une autre porte d'entrée donnant sur la rue; au troisième plan, un cabinet.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Madame Grégoire, Fanchette, portant des assietes et des plats, et surtout du cabinet.
+</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="1">
+	<s id="1">Par ici, Fanchette, par ici ! </s>
+	<s id="2">Posez tout ça là... </s>
+	<s id="3">Bien. </s>
+	<s id="4">Ah çà ! </s>
+	<s id="5">Ma fille, vous voilà chez moi... </s>
+	<s id="6">La maison est bonne, tâchez de vous y tenir.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="2">
+	<s id="1">J'espère que Madame chera contente... </s>
+	<s id="2">Je ne suis pas si bête ni si maladroite que j'en ai l'air, allez.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Vous allez nous servir à table pendant le souper.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="4">
+	<s id="1">Le souper ?... </s>
+	<s id="2">À_propos, est-ce que bien vrai que Monsieur_d_Auberval il en chera ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Monsieur_d_Auberval ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="6">
+	<s id="1">Un si mauvais sujet !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="7">
+	<s id="1">Vous le connaissez ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="8">
+	<s id="1">Je l'ai vu quelquefois chez mam'zelle_Dubois, où mon homme et moi nous faisions des commissions... </s>
+	<s id="2">Figurez-vous, Madame, qu'elle est folle de lui, la pauvre demoiselle... </s>
+	<s id="3">Eh bien ! </s>
+	<s id="4">Cha ne l'empêche pas, che beau monsieur là, d'en conter à tous les femmes ; et si vous ne prenez pas garde à vous...</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="9">
+	<s id="1">Oh ! </s>
+	<s id="2">Je ne le crains pas ! </s>
+	<s id="3">Mais, dites-moi, vous avez fait là-dedans tous nos petits préparatifs ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="10">
+	<s id="1">Oui, Madame.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="11">
+	<s id="1">Vous avez rien oublié ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="12">
+	<s id="1">Non, Madame, rien... </s>
+	<s id="2">Ah ! Si, pourtant... </s>
+</p>
+<stage type="get">Prenant une petite boîte sur une chaire à droite.</stage>
+<p id="13">
+	<s id="1">J'ai oublié de vous remettre une boîte qu'on a apporté tout_à_l_heure pour vous.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="14">
+	<s id="1">Une boite ! </s>
+	<s id="2">De quelle part ?</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="15">
+	<s id="1">Oh ! </s>
+	<s id="2">Je chais pas... </s>
+	<s id="3">Mais v'là une lettre qui était avec.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">Donnez...</s>
+</p>
+<stage type="open">Ouvrant la lettre.</stage>
+<p id="17">
+	<s id="1">Qui peut m'écrire à une pareille heure ?...</s>
+</p>
+<stage type="stress">Avec émotion.</stage>
+<p id="18">
+	<s id="1">Mademoiselle Dubois !...</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="19">
+	<s id="1">Bah ! </s>
+	<s id="2">C'est mam'selle_Dubois ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="20">
+	<s id="1">C'est singulier !... </s>
+	<s id="2">Qui a pu l'instruire ?... </s>
+	<s id="3">Je n'ai pourtant parlé de mon projet à personne... </s>
+	<s id="4">N'importe ! </s>
+	<s id="5">Cela vaudra mieux. </s>
+	<s id="6">Il y a sans doute là-dessous quelque chose de plaisant, et ça nous amusera. </s>
+	<s id="7">Voyons cette boite.</s>
+</p>
+<stage type="open">Elle l'ouvre.</stage>
+<p id="21">
+	<s id="1">C'est bien cela... </s>
+	<s id="2">Rien n'y manque, et je remplirai fidèlement ses intentions... </s>
+	<s id="3">Fanchette, mettez ces objets avec les autres... </s>
+	<s id="4">Vous rapporterez le tout au dessert.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="22">
+	<s id="1">Cha suffit, Madame.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="23">
+	<s id="1">Attendez, attendez, je vais arranger tout ça avec vous. </s>
+	<s id="2">Je crains quelque maladresse...</s>
+</p>
+<stage type="exit/open/show">Elle rentre dans le cabinet à droite. - En ce moment Belrose ouvre la fenêtre à gauche, et se fait voir.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Personne ne m'a vu... </s>
+	<s id="2">J'ai endossé la manteau de Muraille, je me suis métamorphosé en Lézard, et ne pouvant m'insinuer dans le place par la porte, je m'y glisse par la fenêtre, comme le vainqueur de Mahon... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Grégoire, ma mignonne, vous vous moquez du sergent_du_guet vous l'enfermez dans l'exercice de ses fonctions... </s>
+	<s id="5">Patience ! </s>
+	<s id="6">Je vous mettrai peut-être à mon tour dans les fers de l'hyménée. </s>
+	<s id="7">D'abord, je vais tellement la compromettre, que je la forcerai bien... </s>
+	<s id="8">D'autant plus que maintenant je suis sûr qu'elle n'est pas mariée... </s>
+	<s id="9">Oh ! </s>
+	<s id="10">Oh ! </s>
+	<s id="11">Oh ! </s>
+	<s id="12">Qu'aperçois-je ? </s>
+	<s id="13">Une table et deux couverts illuminés !... </s>
+	<s id="14">Est-ce que je serais compromis moi-même ? </s>
+</p>
+<stage type="closer">Il s'approche de la table.</stage>
+<p id="2">
+	<s id="1">Ceci m'a tout l'air d'un festin équivoque... </s>
+	<s id="2">V'là déjà la colère qui me dévore... </s>
+	<s id="3">Ça me prend à la gorge... </s>
+	<s id="4">Je sens là comme des charbons ardents... </s>
+	<s id="5">Avec ça que j'ai bu tantôt onze petits verres de rhum pour me rafraîchir ! </s>
+	<s id="6">Je suis hors de moi ! </s>
+	<s id="7">Cabaretière fallacieuse et multiface :</s>
+</p>
+<stage type="title">Tyrolienne de Guillaume Tell.</stage>
+	<l id="203">Quel est l'oiseau qui suit tes pas ?</l>
+	<l id="204">Ah ! ah ! ah ! ah !</l>
+	<l id="205">Je l' frai chanter plus bas</l>
+	<l id="206">S'rin ou corbeau,</l>
+	<l id="207">À mon gluau,</l>
+	<l id="208">Oh ! oh ! oh ! oh !</l>
+	<l id="209">J' pinc'rai l'oiseau.</l>
+	<l id="210">Pigeon rebelle,</l>
+	<l id="211">Près d' ma tourterelle</l>
+	<l id="212">Si tu bats d' l'aile,</l>
+	<l id="213">On le la coupera...</l>
+	<l id="214">Ah ! ah ! ah ! ah !</l>
+	<l id="215">Vilain oiseau...</l>
+	<l id="216">Oh ! oh ! oh ! oh !</l>
+	<l id="217">On t'en donn'ra...</l>
+	<l id="218">Ah ! ah ! ah ! ah !</l>
+	<l id="219">Quel est l'oiseau, </l>
+<stage type="repeat">etc.</stage>
+<p id="">
+	<s id="1">J'ai des éblouissements d'indignation ! </s>
+	<s id="2">Ça me donne des vertiges !... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Si je tenais n'importe qui !...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage type="entrance"> Belrose, Loquet, entrant aussi par la fenêtre.
+</stage>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, une bouteille sous chaque bras.
+</stage>
+<p id="1">
+	<s id="1">M'y voici ! </s>
+</p>
+<stage type="location/decor">Il descend dans la chambre.</stage>
+<p id="2">
+	<s id="1">La fenêtre ouverte... </s>
+	<s id="2">Une échelle... </s>
+	<s id="3">Bon ! </s>
+	<s id="4">Je suis en bonne fortune... </s>
+	<s id="5">C'est comme dans les romans... </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Voilà bien une autre histoire... </s>
+	<s id="8">Comment se trouve-t-il là ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="watch">, le voyant aussi.
+</stage>
+<stage type="sing">Chantant.</stage>
+	<l id="220">Quel est l'oiseau qui suit tes pas?...</l>
+<p id="3">
+	<s id="1">Encore ce petit Luquet !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="away/back/sing">, monte et descend le théâtre en fredonnant.
+	</stage>
+	<l id="221">Ta, ta, ta, tra la, tra la...</l>
+<stage type="aparte">À part. </stage>
+<p id="4">
+	<s id="1">Toujours et partout ce Belrose !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="5">
+	<s id="1">C't' enfant-là me donne des envies de taper dessus, qui fait frémir ! </s>
+	<s id="2">Soyons prudent, et de la douceur...</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="6">
+	<s id="1">Je ne soupçonnais pas, Monsieur, que le tiers-état se permît de grimper les échelles à l'heure qui sonne ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, embarrassé.
+</stage>
+<p id="7">
+	<s id="1">C'est vrai qu'on pourrait croire, et pourtant...</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="8">
+	<s id="1">Mon Dieu ! </s>
+	<s id="2">Mon Dieu ! </s>
+	<s id="3">Que j'ai c't' homme-là en horreur !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="9">
+	<s id="1">Est-ce encore pour apporter de la verroterie que vous vous introduisez ici fructivement ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="10">
+	<s id="1">C'est ça même... </s>
+	<s id="2">Vous voyez bien, deux échantillons de Bordeaux : c'est ce qu'on nomme les longs bouchons.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage>, prenant les deux bouteilles.
+</stage>
+<p id="11">
+	<s id="1">Verrier, vous ne devez débiter que des bouteilles vides, et celles-là sont pleines !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="12">
+	<s id="1">Bah ! </s>
+	<s id="2">Vous croyez ?... </s>
+	<s id="3">Alors c'est une erreur.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage>, débouchant une bouteille et vidant un verre.
+</stage>
+<p id="13">
+	<s id="1">Si c'est une erreur, il faut la réparer.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="14">
+	<s id="1">Eh ben ! eh ben ! </s>
+	<s id="2">Vous buvez mon vin !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="15">
+	<s id="1">Oui, à votre santé.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="16">
+	<s id="1">C'est très malhonnête !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage>, après avoir bu.
+</stage>
+<p id="17">
+	<s id="1">C'est comme une aune de velours qui vous passe dans le gosier... </s>
+	<s id="2">Écoutez, je trouve que votre présence est superflue et fastidieuse... </s>
+	<s id="3">Allez r'trouver maman.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="18">
+	<s id="1">Encore comme ce matin ?... </s>
+	<s id="2">Sergent, vous êtes bien insupportable !</s>
+</p> 
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="19">
+	<s id="1">La différence, vous, c'est que vous êtes horriblement  embêtant !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="20">
+	<s id="1">Eh ben ! </s>
+	<s id="2">Pour lors, si vous me laissiez tranquille... </s>
+	<s id="3">Je ne vous retiens pas ici, moi.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="21">
+	<s id="1">Ni moi non plus.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="22">
+	<s id="1">Un plan !... </s>
+	<s id="2">Rusons à mon tour!... </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="23">
+	<s id="1">Sergent, savez-vous que j'ai réfléchi à ce que vous m'avez dit sur les Colonies ?... </s>
+	<s id="2">J'ai envie de m'engager... </s>
+	<s id="3">Je suis tout_à_fait décidé... </s>
+	<s id="4">Allez me chercher le recruteur tout de suite.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="stress">, avec intention.
+</stage>
+<p id="24">
+	<s id="1">Il faut que vous vous y transportiez ensemble avec moi.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="25">
+	<s id="1">Bon, je le quitterai en chemin, et je reviendrai quand je m'en serai débarrassé.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="26">
+	<s id="1">Allons, marchons, mon brave !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="open">, ouvrant.
+</stage>
+<p id="27">
+	<s id="1">Après vous, jeune verrier. </s>
+</p>
+<stage type="exit/close">Luquet sort le premier. - Belrose ferme la porte sur lui.</stage>
+<p id="28">
+	<s id="1">Excusez si je ne vous reconduis pas. </s>
+	<s id="2">V'la trois marches... </s>
+	<s id="3">Prenez la rampe.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="knock">, frappant.
+</stage>
+<p id="29">
+	<s id="1">Sergent ! </s>
+	<s id="2">Sergent !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="30">
+	<s id="1">Il fait du train, on va venir ! </s>
+	<s id="2">Il faut me cacher... sous cette table... </s>
+	<s id="3">Pas possible... je ne tiendrai pas, je suis trop bel homme !... </s>
+	<s id="4">Ah ! </s>
+	<s id="5">À_bas, près de la porte, v'là c'qu'il me faut.</s>
+</p>
+<stage type="location/furniture/hesitate">Il se dirige d'un pas chancelant vers le lit, et disparaît dans la ruelle.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Madame Grégoire ; puis Luquet, frappant en dehors.
+</stage>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">On a frappé, je crois... </s>
+</p>
+<stage type="open">Elle ouvre.</stage>
+<p id="2">
+	<s id="1">C'est vous, Monsieur_Luquet?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="3">
+	<s id="1">Eh quoi ! </s>
+	<s id="2">Il n'y est plus... </s>
+	<s id="3">Il sera sorti par là.</s>
+</p>
+<stage type="show">Indiquant la fenêtre.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="4">
+	<s id="1">Soyez le bienvenu.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="5">
+	<s id="1">Dieu ! </s>
+	<s id="2">Comme mon coeur bat !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="6">
+	<s id="1">Qu'est-ce que vous avez ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="7">
+	<s id="1">Deux couverts !... </s>
+	<s id="2">Oh ! la, la, la, le tic-tac!</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="8">
+	<s id="1">Est-ce que vous ne m'avez pas demandé de souper en tête-à-tête avec moi ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="9">
+	<s id="1">Si fait, si fait... </s>
+	<s id="2">Mais, voyez-vous, c'est la première fois que je me trouve aussi tard avec une personne du sexe : ça me fait un drôle d'effet ! </s>
+	<s id="3">Imaginez-vous que j'ai joué un tour à maman ; elle me croit dans mon lit depuis deux heures ; mais pas si bête... </s>
+	<s id="4">J'ai gagné la servante, en lui faisant cadeau d'une paire de jarretières, et elle m'a ouvert la porte quand tout le monde a été couché... </s>
+	<s id="5">Dieu ! </s>
+	<s id="6">Si maman savait où je suis !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="10">
+	<s id="1">Elle vous mettrait en pénitence ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, timidement.
+</stage>
+<p id="11">
+	<s id="1">Oh ! oh ! </s>
+	<s id="2">Madame Grégoire!</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="12">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="13">
+	<s id="1">Rien... c'est quand je vous regarde... </s>
+	<s id="2">Brr ! brr !... </s>
+	<s id="3">Mais ça va se passer.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="14">
+	<s id="1">Pauvre innocent !... </s>
+	<s id="2">Il n'est pas à craindre, celui-là.</s>
+</p>
+<stage type="title">AIR. Lisez-vous bien ?</stage>
+	<l id="222">Allons, n'ayez pas peur.</l>
+	<l id="223">Pourquoi cette frayeur?</l>
+<stage type="aparte">À part.</stage>
+	<l id="224">Mon Dieu ! Qu'il a l'air bête !</l>
+<stage type="loud">Haut.</stage>
+	<l id="225">Quoi ! Vous tremblez déjà ?</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="226">On est toujours comm' ça</l>
+	<l id="227">Au premier tête-à-tête.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="228" syll="3" part="i">Approchez...</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="228" syll="1" part="f">Non.</l>
+	<l id="229">J'en perdrai la raison.</l>
+<stage type="aparte">À part.</stage>
+	<l id="230">Mais un peu de courage...</l>
+<stage type="closer">Il s'avance.</stage>
+	<l id="231">Prenons sa main,</l>
+	<l id="232">Ça va m' mettre en bon ch'min</l>
+	<l id="233">Pour mon apprentissage.</l>
+<stage type="get">Il lui prend la main. - Madame Grégoire le regarde. - Il la quitte aussitôt.</stage>
+<stage type="together">ENSEMBLE.</stage>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="234">Il me semble que j'ai moins peur.</l>
+	<l id="235">Allons, plus de frayeur...</l>
+	<l id="236">J' dois avoir l'air si bête !</l>
+	<l id="237">Quelqu' chose me dit là</l>
+	<l id="238">Qu'il n' faut pas êtr' comm' ça</l>
+	<l id="239">Quand on s' trouv' tête à tête.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="240">Allons, </l>
+<stage type="repeat">etc.</stage>
+	<l id="241">Il n' faut pas êtr' comm' ça</l>
+	<l id="242">Quand on s' trouv' tête à tête.</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="15">
+	<s id="1">Ma foi, tant pire, je me lance ; je vous aime au superlatif ; vous êtes d'une part, moi je je suis de l'autre... </s>
+	<s id="2">Enfin je ne sais plus ce que je dis ; mais pour mieux me faire comprendre, je vais vous embrasser.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">Par exemple ! </s>
+	<s id="2">Je voudrais bien voir ça !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="17">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Vous le verrez.</s>
+</p>
+<stage type="title">Même air.</stage>
+	<l id="243">Je veux vous embrasser.</l>
+	<l id="244">Ma peur vient de cesser...</l>
+	<l id="245">Je me sens intrépide !</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="246">Vraiment, j'ai peur de lui,</l>
+	<l id="247">Moi qui d'abord ai ri.</l>
+	<l id="248">D' son air gauche et timide.</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="249" syll="3" part="i">Un baiser ?</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="249" syll="1" part="f">Non,</l>
+	<l id="250">Pour ma réputation,</l>
+	<l id="251">Je n' veux pas qu'on le prenne.</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="252">Moi, justement,</l>
+	<l id="253">J'y tiens en ce moment,</l>
+	<l id="254">Pour établir la mienne.</l>
+<stage type="kiss">Il lui dérobe un baiser.</stage>
+<p id="18">
+	<s id="1">Attrape !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<stage type="speak">Parlé.</stage>
+<p id="19">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Monsieur.</s>
+</p>
+<stage type="together">ENSEMBLE.</stage>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, triomphant.
+	</stage>
+	<l id="255">Je viens de l'embrasser,</l>
+	<l id="256">Et vais recommencer...</l>
+	<l id="257">Je me sens intrépide!</l>
+	<l id="258">De ma peur elle a ri ;</l>
+	<l id="259">Mais maintenant, ici,</l>
+	<l id="260">C'est moi qui l'intimide.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="261">Il ose m'embrasser,</l>
+	<l id="262">Et peut recommencer;</l>
+	<l id="263">Car il est intrépide.</l>
+	<l id="264">Vraiment, j'ai peur de lui,</l>
+	<l id="265">Moi qui d'abord ai ri</l>
+	<l id="266">D' son air gauche et timide.</l>
+<stage type="kiss/knock">Luquet veut encore l'embrasser. - On frappe.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="20">
+	<s id="1">Entrez !... </s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="21">
+	<s id="1">C'est bien heureux!</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="22">
+	<s id="1">Comme c'est bête !... </s>
+	<s id="2">Ça commençait si bien !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Mêmes, D'Esparville, puis Fanchette.
+</stage>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="watch">, sans voir Luquet.
+</stage>
+<stage type="title">AIR. Me voilà !</stage>
+	<l id="267">Me voilà ! </l>
+<stage type="bis">Ter.</stage>
+	<l id="268">Joyeux convive,</l>
+	<l id="269">Ici j'arrive...</l>
+	<l id="270">Me voilà ! </l>
+<stage type="bis">Ter.</stage>
+	<l id="271">Voyons si tout est prêt déjà.</l>
+<stage type="watch">Il regarde la table.</stage>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, à part.
+</stage>
+<p id="1">
+	<s id="1">C'est bien agréable ! </s>
+	<s id="2">Voilà mon tête-à-tête flambé.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="watch">, l'apercevant.
+</stage>
+<p id="2">
+	<s id="1">Tiens ! </s>
+	<s id="2">C'est le petit verrier !... </s>
+	<s id="3">Qu'est-ce qu'il vient donc faire ici ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Il vient souper avec nous.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="low">, bas.
+</stage>
+<p id="4">
+	<s id="1">Avec nous !... </s>
+	<s id="2">Vous m'aviez dit que nous ne serions que deux.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Nous serons trois. </s>
+</p>
+<stage type="call">Appelant.</stage>
+<p id="6">
+	<s id="1">Fanchette ! </s>
+	<s id="2">Un couvert de plus !</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="7">
+	<s id="1">Me v'là, Madame. </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="8">
+	<s id="1">Ce n'est pas encore d'Auberval.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="9">
+	<s id="1">Diable ! </s>
+	<s id="2">Diable !... </s>
+	<s id="3">Ça ne m'arrange guère, ce trio-la.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="10">
+	<s id="1">Il bisque, le gros ; et moi aussi.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="11">
+	<s id="1">Savez-vous, Madame_Grégoire, que j'ai re fusé pour vous un souper délicieux, chez Beaujon, le fermier-général ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="12">
+	<s id="1">C'est bien gentil de votre part.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="13">
+	<s id="1">Nous nous réunissons comme cela une fois par semaine ; tous noms célèbres : Cagliostro, le Baron_d_Holbach, la petite Guimard, Adrienne_Lecouvreur, Monsieur_de_Bièvre, Monsieur_de_la_Palisse...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="interrupt">, l'interrompant.
+</stage>
+<p id="14">
+	<s id="1">Monsieur_de_la_Palisse ?... </s>
+	<s id="2">Monsieur_de_la_Palisse est mort.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="15">
+	<s id="1">Ce n'est pas celui-là !... </s>
+	<s id="2">Enfin tout ce qu'il y a de mieux ; l'Encyclopédie et le vin_de_Tokai ; le génie et la finance ; des philosophes vertueux et des danseuses de l'Opéra.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">Comment ! </s>
+	<s id="2">Vous avez laissé tout ce monde-là pour moi ?</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="17">
+	<s id="1">Tenez, d'Auberval était là quand j'ai fait dire à Beaujon qu'il ne m'aurait pas.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="18">
+	<s id="1">Est-ce que vous avez vu Monsieur_d_Auberval, ce soir ?</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="19">
+	<s id="1">Il n'y a qu'un moment, dans les coulisses de l'Opéra... Il était d'assez mauvaise humeur, pour je ne sais quel pas qu'on voulait lui faire danser malgré lui.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="20">
+	<s id="1">Quelle contrariété ! </s>
+	<s id="2">Il ne pourra pas venir.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="21">
+	<s id="1">Mais je crois qu'il est temps de dire deux mots au souper. </s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="22">
+	<s id="1">J'espère que ce petit nigaud décampera au dessert.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="23">
+	<s id="1">Je me flatte que ce gros glouton disparaîtra quand il n'y aura plus rien à manger.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="24">
+	<s id="1">Allons, allons, à table ! </s>
+</p>
+<stage type="sit/knock">Ils vont pour s'asseoir, on entend frapper. </stage>
+<p id="25">
+	<s id="1">Qu'est-ce que c'est que ça ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="26">
+	<s id="1">Si c'était maman !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="27">
+	<s id="1">Entrez.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, sans regarder.
+</stage>
+<p id="28">
+	<s id="1">Est-ce maman ?</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage type="dress"> Les mêmes; D'Aubebval, enveloppé d'un manteau.
+</stage>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage>, entrant.
+</stage>
+<p id="1">
+	<s id="1">Je n'entends plus rien ; j'ai cru qu'on me poursuivait.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="2">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est lui.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, regardant d'Auberval.
+</stage>
+<p id="3">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="watch">, même jeu.
+</stage>
+<p id="4">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="5">
+	<s id="1">Tiens !... </s>
+	<s id="2">Pourquoi donc êtes-vous ici, vous autres ?</s>
+</p>
+</sp>
+<sp who="TOUS DEUX"><speaker>TOUS DEUX.</speaker>
+<p id="6">
+	<s id="1">Pour souper.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="7">
+	<s id="1">Vrai !... </s>
+	<s id="2">Et moi aussi.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="8">
+	<s id="1">Comment, encore un ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="9">
+	<s id="1">C'est une surprise agréable que je vous ménageais.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="10">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est une surprise.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="11">
+	<s id="1">Sans doute : une femme en l'absence d'un mari peut bien profiter des privilèges d'une veuve ; mais pour sa réputation, elle ne doit donner des rendez-vous qu'en présence de témoins.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="toward">, aux autres.
+</stage>
+<p id="12">
+	<s id="1">Un mari... </s>
+	<s id="2">Je n'ai jamais connu Grégoire, moi.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="13">
+	<s id="1">Ni moi.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="14">
+	<s id="1">Ni moi aussi.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="aparte">, à part.
+</stage>
+<p id="15">
+	<s id="1">Elle se moque d'eux, c'est sûr. </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="16">
+	<s id="1">Enchanté de la rencontre, mon cher financier.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="17">
+	<s id="1">C'est moi qui suis ravi, transporté... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="18">
+	<s id="1">Que le diable l'emporte !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="wave">, saluant ridiculement.
+</stage>
+<p id="19">
+	<s id="1">Et moi donc, messieurs ! </s>
+	<s id="2">C'est un honneur, un bonheur...</s>
+</p>
+<stage type="touch">Il leur serre la main.</stage>
+<p id="20">
+	<s id="1">Voulez-vous bien me permettre... </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="21">
+	<s id="1">S'ils avaient pu se casser le cou en montant.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="22">
+	<s id="1">Ah çà ! </s>
+	<s id="2">D'Auberval, vous êtes donc sorcier ; je viens de vous laisser en Triton...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="23">
+	<s id="1">Eh parbleu ! </s>
+	<s id="2">J'y suis bien encore.</s>
+</p>
+<stage type="throw">Il jette son manteau et parait vêtu en Triton.</stage>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="24">
+	<s id="1">Oh ! </s>
+	<s id="2">Le beau poisson !... </s>
+	<s id="3">On parle de poisson, j'espère qu'en voilà un beau poisson.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="25">
+	<s id="1">Jeune homme, respect au fleuve Scamandre.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="26">
+	<s id="1">Messieurs, vous êtes servis !</s>
+</p>
+<stage type="sit/furniture">On se met à table.</stage>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+<stage type="title">AIR. Vive l'Italie.</stage>
+	<l id="272">Mes amis, vive la table !</l>
+	<l id="273">Grâce au banquet délectable.</l>
+	<l id="274">Du bon vin que l'on y sable,</l>
+	<l id="275">La beauté devient traitable.</l>
+	<l id="276">Vive la table !</l>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="27">
+	<s id="1">Figurez-vous que ces animaux-là voulaient me faire danser de force un pas ajouté au ballet_des_Éléments.. </s>
+	<s id="2">J'avais beau leur dire que j'avais ce soir des affaires de famille, pas moyen, ils ne voulaient pas me lâcher, c'est ce qui fait que je n'ai pas eu le temps de changer de costume.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="28">
+	<s id="1">Voilà une escapade qui pourrait bien vous mener au  Fort_l_Évêque.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="29">
+	<s id="1">Diable ! </s>
+	<s id="2">Je n'y avais pas pensé. </s>
+	<s id="3">À boire. </s>
+	<s id="4">Peste ! </s>
+	<s id="5">Une dinde de Périgord.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="30">
+	<s id="1">Bravo ! </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="31">
+	<s id="1">On me gêne dans mes amours ; eh bien ! </s>
+	<s id="2">Je me vengerai sur la dinde, je vais la dévorer !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="32">
+	<s id="1">Il me vient une idée : puisque je ne peux pas faire de phrases à ma bien-aimée, je lui donnerai de petits coups de pied par dessous la table : ça la flattera infiniment.</s>
+</p>
+<stage type="sit/work/location">Tout le monde s'est assis. - Fanchette, debout près de
+la table, est occupée à servir. - D Auberval découpe.</stage>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage>,remettant à Fanchette une assiette servie.
+</stage>
+<p id="33">
+	<s id="1">La fille, portez ça à M_d_Esp...</s>
+</p>
+<stage type="interrupt/watch">Il s'interrompt tout-à-coup en la regardant.</stage>
+<p id="34">
+	<s id="1">Tiens ! </s>
+	<s id="2">C'est singulier.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="35">
+	<s id="1">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="36">
+	<s id="1">Oh ! </s>
+	<s id="2">Rien... rien... </s>
+	<s id="3">Mais il me semble... Je cherche à me rappeler...</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="37">
+	<s id="1">Ah chà ! </s>
+	<s id="2">Quoiqu'il a donc à me regarder comme cha... che beau monsieur, avecque chez écailles ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="39">
+	<s id="1">Fanchette...</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="40">
+	<s id="1">Ah ! </s>
+	<s id="2">C'hest que j'aime pas qu'on me relu que comme une bête curieuse... </s>
+	<s id="3">Entendez-vous cha, mochieux Triton ?</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="toward">, à lui-même.
+</stage>
+<p id="41">
+	<s id="1">Oh ! </s>
+	<s id="2">Mais c'est inconcevable,et si ce n'était cet accent...</s>
+</p>
+<stage type="touch/furniture">Portant vivement la main sous la table.</stage>
+<p id="42">
+	<s id="1">Aïe ! </s>
+	<s id="2">Prenez donc garde, d_Esparville, vous me donnez des coups de pied dans les jambes.</s>
+</p>
+<stage type="watch/furniture/eat">Luquet baisse la tête sur son assiette, et dévore.</stage>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="43">
+	<s id="1">Moi ? </s>
+	<s id="2">Je mange. </s>
+</p>
+<stage type="wave/chair">Faisant un mouvement sur sa chaise.</stage>
+<p id="44">
+	<s id="1">Oh ! la ! la !... </s>
+	<s id="2">Pas de mauvaises plaisanteries. </s>
+	<s id="3">D'Auberval, vous m'estropiez à votre tour.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage>, à demi-voix, à madame Grégoire.
+</stage>
+<p id="45">
+	<s id="1">C'est moi, c'est moi.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="46">
+	<s id="1">Comment, c'est vous ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="47">
+	<s id="1">Non, non... c'est une erreur... </s>
+	<s id="2">Je voulais dire...</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="48">
+	<s id="1">Il parait que je me suis trompé d'adresse.</s>
+</p>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="49">
+	<s id="1">Madame, est-ce le moment pour ce que vous m'avez demandé ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="50">
+	<s id="1">Oui.</s>
+</p>
+<stage type="entrance">Fanchette entre dans le cabinet.</stage>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="51">
+	<s id="1">Quoi donc ? </s>
+	<s id="2">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="52">
+	<s id="1">Messieurs, vous ne pouvez vous figurer combien je suis contente de vous voir réunis ici tous les trois ; mais ce n'est pas la le seul plaisir que je vous réserve, et vous ne vous doutez pas que vous êtes tous venus ici pour une bonne action.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="aparte">, à part.
+</stage>
+<p id="53">
+	<s id="1">Par exemple ! </s>
+	<s id="2">Je m'attendais bien à venir ici pour quelque chose, mais pas pour ça.</s>
+</p>
+<stage type="laugh">Luquet se met à rire ridiculement.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="54">
+	<s id="1">Je m'intéresse beaucoup à une pauvre femme.</s>
+</p>
+<stage type="stress/watch">Avec intention, et regardant d_Esparville.</stage>
+<p id="55">
+	<s id="1">Dont le mari est très mauvais sujet.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="56">
+	<s id="1">Attrape !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="57">
+	<s id="1">Et j'ai que vous voudriez bien m'aider lui être utile.</s>
+</p>
+<stage type="show/get">Montrant Fanchette, qui rentre tenant à la main une roue de loterie, et une boîte de l'autre.</stage>
+<p id="58">
+	<s id="1">Voici une loterie où tous les numéros gagnent. </s>
+	<s id="2">J'ai divisé par lots quelques bagatelles, dont je destine  la produit à ma protégée... </s>
+	<s id="3">C'est à vous, messieurs, de faire le reste.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="59">
+	<s id="1">J'en suis ! </s>
+	<s id="2">J'en suis !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL, D'ESPARVILLE"><speaker>D'AUBERVAL et D'ESPARVILLE.</speaker>
+<p id="60">
+	<s id="1">Nous en sommes !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="61">
+	<s id="1">Quel bonheur ! </s>
+	<s id="2">J'aurais quelque chose d'elle .</s>
+</p>
+<stage type="drop">Mettant l'argent sur la table.</stage>
+<p id="62">
+	<s id="1">Voilà deux_écus de six_livres...</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="63">
+	<s id="1">, que maman m'a donné pour acheter un parapluie.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="64">
+	<s id="1">Tenez, tenez, voilà de l'or ; je n'ai jamais de monnaie blanche, moi.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="65">
+	<s id="1">Diable ! </s>
+	<s id="2">J'ai laissé ma bourse dans mon habit_de_ville...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<note type="L">Scamandre : fleuve qui descend du mont Ida et passait près de Troie. [T]</note>
+<p id="66">
+	<s id="1">Il est à sec, le fleuve Scamandre.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="67">
+	<s id="1">Dites donc, financier, mettez pour moi, je vous rendrai ça quand je serai en bourgeois et en fonds.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="68">
+	<s id="1">Voyons, Messieurs, qui est-ce qui commence ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="69">
+	<s id="1">Moi ! </s>
+	<s id="2">Moi ! </s>
+	<s id="3">J'ai la main heureuse.</s>
+</p>
+<stage type="title">AIR. Change-moi Brama.</stage>
+	<l id="277">Tournez, tournez donc ;</l>
+	<l id="278">Le bonheur est au fond.</l>
+	<l id="279">Je le parie</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="280">Vous saurez bientôt</l>
+	<l id="281">Gagner à cette loterie</l>
+	<l id="282">La meilleur lot !</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="70">
+	<s id="1">Numéro_9.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="give">, lui donnant un petit livre.
+</stage>
+<p id="71">
+	<s id="1">Voilà ce qui vous r'vient.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="72">
+	<s id="1">Un livre ! </s>
+	<s id="2">Qu'est ce qu'il contient ?</s>
+</p>
+<stage type="open/read">Il l'ouvre et lit.</stage>
+<p id="73">
+	<s id="1">«  Le novice en amour. »</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL, D'ESPARVILLE"><speaker>D'AUBERVAL et D'ESPARVILLE.</speaker>
+<p id="74">
+	<s id="1">Ah ! </s>
+	<s id="2">Le bon tour !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="75">
+	<s id="1">C'est un conte moral.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="76">
+	<s id="1">Qui n'vous convient pas mal.</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL, D'ESPARVILLE"><speaker>D'AUBERVAL et D'ESPARVILLE.</speaker>
+<p id="77">
+	<s id="1">A-t-il l'air courroucé !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="78">
+	<s id="1">Je suis vexé ! </s>
+</p>
+<stage type="together">ENSEMBLE.</stage>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage>, reprenant.
+	</stage>
+	<l id="283">Tournez, tournez, donc,</l>
+	<l id="284">Moi le second ;</l>
+	<l id="285">J'ai l'espérance</l>
+	<l id="286">Que ma main aura</l>
+	<l id="287">Sans doute une meilleure chance</l>
+	<l id="288">À ce jeu là.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="289">Tournons, tournons donc,</l>
+	<l id="290">Vous le second ;</l>
+	<l id="291">J'ai l'espérance</l>
+	<l id="292">Que ma main aura</l>
+	<l id="293">Sans doute une meilleure chance</l>
+	<l id="294">À ce jeu là.</l>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="79">
+	<s id="1">Numéro_13.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="295" syll="4" part="i">C'est un portrait.</l>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+	<l id="295" syll="2" part="f">Vraiment ?</l>
+<stage type="aparte">À part.</stage>
+	<l id="296">Le sien apparemment.</l>
+	<l id="297">Ah ! Quel présent </l>
+	<l id="298">Charmant</l>
+	<l id="299">Pour un amant !</l>
+<stage type="watch">Il regarde le portrait.</stage>
+	<l id="300">Mais que vois-je ? Grands dieux !</l>
+	<l id="301">Ma femme ! C'est affreux !</l>
+	<l id="302">Le tour est déplacé.</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, à part.
+</stage>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="anger">, en colère.
+</stage>
+<stage type="speak">Parlé</stage>
+<p id="80">
+	<s id="1">Ma femme en loterie ! </s>
+	<s id="2">Madame_Grégoire, je vous sommes de m'expliquer.</s>
+</p>
+<stage type="together">ENSEMBLE.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE et D'AUBERVAL"><speaker>MADAME GRÉGOIRE et D'AUBERVAL.</speaker>
+<poem type="chanson">
+<lg n="1">
+	<l id="303">Tournons, tournons donc,</l>
+	<l id="304">Qu'un heureux donc</l>
+	<l id="305">Enfin nous vienne ;</l>
+	<l id="306">Votr' main choisira,</l>
+	<l id="307">Et gagnera</l>
+	<l id="308">Mieux que la sienne</l>
+	<l id="309">À ce jeu là.</l>
+</lg>
+<lg n="2">
+	<l id="310">Tournez, tournez donc,</l>
+	<l id="311">Qu'un heureux donc</l>
+	<l id="312">Enfin me vienne ;</l>
+	<l id="313">Ma main choisira,</l>
+	<l id="314">Et gagnera</l>
+	<l id="315">Mieux que la sienne</l>
+	<l id="316">À ce jeu là.</l>
+</lg>
+</poem>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="81">
+	<s id="1">Numéro_11</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+	<l id="317">C'est un beau souvenir</l>
+	<l id="318">Hâtez vous de l'ouvrir.</l>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage>, l'ouvrant.
+	</stage>
+	<l id="319">Quoi ! L'extrait</l>
+	<l id="320">D'un arrêt</l>
+	<l id="321">Du Châtelet ?</l>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="read">, lisant par-dessus son épaule.
+	</stage>
+	<l id="322">« À l'actrice Dubois</l>
+	<l id="323">D'Auberval, dans un mois,</l>
+	<l id="324">De s'unir est forcé. »</l>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+	<l id="325">C'est l' plus vexé !</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="82">
+	<s id="1">Messieurs, si vous voulez continuer, il y a encore beaucoup de choses à gagner...</s>
+</p>
+</sp>
+<sp who="TOUS TROIS"><speaker>TOUS TROIS.</speaker>
+<p id="83">
+	<s id="1">Merci !</s>
+</p>
+<stage type="repeat">REPRISE.</stage>
+	<l id="326">C'est une leçon</l>
+	<l id="327">Qui nous confond.</l>
+	<l id="328">Ah ! je le jure,</l>
+	<l id="329">On s'en souviendra;</l>
+	<l id="330">Mais nul de nous de l'aventure</l>
+	<l id="331">Ne parlera.</l>
+</sp>
+<sp who="FANCHETTE, MADAME GRÉGOIRE"><speaker>FANCHETTE et MADAME GRÉGOIRE.</speaker>
+	<l id="332">C'est une leçon</l>
+	<l id="333">Qui les confond.</l>
+	<l id="334">Ah ! je le jure,</l>
+	<l id="335">On s'en souviendra,</l>
+	<l id="336">Et nul d'entre eux de l'aventure</l>
+	<l id="337">Ne parlera.</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="get">, prenant l'argent.
+</stage>
+<p id="84">
+	<s id="1">Tenez, Fanchette, vous remettrez cela de notre part à la femme du falot.</s>
+</p>
+<stage type="give">Elle le lui donne.</stage>
+</sp>
+<sp who="FANCHETTE"><speaker>FANCHETTE.</speaker>
+<p id="85">
+	<s id="1">Bien obligé, messieurs.</s>
+</p>
+<stage type="exit/hurry/laugh/location">Elle sort précipitamment, en riant aux éclats, par la porte qui conduit au-dehors.</stage>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="watch/exit">, la regardant sortir.
+</stage>
+<p id="86">
+	<s id="1">Serais-je mystifié ?</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="87">
+	<s id="1">Ah çà ! Madame_Grégoire...</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="88">
+	<s id="1">Qui vous a remis ce portrait ?</s>
+</p>
+<stage type="knock/location">En ce moment on frappe très fort à la porte du fond.</stage>
+</sp>
+<sp who="UNE VOIX"><speaker>UNE VOIX</speaker><stage type="location">, en dehors.
+</stage>
+<p id="89">
+	<s id="1">Ouvrez, au nom du roi !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="90">
+	<s id="1">Silence !</s>
+</p>
+<stage type="title">AIR. Entendez-vous ?</stage>
+	<l id="338">Entendez-vous ? </l>
+<stage type="bis">Bis.</stage>
+	<l id="339">C'est la garde qui veut qu'on ouvre.</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="340">Si dans ces lieux on nous découvre,</l>
+	<l id="341">Le danger nous menace tous.</l>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL</speaker><stage type="location">, en dehors.
+</stage>
+<p id="92">
+	<s id="1">Ouvrez !</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="93">
+	<s id="1">Gardez-vous-en bien !... Quel scandale pour la finance ! Et ma femme !...</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="94">
+	<s id="1">Et maman !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<note type="L">For-l'Évêque : prison de Paris de 1222 à 1783 qui était située au 19 rue Saint-Germain l'Auxerrois.</note>
+<p id="95">
+	<s id="1">Et le For-l'Évêque !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="96">
+	<s id="1">Encore un trait de Belrose... </s>
+	<s id="2">Mon_Dieu ! </s>
+	<s id="3">Mon_Dieu ! </s>
+	<s id="4">Que faire ?... </s>
+	<s id="5">Ah !</s>
+</p>
+<stage type="show/furniture">Montrant son lit.</stage>
+<stage type="title">Suite de l'air.</stage>
+	<l id="342">Tenez, ici l'on ne vous verra pas.</l>
+<stage type="title">À part.</stage>
+	<l id="343">En cacher un ce serait bien coupable ;</l>
+	<l id="344">Mais quelque chose ici me dit tout bas :</l>
+	<l id="345">En cacher trois ce n'est que charitable.</l>
+<stage type="knock">On frappe de nouveau.</stage>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="346">Entendez-vous ?</l>
+<stage type="bis">Bis.</stage>
+	<l id="347">C'est toujours la garde qui frappe.</l>
+	<l id="348">Quel malheur si l'on nous attrape !</l>
+	<l id="349">Ah ! bien vite ici cachons-nous !</l>
+<stage type="location">Ils passent tous les trois derrière le lit.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="toward/konck">, au caporal, qui frappe toujours.
+</stage>
+<p id="97">
+	<s id="1">Un instant ! </s>
+	<s id="2">On y va. </s>
+</p>
+<stage type="watch/furniture">Regardant du côté du lit.</stage>
+<p id="98">
+	<s id="1">Bien, je puis ouvrir maintenant.</s>
+</p>
+<stage type="open">Elle ouvre la porte.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les Mêmes, cachés ; Madame
+Grégoire, Le Caporal, Soldats du guet. 
+</stage> 
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte/frighten">, à part, avec crainte.
+</stage>
+<p id="1">
+	<s id="1">Ce n'est pas Belrose !... </s>
+	<s id="2">Tenons-nous bien.</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL</speaker><stage type="entrance">, en entrant.
+</stage>
+<p id="2">
+	<s id="1">Que diable ! </s>
+	<s id="2">La petite mère, vous faites bien des cérémonies. </s>
+	<s id="3">Ah ! </s>
+	<s id="4">J'étais sûr que je vous y prendrais... </s>
+	<s id="5">Une table, un souper, et des lumières à une heure indue ; vous êtes en flagrant_délire !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="3">
+	<s id="1">Par exemple ! </s>
+	<s id="2">Est-ce que je ne suis pas libre de souper chez moi à toute heure ?</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="4">
+	<s id="1">Et d'y recevoir du monde, pas vrai, malgré les règlements</s>
+</p> ?
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="5">
+	<s id="1">Vous voyez bien que je suis seule.</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="6">
+	<s id="1">Vous êtes seule, et vous êtes quatre couverts !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="7">
+	<s id="1">Je soupais... avec mes servantes.</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="8">
+	<s id="1">C'est bon ! </s>
+	<s id="2">C'est bon ! </s>
+	<s id="3">Je ferai mon rapport au sergent Belrose, qui m'a chargé d'avoir l'oeil sur vous.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, avec impatience.
+</stage>
+<p id="9">
+	<s id="1">Allez vous promener !... </s>
+	<s id="2">Je vous répète qu'il n'y a personne ici... d'ailleurs, regardez-y vous-même.</s>
+</p>
+<stage type="open/location">Elle ouvre la porte du cabinet.</stage>
+<p id="10">
+	<s id="1">Entrez, entrez.</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="11">
+	<s id="1">Plus souvent ! </s>
+	<s id="2">Pour me faire coffrer comme le sergent, à ce matin ; je vais seulement insinuer un coup d'oeil dans le cabinet. </s>
+	<s id="3">Vous autres, gardez scrupuleusement les issues.</s>
+</p> 
+<stage type="watch">Il regarde dans le cabinet, dont Madame Grégoire a ouvert la porte.</stage> 
+<p id="12">
+	<s id="1">Pas le moindre individu.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="13">
+	<s id="1">Quand je vous le disais...</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="14">
+	<s id="1">Pour lors, il faut filer. </s>
+</p>
+<stage type="watch/furniture">Regardant la table.</stage>
+<p id="15">
+	<s id="1">Mais c'est égal, vous mangez toujours de fameuses dindes avec vos servantes...</s>
+</p>
+<stage type="toward">Aux soldats.</stage>
+<p id="16">
+	<s id="1">Demi-tour à droite, et allons manger nos pommes de terre.</s>
+</p>
+<stage type="exit/snore">Au moment où ils veulent sortir, on entend un ronflement très fort qui part du lit.</stage>
+<p id="17">
+	<s id="1">Oh ! oh ! </s>
+	<s id="2">Minute, écoutez.</s>
+</p>
+<stage type="snore">Nouveau ronflement.</stage>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage>, à part.
+</stage>
+<p id="18">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon Dieu !</s>
+</p>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL</speaker><stage type="entrance">, rentrant.
+</stage>
+<p id="19">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est comme ça qu'il n'y a personne ici !</s>
+</p>
+<stage type="show/furniture">Il se dirige vers le lit, ouvre le rideau, et laisse voir Belrose dans l'attitude d'un homme réveillé en sursaut. - D'Esparville, au fond, dans la ruelle. - D'Auberval, dessous, laisse voir sa tête ; - et Luquet paraît au-dessus du lit, sur le baldaquin. - Tableau.</stage>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL.</speaker>
+<p id="20">
+	<s id="1">Quatre coupables !</s>
+</p>
+</sp>
+<sp who="CHOEUR GÉNÉRAL"><speaker>CHOEUR GÉNÉRAL.</speaker>
+<stage type="title">AIR. Je vous rends votre parole (Fausse Agnès).</stage>
+	<l id="350">Ah ! Grand Dieu ! Que de scandale !</l>
+	<l id="351">Cette aventure fatale</l>
+	<l id="352">Aux médisants nous signale !</l>
+	<l id="353">Nous voilà surpris</l>
+	<l id="354">Et pris !</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Les Mêmes, Garçons, Servantes,
+Voisins, Voisines, tenant des flambeaux, et entrant par les deux portes. 
+</stage> 
+<sp who="LE CHOEUR"><speaker>REPRISE DU CHOEUR.</speaker>
+	<l id="355">Ah ! Grand Dieu ! Que de scandale !</l>
+	<l id="356">Cette aventure fatale</l>
+	<l id="357">Aux médisants la signale !</l>
+	<l id="358">Les voilà surpris</l>
+	<l id="359">Et pris !</l>
+<stage type="location">Pendant ce choeur, Belrose et d'Esparville, d'Auberval et Luquet, ont quitté l'endroit où ils étaient cachés, et ont redescendu la scène.</stage>
+</sp>
+<sp who="LE CAPORAL"><speaker>LE CAPORAL</speaker><stage type="touch">, sa main à son chapeau.
+</stage>
+<p id="21">
+	<s id="1">C'est le sergent !</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="22">
+	<s id="1">Vous ici, Monsieur_Belrose ?... </s>
+	<s id="2">Quelle audace !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="23">
+	<s id="1">Je m'étais endormi sans le vouloir et sans le savoir.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="24">
+	<s id="1">Je ne vous aurais jamais cru capable...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="25">
+	<s id="1">Ni vous non plus, Madame_Grégoire... </s>
+	<s id="2">Mais il va t'y avoir une explication...</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="26">
+	<s id="1">Ô ma femme !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="aparte">, même jeu.
+</stage>
+<p id="27">
+	<s id="1">Ô maman !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="aparte">, même jeu.
+</stage>
+<p id="28">
+	<s id="1">Ô le For-l'Évêque!</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="29">
+	<s id="1">Maintenant pourrait-on savoir ce qu'est venu faire ici ce trio nocturne ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="30">
+	<s id="1">Eh ! </s>
+	<s id="2">Mon_Dieu ! </s>
+	<s id="3">C'est tout bonnement la suite d'un acte de bienfaisance.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="32">
+	<s id="1">Laissez donc ! </s>
+	<s id="2">La finance, la verrerie et la mythologie, c'est de l'amphibologie. </s>
+	<s id="3">D'abord, pourquoi ce fleuve a-t-il quitté son lit ?</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="33">
+	<s id="1">Bien de plus simple, et je vais vous dire...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Les mêmes ; Le Falot, avec sa
+lanterne ; il est à moitié gris. 
+</stage> 
+<sp who="LE FALOT"><speaker>LE FALOT</speaker><stage type="entrance">, en entrant.
+</stage>
+<p id="1">
+	<s id="1">Place ! place ! place ! </s>
+	<s id="2">Où est-elle, c'te brave dame, pour que je la contemple pour la remercier...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<note type="L">Lampion : Terme de marine. Petite lampe dont on se sert lorsqu'on va dans les soutes aux poudres. [L]</note>
+<p id="2">
+	<s id="1">Que nous veut cet ivrogne, avec son lampion ?</s>
+</p>
+</sp>
+<sp who="LE FALOT"><speaker>LE FALOT.</speaker>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Madame_Grégoire, quel trait magnifique ! </s>
+	<s id="3">Les v'ià, ces jaunets que vous m'avez envoyés pour ma pauvre femme.... je lui.... donnerai tout, excepté ce... que je boirai.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="4">
+	<s id="1">Qui t'a donc remis c't' argent ?</s>
+</p>
+</sp>
+<sp who="LE FALOT"><speaker>LE FALOT.</speaker>
+<p id="5">
+	<s id="1">Eh bien ! </s>
+	<s id="2">La personne que v'là !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage type="costume"> Les mêmes ; Mademoiselle Dubois,en grande toilette. 
+</stage> 
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="1">
+	<s id="1">Que vois-je ? </s>
+	<s id="2">Fanchette !</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="2">
+	<s id="1">Mademoiselle_Dubois !</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="3">
+	<s id="1">Mademoiselle_Dubois !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="quick">, vivement.
+</stage>
+<p id="4">
+	<s id="1">La_Dubois, l'actrice ?</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS.</speaker>
+<p id="5">
+	<s id="1">Oui, messieurs, elle-même, qui, sous l'habit de Fanchette, était bien aise de surveiller Monsieur_d_Auberval, contre lequel elle a obtenu sentence. </s>
+	<s id="2">Je vous félicite tous les trois du bonheur que vous avez à la loterie.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="6">
+	<s id="1">Ah ! </s>
+	<s id="2">Tout s'éclaircit ! </s>
+	<s id="3">On s'est moqué de nous.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="7">
+	<s id="1">Ça me fait cet effet-là.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS.</speaker>
+<p id="8">
+	<s id="1">J'espère que Madame_Grégoire voudra bien me pardonner de m'être introduite chez elle.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="9">
+	<s id="1">J'en suis d'autant plus contente, que vous avez été témoin de tout ce qui s'est passé.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="10">
+	<s id="1">Vous avez beau dire, Madame_Grégoire, votre situation est très délicate.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="quick">, vivement.
+</stage>
+<p id="11">
+	<s id="1">Comment, Monsieur ?...</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="12">
+	<s id="1">Nous, c'est bien : mais monsieur, là-bas, qui ne dit rien ?...</s>
+</p>
+<stage type="show">Il montre Belrose.</stage>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="13">
+	<s id="1">Oui, oui, le ronfleur...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL.</speaker>
+<p id="14">
+	<s id="1">Qu'est ce qu'il venait faire ici, à son tour ?</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS.</speaker>
+<p id="15">
+	<s id="1">Il est vrai que la rencontre est singulière, et difficile à expliquer.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE.</speaker>
+<p id="16">
+	<s id="1">J'en pleurerais de dépit !... </s>
+	<s id="2">Me voilà compromise devant tout le monde.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="17">
+	<s id="1">Tant mieux ! </s>
+	<s id="2">Frappons le dernier coup.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="embarrassed">, avec embarras.
+</stage>
+<p id="18">
+	<s id="1">Messieurs, je vous assure...</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="19">
+	<s id="1">Madame Grégoire, il n'y a qu'un moyen plausible, c'est de cesser de feindre.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="20">
+	<s id="1">Que veut-il dire ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="21">
+	<s id="1">Messieurs, jusqu'en ce jour on m'a crû ce que je ne suis pas, et on ne m'a pas crû ce que je suis !... </s>
+	<s id="2">Si j'ai pénétré dans ce domicile, c'est que j'en ai le droit... </s>
+	<s id="3">La réputation de la cabaretière est intacte ! </s>
+	<s id="4">Je le soutiens et je le prouve ; car je suis son mari.</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="22">
+	<s id="1">Son mari !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="low/toward">, bas à Madame Grégoire.
+</stage>
+<p id="23">
+	<s id="1">Si vous le voulez.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte/estonish">, étonnée, à part.
+</stage>
+<p id="24">
+	<s id="1">Ah ! </s>
+	<s id="2">Par exemple !</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE</speaker><stage type="low/toward">, bas à Madame Grégoire.
+</stage>
+<p id="35">
+	<s id="1">Vous êtes perdue si vous reculez.</s>
+</p>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="36">
+	<s id="1">Allons !.. </s>
+	<s id="2"> Il le faut ; mais il me le paiera... </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="37">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Oui, messieurs,</s>
+</p>
+<stage type="touch">Donnant la main à Belrose.</stage>
+<p id="38">
+	<s id="1">... voilà mon mari.</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="39">
+	<s id="1">Grégoire, dit Belrose !</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="40">
+	<s id="1">J'ai triomphé comme le vainqueur de Mahon !</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="41">
+	<s id="1">Mais si vous êtes son mari, pourquoi ne nous l'avez jamais dit ?</s>
+</p>
+</sp>
+<sp who="BELROSE"><speaker>BELROSE.</speaker>
+<p id="42">
+	<s id="1">Ça, c'est des affaires de ménage qui ne regarde personne. </s>
+	<s id="2">Si vous n'êtes pas encore content, je le suis, moi, et je vous en rendrai raison... quand ça me fera plaisir.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="43">
+	<s id="1">Ce n'est pas la peine.</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS</speaker><stage type="toward">, à d'Esparville.
+</stage>
+<p id="44">
+	<s id="1">Mon cher financier, le carrosse de Madame_d_Esparville est en bas.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET</speaker><stage type="laugh">, riant.
+</stage>
+<p id="45">
+	<s id="1">Oh ! </s>
+	<s id="2">Bravo ! </s>
+	<s id="3">Bravo ! </s>
+	<s id="4">La Dubois.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="46">
+	<s id="1">Ma femme est prévenue... </s>
+	<s id="2">Je suis anéanti !</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS.</speaker>
+<p id="47">
+	<s id="1">Monsieur Luquet, votre maman vous envoie une chaisse à porteurs.</s>
+</p>
+</sp>
+<sp who="LUQUET"><speaker>LUQUET.</speaker>
+<p id="48">
+	<s id="1">Maman sait tout !... </s>
+	<s id="2">Quelle dame je vais recevoir !</s>
+</p>
+</sp>
+<sp who="MADEMOISELLE DUBOIS"><speaker>MADEMOISELLE DUBOIS.</speaker>
+<p id="49">
+	<s id="1">Quant à vous, Monsieur_d_Auberval, vous savez que vous êtes condamné...</s>
+</p>
+</sp>
+<sp who="D'AUBERVAL"><speaker>D'AUBERVAL</speaker><stage type="kiss">, lui baisant la main. 
+</stage>
+<p id="50">
+	<s id="1">Je n'en appellerai pas ! </s>
+	<s id="2">Nous ferons le repas de noce à la_Pomme-de-pin.</s>
+</p>
+</sp>
+<sp who="D'ESPARVILLE"><speaker>D'ESPARVILLE.</speaker>
+<p id="51">
+	<s id="1">Bravo ! </s>
+	<s id="2">Nous en serons tous ! </s>
+	<s id="3">Et vous, belle Grégoire, votre nom deviendra célèbre, et, quelque jour peut-être, un nouveau Collé dire de vous :</s>
+</p>
+<stage type="title">VAUDEVILLE.</stage>
+<stage type="title">AIR. Le gros Thomas.</stage>
+	<l id="360">« C'était de notre Temps</l>
+	<l id="361">Que brillait Madame_Grégoire</l>
+	<l id="362">J'allais, à vingt ans,</l>
+	<l id="363">À son cabaret rire et boire.</l>
+	<l id="364">Elle attirait les gens</l>
+	<l id="365">Par des airs engageants.</l>
+	<l id="366">Plus d'un blondin_à_taille_fine</l>
+	<l id="367">Avait là crédit sur la mine...</l>
+	<l id="368">Ah ! Comme on entrait</l>
+	<l id="369">Boire à son cabaret ! »</l>
+</sp>
+<sp who="MADAME GRÉGOIRE"><speaker>MADAME GRÉGOIRE</speaker><stage type="toward">, au public.
+	</stage>
+	<l id="370">« À la_Pomme-de-pin</l>
+	<l id="371">V'nait jadis la cour et la ville,</l>
+	<l id="372">Changeant de destin,</l>
+	<l id="373">C' cabaret se r'trouve au Vaudeville</l>
+	<l id="374">Madam' Grégoire aussi</l>
+	<l id="375">Vient s'établir ici ;</l>
+	<l id="376">À chacun sa porte est ouverte,</l>
+	<l id="377">À chacun sa table est offerte...</l>
+	<l id="378">N'nez tous sans apprêt </l>
+	<l id="379">Rire à son cabaret.  »</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

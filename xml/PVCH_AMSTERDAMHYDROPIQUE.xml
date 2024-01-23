@@ -1,0 +1,1810 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AMSTERDAM HYDROPIQUE, COMÉDIE</title>
+				<author type="texte" ISNI="">P.V.C.H.</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, octobre 2022.</editor>
+				<publisher>Publié par Paul FIEVRE, novembre 2022.</publisher>
+				<idno>PVCH_AMSTERDAMHYDROPIQUE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Trois actes</structure>
+				<type>vers</type>
+				<periode>1671-1680</periode>
+				<taille>1000-1250</taille>
+				<permalien cote="BnF ASP 8-RF-5314"/>
+				<keywords>
+					<keyword type="genre">satire politique</keyword>
+				</keywords>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">AMSTERDAM HYDROPIQUE</titlePart>
+			<titlePart type="sub">COMÉDIE BURLESQUE </titlePart>
+		</docTitle> 
+		<docDate value="1673">M. DC. LXXIII.</docDate>
+		<docAuthor id="P.V.C.H.">P. V. C. H.</docAuthor>
+		<docImprint>
+			<printer id="BARBIN">À PARIS, Chez CLAUDE BARBIN, au Palais sur le Perron de la Sainte-Chapelle.</printer>
+		</docImprint>
+	<div type="preface"><head>AU LECTEUR</head>
+		<p>Je ne veux pas te donner la peine de censurer cette pièce, je la condamne moi-même, et t'avoue que je n'ai pas dû permettre qu'elle fut sous la Presse ; je sais que la comédie demande un autre vers que le burlesque, que ce genre d'écrire est trop bas pour le théâtre, et que la bienséance semblait me défendes d'une faire rendre un autre lavement : ses règles ne me sont pas inconnues, et j'ose me flatter que j'y pourrais peut-être réussir je voulais y donner une sérieuse application. Le zèle pourtant que j'ai pour la gloire de mon Prince m'a fait entreprendre une production de cette nature ; j'ai bien osé prendre la hardiesse de mêler la faiblesse de ma Plume avec la grandeur de ses Armes pour me jouer de ses ennemis, et j'ai cru que je ne pouvais faire une peinture assez facétieuse des personnes, que leur insolence a leur peu de conduite ont fait devenir la moquerie de toute la Terre. C'est donc un juste caprice qui m'a inspiré cette saillie ; je l'ai poussée pour te divertir plutôt que pour le donner matière de gloser, et si tu ne la traites pas avec toute la rigueur qu'elle mérite, tu m'obligeras d'en produire une autre sur le même sujet, qui te donnera, peut-être, plus de satisfaction : Ce sera la mort du Malade que je te présente ; je me hasarde de te la promettre, puis qu'il est aux abois, en qu'il est impossible qu'il relève de la maladie dont il est atteint ; je m'efforcerai de te satisfaire mieux que je n'ai pas fait, ce ce ne sera plus du burlesque mais de sérieux, dont j'aurai l'honneur de te faire part. Conserve moi dans ton estime, et sois je te prie, persuadé que je suis tout à toi,</p>
+		<signature>P. V. C. H.</signature>
+	</div>
+
+	<div type="poem"><head>SONNET SÉRIEUX de l'Autheur AUX HOLLANDAIS.</head>
+		<poem type="sonnet">
+		<lg n="1">
+			<l id="">Vous, qui par un excès d'orgueil et d'insolence</l>
+			<l id="">Vous étiez érigez en souverains États :</l>
+			<l id="">Marchands audacieux ! Cette injuste puissance</l>
+			<l id="">Avait mis la raison et la justice à bas.</l>
+		</lg>
+		<lg n="2">
+			<l id="">Vos Armes ont été le crime et l'arrogance</l>
+			<l id="">De rebelles sujets, vous fûtes apostats,</l>
+			<l id="">Mais le courroux du Ciel en tire la vengeance</l>
+			<l id="">Par le plus élevé de tous les potentats,</l>
+		</lg>
+		<lg n="2">
+			<l id="">L'invincible Louis vous subjugue et vous dompte,</l>
+			<l id="">Et c'est à votre gloire et non à votre honte,</l>
+			<l id="">Que vous êtes déchus de votre liberté.</l>
+		</lg>
+		<lg n="2">
+			<l id="">Vous braviez, il est vrai, le Ciel, la Terre, et l'onde,</l>
+			<l id="">Mais vous êtes plus hauts que vous n'avez été,</l>
+			<l id="">Quand vous êtes soumis au plus grand Roi du Monde.</l>
+		</lg>
+		</poem>
+	</div>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="AMSTERDAM" sex="1" type="H" statut="marchand" age="A" stat_amour="">AMSTERDAM</role>, Marchand jadis, Comte de Hollande.</castItem>
+		<castItem><role id="LA COMTESSE" sex="2" type="H" statut="comte" age="A" stat_amour="">LA COMTESSE</role>, sa femme.</castItem>
+		<castItem><role id="LA ZÉLANDE" sex="2" type="H" statut="comte" age="J" stat_amour="">LA ZÉLANDE</role>, sa fille.</castItem>
+		<castItem><role id="LA FRISE" sex="2" type="H" statut="comte" age="J" stat_amour="">LA FRISE</role>, sa fille.</castItem>
+		<castItem><role id="UVIC" sex="1" type="H" statut="domestique" age="A" stat_amour="">UVIC</role>, un domestique.</castItem>
+		<castItem><role id="VAMBEUNIN" sex="1" type="H" statut="domestique" age="A" stat_amour="">VAMBEUNIN</role>, un domestique.</castItem>
+		<castItem><role id="LE MÉDECIN" sex="1" type="H" statut="médecin" age="A" stat_amour="">LE MÉDECIN</role>.</castItem>
+		<castItem><role id="L'APOTHICAIRE" sex="1" type="H" statut="apothicaire" age="A" stat_amour="">L'APOTHICAIRE</role>.</castItem>
+		<castItem><role id="LE CHIRURGIEN" sex="1" type="H" statut="chirurgien" age="A" stat_amour="">LE CHIRURGIEN</role>.</castItem>
+		<castItem><role id="L'AVOCAT" sex="1" type="H" statut="avocat" age="A" stat_amour="">L'AVOCAT</role>.</castItem>
+		<castItem><role id="LE NOTAIRE" sex="1" type="H" statut="notaire" age="A" stat_amour="">LE NOTAIRE</role>.</castItem>
+		<castItem><role id="LE MINISTRE" sex="1" type="H" statut="ministre" age="A" stat_amour="">LE MINISTRE</role>.</castItem>
+		<castItem><role id="UN LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour="">UN LAQUAIS</role>.</castItem>
+	</castList>
+		<set location="Amsterdam" country="Pays-Bas" periode="XVIIème" gps="52.370216, 4.895168">La scène est dans Amsterdam, autrefois capitale du pauvre Malade.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE.</head><stage> Le Comtesse, Le Médecin.
+</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="1">Madame, ne vous fâchés pas,</l>
+	<l id="2">Nous trouverons bien en tout cas</l>
+	<l id="3">Du remède au mal qui le presse ;</l>
+	<l id="4">Quittez quittez cette tristesse,</l>
+	<l id="5">Et laissez-nous conduire enfin.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="6">Hélas ! Monsieur le Médecin,</l>
+	<l id="7">Amsterdam est si déplorable,</l>
+	<l id="8">Si défait et si pitoyable,</l>
+	<l id="9">Qu'à peine le connaîtrez-vous ;</l>
+	<l id="10">Ha ! C'est fait de mon pauvre époux,</l>
+	<l id="11">Le destin va couper la trame,</l>
+	<l id="12">Et peut-être a-t-il rendu l'âme.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="13" syll="5" part="i">Mais qu'est-ce qu'il a ?</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="13" syll="3" part="f">Bien du mal.</l>
+	<l id="14">Un débordement général,</l>
+	<l id="15">Une tumeur,une décente,</l>
+	<l id="16">Un fièvre très violente,</l>
+	<l id="17">Un mal de coeur, un tremblement,</l>
+	<l id="18">Un furieux redoublement,</l>
+	<l id="19">Un mal de reste, une migraine,</l>
+	<l id="20">Un grand suffoquement d'haleine,</l>
+	<l id="21">Un flux de ventre, un mal de reins,</l>
+	<l id="22">Une pesanteur sur les mains,</l>
+	<l id="23">Une colique épouvantable,</l>
+	<l id="24">Une oppression qui l'accable,</l>
+	<l id="25">Une révolte en ses esprits,</l>
+	<l id="26">Il vide tout ce qu'il pris,</l>
+	<l id="27">Il regorge, il vomit, il crache,</l>
+	<l id="28">Il ne désespère,il s'arrache,</l>
+	<l id="29">Il sent une piqûre au dos,</l>
+	<l id="30">Qui lui trouble tout son repos,</l>
+	<l id="31">Il se plaint d'une sciatique</l>
+	<l id="32">Qui le rend comme frénétique.</l>
+	<l id="33">Enfin, Monsieur, il a le corps</l>
+	<l id="34">Tout pourri dedans et dehors.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="35" syll="6" part="i">A-t-il fait des excès ?</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="35" syll="2" part="f">Sans doute ;</l>
+	<l id="36">Et pour vous dire vrai, je doute</l>
+	<l id="37">Que ce désordre sans pareil,</l>
+	<l id="38">Ne provienne que du soleil :</l>
+	<l id="39">Il en faisait son badinage ;</l>
+	<l id="40">Et bien lion de paraître sage,</l>
+	<l id="41">Et retenu dans ses discours,</l>
+	<l id="42">Il le raillait presque toujours,</l>
+	<l id="43">Son esprit faible et satanique,</l>
+	<l id="44">Osait bien lui faire la nique,</l>
+	<l id="45">Il s'exposait à son ardeur,</l>
+	<l id="46">Sans point de conduire et de peur,</l>
+	<l id="47">Et son audace était si fière,</l>
+	<l id="48">Qu'il lui disputait sa lumière ;</l>
+	<l id="49">Qui lui disputait, Amsterdam ?</l>
+	<l id="50">Si avez mal vitre dam,</l>
+	<l id="51">Vous verrez à la fin du conte,</l>
+	<l id="52">Finir le tout à votre honte :</l>
+	<l id="53">Prenez garde, songez à vous.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="54">Le soleil est bénin est doux ;</l>
+	<l id="55">Mais après tout je vous avoue,</l>
+	<l id="56">Qu'il ne faut pas que l'on s'y joue ;</l>
+	<l id="57">Cet astre à ne déguiser rien,</l>
+	<l id="58">Fait le mal autant que le bien,</l>
+	<l id="59">Sa chaleur qui nous vivifie,</l>
+	<l id="60">Sait donner et ravir la vie,</l>
+	<l id="61">Il faut mesurer son beau feu,</l>
+	<l id="62">D'un poids qui ne soit ni peu ;</l>
+	<l id="63">Car lors qu'on est si ridicule,</l>
+	<l id="64">Que de l'approcher trop, il brûle :</l>
+	<l id="65">Son feu pourtant a des effets</l>
+	<l id="66">Qui sont également parfaits,</l>
+	<l id="67">Et sa lumières si seconde,</l>
+	<l id="68">Ne rend qu'à faire bien au monde,</l>
+	<l id="69">La mal ne vient pas de sa part,</l>
+	<l id="70">Quand il le fait c'est par hasard,</l>
+	<l id="71">Son influence est tout bonne,</l>
+	<l id="72">Et ne saurait nuire à personne ;</l>
+	<l id="73">Si la malice des humains</l>
+	<l id="74">Ne lui mettait le foudre en mains :</l>
+	<l id="75">Ce bel astre entretient la terre,</l>
+	<l id="76">Et ne nous fait jamais la guerre</l>
+	<l id="77">Que lorsque nous la lui faisons ;</l>
+	<l id="78">Il luit en toutes les saisons ;</l>
+	<l id="79">Ainsi revenons la puissance</l>
+	<l id="80">Du Soleil, et surtout de France,</l>
+	<l id="81">Parce qu'en effet son éclat,</l>
+	<l id="82">Est dangereux en ce climat.</l>
+	<l id="83">À parler en termes d'école,</l>
+	<l id="84">Voilà ce qu'en dit Mathiole.</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+	<l id="85">Avicenne en assure autant.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="86">Quoi qu'il en soit il est constant,</l>
+	<l id="87">Sans consulter la médecine,</l>
+	<l id="88">Que le fin bien souvent s'affine,</l>
+	<l id="89">Mais qu'est ce que veut Vambeunin.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Médecin, La Comtesse, L'Apothicaire, le Médecin, La Frise, La Zélande, Vambeunin.
+</stage>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN</speaker><stage type="anxious">, alarmé .
+	</stage>
+	<l id="90">Vite, qu'on apporte du vin,</l>
+	<l id="91">Amsterdam se meurt il expire.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="92">Qu'est-ce donc, que vous voulez-nous dire ?</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="93">Il se pâme, le coeur lui faut.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN</speaker><stage>, en se moquant.
+	</stage>
+	<l id="94">Hé, Fallait-il crier si haut.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="95" syll="4" part="i">Ha mes filles !</l>
+</sp>
+<sp who="ZÉLANDE, LA FRISE"><speaker>ZÉLANDE et LA FRISE.</speaker>
+	<l id="95" syll="4" part="f">Ha notre mère !</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="96">Vous n'aurez donc pas de père.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="97">Madame, tout ceci n'est rien.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="98">Hélas je vous le disais bien !</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="99">Cela n'est à ce que je pense,</l>
+	<l id="100">Qu'une petite défaillance.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN</speaker><stage type="quiet">, rassuré.
+	</stage>
+	<l id="101">Non, Monsieur n'est pas encore mort.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="102">Pourquoi donc clabauder si fort,</l>
+	<l id="103">Ha ! Je suis forcé de vous dire</l>
+	<l id="104">Que vous brouilleriez un Empire,</l>
+	<l id="105">Et pour vous parler net, Monsieur,</l>
+	<l id="106">Vous êtes un mauvais crieur.</l>
+	<l id="107">Ce n'est pas ainsi qu'on en use,</l>
+	<l id="108">Et si mon esprit ne s'abuse,</l>
+	<l id="109">Le feu qui parait en vos yeux</l>
+	<l id="110">Tient beaucoup du séditieux[.]</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="111">Trêve, Monsieur, à ces injures,</l>
+	<l id="112">Vos paroles sont un peu dures.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="113" syll="6" part="i">Taisez-vous Vambeunin.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="113" syll="2" part="f">Suffit.</l>
+	<l id="114">Voyons le Malade en son lit,</l>
+	<l id="115">Et tâchons par notre remède</l>
+	<l id="116">De lui donner quelque peu d'aide.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Amsterdam, La Comtesse, La Frise, la Zélande, Le médecin, l'Apothicaire, Le Chirurgien.
+</stage>
+<stage type="decor">On tire le rideau, et l'on voit une chambre, dans laquelle Amsterdam paraît couché avec un bonnet de nuit, et les autres embarras d'un malade.</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="117">Bonjour Monseigneur Amsterdam.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="118" syll="4" part="i">Bonjour Monsieur.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="118" syll="6" part="f">Bonjour, bon an,</l>
+	<l id="119">Ça, quittez ce triste visage,</l>
+	<l id="120">Et prenez un peu de courage.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="121">Ha Monsieur ! Je n'ai point de coeur.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="122">Comment, Amsterdam a-t-il peur,</l>
+	<l id="123">Lui qui faisait jadis la guerre</l>
+	<l id="124">En tous les endroits de la terre,</l>
+	<l id="125">Qui promenait ses étendards</l>
+	<l id="126">Dans les plus fameux champs_de_Mars,</l>
+	<l id="127">Qui se piquait d'armer les Princes ,</l>
+	<l id="128">De bouleverser les Provinces,</l>
+	<l id="129">Qui s'était battu tant de fois</l>
+	<l id="130">Contre la flotte des Anglais,</l>
+	<l id="131">Qui par une fière arrogance</l>
+	<l id="132">Prétendait la prééminence</l>
+	<l id="133">De tout l'Empire de la Mer ;</l>
+	<l id="134">Lui, dis-je, peut-il s'alarmer</l>
+	<l id="135">D'une chétive maladie,</l>
+	<l id="136">Que voulez-vous Seigneur qu'on die</l>
+	<l id="137">si vous mettez Pavillon bas,</l>
+	<l id="138">Vous qui parmi tant de combats</l>
+	<l id="139">Avez montré votre puissance,</l>
+	<l id="140">Qui le disputiez à la France,</l>
+	<l id="141">À l'Espagne, à l'Empire enfin,</l>
+	<l id="142">Et qui faisiez tant le mutin</l>
+	<l id="143">Contre les coups de la fortune;</l>
+	<l id="144">Vous qui sembliez mordre le Lune,</l>
+	<l id="145">Et qui par un excès d'orgueil </l>
+	<l id="146">En vouliez encore au Soleil :</l>
+	<l id="147">Ah ! Reprenez Seigneur de grâce</l>
+	<l id="148">Le feu de cette fière audace,</l>
+	<l id="149">Et ne soyez point abattu.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="150">Ô Ciel comment me traites-tu !</l>
+	<l id="151">Toute ma force est presque morte.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="152">Quoi, vous étonner de la sorte,</l>
+	<l id="153">Vous dont les voyages divers</l>
+	<l id="154">Ont parcouru tout l'Univers ;</l>
+	<l id="155">Vous qui poussâtes vos conquêtes</l>
+	<l id="156">Malgré la fureur des tempêtes</l>
+	<l id="157">Aux pays les plus éloignés :</l>
+	<l id="158">Vous Seigneur, vous vous étonnez ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="159">Il est vrai Monsieur, je m'étonne, </l>
+	<l id="160">Et je sens aller ma personne</l>
+	<l id="161">Dans un extrême désarroi.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="162">Mais qu'avez-vous ? Répondez-moi ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="163">Une étrange douleur de tête,</l>
+	<l id="164">Un feu violent qui s'arrête</l>
+	<l id="165">Au milieu de mon estomac,</l>
+	<l id="166">Un marteau pesant qui me bat,</l>
+	<l id="167">Et qui m'assomme la cervelle,</l>
+	<l id="168">Une guerre rude et cruelle,</l>
+	<l id="169">Qui se fait dans tous mes boyaux,</l>
+	<l id="170">Une diversité de maux,</l>
+	<l id="171">Que j'ai peine enfin enfin de vous dire,</l>
+	<l id="172">Je vois mon corps qui se retire,</l>
+	<l id="173">Et qui se réduit presque à rien :</l>
+	<l id="174">Hélas quel malheur est le mien !</l>
+	<l id="175">J'endure, j'enrage, je souffre,</l>
+	<l id="176">Je brûle comme dans le soufre,</l>
+	<l id="177">Et sans un brasier sans pareil</l>
+	<l id="178">Que me fomente le soleil ;</l>
+	<l id="179">C'est cet Astre qui me tourmente</l>
+	<l id="180">Qui me cause une fièvre ardente,</l>
+	<l id="181">Qui me déchire tout le corps,</l>
+	<l id="182">Et me met au nombre des morts.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="183">Seigneur, ayez plus de constance, </l>
+	<l id="184">Et souffrez avec patience</l>
+	<l id="185">Ce qui part de la main de Dieu.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="186">Ah ma chère Comtesse ! Adieu,</l>
+	<l id="187">Le destin veut que je te quitte,</l>
+	<l id="188">Il faut enfin changer de gîte ,</l>
+	<l id="189">Tu me vois, et je ne suis plus</l>
+	<l id="190">Que l'ombre de ce que je fus ;</l>
+	<l id="191">Que mon affliction est grande !</l>
+	<l id="192">Mon épouse, ma chère Hollande,</l>
+	<l id="193">Mon coeur, mes tendresses, mon bien;</l>
+	<l id="194">Nous ne serons jamais plus rien :</l>
+	<l id="195">Console-toi pauvre Comtesse.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="196">Que ce discours fatal me blesse.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="197">Où sont les états mes enfants ?</l>
+	<l id="198">Qu'ils viennent les pauvres dolents,</l>
+	<l id="199">Je les veux baiser tout à l'heure,</l>
+	<l id="200">Et les voir avant que je meure,</l>
+	<l id="201">Hélas ! Je souffre bien pour eux.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="show">, lui montrant ses deux filles.
+	</stage>
+	<l id="202">De sept, Monsieur, en voici deux,</l>
+	<l id="203">Et nous ferons venir les autres.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="204">Peut-être ne font- ils plus nôtres</l>
+	<l id="205">Madame ne me flattez pas,</l>
+	<l id="206">Amsterdam n'a plus des États.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="207">Patience, il faut s'y résoudre.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="208">Ô juste Ciel, quel coup de foudre !</l>
+	<l id="209">Pauvre homme qu'es-tu devenu :</l>
+	<l id="210">Ton corps misérable est tout nu;</l>
+	<l id="211">Il ne paraît plus qu'à ta honte,</l>
+	<l id="212">Et te voilà gueux non pas Comte. </l>
+</sp>
+<sp who="LA ZÉLANDE"><speaker>LA ZÉLANDE.</speaker>
+	<l id="213">Consolez-vous mon beau papa.</l>
+</sp>
+<sp who="LA FRISE"><speaker>LA FRISE.</speaker>
+	<l id="214">Job fut touché, Dieu le frappa,</l>
+	<l id="215">Et triompha de sa misère.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="216">Cela ne me console guère,</l>
+	<l id="217">Job fut mal, il fut mieux après,</l>
+	<l id="218">Et je ne ferai bien jamais :</l>
+	<l id="219">Mais réponds-moi ma chère Frise,</l>
+	<l id="220" syll="6" part="i">Qui t'a mise en lambeaux ?</l>
+</sp>
+<sp who="LA FRISE"><speaker>LA FRISE.</speaker>
+	<l id="220" syll="2" part="f">La bise.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="221">Ha ! Dis plutôt sans te flatter,</l>
+	<l id="222">Que c'est l'Évêque_de_Munster ;</l>
+	<l id="223">C'est lui qui t'a raflé tes villes.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="224">Tous ces discours sont inutiles.</l>
+	<l id="225">Au reste, Seigneur Amsterdam,</l>
+	<l id="226">Vous deviendrez sec comme un Gan[d],</l>
+	<l id="227">Si vous ne chassez de votre âme</l>
+	<l id="228">Les soins, et d'enfants et de femme ;</l>
+	<l id="229">N'altérez point votre repos,</l>
+	<l id="230">Vous êtes mal en peu de mots,</l>
+	<l id="231">Il ne faut pas que je vous flatte ;</l>
+	<l id="232">Avancez la main, que je tâte</l>
+	<l id="233">Si votre pouls est agité :</l>
+	<l id="234">Il l'est beaucoup en vérité,</l>
+	<l id="235">Et vous avez sans raillerie</l>
+<note type="L">Intempérie : Terme d'ancienne médecine. Mauvaise constitution des humeurs du corps. [L]</note>
+	<l id="236">Un grand trouble d'intempérie,</l>
+	<l id="237">Votre estomac embarrassé</l>
+	<l id="238">Rend votre cerveau tout blessé,</l>
+	<l id="239">Une réplétion extrême</l>
+	<l id="240">Fait que votre coeur l'est de même,</l>
+	<l id="241">Il faut vider et embarras,</l>
+	<l id="242">Et purger le haut par le bas ;</l>
+	<l id="243">Sus donc, Monsieur l'Apothicaire,</l>
+<note type="L">Clystère : Injection d'eau chargée ou non d'un médicament, qui se fait par le fondement. [L]</note>
+	<l id="244">Préparez-lui vite un clystère</l>
+	<l id="245">Comme je vous l'ordonnerai.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="246">Hé bien, Monsieur, je le ferai.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="247">Ah bon Dieu que de mal de tête.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="248">Voyons si votre langue est nette,</l>
+	<l id="249">Ouvrez la bouche s'il vous plaît,</l>
+	<l id="250">Voici bien du mal en effet,</l>
+	<l id="251">Et plus que je n'en ose dire :</l>
+	<l id="252">Or sus, que chacun se retire,</l>
+	<l id="253">Et qu'on en use doucement,</l>
+	<l id="254">Afin qu'il repose un moment.</l>
+	<l id="255">Cependant tout ce que l'ordonne</l>
+	<l id="256">Est, qu'exactement on lui donne</l>
+	<l id="257">D'heure en heure un petit bouillon,</l>
+	<l id="258">Surtout, qu'on ne fasse du bon,</l>
+	<l id="259">Et n'est pas mal qu'on le mélange</l>
+	<l id="260">Avec un peu de jus d'Orange,</l>
+	<l id="261">Parce qu'il le rafraîchira,</l>
+	<l id="262">Et ce frais lui profitera :</l>
+	<l id="263">Quant à ses repas, l'abstinence</l>
+	<l id="264">Est tout ce qu'il lui faut, je pense,</l>
+	<l id="265">Et c'est assez qu'à huit, à neuf</l>
+	<l id="266">Il avale deux jaunes_d_oeuf,</l>
+	<l id="267">Ne le chargez pas davantage :</l>
+	<l id="268">Adieu, Seigneur, prenez courage,</l>
+	<l id="269">Et tâchez un peu de dormir,</l>
+	<l id="270">Que si vous venez à vomir</l>
+	<l id="271">Ne vous faite point de contrainte.</l>
+<stage type="decor">On ferme le rideau.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> La Comtesse, Le Médecin, L'Apothicaire, Le Chirurgien. 
+</stage> 
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="272">Monsieur, avouez moi sans feinte</l>
+	<l id="273">En quel état est mon époux.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="274">Assez mal, mais rassurez-vous,</l>
+	<l id="275">Et ne vous troublez point, Madame.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="276">Il faudrait songer à son âme,</l>
+	<l id="277">Et le porter tout doucement,</l>
+	<l id="278">À résoudre son testament,</l>
+	<l id="279">Car à vous dire vrai, sans doute,</l>
+	<l id="280">Tout son bien irait en déroute,</l>
+	<l id="281">Et serait en piteux état,</l>
+<note type="L">Intestat : Hériter ab intestat, hériter d'une personne qui n'a point fait de testament. [L]</note>
+	<l id="282">S'il décédait ab_intestat</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="283">Il n'est pas encor temps qu'il tete,</l>
+	<l id="284">Que s'il le faut, je vous proteste</l>
+	<l id="285">Que je volis en avertirai.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="286">Pourtant, Monsieur, je vous dirai</l>
+	<l id="287">Qu'il est tout à fait nécessaire</l>
+	<l id="288">Qu'il fasse tôt ce qu'il doit faire,</l>
+	<l id="289">Parce qu'il a des créanciers.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="290">Il n'a donc pas d'héritiers</l>
+	<l id="291">Sans qu'il en cherche davantage.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="292">Monsieur, vous êtes bon et sage</l>
+	<l id="293">Mais, j'appréhende, avec raison</l>
+	<l id="294">Un grand désordre en sa maison ;</l>
+	<l id="295">Outre que je ne puis vous taire,</l>
+	<l id="296">Qu'il a certain mauvais affaire,</l>
+	<l id="297">Qu'il s'est fait depuis quelque temps,</l>
+	<l id="298">Dont il est tombé des dépens</l>
+	<l id="299">Pour le fait desquels ses parties,</l>
+	<l id="300">Lui sont tous les jours des saisies.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="301">Et quel affaire est celui-là ?</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="302">C'est un méchant procès qu'il a </l>
+	<l id="303">Avec l'Angleterre et la France,</l>
+	<l id="304">Qui lui cause bien des dépense,</l>
+	<l id="305">Et le met dans un grand souci.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="306">Il faut donc pourvoir à ceci :</l>
+	<l id="307">Prenez votre conseil, Madame ;</l>
+	<l id="308">Pour ce qui regarde son âme</l>
+	<l id="309">C'est à lui de s'y préparer,</l>
+	<l id="310">Après il doit nous déclarer</l>
+	<l id="311">Quelle est sa volonté dernière,</l>
+	<l id="312">Je verrai de quelle manière</l>
+	<l id="313">Il voudra disposer le tout,</l>
+	<l id="314">Et le presserai jusqu'au bout ;</l>
+	<l id="315">Car, quoi que le destin vous livre,</l>
+	<l id="316">Vous avez grand besoin de vivre,</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="317">He bien, donques, jusques au revoir.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="318">Je vous reverrai sur le soir.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="319" syll="4" part="i">Adieu Monsieur.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="319" syll="4" part="f">Adieu Madame.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Le Médecin, L'Apothicaire.
+</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="320">Par ma foi cette bonne femme</l>
+	<l id="321">Est digne de compassion,</l>
+	<l id="322">Et son extrême affliction</l>
+	<l id="323">M'est en vérité bien sensible,</l>
+	<l id="324">Je voudrais qu'il me fut possible</l>
+	<l id="325">De pouvoir sauver son mari ;</l>
+	<l id="326">Et plut à Dieu qu'il fut guéri,</l>
+	<l id="327">Mais il n'est que trop véritable</l>
+	<l id="328">Que ce pauvre homme est incurable.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="329">Je l'estime bien dangereux.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="330">Il est flambé le malheureux,</l>
+	<l id="331">Et puisqu'il faut que je m'explique</l>
+	<l id="332">Je crains qu'il ne soit hydropique :</l>
+	<l id="333">Mais commençons premièrement</l>
+	<l id="334">Par apaiser l'embrasement,</l>
+	<l id="335">Qui l'enflamme et qui le dévore ;</l>
+	<l id="336">Et tâchons d'arrêter encore</l>
+	<l id="337">Ces noires valeurs du cerveau,</l>
+	<l id="338">Desquelles il se forme en eau</l>
+	<l id="339">Qui le pénètre et qui la mine,</l>
+	<l id="340">Et qui tombant dans sa poitrine</l>
+	<l id="341">Rend son bas ventre constipé,</l>
+<poem type="parodie">
+<lg n="1">
+	<l id="342">Et primo, Monsieur, recipé,</l>
+	<l id="343">Parum herbae de Campanella,</l>
+	<l id="344">Aliquantum de Pinpinella</l>
+	<l id="345">Dragnas quinque de Mastico,</l>
+	<l id="346">Tres faltem de Catholico,</l>
+	<l id="347">De grana solis, de Pasteca.</l>
+	<l id="348">De Guta Gamba, de Rubeca,</l>
+	<l id="349">Quidquam de Diacodio,</l>
+	<l id="350">De Jalap, d'Elaterio,</l>
+	<l id="351">De scamonea, de Laudaeno,</l>
+	<l id="352">Et de reissino Américano :</l>
+</lg>
+</poem>
+	<l id="353">Après ajoutez y du plomb,</l>
+	<l id="354">De la poudre fine à canon,</l>
+	<l id="355">D'huile d'acier, de hallebarde,</l>
+	<l id="356">De quintessence de bombarde,</l>
+	<l id="357">D'antimoine, du sel de mer,</l>
+	<l id="358">Et d'aloès le plus amer :</l>
+	<l id="359">Qu'on mêle le tout, qu'on l'assemble ;</l>
+	<l id="360">Qu'on le réduise bien ensemble,</l>
+	<l id="361">Et qu'on en fasse un lavement,</l>
+	<l id="362">Il profitera grandement ;</l>
+	<l id="363">Allez, Monsieur l'Apothicaire :</l>
+	<l id="364">À propos, il faut encor faire</l>
+	<l id="365">Un autre remède demain.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="366" syll="2" part="i">Et quel ?</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="366" syll="6" part="f">Lui mettre sur le sein</l>
+	<l id="367">Un cataplasme d'un fromage,</l>
+<note type="L">Airage : Technologie. On nomme ainsi l'angle que forment les ailes d'un moulin à vent, ou mieux la voile de chaque aile, avec le plan de leur circulation (...).[L] </note>
+	<l id="368">Parce que l'esprit de l'airage</l>
+	<l id="369">Est un remède sans pareil</l>
+	<l id="370">Contre les ardeurs du Soleil ;</l>
+	<l id="371">Cela ne vous doit point surprendre.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="372">Je suis bien aise de l'apprendre,</l>
+	<l id="373">Et crois, qu'il lui fera du bien.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="374">Et vous, Monsieur le Chirurgien,</l>
+	<l id="375">Il faudra demain qu'on lui pique</l>
+	<l id="376">Un peu la veine céphalique ;</l>
+	<l id="377">Préparez votre petit fait,</l>
+	<l id="378">Et faite que vous soyez prêt</l>
+	<l id="379">À faire bien cette saignée.</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN</speaker><stage>,
+	</stage>
+	<l id="380" syll="3" part="i">En quel temps ?</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="380" syll="5" part="f">À la matinée,</l>
+	<l id="381">À peu près en tre neuf à dix,</l>
+	<l id="382">Il prendra la clystère à six,</l>
+	<l id="383">Et s'il allait trop de selle,</l>
+	<l id="384">Qu'on m'avertisse et qu'on m'appelle ?</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN</speaker><stage>,
+	</stage>
+	<l id="385">Monsieur, nous n'y manquerons pas.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="386">Allez, ménagez bien vos pas,</l>
+	<l id="387">Et faits que mon ordonnance,</l>
+	<l id="388">Soit dans une juste balance.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Amsterdam, Uvic, Vambeunin, Le Laquais.
+</stage>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="389">Hola ? Qu'on se dépêche tôt,</l>
+	<l id="390">Vite, qu'on m'apporte le pot,</l>
+	<l id="391">Et qu'on le mette à la ruelle</l>
+	<l id="392">Afin que j'aille sur la selle.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="393" syll="6" part="i">Que vous plaît-il, Seigneur ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="393" syll="2" part="f">Coquin</l>
+<note type="L">Casaquin :  Anciennement, sorte de petite casaque à l'usage des hommes. [L]</note>
+	<l id="394">Donne-moi tôt mon casaquin,</l>
+	<l id="395">Mes pantoufles, ma chemisette,</l>
+<note type="L">Brayette : Fente de devant d'un haut-de-chausses, d'une culotte. [L]</note>
+	<l id="396">Ma cane d'Inde et ma brayette,</l>
+	<l id="397">À cause de ce lavement</l>
+	<l id="398">Ma presse furieusement ; </l>
+	<l id="399">Veux-tu faire diligence.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="400">Ayez un peu de patience.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="401">Fais vitement, traître maudit</l>
+	<l id="402">Où je va[is] chier dans le lit.</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC</speaker><stage>, bas.
+	</stage>
+	<l id="403">Bon Dieu, que cet homme est revêche.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="404" syll="4" part="i">Dépêche-toi.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="404" syll="4" part="f">Je me dépêche</l>
+	<l id="405">Tenez, voilà ce qu'il vous faut.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM</speaker><stage type="toward">, sur la fille.
+	</stage>
+	<l id="406">Ô Ciel ! On me livre un assaut,</l>
+	<l id="407">Quelle bourrasque est dans mon ventre,</l>
+	<l id="408">Tout sort en même temps qu'il entre.</l>
+	<l id="409">Toute ma substance périt,</l>
+	<l id="410">Et je n'ai plus rien que l'esprit,</l>
+	<l id="411">Hélas, on dirait que j'en serre</l>
+	<l id="412">Tout le théâtre de la guerre !</l>
+	<l id="413">Et que deux cent mille lutins</l>
+	<l id="414">ME déchirent les intestins,</l>
+	<l id="415">On dirait que plusieurs armées</l>
+	<l id="416">Sont dans mon bas-ventre enfermées,</l>
+	<l id="417">Et qu'on me tire rudement</l>
+	<l id="418">Des villes par le fondement ;</l>
+	<l id="419">On dirait qu'on me les arrache,</l>
+	<l id="420">Que toute ma chair se détache,</l>
+	<l id="421">Et qu'elle s'écarte de moi :</l>
+<note type="L">Orsoi : ville du nord de la Rhénanie (actuellement en Allemagne). Cette ville a été prise par Vauban en 1672.</note>
+	<l id="422">Ô Dieux ! Je vais chier Orsoi,</l>
+	<l id="423">Buric, Vesel, et Reimbergue,</l>
+	<l id="424">Je vide ab_ante, à post, à iergo,</l>
+<note type="L">Issel : Ville des Pays-bas à 100km à l'Est d'Amsterdam.</note>
+	<l id="425">Je me sens traverser l'Issel,</l>
+	<l id="426">J'ai craché L'île_de_Bomel ,</l>
+	<l id="427">Mastrich est tout prêt de se rendre,</l>
+	<l id="428">Je le digère, on le va prendre ;</l>
+<note type="L">Nimègue : Ville des Pays-Bas sur le Rhin à 100km à l'est de Rotterdam. [L]</note>
+	<l id="429">Nimègue me met aux abois,</l>
+	<l id="430">Je l'ai vomie à cette fois ;</l>
+	<l id="431">Qu'elle m'a donné de la peine ;</l>
+	<l id="432">Laissez-moI prendre un peu d'haleine,</l>
+	<l id="433">Il me semble ô pauvre mesquin !</l>
+	<l id="434">Que je vide Le fort de Squin ;</l>
+	<l id="435">Tant ce remède me travaille :</l>
+	<l id="436">soutenez-moi traître ,canaille ;</l>
+	<l id="437">Je n'en puis plus, je suis à sec :</l>
+<note type="">Utrecht : Ville des Pay-bas à 45 kilomètres au sud d'Amsterdam.</note>
+	<l id="438">Ha ! Je rends le Duché d'UTRECHT.</l>
+	<l id="439">Que de furieuses tranchées</l>
+	<l id="440">Me causent EMERIC et RÉES,</l>
+	<l id="441">Tout mon pauvre corps se détruit,</l>
+	<l id="442">GRAVE fort, CRÈVE-COEUR le suit,</l>
+	<l id="443">ZUTPHEN, CAMPEM en fait de même,</l>
+	<l id="444">BOISLEDuc me met à l'extrême,</l>
+	<l id="445">BREDA, L'ESCLUsE et BERGOPÇON</l>
+	<l id="446">Me sanglents jusques à l'arçon,</l>
+	<l id="447">ET malgré tout mon artifice</l>
+	<l id="448">Il faudra que je les vomisse :</l>
+	<l id="449">Je n'ai plus rien, tout s'est rendu,</l>
+	<l id="450">Et je suis un homme perdu ;</l>
+	<l id="451">Que la peste soit le clystère,</l>
+	<l id="452">Et du maudit Apothicaire,</l>
+	<l id="453">Qui me l'a méchamment donné,</l>
+	<l id="454">Je crois qu'il est empoisonné,</l>
+	<l id="455">Et que ce voleur, cet infâme,</l>
+	<l id="456">L'a fait pour me dérober l'âme :</l>
+	<l id="457">Ah détestables assassins !</l>
+	<l id="458">Apothicaires, médecins !</l>
+	<l id="459">Tous les onguents de vos boutiques</l>
+	<l id="460">Sont des pestes aux Républiques ;</l>
+	<l id="461">Vous ne m'attraperez jamais</l>
+	<l id="462">Et ne m'aurez pas désormais ;</l>
+	<l id="463">Mais qu'elle misère est la mienne ;</l>
+	<l id="464">Je n'en puis plus, qu'on me soutienne,</l>
+	<l id="465">Et qu'on me mette sur le lit.</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="466">Je crois qu'il a rendu l'esprit,</l>
+	<l id="467">Il tourne les yeux, il se pâme.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="468">Amsterdam songez à votre âme ?</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="469">Réclamez le Dieu de bonté.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="470">Et pensez à l'Éternité ?</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="471">Nous entendez-vous, notre Maître,</l>
+	<l id="472">Faites-le s'il vous plaît connaître</l>
+	<l id="473">Avec un signe de la main.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="474">C'en est fait nous crions en vain,</l>
+	<l id="475">La mort a mis fin à sa trame.</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="476">Laquais,faites venir Madame,</l>
+	<l id="477">Allez vite, courez toujours.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="478">Au secours, Madame, au secours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> La Comtesse, Amsterdam, Uvic, Vambeunin, Le Laquais.
+</stage>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="479">Qui fait tant de bruit ? Qui m'appelle ?</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="480">Amsterdam est mort sur la selle.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="481" syll="5" part="i">Amsterdam est mort ?</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="481" syll="3" part="f">Il est mort.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="482">Ô loi inhumaine du sort !</l>
+	<l id="483">Quelle perte, quelle disgrâce,</l>
+	<l id="484">Amsterdam, que je vous embrasse,</l>
+	<l id="485">Que je vous baise, ô chez époux,</l>
+	<l id="486">Et qu'au moins j'expire avec vous :</l>
+	<l id="487">Et toi sort inhumain ? Achève,</l>
+	<l id="488">Prends encore sa triste veuve,</l>
+	<l id="489">Et le reste de ses États.</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="490">Vos pleurs ne le guériront pas</l>
+	<l id="491">Madame, et cette forte d'aide</l>
+	<l id="492">Est un inutile remède :</l>
+	<l id="493">Il faut se consoler enfin ;</l>
+	<l id="494">Mais voici notre médecin.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="495">Il vient à propos, et je pense</l>
+	<l id="496">Qu'il fera tout par sa présence,</l>
+	<l id="497">Et nous ôtera de souci.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Médecin, Amsterdam, Uvic, Vambeunin, La Comtesse, Le Laquais.
+</stage>
+<sp who="LE MÉDECIN"><speaker>.</speaker>
+	<l id="498">Que vois-je, Messieurs, qu'est ceci ?</l>
+	<l id="499">C'est, Monsieur, que votre clystère</l>
+	<l id="500">N'était pas ici nécessaire,</l>
+	<l id="501">Celui qui l'a pris en est mort.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN</speaker><stage type="ironic">, en se moquant.
+	</stage>
+	<l id="502">Ne vous alarmez pas si fort,</l>
+	<l id="503">Jamais un malade qui chie</l>
+	<l id="504">Ne fut surpris d'apoplexie,</l>
+	<l id="505">Ce serait un cas inouï ;</l>
+	<l id="506">Sans doute il n'est qu'évanoui,</l>
+	<l id="507">Et ce n'est qu'un peu de faiblesse</l>
+	<l id="508">Que cette vidange lui laisse,</l>
+	<l id="509">Qui par son agitation</l>
+	<l id="510">Lui cause cette passion ;</l>
+	<l id="511">Quoi qu'il en soit, que l'on s'apprête</l>
+<note type="L">Lancette : Instrument de chirurgie ainsi nommé à cause de sa forme allongée, et qui est particulièrement destiné à l'opération de la saignée. [L]</note>
+	<l id="512">À faire jouer la lancette,</l>
+	<l id="513">Sus donc, Monsieur le Chirurgien,</l>
+	<l id="514">Coupez vite, et n'épargnez rien.</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+	<l id="515">Si vous voulez qu'on le découpe,</l>
+	<l id="516">Il faut au moins avoir d'étoupe,</l>
+	<l id="517">Et préparer mieux notre fait.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="518">Ne vous peinez pas, tout est prêt.</l>
+	<l id="519">Appliquons donques la ventouse.</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+	<l id="520">La chose est pourtant bien jalouse,</l>
+	<l id="521">Et j'appréhende justement</l>
+	<l id="522">Quelque mauvais événement ;</l>
+	<l id="523">Consultons un peu mieux l'affaire,</l>
+	<l id="524">Le bain serait plus nécessaire,</l>
+	<l id="525">Et j'estime qu'à force d'eau</l>
+	<l id="526">On lui remettrait le cerveau ;</l>
+	<l id="527">Hasardons ce point, il n'importe ;</l>
+	<l id="528">Ça, vite, donc qu'on en apporte.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="529" syll="3" part="i">En voici...</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="529" syll="5" part="f">Ce n'est pas assez,</l>
+	<l id="530">Toutefois ami, commencez</l>
+	<l id="531">De le baigner par le visage.</l>
+</sp>
+<sp who="VAMBEUNIN, UVIC"><speaker>VAMBEUNIN et UVIC.</speaker>
+	<l id="532">En voici, Monsieur, davantage.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="533">Bon, Messieurs, ne l'épargnez pas,</l>
+	<l id="534">Versez, devant, derrière, en bas,</l>
+	<l id="535">Aux pieds, aux mains, à gauche, à droite,</l>
+	<l id="536">Sur les épaules, sur la tête</l>
+	<l id="537">Sur les épaules, au milieu du sein,</l>
+	<l id="538">Versez, versez jusqu'à demain,</l>
+	<l id="539">Au front, à la bouche, aux oreilles,</l>
+	<l id="540">Voilà qui se passe à merveilles.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="watch">, jetant un regard.
+	</stage>
+	<l id="541">Il revient, il a remué...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM</speaker><stage type="awake">, revenant à soi.
+	</stage>
+	<l id="542">Ah bon Dieu ! Que j'ai bien sué,</l>
+	<l id="543">Je me sens percé la chemise,</l>
+	<l id="544">Et je pense que j'ai fait crise,</l>
+	<l id="545">L'eau découle de mon cerveau :</l>
+	<l id="546">Du linge, je suis tout en eau ;</l>
+	<l id="547">Ô Ciel ! Quelle sueur étrange,</l>
+	<l id="548">Qu'on me sèche, que l'on me change,</l>
+	<l id="549">Et que l'on m'ôte cet habit.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="550">Voulez-vous qu'on vous porte au lit,</l>
+	<l id="551">Mon coeur, mon amitié, mon âme.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="552">Tout ce qu'il vous plaira, Madame.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+<note type="L">Or :  Or sert à exprimer l'exhortation. Or, dites-nous. Or çà, monsieur. Or sus commençons.</note>
+	<l id="553">Or_sus qu'on fasse doucement,</l>
+	<l id="554">Et qu'on le change promptement,</l>
+	<l id="555">Mais quittez, Seigneur, je vous prie</l>
+	<l id="556">Cette noire mélancolie,</l>
+	<l id="557">Et reprenez cette fierté,</l>
+	<l id="558">Où vous avez été,</l>
+	<l id="559">Vous êtes froid comme de la glace,</l>
+	<l id="560">Souvenez vous de cette audace</l>
+	<l id="561">Que vous aviez eue autrefois,</l>
+	<l id="562">Que vous dressiez contre les Rois</l>
+	<l id="563">Des alliances et des brigues,</l>
+	<l id="564">Des partis et des triples ligues,</l>
+	<l id="565">Et faisiez mille autres projets</l>
+	<l id="566">Contre eux et contre leurs sujets ;</l>
+	<l id="567">Quand par vos publiques peinture,</l>
+	<l id="568">Vous leur vomissiez des injures,</l>
+	<l id="569">Et parliez en vos sobriquets</l>
+	<l id="570">Plus de deux milles perroquets  ;</l>
+	<l id="571">Qu'est ce maintenant qui vous fâche ?</l>
+	<l id="572">Et qui rend si mol et si lâche</l>
+	<l id="573">Le coeur du fameux Amsterdam,</l>
+	<l id="574">Vous êtes triste comme Adam,</l>
+	<l id="575">Reprenez cette humeur hardie.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="576">Hélas ! Que veut-on que je die,</l>
+	<l id="577">Le soleil étourdit mes sens,</l>
+	<l id="578">Et fait tout le mal que je sens ;</l>
+	<l id="579">Mais quoi, n'est-il point de ressource,</l>
+	<l id="580">Peut-on point arrêter sa course</l>
+	<l id="581">En faisant venir Josué ?</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="582">Hé, Seigneur, vous feriez hué</l>
+	<l id="583">Si vous avanciez cette chose ;</l>
+	<l id="584">J'ai honte qu'on nous la propose,</l>
+	<l id="585">Et qu'un homme de si bon sens</l>
+	<l id="586">Parle si fort à contre-temps.</l>
+	<l id="587">Raisonnons d'un[e] autre manière ,</l>
+	<l id="588">Le soleil pousse sa carrière</l>
+	<l id="589">Et c'est follement contester,</l>
+	<l id="590">Que de le vouloir arrêter</l>
+	<l id="591">son essence est presque Divine,</l>
+	<l id="592">Il n'est qu'un Dieu qui la domine,</l>
+	<l id="593">Et Josué ni Gédéon</l>
+	<l id="594">Ne peuvent rien sur Apollon.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="595">J'ai lu pourtant dans l'Écriture,</l>
+	<l id="596">Que par une étrange aventure</l>
+	<l id="597">Josué le fit arrêter.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="598">Il le ferait ici hâter</l>
+	<l id="599">Pour vous tourmenter davantage ;</l>
+	<l id="600">Cherchons un remède plus sage,</l>
+	<l id="601">Et laissant le soleil à part,</l>
+	<l id="602">Usons des règles de notre Art.</l>
+	<l id="603">Il faut aujourd'hui qu'on vous saigne ;</l>
+	<l id="604">Car Hippocrate nous enseigne</l>
+	<l id="605">Que lorsque le sang est pourri,</l>
+	<l id="606">Il ne saurait être guéri</l>
+	<l id="607">Si l'on n'use de la saignée :</l>
+	<l id="608">La forme nous en est donnée</l>
+	<l id="609">Par le sublime Galien,</l>
+	<l id="610">L'esprit duquel n'ignorait rien,</l>
+	<l id="611">Et qui traitait la Médecine</l>
+	<l id="612">Avec une force Divine ;</l>
+	<l id="613">Il faut donc commencer par là,</l>
+	<l id="614">Et préparer après cela</l>
+	<l id="615">Des onctions bien assorties</l>
+	<l id="616">Pour fortifier vos parties ;</l>
+	<l id="617">Mettons donc la chose en effet, </l>
+	<l id="618">Et faisons notre petit fait</l>
+	<l id="619">Avec une égale ordonnance.</l>
+	<l id="620">En premier lieu, que l'on commence</l>
+	<l id="621">Les fomentation du coeur</l>
+	<l id="622">Après, réprimons cette ardeur</l>
+	<l id="623">Par une puissance contraire,</l>
+	<l id="624">Ainsi, Monsieur l'Apothicaire</l>
+	<l id="625">Notre cataplasme est-il prêt ?</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="626">J'estime bien, Monsieur, qu'il l'est.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="627">Apposez-le donc tout à l'heure.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM</speaker><stage>, en lui-même : un grand fromage d'hollande sur le sein.
+	</stage>
+	<l id="628">Qu'est ceci, veut-on que je meure,</l>
+	<l id="629">Que m'applique-t-on là-dessus ?</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="630" syll="4" part="i">Un remède.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="630" syll="4" part="f">Je n'en veux plus,</l>
+	<l id="631">Retire, toi maudite engeance,</l>
+	<l id="632">Je perds enfin la patience,</l>
+	<l id="633">Et je n'ai que trop bien appris</l>
+	<l id="634">Par le lavement que j'ai pris...</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="635">Mais ceci n'est qu'un cataplasme.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="636">Je te rouerai, sur mon âme.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="637">Chez époux laissez vous guérir.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="638">Ô Dieux ! Vous me faire mourir</l>
+	<l id="639">Madame, ce discours me choque,</l>
+	<l id="640">Ce cataplasme me suffoque,</l>
+	<l id="641">Et m'empêche de respirer.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="642">Si faut-il pourtant attirer</l>
+	<l id="643">La malignité qui vous tue,</l>
+	<l id="644">Qui en saurait être abattue</l>
+	<l id="645">Que par ce remède pesant.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="646">Par ma foi, le conte est plaisant,</l>
+	<l id="647">On veut donc me donner la vie </l>
+	<l id="648">Après qu'on me l'aura ravie.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="649">Mais cela vous fera du bien.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="650">Va apothicaire de chien,</l>
+	<l id="651">Tu chantes trop, oiseau sinistre.</l>
+</sp>
+<sp who="LE LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+	<l id="652">Madame, Monsieur le Ministre</l>
+	<l id="653">Demande s'il pourrait entrer.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="654" syll="2" part="i">Oui-dà.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Amsterdam, Le Médecin, L'Apothicaire,le Chirurgien, Le Ministre, La Laquais. 
+</stage> 
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="654" syll="6" part="f">C'est très bien rencontrer</l>
+	<l id="655">Que de trouver un si beau monde ;</l>
+	<l id="656">Toute l'Écriture se fonde</l>
+	<l id="657">Sur la parole et l'oraison,</l>
+	<l id="658">Et l'Apôtre avecque raison...</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="659">Ho, Monsieur, trêve de prière,</l>
+	<l id="660">Notre malade n'entend guère,</l>
+	<l id="661">Et n'a pas besoin de parler,</l>
+	<l id="662">Vous feriez ici reculer</l>
+	<l id="663">Les effets de notre remède.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="664">Que le bon Dieu soit à son aide :</l>
+	<l id="665">Je lus un passage autrefois</l>
+	<l id="666">Dans le second livre des Rois ,</l>
+	<l id="667">Qui vient à propos, ce me semble.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="668">Attendez, Monsieur, qu'on s'assemble</l>
+	<l id="669">Pour venir ouïr vos sermons.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="670">Mes discours ne seront pas longs,</l>
+	<l id="671">En deux mots je vais vous les dire :</l>
+	<l id="672">Il faut que le pécheur soupire,</l>
+	<l id="673">Disait le Prophète Royal </l>
+	<l id="674">En bénissant Dieu dans son mal,</l>
+	<l id="675">Qu'il reçoive avec révérence</l>
+	<l id="676">Le partage de la souffrance ;</l>
+	<l id="677">Cela se trouve mot à mot</l>
+<note type="L">Clément Marot (1496-1544) : poète français du XVIème siècle.</note>
+	<l id="678">Au livre de Clément_Marot ;</l>
+	<l id="679">Car comme nous disons au prêche,</l>
+	<l id="680">Sept fois au jour le juste pèche,</l>
+	<l id="681">Et devant le souverain bien</l>
+	<l id="682">Toutes nos oeuvres ne font rien.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="683">Hélas Seigneur ! Je vous l'accorde.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="684">Implorez sa miséricorde</l>
+	<l id="685">Amsterdam, et vous dépêchés</l>
+	<l id="686">À lui déclarer vos péchés ;</l>
+	<l id="687">Dites d'une douleur profonde,</l>
+	<l id="688">Seigneur, j'ai failli dans le monde,</l>
+	<l id="689">Je mérite votre rigueur,</l>
+	<l id="690">Et suis un extrême pêcheur ;</l>
+	<l id="691">Mais lorsque je vous le confesse</l>
+	<l id="692">Ayez pitié de ma faiblesse,</l>
+	<l id="693">Et ne voyez point mon délit.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="694">Monsieur, que ce soit assez dit,</l>
+	<l id="695">Sa cervelle est assez défaite,</l>
+	<l id="696">Sans que vous lui rompiez la tête,</l>
+	<l id="697">Vous l'avez assez consolé,</l>
+	<l id="698">Suffit, il n'a que trop parlé ,</l>
+	<l id="699">Ne l'obligez pas davantage</l>
+	<l id="700">À mettre la langue en usage ;</l>
+	<l id="701">Car en vérité ses discours.</l>
+	<l id="702">Lui causent la fin de ses jours.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="703">Hé bien, Monsieur, je me retire.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="704">Attendez, je veux encor dire</l>
+	<l id="705">Quelque chose de bien secret.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="706" syll="3" part="i">Et qu'est-ce ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="706" syll="5" part="f">J'ai bien du regret</l>
+	<l id="707">D'avoir abandonné la Messe,</l>
+	<l id="708">Et pour dire vrai, je confesse</l>
+	<l id="709">Que ce qui me fit révolter,</l>
+	<l id="710">Fut, que je ne pus supporter</l>
+	<l id="711">L'observation du Carême,</l>
+	<l id="712">J'en avais un[e] horreur extrême,</l>
+	<l id="713">Et le gibier et les perdrix</l>
+	<l id="714">Me plurent fort les Vendredis</l>
+	<l id="715">La Confesse, la Pénitence,</l>
+	<l id="716">Gênaient beaucoup ma conscience :</l>
+	<l id="717">J'eus une forte aversion</l>
+	<l id="718">A faire restitution,</l>
+	<l id="719">Et la licence illégitime</l>
+	<l id="720">De ne payer jamais la dîme,</l>
+	<l id="721">s'accommoda fort à mon goût ;</l>
+	<l id="722">D'ailleurs ce qui me plût surtout,</l>
+	<l id="723">Fut le revenu de l'Église,</l>
+	<l id="724">Sans lequel j'étais en chemise,</l>
+	<l id="725">Les droits et les biens dérobés</l>
+	<l id="726">Des abbesses et des abbés,</l>
+	<l id="727">Les évêchés, les monastères</l>
+	<l id="728">Augmentèrent fort mes affaires,</l>
+	<l id="729">Et pour me rendre souverain</l>
+	<l id="730">Je quittai le parti Romain ;</l>
+	<l id="731">Enfin je devins hérétique</l>
+	<l id="732">Par un mouvement politique.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="733">Monseigneur, que dites-vous là,</l>
+	<l id="734">Ah ! Rétractez-vous de cela,</l>
+	<l id="735">Un pareil discours m'épouvante,</l>
+	<l id="736">Sans doute Belzébuth vous tente,</l>
+	<l id="737">Et votre esprit est obsédé,</l>
+	<l id="738">Saül fut ainsi possédé :</l>
+	<l id="739">Ô que le bon Dieu vous assiste,</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="740">Non non, je veux être Papiste,</l>
+	<l id="741">Toute votre Religion</l>
+	<l id="742">N'est qu'une sotte illusion,</l>
+	<l id="743">Et je commence de connaître</l>
+	<l id="744">Qu'il est bon d'appeler un prêtre,</l>
+	<l id="745">Vos songes ne font que d'abus.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="746" syll="3" part="i">Ah Seigneur !...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="746" syll="5" part="f">Ah ne parlez plus !</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="747">C'est assez Monsieur le Ministre,</l>
+	<l id="748">Il faudrait avoir un registre</l>
+	<l id="749">Pour contrôler vos discours.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="750" syll="1" part="i">Mais...</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="750" syll="7" part="f">Mais, parlerez-vous toujours,</l>
+	<l id="751">Brisez-là je vous en supplie,</l>
+	<l id="752">Vous augmentez sa maladie</l>
+	<l id="753">En le faisant mettre en courroux.</l>
+</sp>
+<sp who="LE MINISTRE"><speaker>LE MINISTRE.</speaker>
+	<l id="754">Adieu donques, salut à tous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Le Médecin, l'Apothicaire, La Chirurgien, La Comtesse.
+</stage>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+	<l id="755">Que cet homme a mauvaise grâce.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="756">Cependant le temps nous menace,</l>
+	<l id="757">Si nous ne le ménageons bien,</l>
+	<l id="758">Ainsi Monsieur le Chirurgien,</l>
+	<l id="759">Commençons en cette journée</l>
+	<l id="760">De faire une bonne saignée,</l>
+	<l id="761">Pourtant ce serait mon dessein</l>
+	<l id="762">D'attendre jusques à demain,</l>
+	<l id="763">Parce que cette maladie</l>
+	<l id="764">Penche fort dans l'hydropisie,</l>
+	<l id="765">Et si vous vous en étonnez,</l>
+	<l id="766">Amsterdam saigne trop du nez,</l>
+	<l id="767">Il est enflé, pesant, et lâche,</l>
+	<l id="768">Tout lui fait ombrage, et le fâche,</l>
+	<l id="769">Outre que depuis cet été</l>
+	<l id="770">Il est grandement humecté,</l>
+	<l id="771">Pour moi je le crois hydropique,</l>
+	<l id="772">Et prêt à devenir éthique,</l>
+	<l id="773">Son corps,sa voix et son chagrin,</l>
+	<l id="774">. . . . . .  </l>
+	<l id="775">Et cette ardeur qu'il a de boire</l>
+	<l id="776">Est une marque assez notoire,</l>
+	<l id="777">Que cet homme ne vivra pas :</l>
+	<l id="778">Mettons-le donc entre les bras</l>
+	<l id="779">De la providence Divine ;</l>
+	<l id="780">Qu'on me conserve son urine,</l>
+	<l id="781">Car je me prépare aujourd'hui</l>
+	<l id="782">À faire consulter pour lui.</l>
+	<l id="783">Pour ses repas, une rôtie</l>
+	<l id="784">Raisonnablement assortie,</l>
+	<l id="785">Sera tout ce qu'il doit manger,</l>
+	<l id="786">Et l'on ne doit pas le charger,</l>
+	<l id="787">Puis qu'il n'a que trop d'immondices :</l>
+	<l id="788">Travaillons à guérir ses vices,</l>
+	<l id="789">Et réparons de tous côtés</l>
+	<l id="790">Ses membres pourris et gâtés,</l>
+	<l id="791">Son mal sera quoi qu'on en die,</l>
+	<l id="792">Une fâcheuse maladie,</l>
+	<l id="793">Madame, je vous dis adieu</l>
+	<l id="794">Recommandez le tout à Dieu,</l>
+	<l id="795">Et tâchez par votre prière</l>
+	<l id="796">Qu'il n'ait pas un sort plus contraire.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Le Médecin, La Comtesse.
+</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="797">Après avoir bien consulté,</l>
+	<l id="798">Nous avons enfin arrêté,</l>
+	<l id="799">Qu'il faut qu'en toute diligence</l>
+	<l id="800">Amsterdam change d'air en France ;</l>
+	<l id="801">C'est un pays qui sera bon</l>
+	<l id="802">Pour lui délasser le poumon</l>
+	<l id="803">Son estomac est fort débile, </l>
+	<l id="804">Il n'a qu'amertume et que bile,</l>
+	<l id="805">Son corps est beaucoup altéré,</l>
+	<l id="806">Mélancolique, intempéré,</l>
+	<l id="807">Chargé de matières fécales,</l>
+	<l id="808">Et d'obstructions inégales</l>
+	<l id="809">Accablé de beaucoup de maux,</l>
+	<l id="810">Et tout plein de flegmes et d'eaux ;</l>
+	<l id="811">Enfin, Madame, je m'explique,</l>
+	<l id="812">Votre malade est hydropique.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="813">Que doit-il faire en cet état ?</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="814">Il faut qu'il change de climat,</l>
+	<l id="815">Et que chargeant la troupelande,</l>
+	<l id="816">Il vide la terre d'Hollande :</l>
+	<l id="817">Ce pays n'est pas bon pour lui,</l>
+	<l id="818">Il l'a gâté jusqu'aujourd'hui,</l>
+	<l id="819">Et s'il y fait plus sa demeure,</l>
+	<l id="820">Il est à craindre qu'il n'y meurs.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="821">Mais en quel lieu doit-il aller ?</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="822">À Paris, parce que c'est l'air</l>
+	<l id="823">Le plus subtil qui soit au monde,</l>
+	<l id="824">Il perdra ce qu'il a d'immonde,</l>
+	<l id="825">En même temps qu'il y sera,</l>
+	<l id="826">Et sans doute il s'y purgera :</l>
+	<l id="827">Il ne saurait mieux se commettre ;</l>
+	<l id="828">Tâchons donques de le remettre,</l>
+	<l id="829">Et dès_lors qu'il sera refait ...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Vvic, Le Médecin, La  Comtesse.
+</stage>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="830">Madame venez s'il vous plaît.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="831" stage="3">Qu'est cela ?</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="831" syll="5" part="f">Votre mari rêve,</l>
+	<l id="832">[Il parle de pain et de] trêve</l>
+	<l id="833">Il crie, il se gêne l'esprit,</l>
+	<l id="834">Et l'on ne sait pas ce qu'il dit,</l>
+	<l id="835">Il nous prend tous pour des fantômes.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="836" syll="3" part="i">Juste Ciel !...</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="836" syll="5" part="f">Ce sont des symptômes,</l>
+	<l id="837">Madame, ne vous troublez pas.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="838">N'aurais-je point de trêve, hélas !</l>
+	<l id="839">Mon coeur, arme toi de constance.</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="840">Monsieur le chirurgien le pense,</l>
+	<l id="841">Il met un emplâtre au front,</l>
+	<l id="842">Et beaucoup de messieurs y sont.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="843" syll="2" part="i">Et qui ?</l>
+</sp>
+<sp who="UVIC"><speaker>UVIC.</speaker>
+	<l id="843" syll="6" part="f">Monsieur l'Apothicaire,</l>
+	<l id="844">Monsieur l'Avocat, le Notaire</l>
+	<l id="845">Mes dames vos filles aussi,</l>
+	<l id="846">Et chacun est en grand souci</l>
+	<l id="847">De la voir troublé de la sorte.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="848">Il faut donner ordre qu'on forte,</l>
+	<l id="849">Et qu'on ne l'incommode pas ;</l>
+	<l id="850">Et je trouve bon en tout cas</l>
+	<l id="851">Qu'on rédige un petit sommaire,</l>
+	<l id="852">Du testament que l'on doit faire,</l>
+	<l id="853">Puisque tous vos gens sont ici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Amsterdam, La Comtesse, Le Médecin, La Zélande, La Frise, Uvic, L'Apothicaire, Le Chirurgien, L'Avocat, La Notaire.
+</stage>
+<stage type="decor/furniture">Amsterdam apparaît sur une lit, accoudé sur les bras du Chirurgien et de l'Apothicaire, avec un gros emplâtre qui lui couvre la moitié du visage, pendant que tous les Acteurs sont autour de son lit.</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="854">Hé bien Monseigneur, qu'est ceci ?</l>
+	<l id="855">Perdez-vous ainsi le courage ?</l>
+	<l id="856">Et lors que vous voyez l'orage</l>
+	<l id="857">Abandonnez vous le timon,</l>
+	<l id="858">Répondez nous ? Que dira-t-on</l>
+	<l id="859">Lorsqu'on saura votre faiblesse,</l>
+	<l id="860">Voulez-vous souffrir qu'on vous presse ?</l>
+	<l id="861">Parlez, Seigneur ? Êtes vous sourd ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM</speaker><stage>, dans la rêverie.
+	</stage>
+	<l id="862">Hola ? Marquis_de_Brandebourg</l>
+	<l id="863">Amenez-vous le Duc_de_Saxe ?</l>
+	<l id="864">Il nous faudra faire une taxe,</l>
+	<l id="865">Afin de payer vos soldats.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="866">Quoi vous ne me connaissez pas,</l>
+	<l id="867" syll="3" part="i">Monseigneur.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="867" syll="5" part="f">La belle demande,</l>
+	<l id="868">Vous être l'Armée Allemande.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="869">Non je suis votre médecin.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="870">Ah, vous êtes un fantassin</l>
+	<l id="871">De Monsieur le Duc_de_Lorraine,</l>
+	<l id="872">Et que fait ce grand Capitaine,</l>
+	<l id="873">Ne pense-t-il pas à venir ?</l>
+	<l id="874">Il devrait bien se souvenir</l>
+	<l id="875">Que ses ordre sont nécessaires</l>
+	<l id="876">À nos troupes auxiliaires.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="877">Ce bon homme est bien égaré.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="878" syll="2" part="i">Mon coeur...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="878" syll="6" part="f">Monsieur_de_Monteray.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="879">Je suis votre chère compagne.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="880">Vous êtes le secours d'Espagne ;</l>
+	<l id="881">Ah, que vous êtes attendu !</l>
+	<l id="882">Sans vous je me serais rendu ;</l>
+	<l id="883">J'ai bien besoin que l'on me guide</l>
+	<l id="884">Je suis sur un cheval sans bride,</l>
+	<l id="885">Et je ne sais point où je vais,</l>
+	<l id="886">J'entreprends, je veux, je ne sais</l>
+	<l id="887">Ce que le Ciel veut que je fasse ,</l>
+	<l id="888">Je commande la Populace</l>
+	<l id="889">Et personne ne m'obéit.</l>
+</sp>
+<sp who="LE NOTAIRE"><speaker>LE NOTAIRE.</speaker>
+	<l id="890">Où Diable va-t-il son esprit.</l>
+</sp>
+<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+	<l id="891">Regardez, Seigneur,qui nous sommes.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="892">Avons nous soixante mille hommes,</l>
+	<l id="893">Et nos gens sont-ils aguerris ?</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="894">Il a pris Corbeil pour Paris ;</l>
+	<l id="895">Allez deviner sa pensée.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="896">Sa cervelle est bien offensée,</l>
+	<l id="897">Il ne faut pas le déguiser.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="898">Son mal n'est point à méprise,</l>
+	<l id="899">Il est aussi grand qu'il peut l'être.</l>
+</sp>
+<sp who="LA FRISE"><speaker>LA FRISE.</speaker>
+	<l id="900" syll="3" part="i">Mon Papa...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="900" syll="5" part="f">Fermez la fenêtre,</l>
+	<l id="901">Les Français entreront par là ;</l>
+	<l id="902">Je vois le Soleil, le voilà.</l>
+</sp>
+<sp who="LA ZÉLANDE"><speaker>LA ZÉLANDE.</speaker>
+	<l id="903">Qu'est cela ? Que voulez-vous dire ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="904">Je dis que Vienne est dans l'Empire,</l>
+	<l id="905">Et que l'Empire doit venir.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="906">Que sert-il de l'entretenir,</l>
+	<l id="907">Il est toujours plus ridicule.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="908" syll="4" part="i">Mon bon mari.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="908" syll="4" part="f">Monte_Cucule.</l>
+	<l id="909">Vous envoie-t-on à mon secours ?</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="910">Hé changez, Seigneur, de discours,</l>
+	<l id="911">Je ne suis pas Monte_Cucule.</l>
+</sp>
+<sp who="LE NOTAIRE"><speaker>LE NOTAIRE.</speaker>
+	<l id="912">Au lieu d'avancer il recule.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="913">Parlez donc sans tant hériter ?</l>
+	<l id="914" syll="3" part="i">Qui suis-je ?...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+<note type="L">Michiel Adriaenszoon de Ruyter (1607-1676), amiral néerlandais, décédé des suites de ses blessures lors de la bataille d'Agosta contre les Français.</note>
+	<l id="914" syll="5" part="f">L'Amiral_Ruyter.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="915">Voilà bien chanter sur mon âme.</l>
+	<l id="916">Je suis l'Hollande votre femme.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="917">Ah, je m'étais doncques mépris.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="918">Réveillez un peu vos esprits ?</l>
+	<l id="919">Et tâchez de vous reconnaître ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="920">Attendez, j'écris une lettre,</l>
+	<l id="921">Tout à l'heure je suis à vous.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="922">Certes les rêveurs sont bien fous :</l>
+	<l id="923">Quelle pitié de ce pauvre homme !</l>
+	<l id="924">Et moi comme est-ce qu'on me nomme ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="925">Vous êtes Monsieur l'Avocat.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="926">Il est, Madame, en bon état ;</l>
+	<l id="927">Mais voyons encore s'il erre ;</l>
+	<l id="928">Voudriez -vous aller à la guerre.</l>
+	<l id="929" syll="5" part="i">Seigneur Amsterdam ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="929" syll="3" part="f">Je ne puis</l>
+	<l id="930">Dans le triste état où je suis.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="931">Il se remet, prenons courage.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="932">Interrogeons-le davantage ;</l>
+	<l id="933">Monseigneur parlons franchement,</l>
+	<l id="934">Voudriez-vous faire un Testament ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="935">Je suis bien aile de le faire,</l>
+	<l id="936">Mais il faut avoir un Notaire.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="937" syll="4" part="i">Il est ici...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="937" syll="4" part="f">Cela va bien.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="938">Or sus, qu'on ne néglige rien,</l>
+	<l id="939">sa connaissance est inégale,</l>
+	<l id="940">Et je crains un autre intervalle,</l>
+	<l id="941">Il est vrai qu'il est un peu mieux,</l>
+	<l id="942">Mais je remarque dans ses yeux</l>
+<note type="L">Intercadence : Terme de médecine. Trouble dans la succession des pulsations artérielles, qui offrent, de loin en loin, une pulsation surnuméraire placée entre deux pulsations. [L] </note>
+	<l id="943">Une certaine intercadence,</l>
+	<l id="944">Qui me met dans la défiance :</l>
+	<l id="945">J'appréhende fort pour tantôt ,</l>
+	<l id="946">Messieurs, qu'on se dépêche tôt,</l>
+	<l id="947">Et pendant que je vais en Ville</l>
+	<l id="948">Qu'on ne s'applique qu'à l'utile ;</l>
+	<l id="949">Dans un'heure je reviendrai,</l>
+	<l id="950">Et d'abord je lui donnerai</l>
+	<l id="951">Certaine potion amère,</l>
+	<l id="952">Qui lui sera fort salutaire,</l>
+	<l id="953">Adieu, faites votre devoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Amsterdam, La Comtesse, L'Avocatn Le Chirurgien, l'Apothicaire, La Zélande, La Frise. 
+</stage>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="954">Hé bien, Seigneur, il faut savoir</l>
+	<l id="955">Ce que vous désirez de faire,</l>
+	<l id="956">Tout est prêt, voici le notaire.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="957">Avons nous assez de témoins ?</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="958">Remettez cela sur nos soins, </l>
+	<l id="959">Nous en avons plus de cent mille</l>
+	<l id="960">Qui sont autour de cette ville.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="961">Il n'en faut pas tant, c'est assez.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="962">Sus donc, Monseigneur, commencez :</l>
+	<l id="963">Que laissez-vous à votre femme ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="964">Beaucoup de peine, sur mon âme,</l>
+	<l id="965">Et pour tous ses droits nuptiaux,</l>
+	<l id="966">La meilleure part de les maux,</l>
+	<l id="967">. . . . . . . . . . </l>
+	<l id="968">De se remarier en France,</l>
+	<l id="969">Et la charge en mon testament</l>
+	<l id="970">De ne tarder pas longuement.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="971">Que léguez-vous à la Zélande ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="972">Un Monarque qui la demande,</l>
+	<l id="973">C'est un Prince des plus puissants ;</l>
+	<l id="974">Qu'elle l'accepte, j'y consens</l>
+	<l id="975">Et c'est le plus grand avantage</l>
+	<l id="976">Qu'elle aura de mon héritage.</l>
+</sp>
+<sp who="LA ZÉLANDE"><speaker>LA ZÉLANDE.</speaker>
+	<l id="977">Cet époux est à mon plaisir,</l>
+	<l id="978">Et je ne puis mieux le choisir.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="979">Que laisserez-vous à la Frise ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="980">Ses biens, les droits, et sa franchise,</l>
+	<l id="981">Mais elle doit les disputer</l>
+<note type="C">Christoph Bernhard von Galen (1606-1678), évêque de Munster.</note>
+	<l id="982">Avec l'Évêque_de_Munster.</l>
+</sp>
+<sp who="LA FRISE"><speaker>LA FRISE.</speaker>
+	<l id="983">C'est donc un procès qu'on me lègue !</l>
+	<l id="984">J'ai bien peur de suivre Nimègue.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="985">Que léguez-vous à Vambeunin ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="986">Une potence à ce coquin,</l>
+	<l id="987">Il n'aura point d'autre salaire,</l>
+	<l id="988">Écrivez Monsieur le Notaire.</l>
+</sp>
+<sp who="VAMBEUNIN"><speaker>VAMBEUNIN.</speaker>
+	<l id="989">Ce légat, Seigneur, me déplaît,</l>
+	<l id="990">Je vous le remets tel qu'il est,</l>
+	<l id="991">Et de bon coeur, vous en fais quitte.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="992">Va, peste méchante et maudite.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="993">Ne laissez-vous rien à vos gens ?</l>
+	<l id="994">Valets, domestiques, agents,</l>
+	<l id="995">Administrateurs des affaires,</l>
+	<l id="996">Bourguemestres, pensionnaires ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="997">Je leur fais un légat à tous.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="998">Et qu'est-ce que leur donnez vous ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="999">Je les donnes au cent mille diables,</l>
+	<l id="1000">Ils m'ont perdu les misérables,</l>
+	<l id="1001">Et m'ont si méchamment conduit,</l>
+	<l id="1002">Qu'ils m'ont mis où je suis réduit.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="1003">Ce n'est pas un petit salaire,</l>
+	<l id="1004">Mettez-là Monsieur le Notaire ?</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="1005">Que donnez-vous à vos soldats ?</l>
+	<l id="1006">Qui durant ces derniers combats</l>
+	<l id="1007">Vous ont montré tant de vaillance ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="1008">Je souhaite pour récompense,</l>
+	<l id="1009">Qu'au premier combat des Français</l>
+	<l id="1010">Ils périssent tous à la fois ;</l>
+	<l id="1011">Et plaise au grand Dieu qu'il arrive</l>
+	<l id="1012">Que nul d'eux à l'autre survive.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="1013">Certes ce légat n'est pas sot,</l>
+	<l id="1014">Couchez-le, Monsieur, mot à mot,</l>
+	<l id="1015">Afin qu'on le leur signifie,</l>
+	<l id="1016">De crainte que l'on ne l'oublie.</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="1017">Or sus, tout va bien jusqu'ici,</l>
+	<l id="1018">Mais les choses étant ainsi,</l>
+	<l id="1019">Il faut bien que votre héritage</l>
+	<l id="1020">Soit régi par une homme sage,</l>
+	<l id="1021">Hardi, judicieux, entier ;</l>
+	<l id="1022">Qui nommez-vous pour héritier ?</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="1023">La chose vaut bien qu'on y pense.</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="1024">J'institue le Roi de France.</l>
+</sp>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
+	<l id="1025" syll="4" part="i">Et vos enfants...</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="1025" syll="4" part="f">Retirez-vous,</l>
+	<l id="1026">Mes enfants ne sont que des fous,</l>
+	<l id="1027">Des insolents, et des volages,</l>
+	<l id="1028">Cet héritier les fera sages,</l>
+	<l id="1029">Je veux, j'entends, j'ai résolu,</l>
+	<l id="1030">Qu'il en soit le maître absolu,</l>
+	<l id="1031">Qu'il n'ait rien à leur rendre compte,</l>
+	<l id="1032">Et s'ils font les sots qu'il les dompte...</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="1033">Seigneur, cela ne se peut mieux,</l>
+	<l id="1034">Vos enfants seront glorieux</l>
+	<l id="1035">D'être sous un si grand Monarque,</l>
+	<l id="1036">Et votre choix est une marque</l>
+	<l id="1037">De l'amour que vous leur portez,</l>
+	<l id="1038">Soyez constant et persistez,</l>
+	<l id="1039">En un sentiment tant illustre,</l>
+	<l id="1040">Vous augmenterez votre lustre,</l>
+	<l id="1041">Et la gloire de votre nom</l>
+	<l id="1042">En celle du sang de Bourbon ;</l>
+	<l id="1043">Cette race est toute éclatante,</l>
+	<l id="1044">Généreuse autant que puissante,</l>
+	<l id="1045">Et c'est d'elle d'où tant de Rois.</l>
+	<l id="1046">On[t] prescrit au monde des Lois :</l>
+	<l id="1047">Celui qui vous livre la guerre,</l>
+	<l id="1048">Est un demi-Dieu sur la terre,</l>
+	<l id="1049">Mais avecque cette fierté</l>
+	<l id="1050">Il est tout rempli de bonté ;</l>
+	<l id="1051">C'est un Prince très débonnaire,</l>
+	<l id="1052">Et vous ne pouvez pas mieux faire,</l>
+	<l id="1053">Que de choisir votre agresseur</l>
+	<l id="1054">Pour votre illustre successeur .</l>
+	<l id="1055">Achevez un dessein si mâle,</l>
+	<l id="1056">Mais qu'est-ce ? Vous êtes si pâle,</l>
+	<l id="1057" syll="5" part="i">Qu'avez-vous Seigneur ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM.</speaker>
+	<l id="1057" syll="3" part="f">Mal au coeur,</l>
+	<l id="1058">Et je sens finir sa chaleur,</l>
+	<l id="1059">De grâce que l'on me soutienne !</l>
+</sp>
+<sp who="L'AVOCAT"><speaker>L'AVOCAT.</speaker>
+	<l id="1060">Faites vite, Messieurs, qu'on vienne !</l>
+	<l id="1061">Afin qu'il signe promptement</l>
+	<l id="1062">La teneur de ce testament.</l>
+</sp>
+<sp who="LE NOTAIRE"><speaker>LE NOTAIRE.</speaker>
+	<l id="1063">Tenez, Seigneur, voilà la plume ?</l>
+</sp>
+<sp who="AMSTERDAM"><speaker>AMSTERDAM</speaker><stage type="frigthen">, souscrit en tremblant.
+	</stage>
+	<l id="1064">Hélas ! Tout mon feu se consume,</l>
+	<l id="1065">À peine ma tremblante main</l>
+	<l id="1066">Peut ici vous donner mon sein,</l>
+	<l id="1067">J'ai souscrit, mais je ne sais comme.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><stage> Tous les acteurs paraissent à cette scène.
+</stage>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="1068">Comment se porte ce bon homme ?</l>
+	<l id="1069">Il a bien mauvaise couleur.</l>
+</sp>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
+	<l id="1070">C'est qu'il succombe à son malheur,</l>
+	<l id="1071">En vain se fait-il violence</l>
+	<l id="1072">Pour retenir la défaillance,</l>
+	<l id="1073">Elle revient, il n'en peut plus.</l>
+</sp>
+<sp who="LE MÉDECIN"><speaker>LE MÉDECIN.</speaker>
+	<l id="1074">Parlons net, tout est superflu,</l>
+	<l id="1075">Ne traitons plus cet hydropique,</l>
+	<l id="1076">Il faut seulement qu'on s'applique,</l>
+	<l id="1077">À le faire voir au Soleil,</l>
+	<l id="1078">Je remarque et lis dans son oeil,</l>
+	<l id="1079">Qu'il a besoin de sa lumière,</l>
+	<l id="1080">C'est la médecine dernière</l>
+	<l id="1081">Donc nous pouvons encore user :</l>
+	<l id="1082">Et pour ne pas nous abuser,</l>
+	<l id="1083">Je le vois dans un grand désastre,</l>
+	<l id="1084">S'il n'a du secours de cet astre.</l>
+	<l id="1085">Qu'il songe donc à recourir</l>
+	<l id="1086">À l'objet qui le fait mourir ;</l>
+	<l id="1087">Et puisqu'il faut qu'il le guérisse,</l>
+	<l id="1088">Qu'il se montre sans artifice</l>
+	<l id="1089">Mais cependant qu'une autre fois,</l>
+	<l id="1090">Amsterdam révère les Rois,</l>
+	<l id="1091">Et que surtout il considère,</l>
+	<l id="1092">La grandeur de leur caractère, </l>
+	<l id="1093">Qu'il sache que les potentats</l>
+	<l id="1094">Sont les Dieux vivant ici-bas,</l>
+	<l id="1095">Qu'ils tiennent en main le tonnerre</l>
+	<l id="1096">Quand il faut châtier la Terre,</l>
+	<l id="1097">Et que lorsqu'ils sont outragés</l>
+	<l id="1098">Il est juste qu'ils soient vengés ;</l>
+	<l id="1099">Ayons pour ce flambeau du monde</l>
+	<l id="1100">Une révérence profonde,</l>
+	<l id="1101">Ces discours s'adressent à tous ;</l>
+	<l id="1102">C'est assez dit retirons nous.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

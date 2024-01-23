@@ -1,0 +1,2287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LA DEMANDE, COMÉDIE.</title>
+			<author type="texte" ISNI="0000 0000 4101 0695">Jules RENARD (1813-1877)</author>
+			<author type="texte" ISNI="0000 0000 7830 5825">Georges DOCQUOIS (1863-1927)</author>
+		</titleStmt>
+		<publicationStmt>
+			<editor>Texte établi par Paul FIEVRE févier 2023.</editor>
+			<publisher>Publié par Paul FIEVRE, mars 2023</publisher>
+			<idno>RENARD_DEMANDE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>			
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien/>
+		</SourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA DEMANDE</titlePart>
+			<titlePart type="sub">COMÉDIE EN UN ACTE</titlePart>
+			<titlePart type="sub">en collaboration avec Georges Docquois.</titlePart>
+		</docTitle> 
+		<docDate value="1896">1896. </docDate>
+		<docAuthor id="RENARD, Jules">Jules RENARD.</docAuthor>
+		<docImprint>
+			<editor>PARIS, PAUL OLLENDORFF, ÉDITEUR, 28 bis, RUE DE RICHELIEU, 28 bis.</editor>
+			<copyright>Tous droits de reproduction, de traduction et de représentation réservés pour tous les pays, y compris la Suède et la Norvège.</copyright>
+		</docImprint>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="RÉPIN" sex="1" type="H" statut="" age="A" stat_amour="néant">RÉPIN</role>.</castItem>
+		<castItem><role id="GAILLARDON" sex="1" type="H" statut="" age="A" stat_amour="néant">GAILLARDON</role>.</castItem>
+		<castItem><role id="MALAHIEUDE" sex="1" type="H" statut="" age="A" stat_amour="néant">MALAHIEUDE</role>.</castItem>
+		<castItem><role id="MADAME RÉPIN" sex="1" type="H" statut="" age="A" stat_amour="néant">MADAME RÉPIN</role>.</castItem>
+		<castItem><role id="HENRIETTE" sex="1" type="H" statut="" age="A" stat_amour="néant">HENRIETTE</role>.</castItem>
+		<castItem><role id="MARIE" sex="1" type="H" statut="" age="A" stat_amour="néant">MARIE</role>.</castItem>
+		<castItem><role id="AUGUSTINE" sex="1" type="H" statut="" age="A" stat_amour="néant">AUGUSTINE</role>.</castItem>
+    </castList>
+	<set location="Province" country="France" periode="XIXème" gps="">À la gare d'une petite ville.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LA DEMANDE</head>
+<stage type="decor">La salle principale d'une ferme. - Au fond, une large porte (milieu gauche) et une grande fenêtre (milieu droite) ouvertes sur la cour de la ferme. - Vues d'étables, écuries, champs. - En pan coupé, au fond, à droite, porte vitrée de la cuisine. - À gauche, premier plan, porte de la chambre des Répin. - À droite, deuxième plan, porte de celle des filles. Un bahut à droite, premier plan. Une grande table, également à droite, premier plan. Chaises, etc.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Répin, Gaillardon, Madame Répin, puis Augustine.
+</stage>
+<stage type="sit/drink">Répin et Gaillardon, assis à la table, prennent le vermouth.</stage>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="dress">, le chapeau sur la tête, un verre dans une main, sa pipe dans l'autre.
+</stage>
+<p id="1">
+	<s id="1">Oui, c'est un vermouth agréable.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="dress">, vernis de régisseur.
+</stage>
+<p id="2">
+	<s id="1">C'est que je n'aime guère boire que de bonnes choses, voyez-vous... </s>
+	<s id="2">Et alors, là, c'est par hasard que vous vous êtes trouvé à passer devant la ferme, ce matin ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="explicit">, parisien deux jours par mois pour vendre ses boeufs.
+</stage>
+<p id="3">
+	<s id="1">Par hasard, oui... </s>
+	<s id="2">Vous savez que, chaque dimanche, j'ai l'habitude de faire la partie de cartes avec Jean_Louvet ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="4">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="5">
+	<s id="1">Mais le gaillard se marie.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage>, parler lent.
+</stage>
+<p id="6">
+	<s id="1">Avec qui donc ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="7">
+	<s id="1">Avec la fille du fermier Patu. </s>
+	<s id="2">Oh ! </s>
+	<s id="3">C'est bien assorti.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="8">
+	<s id="1">Et vous, m'sieur Gaillardon, ça ne vous tente point ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="9">
+	<s id="1">Moi ? </s>
+	<s id="2">Ah ! </s>
+	<s id="3">De me marier ? </s>
+	<s id="4">Eh ! </s>
+	<s id="5">On y pense, madame Répin, on y pense.</s>
+</p>
+<stage type="drink">Il boit.</stage>
+<p id="10">
+	<s id="1">Oui, on y pense.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="11">
+	<s id="1">Vous vous promenez tout seul, alors, ce matin ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="12">
+	<s id="1">Oui, et, même, en venant de votre côté, j'ai rencontré vos deux demoiselles sur le chemin de la messe.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="13">
+	<s id="1">Elles vous ont vu ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<note type="L*">Taure : Jeune vache. [L]</note>
+<p id="14">
+	<s id="1">Oui donc ! </s>
+	<s id="2">Qu'elles m'ont vu. </s>
+	<s id="3">Je les ai arrêtées et je leur ai dit « Mesdemoiselles, ça vous va ? » </s>
+	<s id="4">Et elles m'ont répondu, bien honnêtement : « Très bien, pas mal, merci, monsieur Gaillardon, et vous ? »... </s>
+	<s id="5">C'est même ce qui m'a donné l'idée de pousser jusqu'ici, parce que je me suis mis à repenser à la petite taure ; vous savez, m'sieur Répin ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="15">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui, la borgne...</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="16">
+	<s id="1">Juste ! </s>
+	<s id="2">Eh bien, vous vous rappelez le prix que je vous en ai offert, il y a quelque temps ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="17">
+	<s id="1">Et vous vous rappelez ce que je vous ai répondu ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="18">
+	<s id="1">Oh ! </s>
+	<s id="2">À ce prix-là, bien sûr, elle est trop chère.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="19">
+	<s id="1">Je l'aurais nourrie depuis le printemps, et j'aurais couru des risques pour ne rien gagner dessus ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="">
+	<s id="1">Ce serait vraiment trop triste.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="20">
+	<s id="1">Pourtant, je vous assure...</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="stand">, se levant.
+</stage>
+<p id="21">
+	<s id="1">Non, tenez, venez voir la bête.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="drink/stand">, vidant son verre et se levant aussi.
+</stage>
+<p id="22">
+	<s id="1">D'accord ; entre gens de conscience, on s'entend toujours, n'est-ce pas ?</s>
+</p>
+<stage type="closer/exit/together">Il rejoint Répin, qui se dirige vers la sortie.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="location">, sur le seuil, parlant dans la cour.
+</stage>
+<p id="23">
+	<s id="1">Qu'est-ce qu'il y a ?</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE</speaker><stage type="entrance/location">, paraissant, venant de gauche.
+</stage>
+<p id="24">
+	<s id="1">Not' maître, c'est Arthur qui ramène la Grise qui vient de s'abîmer le genou.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="25">
+	<s id="1">Crédié ! </s>
+	<s id="2">Une si belle jument !</s>
+</p>
+<stage type="away/follow">Il disparaît, suivi de Gaillardon.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>Scène II.</head><stage> Madame Répin, Augustine, puis Henriette et Marie.
+</stage>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="closer/toward">, à Augustine qui est entrée.
+</stage>
+<p id="1">
+	<s id="1">Comment que c'est arrivé, ce malheur-là ?</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<note type="L">Buter : Appuyer contre. Buter ses genoux. [L]</note>
+<p id="2">
+	<s id="1">Je ne le sais point. </s>
+	<s id="2">C'est au retourner de l'abreuvoir, qu' m'a dit Arthur. </s>
+	<s id="3">La Grise aura buté.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="3">
+	<s id="1">C'est-il grave ?</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<p id="4">
+	<s id="1">Je ne le sais point. </s>
+	<s id="2">C'est Arthur qui m'a dit que ça ne serait peut-être pas une grande affaire.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="5">
+	<s id="1">C'est un imbécile, Arthur. </s>
+	<s id="2">Je n'ai jamais vu un domestique aussi peu dégourdi.</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<p id="6">
+	<s id="1">Oh ! </s>
+	<s id="2">La Grise...</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="7">
+	<s id="1">C'est bon. </s>
+	<s id="2">Ramasse les verres et passe un torchon sur la table.</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE</speaker><stage type="dress">, en décrochant un torchon près de la fenêtre.
+</stage>
+<p id="8">
+	<s id="1">La messe est finie, voilà Mesdemoiselles Henriette et Marie.</s>
+</p>
+<stage type="closer/wach/away">Elle va à la table et la nettoie. Derrière les vitres de la fenêtre, on voit passer les deux soeurs en causerie très animée.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="closer">, entrant, à sa soeur qui la suit.
+</stage>
+<p id="9">
+	<s id="1">Ça sera pour dans quinze jours, alors ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="10">
+	<s id="1">Probablement.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="11">
+	<s id="1">Quoi donc ? </s>
+	<s id="2">Qu'est-ce qui sera pour dans quinze jours ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="dress">, défaisant son chapeau.
+</stage>
+<p id="12">
+	<s id="">Le mariage de Louise_Patu.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="dress">, de même.
+</stage>
+<p id="13">
+	<s id="1">Monsieur le curé a publié ses bans à la messe.</s>
+</p>
+<stage type="carry/exit">Augustine va porter les chapeaux dans la chambre de droite et revient.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="14">
+	<s id="1">A-t-elle de la chance, cette Louise_Patu !</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="toward">, à sa mère.
+</stage>
+<p id="15">
+	<s id="1">Elle épouse Jean_Louvet.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="16">
+	<s id="1">Je le sais.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="17">
+	<s id="1">Tiens ! </s>
+	<s id="2">Par qui l'as-tu su ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="18">
+	<s id="1">Par Monsieur_Gaillardon.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="19">
+	<s id="1">Il est venu ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="20">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="21">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="22">
+	<s id="1">Pour la taure, il paraît.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="23">
+	<s id="1">Nous l'avons rencontré en allant à l'église.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="24">
+	<s id="1">Il vous a parlé.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="25">
+	<s id="1">Oui, il nous a demandé« Comment ça vous va ? » </s>
+	<s id="2">Nous lui avons répondu. </s>
+	<s id="3">Il est resté un instant à nous regarder toutes les deux... </s>
+	<s id="4">Hein, Henriette ?</s>
+</p>	
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="laugh">, riant.
+</stage>
+<p id="26">
+	<s id="1">Oui, comme pour faire son choix.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="27">
+	<s id="1">Et puis ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="28">
+	<s id="1">Et puis, il est parti, sans rien dire.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="29">
+	<s id="1">Il n'est plus à la ferme ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="30">
+	<s id="1">Si, il est à l'étable, avec ton père.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="sit">, s'asseyant.
+</stage>
+<p id="31">
+	<s id="1">Ah ! </s>
+	<s id="2">Cette Louise_Patu, en a-t-elle de la chance !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="wark">, déployant une nappe.
+</stage>
+<p id="32">
+	<s id="1">Allons, mes enfants, l'heure du dîner vient. </s>
+	<s id="2">Il faut mettre la table. Augustine, apporte les couverts.</s>
+</p>
+<stage type="exit">Augustine disparaît dans la cuisine.</stage>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="33">
+	<s id="1">Dis donc, Henriette ? </s>
+	<s id="2">Tu ne trouves pas que Monsieur_Gaillardon nous a acheté bien plus de bêtes cette année que l'année dernière ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="34">
+	<s id="1">Tu crois ?</s>
+</p>
+<stage type="back/carry/drop/location">Augustine est revenue avec une pile de quatre assiettes, quatre verres, etc. Elle pose le tout sur la table.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="35">
+	<s id="1">Allons, Henriette ! </s>
+	<s id="2">Allons, Marie !</s>
+</p>
+<stage type="drop">Henriette et Marie placent les quatre couverts.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les mêmes, Répin.
+</stage>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="quick">, se précipitant vers Répin qui entre.
+</stage>
+<p id="1">
+	<s id="1">Et la Grise, Répin ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="2">
+	<s id="1">La Grise ? </s>
+	<s id="2">La Grise ?... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Oui. </s>
+	<s id="5">Eh bien, rien de mauvais. </s>
+	<s id="6">D'ailleurs, je viens d'envoyer quérir m'sieu Malahieude, le vétérinaire. </s>
+	<s id="7">Mais il s'agit bien de la Grise !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="watch">, remarquant tout à coup l'oeil inaccoutumé de Répin.
+</stage>
+<p id="3">
+	<s id="1">Quoi donc ?</s>
+</p>
+<stage type="closer">Henriette et Marie se rapprochent.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="4">
+	<s id="1">Écoutez, écoutez, bonne nouvelle ! Gaillardon en prend une !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage>, ahurie.
+</stage>
+<p id="5">
+	<s id="1">Une quoi ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="6">
+	<s id="1">Fais donc la niaise ! </s>
+	<s id="2">Une de nos filles, et non une de tes dindes !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="7">
+	<s id="1">Hein ?... </s>
+	<s id="2">Vrai ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="8">
+	<s id="1">Mettez une assiette de plus.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="9">
+	<s id="1">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="10">
+	<s id="1">Tu comprends, je l'ai invité à déjeuner. </s>
+	<s id="2">Il accepte.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="11">
+	<s id="1">Mais où est-il ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="12">
+	<s id="1">Il regarde nos bêtes.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="13">
+	<s id="1">Laquelle prend-il ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="14">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="15">
+	<s id="1">Henriette ou Marie ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="16">
+	<s id="1">Ah ! </s>
+	<s id="2">Bon !... </s>
+	<s id="3">Mais, vous le savez bien ! </s>
+	<s id="4">Je l'ai toujours dit.</s>
+</p>
+<stage type="sing">Il chantonne sur l'air "Quand trois poules" : </stage>
+<p id="17">
+	<s id="1">Quand deux filles sont à marier, c'est l'aînée qui va devant. </s>
+	<s id="2">La cadette suit derrière !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="18">
+	<s id="1">Henriette, alors ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="19">
+	<s id="1">Évidemment !</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage>, sautant de joie.
+</stage>
+<p id="20">
+	<s id="1">Oh ! </s>
+	<s id="2">Tant mieux ! </s>
+	<s id="3">Mon Henriette ! </s>
+	<s id="4">Tant mieux !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="sit/wipe">, s'asseyant et passant un mouchoir sur son crâne lisse.
+</stage>
+<p id="21">
+	<s id="1">Ah ! </s>
+	<s id="2">Mes enfants ! </s>
+</p>
+<stage type="toward">À Henriette.</stage>
+<p id="22">
+	<s id="1">Tu peux te vanter de m'avoir donné du mal, toi ! </s>
+	<s id="2">Me diras-tu pourquoi j'ai eu tant de peine à te caser ? </s>
+	<s id="3">Il faut l'avouer, la corvée étant faite je perdais courage.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="sweet/stupid">, bonté, bêtise, docilité.
+</stage>
+<p id="23">
+	<s id="1">C'est que je ne suis pas bien jolie, papa.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="24">
+	<s id="1">C'est vrai, nous t'avons un peu manquée... </s>
+	<s id="2">À la seconde reprise, nous avons mieux réussi Marie.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="25">
+	<s id="1">Alors, maintenant, puisque Henriette a son affaire, mon tour est venu, papa ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, gaieté ronde.
+</stage>
+<p id="26">
+	<s id="1">Oui, mais il ne faut pas pour cela te monter la tête. </s>
+	<s id="2">Il suffit que tu sois à prendre pour qu'on ne veuille plus de toi. </s>
+	<s id="3">Ça arrive.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="27">
+	<s id="1">Oh ! </s>
+	<s id="2">Papa, on m'a si souvent demandée !... </s>
+	<s id="3">Mais tu les envoyais tous promener, mes prétendants.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="28">
+	<s id="1">Je te le répète, ce n'était pas à toi à te mettre en tête. </s>
+	<s id="2">L'aînée passe avant la cadette, je ne sors pas de là. </s>
+	<s id="3">Aussi, parlons d'abord du mariage de ta soeur ; nous penserons au tien après.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="29">
+	<s id="1">Alors, c'est fait ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="30">
+	<s id="1">Oh ! </s>
+	<s id="2">Je vous ai bâclé ça en deux temps et trois mouvements, en lui vendant ma petite taure. </s>
+	<s id="3">J'y ai perdu six écus. </s>
+	<s id="4">Je ne les regrette pas. </s>
+	<s id="5">On ne fait jamais trop pour ses enfants. </s>
+	<s id="6">Tout ce qui est ici à moi vous appartient, mes filles, tout.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="31">
+	<s id="1">Et il reste à déjeuner ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="32">
+	<s id="1">Oui ; il est en train de s'entretenir avec Arthur qui doit lui emmener sa bête à cornes au chemin de fer.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="33">
+	<s id="1">Eh ben ! </s>
+	<s id="2">Qu'est-ce que je vais lui donner à cet homme ? </s>
+	<s id="3">Il n'y a que des restes.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="34">
+	<s id="1">Ne t'inquiète donc pas, bête ! </s>
+	<s id="2">Je l'ai invité sans façon, à manger un morceau sur le pouce.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="35">
+	<s id="1">Je connais ça on dit qu'on va manger un morceau sur le pouce, et on dévore pendant trois heures d'horloge !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="36">
+	<s id="1">Fais sauter un poulet !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="37">
+	<s id="1">Fais sauter un poulet ! </s>
+	<s id="2">Il faut le temps ! </s>
+	<s id="3">Je ne le tiens pas, le poulet ! </s>
+	<s id="4">Le poulailler est vide, et je peux crier toute la journée : ti, ti cocotte ! </s>
+	<s id="5">Ti, ti cocotte ! </s>
+	<s id="6">Sans rien attraper. </s>
+	<s id="7">Tu ne pouvais pas me prévenir ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="38">
+	<s id="1">Prévenir de quoi ? </s>
+	<s id="2">Est-ce que je savais que Gaillardon avait des vues sur Henriette, moi ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="39">
+	<s id="1">Et si tout se dérange, j'en serai pour mon déjeuner, moi !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="40">
+	<s id="1">Paix !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="41">
+	<s id="1">Je vais faire une grande omelette.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="42">
+	<s id="1">Bon. </s>
+	<s id="2">Emmène Marie, pour t'aider.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="43">
+	<s id="1">Mais j'ai Augustine. </s>
+	<s id="2">Ça suffit.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="44">
+	<s id="1">Emmène Marie, je te dis !... </s>
+	<s id="2">J'ai mon plan... </s>
+	<s id="3">Gaillardon attendra en causant avec Henriette. </s>
+	<s id="4">Laissons-les un peu seuls, ça les « amoudera ». </s>
+	<s id="5">Ah ! </s>
+	<s id="6">C'est qu'il t'aime, celui-là, ma fille ! </s>
+	<s id="7">Il m'a dit « C'est convenu » d'un ton qui me l'a bien prouvé...</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="closer">, allant rejoindre dans la cuisine Augustine, qui, pendant la scène, a achevé de dresser le couvert.
+</stage>
+<p id="45">
+	<s id="1">Allons, viens, Marie.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Henriette, Marie.
+</stage>
+<stage type="follow/away/closer/hugh">Marie, qui suivait sa mère, revient sur ses pas, regarde sa soeur un instant, puis va lui sauter au cou.</stage>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="46">
+	<s id="1">Tant mieux, mon Henriette, tant mieux !... </s>
+	<s id="2">Mais tu n'as pas l'air content...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="47">
+	<s id="1">Si, si...</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="48">
+	<s id="1">Monsieur_Gaillardon ne te plaît pas ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="49">
+	<s id="1">Si, si...</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="50">
+	<s id="1">C'est que, sais-tu, c'est un bonheur !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="51">
+	<s id="1">Oh ! </s>
+	<s id="2">Oui ! </s>
+	<s id="3">Un bonheur, mais...</s>
+</p>
+<stage type="wave">Geste vague.</stage>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="52">
+	<s id="1">Bête !...</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="53">
+	<s id="1">Je sais bien... </s>
+	<s id="2">Je suis une oie... </s>
+	<s id="3">Et, toi, tu as l'air content.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="54">
+	<s id="1">Mon Henriette, ma chère Henriette ! </s>
+	<s id="2">Oui, je suis contente. </s>
+	<s id="3">D'abord pour toi, et puis encore pour moi, car, sans reproche, tu me bouchais un peu le chemin. </s>
+	<s id="4">Si tu as vingt-six ans, je tombe dans mes vingt-trois, moi, tu sais ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="55">
+	<s id="1">Tu ne m'en veux pas, au moins ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="56">
+	<s id="1">Si je t'en veux ! </s>
+	<s id="2">Quelle bonne soeur tu fais ! </s>
+	<s id="3">Tu me donneras un garçon d'honneur d'attaque, hein ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="57">
+	<s id="1">Et du bois dont on fait les maris, tu peux compter sur moi.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="58">
+	<s id="1">Quand on pense que voilà que tu as fait tout le chemin d'un coup, sans t'en douter !... </s>
+	<s id="2">Quelle veine ! </s>
+	<s id="3">Mais dis donc ! </s>
+	<s id="4">Veux-tu bien rire !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="59">
+	<s id="1">C'est plus fort que moi. </s>
+	<s id="2">Je me sens mal à l'aise. </s>
+	<s id="3">C'est le manque d'habitude. </s>
+	<s id="4">Je ne peux pas croire que la chance vienne enfin de mon côté. </s>
+	<s id="5">Oh ! </s>
+	<s id="6">Je sais ce qu'on pense de moi, va ! </s>
+	<s id="7">« Cette pauvre Henriette, dit-on, elle est laide, et c'est une oie. – </s>
+	<s id="8">Oui, qu'on dit, mais elle n'est pas méchante. » </s>
+	<s id="9">Et on répond « Il ne manquerait plus que ça. » </s>
+	<s id="10">Voilà ce qu'on pense, et mon bonheur me surprend. </s>
+	<s id="11">Je ne l'attendais plus. </s>
+	<s id="12">J'ai fini par être de l'avis de tout le monde je suis trop laide... trop oie... </s>
+	<s id="13">Il aura peur, mon bonheur.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="60">
+	<s id="1">Veux-tu bien finir ! </s>
+	<s id="2">Qu'est-ce que c'est que ces manières ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="location">, de la cuisine.
+</stage>
+<p id="61">
+	<s id="1">Marie ! </s>
+	<s id="2">Marie !</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="62">
+	<s id="1">Oui, maman !...</s>
+</p>
+<stage type="toward">À Henriette.</stage>
+<p id="63">
+	<s id="1">Allons, bon ! </s>
+	<s id="2">Voilà que tu pleures, maintenant.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="64">
+	<s id="1">C'est rien... </s>
+	<s id="2">C'est les nerfs...</s>
+</p>
+<stage type="exit">Exit Marie.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Henriette, puis Gaillardon.
+</stage>
+<stage type="alone">Henriette seule, s'essuie les yeux, reste un instant en elle-même ; elle s'assied, poursuivant son muet soliloque, qui se termine à mi-voix.</stage>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="1">
+	<s id="1">Non, ce n'est pas possible... </s>
+	<s id="2">Je suis trop bête, trop oie.</s>
+</p>
+<stage type="entrance/location/smoke">Entre Gaillardon, venant de la cour. Il souffle désespérément dans une  pipe.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="closer">, s'avançant, tout à sa pipe.
+</stage>
+<p id="2">
+	<s id="">Dire qu'elle n'est pas bouchée, ça serait mentir.</s>
+</p>	
+<stage type="smoke">Il tapote le fourneau sur la paume de sa main, puis souffle encore une fois dans le tuyau.</stage>
+<p id="3">
+	<s id="1">Oh ! </s>
+	<s id="2">Elle l'est, bouchée, pour sûr, et bien bouchée encore !... </s>
+	<s id="3">Dites donc, madame Répin ?... </s>
+</p>
+<stage type="watch">Apercevant Henriette.</stage>
+<p id="4">
+	<s id="1">Tiens, ça n'est point Madame_Répin... </s>
+	<s id="2">Pardon, mademoiselle...</s>
+</p>
+<stage type="watch/stand">Il la regarde. Henriette s'est levée, interdite, rouge, les yeux baissés. </stage>
+<p id="5">
+	<s id="1">Pardon, pardon... </s>
+</p>
+<stage type="watch/smake/laugh">Il la regarde encore puis, par contenance, il souffle à nouveau dans sa pipe, riant.</stage>
+<p id="6">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour bouchée, sauf vot' respect, elle est bien bouchée !... </s>
+</p>
+<stage type="smoke">Nouveau tapotage du fourneau sur la main. Un temps de gêne. </stage>
+<p id="7">
+	<s id="1">Mais je vais la déboucher, pour ça, oui... </s>
+</p>
+<stage type="axay/sit:back/aparte">Il se dirige vers la cour. Henriette est retombée sur sa chaise. Sur la porte, Gaillardon se ravise. À part.</stage>
+<p id="7">
+	<s id="1">Sapristi ! </s>
+	<s id="2">Répin qui m'avait dit... </s>
+	<s id="3">Après tout, je peux bien lui demander, à elle !... </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="7">
+	<s id="1">Pardon, Mademoiselle, mais vous n'auriez pas, des fois, une aiguille à tricoter ? </s>
+</p>
+<stage type="laugh">Il rit.</stage>
+<p id="8">
+	<s id="1">Oui, pour déboucher ma pipe... </s>
+</p>
+<stage type="hurry/location/get/give">Henriette, gauchement, s'est précipitée vers le bahut qu'elle a ouvert et où elle a trouvé l'aiguille demandée. Elle l'apporte à Gaillardon, sur lequel elle n'ose toujours pas lever les yeux.</stage> 
+<p id="9">
+	<s id="1">Ah ! </s>
+	<s id="2">Merci, Mademoiselle... </s>
+	<s id="3">Avec ça, voyez-vous... </s>
+</p>
+<stage type="away/watch/aparte">Il va sur le seuil et commence à tracasser la pipe avec l'aiguille. Du coin de l'oeil, tout en tracassant, il guigne Henriette. À part. </stage>
+<p id="10">
+	<s id="1">Vrai ! </s>
+	<s id="2">Elle a un air godiche...</s>
+</p>
+<stage type="continue/location">Il continue son débouchage sur le seuil, en faisant face à la cour.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="11">
+	<s id="1">Je suis trop bête, trop oie...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Gaillardon à la porte, Henriette, Augustine, Marie, puis Répin et Madame Répin.
+</stage>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<stage type="entrance/carry/drop/location">Elle sort de la cuisine et tient une soupière fumante, qu'elle pose au milieu de la table.</stage>
+<p id="1">
+	<s id="1">Là, voilà la soupe !</s>
+</p>
+<stage type="exit">Elle retourne à la cuisine.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="toward">, devant le seuil, à Gaillardon.
+</stage>
+<p id="2">
+	<s id="1">Et cette pipe ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="blow">, soufflant bruyamment dedans.
+</stage>
+<p id="3">
+	<s id="1">Vous voyez, m'sieu Répin, elle se débouche, elle se débouche. </s>
+</p>
+<stage type="laugh">Il rit.</stage>
+<p id="4">
+	<s id="1">Mais, passez donc.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="entrance">, il entre et va directement à Henriette, lui désignant Gaillardon.
+</stage>
+<p id="5">
+	<s id="1">Eh bien, mon Henriette, il est venu ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="6">
+	<s id="1">Oui, papa, il est venu.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="7">
+	<s id="1">Qu'est-ce qu'il t'a dit, mon Henriette ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="8">
+	<s id="1">Il m'a rien dit, papa.</s>
+</p>
+<stage type="entrance/follow">Madame Répin paraît, suivie de Marie.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="9">
+	<s id="1">Allons, la soupe est sur la table. </s>
+	<s id="2">Monsieur Gaillardon !</s>
+</p>
+<stage type="away/clloser">Elle marche jusqu'au seuil avec Marie.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="location/toward">, sur la porte, à Madame Répin et à Marie.
+</stage>
+<p id="10">
+	<s id="1">Bonjour, la nouvelle famille ! </s>
+	<s id="2">Mademoiselle, depuis tout à l'heure, ça vous va ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="11">
+	<s id="1">Très bien, pas mal, merci, et vous ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, à Henriette.
+</stage>
+<p id="12">
+	<s id="1">Il t'a rien dit ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="13">
+	<s id="1">Il m'a rien dit.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="14">
+	<s id="1">Ça me parait drôle.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="15">
+	<s id="1">C'est pourtant vrai.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="16">
+	<s id="1">Ça, c'est fort. </s>
+	<s id="2">Il n'a cependant pas l'air timide, ce garçon... </s>
+	<s id="3">Voyons voir, voyons voir... </s>
+	<s id="4">Il a peut-être trop faim...</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="proud/location">, triomphant, sur la porte.
+</stage>
+<p id="17">
+	<s id="1">Monsieur_Répin ! </s>
+	<s id="2">Monsieur_Répin ! </s>
+	<s id="3">Elle est débouchée !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="18">
+	<s id="1">À table, Monsieur_Gaillardon, à table !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, remontant.
+</stage>
+<p id="19">
+	<s id="1">Oui, à table ! </s>
+	<s id="2">La soupe refroidit.</s>
+</p>
+<stage type="walk/together">Gaillardon, Madame_Répin et Marie descendent.</stage>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<p id="20">
+	<s id="1">Où donc que vous allez vous mettre, Monsieur_Gaillardon ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="21">
+	<s id="1">Moi, oh ! </s>
+	<s id="2">Ça m'est égal... </s>
+	<s id="3">Où vous voudrez, vous...</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>AUGUSTINE.</speaker>
+<p id="22">
+	<s id="1">Il serait peut-être mieux de vous mettre à côté de mes filles... mais, en faisant le service, elles vous dérangeraient.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="23">
+	<s id="1">Oh ! </s>
+	<s id="2">Non, elles ne me dérangeraient pas.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="24">
+	<s id="1">Et si, des fois, en apportant les plats, elles renversaient de la sauce sur votre veste ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="laugh">, gros rire.
+</stage>
+<p id="25">
+	<s id="1">Ah ! </s>
+	<s id="2">Par exemple, ceci ne serait point à faire !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="26">
+	<s id="1">Dame ! </s>
+	<s id="2">Mettez-vous où vous voudrez.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="27">
+	<s id="1">Non, non, où vous voudrez, vous. </s>
+	<s id="2">Moi, je vous dis, ça m'est égal. </s>
+</p>
+<stage type="get/noise">Tous ont pris une chaise, sur le dossier de laquelle ils tambourinent, prêts à s'élancer, au moindre commandement, pour s'asseoir.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage>, comptant les couverts.
+</stage>
+<p id="28">
+	<s id="1">Un, deux, trois, quatre, cinq... </s>
+	<s id="2">C'est bien ça, le compte y est... </s>
+	<s id="3">Voyons Répin, là ; vous, là, moi, là... </s>
+	<s id="4">Non, ça ne va pas... </s>
+	<s id="5">Vous, ici, mes filles... </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Ouaih ! </s>
+	<s id="8">Jamais je ne réussirai !... </s>
+	<s id="9">Voyez-vous, j'ai peur à cause de la sauce... </s>
+	<s id="10">Un malheur peut arriver. </s>
+	<s id="11">Comment faire ?... </s>
+	<s id="12">Qu'est-ce que tu en penses, toi, ma Marie ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="29">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, ça m'est égal.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="30">
+	<s id="1">Et toi, mon Henriette, qu'est-ce que tu en penses ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="31">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, ça m'est égal.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="32">
+	<s id="1">Tiens, femme, tu nous ennuies. </s>
+	<s id="2">En voilà des manières ! </s>
+	<s id="4">Asseyez-vous là, monsieur Gaillardon, à côté de moi.</s>
+</p>
+<stage type="sit">Il s'assied à gauche.</stage>
+<p id="33">
+	<s id="1">Et, les autres, arrangez-vous. </s>
+	<s id="2">Après tout, vous êtes de la famille, et si vous n'en êtes pas, vous en serez.</s>
+</p>
+<stage type="laugh/location">On rit et on s'assoit. Gaillardon, à gauche de Répin, Madame Répin, face au public, avec Henriette à sa gauche et Marie à la gauche d'Henriette.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="34">
+	<s id="1">Quel homme rond que Monsieur_Répin !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="35">
+	<s id="1">Rond comme la terre !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="36">
+	<s id="1">À la bonne heure ! </s>
+	<s id="2">Au moins, vous comprenez les affaires.</s>
+</p>
+<stage type="dress/stand/watch/drop">S'apercevant qu'il a conservé son chapeau, il l'ôte de dessus sa tête, se lève et cherche des yeux un clou pour l'y pendre. Tous le regardent, sans mot dire, pendant que Madame Répin verse la soupe dans les assiettes. De guerre lasse, Gaillardon pose son chapeau sur une chaise et vient se remettre à table.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="37">
+	<s id="1">Là, ça y est.</s>
+</p>
+<stage type="eat">On mange la soupe.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="eat">, entre deux cuillerées.
+</stage>
+<p id="38">
+	<s id="1">Alors, c'est convenu. </s>
+	<s id="2">Quand fixons-nous la date ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="39">
+	<s id="1">Un peu de patience ! </s>
+	<s id="2">Tout à l'heure, en prenant le café.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="laugh">, riant.
+</stage>
+<p id="40">
+	<s id="1">Vous attendrez bien une petite minute ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="41">
+	<s id="1">Bon, bon.</s>
+</p>
+<stage type="eat">On achève la soupe en silence.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="call">, appelant.
+</stage>
+<p id="42">
+	<s id="">Augustine !</s>
+</p>
+<stage type="entrance/carry">Augustine arrive de la cuisine avec un plat de viande et de légumes.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="wipe/hit">, après s'être essuyé la bouche avec sa serviette, frappe sur l'épaule de Répin.
+</stage>
+<p id="43">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon vieux beau-père ! </s>
+	<s id="3">Votre jument l'échappe belle !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="44">
+	<s id="1">En effet. </s>
+	<s id="2">Ça vous fait plaisir ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="45">
+	<s id="1">Plaisir ? </s>
+	<s id="2">Je crois bien ! </s>
+	<s id="3">C'est-à-dire que, s'il lui était arrivé malheur, j'en aurais pleuré. </s>
+	<s id="4">J'aime mieux les bêtes que les gens... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Pourtant, ces demoiselles ne doivent pas prendre ça pour elles !</s>
+</p>
+<stage type="laugh/give/pour">On rit. Gaillardon à Madame Répin qui lui emplit son assiette, pendant qu'Augustine verse à boire dans les verres.</stage>
+<p id="46">
+	<s id="1">Merci, merci.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="47">
+	<s id="1">Vous m'excuserez, au moins, pour le déjeuner, M'sieu Gaillardon.</s>
+</p>
+<stage type="give">Elle sert son mari et ses filles.</stage>
+<p id="48">
+	<s id="1">Je n'étais pas prévenue, moi.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="49">
+	<s id="1">Voyons, Maman_Répin, il n'y a pas de cérémonies à faire avec un gendre.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="explicit">, rectifiant spirituellement.
+</stage>
+<p id="50">
+	<s id="1">Futur, je dis futur !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="51">
+	<s id="1">Bah ! </s>
+	<s id="2">Tout n'est-il pas convenu déjà ?</s>
+</p>
+<stage type="eat">On mange.</stage>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="52">
+	<s id="1">C'est égal, j'aurais voulu vous faire plus d'honneur. </s>
+	<s id="2">Mais nous sommes loin de Paris où on dit qu'on a dans n'importe quel restaurant des tas d'affaires presque pour rien et tout de suite.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="53">
+	<s id="1">Oui, mais, croyez-moi, Madame_Répin, ça n'est guère mangeable, ce qu'ils vous débitent là-bas à si bon compte. </s>
+	<s id="2">J'en sais quelque chose, n'est-ce pas ? </s>
+	<s id="3">Vu que j'y vais deux fois par mois, à Paris, pour vendre mes boeufs. </s>
+	<s id="4">Bref, on en a toujours pour son argent.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="54">
+	<s id="1">Bien sûr.</s>
+</p>
+<stage type="eat">Après un moment de mastication.</stage>
+<p id="55">
+	<s id="1">La saison ne finit pas très bien, il me semble. </s>
+	<s id="2">Le temps ne se maintient pas comme on aurait cru...</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="56">
+	<s id="1">C'est ce que je disais ce matin, en rencontrant vos deux demoiselles.</s>
+</p>
+<stage type="watch">Il regarde Marie.</stage>
+<p id="57">
+	<s id="1">Je me disais « Gaillardon, c'est ennuyeux, ça sent la feuille morte... »</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="58">
+	<s id="1">Bah ! </s>
+	<s id="2">D'ici à la Toussaint, il y aura encore de bons jours, marchez !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="59">
+	<s id="1">Ah ! </s>
+	<s id="2">Sacristi ! </s>
+	<s id="3">N'empêche que le préfet a rudement bien fait de remettre l'ouverture de la chasse.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="60">
+	<s id="1">Oui, il y a encore des blés à couper.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="61">
+	<s id="1">Et les avoines ! </s>
+	<s id="2">Et les warrats !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="62">
+	<s id="1">Not' préfet est un charmant homme.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="63">
+	<s id="1">Vous le connaissez ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, se rengorgeant.
+</stage>
+<p id="64">
+	<s id="1">J'ai eu l'occasion de l'approcher quelquefois. </s>
+	<s id="2">Il m'a parlé ! </s>
+	<s id="3">Tenez, la dernière fois, c'était à l'exposition_agricole. </s>
+	<s id="4">Il m'a dit en toutes lettres : « Monsieur_Répin, vos produits sont superbes ; superbes, vous entendez, Monsieur_Répin ? »</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="65">
+	<s id="1">Ah ? </s>
+	<s id="2">Et vous lui avez répondu ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, dignement.
+</stage>
+<p id="66">
+	<s id="1">Oui, Monsieur_Gaillardon, je lui ai répondu ! </s>
+	<s id="2">Je lui ai répondu : « Monsieur le préfet est bien bon... Vous êtes bien bon, monsieur le préfet. »</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="67">
+	<s id="1">Très bien !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="68">
+	<s id="1">Attendez ! </s>
+	<s id="2">Et j'ai ajouté : « Si mes produits paraissent superbes à Monsieur_le_Préfet, c'est que monsieur le préfet veut bien les honorer de son regard. »</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="69">
+	<s id="1">Bravo ! </s>
+	<s id="2">Et vous n'avez plus rien ajouté ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="70">
+	<s id="1">Non, le préfet est parti, très flatté, et moi, je suis resté, très flatté aussi, devant mes produits.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="call">, appelant.
+</stage>
+<p id="71">
+	<s id="">Augustine !</s>
+</p>
+<stage type="carry/silence">Augustine apporte l'omelette et s'en va, emportant les restes du plat de viande. Il s'est fait un temps de silence, que Gaillardon occupe à regarder Marie.</stage> 
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="72">
+	<s id="1">La belle omelette !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="73">
+	<s id="1">Donnez-moi votre assiette, monsieur_Gaillardon.</s>
+</p>
+<stage type="give">Elle le sert.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="74">
+	<s id="1">Merci, merci, c'est trop.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="75">
+	<s id="1">Mais non.</s>
+</p>
+<stage type="give">Servant Répin.</stage>
+<p id="76">
+	<s id="1">Tiens, Répin. </s>
+</p>
+<stage type="give/low/toward">Servant Henriette, elle lui parle bas.</stage>
+<p id="77">
+	<s id="1">Mais tu ne dis rien, Henriette. Il va croire que tu es muette.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, bas.
+</stage>
+<p id="78">
+	<s id="1">Comme il regarde Marie !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="low">, même jeu.
+</stage>
+<p id="79">
+	<s id="1">Oh ! </s>
+	<s id="2">Il ne faut pas t'inquiéter. </s>
+	<s id="3">Tu comprends, cet homme, il n'ose pas te regarder tout d'abord et franchement, comme un effronté.</s>
+</p>	
+<stage type="give">Elle se sert.</stage>
+<p id="80">
+	<s id="1">Il s'essaie et prend du courage avec ta soeur.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="low">, de même.
+</stage>
+<p id="81">
+	<s id="1">Oui, je comprends.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="low">, haut.
+</stage>
+<p id="82">
+	<s id="1">Maman, tu m'oublies. </s>
+</p>
+<stage type="low">Bas.</stage>
+<p id="83">
+	<s id="1">Qu'est-ce que vous dites ?</s>
+</p>
+<stage type="eat">Les trois femmes causent entre elles en mangeant.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="toward">, poursuivant une conversation avec Gaillardon.
+</stage>
+<p id="84">
+	<s id="1">Vous le savez bien ; il faut qu'un boeuf vendu paie son engrais à raison de un_franc par jour.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="eat">, achevant son omelette.
+</stage>
+<p id="85">
+	<s id="1">Et encore, ce n'est pas beau !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="86">
+	<s id="1">Parfaitement, on fait ses frais, voilà tout.</s>
+</p>
+<stage type="silence">Un petit temps.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="stand/low/toward">, se levant, bas à Répin.
+</stage>
+<p id="87">
+	<s id="1">Je me sauve une petite minute, hein, vous permettez ?</s>
+</p>
+<stage type="laugh">Il rit.</stage>
+<p id="88">
+	<s id="1">Mâtin ! </s>
+	<s id="2">On ne meurt pas de soif, chez vous !</s>
+</p>
+<stage type="exit/location">Il s'esquive vers la cour.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, aussitôt fiévreusement.
+</stage>
+<p id="89">
+	<s id="1">Attention ! </s>
+	<s id="2">Gaillardon ne va guère tarder à rentrer. Faut qu'il se trouve seul avec notre Henriette. </s>
+	<s id="3">Alors, tout à l'heure, il t'a rien dit, mon Henriette ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="90">
+	<s id="1">Non, Papa, il m'a rien dit.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="91">
+	<s id="1">Oh ! </s>
+	<s id="2">Cette fois-ci, il te parlera... </s>
+	<s id="3">Toi, femme, va faire le café à la cuisine, et, quand Gaillardon rentrera, appelle Marie. </s>
+	<s id="4">Moi, je me sauve dans la chambre. </s>
+	<s id="5">Quand il en sera temps, Henriette, tu viendras me chercher.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="92">
+	<s id="1">Oui, Papa.</s>
+</p>
+<stage type="exit">Répin disparaît à gauche, et Madame Répin dans la cuisine.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Henriette, Marie, Gaillardon, Madame Répin, dans la cuisine.
+</stage>
+<stage type="entrance/happy/work">Gaillardon, dès la sortie de Répin, reparaît, poussant un gros soupir d'aise. Il trouve Marie occupée à empiler des assiettes sales tandis qu'Henriette, de sa place, qu'elle n'a pas quittée, la regarde faire.</stage>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="1">
+	<s id="1">Tiens !... </s>
+	<s id="2">Monsieur_Répin et Madame_Répin ne sont plus là ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="2">
+	<s id="1">Oh ! Papa va revenir, maman fait le café.</s>
+</p>
+</sp>
+<sp who="AUGUSTINE"><speaker>VOIX D'AUGUSTINE.</speaker>
+<p id="3">
+	<s id="1">Mamz'elle Marie !</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="4">
+	<s id="1">Voilà !</s>
+</p>
+<stage type="axit/xarry">Elle sort avec la pile d'assiettes.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Henriette et Gaillardon en scène, Marie et Madame Répin dans la cuisine.
+</stage>
+<stage type="narration">Henriette, les yeux toujours baissés, joue gauchement avec le bord de la nappe. Gaillardon s'est rassis à sa place. Les mains sur son ventre, il tourne ses pouces, les yeux fixés sur la porte de la cuisine. Ce jeu de scène dure un temps. Henriette ne se lasse pas de jouer avec le bord de la nappe, et elle s'enhardit jusqu'à regarder, par coups d'oeil furtifs, Gaillardon qui, fatigué de tourner ses pouces sur son ventre, s'est levé pour aller jusqu'à la porte de la cour, dans laquelle il plonge une seconde. Pour le coup, Henriette a les yeux grands ouverts et regarde courageusement le dos de Gaillardon. Mais Gaillardon, les mains croisées sur les reins, se retourne et, méthodiquement, d'un pas de promenade, il descend jusqu'à la rampe, qu'il se met ensuite à longer de gauche à droite, et qu'il lâche pour cingler droit vers la porte de la cuisine, aux vitres de laquelle, après une courte halte, il frappe résolument.</stage> 
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="toward/open">, à Marie qui entrouvre l'huis.
+</stage>
+<p id="1">
+	<s id="1">Vous restez partie... </s>
+	<s id="2">Je vous fais donc peur ?</s>
+</p>
+<stage type="silence">Un temps durant lequel Marie, interdite, ne trouve rien à répondre.</stage>
+<p id="2">
+	<s id="1">Faudrait pourtant vous habituer à moi.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="entrance">, paraissant derrière Marie.
+</stage>
+<p id="3">
+	<s id="1">C'est comme ça que vous laissez mon Henriette ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="4">
+	<s id="1">Oh ! </s>
+	<s id="2">J'ai bien le temps de la voir, elle !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="sweet">, finement.
+</stage>
+<p id="5">
+	<s id="1">Ça, c'est vrai... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Mais, c'est égal, ça n'est pas très aimable ce que vous dites là, Monsieur_Gaillardon !... </s>
+	<s id="4">Allons ! </s>
+	<s id="5">Laissez-nous donc voir un peu tranquilles. </s>
+	<s id="6">Nous avons à travailler. Henriette n'a rien à faire ; bavardez avec elle, à votre aise.</s>
+</p>
+<stage type="close/noise">Elle lui ferme la porte au nez, bruyamment.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Henriette, Gaillardon.
+</stage>
+<stage type="narration">Henriette, toujours à sa place, paraît de plus en plus gênée. Gaillardon, après un geste d'ennui, reprend son pas de promenade et se met à longer le fond. En passant derrière Henriette, il s'arrête une seconde, mais, ne trouvant pas de phrase, il repart, s'arrête devant la place de Répin, et s'y assoit. Alors, Henriette reprend un peu de courage et ose relever les yeux. Gaillardon et elle se regardent. Soudain, Gaillardon fait le geste de délivrance de l'homme qui a trouvé, et sa main, précipitée aux profondeurs d'une poche, en ramène triomphalement la pipe. Gaillardon en inspecte le fourneau, puis, se la campant dans la bouche, il fait dans le tuyau une petite musique de pompe aspirante et refoulante.</stage>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="sweet">, aimable.
+</stage>
+<p id="1">
+	<s id="1">Peut-être que vous voudriez, des fois, une aiguille à tricoter ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="smoke/laugh">, ayant pompé encore un peu et s'étant ôté la pipe du bec, avec un gros rire.
+</stage>
+<p id="2">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour débouchée, cette fois-ci, elle est bien débouchée.</s>
+</p>
+<stage type="narration">Gaillardon replace sa pipe entre ses dents, et sa main, précipitée aux profondeurs d'une autre poche, en ramène un rouleau de peau de taupe gonflé de tabac. Calé sur sa chaise comme pour attendre en patience, il se met à bourrer sa pipe, longuement, sans plus s'occuper d'Henriette, qui, à la fin, dépitée, se lève et va à la porte de la cuisine.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Gaillardon, Henriette, Madame Répin, Marie, puis Répin. 
+</stage> 
+<stage type="open/silence">La porte de la cuisine s'ouvre en silence. Madame Répin et Marie paraissent dans l'encadrement.</stage>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="anxious/low">, anxieuse, à mi-voix.
+</stage>
+<p id="1">
+	<s id="1">Qu'est-ce qu'il t'a dit, mon Henriette ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="anxious/low">, de même.
+</stage>
+<p id="2">
+	<s id="1">Oui, qu'est-ce qu'il t'a dit ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="3">
+	<s id="1">Il m'a rien dit.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="toward">, les bras croisés, à sa mère.
+</stage>
+<p id="4">
+	<s id="1">Eh bien, tu crois ! </s>
+	<s id="2">Eh bien, tu crois !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="loud">, haut.
+</stage>
+<p id="5">
+	<s id="1">J'vas servir le café. </s>
+	<s id="2">Henriette, va appeler ton père.</s>
+</p>
+<stage type="light">Gaillardon allume sa pipe.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="location">, à la porte de gauche.
+</stage>
+<p id="6">
+	<s id="1">Papa ! </s>
+	<s id="2">Papa !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="entrance/low/toward">, paraissant aussitôt, bas à Henriette.
+</stage>
+<p id="7">
+	<s id="1">Qu'est-ce qu'il t'a dit, mon Henriette ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, de même.
+</stage>
+<p id="8">
+	<s id="1">Il m'a rien dit.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="9">
+	<s id="1">Tu m'ébahis. </s>
+	<s id="2">Je n'en reviens pas. </s>
+	<s id="3">N'aie pas peur, va, je vais m'en mêler, moi, tu vas voir.</s>
+</p>
+<stage type="carry/pour/sit/closer">Madame Répin apporte le café et le verse dans les tasses. Henriette et Marie sont assises. Répin reprend aussi sa place.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="10">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous voilà, Monsieur_Répin ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="11">
+	<s id="1">Oui, j'étais allé chercher ma pipe, moi aussi.</s>
+</p>
+<stage type="smoke">Il allume sa pipe.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="smell">, reniflant sa tasse.
+</stage>
+<p id="12">
+	<s id="1">Mmmmm ! </s>
+	<s id="2">Voilà un café qu'a un rude parfum, c'est pas pour dire !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage type="offended">, pincée.
+</stage>
+<p id="13">
+	<s id="1">Je l'ai fait bon, vous pensez.</s>
+</p>
+<stage type="sit/drink">Elle s'assied à son tour. Un temps employé par tous à s'humecter les lèvres dans le café brûlant.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="drop/toward">, posant sa tasse, à Gaillardon.
+</stage>
+<p id="14">
+	<s id="1">Voyons, voyons, nous fixons le jour ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage>, de même.
+</stage>
+<p id="15">
+	<s id="1">Enfin, nous y voilà ! </s>
+	<s id="2">Je n'osais pas le dire, mais, sans reproche, depuis la soupe, je commençais à trouver le temps long. </s>
+	<s id="3">Toutefois, on est bien éduqué ou on ne l'est pas.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="16">
+	<s id="1">Très bien alors, prenons le 27 octobre. </s>
+	<s id="2">Ça vous va-t-il ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="17">
+	<s id="1">Si ça me va !</s>
+</p>
+<stage type="drink">Tout le monde boit le café.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="get/show">, brandissant un litre.
+</stage>
+<p id="18">
+	<s id="1">Un verre de fine, alors ! </s>
+	<s id="2">Et de la vieille. </s>
+</p>
+<stage type="drink">Il emplit les petits verres.</stage>
+<p id="19">
+	<s id="1">Et vous m'en direz des nouvelles.</s>
+</p>
+<stage type="wave">Répin et Gaillardon approchent leurs verres de fine, en ayant soin de ne pas les entrechoquer, de peur d'en renverser des gouttes.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="drink">, buvant.
+</stage>
+<p id="20">
+	<s id="1">Fameux, fameux !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="toward">, à sa femme.
+</stage>
+<p id="21">
+	<s id="1">Tu vois, bourgeoise, voilà comme on arrange les choses les simagrées ne servent à rien.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="happy/stand">, très gai, se levant.
+</stage>
+<p id="22">
+	<s id="1">Maintenant, je réclame l'honneur et le plaisir d'embrasser ces dames.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="23">
+	<s id="1">Oh ! </s>
+	<s id="2">Bien à votre convenance !</s>
+</p>
+<stage type="leave/wipe/kiss">Gaillardon quitte sa place et commence sa tournée. Les trois femmes s'essuient les lèvres avec leur serviette. Il embrasse d'abord Madame Répin, puis Henriette. Il termine par Marie.</stage>
+</sp>
+<sp who="MARIE"><speaker>MARIE</speaker><stage type="kiss">, que Gaillardon veut embrasser deux fois, le repoussant.
+</stage>
+<p id="24">
+	<s id="1">Ne vous gênez pas. </s>
+	<s id="2">Qu'est-ce que va dire ma soeur ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="25">
+	<s id="1">Ah ! </s>
+	<s id="2">De ça je me moque un peu, par exemple !</s>
+</p>
+<stage type="get">Il va saisir la main de Répin.</stage>
+<p id="26">
+	<s id="1">Mon cher papa, merci.</s>
+</p>
+<stage type="cry">Madame Répin, émue, se met à pleurer.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="touch">, lui-même très ému.
+</stage>
+<p id="27">
+	<s id="1">Regardez-la donc, est-elle bête ! </s>
+	<s id="2">Est-elle bête !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="28">
+	<s id="1">Dame, ça se comprend. </s>
+	<s id="2">C'est pas tous les jours...</s>
+</p>
+<stage type="sit">Il se rassied.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="pour">, remplissant les verres .
+</stage>
+<p id="29">
+	<s id="1">Hein ! </s>
+	<s id="2">Mon Henriette !...</s>
+</p>
+<stage type="drink">On boit.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="30">
+	<s id="1">Fameux, tout de même ! </s>
+	<s id="2">Fameux !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="31">
+	<s id="1">Ah ! </s>
+	<s id="2">Marie, à ton tour, maintenant. </s>
+	<s id="3">Voilà Henriette bien lotie. </s>
+	<s id="4">Il faudra qu'on pense à toi.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="carry/surprise">, surpris, le verre en l'air.
+</stage>
+<p id="32">
+	<s id="1">Comment ça ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="laugh">, riant.
+</stage>
+<p id="33">
+	<s id="1">Dame, vous vous en moquez, maintenant que vous avez ce qu'il vous faut.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="deop">, posant son verre.
+</stage>
+<p id="34">
+	<s id="1">Mais pardon, mais pardon, faites excuse, je ne comprends pas.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="35">
+	<s id="1">Allez, marchez ! ce n'est pas votre affaire.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="estonish">, stupéfait.
+</stage>
+<p id="36">
+	<s id="1">Ce n'est pas mon affaire ?... </s>
+	<s id="2">Monsieur Répin ...</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Les mêmes, Malahieude.
+</stage>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="entrance">, à Malahieude qui entre du fond.
+</stage>
+<p id="1">
+	<s id="1">Eh bien, m'sieu Malahieude, et la Grise ?</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="2">
+	<s id="1">Oh ! </s>
+	<s id="2">Rien de grave, m'sieu Répin. </s>
+	<s id="3">Rien qu'un peu de poil enlevé au genou. </s>
+	<s id="4">Je viens de la voir.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="3">
+	<s id="1">Alors, vous allez prendre un verre de fine ?</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="4">
+	<s id="1">C'est pas de refus, bien sûr.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="5">
+	<s id="1">Augustine, un verre pour Monsieur_Malahieude. </s>
+	<s id="2">Asseyez-vous donc. </s>
+	<s id="3">Augustine apporte un verre.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="6">
+	<s id="1">Merci, je ne fais que passer.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="7">
+	<s id="1">Qu'est-ce que ça fait ? </s>
+	<s id="2">Asseyez-vous un brin.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE</speaker><stage>, prenant une chaise et s'asseyant à la droite de Répin.
+</stage>
+<p id="8">
+	<s id="1">Eh ben, tout de même, mais rien qu'une minute.</s>
+</p>
+<stage type="toward/give">À Répin qui lui offre un verre plein.</stage>
+<p id="9">
+	<s id="1">Merci.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="10">
+	<s id="1">De la vieille, vous savez ! </s>
+	<s id="2">Et vous m'en direz des nouvelles !</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE</speaker><stage type="drink">, ayant bu.
+</stage>
+<p id="11">
+	<s id="1">Et des bonnes nouvelles, encore ! </s>
+	<s id="2">C'est-à-dire que j'en voudrais bien un fût de la pareille... </s>
+	<s id="3">Tiens ! </s>
+	<s id="4">Mais c'est Monsieur_Gaillardon ! </s>
+	<s id="5">Vous v'là par ici, donc, alors ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="12">
+	<s id="1">Mais oui, m'sieu Malahieude.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="13">
+	<s id="1">Révérence parler, vous avez l'air tout drôle...</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, riant.
+</stage>
+<p id="14">
+	<s id="1">Lui ? </s>
+	<s id="2">Ah ben ! </s>
+	<s id="3">Ah ben ! </s>
+	<s id="4">Elle est bonne !</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE</speaker><stage type="stand/toward">, se levant, à Répin.
+</stage>
+<p id="15">
+	<s id="1">Et, à part ça, vot' taureau, ça va-t-y ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="16">
+	<s id="1">Oh ! </s>
+	<s id="2">Vous l'avez bien soigné, merci ! </s>
+	<s id="3">La jambe est tout à fait à sa place.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="17">
+	<s id="1">Ah ! </s>
+	<s id="2">Tant mieux, alors, tant mieux !</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="18">
+	<s id="1">Vous vous en allez ? </s>
+	<s id="2">Dites-moi au moins ce qu'il faut faire à la Grise.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="19">
+	<s id="1">Faites-lui des compresses d'eau blanche et frictionnez-la avec de l'eau d'écorce de chêne. </s>
+	<s id="2">Le poil repoussera. </s>
+	<s id="3">Il n'y paraîtra pas plus que sur ma main.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="20">
+	<s id="1">C'est ça.</s>
+</p>
+</sp>
+<sp who="MALAHIEUDE"><speaker>MALAHIEUDE.</speaker>
+<p id="21">
+	<s id="1">Eh ben ! </s>
+	<s id="2">Au revoir, m'sieu Répin ; au revoir, Madame_Répin ; au revoir, mesdemoiselles ; au plaisir, m'sieu Gaillardon.</s>
+</p>
+<stage type="exit/help/location">Il sort, reconduit par Répin jusqu'à la porte.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Les mêmes, moins Malahieude.
+</stage>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="back/sit">, revenant s'asseoir.
+</stage>
+<p id="1">
+	<s id="1">Ah çà ! </s>
+	<s id="2">M'sieu Gaillardon, qu'est-ce que vous aviez donc tout à l'heure ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="2">
+	<s id="1">Tout à l'heure, m'sieu Répin, j'avais... ce que j'ai encore.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN</speaker><stage>, inquiète.
+</stage>
+<p id="3">
+	<s id="1">Quoi ? </s>
+	<s id="2">Quoi ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="4">
+	<s id="1">Voyons, du calme... </s>
+	<s id="2">Qu'est-ce qu'il y a ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="5">
+	<s id="1">Il y a... </s>
+	<s id="2">Il y a qu'il y a maldonne. </s>
+	<s id="3">Voilà ce qu'il y a.</s>
+</p>
+</sp>
+<sp who="LES AUTRES"><speaker>LES AUTRES.</speaker>
+<p id="6">
+	<s id="1">Maldonne !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="7">
+	<s id="1">Parfaitement, maldonne, je le répète.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="watch/toward">, regardant sa femme et ses filles.
+</stage>
+<p id="8">
+	<s id="">Comprends pas, et vous ?</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="9">
+	<s id="1">Ni moi.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="10">
+	<s id="1">Ni moi.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="11">
+	<s id="1">Voyons, expliquez-vous.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="12">
+	<s id="1">C'est pourtant bien simple. </s>
+	<s id="2">Il y a que je vous ai demandé une de vos filles et que vous m'avez donné l'autre. </s>
+	<s id="3">Vous me direz ce que vous voudrez, mais il me semble que ce n'est pas d'un franc_jeu et que vous trichez.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="wave/down/whistle">, levant les bras, les abaissant, siffle du bout des lèvres.
+</stage>
+<p id="13">
+	<s id="1">Tu tutu u u...</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="14">
+	<s id="1">Quoi ! </s>
+	<s id="2">Ce n'est pas notre Henriette que vous nous avez demandée ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="15">
+	<s id="1">Pas du tout, c'est Marie.</s>
+</p>
+<stage type="show">Il désigne Marie.</stage>
+<p id="16">
+	<s id="1">Là, celle-là.</s>
+</p>
+<stage type="narration">Ayant chiffonné sa serviette entre ses doigts, il l'écrase sur la table, se lève et marche d'un bout à l'autre de la scène et inversement, d'un pas inégal, avec une grande agitation. Ses bretelles sont un peu anciennes et mollissent. Son pantalon tient mal. Il le relève d'un mouvement brusque, puis se croise les mains sur les reins.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage type="stand/walk">, se lève également et commence une promenade à l'exemple de Gaillardon, mais en sens opposé. Au deuxième croisement.
+</stage>
+<p id="17">
+	<s id="1">Il fallait le dire ! </s>
+	<s id="2">Il fallait le dire !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="stop">, s'arrêtant.
+</stage>
+<p id="18">
+	<s id="1">Qu'est-ce qu'il fallait dire ? </s>
+	<s id="2">Comment ! </s>
+	<s id="3">Vous avez deux filles ; elles ont toutes les deux la même dot dix mille francs chacune, cinq mille en terres, cinq mille en argent comptant. </s>
+	<s id="4">C'est bien ça, n'est-ce pas ? </s>
+	<s id="5">Vous ne m'avez point trompé ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="19">
+	<s id="1">C'est ça.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="20">
+	<s id="1">Elles ont la même instruction. </s>
+	<s id="2">Elles sont presque du même âge, et je ne prendrais pas la mieux, la plus jolie ? </s>
+	<s id="3">Il faudrait que je sois rudement bête !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="21">
+	<s id="1">Nous voilà bien ! </s>
+	<s id="2">Les draps sont propres. </s>
+	<s id="3">Que celui qui est malin nous tire de là.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="22">
+	<s id="1">Femme ! </s>
+	<s id="2">Du calme, de la dignité. </s>
+	<s id="3">Ne nous emportons pas comme des libertins, qui turbulent.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="23">
+	<s id="1">Oh ! </s>
+	<s id="2">Personne ne s'emporte. </s>
+	<s id="3">Nous ne sommes plus des enfants. </s>
+	<s id="4">On est bien éduqué, ou on ne l'est pas. </s>
+	<s id="5">Mais l'affaire n'est pas avenante... pour moi, du moins.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN</speaker><stage>, avec quelque gravité.
+</stage>
+<p id="24">
+	<s id="1">Monsieur Gaillardon, je connais les convenances, et il m'est arrivé, je vous l'ai dit, de parler en personne au préfet, un charmant homme... </s>
+	<s id="2">Je ne vous dirai pas que je suis surpris, je suis étonné... profondément étonné. </s>
+	<s id="3">Mais, après tout, rien n'est fait, et, du moment que vous reprenez votre parole, nous vous la rendons !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="25">
+	<s id="1">Dame ! </s>
+	<s id="2">Mettez-vous à ma place. </s>
+	<s id="3">Ne suis-je pas dans mon droit en réclamant ? </s>
+	<s id="4">Raisonnons.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="cry/hide">, sanglotant, les mains sur les yeux, convulsée.
+</stage>
+<p id="26">
+	<s id="1">Mais je ne tiens pas tant que cela à me marier, moi ! </s>
+	<s id="2">S'il aime mieux ma soeur, qu'il prenne ma soeur.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="27">
+	<s id="1">Ça jamais ! </s>
+	<s id="2">J'ai toujours dit que tu te marierais la première, la première tu te marieras.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="28">
+	<s id="1">Oui !</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="kiss">, venant embrasser son père.
+</stage>
+<p id="29">
+	<s id="1">Je t'assure, mon papa, que j'ai bien le temps de me marier.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="30">
+	<s id="1">Bien le temps ! </s>
+	<s id="2">Mais tu ne sais donc pas que tu as vingt-cinq ans !</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="31">
+	<s id="1">Presque vingt-six.</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage>, suppliante, en larmes.
+</stage>
+<p id="32">
+	<s id="1">Si, si... je le sais depuis longtemps... </s>
+	<s id="2">Mais, vois-tu, j'aime mieux attendre encore un petit peu.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="33">
+	<s id="1">C'est honnêtement parlé, ma brave demoiselle.</s>
+</p>
+<stage type="touch">Il prend les deux mains d'Henriette et les lui serre avec vigueur.</stage>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="34">
+	<s id="1">Lâchez-la ! </s>
+	<s id="2">Je ne plaisante plus, moi ! </s>
+	<s id="3">J'ai le devoir de me montrer intraitable, vexé.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="35">
+	<s id="1">Tu vois, Répin, tu disais que personne ne s'emporte, et c'est toi qui t'emportes... </s>
+	<s id="2">Mais, si elle n'y tient pas, faut pourtant point la forcer.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="36">
+	<s id="1">Possible. </s>
+	<s id="2">Elle est libre. </s>
+	<s id="3">Mais on ne peut toujours pas donner sa soeur à ce monsieur, dont tu ne veux point, dis voir, ma Marie ?</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="37">
+	<s id="1">Oh ! </s>
+	<s id="2">Moi, ça m'est égal. </s>
+	<s id="3">Faites comme vous voudrez, comme ça vous fera plaisir à tous.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="38">
+	<s id="1">Bien parlé aussi ça, bien parlé.</s>
+</p>
+</sp>
+<sp who="MADAME RÉPIN"><speaker>MADAME RÉPIN.</speaker>
+<p id="39">
+	<s id="1">Sûrement, si ce monsieur s'en retourne chez lui les mains vides, on va causer.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="40">
+	<s id="1">Dame !... </s>
+	<s id="2">Voyons, mon cher papa ?</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="41">
+	<s id="1">Doucement ! </s>
+	<s id="2">Connu, on ne prend pas les mouches avec du vinaigre. </s>
+	<s id="3">Mais je ne veux pas encore donner dans le panneau. </s>
+	<s id="4">Et, pour commencer, faites-moi le plaisir de ne point, m'appeler « cher papa », du moins avant d'avoir tout réglé convenablement et solidement cette fois. Voyons, parlons franc et le coeur sur la main.</s>
+</p>
+<stage type="wave">Il lève et étend sa main à hauteur du menton, les doigts joints, la paume en creux, comme si son coeur s'apprêtait à sauter dedans.</stage>
+<p id="52">
+	<s id="1">C'est bien ma fille cadette, Marie, la brune, âgée de vingt-deux ans, que vous me demandez en mariage ?</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="43">
+	<s id="1">Tout juste.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="44">
+	<s id="1">Je vous la donne. </s>
+	<s id="2">Mais vous allez signer un papier comme quoi, si vous changez encore une fois d'idée, vous me donnerez une paire de boeufs, des boeufs fameux, oui-da, des boeufs de taille !</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON</speaker><stage type="hesitate">, hésitant.
+</stage>
+<p id="45">
+	<s id="1">Permettez...</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="46">
+	<s id="1">Signez, ou rien n'est fait !... </s>
+	<s id="2">Ne vous imaginez pas que vous m'attraperez une deuxième fois.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="47">
+	<s id="1">Soit, vous défunt, ils peuvent me revenir.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="48">
+	<s id="1">Alors donc, adjugée la cadette.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="49">
+	<s id="1">Merci bien, mon cher papa.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<p id="50">
+	<s id="1">Oh ! </s>
+	<s id="2">Mon cher papa, c'est bientôt dit. </s>
+	<s id="3">D'abord, vous êtes presque aussi chauve que moi, et quelqu'un qui ne vous connaîtrait pas et nous verrait nu-tête, dans un champ par exemple, aurait le droit de nous demander lequel des deux est le cher papa.</s>
+</p>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="51">
+	<s id="1">C'est vrai, mais ce n'est pas les cheveux qui font le coeur, et puis, tout de même, je suis encore un petit peu moins épluché que vous.</s>
+</p>
+<stage type="laugh">On rit.</stage>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="52">
+	<s id="1">Ma pauvre soeur, quand j'y pense... </s>
+	<s id="2">Tu peux être sûre que je n'y pensais pas. </s>
+	<s id="3">Qu'est-ce que vous voulez ? </s>
+	<s id="4">Qu'est-ce que vous voulez ?</s>
+</p>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE</speaker><stage type="sorrow">, peinée.
+</stage>
+<p id="53">
+	<s id="1">Je te le disais bien que la chance aurait peur.</s>
+</p>
+</sp>
+<sp who="MARIE"><speaker>MARIE.</speaker>
+<p id="54">
+	<s id="1">Oui, mais, au moins, on pourra m'accorder que, si je me suis mariée avant toi, je ne l'ai pas fait exprès.</s>
+</p>
+</sp>
+<sp who="RÉPIN"><speaker>RÉPIN.</speaker>
+<note type="L">Girie : Terme populaire. Plainte hypocrite, jérémiade ridicule.</note>
+<p id="55">
+	<s id="1">C'est bon, c'est bon, point tant de giries !... Tu t'en moques, toi, maintenant qu'on t'a donné ce qu'il te faut. </s>
+	<s id="2">Mais Henriette n'attendra pas longtemps, marche. </s>
+	<s id="3">Je vais lui en trouver un en ne tardant guère, et un crâne, n'est-ce pas, mon Henriette ?</s>
+</p>
+<stage type="hit/pein">Il frappe amicalement de petits coups sur l'épaule et la joue de son Henriette. Celle-ci les yeux rouges encore et les cils humides, toutes le stâches de sa peau de rousse en feu, s'eforçait de sourire en disant.</stage>
+</sp>
+<sp who="HENRIETTE"><speaker>HENRIETTE.</speaker>
+<p id="56">
+	<s id="1">Mais oui, mais oui, va, papa...</s>
+</p>
+<stage type="cry/pain">De retenir ses larmes et de garder pour elle, en dedans, la grosse peine qui gonflait, gonflait sa poitrine énorme, jusqu'à menacer de l'étouffer.</stage>
+</sp>
+<sp who="GAILLARDON"><speaker>GAILLARDON.</speaker>
+<p id="57">
+	<s id="1">Ah ! </s>
+	<s id="2">Pour ça, mon cher papa, je suis votre homme. </s>
+	<s id="3">J'ai justement un camarade qui en cherche une ; elle va joliment bien faire son affaire !</s>
+</p>
+</sp>
+</div2> 
+</div1> 
+</body> 
+</text> 
+</TEI>

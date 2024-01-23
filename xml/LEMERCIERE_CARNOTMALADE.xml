@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>CARNOT MALADE ! MONOLOGUE</title>
+				<author ISNI="0000 0001 2119 3444">Eugène LEMERCIER (1830-1918)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, mai 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, juin 2023</publisher>
+				<idno>LEMERCIERE_CARNOTMALADE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1891-1900</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 4-YTH-5984">https://gallica.bnf.fr/ark:/12148/bpt6k97219578</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">CARNOT MALADE !</titlePart>
+			<titlePart type="sub">MONOLOGUE</titlePart>
+			<titlePart type="sub">PRIX : 0F50</titlePart>
+		</docTitle> 
+		<docDate value="1893">1893</docDate>
+		<docAuthor id="LEMERCIER, Eugène">PAR EUGÈNE LEMERCIER.</docAuthor>
+		<docImprint>
+			<copyright id="1927">Tous  droits d'Éxecution, de Traduction et de Reproduction réservés.</copyright>
+			<editor id="SALABERT">PARIS G. GONDET, Éditeur, 83, Faubourg Saint-Denis</editor>
+			<printer>IMPRIMERIE JOLY FAUBOURS SAINT DENIS, PARIS.</printer>
+		</docImprint>
+		<castList><head>PERSONNAGE</head>
+			<castItem><role id="UN CHANTEUR" sex="2" type="H" statut="bourgeois" age="E" stat_amour="néant">UN CHANTEUR</role>.</castItem>
+	</castList>
+   <set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head/>
+<div2 type="scene" n="1"><head/>
+<sp who="UN CHANTEUR"><speaker/>
+	<l id="1">Depuis longtemps le corps_diplomatique</l>
+	<l id="2">D'vait visiter le beau pays breton,</l>
+	<l id="3">Carnot malad', le littoral_celtique</l>
+	<l id="4">Ne verra pas Président Benoiton</l>
+	<l id="5">On ne vous dit pas.</l>
+	<l id="6">S'il a la goutte ou la gravelle</l>
+	<l id="7">Mais, entre, ses r'pas,</l>
+	<l id="8">Paraît qu'il n'peut plus faire un pas.</l>
+	<l id="9">Et, d'un air moqueur,</l>
+	<l id="10">En apprenant cette nouvelle</l>
+	<l id="11">Les Bretons, en choeur,</l>
+	<l id="12">Font retentir ce cri du coeur ;</l>
+<stage type="title">REFRAIN </stage>
+	<l id="13">Ah ! Zut ! Alors, si Carnot est malade !</l>
+	<l id="14">C'est probablement</l>
+	<l id="15">Parc' qu'il s'est trop payé d'ballade ;</l>
+	<l id="16">Ah ! Zut ! Alors, si Carnot est malade</l>
+	<l id="17">C'est, probablement</l>
+	<l id="18">Pour êtr' comm' le gouvernement</l>
+	<l id="19">Des renseignements puisés aux meilleur's sources</l>
+	<l id="20">Nous ont appris que le jour du grand prix,</l>
+	<l id="21">Monsieur Carnot jusqu'à la fin des courses</l>
+	<l id="22">Voulut rester... pour toucher ses paris.</l>
+<note type="L">Marie François Sadi Carnot (1837-1794) président de la République du 3 décembre 1887 à sa mort. Il fut assassiné le 25 juin 1894. Ce monologue est daté de l'année précédente.</note>
+	<l id="23">Or, le président</l>
+	<l id="24">Que l'Europe entière nous envie</l>
+	<l id="25">A[h] ? c'est évident</l>
+	<l id="26">Contracte là, son mal ardent,</l>
+	<l id="27">Au cas éventuel</l>
+	<l id="28">Où ce s'rait un' longu' maladie</l>
+	<l id="29">Carnot sort cruel !</l>
+	<l id="30">Serait victim' du pari mutuel</l>
+<stage type3="title">REFRAIN</stage>
+	<l id="31">Ah ! Zut ! Alors, si Carnot est malade !</l>
+	<l id="32">C'est probablement</l>
+	<l id="33">Parce qu'il s'est trop payé d'ballade ;</l>
+	<l id="34">Ah ! Zut ! Alors, si Carnot est malade</l>
+	<l id="35">C'est probablement</l>
+	<l id="36">Pour êtr' comm' le gouvernement.</l>
+<stage type="explicit">Invocation en Mineur</stage>
+	<l id="37">Mon Dieu ! Seigneur ! Enrayez par principe</l>
+	<l id="38">La maladie qui le tient alité</l>
+	<l id="39">Si, par malheur, Carnot cassait sa pipe,</l>
+	<l id="40">Ma pauvr' chanson n'srait plus d'actualité.</l>
+	<l id="41">Que votre bonté</l>
+	<l id="42">Enseigne à son peuple folâtre</l>
+	<l id="43">La spécialité</l>
+	<l id="44">Qui peut lui rendre la santé ;</l>
+	<l id="45">Comm' médicament,</l>
+	<l id="46">Seigneur ! S'il suffit d'une emplâtre,</l>
+	<l id="47">Dans le parlement</l>
+	<l id="48">Ça peut se trouver aisément.</l>
+<stage type="title">REFRAIN</stage>
+	<l id="49">Ah ! Zut ! Alors, si Carnot est malade !</l>
+	<l id="50">C'est probablement</l>
+	<l id="51">Parc'qu'il s'est trop payé d'ballade ;</l>
+	<l id="52">Ah ! Zut ! Alors, si Carnot est malade</l>
+	<l id="53">C'est probablement</l>
+	<l id="54">Pour êtr' comm' le gouvernement.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

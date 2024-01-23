@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>UNE MESSE, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, septembre 2022</publisher>
+			<idno>COURTELINE_UNEMESSE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF PHS 8-Z LE SENNE-3573">https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">UNE MESSE</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE.</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES..</head>
+			<castItem><role id="CHICHINETTE" sex="1" type="H" statut="libraire" age="A" stat_amour="néant">CHICHINETTE</role>.</castItem>
+			<castItem><role id="LE BEDEAU" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">LE BEDEAU</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">À Sainte-Claire du Quartier Bréda.</set>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 57-63</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>UNE MESSE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="1">
+	<s id="1">Monsieur le bedeau !</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="2">
+	<s id="1">Madame ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="3">
+	<s id="1">Je voudrais faire dire une messe.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="4">
+	<s id="1">Rien de plus simple.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="5">
+	<s id="1">Oui, mais je vais vous dire; je voudrais quelque chose de bien, et de pas trop cher en même temps.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="6">
+	<s id="1">Combien voulez-vous mettre ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="7">
+	<s id="1">Je ne sais pas au juste.. </s>
+	<s id="2">J'irais bien jusqu'à vingt-cinq_francs.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="8">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour ce prix-là, vous pouvez être tranquille ; nous vous donnerons quelque chose de très convenable.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="9">
+	<s id="1">Oui ?</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="10">
+	<s id="1">De très convenable. </s>
+	<s id="2">- Désirez-vous un petit Suisse ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="11">
+	<s id="1">Merci beaucoup ; je sors de table.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="12">
+	<s id="1">Vous ne comprenez pas ma question ; je vous demande : désirez-vous, à votre messe, le Suisse des petites cérémonies ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="13">
+	<s id="1">Mille pardons, j'avais confondu. </s>
+	<s id="2">Oui, oui, certainement, un Suisse !</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="14">
+	<s id="1">Très bien, voilà qui est entendu. </s>
+	<s id="2">Des mollets ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="15">
+	<s id="1">Vous dites ?</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="16">
+	<s id="1">Des mollets.</s>
+</p>
+<stage type="silence/estonish">Silence étonné de Chichinette.</stage>
+<p id="17">
+	<s id="1">Voulez-vous avoir des mollets ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="18">
+	<s id="1">Dites donc, espèce d'insolent, croyez-vous que je n'en aie pas ? </s>
+	<s id="2">En voilà un gros empaillé qui me prend pour planche à bouteille !...</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="19">
+	<s id="1">Qui vous parles de ça ? </s>
+	<s id="2">C'est t'y drôle que vous ne comprenez jamais ce qu'on vous dit. </s>
+	<s id="3">Je vous dis : Voulez-vous un Suisse avec mollets ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="20">
+	<s id="1">Mille excuses, j'avais mal compris. </s>
+	<s id="2">Avec mollets !... </s>
+	<s id="3">C'est plus cher, hein ?</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="21">
+	<s id="1">Bien entendu.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="22">
+	<s id="1">Combien que ça coûte ?</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="23">
+	<s id="1">En principe c'est deux francs le mollet (trois_francs_soixante-quinze la parle)...</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="24">
+	<s id="1">Y a une petite diminution...</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="25">
+	<s id="1">... quand on prend la paire ; oui, Madame. </s>
+	<s id="2">Maintenant, y a mollets et mollets.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="26">
+	<s id="1">Comment ça ?</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="27">
+	<s id="1">Question de rembourré. </s>
+	<s id="2">Si la somme de trois_francs_soixante-quinze vous effraie, nous pouvons vous offrir quelque chose de meilleur marché, le mollet à douze_sous la pièce.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="28">
+	<s id="1">Présentable.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="29">
+	<s id="1">Oh ! </s>
+	<s id="2">Absolument ! </s>
+	<s id="3">Au lieu que le mollet soit rembourré à l'ouate, il est rembourré aux copeaux ; ça se voit un peu, mais c'est encore très suffisant.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="30">
+	<s id="1">Bon ! </s>
+	<s id="2">Je prendrai le mollet aux copeaux.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="31">
+	<s id="1">Les deux ?</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="32">
+	<s id="1">Les deux.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU.</speaker>
+<p id="33">
+	<s id="1">Vous avez raison. </s>
+	<s id="2">- C'est pour une messe du bout de l'an.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<note type="C">Rue de Navarin : rue de Paris du 9ème arrondissement entre la station de Métro Saint-Georges et celle du Métro Pigalle.</note>
+<p id="34">
+	<s id="1">Non, c'est pour me porter bonheur.</s>
+	<s id="2">Parce que voilà, je vais ouvrir, rue_de_Navarin, un petit magasin de parfumerie.</s>
+</p>
+</sp>
+<sp who="LE BEDEAU"><speaker>LE BEDEAU</speaker><stage type="strong">, très sec.
+</stage>
+<p id="35">
+	<s id="1">Il n'y a pas de messes pour ces choses-là.</s>
+</p>
+</sp>
+<sp who="CHINCHINETTE"><speaker>CHINCHINETTE.</speaker>
+<p id="36">
+	<s id="1">Parbleu, il n'y en a pas besoins : le parfumerie, ça va toujours.</s>
+</p>
+<stage type="quiet">Confidentielle.</stage>
+<p id="37">
+	<s id="1">Seulement, je vais vous dire, j'ai l'intention d'avoir... une petite arrière-boutique... et, dame, ça, c'est plus aléatoire...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE CONTE DU GARDE, MONOLOGUE.</title>
+			<author type="texte" ISNI="0000 0001 2281 664X">Gustave NADAUD (1820-1893)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, février 2023.</editor>
+				<publisher>publié par Paul FIEVRE, mars 2023.</publisher>
+				<idno>NADAUD_CONTEDUGARDE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>vers</type>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k2079440</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE CONTE DU GARDE</titlePart>
+		</docTitle> 
+		<docDate value="1881">1881. Tous droits réservés.</docDate>
+		<docAuthor id="NADAUD, Gustave">Par M. Gustave NADAUD.</docAuthor>
+		<docImprint>
+			<editor id="TRESSE">PARIS, TRESSE Éditeur, GALERIE DU THÉÂTRE-FRANÇAIS, PALAIS ROYAL.</editor>
+			<printer>F. Aureau, Imprimerie de Lagny.</printer>
+		</docImprint>
+	<castList><head>LE PERSONNAGE</head>
+		<castItem><role id="UNE JEUNE FILLE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">UNE JEUNE FILLE</role>.</castItem> 
+	</castList>
+<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+<note>Paru dans SAYNÈTES ET MONOLOGUES, PREMIÈRE PARTIE, pp. 35-158</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE CONTE DU GARDE</head>
+<div2 type="scene" n="1"><head/>
+<stage type="dedicace">À C. Coquelin.</stage>
+<sp who="UN GARDE"><speaker/>
+	<l id="1">En Bretagne, et peut-être ailleurs, on se délasse</l>
+	<l id="2">À faire la veillée après un jour de chasse.</l>
+	<l id="3">Tous les gens sont rangés à distance du feu ;</l>
+	<l id="4">Le chef de la maison est assis au milieu.</l>
+	<l id="5">Allons, André, remue un peu ta vieille jambe ;</l>
+	<l id="6">Apporte-nous du bois et faisons feu qui flambe !</l>
+	<l id="7">Nous avons du pommier : c'est le sarment breton,</l>
+	<l id="8">Qui fait aussi du vin, et vaut l'autre, dit-on.</l>
+	<l id="9">Maintenant, Margaret, souffle sur cette braise,</l>
+	<l id="10">Causons, sans nous presser et contons à notre aise.</l>
+	<l id="11">Qui parlera premier ? Hé ! Garde, mon ami,</l>
+	<l id="12">À quoi penses-tu donc ? - Trois kilos et demi,</l>
+	<l id="13">En pays bretonnant, c'est beau poids pour un lièvre.</l>
+	<l id="14">- Ah ! Monsieur, celui-là n'est pas mort de la fièvre ;</l>
+	<l id="15">Je passais avec Tom, le long du saut de loup ;</l>
+	<l id="16">Je le vois, je l'ajuste, et je l'étends du coup</l>
+	<l id="17">Raide !... Il n'eut que le temps de dire six paroles.</l>
+	<l id="18">- Bon ! Voilà Mathurin dans ses visions folles.</l>
+	<l id="19">Faire parler un lièvre ! Oh ! Oh ! Mon compagnon !</l>
+	<l id="20">Si c'était un poulain, je ne dirais pas non,</l>
+	<l id="21">Mais un lièvre, jamais ! - Mes enfants, dit le garde,</l>
+	<l id="22">J'ai vécu plus que vous, et ceci me regarde.</l>
+	<l id="23">- Eh bien s'il a parlé, sachons ce qu'il a dit.</l>
+	<l id="24">- C'est cela, c'est cela. - Mathurin répondit :</l>
+	<l id="25">Les anciens du pays ont pu garder mémoire</l>
+	<l id="26">D'un homme nommé Krick, ferré sur le grimoire,</l>
+	<l id="27">Natif de Normandie, habitant Quimperlé,</l>
+	<l id="28">Huissier de son état, huissier ensorcelé,</l>
+	<l id="29">Huissier jusqu'à la moelle, ardent, hargneux et rogue,</l>
+	<l id="30">Mordant comme un mâtin et tenant comme un dogue.</l>
+	<l id="31">On n'a connu jamais un huissier plus huissier.</l>
+	<l id="32">Mon grand-père Thomas était riche fermier,</l>
+	<l id="33">Mais, comme un paysan, amoureux de la terre ;</l>
+	<l id="34">Il voulut à son tour être propriétaire,</l>
+	<l id="35">Gérer son propre fonds. Il fallut emprunter,</l>
+	<l id="36">Payer l'argent plus cher qu'il ne peut rapporter.</l>
+	<l id="37">Il eut des Saint-Médard, il eut des lunes rousses,</l>
+	<l id="38">Bref, un mauvais prêteur lâcha Krick à ses trousses.</l>
+	<l id="39">Mieux valait une meute. Alors, tout fut perdu ;</l>
+	<l id="40">Grain par grain, sou par sou notre bien fut vendu.</l>
+	<l id="41">Il ne nous resta rien, terre, maison ni chose,</l>
+	<l id="42">Pas un fétu de paille ! Et c'est pour cette cause</l>
+	<l id="43">Que mon père fut garde et que garde je suis.</l>
+	<l id="44">- Holà, hé ! Mathurin, vois où tu nous conduis !</l>
+	<l id="45">Quel rapport monsieur Krick a-t-il avec ton lièvre ?</l>
+	<l id="46">- Attendez ; l'esprit va plus vite que la lèvre.</l>
+	<l id="47">Quoique devenu pauvre et ras comme un carlin,</l>
+	<l id="48">Le grand-père Thomas était un fier malin.</l>
+	<l id="49">L'argent n'est pas toujours marque d'intelligence,</l>
+	<l id="50">Soit dit sans offenser notre voisin Fulgence.</l>
+	<l id="51">Le vieux était instruit comme pas un savant ;</l>
+	<l id="52">Il faisait souvent rire et réfléchir souvent.</l>
+	<l id="53">Il m'apprit l'écriture ordinaire et gothique,</l>
+	<l id="54">La charge en douze temps, un peu d'arithmétique,</l>
+	<l id="55">Le piquet, le billard, tous les arts d'aujourd'hui ;</l>
+	<l id="56">Bref, tout l'esprit que j'ai, je ne l'ai que par lui.</l>
+	<l id="57">Il m'enseignait aussi les lois de la nature,</l>
+	<l id="58">Ce que sera pour nous l'existence future.</l>
+	<l id="59">Il disait : Mes enfants, quand vous serez dehors,</l>
+	<l id="60">Votre âme deviendra l'âme d'un autre corps.</l>
+	<l id="61">Vous changerez d'état, d'instincts et de costumes,</l>
+	<l id="62">Vous serez animaux avant d'être légumes.</l>
+	<l id="63">Ainsi toujours mourant, ressuscitant toujours,</l>
+	<l id="64">Vous serez des oiseaux, des insectes, des ours,</l>
+	<l id="65">Mais dans cette autre vie, animaux, mes chers frères,</l>
+	<l id="66">Vous aurez des vertus et des vices contraires</l>
+	<l id="67">À ceux que vous aviez avant conversion.</l>
+	<l id="68">C'est ce qu'il appelait la compensation.</l>
+	<l id="69">Ainsi les cerveaux creux seront cervelles pleines ;</l>
+	<l id="70">Les beaux garçons, Joseph, seront bêtes vilaines ;</l>
+	<l id="71">Les plus laids, entends-tu ; Jean ? Seront les plus beaux ;</l>
+	<l id="72">Les lourds seront chevreuils, et les légers, crapauds :</l>
+	<l id="73">Les gens d'esprit seront les dindons et les oies ;</l>
+	<l id="74">Les élégants seront tout habillés de soies...</l>
+	<l id="75">Vous comprenez... Les vifs deviendront hannetons ;</l>
+	<l id="76">Les moutons seront loups, les loups seront moutons.</l>
+	<l id="77">Entendez-moi, Jenny, les femmes et les filles</l>
+	<l id="78">Coquettes de leurs corps tourneront en chenilles ;</l>
+	<l id="79">Les orgueilleux seront insectes aplatis ;</l>
+	<l id="80">Les rois et les héros, pucerons tout petits ;</l>
+	<l id="81">Les gourmandes, Marton, seront mules frugales ;</l>
+	<l id="82">Les avares d'ici seront là-bas cigales,</l>
+	<l id="83">Et les dissipateurs deviendront des fourmis.</l>
+	<l id="84">Ainsi choisissez tous votre lot, mes amis.</l>
+	<l id="85">Ici se récria l'auditoire champêtre :</l>
+	<l id="86">Ô mon brave Mathurin, quel rapport peut-il être</l>
+	<l id="87">Entre le vieux Thomas, le lièvre et monsieur Krick ?</l>
+	<l id="88" syll="9" part="i">Achève ton récit, voyons! </l>
+	<l id="88" syll="4" part="f">- Voici le hic.</l>
+	<l id="89">Si les humbles de coeur, si les doux caractères</l>
+	<l id="90">Deviennent les vautours, les loups et les panthères,</l>
+	<l id="91">Quel peut-être le sort des pervers, des méchants</l>
+	<l id="92">Qui dans leur vie humaine ont tourmenté les gens ?</l>
+	<l id="93">À coup sûr, ils seront bêtes infortunées,</l>
+	<l id="94">Au fusil, au bâton justement condamnées.</l>
+	<l id="95">Plus ils auront commis de délits compliqués,</l>
+	<l id="96">Plus ils seront punis, et traqués et croqués.</l>
+	<l id="97">Or, voulez-vous savoir quelle est la créature</l>
+	<l id="98">La plus vouée au mal dans toute la nature ?</l>
+	<l id="99">Le lièvre, direz-vous ? Oui, le lièvre, en effet.</l>
+	<l id="100">Quand j'en aperçois un, je me dis Qu'a-t-il fait ?</l>
+	<l id="101">Il faut avoir commis une bien grave offense</l>
+	<l id="102">Pour rester à ce point sans force et sans défense.</l>
+	<l id="103">Les autres ont la dent, la corne, le terrier</l>
+	<l id="104">lis peuvent se venger ou se réfugier.</l>
+	<l id="105">Le blaireau fait son trou, la perdrix a son aile :</l>
+	<l id="106">Adieu le nez des chiens et la piste nouvelle.</l>
+	<l id="107">Le chevreuil a pour lui l'immensité des bois ;</l>
+	<l id="108">Puis on chasse le gros tous les trente du mois ;</l>
+	<l id="109">Le lièvre, tous les jours, le lièvre, tout le monde.</l>
+	<l id="110">Il a peur du soleil et de la nuit profonde.</l>
+	<l id="111">Échappe-t-il aux coups du chasseur régulier,</l>
+	<l id="112">Il va se faire prendre au fil du braconnier ;</l>
+	<l id="113">Entend-il une voix, un souffle dans la plaine,</l>
+	<l id="114">Il n'a qu'une ressource, imprudente, incertaine ;</l>
+	<l id="115">Il court, il court, il court... Mais il laisse après lui</l>
+	<l id="116">Le fumet qui demeure alors qu'il s'est enfui.</l>
+	<l id="117">Lièvre, c'est un renard qui te suit à la trace ;</l>
+	<l id="118">Le renard se fatigue un autre le remplace</l>
+	<l id="119">Ou c'est l'oiseau de proie aux sanglants appétits</l>
+	<l id="120">Qui veut briser le crâne à tes pauvres petits ;</l>
+	<l id="121">Car tu ne trouves pas, ô lièvre misérable !</l>
+	<l id="122">Un être qui te soit utile ou secourable,</l>
+	<l id="123">Depuis le fier faucon jusqu'à l'humble fourmi :</l>
+	<l id="124">Le lapin, le lapin.même est ton ennemi.</l>
+	<l id="125">Et l'homme! Voici l'homme armé de son tonnerre.</l>
+	<l id="126">Tu ne peux t'envoler ni t'enfouir sous terre.</l>
+	<l id="127">Voici les chiens courants, voici les chiens d'arrêt :</l>
+	<l id="128">Il faut lutter de ruse et jouer du jarret.</l>
+	<l id="129">Cours au bois ! Un chasseur est là dans la clairière.</l>
+	<l id="130">Reviens de bois à plaine et de lande à bruyère ;</l>
+	<l id="131">Mais le nez te dépiste et le pied te poursuit.</l>
+	<l id="132">Un fusil se rabat ; il éclate quel bruit !</l>
+	<l id="133">Non, tu n'es ni tué, ni blessé quelle chance !</l>
+	<l id="134">Un autre coup !... Non rien.... Allons, prends de l'avance,</l>
+	<l id="135">Cours donc !... Mais on se tasse à la fin de courir ;</l>
+	<l id="136">La griffe se raidit, et, mourir pour mourir,</l>
+	<l id="137">Autant vaut retourner au gîte que l'on aime.</l>
+	<l id="138">Un troisième coup part !... Tu roules sur toi-même...</l>
+	<l id="139">Victoire ! Le voici. Regardez ces yeux morts :</l>
+	<l id="140">Une âme de coquin existait dans ce corps.</l>
+	<l id="141">C'était un vrai sorcier, c'était un mauvais diable ;</l>
+	<l id="142">Pour mon pauvre grand-père il fut impitoyable.</l>
+	<l id="143">Croyez-vous maintenant que le lièvre ait parlé ?</l>
+	<l id="144">Il a dit : « Je suis Krick, l'huissier de Quimperlé. »</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

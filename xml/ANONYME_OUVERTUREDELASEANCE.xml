@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>OUVERTURE DE LA SÉANCE, DIALOGUE.</title>
+				<author type="texte" ISNI="">(anonyme)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, octobre 2023</editor>
+				<publisher>Publié par Paul FIEVRE, novembre 2023.</publisher>
+				<idno>ANONYME_OUVERTUREDELASEANCE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Dialogue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1851-1860</periode>
+				<taille>(mesure non prtinente)</taille>
+				<permalien cote="BnF LLA YF-12564">https://gallica.bnf.fr/ark:/12148/bpt6k5565044k</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">OUVERTURE DE LA SÉANCE</titlePart>
+		</docTitle> 
+		<docDate value="1858">1858. Droits de reproduction et de traduction réservés.</docDate>
+		<docAuthor id="[Anonyme]"/>
+		<docImprint>
+			<editor id="BOUNET">PERIGUEUX. J. BOUNET, LIBRAIRE-ÉDITEUR, Cours Michel-Montaigne.</editor>
+			<printer id="BOUNET">PERIGUEUX. imprimerie DUPONT et C. - Juin 58.</printer>
+		</docImprint>
+	<div type="avis"><head>AVIS.</head>
+		<p>Dans les dialogues et les compliments qui composent ce petit recueil, nous nous sommes moins attaché au fond et à la forme qu'aux moyens d'intéresser les personnes qui assistent aux distributions de prix, pour lesquelles nous les faisons. Tous ces récits sont courts, parce qu'il faut éviter avec soin d'être prolixe et de fatiguer l'attention des auditeurs.</p>
+		<p>Nous citons quelquefois, dans le second dialogue, des passages du livre de M. Renaudin sur les distributions de prix, parce qu'il nous ont paru s'adapter parfaitement à notre sujet.</p>
+		<p>Comme il était impossible d'approprier ces diverses compositions à toutes les villes, nous avons dû nous tenir dans une sorte de généralité.</p>
+		<p>Il sera facile, au reste, à chaque instituteur de supprimer ce qui lui paraîtrait superflu et d'ajouter ce qu'il croirait utile dans sa localité.</p>
+		<p>Mais ce qui nous semble le plus important à propos de ces récits, c'est que les élèves qui sont destinés à les faire les sachent imperturbablement, les débitent avec énergie, avec grâce et avec aisance, faisant quelques gestes sans affectation et sans sortir jamais du naturel.</p>
+	</div>
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="EUGÈNE" sex="1" type="H" statut="" age="J" stat_amour="néant">EUGÈNE</role>.</castItem>
+		<castItem><role id="AUGUSTE" sex="1" type="H" statut="" age="J" stat_amour="néant">AUGUSTE</role>.</castItem>
+		<castItem><role id="CLÉMENT" sex="1" type="H" statut="" age="J" stat_amour="néant">CLÉMENT</role>.</castItem>
+		<castItem><role id="CHARLES" sex="1" type="H" statut="" age="J" stat_amour="néant">CHARLES</role>.</castItem>
+		<castItem><role id="GUSTAVE" sex="1" type="H" statut="" age="J" stat_amour="néant">GUSTAVE</role>.</castItem>
+		<castItem><role id="ÉMILE" sex="1" type="H" statut="" age="E" stat_amour="néant">ÉMILE</role>, jeune enfant.</castItem>
+		<castItem><role id="FÉLIX" sex="1" type="H" statut="" age="E" stat_amour="néant">FÉLIX</role>, idem.</castItem>
+	</castList>
+<note>Texte tiré de "Dialogues et petits discours, récits facétieux et récréatifs por la distribution des prix de 1858", Périgueux : Bounet, 1858. pp 5-14.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>OUVERTURE DE LA SÉANCE.</head>
+<div2 type="scene" n="1"><head/>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="1">
+	<s id="1">Quel beau jour, mes amis, vient de briller à nos yeux !</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="2">
+	<s id="1">Oui, c'est un beau jour que celui qui ramène au milieu de nous notre vénérable pontife, notre digne maire, nos pasteurs chéris et tous les généreux protecteurs de notre enfance.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="3">
+	<s id="1">Combien leur présence est flatteuse et honorable pour nous !</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<p id="4">
+	<s id="1">Pour moi, j'en suis tout transporté de joie.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="5">
+	<s id="1">Et moi aussi.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="6">
+	<s id="1">Vos sentiments, cheRs condisciples, sont ceux de toute l'école. </s>
+	<s id="2">Honneur aux bienfaiteurs de notre enfance ! </s>
+	<s id="3">Leur nom, béni de tous, sera transmis à la postérité reconnaissante.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="7">
+	<s id="1">Il faut que notre instruction et notre éducation inspirent un grand intérêt à nos généreux protecteurs, pour qu'ils daignent ainsi suspendre leurs importants travaux pour venir encourager les nôtres.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="8">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est qu'ils ont compris mieux que nous que l'éducation chrétienne est le principe du bien-être de toute société et le gage de notre bonheur futur.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="9">
+	<s id="1">L'éducation, et la bonne éducation surtout, voilà tout l'avenir des peuples, et c'est ce qu'ont pensé dans tous les temps les hommes éclairés et les sages législateurs.</s>
+</p>
+</sp>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="10">
+	<s id="1">L'instruction est une seconde naissance, et nous ne devons pas moins d'obligation en quelque sorte à ceux qui nous donnent l'éducation qu'à ceux qui nous ont donné la vie du corps.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="11">
+	<s id="1">L'instruction est un besoin indispensable à l'homme. </s>
+	<s id="2">On demandait un jour à Aristipe, philosophe et disciple de Socrate, pourquoi il apportait tant de soins à instruire son fils. </s>
+	<s id="3">- C'est, répondit le sage, afin que lorsqu'il sera assis dans les assemblées publiques, on ne dise pas au moins que c'est une pierre sur une pierre.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="12">
+	<s id="1">Nos magistrats, notre respectable clergé, nos parents veulent même quelque chose de mieux que ces sages païens, qui se bornaient à une vaine science. </s>
+	<s id="2">Ils veulent que l'instruction chez nous soit unie à l'éducation, persuadés que l'instruction sans l'éducation ne serait pour l'homme trop souvent qu'un présent funeste.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="13">
+	<s id="1">Il ne faut plus être surpris que dans tous les pays civilisés on attache un si grand prix à l'instruction, en France surtout. </s>
+</p>
+<stage type="explicit">On peut supprimer cette réplique, si elle ne peut être appliquée convenablement dans la localité où se fait l'entretien.</stage>
+<p id="14">
+	<s id="1">Et parmi toutes les populations, nous pourrions citer notre bonne ville de Périgueux.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="15">
+	<s id="1">Voyez que de sacrifices elle s'impose, que d'asiles elle a ouverts à la jeunesse ! </s>
+	<s id="2">Ce sont là, mes condisciples, autant de monuments du zèle et de la munificence de nos dignes magistrats pour leurs administrés.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="16">
+	<s id="1">Notre belle patrie est loin d'être en retard sous ce rapport. </s>
+	<s id="2">Savez-vous que la France possède plus de cinquante mille écoles primaires seulement !</s>
+</p>
+</sp>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="17">
+	<s id="1">Nous le savons ; elle est placée sans contredit au premier rang des nations civilisées; et il faut en convenir, c'est à l'éducation basée sur la foi qu'elle doit cette prééminence, cette supériorité qui l'ont mise à même de dicter des lois à toute l'Europe et même à tout l'univers.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="18">
+	<s id="1">Oui, mes amis, ce sont nos lois, nos coutumes, nos modes, nos découvertes qui sont adoptées de préférence par toutes les nations.</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<p id="19">
+	<s id="1">Aussi j'ai entendu dire que les Français se sont signalés dans tous les temps par leur religion, leur valeur et leur industrie.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="20">
+	<s id="1">Les siècles rediront à l'avenir la gloire de nos soldats dans leurs brillantes campagnes d'Afrique, et lorsque, marchant naguère sous la bannière de la foi et de la patrie, ils sont allés planter glorieusement leurs drapeaux sur les remparts de Sébastopol.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="21">
+	<s id="1">Vous rendez justice à notre pays ; honneur à la France !</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<p id="22">
+	<s id="1">Moi, je suis tout fier d'être Français, et quand je serai grand, si je suis appelé à défendre la patrie, vous me verrez, j'espère, au premier rang.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="23">
+	<s id="1">Tu ne seras pas seul, va ! </s>
+	<s id="2">À l'occasion, nous donnerons un bon coup de main nous aussi.</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<note type="C">Place où l'on a élevé une statue au Maréchal Bugeaud. On peut au besoin supprimer ce passage.</note>
+<p id="24">
+	<s id="1">Toutes les fois que je passe sur la place_du_Triangle et que je contemple le monument élevé à la mémoire d'un illustre guerrier, une des gloires du Périgord, je me dis à moi-même : Je veux être aussi un bon soldat. </s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="25">
+	<s id="1">Mais pourquoi ne pas désirer d'être maréchal_de_France, toi aussi ?</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="26">
+	<s id="1">Avant de penser à être de bons soldats, mes petits amis, il faut songer à devenir de bons élèves, c'est le moyen de faire honneur à votre pays.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="27">
+	<s id="1">C'est bien aussi ce que nous voulons faire pour soutenir quelques jours l'honneur français.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="28">
+	<s id="1">Et qui pourrait disputer aux Français la gloire d'être le peuple le plus vaillant, le plus éclairé et le plus spirituel ? </s>
+	<s id="2">La France est comme un temple élevé à la gloire et au génie : c'est là que l'on admire, et l'art porté à sa perfection, et cette intelligence créatrice.</s>
+</p>
+</sp>
+<sp who="CHARLES"><speaker>CHARLES.</speaker>
+<p id="29">
+	<s id="1">Tout ce que vous venez de dire, mes amis, sur notre patrie, sur l'instruction et l'éducation, est fort beau, et je ne le conteste point ; mais je serais content de savoir sur quoi vous basez la nécessité indispensable de l'instruction, en quoi vous faites consister ses avantages.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="30">
+	<s id="1">Comment, mon ami, est-ce que tu pourrais méconnaître ses résultats si précieux ?</s>
+</p>
+</sp>
+<sp who="CHARLES"><speaker>CHARLES.</speaker>
+<p id="31">
+	<s id="1">Non, mais je serais enchanté que vous voulussiez bien prouver ce que vous avancez ; votre langage me semble un peu exagéré ; vous allez bien loin, je crois.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="32">
+	<s id="1">Allons donc ! Ce serait faire tort à ton intelligence de nous demander de te prouver la nécessité de s'instruire.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="33">
+	<s id="1">Il ne faut qu'ouvrir les yeux pour en être convaincu. </s>
+	<s id="2">Voyez cette terre inculte et stérile qui n'a pas été cultivée, elle ne produit que des herbes sauvages, des ronces et des épines ; ainsi en est-il de l'homme.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="34">
+	<s id="1">11 ne faut que considérer ce qu'ont été dans tous les temps les hommes plongés dans l'ignorance.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="35">
+	<s id="1">Et ce que sont encore aujourd'hui ceux qui vivent dans les forêts de l'Amérique, peuples sauvages, presque semblables aux êtres sans raison et sans intelligence, peuples cruels et anthropophages.</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<p id="36">
+	<s id="1">Je ne voudrais pas ressembler à ces hommes, moi.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="37">
+	<s id="1">Ni moi non plus ; aussi je suis bien disposé à faire tous mes efforts pour acquérir une bonne éducation.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="38">
+	<s id="1">Et de quoi est capable celui qui n'a aucune instruction, qui ne connaît point sa religion, qui ne sait ni lire, ni écrire, ni compter, qui n'a aucune idée des autres sciences ? Il n'est propre à rien.</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="39">
+	<s id="1">Il sera trompé mille fois.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="40">
+	<s id="1">Il sera méprisé.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="41">
+	<s id="1">Il ne pourra trouver une position.</s>
+</p>
+</sp>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="42">
+	<s id="1">Il sera malheureux.</s>
+</p>
+</sp>
+<sp who="CHARLES"><speaker>CHARLES.</speaker>
+<p id="43">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Moi, je connais des hommes qui ignorent toutes ces sciences, et pourtant, comme on dit, qui vont leur chemin et font de bonnes affaires.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="44">
+	<s id="1">Je crois, mon ami, que ces hommes commencent à devenir bien rares en France, même dans les campagnes.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="45">
+	<s id="1">Ce serait nier le jour en plein midi de croire que l'on peut se passer d'instruction. Nous sommes dans le siècle des lumières et des progrès, il faut marcher avec le temps et travailler chacun à nous instruire, selon l'état où la Providence nous a placés ou celui où elle nous destine.</s>
+</p>
+</sp>
+<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<p id="46">
+	<s id="1">Pour moi, je suis disposé à le taire ; mon papa me l'a bien recommandé.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="47">
+	<s id="1">Tout le monde, j'aime à le croire, est dans cette disposition, même notre condisciple Charles, quoi qu'il en dise.</s>
+</p>
+</sp>
+<sp who="CHARLES"><speaker>CHARLES.</speaker>
+<p id="49">
+	<s id="1">Oui, mes condisciples, si j'ai fait quelque opposition, c'est uniquement pour vous donner lieu de mieux faire ressortir les avantages de l'éducation. J'apprécie comme vous ce bienfait.</s>
+</p>
+</sp>
+<sp who="AUGUSTE"><speaker>AUGUSTE.</speaker>
+<p id="50">
+	<s id="1">Ne pensons donc plus qu'à profiter des leçons qui nous sont données ici avec tant de désintéressement.</s>
+</p>
+</sp>
+<sp who="FÉLIX"><speaker>FÉLIX.</speaker>
+<p id="51">
+	<s id="1">N'oublions point surtout de remercier les généreux protecteurs de notre jeunesse.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="52">
+	<s id="1">C'est un devoir sacré; c'est sous leurs auspices que nous recevons ce précieux enseignement.</s>
+</p>
+</sp>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="53">
+	<s id="1">Il convient, surtout aujourd'hui, d'aller leur exprimer notre sincère et vive reconnaissance.</s>
+</p>
+</sp>
+<sp who="CLÉMENT"><speaker>CLÉMENT.</speaker>
+<p id="54">
+	<s id="1">Nous espérons qu'Eugène voudra bien être notre interprète ?</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="55">
+	<s id="1">Très volontiers; mais je ne saurais remplir dignement vos vues.</s>
+</p>
+</sp>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="56">
+	<s id="1">Tu n'as rien à craindre, va ; ils sont si bons, nos protecteurs !</s>
+</p>
+</sp>
+<sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
+<p id="57">
+	<s id="1">C'est bien parce que je compte sur leur indulgence que je vais essayer de leur adresser quelques paroles.</s>
+</p>
+</sp>
+<stage type="explicit">Il va faire le compliment, qui est ci-joint.</stage>
+<sp who="GUSTAVE"><speaker>GUSTAVE.</speaker>
+<p id="58">
+	<s id="1">Il me semble à propos maintenant, mes camarades, de réunir nos voeux pour bénir ensemble nos bienfaiteurs.</s>
+</p>
+<stage type="sing">Ils chantent, ou l'on supprime ces deux dernières lignes.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>PREMIER COMPLIMENT.</head>
+<sp who="TOUS"><speaker/>
+<p id="1">
+	<s id="1">MESSIEURS,</s>
+</p>	
+<p id="2">
+	<s id="1">Lorsque j'aperçois dans cette enceinte les personnes les plus distinguées de cette ville, qui daignent venir sourire à nos efforts, consacrer nos premiers succès et leur donner par leur présence une sorte d'éclat et de triomphe, un sentiment d'admiration s'empare aussitôt de mon âme : Et qui sommes-nous, me dis-je à moi-même, faibles et timides enfants, pour inspirer à nos généreux bienfaiteurs un intérêt si touchant et une bienveillance si honorable ! Nous ne sommes rien, hélas ! ni pour la religion qui nous fait entendre si souvent sa voix et nous couvre de son égide tutélaire, ni pour la patrie qui nous entoure de ses bienfaits et de sa protection ; mais c'est afin que nous soyons un jour capables de quelque chose, que vous venez aujourd'hui encourager nos jeunes talents et les couronner des palmes de la victoire.</s>
+</p>
+<p id="3">
+	<s id="1">Oui, messieurs, vous nous faites comprendre par là que l'éducation chrétienne est le plus précieux de tous les biens ; que l'enfant, que le jeune homme qui entre dans la société, privé de ce secours et de ce bienfait, est semblable au vaisseau lancé à la mer, sans pilote pour le conduire, sans boussole pour le gouverner ; jouet des vents et des tempêtes, il marche au hasard et ne tarde pas à aller se heurter contre les écueils nombreux qui se rencontrent sur sa route, jusqu'à ce qu'.enfin il finisse par sombrer et faire un triste naufrage.</s>
+</p>
+<p id="4">
+	<s id="1">Honneur donc, messieurs ! </s>
+	<s id="2">Honneur à votre sage administration, à votre sollicitude qui, en nous plaçant dans ces écoles, a su écarter dé nous le péril et fixer nos pas dans les sentiers du devoir et de la vertu ! </s>
+	<s id="3">Travailler ainsi, messieurs, à étendre, à propager l'instruction, la bonne éducation ; c'est rendre le service le plus important à la patrie, c'est accroître la prospérité publique, et jeter les plus solides fondements de la gloire de la France, en lui formant des hommes utiles, de bons citoyens, des ouvriers laborieux ; c'est préparer un avenir de paix et de bonheur à cette nombreuse jeunesse qui vous doit son bien-être et qui ne cessera de bénir votre nom.</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

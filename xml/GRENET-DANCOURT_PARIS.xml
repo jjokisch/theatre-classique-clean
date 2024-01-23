@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>PARIS, MONOLOGUE.</title>
+				<author type="texte" ISNI="0000 0000 7833 6453">Ernest GRENET-DANCOURT (1859-1913)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, janvier 2023</editor>
+				<publisher>Publié par Paul FIEVRE, février 2019.</publisher>
+				<idno>GRENET-DANCOURT_PARIS</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-Yth-21581">https://gallica.bnf.fr/ark:/12148/bpt6k761662</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PARIS</titlePart>
+			<titlePart type="sub">MONOLOGUE COMIQUE</titlePart>
+			<titlePart type="sub">DIT PAR COQUELIN CADET, de La Comédie-Françoise.</titlePart>
+			<titlePart type="sub">PRIX : UN FRANC</titlePart>
+
+		</docTitle> 
+		<docDate value="1882">1882. Tous droits réservés</docDate>
+		<docAuthor id="GRENET-DANCOURT, Ernest"/>
+		<docImprint>
+			<editor id="RUAULT">PARIS, PAUL OLLENDORFF, ÉDITEUR, 28 bis, rue de Richeliue, 28 bis.</editor>
+			<printer>Imprimerie Générale de Chatillon-sur-Seine - Jeanne Robert.</printer>
+		</docImprint>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="UN HOMME" sex="1" type="H" statut="bourgeois" age="V" stat_amour="néant">UN HOMME</role>.</castItem> 
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>PARIS</head>
+<div2 type="scene" n="1"><head/>
+<stage type="dedicace">À mon ami Moynet.</stage>
+<sp who="UN HOMME"><speaker/>
+<p id="1">
+	<s id="">Né à Rozières-les-Virginales, cent-quarante_sept habitants, j'éprouvais depuis ma naissance un ardent désir de voir la capitale. </s>
+	<s id="2">- Je l'ai vue... </s>
+	<s id="3">J'en ai assez. </s>
+	<s id="4">Je suis parti pour Paris il y a deux jours... par le chemin de fer. </s>
+	<s id="5">En route, rien d'extraordinaire. </s>
+	<s id="6">Le train entre en gare à six_heures-et_demie du matin.</s>
+</p>
+<p id="2">
+	<s id="">Personne dans les rues : on n'est pas matinal à Paris.</s>
+</p>
+<p id="3">
+	<s id="">De loin en loin pourtant, des femmes se glissaient furtivement hors des maisons... s'avançaient jusque sur le bord des trottoirs... regardaient si personne ne les voyait... et vidaient sur la chaussée des boîtes pleines de choses dégoûtantes... probablement pour faire enrager leurs voisins.</s>
+</p>
+<p id="4">
+	<s id="1">Dans une autre rue.... une rue très large... je vis au contraire des gens.... qui balayaient la route avec un soin minutieux. </s>
+	<s id="2">Je devinai sans peine qu'ils préparaient la voie pour le passage d'une procession... et ce qui me fit voir que j'avais raison, c'est que, aussitôt le départ de ces braves gens... je vis venir un homme... en blouse... avec une figure sale... qui s'amusa à faire de la boue avec un tonneau qui fuyait par derrière. </s>
+	<s id="3">Je n'en doutai plus, c'était un... chut ! pas de politique !</s>
+</p>
+<p id="5">
+	<s id="1">Je continuai ma promenade. </s>
+	<s id="2">Une chose me frappa. </s>
+	<s id="3">Il y a des rues... où l'on a planté des arbres... </s>
+	<s id="4">Des arbres ? </s>
+	<s id="5">- Trois feuilles au bout d'un manche. </s>
+	<s id="6">Enfin ils font ce qu'ils peuvent... </s>
+	<s id="7">C'est pas ça qui m'a frappé, non, ce qui m'a surpris, c'est de voir au pied de chaque arbre... une espèce de cage ronde... en fer. </s>
+	<s id="8">Il paraît qu'il y a tant de voleurs à Paris, qu'on est obligé de mettre les arbres en cage pour ne pas qu'on les vole.</s>
+</p>
+<p id="6">
+	<s id="1">Ah ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Voilà les boutiques qui s'ouvrent ! </s>
+	<s id="5">C'est ça qui est curieux par exemple, de voir s'ouvrir les boutiques à Paris ! </s>
+	<s id="6">Figurez-vous une grande plaque... en tôle... qui monte toute seule. comme ça... tout doucement tout doucement... et puis, psttt... plus rien. </s>
+	<s id="7">Sans doute que chaque boutiquier s'entend avec le voisin du dessus pour laisser monter sa fermeture dans son appartement... </s>
+	<s id="8">Ce que ça doit gêner le locataire !</s>
+</p>
+<p id="7">
+	<s id="1">En me retournant, j'aperçois un grand tableau représentant une grosse femme et trois empereurs, - le tout visible pour deux sous. </s>
+	<s id="2">J'entre... je vois la grosse femme... elle me montre sa jambe... une jambe énorme... de quoi nourrir dix personnes... pendant quinze jours. </s>
+	<s id="3">Mais pas d'empereurs... </s>
+	<s id="4">On me dit qu'ils sont partis depuis deux jours... ils ont bienfait... </s>
+	<s id="5">Ce n'est pas la place des rois de se montrer ainsi en public à côté d'une grosse femme... </s>
+	<s id="6">Chut ! </s>
+	<s id="7">Pas de politique !</s>
+</p>
+<p id="8">
+	<s id="1">Après cela j'ai vu... quand je dis : j'ai vu. je n'ai rien vu du tout... c'est-à-dire, si... non... enfin voilà : J'aperçois une petite boutique... très propre... sur laquelle était écrit. quoi donc déjà ? </s>
+	<s id="2">Va... va... va... va... faire. va faire. </s>
+	<s id="4">Ah ! j'y suis : va faire causette ! </s>
+	<s id="5">- 15 centimes. </s>
+	<s id="6">Je suis entré.</s>
+</p>
+<p id="9">
+	<s id="1">Une dame... âgée... mais très propre... comme la boutique... m'a fait passer dans un grand couloir... long... très long... avec des portes... beaucoup de portes de chaque côté ; au milieu de chaque porte... un rond en verre dépoli... </s>
+	<s id="2">J'ai regardé dans tous les ronds... </s>
+	<s id="3">Je n'ai rien vu du tout... </s>
+	<s id="4">Mais... j'ai payé tout de même. </s>
+	<s id="5">La dame m'a demandé si j'étais content. </s>
+	<s id="6">Je lui ai dit : Oui. pour ne pas avoir l'air provincial.</s>
+</p>
+<p id="10">
+	<s id="1">En sortant de là, je me dis : c'est le moment de déjeuner.</s>
+</p>
+<p id="11">
+	<s id="">Je cherche une auberge et je finis par en trouver une... où l'on mange pour dix-neuf sous.</s>
+</p>	
+<p id="12">
+	<s id="1">À peine étais-je entré... qu'un jeune homme... blond... frisé... m'apportait une raquette... sur laquelle étaient inscrits tous les plats. </s>
+	<s id="2">Il y en avait des plats !... </s>
+	<s id="3">Au moins trente ! </s>
+	<s id="4">Je dis au jeune homme... blond... frisé... que je ne pourrai jamais manger tout ça. </s>
+	<s id="6">Il me répond que je suis libre. </s>
+	<s id="7">Alors je déjeune très légèrement : Cinq plats de viande... trois légumes... et deux desserts.</s>
+</p>
+<p id="13">
+	<s id="1">Je donne dix-neuf sous à la caisse... mais voilà qu'on me réclame six francs cinquante.</s>
+</p>
+<p id="14">
+	<s id="1">Je crie... tempête... et finalement.... refuse de payer. </s>
+	<s id="2">Sur un signe de la caissière... le jeune homme... blond... frisé... s'élance dans la rue... et revient aussitôt... avec un grand collégien... qui avait de la barbe... une épée... et au moins quarante ans.</s>
+</p>
+<p id="15">
+	<s id="1">Ce vieux gamin veut m'empoigner... je résiste... le menace de me plaindre à ses parente... rien n'y fait ; alors je me résigne à payer.</s>
+</p>
+<p id="16">
+	<s id="">Je vais visiter le dôme_des_Invalides qui est tout en or et l'obélisque qui est tout en pierre.</s>
+</p>
+<p id="17">
+	<s id="1">Dans le premier établissement... repose Napoléon_1er, personnage célèbre par... sa célébrité.</s>
+</p>
+<p id="18">
+	<s id="1">Le second établissement était fermé... pour cause de réparations intérieures.</s>
+</p>
+<p id="19">
+	<s id="">De là je vais sur les grands boulevards... vois rien d'extraordinaire... des boutiques. toujours des boutiques... pas seulement un champ de luzerne.</s>
+</p>
+<p id="20">
+	<s id="1">Tout à coup je m'arrête... ébahi... stupide... Sur une grande charrette brune... traînée par trois chevaux... avec du monde dessus et dessous... je vois écrit en toutes lettres, devinez quoi ? </s>
+	<s id="2">- Madeleine ! </s>
+	<s id="3">Le nom de ma bonne amie ; seulement pas le même nom de famille : ma bonne amie s'appelle Madeleine_Rossin et sur la voiture il y avait Madeleine_Bastille. </s>
+	<s id="4">C'est égal, ça m'a donné un coup.</s>
+</p>
+<note type="L">Reine Blanche ; Blanche de Castille (1188-1252), Reine de France, femme de Louis VIII mère de Saint-Louis.</note>
+<p id="21">
+	<s id="1">La nuit vient, je vais dîner, et, en sortant de table, au bal.. dans un bal appelé je crois... la Reine_Blanche. </s>
+	<s id="2">Oui, c'est cela... la Reine_Blanche ! </s>
+	<s id="3">J'entre, mais je ne reste pas... parce que je vois là des choses... des choses ! </s>
+	<s id="4">Je m'étonne qu'une femme aussi pieuse que la mère de Saint_Louis ait fondé un établissement pareil. </s>
+	<s id="5">J'appelle un cocher et me fais conduire au concert_des_Ministres. non, des Ambassadeurs.</s>
+</p>
+<p id="22">
+	<s id="1">Oh ! </s>
+	<s id="2">Là, par exemple, je n'ai pas regretté mon argent... </s>
+	<s id="3">C'était beau !... </s>
+	<s id="4">C'était beau... </s>
+	<s id="5">Maginez-vous. au moins quinze demoiselles de la confrérie... et autant de chantres... qui sont venus chanter des cantiques... mais des beaux cantiques, des cantiques nouveaux.</s>
+</p>
+<stage type="sing">L'artiste fredonne deux ou trois refrains à la mode.</stage>
+<p id="33">
+	<s id="1">C'était plus fort que moi... j'en pleurais... au point qu'un monsieur qui était à côté de moi m'a prêté son mouchoir... seulement, en sortant... je n'ai plus retrouvé mon porte-monnaie, ni ma montre.</s>
+</p>
+<p id="34">
+	<s id="1">N'ayant plus d'argent, je me suis promené dans les Champs_Élysées jusqu'à trois heures du matin... </s>
+	<s id="2">J'allais mourir de froid... et de frayeur... lorsqu'un collégien... pareil à celui du restaurant... ils étaient sans doute en vacances... est venu me demander ce que je faisais là.</s>
+</p>
+<p id="35">
+	<s id="1">Je lui ai tout raconté.</s>
+</p>
+<p id="36">
+	<s id="">Alors il m'a conduit dans une maison... je crois que c'était chez un marchand de tabac... il y avait une lanterne rouge à la porte... seulement la marchandise était serrée.</s>
+</p>
+<p id="37">
+	<s id="1">Là, j'ai de nouveau raconté mon affaire à un vieux monsieur. qui m'a paru être le père du... collégien. </s>
+	<s id="2">Ce brave homme m'a fait reconduire à la gare après m'avoir avancé la somme nécessaire pour retourner au pays.</s>
+</p>
+<p id="38">
+	<s id="1">Et me voilà.</s>
+</p>
+<p id="39">
+	<s id="1">Paris !... N'y allez pas !...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

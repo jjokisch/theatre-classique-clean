@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>UN HOMME EN HABIT NOIR, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0000 8124 818X">Abraham DREYFUS (1847-1926)</author>			</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE, janvier 2023.</editor>
+			<publisher>Publié par Paul FIEVRE, févirer 2023.</publisher>
+			<idno>DREYFUS_CRANESOUSLATEMPETE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs</inspiration>
+			<type>prose</type>
+			<structure>Un acte</structure>
+			<periode>1871-1880</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF LLA 8-YF-268">https://gallica.bnf.fr/ark:/12148/bpt6k295091</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">UN HOMME EN HABIT NOIR</titlePart>
+			<titlePart type="sub">SAYNÈTE</titlePart>
+			<titlePart type="sub">Jouée pour la première fois, à Paris, dans une représentation au théâtre de l'ODÉON, le 19 octobre 1872.</titlePart>
+			<titlePart type="sub">DEUXIÈME ÉDITION</titlePart>
+		</docTitle>Â
+		<docDate value="1887">1887. Droits de reproduction et de traduction réservés.</docDate>
+		<docAuthor id="DREYFUS, Abraham">PAR ABRAHAM DREYFUS</docAuthor>
+		<docImprint>
+			<editor id="RUAULT">PARIS, CALMANN LÉVY, éditeur, ANCIENNE MAISON MICHEL LÉVY FRÈRES, ÉDITEUR, 3 rue Auber, 3.</editor>
+			<printer>BOURLOTON.- Imprimerie réunies, 2, rue Mignon, 2.</printer>
+		</docImprint>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="UN MONSIEUR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN MONSIEUR</role>, Monsieur SAINT-GERMAIN.</castItem> 
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+	<note>Extrait de 3jouons le Comédie" par Abraham Dreyfus, Deuxième édition. Paris : Calmann Lévy, 1887. pp. 1-38.</note>
+</front>
+<body>
+<div1 type="acte" n=""><head>UN MONSfEUR EN HABIT NOIR</head>
+<stage type="decor/furniture">Un salon. Porte au fond, ouvrant sur une antichambre. Petite porte à gauche. – Piano.– Cheminée surmontée d'une glace. –AumUieu.une table avec livres, journaux de modes, album de photographies, buvard et encrier. Un fauteuil de chaque côté de la table. Une chaise près du fauteuil de droite.</stage>
+<div2 type="scene" n="1"><head/>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR</speaker><stage type="location">, parlant au dehors.
+</stage>
+<p id="1">
+	<s id="1">Comment ! </s>
+	<s id="2">Ils n'y sont pas !...</s>
+</p>
+<stage type="entrance">Entrant.</stage>
+<p id="2">
+	<s id="1">Vous êtes sûre que... </s>
+	<s id="2">C'est extraordinaire. </s>
+	<s id="3">Dites donc, Joséphine...</s>
+</p>
+<stage type="exit/entrance/toward">Il sort un instant comme pour parler à la bonne. Rentrant.</stage>
+<p id="3">
+	<s id="1">Je ne peux pas croire qu'ils n'y soient pas. </s>
+	<s id="2">Le rendez-vous était pour deux_heures.</s>
+</p>	
+<stage type="get">Tirant sa montre.</stage>
+<p id="4">
+	<s id="1">Il est deux_heures_trois_minutes. </s>
+	<s id="2">On a bien trois_minutes de grâce quand on vient pour une chose aussi sérieuse que celle qui m'amène : une demande en mariage.</s>
+</p>
+<stage type="declamate">Déclamant.</stage>
+<p id="5">
+	<s id="1">Au moment d'enchaîner sa destinée.</s>
+</p>
+<stage type="speak">Ton naturel. </stage>
+<p id="6">
+	<s id="1">Je ne peux pas croire qu'ils n'y soient pas !... </s>
+	<s id="2">C'est un malentendu..., ça ne peut être qu'un malentendu. </s>
+	<s id="3">J'ai écrit hier au soir à mon futur beau-père que je viendrais terminer aujourd'hui notre affaire de mérinos... </s>
+	<s id="4">Il sait ce que cela veut dire... </s>
+	<s id="5">Nous n'avons pas voulu parler devant les domestiques de nos projets d'alliance ; alors il a été convenu que nous appellerions ça – provisoirement - l'affaire des mérinos... </s>
+	<s id="6">Le mérinos, c'est moi. Quand mon beau-père me dit : « Eh bien. où en sommes-nous ?. » </s>
+	<s id="7">Je réponds ceci ou cela... et ma fiancée n'est pas obligée de rougir...</s>
+</p>
+<stage type="away/back">Il va et vient d'un air distrait.</stage>
+<p id="7">
+	<s id="1">Elle n'est pas obligée de rougir.</s>
+</p>
+<p id="8">
+	<s id="1">Décidément, ils sont en retard. </s>
+	<s id="2">Je n'en suis pas fâché. </s>
+	<s id="3">Cela me permettra de me préparer un peu... </s>
+	<s id="4">S'il m'avait fallu aborder immédiatement cette grave question des mérin...</s>
+</p>
+<stage type="get">Se reprenant.</stage>
+<p id="9">
+	<s id="1">du mariage, j'aurais été quelque peu embarrassé. </s>
+	<s id="2">Malgré moi, je suis ému... </s>
+	<s id="3">Je les attends avec impatience, avec une vive impatience, et pourtant rien ne me presse ! </s>
+	<s id="4">On éprouve souvent cet effet-là vous souffrez des dents, vous courez chez un dentiste...; on vous dit qu'il est sorti... </s>
+	<s id="5">Eh bien, ça vous fait plaisir... </s>
+	<s id="6">Et, le lendemain, vous y retournez... à la même heure.</s>
+</p>
+<stage type="stop/get">Pause. Tirant sa montre. </stage>
+<p id="10">
+	<s id="1">Deux_heures_un_quart. </s>
+	<s id="2">La bonne m'a dit qu'ils étaient allés visiter une exposition de tableaux... chez un professeur d'écriture ; ce doit être une toute petite exposition. </s>
+	<s id="3">On en fait partout maintenant, et mon beau-père n'en manque pas une... </s>
+	<s id="4">Oh ! </s>
+	<s id="5">Ils ont des goûts artistiques très prononcés dans la famille ; ma future va faire des copies au Louvre... avec sa mère ! </s>
+	<s id="6">Avec sa mère qui retourne la chercher à quatre heures.</s>
+</p>
+<note type="L">Les Cloches du Monastère : nocturne pour piano de Louis James Alfred Lefébure-Wely (1817-1869), 1860.</note>
+<p id="11">
+	<s id="1">Et la musique !... </s>
+	<s id="2">Voilà un art qui sera cultivé chez moi ! </s>
+	<s id="3">Ma femme me jouera tous les soirs Les_Cloches_du_Monastère...</s>
+</p>
+<stage type="sing">Il fredonne l'air.</stage>
+<p id="12">
+	<s id="1">C'est Un très joli morceau, et elle le joue très bien...</s>
+</p>
+<stage type="walk">Il marche. Distrait.</stage>
+<p id="13">
+	<s id="1">Elle le joue très bien.</s>
+</p>
+<stage type="stop">S'arrêtant.</stage>
+<p id="14">
+	<s id="1">Voyons ! </s>
+	<s id="2">Comment vais-je m'y prendre pour prononcer mon petit speech ? </s>
+	<s id="3">La tenue, d'abord.</s>
+</p>
+<stage type="watch">Il se regarde dans la glace.</stage>
+<p id="15">
+	<s id="1">Hum !... </s>
+	<s id="2">Hum !... </s>
+</p>
+<stage type="wave">Saluant.</stage>
+<p id="16">
+	<s id="1">« Monsieur. »</s>
+	<s id="2">Monsieur est un peu froid. </s>
+	<s id="3">« Cher Monsieur. » </s>
+	<s id="4">Cher Monsieur est un peu dégagé ; on dit « Cher Monsieur, passez-moi donc mon paletot. » </s>
+	<s id="5">C'est un peu dégagé. </s>
+	<s id="6">« Cher beau-père ?...  » </s>
+	<s id="7">Non ! </s>
+	<s id="8">Ce mot-là viendra mieux à la fin de la phrase ; au commencement je ne suis pas encore son gendre, puisque c'est justement pour le devenir que... </s>
+	<s id="9">Et « Cher futur beau-père ?... » </s>
+	<s id="10">C'est trop long. </s>
+	<s id="11">- Si je l'appelais... </s>
+	<s id="12">- Si je ne l'appelais pas du tout ? </s>
+	<s id="13">Il y aurait peut-être moyen en balbutiant... </s>
+	<s id="14">« Veuillez excuser... l'émotion.... ce jour... l'honneur. mademoiselle votre fille... heureux et fier... profond respect. » </s>
+	<s id="15">Puis, nous nous embrasserons... la maman pleurera... </s>
+	<s id="16">- Il faut que la maman pleure... </s>
+	<s id="17">- Enfin tout s'arrangera.</s>
+</p>
+<p id="17">
+	<s id="1">C'est égal, je ne me doutais pas, il y a six semaines, que j'en arriverais là, moi le plus endurci des célibataires, moi qui avais juré... </s>
+	<s id="2">Mais la vie est ainsi faite ! </s>
+	<s id="3">À force de fréquenter les ménages des autres, on finit par être pris à son tour.</s>
+</p>
+<p id="18">
+	<s id="1">Ces choses-là vous arrivent toujours au moment où vous vous y attendez le moins. </s>
+	<s id="2">Vous avez été invité à une soirée..., on a dansé... vous êtes fatigué... vous tombez sur une chaise. </s>
+	<s id="3">Paf ! </s>
+	<s id="4">Vous vous trouvez assis à_côté de la maîtresse de la maison :</s>
+</p>
+<p id="19">
+	<s id="1">- Eh bien, monsieur_Frédéric, vous ne vous mariez donc pas ?</s>
+</p>
+<p id="20">
+	<s id="1">- Mon Dieu ! </s>
+	<s id="2">Madame... </s>
+	<s id="3">Je vous avoue que je ne songeais nullement...</s>
+</p>
+<p id="21">
+	<s id="1">- Vous ne pouvez pourtant pas rester vieux garçon ?...</s>
+</p>
+<p id="22">
+	<s id="1">- Vieux garçon ! </s>
+	<s id="2">Vieux garçon !...</s>
+</p>
+<p id="23">
+	<s id="">– Vous avez quarante ans...</s>
+</p>
+<p id="24">
+	<s id="1">- Oh ! </s>
+	<s id="2">Pas encore ! </s>
+	<s id="3">Trente-neuf_ans_et_deux_mois tout au plus.</s>
+</p>
+<p id="25">
+	<s id="1">– Vous n'êtes pas d'une santé très robuste...</s>
+</p>
+<p id="26">
+	<s id="1">– Pardon !...</s>
+</p>
+<p id="27">
+	<s id="1">- Vous pouvez tomber malade, et si vous n'avez pas auprès de vous une épouse dévouée... </s>
+	<s id="2">Voyons, laissez-moi faire votre bonheur une jeune personne charmante, parfaitement élevée, excellente musicienne, soixante_mille_francs et deux oncles très riches et très âgés...</s>
+</p>
+<stage type="toward/naive">Au public. – Naïvement.</stage>
+<p id="28">
+	<s id="1">Et ça, c'est vrai !... </s>
+	<s id="2">J'ai vu les deux oncles. </s>
+	<s id="3">Il n'y a rien à dire on ne peut pas être plus âgé.</s>
+</p>
+<p id="29">
+	<s id="1">Et voilà pourquoi j'ai endossé cet habit noir, symbole de cérémonie ; voilà pourquoi j'attends aujourd'hui Monsieur_César_Baudichon, ancien pédicure... </s>
+	<s id="2">Mon beau-père est un ancien pédicure... </s>
+	<s id="3">C'est dans ce commerce qu'il a fait sa fortune... </s>
+	<s id="4">Vous me direz « Mais comment. » </s>
+	<s id="5">- Oui, je sais bien qu'à première vue, ça paraît drôle ; mais vous allez voir qu'au fond il n'y a rien de plus naturel.</s>
+</p>
+<p id="30">
+	<s id="1">Mon beau-père avait pour clients de grands personnages, des ministres, des princes de la finance... </s>
+	<s id="2">Il était reçu dans leur intimité, dès le matin... </s>
+	<s id="3">- On ne se gênait pas avec lui... </s>
+	<s id="4">- Et, tout en... travaillant, il entendait ces messieurs causer de leurs affaires. </s>
+	<s id="5">Nouvelles politiques, secrets d'État, bruits de Bourse, mon beau-père avait tout ainsi de première main. </s>
+	<s id="6">– Quand je dis de première main, c'est une façon de parler. </s>
+	<s id="7">- Toujours est-il qu'il prenait des notes et qu'après la séance, il courait chez son agent de change : « Vendez mes Espagnols  ! </s>
+	<s id="8">Rachetez-moi de l'Autrichien ! </s>
+	<s id="9">– Renoncez au Turc !  » </s>
+	<s id="10">Bref, au bout de cinq années d'exercice, il possédait une maison de campagne à Bougival et vingt-mille_francs de rente. </s>
+	<s id="11">Partir de si bas et arriver si haut ! </s>
+	<s id="12">Voilà ce que c'est que le travail !</s>
+</p>
+<stage type="sreong">Avec force.</stage>
+<p id="31">
+	<s id="">Voilà ce que c'est que...</s>
+</p>
+<stage type="low">Changeant de ton.</stage>
+<p id="32">
+	<s id="1">Ils n'arrivent toujours pas !</s>
+</p>
+<p id="33">
+	<s id="1">C'est ennuyeux. </s>
+	<s id="2">C'est très ennuyeux ! </s>
+	<s id="3">Pendant ce temps-là, je me défraîchis... </s>
+	<s id="4">Quand je suis entré, j'étais reluisant ; je suis sûr que je ne reluis plus...</s>
+</p>
+<stage type="watch">Il se regarde dans la glace. </stage>
+<p id="34">
+	<s id="1">Et J'ai une épingle dans le cou !</s>
+</p>
+<stage type="dress">Il arrange son col.</stage>
+<p id="35">
+	<s id="1">Je l'ai mise pour remplacer un satané bouton qui s'est cassé... </s>
+	<s id="2">Oh ! </s>
+	<s id="3">Le bouton qui casse ! </s>
+	<s id="4">On ne sait pas ce que ça vous coûte... </s>
+	<s id="5">J'en ai eu un qui m'est revenu à trois cent quarante-cinq_francs... </s>
+	<s id="6">- Tout posé.</s>
+</p>
+<stage type="location">Descendant.</stage>
+<p id="36">
+	<s id="1">Voici la chose c'était un dimanche, au mois de mai ; je m'habillais pour aller déjeuner à la campagne, chez mon chef de bureau...</s>
+</p>
+<stage type="dress">Faisant le geste d'attacher son faux-col. </stage>
+<p id="37">
+	<s id="1">Et je me dépêchais,je me dépêchais... </s>
+	<s id="2">Crac ! </s>
+	<s id="3">Mon bouton saute ! </s>
+	<s id="4">Je le rattrape...; mais je n'avais ni fil ni aiguille... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Parbleu ! </s>
+	<s id="7">Si j'en avais eu... </s>
+	<s id="8">Cela ne m'aurait pas servi davantage...; mais je n'en avais pas. </s>
+	<s id="9">- J'étais donc très embarrassé, lorsque ma voisine.</s>
+</p>
+<stage type="hide">Avec mystère.</stage>
+<p id="38">
+	<s id="1">Une charmante voisine.</s>
+</p>
+<stage type="think">Après un instant de réflexion.</stage>
+<p id="39">
+	<s id="1">Ce serait trop long à raconter... </s>
+	<s id="2">Enfin, au bout de la journée, j'avais dépensé trois cent quarante-cinq_francs... </s>
+	<s id="3">J'ai donc raison de dire qu'on ne sait jamais ce que ça vous coûte.</s>
+</p>
+<p id="40">
+	<s id="1">Heureusement que je vais en avoir fini avec toutes ces misères de la vie de garçon ! </s>
+	<s id="2">J'aurai un ménage à moi ! </s>
+	<s id="3">Une femme à moi ! </s>
+	<s id="4">Des enfants à moi ! </s>
+	<s id="5">Oh ! </s>
+	<s id="6">Oui, le mariage est une belle institution !... </s>
+	<s id="7">C'est plus qu'une institution : c'est une école !... </s>
+	<s id="8">L'école des bonnes moeurs et des vertus civiques... </s>
+	<s id="9">C'est un devoir social et religieux, religieux et social...</s>
+</p>
+<stage type="low">Changeant do ton.</stage>
+<p id="41">
+	<s id="1">Et puis, je peux tomber malade, comme le disait cette dame... </s>
+	<s id="2">Si l'on n'a pas auprès de soi une épouse dévouée...</s>
+</p>
+<stage type="shout">Criant.</stage>
+<p id="42">
+	<s id="1">Aïe ! </s>
+	<s id="2">Encore cette maudite épingle ! </s>
+	<s id="3">Ma foi ! </s>
+	<s id="4">Tant pis !... </s>
+	<s id="5">Je n'y tiens plus !...</s>
+</p>
+<stage type="dress">Il retire son habit.</stage>
+<p id="43">
+	<s id="1">Je vais profiter de ce que je suis seul pour tâcher de...</s>
+</p>
+<stage type="impatient/dress">Avec impatience, en arrachant sa cravate.</stage>
+<p id="44">
+	<s id="1">Oh ! </s>
+	<s id="2">Les cravates blanches !...</s>
+</p>
+<stage type="drop/location">Il va la remettre devant la glace.</stage>
+<p id="45">
+	<s id="1">C'est la seconde fois qu'elle m'étrangle, celle-là... </s>
+	<s id="2">Je l'avais achetée pour aller à la noce de mon cousin Victor.</s>
+</p>
+<stage type="get/desdain">Il prend son habit. D'un ton dégagé.</stage>
+<p id="46">
+	<s id="1">Pauvre garçon ! </s>
+	<s id="2">Il est mort maintenant... </s>
+	<s id="3">Oui !...</s>
+</p>
+<stage type="dress">Il passe une manche. – S'arrêtant comme frappé d'une réflexion.</stage>
+<p id="47">
+	<s id="1">Oui..., au fait...</s>
+</p>
+<stage type="location">Descendant.</stage>
+<p id="48">
+	<s id="1">Il s'est marié... et il est mort !</s>
+</p>
+<stage type="stress">Soucieux.</stage>
+<p id="49">
+	<s id="1">C'est bizarre ! </s>
+	<s id="2">Voilà un garçon plein de santé, comme moi... </s>
+	<s id="3">- Il se portait même mieux que moi et tout d'un coup...</s>
+</p>
+<stage type="dress">Il passe l'autre manche.</stage>
+<p id="50">
+	<s id="1">C'est peut-être ce changement dans son existence... </s>
+	<s id="2">Le mariage vous crée de nouveaux devoirs ; sa femme était beaucoup plus jeune que lui... </s>
+	<s id="3">Il n'aura pas su déployer toute l'autorité nécessaire...; enfin... enfin, il est mort !</s>
+</p>
+<stage type="watch/furniture">Avisant un album de photographies sur le guéridon.</stage>
+<p id="52">
+	<s id="1">Tiens ! </s>
+	<s id="2">Le portrait de ma future... </s>
+	<s id="3">Elle est jolie, ma foi ! </s>
+	<s id="4">Très jolie... </s>
+	<s id="5">La voici encore appuyée sur l'épaule du jeune Charles, son ami d'enfance...; et puis, les voici le jour de leur première communion. </s>
+	<s id="6">Ils ont grandi ensemble... et, à mesure qu'ils grandissaient, on les photographiait... </s>
+	<s id="7">J'aime à croire que, le jour de mes noces, on se dispensera de... </s>
+	<s id="8">C'est que ça ne m'irait pas du tout ! </s>
+	<s id="9">Il aura beau être garçon d'honneur... - car vous verrez qu'il sera garçon d'honneur ! </s>
+	<s id="10">Personne ne me l'a dit. </s>
+	<s id="11">Je le parierais !... </s>
+	<s id="12">Dans ces cas-là, on prend toujours un ami d'enfance... </s>
+	<s id="13">Je l'ai été aussi jadis ; je sais ce que c'est...</s>
+</p>
+<p id="53">
+	<s id="1">Il faudra que j'en touche quelques mots à Monsieur_Baudichon... </s>
+	<s id="2">Je lui ferai comprendre délicatement...</s>
+</p>
+<stage type="watch">En disant cela, il parcouru l'album.</stage>
+<p id="54">
+	<s id="1">Ah ! </s>
+	<s id="2">Voici les deux oncles très riches et très âgés...</s>
+</p>
+<stage type="warch">Regardant plus attentivement.</stage>
+<p id="55">
+	<s id="1">Très riches et très... </s>
+</p>
+<stage type="face">Changeant de physionomie. </stage>
+<p id="56">
+	<s id="1">Ils ont bonne mine ! </s>
+</p>
+<stage type="anxious">Avec inquiétude. </stage>
+<p id="57">
+	<s id="1">On vit très vieux avec des figures comme celles-là !... </s>
+	<s id="2">J'en parlerai aussi à Monsieur_Baudichon, – délicatement,– parce qu'enfin si les conditions ne sont plus les mêmes... </s>
+	<s id="3">Je ne fais pas un mariage d'intérêt mais encore faut-il que je puisse compter sur quelque chose..., et avec une si petite dot... </s>
+	<s id="4">Je sais bien qu'il s'agit d'une personne élevée modestement..., qui fait ses chapeaux elle-même... </s>
+	<s id="5">- Il paraît qu'elle fait ses chapeaux elle-même - </s>
+	<s id="6">Ce n'est rien... et ça m'a fait plaisir. </s>
+	<s id="7">Je me suis dit : le soir, pendant que tu te reposeras, en lisant ton journal, ta femme travaillera... </s>
+	<s id="8">Ça m'a fait plaisir.</s>
+</p>
+<stage type="watch">Feuilletant des journaux sur le guéridon.</stage>
+<p id="58">
+	<s id="1">Oui..., voilà des patrons..., des gravures de mode...</s>
+</p>
+<stage type="read">Lisant. </stage>
+<note type="L">Franges en chenille : type de couture de frange qui dessinnent une chenille.</note>
+<note type="L">Ruche chicorée : Ruche chicorée, bande d'étoffe de soie, ou de laine ou de percale déchiquetée à l'emporte-pièce en forme de dents de scie ou autres, que l'on plisse à doubles ou à triples plis. [L]</note>
+<p id="59">
+	<s id="1">« LA SIMPLICITÉ, ORGANE DU BON TON. » </s>
+	<s id="2">À la bonne heure ! </s>
+	<s id="3">« Toilette du matin. » </s>
+	<s id="4">Voyons ! </s>
+	<s id="5">« Première jupe en faille, ornée d'un volant droit fil. » </s>
+	<s id="6">Qu'est-ce que c'est que cela ? </s>
+	<s id="7">« ... découpée à dents aiguës et bordé d'un biais en étoffe claire. </s>
+	<s id="8">- Pouff en velours noir. </s>
+	<s id="9">Corsage orné de petites ruches_chicorée[s]. » </s>
+	<s id="10">Chicorée ! </s>
+	<s id="11">« Manches à bouillons sur laquelle retombent deux petites pattes avec franges_en_chenille. » </s>
+	<s id="12">Je ne vois pas l'effet de la chenille sur la chicorée... </s>
+	<s id="13">« Sous-manche et col en dentelle. </s>
+	<s id="14">– Chapeau de dentelle avec plume ; noeud et brides en faille... » </s>
+	<s id="15">C'est ça, la toilette du matin ? </s>
+	<s id="16">« Voir la gravure. » </s>
+	<s id="17">Où est-elle, la gravure ?</s>
+</p>
+<stage type="get">Il la prend.</stage>
+<p id="60">
+	<s id="1">C'est d'un luxe effréné !</s>
+</p>
+<stage type="read">Lisant la bande du journal.</stage>
+<p id="61">
+	<s id="1">« Votre abonnement finit le 31_décembre. » </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Mais non ! </s>
+	<s id="4">Il finira plus tôt, votre abonnement ! </s>
+	<s id="5">Ce n'est pas avec une dot de soixante_mille_francs que nous nous paierons des bouillons à la chicorée.</s>
+</p>
+<stage type="low">Grommelant.</stage>
+<p id="62">
+	<s id="1">Chicorée !</s>
+</p>
+<p id="63">
+	<s id="1">Si encore nous avions des espérances ! </s>
+	<s id="2">Mais nous n'en avons guère...</s>
+</p>
+<stage type="show">Montrant l'album.</stage>
+<p id="64">
+	<s id="1">Ils se portent tous très bien, ces gens-là ! </s>
+	<s id="2">Décidément, il faudra que je demande cent_mille_francs à Monsieur_Baudichon. </s>
+	<s id="3">Ce n'est pas trop, cent_mille_francs, pour une jeune personne parfaitement élevée et qui joue Les_Cloches_du_Monastère !... </s>
+	<s id="4">Les ai-je assez entendues, Les_Cloches_du_Monastère !... </s>
+	<s id="5">Allons ! </s>
+	<s id="6">Allons ! </s>
+	<s id="7">Ça vaut cent mille francs.</s>
+</p>
+<stage type="get">Tirant sa montre. </stage>
+<p id="65">
+	<s id="1">Trois heures moins dix ! </s>
+	<s id="2">Ils ne rentrent toujours pas ! </s>
+	<s id="3">J'attends jusqu'à trois heures. </s>
+	<s id="4">A trois heures précises.</s>
+</p>
+<stage type="walk/sit/furniture/get">Il se promène à grands pas, puis s'assied près du guéridon et prend un livre.</stage>
+<p id="66">
+	<s id="1">« L'AMI DES FEMMES. PRÉFACE. »</s>
+</p>
+<stage type="read">Lisant.</stage>
+<p id="67">
+	<s id="1">« Celle qu'on ne doit pas épouser... » </s>
+	<s id="2">Tiens ! </s>
+	<s id="3">Tiens ! </s>
+	<s id="4">« Le front est large, bas ; la chevelure abondante, plus épaisse que longue...; la tête est ronde... avec un léger débordement de la nuque à la racine ; les yeux.</s>
+</p>
+<stage type="stand">Il se lève, prend l'album et confronte la photographie avec le livre.</stage>
+<p id="68">
+	<s id="1">« les yeux ne sont pas très grands..., les sourcils sont droits..., le nez est court... assez large à la base, plutôt retroussé que busqué...; les narines... » </s>
+	<s id="2">Je ne peux pas voir les narines. </s>
+	<s id="3">Cette photographie est mal faite.</s>
+</p>
+<stage type="">Tournant les feuillets.</stage>
+<p id="69">
+	<s id="1">J'aime mieux l'autre..., celle de la première communion... avec l'ami d'enfance... </s>
+	<s id="2">Hum ! </s>
+	<s id="3">L'ami d'enfance, l'ami des femmes...</s>
+</p>
+<stage type="stand">Se levant.</stage>
+<p id="70">
+	<s id="1">Tout cela n'est pas rassurant.</s>
+</p>
+<p id="71">
+	<s id="1">Je ne voudrais pourtant pas jouer un rôle ridicule... et il est clair que, si je m'oppose aux assiduités de Monsieur_Charles, on me trouvera ridicule. </s>
+	<s id="2">C'est un enfant, dira-t-on. </s>
+	<s id="3">C'est vrai ! </s>
+	<s id="4">Auprès de moi qui ai quarante_ans ! </s>
+	<s id="5">Car j'ai quarante_ans_et_deux_mois, et je vais peut-être faire une folie... </s>
+	<s id="6">Oui, une folie !... </s>
+	<s id="7">Le mariage est certainement une excellente chose... </s>
+	<s id="8">– Je l'ai dit, je le répète, - mais c'est une excellente chose... </s>
+	<s id="9">En général, et il y a des circonstances dans lesquelles... </s>
+	<s id="10">Ainsi, moi..., rien ne me force à me marier !... </s>
+	<s id="11">Je ne m'y suis pas refusé d'abord, parce qu'on m'a fait miroiter les avantages de cette position... </s>
+	<s id="12">Mais si les avantages ne miroitent plus ?.</s>
+</p>
+<p id="72">
+	<s id="1">En définitive, je ne suis pas pressé ! </s>
+	<s id="2">On me dit : il faut faire une fin... </s>
+	<s id="3">Pourquoi ? </s>
+	<s id="4">Je suis très heureux, moi...; on ne peut pas être plus heureux...</s>
+</p>
+<stage type="SING">Chantant. </stage>
+<p id="73">
+	<s id="1">« Dans un grenier qu'on est bien à vingt. » </s>
+	<s id="2">Et puis, je ne suis pas seul ; j'ai ma concierge qui fait mon ménage... </s>
+	<s id="3">Quand elle a fini, elle me tient société..., nous causons un peu... </s>
+	<s id="4">Dame ! </s>
+	<s id="5">Ce n'est pas une de ces conversations... </s>
+	<s id="6">Non ! </s>
+	<s id="7">Mais enfin ça m'instruit toujours... </s>
+	<s id="8">Ainsi, je sais que les oeufs sont hors de prix... </s>
+	<s id="9">Eh bien, je suis sûr que Mademoiselle_Baudichonne ne s'en doute pas ; elle ne s'en doute pas, c'est évident.</s>
+</p>
+<p id="74">
+	<s id="1">Et on veut que je l'épouse ? </s>
+	<s id="2">Ma foi ! </s>
+	<s id="3">Non ! </s>
+	<s id="4">Elle n'est pas encore conclue, cette affaire de... de mérinos. </s>
+	<s id="5">Ce que j'ai écrit à Monsieur_Baudichon ne m'engage en rien... et lui-même n'y attache pas beaucoup d'importance, puisqu'il est si peu exact au rendez-vous. </s>
+	<s id="6">D'ailleurs, je pourrai lui dire que ce n'était pas pour cela.</s>
+</p>
+<stage type="stop/location">S'arrêtant devant la glace. </stage>
+<p id="75">
+	<s id="1">Oui... </s>
+	<s id="2">Il y a le costume..., mais on peut mettre un habit noir sans avoir l'intention de se marier.... et en dissimulant.</s>
+</p> 
+<stage type="dress">Il retire ses gants, s'ébouriffe les cheveux et met son pardessus. </stage>
+<p id="76">
+	<s id="1">Là, maintenant... </s>
+	<s id="2">Je les défie de deviner l'objet de ma visite. </s>
+	<s id="3">Je vais les attendre de pied ferme et je leur dirai. </s>
+	<s id="4">Qu'est-ce que je leur dirai ?...</s>
+</p>
+<p id="77">
+	<s id="1">Si j'écrivais plutôt ? </s>
+</p>
+<stage type="location/write">Il se met au guéridon. Écrivant.</stage>
+<p id="78">
+	<s id="1">« Monsieur et ami. » </s>
+	<s id="2">C'est un peu sec.... </s>
+	<s id="3">Si j'écrivais « ami » avec un A majuscule ? </s>
+	<s id="4">Ça le flatterait.</s>
+</p>
+<stage type="write">Écrivant.</stage>
+<p id="79">
+	<s id="1">« Monsieur et Ami, j'ai le regret. » </s>
+	<s id="2">Non ! </s>
+</p>
+<stage type="rip">Il déchire la feuille.</stage>
+<p id="80">
+	<s id="1">« C'est avec un profond regret. » </s>
+	<s id="2">Non !</s>
+</p>
+<stage type="rip">Même jeu.</stage>
+<p id="81">
+	<s id="1">« Je regrette profondément. » </s>
+	<s id="2">Non !</s>
+</p>
+<stage type="stand">Se levant.</stage>
+<p id="82">
+	<s id="1">Si je m'en allais ?... </s>
+	<s id="2">Oui, je vais m'en aller..., c'est plus simple. </s>
+	<s id="3">Je n'ai qu'à laisser ma carte - avec une corne - ; il verra que je suis venu... et demain...</s>
+</p>
+<stage type="open">Il ouvre son portefeuille.</stage>
+<p id="83">
+ 	<s id="1">Ah ! </s>
+	<s id="2">Quelle chance !.. </s>
+	<s id="3">Ma lettre !... </s>
+	<s id="4">Ma lettre que j'ai oublié de jeter à la poste ! </s>
+	<s id="5">Voilà pourquoi ils ne m'attendaient pas !... </s>
+	<s id="6">Il ne se doutent de rien... </s>
+	<s id="7">Je suis sauvé !</s>
+</p>
+<stage type="ring">Coup de sonnette.</stage>
+<p id="84">
+	<s id="1">Sapristi ! </s>
+	<s id="2">Ce sont eux...</s>
+</p>
+<stage type="stress">Très troublé.</stage>
+<p id="85">
+	<s id="1">Qu'est-ce que je vais leur dire ?... </s>
+</p>
+<stage type="dress/quick">Il déboutonne son paletot et le reboutonne vivement. </stage>
+<p id="86">
+	<s id="1">Je ne sais plus ce que je fais.</s>
+</p>	
+<stage type="run/location">Il court à la porte qu'il entr'ouvre.</stage>
+<p id="87">
+	<s id="1">La bonne est allée ouvrir... </s>
+	<s id="2">Si je filais par l'escalier de service ?... </s>
+	<s id="3">Dépêchons-nous cette carte sur la cheminée... et maintenant.</s>
+</p>
+<stage type="run/exit/turn/toward/naive">Il court à la petite porte de gauche. S'arrêtant au moment de sortir et se tournant vers le public. Naïvement.</stage>
+<p id="88">
+	<s id="1">Eh bien, c'est égal..., je ne suis pas fâché d'être venu !...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

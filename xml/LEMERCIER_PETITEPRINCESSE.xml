@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA PETITE PRINCESSE</title>
+				<author ISNI="0000 0001 2119 3444">Louis LEMERCIER de NEUVILLE (1830-1918)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, avrim 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, mai 2023</publisher>
+				<idno>LEMERCIER_PETITEPRINCESSE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Dialogue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-YTH-23539">https://gallica.bnf.fr/ark:/12148/bpt6k9753837m</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA PETITE PRINCESSE</titlePart>
+			<titlePart type="sub">DIALOGUE POUR L'ENFANCE</titlePart>
+			<titlePart type="sub">Prix :  1 franc</titlePart>
+		</docTitle>  
+		<docDate value="1889">M DCCC LXXXXIX</docDate>
+		<docAuthor id="LEMERCIER DE NEUVILLE, Louis" bio="mercier">PAR LEMERCIER DE NEUVILLE</docAuthor>
+		<docImprint>
+			<copyright id="1889">Droits de reproduction, de traduction et de représentation réservés.</copyright>
+			<editor id="LIBRAIRIE THÉÂTRALE">PARIS, LIBRAIRIE THÉÂTRALE, 14, rue de Grammont, 14.</editor>
+			<printer>13129. Dijon-Paris, Imprimerie Régionale. - Dr : J. CHAVALIER.</printer>
+		</docImprint>
+		<castList><head>PERSONNAGE</head>
+			<castItem><role id="CÉLINE" sex="2" type="H" statut="bourgeois" age="E" stat_amour="néant">CÉLINE</role>, de 8 à 12 ans.</castItem>
+			<castItem><role id="BERTA" sex="2" type="H" statut="bourgeois" age="E" stat_amour="néant">BERTA</role>, de 8 à 12 ans.</castItem>
+   </castList>
+   <set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+   <note>Ce dialogue est extrait du volume "Les Enfants au salon" du même auteur.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LA PETITE PRINCESSE</head>
+<div2 type="scene" n="1"><head>CÉLINE, puis BERTA.</head>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="1">Ma mère est, voyez-vous, une très grande dame</l>
+	<l id="2">Qui ne plaisante pas ! Tout tremble à son aspect.</l>
+	<l id="3">Je l'aime, oh ! oui, je l'aime ! Et de toute mon âme !</l>
+	<l id="4">Mais dès qu'elle paraît, l'amour cède au respect !</l>
+	<l id="5">Mon éducation est fort bien dirigée</l>
+	<l id="6">Par une vieille Miss qui fait ce qu'elle veut.</l>
+	<l id="7">Je dois rarement rire, être sage, rangée,</l>
+	<l id="8">Sortir quand il fait beau, travailler quand il pleut.</l>
+	<l id="9">Je ne dois pas parler aux enfants de mon âge</l>
+	<l id="10">Qui ne sont pas du monde où je suis... C'est pourquoi</l>
+	<l id="11">Je suis seule ! Toujours seule et triste ! Et j'enrage</l>
+	<l id="12">De les voir s'amuser et rire autour de moi.</l>
+	<l id="13">Aussi j'ai résolu, malgré Miss et ma mère,</l>
+	<l id="14">De m'amuser un jour... - Ce jour est arrivé !</l>
+	<l id="15">Avec Berta, je veux aujourd'hui me distraire.</l>
+	<l id="16">C'est une Italienne, un pauvre enfant trouvé</l>
+	<l id="17">Qui mendiait le soir aux portes des cuisines,</l>
+	<l id="18">Et que l'on renvoyait assez cruellement.</l>
+	<l id="19">J'eus pitié ! - Je lui dis : - « Il faut bien que tu dînes !</l>
+	<l id="20">Viens manger, nous jouerons après, bien gentiment ! »</l>
+	<l id="21">- Et je l'ai fait entrer ! - Ma mère est en visite,</l>
+	<l id="22">Miss prend son thé... J'ai pris des gâteaux au buffet</l>
+	<l id="23">Et Berta mange ! Oh ! Mais comme elle s'en acquitte !</l>
+	<l id="24">Ce n'est pas tout ! - Sachez encor ce que j'ai fait :</l>
+	<l id="25">- Comme la pauvre enfant n'est pas de notre monde,</l>
+	<l id="26">En me voyant jouer avec elle, bien sûr,</l>
+	<l id="27">Miss gronderait ! - Si vous saviez comme elle gronde !</l>
+	<l id="28">Sa voix est grosse... grosse !... Et son oeil devient dur ! - </l>
+	<l id="29">Pour éviter cela, j'ai dit à la pauvresse :</l>
+	<l id="30">« - Mets cette belle robe et ce chapeau léger</l>
+	<l id="31">Et je t'appellerai princesse ! » - - Une princesse</l>
+	<l id="32">Peut jouer avec moi, je crois, sans déroger !</l>
+	<l id="33">Elle s'habille et va venir ! La bonne aubaine !</l>
+	<l id="34">Maman n'en saura rien, Miss fermera les yeux,</l>
+	<l id="35">Et je puis assurer que toute la semaine,</l>
+	<l id="36">Grâce au plaisir acquis, je travaillerai mieux !</l>
+<stage type="entrance">Berta entre, elle tient à la main un accordéon.</stage>
+	<l id="37">La voici ! Regardez ! Elle est toute charmante</l>
+	<l id="38">Avec ses grands yeux noirs ; ma robe lui va bien !</l>
+	<l id="39">La toilette, c'est tout ! « - Voyons ! Es-tu contente,</l>
+	<l id="40">Berta ? Tu n'as plus faim ? Ne te manque-t-il rien ? »</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="41" syll="4" part="i">Non, Signora !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="41" syll="8" part="f">Pour lors, ma petite princesse,</l>
+	<l id="42">Causons d'abord, veux-tu ? Dis-moi, dans ton pays,</l>
+	<l id="43">Que ça doit être beau ! L'on m'en parle sans cesse.</l>
+	<l id="44">L'Italie ! On m'en fait de merveilleux récits !</l>
+	<l id="45" syll="4" part="i">Connais-tu Rome ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="45" syll="3" part="m">Rome ! Oui !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="45" syll="2" part="m">C'est beau !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="45" syll="3" part="f">Non, c'est triste !</l>
+	<l id="46">Des ruines partout !... Des carrefours déserts...</l>
+	<l id="47" syll="6" part="i">J'aime mieux ta maison.</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="47" syll="6" part="f">Tu n'es pas une artiste !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="48">Si, sur l'accordéon je sais jouer des airs !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="49">Tu ne me comprends pas ! L'art, c'est tout autre chose</l>
+	<l id="50">Que ta musique ! L'art, m'a dit Miss, c'est le beau !</l>
+	<l id="51">Or, c'est beau, des palais ruinés... Je suppose !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="52">Hélas ! Combien de fois dans mon petit manteau</l>
+	<l id="53">Ai-je passé ma nuit, ayant pour lit des herbes,</l>
+	<l id="54">Dans ces vilains palais où je mourais de peur !</l>
+	<l id="55">Ah ! Je ne trouvais pas les ruines superbes,</l>
+	<l id="56">Un simple matelas m'eût semblé bien meilleur !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="57">Pauvre Berta ! - Voyons ! Chasse cette tristesse !</l>
+	<l id="58">Redresse-toi, prends l'air des dames de la Cour.</l>
+	<l id="59">Ton rôle, maintenant, est d'être une princesse.</l>
+	<l id="60">Princesse ! Mais qui sait ? Tu pourrais l'être un jour !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="61" syll="6" part="i">Qu'est-ce qu'une princesse ?</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="61" syll="6" part="f">Eh bien, dans les histoires</l>
+	<l id="62">Que Miss me lit parfois avant de m'endormir,</l>
+	<l id="63">Il est des rois qui sont affligés d'humeurs noires,</l>
+	<l id="64">L'ennui les tue, et rien ne peut les réjouir !</l>
+	<l id="65">Ils sont découragés, le plaisir ou l'étude</l>
+	<l id="66">Les rend indifférents... Ils sont très malheureux !</l>
+	<l id="67">Ils s'en vont dans les bois chercher la solitude...</l>
+	<l id="68">C'est alors que le ciel, enfin, a pitié d'eux !</l>
+	<l id="69">Ils rencontrent toujours une jeune bergère</l>
+	<l id="70">Comme toi, par exemple, et c'est une beauté,</l>
+	<l id="71">Comme toi, - leur bon coeur s'émeut de sa misère,</l>
+	<l id="72">Et tout à coup l'ennui qu'ils ont les a quitté !</l>
+	<l id="73">Un roi fait ce qu'il veut, - n'est-ce pas ? - Il l'épouse ! </l>
+	<l id="74">Et la voilà princesse ! Oui ! Princesse, ma foi!</l>
+	<l id="75">C'est en vain qu'à la Cour plus d'une la jalouse :</l>
+	<l id="76">Elle est princesse ! Car c'est l'épouse du Roi !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="77" syll="6" part="i">On rirait trop de moi !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="77" syll="2" part="m">Pourquoi ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="77" syll="4" part="f">De l'ignorante,</l>
+	<l id="78">Le roi, si bon qu'il soit, serait bien vite las.</l>
+	<l id="79">J'aimerais mieux vraiment qu'il me prît pour servante,</l>
+	<l id="80">Je serais à ma place et n'en descendrais pas !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="81">Mais l'on te donnerait des maîtres, pour apprendre</l>
+	<l id="82">Tout ce qu'il faut savoir !... Tu te transformerais !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="83">Eh bien ! Va dire au roi qu'il peut venir me prendre !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="84">Ah ! Si je le pouvais, comme je le ferais !</l>
+	<l id="85">- Tout ce que je t'ai dit, c'est un conte... pour rire,</l>
+	<l id="86">Mais enfin te voilà princesse, de par moi :</l>
+	<l id="87">Cherche dans ton cerveau, que pourrais-tu me dire,</l>
+	<l id="88">Si je te rencontrais et que je fusse roi ?</l>
+	<l id="89" syll="6" part="i">Que demanderais-tu ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="89" syll="6" part="f">Voilà ! Beaucoup de choses !</l> 
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="90" syll="2" part="i">Mais quoi ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="90" syll="10" part="f">Premièrement, des gâteaux, c'est si bon !</l>
+	<l id="91">Puis des fleurs! J'aime tant les fleurs, surtout les roses !</l>
+	<l id="92">Puis, - oh ! Mais j'y tiendrais ! - Un autre accordéon :</l>
+	<l id="93" syll="8" part="i">Celui-ci ne va pas très bien...</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="93" syll="2" part="m">C'est tout ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="93" syll="2" part="f">Sans doute !</l>
+	<l id="94">Que désirer de plus ? C'est suffisant, je crois...</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="95" syll="5" part="i">Voyons, cherche encore...</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="95" syll="7" part="f">Ah ! Si tu voulais ?... Écoute !</l>
+<stage type="low/toward">Bas à l'oreille de Céline.</stage>
+	<l id="96">Je voudrais ne jamais me séparer de toi !...</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="97" syll="3" part="i">Vrai ? Bien vrai ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="97" syll="9" part="f">Bien vrai ! Mais, hélas ! C'est impossible !</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="98">Tu te trompes, Berta, nous allons aviser.</l>
+	<l id="99">Si ma mère est sévère, elle est aussi sensible,</l>
+	<l id="100">Et, pour la conquérir, il ne faut qu'un baiser :</l>
+	<l id="101">Quand elle va venir, je me ferai petite</l>
+	<l id="102">Dans ses bras, - lui jetant mes regards les plus doux, - </l>
+	<l id="103">Et puis je lui dirai : « - Mère, viens tout de suite,</l>
+	<l id="104">« La fée_Urgèle a fait un miracle pour nous !</l>
+	<l id="105">- Un miracle ! - Un miracle, ou je serais trompée, - </l>
+	<l id="106">Tu n'avais qu'une fille, eh bien, t'en voici deux !</l>
+	<l id="107">Elle a, pendant la nuit, transformé ma poupée</l>
+	<l id="108">En une belle enfant qui rit, ouvre les yeux,</l>
+	<l id="109">Mange, cause, babille, est tout à fait mignonne ;</l>
+	<l id="110">À qui je veux montrer ce que je sais déjà</l>
+	<l id="111">Et qui, si tu le veux, toi si tendre et si bonne,</l>
+	<l id="112">Comme une jeune soeur près de moi grandira ! »</l>
+	<l id="113">Tu paraîtras alors et, - je connais ma mère, - </l>
+	<l id="114">Elle ouvrira ses bras, pour nous deux assez grands,</l>
+	<l id="115">Et tu ne seras plus toute seule sur terre,</l>
+	<l id="116">Car, ma mère avec moi, nous serons tes parents !</l>
+	<l id="117" syll="2" part="i">Veux-tu ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="117" syll="10" part="f">Si je le veux ! C'est donc vrai que tu m'aimes ?</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="118">Oui ! Mais autant que moi, Berta, tu m'aimeras ;</l>
+	<l id="119">Nos travaux enfantins, nos jeux seront les mêmes :</l>
+	<l id="120">Et puis... jamais, jamais tu ne me quitteras !</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="121">Jamais ! Oh ! tout cela c'est un rêve, je pense !</l>
+	<l id="122">Oui ! Tout quitter pour toi, car ton coeur est si bon !</l>
+	<l id="123">Mais je conserverai mon vieil ami d'enfance...</l>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+	<l id="124" syll="6" part="i">Comment l'appelles-tu ?</l>
+</sp>
+<sp who="BERTA"><speaker>BERTA.</speaker>
+	<l id="124" syll="6" part="f">C'est mon accordéon !</l>
+<stage type="kiss/touch">Céline embrassse Berta et sort en lui prenant la main.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

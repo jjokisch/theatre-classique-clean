@@ -1,0 +1,1465 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>À QUOI RÊVENT LES JEUNES FILLES, COMÉDIE</title>
+			<author ISNI="0000 0001 2133 4059">Alfred MUSSET (1810-1857)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE avril 2023.</editor>
+			<publisher>publié par Paul FIEVRE, mai 2023</publisher>
+			<idno>MUSSET_AQUOIREVENT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Deux actes</structure>
+			<type>vers</type>
+			<periode>1831-1840</periode>
+			<taille>500-750</taille>
+			<permalien cote="BnF RLR RES-YF-4714">https://gallica.bnf.fr/ark:/12148/btv1b8626379c</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">À QUOI RÊVENT LES JEUNES FILLES</titlePart>
+			<titlePart type="sub">COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1833">1833.</docDate>
+		<docAuthor id="MUSSET, Alfred de">D'ALFRED DE MUSSET</docAuthor>
+		<docImprint>
+			<editor id="LEMERRE">PARIS LIBRAIRIE d'EUGÈNE RENDUEL, rue des Grands-Augustins, n°22.</editor>
+			<printer id="EVERAT">EVERAT, IMPRIMEUR rue du Cadran, n°16.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1880-11-29" location="Comédie Française">Représentée pour la première fois à la Comédie Française le 29 novembre 1880.</premiere>
+		</performance>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE DUC LAËRTE" sex="1" type="H" statut="duc" age="A" stat_amour="">LE DUC LAËRTE</role>.</castItem>
+			<castItem><role id="LE COMTE IRUS" sex="1" type="H" statut="comte" age="A" stat_amour="">LE COMTE IRUS</role>, son neveu.</castItem>
+			<castItem><role id="SILVIO" sex="1" type="H" statut="" age="A" stat_amour="">SILVIO</role>.</castItem>
+			<castItem><role id="NINON" sex="2" type="H" statut="aristocrate" age="A" stat_amour="">NINON</role>, jumelle, fille du duc Laërte.</castItem>
+			<castItem><role id="NINETTE" sex="2" type="H" statut="aristocrate" age="A" stat_amour="">NINETTE</role>, jumelle, fille du duc Laërte.</castItem>
+			<castItem><role id="FLORA" sex="2" type="H" statut="servante" age="A" stat_amour="">FLORA</role>, servante.</castItem>
+			<castItem><role id="SPADILLE" sex="1" type="H" statut="domestique" age="A" stat_amour="">SPADILLE</role>, domestique.</castItem>
+			<castItem><role id="QUINOLA" sex="1" type="H" statut="domestique" age="A" stat_amour="">QUINOLA</role>, domestique.</castItem>
+		</castList>
+		<set location="(Lieu indéterminé)" country="(Pays indéterminé)" periode="XIXème" gps="48.856614, 2.352222">La scène est où l'on voudra.</set>
+		<note>Texte issu de "Un Spectacle dans un fauteuil", Paris : Librairie d'Eugène Renduel, 1833.- pp. 129-203</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<stage type="decor">Une chambre à coucher.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Ninon, Ninette.
+</stage>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="1">Onze_heures vont sonner. - Bonsoir, ma chère soeur.</l>
+	<l id="2" syll="6" part="i">Je m'en vais me coucher.</l>
+</sp>
+<sp who="NINON"><speaker who="NINON">NINON.</speaker>
+	<l id="2" syll="6" part="f">Bonsoir. Tu n'as pas peur</l>
+	<l id="3">De traverser le parc pour aller à ta chambre ?</l>
+	<l id="4">Il est si tard ! - Veux-tu que j'appelle Flora ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="5">Pas du tout. - Mais vois donc quel beau ciel de septembre !</l>
+	<l id="6">D'ailleurs, j'ai Bacchanal qui m'accompagnera.</l>
+	<l id="7" syll="6" part="i">Bacchanal ! Bacchanal !</l>
+<stage type="call">Elle sort en appelant son chien.</stage>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="kneel/furniture">, s'agenouillant à son prie-Dieu.
+	</stage>
+	<l id="8">O Christe ! Dum fixus cruci</l>
+	<l id="9">Expandis orbi brachia,</l>
+	<l id="10">Amare da crucem, tuo</l>
+	<l id="11">Da nos in amplexu mori.</l>
+<stage type="dress">Elle se déshabille.</stage>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="entrance/frigthen/sit/hurry/furniture">, rentrant épouvantée, et se jetant dans un fauteuil.
+	</stage>
+	<l id="12">Ma chère, je suis morte.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="13" syll="6" part="i">Qu'as-tu ? Qu'arrive-t-il ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="13" syll="6" part="f">Je ne peux plus parler.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="14">Pourquoi ? Mon_Dieu ! Je tremble en te voyant trembler.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="15">Je n'étais pas, ma chère, à trois pas de ta porte ;</l>
+	<l id="16">Un homme vient à moi, m'enlève dans ses bras,</l>
+	<l id="17">M'embrasse tant qu'il peut, me repose par terre,</l>
+	<l id="18" syll="6" part="i">Et se sauve en courant.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="18" syll="6" part="f">Ah ! Mon_Dieu ! Comment faire ?</l>
+	<l id="19" syll="6" part="i">C'est peut-être un voleur.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="19" syll="6" part="f">Oh ! Non, je ne crois pas.</l>
+	<l id="20">Il avait sur l'épaule une chaîne superbe,</l>
+	<l id="21">Un manteau d'Espagnol, doublé de velours noir,</l>
+	<l id="22">Et de grands éperons qui reluisaient dans l'herbe.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="23">C'est pourtant une chose étrange à concevoir,</l>
+	<l id="24">Qu'un homme comme il faut tente une horreur semblable.</l>
+	<l id="25">Un homme en manteau noir, c'est peut-être le diable.</l>
+	<l id="26">Oui, ma chère. Qui sait ? Peut-être un revenant.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="27">Je ne crois pas, ma chère : il avait des moustaches.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="28">J'y pense, dis-moi donc, si c'était un amant !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="29">S'il allait revenir ! - Il faut que tu me caches.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="30">C'est peut-être papa qui veut te faire peur.</l>
+	<l id="31">Dans tous les cas, Ninette, il faut qu'on te ramène.</l>
+	<l id="32">Holà ! Flora, Flora ! Reconduisez ma soeur.</l>
+<stage type="entrance/location">Flora paraît sur la porte.</stage>
+	<l id="33" syll="8" part="i">Adieu, va, ferme bien ta porte.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="33" syll="4" part="f">Et toi la tienne.</l>
+<stage type="kiss/exit">Elles s'embrassent. Ninette sort avec Flora.</stage>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="al6one">, seule, mettant son verrou.
+	</stage>
+	<l id="34">Des éperons d'argent, un manteau de velours !</l>
+	<l id="35">Une chaîne ! Un baiser ! - C'est extraordinaire.</l>
+<stage type="dress">Elle se décoiffe.</stage>
+	<l id="36">Je suis mal en bandeaux ; mes cheveux sont trop courts.</l>
+	<l id="37">Bah ! J'avais deviné ! - C'est sans doute mon père.</l>
+	<l id="38">Ninette est si poltronne ! - Il l'aura vu passer.</l>
+	<l id="39">C'est tout simple, sa fille, il peut bien l'embrasser.</l>
+	<l id="40" syll="6" part="i">Mes bracelets vont bien.</l>
+<stage type="dress">Elle les détache.</stage>
+	<l id="40" syll="6" part="f">Ah ! Demain, quand j'y pense,</l>
+	<l id="41">Ce jeune homme étranger qui va venir dîner !</l>
+	<l id="42">C'est un mari, je crois, que l'on veut nous donner.</l>
+	<l id="43">Quelle drôle de chose ! Ah ! J'en ai peur d'avance.</l>
+	<l id="44" syll="6" part="i">Quelle robe mettrai-je ?</l>
+<stage type="">Elle se couche.</stage>
+	<l id="44" syll="6" part="f">Une robe d'été ?</l>
+	<l id="45">Non, d'hiver : cela donne un air plus convenable.</l>
+	<l id="46">Non, d'été : c'est plus jeune et c'est moins apprêté.</l>
+	<l id="47">On le mettra sans doute entre nous deux à table.</l>
+	<l id="48">Ma soeur lui plaira mieux. - Bah ! Nous verrons toujours.</l>
+	<l id="49">- Des éperons d'argent ! - Un manteau de velours !</l>
+	<l id="50">Mon_Dieu ! Comme il fait chaud pour une nuit d'automne.</l>
+	<l id="51">Il faut dormir, pourtant. - N'entends-je pas du bruit ?</l>
+	<l id="52">C'est Flora qui revient ; - non, non, ce n'est personne.</l>
+	<l id="53">Tra-la, tra-deri-da. - Qu'on est bien dans son lit !</l>
+	<l id="54">Ma tante était bien laide avec ses vieux panaches</l>
+	<l id="55">Hier soir à souper. - Comme mon bras est blanc !</l>
+	<l id="56">Tra-deri-da. - Mes yeux se ferment. - Des moustaches...</l>
+	<l id="57">Il la prend, il l'embrasse et se sauve en courant.</l>
+<stage type="sit/listen/sing">Elle s'assoupit. - On entend par la fenêtre le bruit d'une guitare et une voix.</stage>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="58">- Ninon, Ninon, que fais-tu de la vie ?</l>
+	<l id="59">L'heure s'enfuit, le jour succède au jour.</l>
+	<l id="60">Rose ce soir, demain flétrie.</l>
+	<l id="61">Comment vis-tu, toi qui n'as pas d'amour ?</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="awake">, s'éveillant.
+	</stage>
+	<l id="62">Est-ce un rêve ? J'ai cru qu'on chantait dans la cour ?</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX</speaker><stage type="location">, au dehors.
+	</stage>
+	<l id="63">Regarde-toi, la jeune fille.</l>
+	<l id="64">Ton coeur bat et ton oeil pétille.</l>
+	<l id="65">Aujourd'hui le printemps, Ninon, demain l'hiver.</l>
+	<l id="66">Quoi ! Tu n'as pas d'étoile, et tu vas sur la mer !</l>
+	<l id="67">Au combat sans musique, en voyage sans livre !</l>
+	<l id="68">Quoi ! Tu n'as pas d'amour, et tu parles de vivre !</l>
+	<l id="69">Moi, pour un peu d'amour je donnerais mes jours ;</l>
+	<l id="70">Et je les donnerais pour rien sans les amours.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="71">Je ne me trompe pas ; - singulière romance !</l>
+	<l id="72">Comment ce chanteur-là peut-il savoir mon nom ?</l>
+	<l id="73">Peut-être sa beauté s'appelle aussi Ninon.</l>
+</sp>
+<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+	<l id="74">Qu'importe que le jour finisse et recommence,</l>
+	<l id="75">Quand d'une autre existence</l>
+	<l id="76">Le coeur est animé ?</l>
+	<l id="77">Ouvrez-vous, jeunes fleurs. Si la mort vous enlève,</l>
+	<l id="78">La vie est un sommeil, l'amour en est le rêve,</l>
+	<l id="79">Et vous aurez vécu, si vous avez aimé.</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="jalous">, soulevant sa jalousie.
+	</stage>
+	<l id="80">Ses éperons d'argent brillent dans la rosée ;</l>
+	<l id="81">Une chaîne à glands d'or retient son manteau noir.</l>
+	<l id="82">Il relève en marchant sa moustache frisée. - </l>
+	<l id="83">Quel est ce personnage et comment le savoir ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Irus, à sa toilette ; Spadille, Quinola.
+</stage>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="84">Lequel de vous, marauds, m'a posé ma perruque ?</l>
+	<l id="85">Outre que les rubans me font mal à la nuque,</l>
+	<l id="86">Je suis couvert de poudre, et j'en ai plein les yeux.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="87" syll="4" part="i">Ce n'est pas moi.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="87" syll="3" part="m">Ni moi.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="87" syll="6" part="f">Moi, je tenais la queue.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="88" syll="6" part="i">Moi, Monsieur, je peignais.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="88" syll="6" part="f">Vous mentez tous les deux.</l>
+	<l id="89">Allons, mon habit rose et ma culotte bleue,</l>
+	<l id="90">Hum ! Hum ! Diable_de_poudre ! - Hatsch ! Je suis aveuglé.</l>
+<stage type="sneeze">Il éternue.</stage>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA</speaker><stage type="meuble">, ouvrant une armoire.
+	</stage>
+	<l id="91">Monsieur, vous ne sauriez mettre cette culotte.</l>
+	<l id="92">La lampe était auprès ; - toute l'huile a coulé.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE</speaker><stage type="open/furniture">, ouvrant une autre armoire.
+	</stage>
+	<l id="93">Monsieur, votre habit rose est tout rempli de crotte ;</l>
+	<l id="94">Quand je l'ai déployé le chat était dessus.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="95">Ciel ! De cette façon voir tous mes plans déçus !</l>
+	<l id="96">Écoutez, mes amis ; - il me vient une idée :</l>
+	<l id="97" syll="6" part="i">Quelle heure est-il ?</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="97" syll="6" part="f">Monsieur, l'horloge est arrêtée.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="98">A-t-on sonné déjà deux coups pour le dîné ?</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="99" syll="6" part="i">Non, l'on n'a pas sonné.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="99" syll="6" part="f">Si, si, l'on a sonné.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="100">Je tremble à chaque instant que le nouveau convive</l>
+	<l id="101">Qui doit venir dîner ne paraisse et n'arrive.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="102" syll="6" part="i">Il faut vous mettre en vert.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="102" syll="6" part="f">Il faut vous mettre en gris.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="103" syll="6" part="i">Dans quel mois sommes-nous ?</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="103" syll="6" part="f">Nous sommes en novembre.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="104" syll="6" part="i">En août ! En août !</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="104" syll="6" part="f">Mettez ces deux habits.</l>
+	<l id="105">Vous vous promènerez ensuite par la chambre,</l>
+	<l id="106">Pour que je voie un peu l'effet que je ferai.</l>
+	<l id="107" syll="6" part="i">Les valets obéissent.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="107" syll="6" part="f">Moi, j'ai l'air d'un marquis.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="108">Moi, j'ai l'air d'un ministre.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS</speaker><stage>, les regardant.
+	</stage>
+	<l id="109">Spadille a l'air d'une oie, et Quinola d'un cuistre.</l>
+	<l id="110">Je ne sais pas à quoi je me déciderai.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE</speaker><stage type="entrance">, entrant.
+	</stage>
+	<l id="111">Et vous, vous avez l'air, mon neveu, d'une bête.</l>
+	<l id="112">N'êtes-vous pas honteux de vous poudrer la tête,</l>
+	<l id="113">Et de perdre, à courir dans votre cabinet,</l>
+	<l id="114">Plus de temps qu'il n'en faut pour écrire un sonnet ?</l>
+	<l id="115">Allons, venez dîner ; - votre assiette s'ennuie.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="116">Vous ne voudriez pas, au prix de votre vie,</l>
+	<l id="117">Me traîner au salon, sans rouge et demi-nu ?</l>
+	<l id="118" syll="6" part="i">Quel habit faut-il mettre ?</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="118" syll="6" part="f">Eh ! Le premier venu.</l>
+	<l id="119">Allons, écoutez-moi. Vous trouverez à table</l>
+	<l id="120">Le nouvel arrivé ; - c'est un jeune homme aimable,</l>
+	<l id="121">Qui vient pour épouser un de mes chers enfants.</l>
+	<l id="122">Jetez, au nom de Dieu, vos regards triomphants</l>
+	<l id="123">Sur un autre que lui ; ne cherchez pas à plaire,</l>
+	<l id="124">Et n'avalez pas tout comme à votre ordinaire.</l>
+	<l id="125">Il est simple et timide, et de bonne façon ;</l>
+	<l id="126">Enfin c'est ce qu'on nomme un honnête garçon.</l>
+	<l id="127">Tâchez, si vous trouvez ses manières communes,</l>
+	<l id="128">De ne point décocher, en prenant du tabac,</l>
+	<l id="129">Votre charmant sourire et vos mots d'almanach.</l>
+	<l id="130">Tarissez, s'il se peut, sur vos bonnes fortunes.</l>
+	<l id="131">Ne vous inondez pas de vos flacons damnés ;</l>
+	<l id="132">Qu'on puisse vous parler sans se boucher le nez.</l>
+	<l id="133">Vos gants blancs sont de trop ; on dîne les mains nues.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="134">Je suis presque tenté, pour cadrer à vos vues,</l>
+	<l id="135">D'ôter mon habit vert, et de me mettre en noir.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="136">Non, de par tous les saints, non, je vous remercie.</l>
+	<l id="137">La peste soit de vous ! - Qui diantre se soucie,</l>
+	<l id="138">Si votre habit est vert, de s'en apercevoir ?</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="139">Puis-je savoir, du moins, le nom de ce jeune homme ?</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="140">Qu'est-ce que ça vous fait ? C'est Silvio qu'il se nomme.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="141">Silvio ! Ce n'est pas mal. - Silvio ! - Le nom est bien ;</l>
+	<l id="142">Irus, - Irus, - Silvio ; - mais j'aime mieux le mien.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="143">Son père est mon ami, - celui de votre mère.</l>
+	<l id="144">Nous avons le projet, depuis plus de vingt ans,</l>
+	<l id="145">De mourir en famille, et d'unir nos enfants.</l>
+	<l id="146">Plût au ciel, pour tous deux, que son fils eût un frère !</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="147">Vrai Dieu ! Monsieur_le_Duc, qu'entendez-vous par là ?</l>
+	<l id="148">Ne dois-je pas aussi devenir votre gendre ?</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="149">C'est bon, je le sais bien ; vous pouvez vous attendre</l>
+	<l id="150">À trouver votre tour ; - mais Silvio choisira.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage type="location"> Ninon, Ninette, dans deux bosquets séparés.
+</stage>
+<stage type="decor">Le jardin du duc.</stage>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="151">Cette voix retentit encore à mon oreille.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="152">Ce baiser singulier me fait encor frémir.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="153">Nous verrons cette nuit ; il faudra que je veille.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="154">Cette nuit, cette nuit, je ne veux pas dormir.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="155">Toi dont la voix est douce, et douce la parole,</l>
+	<l id="156">Chanteur mystérieux, reviendras-tu me voir ?</l>
+	<l id="157">Ou, comme en soupirant l'hirondelle s'envole,</l>
+	<l id="158">Mon bonheur fuira-t-il, n'ayant duré qu'un soir ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="159">Audacieux fantôme à la forme voilée,</l>
+	<l id="160">Les ombrages ce soir seront-ils sans danger ?</l>
+	<l id="161">Te reverrai-je encor dans cette sombre allée,</l>
+	<l id="162">Ou disparaîtras-tu comme un chamois léger ?</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="163">L'eau, la terre et les vents, tout s'emplit d'harmonies.</l>
+	<l id="164">Un jeune rossignol chante au fond de mon coeur.</l>
+	<l id="165">J'entends sous les roseaux murmurer des génies...</l>
+	<l id="166">Ai-je de nouveaux sens inconnus à ma soeur ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="167">Pourquoi ne puis-je voir sans plaisir et sans peine</l>
+	<l id="168">Les baisers du zéphyr trembler sur la fontaine,</l>
+	<l id="169">Et l'ombre des tilleuls passer sur mes bras nus ?</l>
+	<l id="170">Ma soeur est une enfant, - et je ne le suis plus.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="171">Ô fleurs des nuits d'été, magnifique nature !</l>
+	<l id="172">Ô plantes ! Ô rameaux, l'un dans l'autre enlacés !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="173">Ô feuilles des palmiers, reines de la verdure,</l>
+	<l id="174">Qui versez vos amours dans les vents embrasés !</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO</speaker><stage type="entrance">, entrant.
+	</stage>
+	<l id="175">Mon coeur hésite encor ; - toutes les deux si belles !</l>
+	<l id="176">Si conformes en tout, si saintement jumelles !</l>
+	<l id="177">Deux corps si transparents attachés par le coeur !</l>
+	<l id="178">On dirait que l'aînée est l'étui de sa soeur.</l>
+	<l id="179">Pâles toutes les deux, toutes les deux craintives,</l>
+	<l id="180">Frêles comme un roseau, blondes comme les blés ;</l>
+	<l id="181">Prêtes à tressaillir, comme deux sensitives,</l>
+	<l id="182">Au toucher de la main. - Tous mes sens sont troublés.</l>
+	<l id="183">Je n'ai pu leur parler, - j'agissais dans la fièvre ;</l>
+	<l id="184">Mon âme à chaque mot arrivait sur ma lèvre.</l>
+	<l id="185">Mais elles, quel bon goût ! Quelle simplicité !</l>
+	<l id="186">Hélas ! Je sors d'hier de l'université.</l>
+<stage type="entrance/smoke">Entrent Laerte, et Irus un cigare à la bouche.</stage>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="187">Eh bien ! Notre convive, où ces dames sont-elles ?</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="188">Quoi ! Vous sortez de table, et vous ne fumez pas ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO</speaker><stage type="kiss">, embrassant Laerte.
+	</stage>
+	<l id="189">Ô mon père ! Ô mon duc ! Je ne puis faire un pas.</l>
+	<l id="190" syll="6" part="i">Tout mon être est brisé.</l>
+<stage type="entrance">Ninon et Ninette paraissent.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="190" syll="6" part="f">Voilà ces demoiselles.</l>
+	<l id="191">Ninon, ma barbe est fraîche, et je vais t'embrasser.</l>
+<stage type="exit/follow">Ninon se sauve. - Irus court après elle.</stage>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="192">Ne sauriez-vous Irus, dîner sans vous griser ?</l>
+<stage type="exit">Ils sortent en se promenant.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Ninette, restée seule ; Flora.
+</stage>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="193">Où cours-tu donc, Flora ? Mon_Dieu ! La belle chaîne !</l>
+	<l id="194">Voyez donc ! - Les beaux glands ! Qui t'a donné cela ?</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="run">, accourant.
+	</stage>
+	<l id="195">Voyons ! Laisse-moi voir. - Ah ! Je suis hors d'haleine.</l>
+	<l id="196">Quel sot que cet Irus ! - Tu l'as trouvé, Flora ?</l>
+	<l id="197">Le beau collier, ma foi ! Vraiment, comme elle est fière !</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA</speaker><stage type="toward">, à Ninon.
+	</stage>
+	<l id="198" syll="6" part="i">Je voudrais vous parler.</l>
+<stage type="pull">Elle l'entraîne dans un coin.</stage>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="198" syll="6" part="f">Quoi donc ? c'est un mystère ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA</speaker><stage type="toward">, à Ninon.
+	</stage>
+	<l id="199">Rentrez dans votre chambre, et lisez ce billet.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="200" syll="6" part="i">Un billet ? d'où vient-il ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA.</speaker>
+	<l id="200" syll="6" part="f">Mettez-le, s'il vous plaît,</l>
+	<l id="201">Dans ce petit coin-là, sur votre coeur, ma belle.</l>
+<stage type="exit">Elle le lui met dans son sein.</stage>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="202" syll="6" part="i">Tu sais donc ce que c'est ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA.</speaker>
+	<l id="202" syll="6" part="f">Moi, non, je n'en sais rien.</l>
+<stage type="exit/run">Ninon sort en courant.</stage>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="203">Qu'as-tu dit à ma soeur, et pourquoi s'en va-t-elle ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA</speaker><stage type="get">, tirant un autre billet.
+	</stage>
+	<l id="204" syll="6" part="i">Tenez, lisez ceci.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="204" syll="6" part="f">Pourquoi ? Je le veux bien.</l>
+	<l id="205" syll="6" part="i">Mais qu'est-ce que c'est donc ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA.</speaker>
+	<l id="205" syll="6" part="f">Lisez toujours, ma chère.</l>
+	<l id="206">Mais prenez garde à vous. - J'aperçois votre père ;</l>
+	<l id="207">Allez vous enfermer dans votre appartement.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="208" syll="2" part="i">Pourquoi ?</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA.</speaker>
+	<l id="208" syll="10" part="f">Vous lirez mieux, et plus commodément.</l>
+<stage type="exit/entrance">Elles sortent. Entrent Laërte et Silvio.</stage>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="209">Je crois que notre abord met ces dames en fuite.</l>
+	<l id="210">Ah ! Monseigneur, j'ai peur de leur avoir déplu.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="211">Bon, bon, laissez-les fuir ; vous leur plairez bien vite.</l>
+	<l id="212">Dites-moi, mon ami, dans votre temps perdu,</l>
+	<l id="213">N'avez-vous jamais fait la cour à quelques belles ?</l>
+	<l id="214">Quel moyen preniez-vous pour dompter les cruelles ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="215">Père, ne raillez pas, je me défendrais mal.</l>
+	<l id="216">Bien que je sois sorti d'un sang méridional,</l>
+	<l id="217">Jamais les imbroglios, ni les galanteries,</l>
+	<l id="218">Ni l'art mystérieux des douces flatteries,</l>
+	<l id="219">Ce bel art d'être aimé, ne m'ont appartenu.</l>
+	<l id="220">Je vivrai sous le ciel comme j'y suis venu.</l>
+	<l id="221">Un serrement_de_main, un regard de clémence,</l>
+	<l id="222">Une larme, un soupir, voilà pour moi l'amour ;</l>
+	<l id="223">Et j'aimerai dix ans comme le premier jour.</l>
+	<l id="224">J'ai de la passion, et n'ai point d'éloquence.</l>
+	<l id="225">Mes rivaux, sous mes yeux, sauront plaire et charmer.</l>
+	<l id="226">Je resterai muet ; - moi, je ne sais qu'aimer.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="227">Les femmes cependant demandent autre chose.</l>
+	<l id="228">Bien plus, sans les aimer, du moment que l'on ose,</l>
+	<l id="229">On leur plaît. La faiblesse est si chère à leur coeur</l>
+	<l id="230">Qu'il leur faut un combat pour avoir un vainqueur.</l>
+	<l id="231">Croyez-moi, j'ai connu ces êtres variables.</l>
+	<l id="232">Il n'existe, dit-on, ni deux feuilles semblables,</l>
+	<l id="233">Ni deux coeurs faits de même, et moi, je vous promets</l>
+	<l id="234">Qu'en en séduisant une on séduit tout un monde.</l>
+	<l id="235">L'une aura les pieds plats, l'autre la jambe ronde,</l>
+	<l id="236">Mais la communauté ne changera jamais.</l>
+	<l id="237">Avez-vous jamais vu les courses d'Angleterre ?</l>
+	<l id="238">On prend quatre coureurs, - quatre chevaux sellés ;</l>
+	<l id="239">On leur montre un clocher, puis on leur dit : Allez !</l>
+	<l id="240">Il s'agit d'arriver, n'importe la manière.</l>
+	<l id="241">L'un choisit un ravin, - l'autre un chemin battu.</l>
+	<l id="242">Celui-ci gagnera, s'il ne rencontre un fleuve ;</l>
+	<l id="243">Celui-là fera mieux, s'il n'a le cou rompu.</l>
+	<l id="244">Tel est l'amour, Silvio ; - l'amour est une épreuve ;</l>
+	<l id="245">Il faut aller au but, - la femme est le clocher.</l>
+	<l id="246">Prenez garde au torrent, prenez garde au rocher ;</l>
+	<l id="247">Faites ce qui vous plaît, le but est immobile.</l>
+	<l id="248">Mais croyez que c'est prendre une peine inutile</l>
+	<l id="249">Que de rester en place et de crier bien fort :</l>
+	<l id="250">Clocher ! Clocher ! Je t'aime, arrive ou je suis mort.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="251">Je sens la vérité de votre parabole,</l>
+	<l id="252">Mais si je ne puis rien trouver même en parole,</l>
+	<l id="253">Que pourrai-je valoir, seigneur, en action ?</l>
+	<l id="254">Tout le réel pour moi n'est qu'une fiction ;</l>
+	<l id="255">Je suis dans un salon comme une mandoline</l>
+	<l id="256">Oubliée en passant sur le bord d'un coussin.</l>
+	<l id="257">Elle renferme en elle une langue divine,</l>
+	<l id="258">Mais si son maître dort, tout reste dans son sein.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="259">Écoutez donc alors ce qu'il vous faudra faire.</l>
+	<l id="260">Recevoir un mari de la main de son père,</l>
+	<l id="261">Pour une jeune fille est un pauvre régal.</l>
+	<l id="262">C'est un serpent doré qu'un anneau conjugal.</l>
+	<l id="263">C'est dans les nuits d'été, sur une mince échelle,</l>
+	<l id="264">Une épée à la main, un manteau sur les yeux,</l>
+	<l id="265">Qu'une enfant de quinze ans rêve ses amoureux.</l>
+	<l id="266">Avant de se montrer, il faut leur apparaître.</l>
+	<l id="267">Le père ouvre la porte au matériel époux,</l>
+	<l id="268">Mais toujours l'idéal entre par la fenêtre.</l>
+	<l id="269">Voilà, mon cher Silvio, ce que j'attends de vous,</l>
+	<l id="270" syll="6" part="i">Connaissez-vous l'escrime ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="270" syll="6" part="f">Oui, je tire l'épée.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="271">Et pour le pistolet, vous tuez la poupée,</l>
+	<l id="272">N'est-ce pas ? C'est très bien ; vous tuerez mes valets.</l>
+	<l id="273">Mes filles tout à l'heure ont reçu deux billets ;</l>
+	<l id="274">Ne cherchez pas, c'est moi qui les ai fait remettre.</l>
+	<l id="275">Ah ! Si vous compreniez ce que c'est qu'une lettre !</l>
+	<l id="276">Une lettre d'amour lorsque l'on a quinze ans !</l>
+	<l id="277">Quelle charmante place elle occupe longtemps !</l>
+	<l id="278">D'abord auprès du coeur, ensuite à la ceinture.</l>
+	<l id="279">La poche vient après, le tiroir vient enfin.</l>
+	<l id="280">Mais comme on la promène, en traîneaux, en voiture !</l>
+	<l id="281">Comme on la mène au bal ! Que de fois en chemin,</l>
+	<l id="282">Dans le fond de la poche on la presse, on la serre !</l>
+	<l id="283">Et comme on rit tout bas du bonhomme de père</l>
+	<l id="284">Qui ne voit jamais rien, de temps_immémorial !</l>
+	<l id="285">Quel travail il se fait dans ces petites têtes !</l>
+	<l id="286">Voulez-vous, mon ami, savoir ce que vous êtes,</l>
+	<l id="287">Vous, à l'heure qu'il est ? - Vous êtes l'idéal,</l>
+	<l id="288">Le prince Galaor, le berger d'Arcadie ;</l>
+	<l id="289">Vous êtes un Lara ; - j'ai signé votre nom.</l>
+	<l id="290">Le vieux duc vous prenait pour son gendre, - mais non,</l>
+	<l id="291">Non ! Vous tombez du ciel comme une tragédie ;</l>
+	<l id="292">Vous rossez mes valets ; vous forcez mes verrous ;</l>
+	<l id="293">Vous caressez le chien ; vous séduisez la fille ;</l>
+	<l id="294">Vous faites le malheur de toute la famille.</l>
+	<l id="295">Voilà ce que l'on veut trouver dans un époux.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="296">Quelle mélancolique et déchirante idée !</l>
+	<l id="297">Elle est juste pourtant ; - qu'elle me fait de mal !</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="298">Ah ! Jeune homme, avez-vous aussi votre idéal ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="299">Pourquoi pas comme tous ? Leur étoile est guidée</l>
+	<l id="300">Vers un astre inconnu qu'ils ont toujours rêvé ;</l>
+	<l id="301">Et la plupart de nous meurt sans l'avoir trouvé.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="302">Attachez-vous du prix à des enfantillages ?</l>
+	<l id="303">Cela n'empêche pas les femmes d'être sages,</l>
+	<l id="304">Bonnes, franches de coeur ; c'est un goût seulement ;</l>
+	<l id="305">Cela leur va, leur plaît, - tout cela, c'est charmant.</l>
+	<l id="306">Écoutez-moi, Silvio : - ce soir, à la veillée,</l>
+	<l id="307">Vous vous cuirasserez d'un large manteau noir.</l>
+	<l id="308">Flora dormira bien, c'est moi qui l'ai payée.</l>
+	<l id="309">Ces dames, pour leur part, descendront en peignoir.</l>
+	<l id="310">Or vous vous doutez bien, par cette double lettre,</l>
+	<l id="311">Que ce que vous vouliez, c'était un rendez-vous.</l>
+	<l id="312">Car, excepté cela, que veut un billet doux ?</l>
+	<l id="313">Vous pénétrerez donc par la chère fenêtre.</l>
+	<l id="314">On vous introduira comme un conspirateur.</l>
+	<l id="315">Que ferez-vous alors, vous, double séducteur ?</l>
+	<l id="316">Vous entendrez des cris. - C'est alors que le père,</l>
+	<l id="317">Semblable au commandeur dans le Festin de Pierre,</l>
+	<l id="318">Dans sa robe de chambre apparaîtra soudain.</l>
+	<l id="319">Il vous provoquera, sa chandelle à la main.</l>
+	<l id="320">Vous la lui soufflerez du vent de votre épée.</l>
+	<l id="321">S'il ne reste par terre une tête coupée,</l>
+	<l id="322">Il y pourra du moins rester un grand seau d'eau,</l>
+	<l id="323">Que Flora lestement nous versera d'en haut.</l>
+	<l id="324">Ce sera tout le sang que nous devrons répandre.</l>
+	<l id="325">Les valets aussitôt le couvriront de cendre ;</l>
+	<l id="326">On ne saura jamais où vous serez passé,</l>
+	<l id="327">Et mes filles crieront. « Ô ciel ! Il est blessé ! »</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="328">Je n'achèverai pas cette plaisanterie.</l>
+	<l id="329">Calculez, mon cher duc, où cela mènera.</l>
+	<l id="330">Savez-vous, puisqu'il faut enfin qu'on nous marie,</l>
+	<l id="331">Si je me fais aimer, laquelle m'aimera ?</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="332">Peut-être toutes deux, n'est-il pas vrai, mon gendre ?</l>
+	<l id="333">Si je le trouve bon, qu'avez-vous à reprendre ?</l>
+	<l id="334">Ô mon fils bien-aimé ! Laissons parler les sots.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="335">On a bouleversé la terre avec des mots.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="336">Eh ! Que m'importe à moi ! - Je n'ai que vous au monde</l>
+	<l id="337">Après mes deux enfants. Que me fait un brocard ?</l>
+	<l id="338">Vous êtes assez mûr sous votre tête blonde</l>
+	<l id="339">Pour porter du respect à l'honneur d'un vieillard.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="340">Ah ! Je mourrais plutôt. Ce n'est pas ma pensée.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="341">Supposons que des deux vous vous fassiez aimer.</l>
+	<l id="342">Celle qui restera voudra vous pardonner.</l>
+	<l id="343">Votre image, Silvio, sera bientôt chassée</l>
+	<l id="344">Par un rêve nouveau, par le premier venu.</l>
+	<l id="345">Croyez-moi, les enfants n'aiment que l'inconnu.</l>
+	<l id="346">Dès que vous deviendrez le bourgeois respectable</l>
+	<l id="347">Qui viendra tous les jours s'asseoir à déjeuner,</l>
+	<l id="348">Qu'on verra se lever, aller et retourner,</l>
+	<l id="349">Mettre après le café ses coudes sur la table,</l>
+	<l id="350">On ne cherchera plus l'être mystérieux.</l>
+	<l id="351">On aimera le frère et c'est ce que je veux.</l>
+	<l id="352">Si mon sot de neveu parle de mariage,</l>
+	<l id="353">On l'en détestera quatre fois davantage,</l>
+	<l id="354">C'est encor mon souhait. Mes enfants ont du coeur ;</l>
+	<l id="355">L'une soit votre femme, et l'autre votre soeur.</l>
+	<l id="356">Je me confie à vous, - à vous, fils de mon frère,</l>
+	<l id="357">Qui serez le mari d'une de mes enfants,</l>
+	<l id="358">Qui ne souillerez pas la maison de leur père,</l>
+	<l id="359">Et qui ne jouerez pas avec ses cheveux blancs.</l>
+	<l id="360">Qui sait ? peut-être un jour ma pauvre délaissée</l>
+	<l id="361">Trouvera quelque part le mari qu'il lui faut.</l>
+	<l id="362">Mais l'importante affaire est d'éviter ce sot.</l>
+<stage type="entrance">Irus entre.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="363">À souper ! à souper ! Messieurs, l'heure est passée.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="364">Vous avez, Dieu me damne, encor changé d'habit.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="365">Oui, celui-là va mieux ; l'autre était trop petit.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<stage type="decor/light">Le jardin. - Il est nuit.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage type="costume"> Le duc Laërte en robe de chambre ; Silvio, enveloppé d'un manteau.
+</stage>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="366">Lorsque cette lueur, que vous voyez là-bas,</l>
+	<l id="367">Après avoir erré de fenêtre en fenêtre,</l>
+	<l id="368">Tournera vers ce coin pour ne plus reparaître,</l>
+	<l id="369">Il sera temps d'agir. - Elle y marche à grands pas.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="370">Je vous l'ai dit, seigneur, cela ne me plaît pas.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="371">Eh bien ! Moi, tout cela m'amuse à la folie.</l>
+	<l id="372">Je ne fais pas la guerre à la mélancolie.</l>
+	<l id="373">Après l'oisiveté, c'est le meilleur des maux.</l>
+	<l id="374">En général d'ailleurs, c'est ma pierre de touche ;</l>
+	<l id="375">Elle ne pousse pas, cette plante farouche,</l>
+	<l id="376">Sur la majestueuse obésité des sots.</l>
+	<l id="377">Mais la gaîté, Silvio, sied mieux à la vieillesse ;</l>
+	<l id="378">Nous voulons la beauté pour aimer la tristesse.</l>
+	<l id="379">Il faut bien mettre un peu de rouge à soixante ans ;</l>
+	<l id="380">C'est le métier des vieux de dérider le temps.</l>
+	<l id="381">On fait de la vieillesse une chose honteuse ;</l>
+	<l id="382">C'est tout simple : ici-bas, chez les trois quarts des gens,</l>
+	<l id="383">Quand elle n'est pas prude, elle est entremetteuse.</l>
+	<l id="384">Cassandre est la terreur des vieillards indulgents.</l>
+	<l id="385">Croyez-vous cependant, mon cher, que la nature</l>
+	<l id="386">Laisse ainsi par oubli vivre sa créature ?</l>
+	<l id="387">Qu'elle nous ait donné trente ans pour exister,</l>
+	<l id="388">Et le reste pour geindre ou bien pour tricoter ?</l>
+	<l id="389">Figurez-vous, Silvio, que j'ai, la nuit dernière,</l>
+	<l id="390">Chanté fort joliment pendant une heure entière.</l>
+	<l id="391">C'était pour intriguer mes filles ; mais, ma foi,</l>
+	<l id="392">Je crois, en vérité, que j'ai chanté pour moi.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="393">Aussi, dans tout cela, cher duc, c'est vous que j'aime.</l>
+	<l id="394">Il faudra pourtant bien redevenir moi-même.</l>
+	<l id="395">Songez donc, mon ami, qu'il ne restera rien</l>
+	<l id="396" syll="6" part="i">Du héros de roman.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="396" syll="6" part="f">Mon_Dieu ! Je le sais bien.</l>
+	<l id="397">Un roman dans un lit, on n'en saurait que faire.</l>
+	<l id="398">On réalise là tous ceux qu'on a rêvés.</l>
+	<l id="399">Après la bagatelle il faut le nécessaire ;</l>
+	<l id="400">Et j'espère pour vous, mon cher, que vous l'avez.</l>
+	<l id="401">Très ordinairement, dans ces sortes de choses,</l>
+	<l id="402">Ceux qui parlent beaucoup savent prouver très peu.</l>
+	<l id="403">C'est ce qui montre en tout la sagesse de Dieu.</l>
+	<l id="404">Tous ces galants musqués, fleuris comme des roses,</l>
+	<l id="405">Qu'on voit soir et matin courir les rendez-vous,</l>
+	<l id="406">S'assouplir comme un gant autour des jeunes filles,</l>
+	<l id="407">Escalader les murs, et danser sur les grilles,</l>
+	<l id="408">Savent au bout du doigt ce qui vous manque, à vous.</l>
+	<l id="409">Vous avez dans le coeur, Silvio, ce qui leur manque.</l>
+	<l id="410">Je me moque d'avoir pour gendre un saltimbanque,</l>
+	<l id="411">Capable de passer par le trou d'une clef.</l>
+	<l id="412">Si vous étiez comme eux, j'en serais désolé.</l>
+	<l id="413">Mais la méthode existe ; - il faut songer à plaire.</l>
+	<l id="414">Une fois marié, parbleu ! C'est votre affaire.</l>
+	<l id="415">Permettez-moi, de grâce, une autre question.</l>
+	<l id="416">Avez-vous jusqu'ici vécu sans passion ?</l>
+	<l id="417">En un mot... franchement, mon cher, êtes-vous vierge ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="418">Vierge du coeur à l'âme, et de la tête aux pieds.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="419">Bon ! Je ne hais rien tant que les jeunes roués.</l>
+	<l id="420">Le coeur d'un libertin est fait comme une auberge ;</l>
+	<l id="421">On y trouve à toute heure un grand feu bien nourri,</l>
+	<l id="422">Un bon gîte, un bon lit, - et la clef sur la porte.</l>
+	<l id="423">Mais on entre aujourd'hui : demain il faut qu'on sorte.</l>
+	<l id="424">Ce n'est pas ce bois-là, dont on fait un mari.</l>
+	<l id="425">Que tout vous soit nouveau, quand la femme est nouvelle.</l>
+	<l id="426">Ce n'est jamais un bien que l'on soit plus vieux qu'elle,</l>
+	<l id="427">Ni du corps ni du coeur. - Tâchez de deviner.</l>
+	<l id="428">Quel bonheur, en amour, de pouvoir s'étonner !</l>
+	<l id="429">Elle aura ses secrets, et vous aurez les vôtres.</l>
+	<l id="430">Restez longtemps enfants : vous vous en ferez d'autres.</l>
+	<l id="431">Ce secret-là surtout est si vite oublié !</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="432">Si ma femme pourtant croit trouver un roué,</l>
+	<l id="433">Quel misérable effet fera mon ignorance !</l>
+	<l id="434">N'appréhendez-vous rien de ces étonnements ?</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="435">Ceci pourrait sonner comme une impertinence.</l>
+	<l id="436">Mes filles n'ont, Monsieur, que de très bons romans.</l>
+	<l id="437">Ah ! Silvio, je vous livre une fleur précieuse.</l>
+	<l id="438">Effeuillez lentement cette ignorance heureuse.</l>
+	<l id="439">Si vous saviez quel tort se font bien des maris,</l>
+	<l id="440">En se livrant, dans l'ombre, à des secrets infâmes,</l>
+	<l id="441">Pour le fatal plaisir d'assimiler leurs femmes</l>
+	<l id="442">Aux femmes sans pudeur dont ils les ont appris !</l>
+	<l id="443">Ils ne leur laissent plus de neuf que l'adultère.</l>
+	<l id="444">Si vous étiez ainsi, j'aimerais mieux Irus.</l>
+	<l id="445">Rappelez-vous ces mots, qui sont dans l'Hespérus :</l>
+	<l id="446">« Respectez votre femme, amassez de la terre</l>
+	<l id="447">Autour de cette fleur prête à s'épanouir ;</l>
+	<l id="448">Mais n'en laissez jamais tomber dans son calice. »</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="449">Mon père, embrassez-moi. - Je vois le ciel s'ouvrir.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="450">Vous êtes, mon enfant, plus blanc qu'une génisse ;</l>
+	<l id="451">Votre bon petit coeur est plus pur que son lait ;</l>
+	<l id="452">Vous vous en défiez, et c'est ce qui me plaît.</l>
+	<l id="453">Croyez-en un vieillard qui vous donne sa fille.</l>
+	<l id="454">Puisque je vous ai pris pour remplir ma famille,</l>
+	<l id="455">Fiez-vous à mon choix. - Je ne me trompe pas.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="456">La lumière s'en va de fenêtre en fenêtre.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="457">L'heure va donc sonner. - Mon fils, viens dans mes bras.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="458">Elle se perd dans l'ombre, elle va disparaître.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="459">Ton rôle est bien appris ? Tu n'as rien oublié ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="460" syll="6" part="i">La lumière s'éteint.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="460" syll="6" part="f">Bravo ! L'heure est venue.</l>
+	<l id="461">Suivons tout doucement le mur de l'avenue.</l>
+	<l id="462">Allons, mon cavalier, sur la pointe du pied.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Ninon, Ninette, en déshabillé.
+</stage>
+<stage type="decor">Une terrasse.</stage>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="463">Que fais-tu là si tard, ma petite Ninette ?</l>
+	<l id="464">Il est temps de dormir. - Tu prendras le serein.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="465">Je regardais la lune en mettant ma cornette.</l>
+	<l id="466">Que d'étoiles au ciel ! - Il fera beau demain.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="467" syll="3" part="i">Tradéri.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="467" syll="3" part="m">Que dis-tu ?</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="467" syll="6" part="f">C'est une contredanse.</l>
+	<l id="468">Tradéri. - Sans amour... Ah ! Ma chère romance !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="469">Va te coucher, Ninon ; je ne saurais dormir.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="470" syll="6" part="i">Ma foi, ni moi non plus.</l>
+<stage type="aparte">À part.</stage>
+	<l id="470" syll="6" part="f">Il n'aurait qu'à venir.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="sing">, chantant.
+	</stage>
+	<l id="471">Léonore avait un amant</l>
+	<l id="472">Qui lui disait : Ma chère enfant...</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="473">Je crains vraiment pour toi que le froid ne te prenne.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="474" syll="6" part="i">J'étouffe de chaleur.</l>
+<stage type="aparte">À part.</stage>
+	<l id="474" syll="6" part="f">Je tremble qu'il ne vienne.</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="sing">, continuant la chanson.
+	</stage>
+	<l id="475">Qui lui disait : Ma chère enfant...</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="476">Je crois que son dessein est de coucher ici.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="477">On monte l'escalier ; mon_Dieu ! Si c'était lui !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="sing">, reprenant.
+	</stage>
+	<l id="478">Léonore avait un amant...</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="479">Elle ne songe pas à me céder la place.</l>
+	<l id="480" syll="6" part="i">S'il allait arriver !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="480" syll="6" part="f">Ma chère soeur, de grâce,</l>
+	<l id="481" syll="6" part="i">Va-t'en te mettre au lit.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="481" syll="6" part="f">Pourquoi ? Je suis très bien.</l>
+	<l id="482">Écoute : - promets-moi que tu n'en diras rien ;</l>
+	<l id="483" syll="6" part="i">Je vais te confier...</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="483" syll="6" part="f">Il faut que je t'avoue...</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="484" syll="6" part="i">Jure-moi sur l'honneur...</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="484" syll="6" part="f">Garde-moi le secret.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="485" syll="6" part="i">Tiens ; ouvre cette lettre.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="485" syll="6" part="f">Et toi, lis ce billet.</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="read">, lisant.
+</stage>
+<p id="1">
+	<s id="1">« Si l'amour peut faire excuser la folie, au nom du ciel, ma belle demoiselle, accordez-moi... »</s>
+</p>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="read">, lisant.
+</stage>
+<p id="2">
+	<s id="1">« Si l'amour peut faire excuser la folie, au nom du ciel, ma chère demoiselle... »</s>
+</p>
+</sp>
+<sp stage="together" who="TOUTES DEUX"><speaker>TOUTES DEUX À LA FOIS.</speaker>
+	<l id="486" syll="6" part="i">Grand Dieu ! Le même nom !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="486" syll="6" part="f">Ma chère, l'on nous joue !</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="487" syll="3" part="i">Quelle horreur !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="487" syll="3" part="m">J'en mourrai.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="487" syll="6" part="f">Faut-il être effronté !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="488">Flora me paiera cher pour l'avoir apporté !</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="489">Ce beau collier sans doute était sa récompense.</l>
+	<l id="490" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="490" syll="2" part="m">Hélas !</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="490" syll="8" part="f">Ma chère, à présent que j'y pense,</l>
+	<l id="491">C'est lui qui t'a suivie, hier, au parc anglais.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="492" syll="6" part="i">C'était lui qui chantait.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="492" syll="3" part="m">Tu le sais ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="492" syll="3" part="f">J'écoutais.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="493" syll="6" part="i">Je le trouvais si beau !</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="493" syll="6" part="f">Je l'avais cru si tendre !</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="494">Nous lui dirons son fait, ma chère, il faut l'attendre.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="495" syll="6" part="i">Je veux bien ; restons là.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="495" syll="6" part="f">Comment crois-tu qu'il soit ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="496">Brun, avec de grands yeux. Il n'a pas ce qu'il croit ;</l>
+	<l id="497">Nous allons nous venger de la belle manière.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="498">Brun, mais pâle. Je crois que c'est un mousquetaire.</l>
+	<l id="499">Nous allons joliment lui faire la leçon.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="500">Bien tourné, la main blanche et de bonne façon.</l>
+	<l id="501">C'est un monstre, ma chère, un être abominable !</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="502">Les dents belles, l'oeil vif. - Un monstre véritable.</l>
+	<l id="503">Quant à moi, je voudrais déjà qu'il fût ici.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="504">Et le parler si doux ! - Je le voudrais aussi.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="505" syll="6" part="i">Pour lui dire en deux mots...</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="505" syll="6" part="f">Pour lui pouvoir apprendre...</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="506">Et l'air si langoureux qu'on pourrait s'y méprendre !...</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="507">Ah ! Mon_Dieu, quelqu'un vient ; j'ai cru que c'était lui.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="508">C'est lui, c'est lui, ma chère.</l>
+	<l id="509">Silvio entre, le visage couvert de son manteau et l'épée à la main.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="hesitate">, voyant qu'il hésite.
+	</stage>
+	<l id="510" syll="6" part="i">Entrez donc par ici !</l>
+<stage type="entrance">Irus entre, l'épée à la main, d'un côté ; le duc Laërte de l'autre.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="510" syll="6" part="f">Holà ! Quel est ce bruit !</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="511">Holà ! Quel est cet homme ?</l>
+<stage type="fight">Laërte et Silvio croisent l'épée.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS</speaker><stage type="interrupt">, s'interposant.
+	</stage>
+	<l id="512">Monsieur, demandez-lui s'il est bon gentilhomme.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE</speaker><stage type="fight">, donnant dans l'obscurité un coup de plat d'épée à Irus.
+	</stage>
+	<l id="513" syll="6" part="i">Non, non, c'est un voleur !</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS</speaker><stage type="fall">, tombant.
+	</stage>
+	<l id="513" syll="6" part="f">Aïe ! Aïe ! Il m'a tué.</l>
+<stage type="throw/location">Flora jette par la fenêtre un seau d'eau sur la tête d'Irus.</stage>
+	<l id="514">Au secours ! On m'inonde. Ah ! Je suis tout mouillé !</l>
+<stage type="exit">Laërte et Silvio se retirent.</stage>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="515" syll="6" part="i">Qu'est devenu Silvio ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="515" syll="6" part="f">Je ne vois pas mon père.</l>
+<stage type="">Elles cherchent et rencontrent Irus.</stage>
+</sp>
+<sp stage="together" who="TOUTES DEUX"><speaker>TOUTES LES DEUX.</speaker>
+	<l id="516">À l'assassin ! Au meurtre ! Un homme est là par terre.</l>
+<stage type="exit/hurry">Elles se sauvent.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS</speaker><stage type="alone/lie">, seul, couché.
+	</stage>
+	<l id="517">Oui, oui, n'attendez pas que j'aille me lever ;</l>
+	<l id="518">Si je disais un mot, ils viendraient m'achever.</l>
+<stage type="entrance">Flora entré dans l'obscurité ; elle rencontre Irus, qu'elle prend pour Silvio.</stage>
+</sp>
+<sp who="FLORA"><speaker>FLORA.</speaker>
+	<l id="519" syll="8" part="i">Êtes-vous là, seigneur Silvio ?</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="519" syll="4" part="f">Laissons-la croire.</l>
+	<l id="520" syll="6" part="i">C'est moi ! Je suis Silvio.</l>
+</sp>
+<sp who="FLORA"><speaker>FLORA</speaker><stage type="recognize">, reconnaissant Irus.
+	</stage>
+	<l id="520" syll="6" part="f">Vous avez donc reçu</l>
+	<l id="521">Quelque coup de rapière ? Entrez dans cette armoire,</l>
+<stage type="push/location">Elle le pousse dans une fenêtre ouverte.</stage>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="location">, rencontrant Silvio au fond du balcon.
+	</stage>
+	<l id="522">Entrez dans cette chambre, ou vous êtes perdu.</l>
+<stage type="close">Elle l'enferme dans sa chambre.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Irus sortant d'une armoire ; Silvio, d'un cabinet.
+</stage>
+<stage type="decor/light">Une chambre. - Le point du jour.</stage>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="523" syll="6" part="i">Je n'entends plus de bruit.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="523" syll="6" part="f">Je ne vois plus personne.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="524">Par la mort-Dieu ! Monsieur, que faites-vous ici ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="525">C'est une question qui m'appartient aussi.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="526">Ah ! Tant que vous voudrez, mais la mienne est la bonne.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="527">Je vous la laisse donc, en n'y répondant pas.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="528">Eh bien ! Moi, j'y réponds. - Si j'y suis, c'est ma place.</l>
+	<l id="529">Ce n'est pas par-dessus le mur de la terrasse</l>
+	<l id="530">Que j'y suis arrivé, comme un larron d'honneur.</l>
+	<l id="531">J'y suis venu, cordieu ! Comme un homme de coeur.</l>
+	<l id="532" syll="6" part="i">Je ne m'en cache pas.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="532" syll="6" part="f">Vous sortez d'une armoire.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="533">S'il faut vous le prouver pour vous y faire croire,</l>
+	<l id="534">Je suis votre homme au moins, mon petit hobereau.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="535">Je ne suis pas le vôtre, et vous criez trop haut.</l>
+<stage type="exit">Il veut s'en aller.</stage>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="536">Par le sang ! Par la mort ! Mon petit gentilhomme,</l>
+	<l id="537">Il faut donc vous apprendre à respecter les gens ?</l>
+	<l id="538">Voilà votre façon de relever les gants !</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="539">Écoutez-moi, Monsieur, votre scène m'assomme.</l>
+	<l id="540">Je ne sais ni pourquoi, ni de quoi vous criez.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="541">C'est qu'il ne fait pas bon me marcher sur les pieds.</l>
+	<l id="542">Vive-Dieu ! Savez-vous que je n'en crains pas quatre ?</l>
+	<l id="543">Palsambleu ! Ventrebleu ! Je vous avalerais.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="544">Tenez, mon cher Monsieur, allons plutôt nous battre.</l>
+	<l id="545">Si vous continuiez, je vous souffletterais.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="546">Mort-Dieu ! Ne croyez pas, au moins, que je balance.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE</speaker><stage type="location">, dans la coulisse.
+	</stage>
+	<l id="547" syll="6" part="i">Ninette ! Holà, Ninon !</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="547" syll="6" part="f">C'est le père. - Silence.</l>
+	<l id="548">Esquivons-nous, Monsieur, nous nous retrouverons.</l>
+<stage type="exit">Il rentre dans son armoire, et Silvio dans le cabinet.</stage>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="549" syll="4" part="i">Ninon ! Ninon !</l>
+</sp>
+<sp who="NINON"><speaker>NINON</speaker><stage type="entrance">, entrant.
+	</stage>
+	<l id="549" syll="8" part="f">Mon père, après l'histoire affreuse</l>
+	<l id="550">Qui s'est passée ici, j'attends tous vos pardons.</l>
+	<l id="551">Je n'aime plus Silvio. - Je vivrai malheureuse,</l>
+	<l id="552">Et mon intention est d'épouser Irus.</l>
+<stage type="kneel">Elle se jette à genoux.</stage>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="553">Je suis vraiment ravi que vous ne l'aimiez plus.</l>
+	<l id="554">Quel roman lisiez-vous, Ninon, cette semaine ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE</speaker><stage type="entrance/kneel">, entrant et se jetant à genoux de l'autre côté.
+	</stage>
+	<l id="555">Ô mon père ! ô mon maître ! Après l'horrible scène</l>
+	<l id="556">Dont cette nuit nos murs ont été les témoins,</l>
+	<l id="557">À supporter mon sort je mettrai tous mes soins.</l>
+	<l id="558">Je hais mon séducteur, et je me hais moi-même.</l>
+	<l id="559">Si vous y consentez, Irus peut m'épouser.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="560">Je n'ai, mes chers enfants, rien à vous refuser.</l>
+	<l id="561">Vous m'avez offensé. - Cependant je vous aime,</l>
+	<l id="562">Et je ne prétends pas m'opposer à vos voeux.</l>
+	<l id="563">Enfermez-vous chez vous. - Ce soir, à la veillée,</l>
+	<l id="564">Vous trouverez en bas la famille assemblée.</l>
+	<l id="565">Comme vous ne pouvez l'épouser toutes deux,</l>
+	<l id="566">Irus fera son choix. Tâchons donc d'être belles ;</l>
+	<l id="567">Il n'est point ici-bas de douleurs éternelles.</l>
+	<l id="568" syll="6" part="i">Allez, retirez-vous.</l>
+<stage type="exit/together">Il sort. Ninon et Ninette le suivent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage type="open"> Irus, ouvrant l'armoire ; Silvio.
+</stage>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="568" syll="6" part="f">Vous avez entendu ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="569">À merveille, Monsieur, et je suis confondu.</l>
+	<l id="570" syll="6" part="i">Laquelle prendrez-vous ?</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="570" syll="6" part="f">Je ne rends point de compte.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="571">Vous daignerez me dire, au moins, Monsieur le Comte,</l>
+	<l id="572">Laquelle des deux soeurs il me reste à fléchir.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="573">Je n'en sais rien, Monsieur, laissez-moi réfléchir.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="574">Ninette vous plaisait davantage, il me semble.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="575">Vous l'avez dit. Je crois que je la préférais.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="576">Fort bien. Maintenant donc allons nous battre ensemble.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="577">Je vous ai dit, Monsieur, que je réfléchirais.</l>
+<stage type="exit">Ils sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<stage type="decor">Le jardin.</stage>
+<sp who="LAËRTE"><speaker>LAËRTE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="578">Mon_Dieu ! Tu m'as béni. - Tu m'as donné deux filles.</l>
+	<l id="579">Autour de mon trésor je n'ai jamais veillé.</l>
+	<l id="580">Tu me l'avais donné, - je te l'ai confié.</l>
+	<l id="581">Je ne suis point venu sur les barreaux des grilles</l>
+	<l id="582">Briser les ailes d'or de leur virginité.</l>
+	<l id="583">J'ai laissé dans leur sein fleurir ta volonté.</l>
+	<l id="584">La vigilance humaine est une triste affaire.</l>
+	<l id="585">C'est la tienne, ô mon_Dieu ! Qui n'a jamais dormi.</l>
+	<l id="586">Mes enfants sont à toi ; je leur savais un père,</l>
+	<l id="587">J'ai voulu seulement leur donner un ami ; - </l>
+	<l id="588">Tu les as vu grandir, - tu les as faites belles.</l>
+	<l id="589">De leurs bras enfantins, comme deux soeurs fidèles,</l>
+	<l id="590">Elles ont entouré leur frère à cheveux blancs.</l>
+	<l id="591">Aux forces du vieillard leur sève s'est unie ;</l>
+	<l id="592">Ces deux fardeaux si doux suspendus à sa vie</l>
+	<l id="593">Le font vers son tombeau marcher à pas plus lents.</l>
+	<l id="594">La nature aujourd'hui leur ouvre son mystère.</l>
+	<l id="595">Ces beaux fruits en tombant vont perdre la poussière</l>
+	<l id="596">Qui dorait au soleil leur contour velouté.</l>
+	<l id="597">L'amour va déflorer leurs tiges chancelantes.</l>
+	<l id="598">Je te livre, ô mon_Dieu ! Ces deux herbes tremblantes.</l>
+	<l id="599">Donne-leur le bonheur, si je l'ai mérité.</l>
+<stage type="fight">On entend deux coups de pistolet.</stage>
+	<l id="600">Qui se bat par ici ? Quel est donc ce tapage ?</l>
+<stage id="entrance/costume">Irus entre, la tête enveloppée de son mouchoir, Spadille portant son chapeau et Quinola sa perruque.</stage>
+	<l id="601">Que diantre faites-vous dans ce sot équipage,</l>
+	<l id="602" syll="3" part="i">Mon neveu ?</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="602" syll="9" part="f">Je suis mort. Il vient de me viser.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="603">Il était bien matin, Irus, pour vous griser.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="604">Regardez mon chapeau, vous y verrez sa balle.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="605">Alors votre chapeau se meurt, mais non pas vous.</l>
+<stage type="entrance">Entrent Ninon et Ninette, toutes deux vêtues en religieuses.</stage>
+	<l id="606">Que nous veut à présent cet habit de vestale ?</l>
+	<l id="607">Sommes-nous par hasard à l'hôpital des fous ?</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="608">Mon père, permettez à deux infortunées</l>
+	<l id="609">D'aller finir leurs jours dans le fond d'un couvent.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="610">Ah ! Voilà ce matin par où souffle le vent ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="611">Mon père et mon seigneur, vos filles sont damnées.</l>
+	<l id="612">Elles n'auront jamais que leur Dieu pour époux.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="613">Voyez, mon cher Irus, jusqu'où va votre empire,</l>
+	<l id="614">On prend toujours le mal pour éviter le pire.</l>
+	<l id="615">Mes filles aiment mieux épouser Dieu que vous.</l>
+	<l id="616">Levez-vous, mes enfants ; - je suis ravi, du reste,</l>
+	<l id="617">De voir que vous aimez Silvio toutes les deux.</l>
+	<l id="618">Rentrez chez moi. - Ce jour doit être un jour heureux,</l>
+	<l id="619">Et vous, mon cher garçon, allez changer de veste.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="620">Ai-je du sang sur moi ? Mon oreille me cuit.</l>
+</sp>
+<sp who="SPADILLE"><speaker>SPADILLE.</speaker>
+	<l id="621" syll="3" part="i">Oui, Monsieur.</l>
+</sp>
+<sp who="QUINOLA"><speaker>QUINOLA.</speaker>
+	<l id="621" syll="3" part="m">Non, Monsieur.</l>
+</sp>
+<sp who="IRUS"><speaker>IRUS.</speaker>
+	<l id="621" syll="6" part="f">Je me suis bien conduit.</l>
+<stage type="exit">Exeunt.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage type="sit/location"> Ninon, Silvio, sur un banc.
+</stage>
+<stage type="location">La terrasse.</stage>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="622">Écoutez-moi, Ninon, je ne suis point coupable.</l>
+	<l id="623">Oubliez un roman où rien n'est véritable</l>
+	<l id="624">Que l'amour de mon coeur, dont je me sens pâmer.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="625">Taisez-vous ; - j'ai promis de ne pas vous aimer.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="626">Flora seule a tout fait par une maladresse,</l>
+	<l id="627">Les billets d'hier soir portaient la même adresse,</l>
+	<l id="628">C'est en les envoyant que je me suis trompé ;</l>
+	<l id="629">Le nom de votre soeur sous ma plume est tombé.</l>
+	<l id="630">Le vôtre de si près, comme vous, lui ressemble.</l>
+	<l id="631">La main n'est pas bien sûre, hélas ! Quand le coeur tremble</l>
+	<l id="632">Et je tremblais ; - je suis un enfant comme vous.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="633">De quoi pouvaient servir ces deux lettres pareilles ?</l>
+	<l id="634">Je vous écouterais de toutes mes oreilles,</l>
+	<l id="635">Si vous ne mentiez pas avec ces mots si doux.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="636">Je vous aime, Ninon, je vous aime à genoux.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="637">On relit un billet, Monsieur, quand on l'envoie.</l>
+	<l id="638">Quand on le recopie, on jette le brouillon.</l>
+	<l id="639">Ce n'est pas malaisé de bien écrire un nom.</l>
+	<l id="640">Mais comment voulez-vous, Silvio, que je vous croie ?</l>
+	<l id="641" syll="6" part="i">Vous ne répondez rien.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="641" syll="6" part="f">Je vous aime, Ninon.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="642">Lorsqu'on n'est pas coupable on sait bien se défendre.</l>
+	<l id="643">Quand vous chantiez hier de cette voix si tendre,</l>
+	<l id="644">Vous saviez bien mon nom, je l'ai bien entendu.</l>
+	<l id="645">Et ce baiser du parc que ma soeur a reçu,</l>
+	<l id="646">Aviez-vous oublié d'y mettre aussi l'adresse ?</l>
+	<l id="647">Regardez donc, Monsieur, quelle scélératesse !</l>
+	<l id="648">Chanter sous mon balcon en embrassant ma soeur !</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="649">Je vous aime, Ninon, comme voilà mon coeur.</l>
+	<l id="650">Vos yeux sont de cristal, - vos lèvres sont vermeilles</l>
+	<l id="651">Comme ce ciel de pourpre autour de l'occident.</l>
+	<l id="652">Je vous trompais hier, vous m'aimiez cependant.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="653">Que voulez-vous qu'on dise à des raisons pareilles ?</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="654">Votre taille flexible est comme un palmier vert ;</l>
+	<l id="655">Vos cheveux sont légers comme la cendre fine</l>
+	<l id="656">Qui voltige au soleil autour d'un feu d'hiver.</l>
+<note type="L">Balsamine : Plante cultivée dans les jardins. [L]</note>
+	<l id="657">Ils frémissent au vent comme la balsamine ;</l>
+	<l id="658">Sur votre front d'ivoire ils courent en glissant,</l>
+	<l id="659">Comme une huile craintive au bord d'un lac d'argent.</l>
+	<l id="660">Vos yeux sont transparents comme l'ambre fluide</l>
+	<l id="661">Au bord du Niémen ; - leur regard est limpide</l>
+	<l id="662">Comme une goutte d'eau sur la grenade en fleurs.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="663">Les vôtres, mon ami, sont inondés de pleurs.</l>
+</sp>
+<sp who="SILVIO"><speaker>SILVIO.</speaker>
+	<l id="664">Le son de votre voix est comme un bon génie</l>
+	<l id="665">Qui porte dans ses mains un vase plein de miel.</l>
+	<l id="666">Toute votre nature est comme une harmonie ;</l>
+	<l id="667">Le bonheur vient de vous, comme il vous vient du ciel.</l>
+	<l id="668">Laissez-moi seulement baiser votre chaussure ;</l>
+	<l id="669">Laissez-moi me repaître et m'ouvrir ma blessure.</l>
+	<l id="670">Ne vous détournez pas ; laissez-moi vos beaux yeux.</l>
+	<l id="671">N'épousez pas Irus, je serai bien heureux.</l>
+	<l id="672">Laissez-moi rester là près de vous, en silence,</l>
+	<l id="673">La main dans votre main passer mon existence</l>
+	<l id="674">À sentir jour par jour mon coeur se consumer...</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="675">Taisez-vous ; - j'ai promis de ne pas vous aimer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage type="costume/location"> Le Duc Laërte, assis sur une estrade ; irus, à sa droite, en habit cramoisi et l'épée à la main ; Silvio, à sa gauche ; Spadille, Quinola, debout.
+</stage>
+<stage type="decor">Un salon.</stage>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="676">Me voici sur mon trône assis comme un grand juge.</l>
+	<l id="677">L'innocence à mes pieds peut chercher un refuge.</l>
+	<l id="678">Irus est le bourreau, Silvio le confesseur.</l>
+	<l id="679">Nous sommes justiciers de l'honneur des familles.</l>
+	<l id="680">Chambellan Quinola, faites venir mes filles.</l>
+	<l id="681">Ninon et Ninette entrent, habillées en bergères.</l>
+</sp>
+<sp who="NINON"><speaker>NINON.</speaker>
+	<l id="682">C'est en mon nom, grand duc, comme au nom de ma soeur,</l>
+	<l id="683">Que je viens déclarer à Votre Seigneurie</l>
+	<l id="684">L'immuable dessein que nous avons formé.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="685">Voilà l'habit_claustral galamment transformé.</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="686">Nous vivrons loin du monde, au fond d'une prairie,</l>
+	<l id="687">À garder nos moutons sur le bord des ruisseaux.</l>
+	<l id="688">Nous filerons la laine ainsi que vos vassaux.</l>
+	<l id="689">Nous renonçons au monde, au bien de notre mère.</l>
+	<l id="690">Il nous suffit, seigneur, qu'une juste colère</l>
+	<l id="691">Vous ait donné le droit d'oublier vos enfants.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="692">Vous viendrez, n'est-ce pas, dîner de temps en temps ?</l>
+</sp>
+<sp who="NINETTE"><speaker>NINETTE.</speaker>
+	<l id="693">Nous vous demanderons un éternel silence.</l>
+	<l id="694">Si notre séducteur vous brave et vous offense,</l>
+	<l id="695">Notre avis, monseigneur, est d'en écrire au roi.</l>
+</sp>
+<sp who="LAËRTE"><speaker>LAËRTE.</speaker>
+	<l id="696">Le roi, si j'écrivais, me répondrait, je crois,</l>
+	<l id="697">Que nous sommes bien loin, et qu'il est en affaire.</l>
+	<l id="698">Tout ce que je puis donc, c'est d'en écrire au maire,</l>
+	<l id="699">Et c'est ce que j'ai fait, car il soupe avec nous.</l>
+<stage type="entrance">Il entre un maire et un notaire.</stage>
+<stage type="towrd">À Ninon.</stage>
+	<l id="700">Allons, mon Angélique, embrassez votre époux.</l>
+<stage type="toward">À Ninette.</stage>
+	<l id="701">Il ne s'en ira point, ne pleurez pas, Ninette.</l>
+	<l id="702">Embrassez votre frère, il est aussi le mien.</l>
+<stage type="toward">À Irus.</stage>
+	<l id="703">Et vous, mon cher Irus, ne baissez point la tête ;</l>
+	<l id="704">Soyez heureux aussi ; - votre habit vous va bien.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

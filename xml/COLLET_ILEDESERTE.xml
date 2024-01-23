@@ -1,0 +1,1170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'ÎLE DÉSERTE, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0004 7534 3948">Jean Baptiste COLLET (17..-1787)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, décembre 2022.</editor>
+				<publisher>publié par Paul FIEVRE, février 2023.</publisher>
+				<idno>COLLETDEMESSINE_ILEDESERTE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>vers</type>
+				<periode>1751-1760</periode>
+				<taille>500-750</taille>
+				<permalien cote="BnF LLA YF-7374">https://gallica.bnf.fr/ark :/12148/bpt6k5660741f</permalien>
+				<keywords>
+					<keyword type="theme">isolement</keyword>
+					<keyword type="lieu">île déserte</keyword>
+				</keywords>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'ÎLE DÉSERTE</titlePart>
+			<titlePart type="sub">COMÉDIE EN UN ACTE ET EN VERS.</titlePart>
+			<titlePart type="sub">Représentée pour la première fois par les Comédiens Français ordinaires du Roi, le 23 AoÛt 1758.</titlePart>
+			<titlePart type="sub">Le prix est de 24 sols avec la musique.</titlePart>
+		</docTitle> 
+		<docDate value="1758">M. DCC LVIII. Avec Approbation et Privilège du Roi.</docDate>
+		<docAuthor id="COLLET, Jean Baptiste">PAR MR. C ****</docAuthor>
+		<docImprint>
+			<approbation id="1758-08-19"><head>APPROBATION.</head>
+				<p>J'ai lu par ordre de Monseigneur le Chancelier, L'île Déserte, Comédie, et je crois que l'on peut en permettre la représentation et l'impression. A Paris, ce 19 AoÛt 1758.</p>
+				<p>CRÉBILLON.</p>
+			</approbation>
+			<editor id="DUCHESNE">À PARIS, Chez N. B. DUCHESNE, Libraire, rue S. Jacques ; au-dessous de la Fontaine S. Benoît, au Temple du GoÛt.</editor>
+		</docImprint>
+		<div type="avertissement"><head>AVERTISSEMENT.</head>
+			<p>Avant que cette Comédie parut sur la scène, j'avais eu soin de publier que j'en avais pris le sujet dans les Opéra du célèbre Metastasio : comme la Traduction des Ouvrages de ce grand poète est entre les mains de tout le monde, je n'entre point ici dans le détail des changements que j'ai été obligé de faire à l'Original, pour l'accommoder à notre Théâtre, et dont je ne puis que me savoir bon gré, puisque les applaudissements du Public ont justifié la liberté que j'ai prise.</p>
+		</div>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="FERDINAND" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">FERDINAND</role>.</castItem>
+			<castItem><role id="TIMANTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="">TIMANTE</role>.</castItem>
+			<castItem><role id="UN MATELOT" sex="1" type="H" statut="matelot" age="A" stat_amour="">UN MATELOT</role>.</castItem>
+			<castItem><role id="CONSTANCE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">CONSTANCE</role>.</castItem>
+			<castItem><role id="SILVIE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="">SILVIE</role>.</castItem>
+			<castItem><role id="TROUPE DE MATELOTS" sex="1" type="H" statut="matelot" age="A" stat_amour="">TROUPE DE MATELOTS</role>.</castItem>
+		</castList>
+	<set location="île déserte" country="(Pays indéterminé)" periode="XVIIIème" gps="">La scène est dans un lieu sauvage sur les bords de la mer.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>L'ÎLE DÉSERTE</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<note type="L">Cette inscription est gravée sur l'estampe.</note>
+<stage type="decor">Le Théâtre représente une île déserte ; on voit la mer dans le fond. Du côté droit est un rocher sur lequel on lit une Inscription. Constance y paraît, tenant un morceau de fer à la main.</stage>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="1">Que ne surmonte pas un travail assidu,</l>
+	<l id="2">Lorsque par le plaisir il n'est point suspendu ?</l>
+	<l id="3">Sans secours que ce fer et mon faible courage,</l>
+	<l id="4">Je vois presque la fin de ce pénible ouvrage,</l>
+	<l id="5">Puisse-je l'achever ! Et qu'après, justes Dieux,</l>
+	<l id="6">Vous tranchiez de mes jours les restes malheureux !</l>
+<stage type="read">Elle s'approche du rocher et lit l'Inscription.</stage>
+	<l id="7">« Du traître Ferdinand Constance abandonnée ;</l>
+	<l id="8">Finit ici sa vie et ses malheurs.</l>
+	<l id="9">Ô toi, qui de son sort apprendras les horreurs,</l>
+	<l id="10">Venge-la d'un perfide, ou plains... sa destinée. »</l>
+	<l id="11">Qu'il en coûte à l'amour, d'avoir à publier</l>
+	<l id="12">Les crimes d'un ingrat qu'on ne peut oublier !</l>
+<stage type="work">Elle travaille un moment.</stage>
+	<l id="13">Pour suivre mon époux j'abandonne l'Espagne ;</l>
+	<l id="14">En vain la Mer mugit, et la mort m'accompagne ;</l>
+	<l id="15">Tranquille sur mon sort, c'est lui seul que je vois,</l>
+	<l id="16">Ah ! Barbare ! Et voilà le prix que j'en reçois !</l>
+	<l id="17">Si jamais les remords dans cette île sauvage</l>
+	<l id="18">Ramenaient l'inhumain à qui l'hymen m'engage,</l>
+	<l id="19">Pour lui faire juger de l'excès de mes maux,</l>
+	<l id="20">Ô toi qui détruis tout, Temps, respecte ces mots.</l>
+<stage type="show">Montrant l'Inscription.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Constance, Silvie.
+</stage>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="hurry/happy">, accourant et gaiement.
+	</stage>
+	<l id="21" syll="6" part="i">Ah ! Constance ! Ah ! Ma soeur !</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="21" syll="6" part="f">D'où peu naître, Silvie,</l>
+	<l id="22">Ce plaisir imprévu dont ton âme est saisie ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="23" syll="6" part="i">Mon coeur est transporté !</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="23" syll="6" part="f">Peut-on savoir de quoi ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="24">Ce que j'aime le plus en ce monde, après toi,</l>
+	<l id="25">Ma petite épagneule est enfin revenue ;</l>
+	<l id="26">Depuis deux jours entiers je la croyais perdue.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="27">Eh ! C'est-là le sujet de ce parfait bonheur ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="28">Crois-tu qu'il en puisse être un plus grand pour mon coeur ?</l>
+	<l id="29">Zirphile est, tu le sais, ma compagne fidèle,</l>
+	<l id="30">L'objet de tous mes soins ; sitôt que je l'appelle,</l>
+	<l id="31">Mille tendres baisers me prouvent son amour ;</l>
+	<l id="32">À mes côtés elle est et la nuit et le jour ;</l>
+	<l id="33">Elle m'aime, m'entend, et sur mon sein repose ;</l>
+	<l id="34">Et de la retrouver te semble peu de chose ?</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="35" syll="6" part="i">Quelle heureuse innocence ! </l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="35" syll="6" part="f">Hélas ! Ma chère soeur,</l>
+	<l id="36">Te verrai-je sans cesse en proie à ta douleur ?</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="37">Rien ne peut de mes maux adoucir l'amertume,</l>
+	<l id="38">Toujours en vains soupirs mon âme se consume,</l>
+	<l id="39">Le printemps s'est déjà renouvelé dix fois</l>
+	<l id="40">Depuis qu'abandonnée en ce funeste bois</l>
+	<l id="41">Sans espoir de jamais recouvrer ma patrie,</l>
+	<l id="42">Je traîne dans les pleurs une mourante vie.</l>
+	<l id="43">Sans la tendre amitié qui m'attache à ton sort</l>
+	<l id="44">Ma soeur, le désespoir aurait hâté ma mort.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="45">Je ne puis concevoir le sujet de tes peines.</l>
+	<l id="46">Quel bien nous manque-t-il ? Ici nous sommes Reines.</l>
+	<l id="47">Les hôtes de ces bois sont nos heureux sujets,</l>
+	<l id="48">Et la terre et la mer nous comblent de bienfaits.</l>
+	<l id="49">L'Été sous cet ombrage, et l'Hiver sous ces roches,</l>
+	<l id="50">Du chaud comme du froid nous bravons les approches.</l>
+	<l id="51">À ce que nous voulons, la force ni les lois</l>
+	<l id="52">Ne s'opposent jamais ; nous ignorons leurs droits.</l>
+	<l id="53">Ainsi de tout cela si tu n'es pas contente,</l>
+	<l id="54">Il sera mal aisé de remplir ton attente.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="55">Que d'un bien qu'on ignore on se passe aisément !</l>
+	<l id="56">Mais quand on l'a goÛté, le perdre est un tourment.</l>
+	<l id="57">Lorsqu'on m'abandonna sur cet affreux rivage,</l>
+	<l id="58">De la raison encor tu n'avais pas l'usage,</l>
+	<l id="59">Et tu n'avais rien vu de plus délicieux</l>
+	<l id="60">Que ces tristes objets qui s'offrent à nos yeux.</l>
+	<l id="61">Mais pour moi plus instruite, ah ! quelle différence</l>
+	<l id="62">De ce désert horrible aux lieux de ma naissance.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="63">De ce pays pour qui tu répands tant de pleurs,</l>
+	<l id="64">Souvent tu m'as vanté la richesse et les moeurs ;</l>
+	<l id="65">Mais quand même il serait encor plus admirable,</l>
+	<l id="66">La paix qui règne ici me paraît préférable.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="67">Que difficilement on juge d'un bonheur</l>
+	<l id="68">Qui parle à notre esprit sans toucher notre coeur !</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="69">Mais cet endroit charmant que sans cesse tu nommes,</l>
+	<l id="70">N'est-il pas ce séjour habité par les hommes ?</l>
+	<l id="71">Et ce sont, m'as-tu dit, plus de cent et cent fois,</l>
+	<l id="72">Des monstres plus cruels que les loups de ces bois.</l>
+	<l id="73" syll="2" part="i">Comment...</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="73" syll="10" part="f">Oui, je l'ai dit. Eh ! Que ne puis-je encore</l>
+	<l id="74">Ajouter au tableau d'un sexe que j'abhorre !</l>
+	<l id="75">Oui, les hommes sont tous traîtres, cruels, trompeurs,</l>
+	<l id="76">Se riant de nos maux, se baignant dans nos pleurs ;</l>
+	<l id="77">Ne respectant la foi, l'amour, ni la nature,</l>
+	<l id="78">Et se faisant un jeu du crime et du parjure ;</l>
+	<l id="79">Malgré tous leurs défauts, d'autant plus dangereux,</l>
+	<l id="80">Qu'au fond de notre coeur tout nous parle pour eux ;</l>
+	<l id="81">Grâces, douceur, esprit, paraissent leur partage,</l>
+	<l id="82">Et la seule imposture est tout leur apanage.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="83">Si l'homme est si méchant ; contre sa cruauté,</l>
+	<l id="84">Cet asile du moins nous met en sûreté ;</l>
+	<l id="85">Ici, l'on n'en voit pas. Mais, ma chère Constance,</l>
+	<l id="86">Tes yeux versent encore des pleurs en abondance.</l>
+	<l id="87">Que puis-je faire, ô Ciel ! Pour calmer ton tourment ?</l>
+	<l id="88">Si Zirphile te plaît, je t'en fais un présent.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="89">Il est trop juste, hélas ! Ô ma chère Silvie,</l>
+	<l id="90">Que je passe à pleurer le reste de ma vie.</l>
+	<l id="91">Des mortels séparée et loin de mon époux,</l>
+	<l id="92">Les larmes sont pour moi le plaisir le plus doux.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="93">Tu pleures un époux dont tu veux qu'on te venge ;</l>
+	<l id="94">La contradiction me paraît bien étrange.</l>
+	<l id="95">Qu'est-ce donc qu'un époux, pour le tant regretter,</l>
+	<l id="96">Quand ingrat et perfide on doit le détester ?</l>
+	<l id="97">Tu ne me dis pas tout, ma soeur, mais je devine ;</l>
+	<l id="98">Quelque rose toujours accompagne l'épine.</l>
+	<l id="99">Tiens, j'ai jusqu'à ce jour respecté ta douleur ;</l>
+	<l id="100">Mais il faut à la fin que je t'ouvre mon coeur.</l>
+	<l id="101">Je réfléchis souvent, et ce matin encore</l>
+	<l id="102">En voyant mille oiseaux au lever de l'aurore,</l>
+	<l id="103" syll="3" part="i">Je pensais...</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="103" syll="9" part="f">Ces oiseaux qu'anime le Printemps,</l>
+	<l id="104">Auront avant l'été pleuré mille inconstants.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage>, seule.
+	</stage>
+	<l id="105">C'est trop s'abandonner à sa douleur amère ;</l>
+	<l id="106">J'ai beau gronder, prier, rien ne peut la distraire.</l>
+	<l id="107">Mais ce qui tous les jours étonne mon esprit,</l>
+	<l id="108">C'est qu'au lieu d'adoucir le chagrin qui l'aigrit,</l>
+	<l id="109">Par la part que je prends à sa tristesse extrême,</l>
+	<l id="110">Il augmente sans cesse, et je pleure moi-même.</l>
+<stage type="decor">Un Vaisseau paraît sur la mer.</stage>
+	<l id="111">Suivons au moins ses pas. Qu'aperçois-je, grands Dieux !</l>
+	<l id="112">Jamais la Mer n'offrit rien de tel à mes yeux !</l>
+	<l id="113">Ce n'est pas un rocher, car il change de place.</l>
+	<l id="114">De la route qu'il tient on ne voit nulle trace ;</l>
+	<l id="115">Quoique sa marche impose, il paraît chancelant. . . .</l>
+	<l id="116">Faisons voir à ma soeur ce prodige étonnant.</l>
+	<l id="117">Allons... Mais juste ciel ! Qu'est-ce que j'envisage ?</l>
+	<l id="118">Où fuir ? Où me cacher ? On vient sur ce rivage.</l>
+<stage type="hide/location">Elle se cache derrière un arbre, et sort de sa place par curiosité, toutes les fois qu'elle croit n'être pas vue.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Silvie, Ferdinand, Timante.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="119">À la fin, cher ami, serions-nous en ces lieux</l>
+	<l id="120">Que depuis si longtemps tu demandes aux Dieux ?</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="121">Oui, je les reconnais ; l'Amour d'un trait de flamme</l>
+	<l id="122">Les avait pour toujours imprimés dans mon âme ;</l>
+	<l id="123">Et les nouveaux transports qui viennent m'agiter</l>
+	<l id="124">Me le confirmeraient si j'en pouvais douter.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="125">Si je pouvais les voir sans en être aperçue.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="126">D'un vain espoir souvent notre âme prévenue...</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="127">Non, cher Timante, non, je ne me trompe pas.</l>
+	<l id="128">Cent fois vers ce Rocher j'ai dirigé mes pas.</l>
+	<l id="129">Voilà, je m'en souviens, cette caverne sombre</l>
+	<l id="130">Où désarmé, sans force, et vaincu par le nombre,</l>
+	<l id="131">D'un Pirate inhumain qui désolait ces mers,</l>
+	<l id="132">Je me vis obligé de recevoir des fers.</l>
+	<l id="133">Dans cet instant fatal, loin de ce lieu, Constance</l>
+	<l id="134">Aux douceurs du repos cédait sans méfiance.</l>
+	<l id="135">Seule auprès de Silvie, un perfide sommeil</l>
+	<l id="136">Préparait à son coeur le plus affreux réveil.</l>
+	<l id="137">C'est-là que me livrant à ma trop juste rage,</l>
+	<l id="138">Une large blessure éteignit mon courage ;</l>
+	<l id="139">Ici le fer vengeur dans mes mains se rompit. . .</l>
+	<l id="140">Mais sans perdre le temps à ce triste récit,</l>
+	<l id="141">Allons plutôt chercher une épouse adorable.</l>
+	<l id="142">Différer un moment, c'est se rendre coupable :</l>
+	<l id="143">Va, cours de ce côté, tandis qu'en celui-ci</l>
+	<l id="144">Je verrai si son sort ne peut être éclairci,</l>
+	<l id="145">Et si le Ciel persiste en sa rigueur extrême,</l>
+	<l id="146">J'expirerai du moins, où mourut ce que j'aime.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Silvie, Timante.
+</stage>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="nervous">, à part et d'un air fâché.
+	</stage>
+	<l id="147" syll="6" part="i">Je n'ai pu rien entendre.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage>, sans voir Silvie.
+	</stage>
+	<l id="147" syll="6" part="f">Ah ! Que de Ferdinand</l>
+	<l id="148">Les malheurs font affreux ! Que son sort est touchant !</l>
+	<l id="149">A peine un doux hymen à Constance l'engage,</l>
+	<l id="150">Que forcé d'entreprendre un pénible voyage,</l>
+	<l id="151">Tous deux au gré des flots ils exposent leurs jours.</l>
+	<l id="152">De leur route un orage interrompant le cours,</l>
+	<l id="153">Les jette sur ces bords, où le destin barbare</l>
+	<l id="154">Loin de les secourir pour jamais les sépare.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte/happy">, à part et d'un air satisfait.
+	</stage>
+	<l id="155">À la fin cependant il s'est tourné vers nous.</l>
+	<l id="156">Que sa mine me plaît ! Que son aspect est doux !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="watch">, sans voir Silvie.
+	</stage>
+	<l id="157">L'humanité suffit pour le plaindre sans cesse,</l>
+	<l id="158">En moi c'est le devoir qui pour lui m'intéresse.</l>
+	<l id="159">Ce premier don du Ciel, l'heureuse liberté,</l>
+	<l id="160">Sans qui rien ici bas ne peut être compté,</l>
+	<l id="161">Sans ses soins généreux m'aurait été ravie.</l>
+	<l id="162">Que ne puis-je pour lui sacrifier ma vie !</l>
+	<l id="163">Qui peut faire le bien, se rend égal aux Dieux ;</l>
+	<l id="164">Qui le peut oublier est un monstre odieux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="165">QU'est-CE que j'ai vu là ? Je ne le puis comprendre.</l>
+	<l id="166">Serait-ce un homme ? Non, on ne peut s'y méprendre,</l>
+	<l id="167">Car les hommes sont tous perfides, inhumains,</l>
+	<l id="168">Et comme de raison, à des signes certains</l>
+	<l id="169">On doit les reconnaître, et lire dans leur âme.</l>
+	<l id="170">Mais enfin qu'est-ce donc ? Ce n'est pas une femme,</l>
+	<l id="171">Car ainsi que le mien son habit serait fait ?</l>
+	<l id="172">Qui que ce soit, hélas ! C'est un aimable objet.</l>
+	<l id="173">Allons trouver ma soeur, elle saura me dire. . . .</l>
+	<l id="174">Mais qui retient mes pas ? d'où vient que je soupire ?</l>
+	<l id="175">Le coeur me bat. Ah ! Dieux ! comment interpréter</l>
+	<l id="176">Les divers mouvements qui viennent m'agiter ?</l>
+	<l id="177">Serait-ce à la terreur que mon âme est en proie ?</l>
+	<l id="178">Non, car lorsque l'on craint on n'a pas tant de joie.</l>
+	<l id="179">Je ne me trompe point, à travers de ce bois.</l>
+	<l id="180">Je vois encor quelqu'un : on vient pour cette fois</l>
+	<l id="181">Courons vite à Constance. Oh ! Oui ; quoi qu'elle fasse,</l>
+	<l id="182">Il faut sur tout ceci qu'elle me satisfasse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="FERDINAND"><speaker>FERDINAND</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="183">Ah ! Je n'avais que trop pressenti mes malheurs.</l>
+	<l id="184">Sur moi le sort veut donc épuiser ses rigueurs.</l>
+	<l id="185">En vain je cours, j'appelle, et ne sais point encore</l>
+	<l id="186">Quels lieux sont habités par celle que j'adore.</l>
+	<l id="187">Passerai-je ma vie, hélas ! À la chercher ?</l>
+<stage type="watch">Apercevant l'Inscription.</stage>
+	<l id="188">Mais qu'est-ce que je vois écrit sur ce Rocher ?</l>
+	<l id="189">Ne m'abuse-je point ? Serait-il bien possible ?</l>
+	<l id="190">Le Ciel à mes tourments devenu plus sensible,</l>
+	<l id="191">Voudrait-il par ces mots éclaircir mon destin ?</l>
+	<l id="192">Lisons. Mon nom ! Grands Dieux ! Depuis quand ? Quelle main ?... </l>
+<stage type="read">Il lit.</stage>
+	<l id="193">"Du traître Ferdinand Constance abandonnée,</l>
+	<l id="194">Finit ici sa vie et ses malheurs."</l>
+	<l id="195">Constance ne vit plus, et me croyait parjure !</l>
+	<l id="196">Sort cruel ! De mes maux tu combles la mesure.</l>
+	<l id="197">Constance ne vit plus ! Et sa bouche en mourant,</l>
+	<l id="198">A pu d'un crime affreux accuser Ferdinand !</l>
+	<l id="199">Moi, traître ! Moi perfide ! Elle n'a pu le croire :</l>
+	<l id="200">Non, c'est le seul soupçon d'une action si noire</l>
+	<l id="201">Qui l'a fait succomber à sa vive douleur ;</l>
+	<l id="202">Et Ferdinand survit à cet excès d'horreur !</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Ferdinand, Timante.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="203">Ami, de quelque bien conçois-tu l'espérance !</l>
+	<l id="204">Enfin n'as-tu rien su de ta chère Constance ?</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="205" syll="6" part="i">Constance ne vit plus.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="205" syll="1" part="m">Ciel !</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND</speaker><stage type="show">, montrant l'Inscription.
+	</stage>
+	<l id="205" syll="1" part="m">Lis.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="205" syll="4" part="f">Infortuné !</l>
+<stage type="read">Après avoir lu.</stage>*****
+	<l id="206">Mais l'ouvrage n'est pas tout à fait terminé.</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="207">Une trop prompte mort arrêta son courage.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="208">Séjour rempli d'horreurs ! détestable rivage !</l>
+	<l id="209">Que ne nous cachais-tu ce triste événement !</l>
+	<l id="210">Ami, que ta douleur est juste en ce moment !</l>
+	<l id="211">Pleure, sans redouter que Timante en murmure ;</l>
+	<l id="212">De semblables regrets honorent la nature.</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="213">Si le malheur poursuit les plus tendres époux,</l>
+	<l id="214">Grands Dieux, pour les ingrats, quels maux réservez-vous ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="215">Quand d'un injuste sort nous sommes la victime,</l>
+	<l id="216">Il est si consolant d'avoir vécu sans crime ;</l>
+	<l id="217">Pour nous abattre, il fait d'inutiles efforts,</l>
+	<l id="218">On n'y succombe point lorsqu'on est sans remords.</l>
+	<l id="219">Tel est l'état heureux où se trouve ton âme ;</l>
+	<l id="220">En tout point tu n'as fait que ce qu'envers sa femme</l>
+	<l id="221">Exigent d'un époux l'honneur, la probité.</l>
+	<l id="222">Les Dieux que tu priais ne t'ont point écouté ;</l>
+	<l id="223">Respecte leurs décrets, quoi que le Ciel ordonne,</l>
+	<l id="224">Et quittons un séjour que l'horreur environne.</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="225">Que je quitte ces lieux ! Eh ! Le pourrais-je, hélas !</l>
+	<l id="226">C'est ici que Constance a subi le trépas,</l>
+	<l id="227">Ainsi qu'elle, j'y veux terminer ma misère.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="228">Dans ce désert affreux ! Eh ! Qu'y prétends-tu faire ?</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="229">Ce que j'y prétends faire ? Accroître mon tourment,</l>
+	<l id="230">Et baigner de mes pleurs ce marbre à tout moment,</l>
+	<l id="231" syll="6" part="i">Vivre en mourant sans cesse.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="231" syll="6" part="f">Ah ! Quelle barbarie !</l>
+	<l id="232">Et tes amis ? Ton père ? En un mot ta patrie ?</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="233">Mon père ? En cet état si je m'offrais à lui,</l>
+	<l id="234">J'abrégerais ses jours loin d'en être l'appui.</l>
+	<l id="235">Va le trouver, va, pars ; et s'il a quelque envie</l>
+	<l id="236">De connaître les maux qui tourmentent ma vie,</l>
+	<l id="237">En les lui racontant adoucis en l'horreur.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="238">Eh ! Le pourrai-je, ami ? Ma trop juste douleur...</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="239" syll="6" part="i">Adieu ; Timante, adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage>, seul.
+	</stage>
+	<l id="239" syll="6" part="f">N'irritons pas sa peine,</l>
+	<l id="240">Ce n'est qu'avec le temps qu'un esprit se ramène.</l>
+	<l id="241">Nous devons cet égard à son sort malheureux.</l>
+	<l id="242">Je prévois qu'il faudra l'arracher de ces lieux ;</l>
+	<l id="243">A prendre ce parti son désespoir m'engage.</l>
+	<l id="244">Pour cet effet, parlons aux gens de l'équipage :</l>
+	<l id="245">Mais le hasard ici les conduit justement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Timante, Matelots.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="246">Mes amis, il convient d'enlever Ferdinand :</l>
+	<l id="247">Ne voulant qu'écouter le chagrin qui le tue,</l>
+	<l id="248">Pour rester en ces lieux il fuira notre vue,</l>
+	<l id="249" syll="6" part="i">Il faut s'en assurer.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>UN MATELOT.</speaker>
+	<l id="249" syll="6" part="f">S'en assurer ? Oui-dà ;</l>
+	<l id="250">Mais rien ne me paraît moins aisé que cela ;</l>
+	<l id="251">Où diable voulez-vous que nous allions le prendre ?</l>
+	<l id="252">A l'instant, du Vaisseau nous venons de descendre,</l>
+	<l id="253" syll="6" part="i">Nous ne connaissons point. . . .</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="253" syll="6" part="f">Vous verrez ici près</l>
+	<l id="254">Un ruisseau tout couvert de lugubres cyprès,</l>
+	<l id="255">Qui parmi les rochers précipite son onde,</l>
+	<l id="256">Il ira s'y livrer à sa douleur profonde,</l>
+	<l id="257">Allez vous y cacher, et quand vous le verrez,</l>
+	<l id="258">Pour le conduire à bord vous vous en saisirez.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="259">C'est bien penser vraiment, et pour un si bon maître,</l>
+	<l id="260">Notre zèle en tout point doit se faire connaître ;</l>
+	<l id="261">Mais nous répondez-vous que cette attention</l>
+	<l id="262">Ne peut pas nous valoir quelques coups de bâton ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="263">Ne craignez de sa part aucune réprimande,</l>
+	<l id="264">On ne fait jamais mal quand l'Amitié commande.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Timante, Silvie.
+</stage>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="watch">, sans voir Timante.
+	</stage>
+	<l id="265">Je voudrais que ma soeur sut tout de point en point,</l>
+	<l id="266">Mais partout je la cherche, et ne la trouve point.</l>
+<stage type="aparte">À part.</stage>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="267">Qu'aperçois-je ? Une femme en cette île sauvage ?</l>
+<stage type="toward">À Silvie.</stage>
+	<l id="268" syll="6" part="i">Belle Nymphe, écoutez.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="away">, s'éloignant.
+	</stage>
+	<l id="268" syll="6" part="f">Encor sur ce rivage !...</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="269">Pourquoi vous éloigner ? Arrêtez un moment.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="270" syll="6" part="i">De moi, que prétends-tu ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="270" syll="6" part="f">T'admirer seulement</l>
+	<l id="271" syll="6" part="i">Et parler avec toi.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="271" syll="6" part="f">Jure avant toute chose,</l>
+	<l id="272" syll="6" part="i">De me parler de loin.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="272" syll="6" part="f">À rien je ne m'oppose,</l>
+<stage type="aparte">À part.</stage>
+	<l id="273">Oui, je te le promets. Que son air est charmant !</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="274" syll="" part="i">Qu'il fait plaisir à voir !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="274" syll="6" part="f">Par quel enchantement</l>
+	<l id="275">Dans un lieu qui paraît proscrit par la nature,</l>
+	<l id="276">Voit-on de si beaux yeux, des traits... une figure... ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="277">Il avance toujours ; s'il fait encor un pas,</l>
+	<l id="278">Je me sauve à coup sûr. Au moins n'approche pas.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="279">Qui peut à mes désirs te rendre si contraire ?</l>
+	<l id="280">Me soupçonnerais-tu de vouloir te déplaire ?</l>
+	<l id="281">Rassure-toi, de grâce, et daigne m'écouter.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="toward/closer">, à Timante qui approche toujours.
+	</stage>
+	<l id="282" syll="6" part="i">Et toi, daigne obéir.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage>, avec impatience.
+	</stage>
+	<l id="282" syll="6" part="f">Ah ! C'est trop insister.</l>
+	<l id="283">Au moins si je savais de quoi tu t'épouvantes.</l>
+	<l id="284">Les hommes ne sont pas des bêtes dévorantes.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="frighten">, effrayée.
+	</stage>
+	<l id="285" syll="6" part="i">Quoi ! Tu serais un homme ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="smile">, souriant.
+	</stage>
+	<l id="285" syll="6" part="f">Oui, je passe pour tel.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="escape">, s'enfuyant.
+	</stage>
+	<l id="286" syll="6" part="i">Au secours ! Au secours !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage>, l'arrêtant.
+	</stage>
+	<l id="286" syll="3" part="m">Écoutez.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="kneel">, à genoux.
+	</stage>
+	<l id="286" syll="3" part="f">Juste ciel !</l>
+	<l id="287">De grâce, épargne moi ; jamais, je le déclare,</l>
+	<l id="288">Je ne t'ai fait de mal, serais-tu si barbare...</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="289">Lève toi, je te prie, et calme ta frayeur,</l>
+	<l id="290">Ma chère, elle est injuste et me perce le coeur.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="291">Tout bas le mien me dit qu'en lui je me confie.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="292">Si l'on est obligeante étant aussi jolie,</l>
+	<l id="293" syll="6" part="i">D'un époux malheureux...</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="293" syll="6" part="f">Arrêtez. Seriez-vous</l>
+	<l id="294">Par hasard de ces gens que l'on appelle époux ?</l>
+	<l id="295">S'il est ainsi, partez, retournez au plus vite,</l>
+	<l id="296">Nous détestons ici cette race maudite.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="297">Non, je ne le suis point ; mais l'ami que je sers,</l>
+	<l id="298">Pour rejoindre sa femme a traversé ces mers,</l>
+	<l id="299">Il venait la tirer d'un séjour qu'il abhorre,</l>
+	<l id="300">Hélas ! Elle n'est plus. Ô toi qu'ici j'implore,</l>
+	<l id="301">Sais-tu comment Constance a terminé ses jours,</l>
+	<l id="302">Et depuis quand le sort en a tranché le cours ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="303">Constance, grâce au Ciel, Constance n'est point morte.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="strong">, avec la plus grande vivacité.
+	</stage>
+	<l id="304">Ah ! Ce que tu m'apprends de plaisir me transporte !</l>
+	<l id="305">Tu dois être Silvie... Oui, c'est toi que je vois.</l>
+	<l id="306">Ce lieu, ton âge, tout me l'assure à la fois.</l>
+	<l id="307">Constance n'est point morte ! Ô joie inexprimable !</l>
+	<l id="308">Je vais rendre à la vie un ami misérable.</l>
+	<l id="309">Cours, vole vers ta soeur, tandis qu'à Ferdinand...</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="310">Il est donc avec toi, cet ingrat, ce tyran,</l>
+	<l id="311" syll="3" part="i">Ce monstre... ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="311" syll="9" part="f">Que ces noms ne souillent plus ta bouche,</l>
+	<l id="312">Dans peu, je t'instruirai de tout ce qui le touche ;</l>
+	<l id="313">Il n'est que malheureux et point du tout ingrat ;</l>
+	<l id="314">Mais ne différons pas d'adoucir son état ;</l>
+	<l id="315">Il nous faudrait avoir le coeur le plus barbare,</l>
+	<l id="316">Pour retarder les biens que le Ciel lui prépare.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="317">S'il est ainsi, tous deux partons dès ce moment.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="318">Nous les joindrons plutôt allant séparément.</l>
+	<l id="319">Fais que bientôt ce lieu te revoie avec elle,</l>
+	<l id="320" syll="2" part="i">Et moi...</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="320" syll="10" part="f">Parle, comment est-ce que l'on t'appelle ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="321" syll="3" part="i">Timante.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="321" syll="9" part="f">Ne vas pas t'arrêter trop longtemps.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="322">Éloigné de Silvie, on compte les instants.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="323">Je ne sais, mais tantôt en te perdant de vue,</l>
+	<l id="324">J'ai senti dans mon coeur une peine inconnue,</l>
+	<l id="325">Que je ne ressens plus depuis que je te vois.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="326">Eh ! bien, je veux toujours demeurer avec toi.</l>
+	<l id="327">Mais les moments sont chers, vite vole à Constance.</l>
+	<l id="328">C'est un si grand plaisir de porter l'espérance</l>
+	<l id="329">Dans le coeur d'un mortel accablé de douleur,</l>
+	<l id="330">Qu'on ne saurait trop tôt jouir de ce bonheur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="331">L'Es hommes ne sont pas si méchants, ce me semble ;</l>
+	<l id="332">Si toute leur espèce à Timante ressemble,</l>
+	<l id="333">Ma soeur a vraiment tort d'en dire tant de mal,</l>
+	<l id="334">Je lui sais mauvais gré. Mais c'est original !</l>
+	<l id="335">Je prends contre ma soeur le parti de Timante ;</l>
+	<l id="336">C'est un homme, je dois le haïr, il m'enchante :</l>
+	<l id="337">Il est loin, cependant ici je crois le voir.</l>
+	<l id="338">Oh ! Tout cela n'est pas facile à concevoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Silvie, Un Matelot.
+</stage>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage>, sans voir Silvie.
+	</stage>
+	<l id="339">C'est un mauvais métier que faire sentinelle !</l>
+	<l id="340">Ferdinand ne vient point. Au diable la femelle.</l>
+	<l id="341">Qui va mourir ainsi sans nous en avertir ?</l>
+	<l id="342">Un mot d'avis nous eÛt empêchés de partir.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="343">C'est encore un autre homme, et pourtant à sa vue</l>
+	<l id="344">Mon âme de plaisir ne se sent point émue.</l>
+	<l id="345">Ah ! que sur moi Timante agit différemment !</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage type="watch">, sans voir Silvie.
+	</stage>
+	<l id="346">Notre maître a perdu esprit assurément.</l>
+	<l id="347">Quoi ! venir de si loin dans ce séjour barbare</l>
+	<l id="348">Pour chercher une femme ; est-ce chose si rare ?</l>
+	<l id="349">Parbleu, si d'une femme il était entiché</l>
+	<l id="350">Que ne le disait-il ? J'eusse fait bon marché</l>
+	<l id="351">De celle qui jadis acquit devant Notaire</l>
+	<l id="352">Le droit de me nommer de ses enfants le père,</l>
+	<l id="353">Et pour qu'il n'eÛt eu rien à désirer de plus,</l>
+	<l id="354">J'aurais encor donné les enfants par dessus</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="355">Quel discours ! Oh ! C'est-là de ces hommes sans doute,</l>
+	<l id="356" syll="6" part="i">Dont m'a parlé ma soeur.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="356" syll="6" part="f">Mais que vois-je ? On m'écoute.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="357">Sur Timante je veux un peu l'interroger ;</l>
+	<l id="358">Avec lui sûrement il vient de voyager.</l>
+<stage type="loud">Haut.</stage>
+	<l id="359" syll="6" part="i">Bonjour, l'homme, bonjour.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="359" syll="-" part="mf">Elle est appétissante.</l>
+<stage type="toward">À Silvie.</stage>
+	<l id="360" syll="6" part="i">Bonjour, la belle enfant.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="360" syll="6" part="f">Connaissez-vous Timante ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="361">Timante ! Ce beau fils que nous avons à bord,</l>
+	<l id="362">Qui ne connaît pas plus le Midi que le Nord,</l>
+	<l id="363">Qui va toujours prêchant la vertu, la constance,</l>
+	<l id="364">Qui nous suit tristement par belle complaisance</l>
+	<l id="365">Depuis deux ans entiers ?... Ah ! C'est encor ma foi,</l>
+	<l id="366">Un autre Ferdinand ; tous deux sont fous, je crois,</l>
+	<l id="367">De traverser les mers pour chercher en cette île</l>
+	<l id="368">Une femme. En Espagne on en eût trouvé mille.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="369" syll="6" part="i">Et des hommes aussi ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="369" syll="2" part="m">Sans doute.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="369" syll="4" part="f">Ah ! S'ils sont tous</l>
+	<l id="370">Semblables à Timante, il doit être bien doux</l>
+	<l id="371" syll="6" part="i">De vivre en ce lieu-là.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="371" syll="6" part="f">Peste, quelle innocente !</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="372">De grâce, parlez-moi sans cesse de Timante,</l>
+	<l id="373">C'est l'unique moyen de soulager l'ennui</l>
+	<l id="374">Que je ressens d'abord que je suis loin de lui.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="375">Si vous vous ennuyez, je n'y saurais que faire.</l>
+	<l id="376">C'est un mal près de vous qui ne tourmente guère,</l>
+	<l id="377">Et je défierais bien au plus sombre chagrin</l>
+	<l id="378">De ne pas revirer voyant cet air mutin.</l>
+	<l id="379">Et cet oeil... Ce minois... Le tour de ce visage....</l>
+<stage type="aparte">À part.</stage>
+	<l id="380">Je suis, ma foi, tenté de risquer l'abordage.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="381">De tout ce qu'il dit là, rien ne flatte mon coeur.</l>
+	<l id="382">Mais ici je m'oublie. Allons chercher ma soeur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage>, seul.
+	</stage>
+	<l id="383">Je me tromperais fort, si je n'ai vent contraire,</l>
+	<l id="384">Pour Timante en revanche il souffle bien arrière.</l>
+	<l id="385">Elle est parbleu gentille, il aurait très grand tort</l>
+	<l id="386">Sans ce petit bijou de retourner à bord ;</l>
+	<l id="387">C'est une pacotille assez friande à faire,</l>
+	<l id="388">S'il la néglige, moi, j'en ferai mon affaire</l>
+<stage type="watch">Apercevant Constance.</stage>
+	<l id="389">Mais on vient. Celle-là vaut encore son prix.</l>
+	<l id="390">Ma foi de la beauté c'est ici le pays.</l>
+</sp>
+</div2>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Le Matelot, Constance.
+</stage>
+<sp who="CONSTANCE"><speaker>CONSTANCE</speaker><stage type="watch">, sans voir le matelot.
+	</stage>
+	<l id="391">EN vain le temps s'enfuit et détruit toute chose,</l>
+	<l id="392">Mon malheur seul résiste aux lois qu'il nous impose.</l>
+	<l id="393">Hélas ! Puisque ma soeur est loin en ce moment,</l>
+	<l id="394">Reprenons mon pénible et triste amusement.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="395">Elle a l'air langoureux celle-ci, c'est dommage.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<stage type="hurry">Avec précipitation.</stage>
+	<l id="396">Que vois-je ? Un matelot ! L'ami, sur ce rivage,</l>
+	<l id="397">Dites-moi, serait-il venu quelque vaisseau ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="398" syll="4" part="i">Apparemment.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="398" syll="4" part="m">Quand ? Où ? Comment ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="398" syll="4" part="f">Comment ? Par eau.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="399" syll="10" part="i">De grâce, répondez ; d'où venez-vous ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="399" syll="2" part="f">D'Espagne ;</l>
+	<l id="400">Et depuis bien longtemps nous battons la campagne.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="401" syll="11" part="i">D'Espagne ! Eh ! Qui vous a conduits ici ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="401" syll="2" part="f">Le vent,</l>
+	<l id="402">Joint à l'habileté de notre Commandant :</l>
+	<l id="403">Ah ! Certes, il est bien à plaindre le pauvre homme.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="404" syll="3" part="i">Quel est-il ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="404" syll="9" part="f">Ferdinand, c'est ainsi qu'on le nomme.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="405" syll="6" part="i">Ferdinand, dites vous ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="405" syll="4" part="m">Oui, Ferdinand.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="405" syll="2" part="f">Grands Dieux ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="406">Il venait retirer sa femme de ces lieux ;</l>
+	<l id="407">Mais nous partons sans elle, oui, le Diable m'emporte,</l>
+	<l id="408">Et vous ne savez pas pourquoi ? C'est qu'elle est morte,</l>
+<stage type="pain">Constance chancelle.</stage>
+	<l id="409" syll="3" part="i">Qu'avez-vous ?</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE</speaker><stage type="fall">, s'évanouissant et tombant dans les bras du Matelot.
+	</stage>
+	<l id="409" syll="3" part="m">Je me meurs !</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="409" syll="6" part="f">Quoi ! Sérieusement ?</l>
+<stage type="carry/location">Il la conduit sur un lit de gazon.</stage>
+<note type="L">Vertigo : Terme familier. Caprice, fantaisie. [L]</note>
+	<l id="410">Quel est ce vertigo ? Là plus commodément...</l>
+	<l id="411">C'est parbleu tout de bon ! À qui diable en a-t-elle ?</l>
+	<l id="412">Encore si c'était quelque laide femelle,</l>
+	<l id="413">Elle pourrait partir, ce serait fort bien fait ;</l>
+	<l id="414">Mais un si bel enfant, j'en aurais du regret.</l>
+	<l id="415" syll="3" part="i">Que faire ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Le Matelot, Constance, Timante.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="watch">, sans voir le matelot.
+	</stage>
+	<l id="415" syll="9" part="f">Se peut-il que Ferdinand ignore</l>
+	<l id="416">Qu'il est près de revoir l'épouse qu'il adore !</l>
+	<l id="417" syll="6" part="i">Je le cherche partout.</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="417" syll="6" part="f">Il faut la secourir,</l>
+	<l id="418">Essayons si ceci la fera revenir.</l>
+<stage type="get">Il tire de sa poche une bouteille d'osier.</stage>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="419">Dieux ! N'apprendra-t-il point cette heureuse nouvelle ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="420" syll="9" part="i">Qu'entends-je ? C'est Timante. Hé Monsieur ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="420" syll="3" part="f">Qui m'appelle ?</l>
+</sp>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="421">Quelqu'un qui sans mentir est bien embarrassé,</l>
+	<l id="422">Tenez, c'est un tendron à demi trépassé,</l>
+	<l id="423">Sachez ce qu'il lui faut ; je n'y peux rien connaître ;</l>
+	<l id="424">Je retourne à mon poste attendre notre Maître.</l>
+</sp>
+</div2>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><stage> Timante, Constance.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="watch">, examinant Constance.
+	</stage>
+	<l id="425">Le voile de la mort obscurcit ses attraits,</l>
+	<l id="426">De Silvie elle n'a ni l'âge ni les traits,</l>
+	<l id="427" syll="6" part="i">C'est sûrement Constance.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE</speaker><stage type="back">, revenant à elle.
+	</stage>
+	<l id="427" syll="2" part="m">Hélas ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="427" syll="4" part="f">Belle Constance,</l>
+	<l id="428">Vivez ; le Ciel enfin comble votre espérance ;</l>
+	<l id="429">Ferdinand est ici, Ferdinand dans les pleurs,</l>
+	<l id="430">Si vous ne paraissez, succombe à ses malheurs.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="431">Ferdinand ? Se peut-il ?... Non, c'est une imposture</l>
+	<l id="432">Que l'on oppose en vain aux tourments que j'endure.</l>
+	<l id="433" syll="2" part="i">Cessez...</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="433" syll="10" part="f">N'en doutez point, le Ciel rend à vos voeux</l>
+	<l id="434">L'époux le plus fidèle et le plus malheureux.</l>
+	<l id="435">Autour de ce rocher j'étais venu l'attendre ;</l>
+	<l id="436">Et vous voyez en moi son ami le plus tendre.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="437">Je ne puis revenir de mon saisissement,</l>
+	<l id="438">Ce bonheur est trop grand pour le croire aisément.</l>
+	<l id="439">Hélas ! Serait-il vrai qu'il m'eût jamais aimée ?</l>
+	<l id="440">Mais non, d'un vain espoir non âme est trop charmée ?</l>
+	<l id="441">Si pour moi de l'amour il eÛt senti les feux,</l>
+	<l id="442">M'aurait-il pu laisser en ce séjour affreux ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="443">Eh ! Vous y laissa-t-il ? Des brigands l'attaquèrent,</l>
+	<l id="444">Et tout percé de coups à ces voeux l'arrachèrent ;</l>
+	<l id="445">Accablé de regret, en quittant ce séjour</l>
+	<l id="446">D'y laisser sans espoir l'objet de son amour.</l>
+	<l id="447">Depuis ce temps, hélas ! Un horrible esclavage</l>
+	<l id="448">De ce fidèle époux fut le cruel partage.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="449">Ah ! Mon cher Ferdinand, quel injuste soupçon !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="450">À la fin échappé d'une affreuse prison,</l>
+	<l id="451">Depuis plus de deux ans guidé par sa tendresse,</l>
+	<l id="452">Sans relâche il vous cherche ; et s'affligeant sans cesse...</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="453">Mais que ne paraît-il ? Qui peut le retenir ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="18"><head>SCÈNE XVIII.</head><stage> Constance, Timante, Silvie.
+</stage>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="454">Ma soeur, ma chère soeur, je vole t'avertir</l>
+	<l id="455">Que j'ai vu Ferdinand. Au bord de la fontaine,</l>
+	<l id="456">Consterné, presque mort, il arrivait à peine ;</l>
+	<l id="457">Quand tout à coup des gens qu'on n'apercevait pas</l>
+	<l id="458">Sans lui dire un seul mot, ont arrêté ses pas.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="459" syll="6" part="i">Arrêté ! Ciel ! Pourquoi ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="459" syll="6" part="f">Ce coup est mon ouvrage.</l>
+	<l id="460">Pardonnez ; mais voyant qu'à quitter ce rivage</l>
+	<l id="461">Il ne consentAit point, et craignant pour ses jours,</l>
+	<l id="462">J'ai cru par ce moyen en conserver le cours.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="463">Ah ! courons de leurs mains arracher ce que j'aime.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="464">Arrête ; il va dans peu paraître ici lui-même,</l>
+	<l id="465">Je leur ai tout appris avant de les quitter.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="466">Que je l'attende encore ! Eh ! puis-je résister ?...</l>
+	<l id="467">Non, c'en est trop, je cède à mon impatience.</l>
+<stage type="wave">Elle fait un mouvement pour sortir.</stage>
+	<l id="468" syll="6" part="i">Dieux ! C'est lui que je vois.</l>
+</sp>
+</div2>
+<div2 type="scene" n="19"><head>SCÈNE XIX.</head><stage> Constance, Silvie, Timante, Ferdinand.
+</stage>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="468" syll="6" part="f">Ô Ma chère Constance.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="469" syll="3" part="i">Cher époux !</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="469" syll="3" part="m">Doux moments !</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="469" syll="6" part="f">Ferdinand avec moi !</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="470">Constance dans mes bras ! À peine je le crois.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="471">Dans leurs embrassements je trouve tant de charmes</l>
+	<l id="472">Que de plaisir, mes yeux se remplissent de larmes.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="473">Ô sort, dont tant de fois j'éprouvai le courroux,</l>
+	<l id="474">Que ne te dois-je point, je revois mon époux !</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="475">Tu l'as pu soupçonner d'avoir trahi sa flamme !</l>
+	<l id="476">Sans la constante ardeur qui soutenait mon âme,</l>
+	<l id="477">Aurais-je supporté l'excès de mes malheurs ?</l>
+	<l id="478">L'Amour seul en pouvait adoucir les horreurs.</l>
+	<l id="479">C'est l'espoir de te voir toujours tendre et fidèle</l>
+	<l id="480">Qui m'a fait résister à ma douleur mortelle,</l>
+	<l id="481">Et qui me fait encor en des moments si chers</l>
+	<l id="482">Perdre le souvenir des maux que j'ai soufferts.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="483">Oui, d'infidélité je te croyais capable ;</l>
+	<l id="484">Mais Dieux ! Qu'il m'en coûtait à te trouver coupable !</l>
+	<l id="485">Juge quels sont les maux qui déchiraient mon coeur,</l>
+	<l id="486">Puisque je m'en souviens, au comble de bonheur.</l>
+	<l id="487">Mais comment réparer toute mon injustice ?</l>
+	<l id="488">J'ai pu par mes soupçons augmenter ton supplice.</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="489">Ne nous occupons plus de nos malheurs passés,</l>
+	<l id="490">L'instant qui nous unit les a tous effacés.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="491">Quel spectacle touchant pour une âme sensible !</l>
+	<l id="492">Il fait naître en mon coeur un désir invincible...</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="493">Que pense-tu, Timante ? Observe Ferdinand,</l>
+	<l id="494">Et vois comme à Constance il parle tendrement.</l>
+	<l id="495" syll="6" part="i">À moi, tu ne dis rien.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="495" syll="6" part="f">Si tu m'aimais Silvie,</l>
+	<l id="496">Je ne dirais qu'un mot, et tu serais ravie.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="497">Quand on aime, a-t-on bien du plaisir à se voir ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="498" syll="2" part="i">Beaucoup.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="498" syll="4" part="m">Je t'aime donc.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="498" syll="6" part="f">Tu combles mon espoir !</l>
+	<l id="499">Mais de tes sentiments j'ose espérer un gage.</l>
+	<l id="500" syll="6" part="i">Consens qu'un doux hymen....</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="500" syll="6" part="f">Point de mariage.</l>
+	<l id="501">Dans quelque île déserte inconnue aux humains,</l>
+	<l id="502">Je resterais peut-être à pleurer mes destins.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="503">Non, ma soeur, Ferdinand ne m'a point délaissée ;</l>
+	<l id="504">À tort je te disais en ma triste pensée</l>
+	<l id="505">Tant de mal de son sexe ; hélas ! Il n'en est rien.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE.</speaker>
+	<l id="506">Quand j'aperçus Timante, ah ! Je m'en doutai bien.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="507">Quelle était mon erreur, quand j'accusais les hommes</l>
+	<l id="508">D'être moins délicats, moins vrais que nous ne sommes !</l>
+	<l id="509">Et qu'avec grand plaisir ma bouche se dément !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage>, à Silvie.
+	</stage>
+	<l id="510" syll="3" part="i">Tu l'entends ?</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="touch">, donnant la main à Timante.
+	</stage>
+	<l id="510" syll="9" part="f">Ce qui plaît, on le croit aisément.</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND.</speaker>
+	<l id="511">Qui n'achèterait pas pour dix ans de souffrance</l>
+	<l id="512">Tous les biens que le Ciel en ce jour me dispense ?</l>
+	<l id="513">Épouse, soeur, ami, tout comble ici mes voeux.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="514">Qu'il est doux d'obliger en se rendant heureux !</l>
+</sp>
+<sp who="FERDINAND"><speaker>FERDINAND</speaker><stage type="toward">, au parterre.
+	</stage>
+	<l id="515">Ô vous, dont les malheurs lassent la patience,</l>
+	<l id="516">Mon bonheur vous apprend ce que peut la constance.</l>
+</sp>
+</div2>
+<div2 type="scene" n="20"><head>SCÈNE XX.</head><stage> et dernière.
+</stage>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="517">Vous êtes tous contents, nous le sommes aussi.</l>
+	<l id="518">Pour vous le témoigner nous arrivons ici.</l>
+	<l id="519">Camarades, allons, quittez cette chaloupe,</l>
+	<l id="520">Il faut se divertir quand on a vent en poupe,</l>
+	<l id="521">Et que chacun de nous exprime à sa façon</l>
+	<l id="522">Le plaisir qu'il ressent du bonheur du Patron.</l>
+</sp>
+</div2>
+<div2 type="couplets" n="21"><head>COUPLETS.</head>
+<sp who="LE MATELOT"><speaker>LE MATELOT.</speaker>
+	<l id="523">Pendant mon absence, ma femme,</l>
+	<l id="524">Tout à son aise fait l'amour ;</l>
+	<l id="525">Je m'en console à son retour,</l>
+	<l id="526">Quand je la trouve grande Dame ;</l>
+	<l id="527">Il n'est point d'époux dont le sort</l>
+	<l id="528">Ne soit sujet à des orages ;</l>
+	<l id="529">Si l'hymen cause des naufrages,</l>
+	<l id="530">L'hymen aussi conduit au port.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+	<l id="531">Après avoir du sort fantasque</l>
+	<l id="532">Été sa victime longtemps,</l>
+	<l id="533">Les plaisirs en sont bien plus grands ;</l>
+	<l id="534">Mais on craint toujours la bourrasque.</l>
+	<l id="535">Il n'est point d'amour dont le sort</l>
+	<l id="536">Ne soit sujet à des orages,</l>
+	<l id="537">Et le plus cruel des naufrages</l>
+	<l id="538">Est celui que l'on fait au Port.</l>
+</sp>
+<sp who="SILVIE"><speaker>SILVIE</speaker><stage type="toward">, à Timante.
+	</stage>
+	<l id="539">Que mon erreur était extrême</l>
+	<l id="540">De te refuser pour époux !</l>
+	<l id="541">Je sens qu'il n'est rien de si doux</l>
+	<l id="542">Que de s'unir à ce qu'on aime.</l>
+	<l id="543">S'il n'est point d'hymen dont le sort</l>
+	<l id="544">Ne soit sujet à des orages,</l>
+	<l id="545">Pour ne pas craindre les naufrages,</l>
+	<l id="546">Ne t'éloigne jamais du port.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="toward">, à Silvie.
+	</stage>
+	<l id="547">À ne te quitter de ma vie,</l>
+	<l id="548">Je borne désormais mes voeux ;</l>
+	<l id="549">Où puis-je jamais être mieux</l>
+	<l id="550">Qu'auprès de l'aimable Silvie ?</l>
+	<l id="551">Il n'est point d'époux dont le sort</l>
+	<l id="552">Ne soit à l'abri des orages,</l>
+	<l id="553">Quand il fait voeu, loin des naufrages,</l>
+	<l id="554">De vivre et mourir dans le port.</l>
+</sp>
+<sp who="CONSTANCE"><speaker>CONSTANCE</speaker><stage type="toward">, au parterre.
+	</stage>
+	<l id="555">Le parterre est notre boussole,</l>
+	<l id="556">Son goût éclairé nous conduit ;</l>
+	<l id="557">Nous ne rions que lorsqu'il rit,</l>
+	<l id="558">Son air mécontent nous désole.</l>
+	<l id="559">Il n'est point d'auteurs dont le sort</l>
+	<l id="560">Ne soit sujet à des orages :</l>
+	<l id="561">Heureux ! quand après maints naufrages</l>
+	<l id="562">Un bon vent les conduit au Port.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

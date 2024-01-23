@@ -1,0 +1,2595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+	<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>ASTRATE ROI DE TYR, TRAGÉDIE</title>
+			<author type="texte" ISNI="0000 0001 2096 2483">Philippe QUINAULT (1635-1688)</author>
+		</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Paul FIEVRE juillet 2022</editor>
+				<publisher>Publié par Paul FIEVRE juillet 2022.</publisher>
+				<rights>Creative Commons BY-NC-SA</rights>
+				<idno>QUINAULT_ASTRATE</idno>
+		</publicationStmp>
+		<SourceDesc>
+			<genre>Tragédie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Cinq actes</structure>
+			<type>vers</type>
+			<periode>1661-1670</periode>
+			<taille>1500-1750</taille>
+			<permalien cote="Bibliothèque municipale de Lyon, 800622">https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001102182412</permalien>
+		</SourceDesc>
+	</fileDesc>
+	</teiHeader>
+	<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ASTRATE ROI DE TYR</titlePart>
+			<titlePart type="sub">TRAGÉDIE EN CINQ ACTES ET EN VERS.</titlePart>
+		</docTitle> 
+		<docDate value="1665">M. DC. LXV. Avec privilège du Roi.</docDate>
+		<docAuthor id="QUINAULT, Philippe">Par le Sieur QUINAULT</docAuthor>
+		<docImprint>
+			<privilege id="1656-06-03"><head>Privilège du Roi.</head>
+				<p>Par grâce et privilège du Roi donné à Paris le dixième jour du février 1665 signé par le Roi en son conseil OLIER. Il est permis à Guillaume de Luyne, Marchand Libraire en notre bonne ville de Paris, d'imprimer ou faire imprimer, une pièce de théâtre de la composition du Sieur QUINAULT, intitulée AStrate, Tragédie, en tel volume et caractères que bon lui semblera, et ce durant le temps et espace de cinq années, à compter du jour qu'elle sera achevée d'imprimer pour la première fois : et cependant défenses sont faites à tous Imprimeurs, libraires, et autres personnes de quelque condition qu'elle soient, d'imprimer ou contrefaire ledit livre, à peine de mille livres d'amende, confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêt, comme il est plus amplement porté par lesdites lettres.</p>
+				<p>Etledit de Luyne a fait part du privilège ci-dessus à Thomas Jolly, et Gabriel Quinet pour en jouir suivant l'accord fait entre eux.</p>
+				<p>Les Exemplaires ont été fournis.</p> 
+			</privilege>
+			<acheveImprime id="1665-02-18">Achevé d'imprimer pour la première fois le 18 février 166(.</acheveImprime>
+			<printer id="LUYNE">À PARIS, Chez Guillaume de Luyne, Libraire juré à Paris, au Palais,dans la Salle des Merciers, à la Justice.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1664-12-12" location="Théâtre de l'Hôtel de Bourgogne">Représentée pour la première fois, à Paris, sur le Théâtre de l'Hôtel de Bourgogne, le 12 décembre 1664.</premiere>
+		</performance>
+		<div type="dedicace"><adresse>À LA REINE.</adresse>
+			<head>MADAME,</head>
+			<p>Astrate ne s'est pu résoudre à se consacrer qu'à VOTRE MAJESTÉ ; et l'avantage qu'il a eu de ne Lui pas déplaire, Lui a trop élevé le coeur pour cherche une moindre protection que celle de la plus illustre de toutes les Reines. La choix le plus glorieux qu'il pouvait faire, a debord été celui où il s'est osé déterminer. Et en effet, MADAME, si l'on la considère par le Sacré Noeud qui l'unit au Monarque le plus renommé qui fut jamais, où peut-on voir plus de gloire ? Et si l'on l'observe jusque dans sa vivante image, c'est à dire dans le Prince admirable qu'Elle nous a donné, ou peut on remarquer plus de charmes et plus de merveilles ? Mais, MADAME, pour savoir qu'il n'y a rien dans laNaturede plus accompli, ni de plus éclatant que VOTRE MAJESTÉ, il n'est besoin que de tourner les yeux sur Elle-même, et que d'envisager son propre mérite. C'est un bine et un ornement tout ensemble pour ce Royaume, dont il vient de témoigner assez que le prix ne lui est pas inconnu : tant de larmes répandues, tant de cris redoublés ; enfin, MADAME, cette désolation publique, et ces frayeurs universelles qui n'ont fini n'ont fini qu'avec le péril dont VOTRE MAJESTÉ n'a que trop été menacée, Lui doivent être assurés témoignages que toute la France la reconnaît pour une des principales sources de sa Félicité. Astrate n'a pas manqué de faire aussi son devoir dans une consternation si générale ; et quelque impatience qu'il eut de sortir des ténèbres où il était demeuré depuis plusieurs siècles, il s'est bine gardé de paraître au jour, tandis qu'il y avait lieu de craindre pour la plus belle Vie du monde. Il est vrai, MADAME, qu'il en a été avantageusement récompensé, par l'honneur qu'il a reçu d'entrer dans les premiers divertissements qu'il a plu à VOTRE MAJESTÉ de choisir après son heureuse convalescence ; et si Elle a encore la bonté d'agréer l'hommage particulier qu'il ose ici Lui rendre, il n'y aura plus rien qui manque à l'accomplissement de son bonheur. Si toutefois il lui peut rester quelque chose à souhaiter, ce sera seulement que celui qui a pris soin de la faire revivre avec tant de succès, puisse prendre quelque part à sa bonne fortune, et qu'il lui soit permis d'oser publier qu'il est, avec un zèle très ardent, et des respects très profonds,</p>
+			<p>MADAME,</p>
+			<p>DE VOTRE MAJESTÉ,</p>
+			<p>Le très humble, très obéissant, et très fidèle serviteur et sujet.</p>
+			<p>QUINAULT.</p>
+		</div>
+		<div type="preface"><head>Ex Libro 1° Josephi contra Appionem.</head>
+			<p>Moriente Hiramo, successit in eius regno Baleastratus filius, qui cum vixiffet annis20. regnavit 8. hunc Filii Nutricis eius quatuor, infidiis peremere, quorum Senior regnavit annis 12. post quoos ASARTUS filius Béléastarti regnavit.</p>
+		</div>
+		<div type="preface"><head>Ex Thetro Historico Christophori Helvici théol. ad an Mundi 2963.</head>
+			<p>Abdestratos Beleazari filius regnat 9 annis.</p>
+			<p>Filiuas Nutricis regnat 12 annis.</p>
+			<p>ASTARTUS Déleastarti filius regnat 12 annis.</p>
+		</div>
+		<div type="preface"><head>Ex Dionysio Petavio,</head>
+			<p>L. 2. Part. 2. Rationarii Temporum in Laterculo Regum Tyri priorum.</p>
+			<p>                        anni regni   Periodi Julianae</p>
+			<p>4. Abdstratus                  9              3729.</p>
+			<p>5. Nutricis Abdastrati Filius 12        3738.</p>
+			<p>6. ASTRATUS                   12        3750.</p>
+		</div>
+		<div type="preface"><head>De la Bibliothèque Historiale de Vignier, première partie, fol. 151. et 152.</head>
+			<p>L'An du Monde 3124. Abstratus, Roi de Tyr, fut mis à mort par les fils de ses mère nourrice, et son royaume occupé par eux l'espace de 12 ans.</p>
+			<p>L'an du Monde 3138. ASTRATUS, fils de Baleastartus, Roi de Tyr, après avoir recouvré le Royaume de son père sur les usurpateurs d'icelui, régna 12 ans.</p>
+		</div>
+		<castList><head>PERSONNAGES</head>
+			<castItem><role id="AGÉNOR" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">AGÉNOR</role>, parent de la Reine, destiné pour l'épouser.</castItem>
+			<castItem><role id="NERBAL" sex="1" type="H" statut="confident" age="A" stat_amour="">NERBAL</role>, confident d'Agénor.</castItem>
+			<castItem><role id="ASTRATE" sex="1" type="H" statut="roi" age="A" stat_amour="">ASTRATE</role>, légitime Roi de Tyr, cru fils de Sichée.</castItem>
+			<castItem><role id="BÉLUS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">BÉLUS</role>, ami d'Astrate.</castItem>
+			<castItem><role id="SICHÉE" sex="1" type="H" statut="aristocrate" age="V" stat_amour="">SICHÉE</role>, Seigneur Tyrien, cru père d'Astrate.</castItem>
+			<castItem><role id="BAZORE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">BAZORE</role>, ami de Sichée.</castItem>
+			<castItem><role id="NICOGÈNE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">NICOGÈNE</role>, ami de Sichée.</castItem>
+			<castItem><role id="ÉLISE" sex="2" type="H" statut="roi" age="A" stat_amour="">ÉLISE</role>, Reine de Tyr par usurpation.</castItem>
+			<castItem><role id="CORISBE" sex="2" type="H" statut="confident" age="A" stat_amour="">CORISBE</role>, confidente d'Élise.</castItem>
+			<castItem><role id="GÉRASTE" sex="1" type="H" statut="capitaine" age="A" stat_amour="">GÉRASTE</role>, Capitaine des Gardes d'Élise.</castItem>
+			<castItem><role id="GARDES" sex="1" type="H" statut="garde" age="A" stat_amour="">GARDES</role>.</castItem>
+			<castItem><role id="SOLDATS" sex="1" type="H" statut="soldat" age="A" stat_amour="">SOLDATS</role>.</castItem>
+		</castList>
+	<set location="Tyr" country="Syrie" periode="XVIIème" gps="33.270489, 35.203764">La scène est à Tyr, dans l'appartement de la Reine.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Agénor, Astrate, Nerbal, Bélus.
+</stage>
+<sp who="AGÉNOR"><speaker>AGÉNOR</speaker><stage type="entrance/watch">, sortant d'un côté du Théâtre, et voyant sortir de l'autre Astrate qui veut se retirer dès qu'il l'aperçoit.
+	</stage>
+	<l id="1">Vous m'évitez, Astrate ? Au moins peut-on savoir</l>
+	<l id="2">Ce qui vous fait trouver tant de peine à me voir ?</l>
+	<l id="3">Pourquoi fuir mon abord ? Parlez sans vous contraindre.</l>
+	<l id="4">M'est-il rien échappé dont vous puissiez vous plaindre ?</l>
+	<l id="5">Ai-je mal reconnu tout ce que je vous dois,</l>
+	<l id="6">Et ce qu'ont fait vos soins pour la Reine et pour moi ?</l>
+	<l id="7">Tyr, où commande Élise, et dont, par d'heureux crimes</l>
+	<l id="8">Nos pères ont détruit nos maîtres légitimes,</l>
+	<l id="9">Malgré nos vains efforts, sans vous, sans vos exploits,</l>
+	<l id="10">Des Syriens vainqueurs aurait reçu des lois ;</l>
+	<l id="11">Et sans vos soins, plus forts que nos destins contraires,</l>
+	<l id="12">Nous aurions peu joui des crimes de nos pères.</l>
+	<l id="13">Moi-même, prisonnier, sans espoir que la mort,</l>
+	<l id="14">Je vous vis m'arracher aux rigueurs de mon sort,</l>
+	<l id="15">Sur nos tristes débris rappeler la victoire,</l>
+	<l id="16">Et relever d'Élise et le trône et la gloire.</l>
+	<l id="17">Ni la Reine, ni moi, quoique nés de parents,</l>
+	<l id="18">Qui se sont élevés sur les pas des tyrans,</l>
+	<l id="19">Nous n'avons pas au crime assez pris d'habitude,</l>
+	<l id="20">Pour passer, sans horreur, jusqu'à l'ingratitude.</l>
+	<l id="21">Que n'a point fait la Reine, à force de bienfaits,</l>
+	<l id="22">Pour porter vos destins plus loin que vos souhaits ?</l>
+	<l id="23">Et si la gratitude et le forme et s'exprime,</l>
+	<l id="24">Par beaucoup d'amitié, jointe à beaucoup d'estime,</l>
+	<l id="25">L'estime et l'amitié, que pour vous j'ai fait voir,</l>
+	<l id="26">N'ont-elles pas rempli vos voeux et votre espoir ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="27">C'est trop jouir, Seigneur, d'une estime usurpée,</l>
+	<l id="28">Et surprendre en votre âme une amitié trompée.</l>
+	<l id="29">Connaissez mieux un coeur estimé si parfait,</l>
+	<l id="30">Si grand en apparence, et si faible en effet ;</l>
+	<l id="31">Ce coeur plus criminel que vous ne sauriez croire,</l>
+	<l id="32">Qui dément en secret tout l'éclat de sa gloire ;</l>
+	<l id="33">Et souffrez qu'un coupable, en fuyant vos bontés,</l>
+	<l id="34">Se dérobe à des biens qu'il n'a pas mérités.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="35">Quelque crime en ces lieux que vous ayez pu faire,</l>
+	<l id="36">Vos exploits parlent trop, les lois n'ont qu'à se taire.</l>
+	<l id="37">Qui relève un empire a, du moins, mérité</l>
+	<l id="38">De faillir une fois avec impunité.</l>
+	<l id="39">Qui que vous offensiez, sa plainte sera vaine.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="40">Mon crime est à la fois contre vous et la Reine.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="41">Contre la Reine et moi ! C'est de quoi m'étonner ;</l>
+	<l id="42">Mais j'aurai droit bientôt de vous tout pardonner.</l>
+	<l id="43">Vous savez que je touche à l'heureuse journée,</l>
+	<l id="44">Où la Reine a remis notre illustre hyménée ;</l>
+	<l id="45">Que, suivant l'ordre exprès qu'a laissé le feu Roi,</l>
+	<l id="46">Je suis près d'obtenir sa couronne et sa foi,</l>
+	<l id="47">Près de voir cette fière et charmante Princesse</l>
+	<l id="48">Livrer tous ses appas à l'amour qui me presse...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="49">Ah ! Seigneur... Mais hélas ! Dans mes transports confus</l>
+	<l id="50">J'ai peur d'en dire trop, si je dis rien de plus.</l>
+	<l id="51">Souffrez que je me taise, et que je me retire.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR</speaker><stage type="stop">, arrêtant Astrate.
+	</stage>
+	<l id="52">Ah ! Vous aimez la Reine ! Et c'est assez le dire.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="53">Puisque jusqu'à vos yeux mes feux ont éclaté,</l>
+	<l id="54">J'aime, je le confesse, avec témérité ;</l>
+	<l id="55">J'aime en dépit du sort, dont l'aveugle puissance</l>
+	<l id="56">De moi jusqu'à la Reine a mis trop de distance :</l>
+	<l id="57">J'aime, malgré l'Hymen, de qui les noeuds sacrés,</l>
+	<l id="58">Pour vous unir demain, sont déjà préparés ;</l>
+	<l id="59">J'aime, malgré l'horreur de perdre ce que j'aime ;</l>
+	<l id="60">Et, pour dire encor plus, j'aime malgré moi-même:</l>
+	<l id="61">Mais, malgré votre hymen, mon destin et mes soins,</l>
+	<l id="62">Malgré tous mes efforts, je n'en aime pas moins.</l>
+	<l id="63">Reprochez-moi, Seigneur, cette injustice extrême.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="64">Pour vous la reprocher il suffit de vous-même ;</l>
+	<l id="65">Tous reproches sont vains, s'ils viennent d'autre part.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="66">Pour m'en faire, Seigneur, je n'attends pas si tard.</l>
+	<l id="67">Pour combattre en secret le mal dont je soupire,</l>
+	<l id="68">Je me suis dit cent fois tout ce qu'on se peut dire ;</l>
+	<l id="69">Tout ce qu'on peut tenter, je l'ai fait jusqu'ici ;</l>
+	<l id="70">Du moins mon faible coeur se l'est fait croire ainsi :</l>
+	<l id="71">Mais, s'il faut dire tout, contre un mal qui sait plaire,</l>
+	<l id="72">On ne fait pas toujours tout ce que l'on croit faire ;</l>
+	<l id="73">Et pour se reprocher un crime qu'on chérit,</l>
+	<l id="74">Pour peu que l'on se dise, on croit s'être tout dit.</l>
+	<l id="75">Offrez-moi des raisons qui réveillent ma gloire :</l>
+	<l id="76" syll="6" part="i">Donnez-moi des conseils.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="76" syll="6" part="f">Eh ! M'en pourrez-vous croire ?</l>
+	<l id="77">Non, non, et ce soupir m'en dit tout seul assez :</l>
+	<l id="78">On suit peu les conseils qu'on croit intéressés ;</l>
+	<l id="79">Et quand on est aveugle à ses propres lumières,</l>
+	<l id="80">Les raisons d'un rival ne persuadent guères.</l>
+	<l id="81">Si la Reine vous touche, elle a su me toucher,</l>
+	<l id="82">Et ce n'est pas à moi de vous rien reprocher :</l>
+	<l id="83">J'aurais tort de contraindre une si belle flamme,</l>
+	<l id="84">À borner seulement son pouvoir sur mon âme ;</l>
+	<l id="85">Un amant d'un rival doit excuser les feux.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="86">Il n'est rien plus aisé pour un amant heureux,</l>
+	<l id="87">Seigneur, on peut souffrir, sans beaucoup se contraindre,</l>
+	<l id="88">Un malheureux rival dont on n'a rien à craindre :</l>
+	<l id="89">Mais qu'à des maux cruels c'est être abandonné,</l>
+	<l id="90">Que d'avoir à souffrir un rival fortuné !</l>
+	<l id="91">Ce bonheur est pour vous un choix si légitime,</l>
+	<l id="92">Qu'il ne m'est pas permis d'en murmurer sans crime :</l>
+	<l id="93">Le bien qui m'a charmé ne peut être qu'à vous ;</l>
+	<l id="94">Vous devez l'obtenir, sans que j'en sois jaloux ;</l>
+	<l id="95">Sans que j'ose accuser le sort qui vous le donne,</l>
+	<l id="96">Le respect, la raison, le devoir, tout l'ordonne :</l>
+	<l id="97">Mais l'amour, et surtout l'amour au désespoir,</l>
+	<l id="98">Connaît-il ni respect, ni raison, ni devoir ?</l>
+	<l id="99">Punissez d'un ingrat l'audace et l'injustice :</l>
+	<l id="100">Je vous ai dit le crime, ordonnez le supplice.</l>
+	<l id="101">Seigneur, je vais l'attendre ; et délivrer vos yeux</l>
+	<l id="102">De souffrir plus longtemps un objet odieux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Agénor, Nerbal.
+</stage>
+<sp who="NERBAL"><speaker>NERBAL.</speaker>
+	<l id="103">Souffrirez-vous, Seigneur, une telle insolence ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="104">Il n'est pas temps d'en faire éclater la vengeance.</l>
+</sp>
+<sp who="NERBAL"><speaker>NERBAL.</speaker>
+	<l id="105">Quoi ? Laisser impuni l'amour qu'il ose avoir ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="106">Quel supplice est plus grand qu'un amour sans espoir ?</l>
+	<l id="107">Puis-je rien ajouter à son malheur extrême ?</l>
+	<l id="108">Triompher à sa vue, obtenir ce qu'il aime,</l>
+	<l id="109">Voir ses feux sans colère, ainsi que sans danger,</l>
+	<l id="110">Enfin le pouvoir plaindre, est-ce peu m'en venger ?</l>
+	<l id="111">Mon courroux, loin d'accroître, eût adouci sa peine ;</l>
+	<l id="112">La pitié d'un rival, punit mieux que sa haine.</l>
+	<l id="113">Pour tout dire, entre nous, ce n'est pas qu'en secret</l>
+	<l id="114">Je souffre, sans dépit, cet amour indiscret :</l>
+	<l id="115">Mais savoir à propos se contraindre et se taire,</l>
+	<l id="116">Pour qui prétend régner, est un art nécessaire.</l>
+	<l id="117">Je dois en être instruit, et je crois l'être assez.</l>
+	<l id="118">D'un secret ennemi nous sommes menacés ;</l>
+	<l id="119">Cet État n'est à nous que par le droit des crimes :</l>
+	<l id="120">Nous en avons détruit les Princes légitimes ;</l>
+	<l id="121">Mais il en reste un fils, dès l'enfance sauvé,</l>
+	<l id="122">Que l'on a, pour nous perdre, en secret élevé :</l>
+	<l id="123">Tout inconnu qu'il est, dans Tyr on le révère.</l>
+	<l id="124" syll="6" part="i">Astrate peut beaucoup.</l>
+</sp>
+<sp who="NERBAL"><speaker>NERBAL.</speaker>
+	<l id="124" syll="6" part="f">Seigneur, voici son père.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Agénor, [Nerbal,] Sichée.
+</stage>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="125">J'ai reçu de la Reine ordre exprès de vous voir,</l>
+	<l id="126" syll="2" part="i">Seigneur.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="126" syll="10" part="f">Vous venez donc confirmer mon espoir </l>
+	<l id="127">M'assurer, de nouveau, du bonheur où j'aspire ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="128">Je n'ai rien de sa part de semblable à vous dire.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="129">Romprait-elle un hymen que j'ai droit d'espérer ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="130">Seigneur, la Reine, au moins, prétend le différer.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="131">Quoi, Sichée, un hymen à l'État nécessaire,</l>
+	<l id="132">Résolu par la Reine, ordonné par ton père,</l>
+	<l id="133">Attendu si longtemps, et tant de fois promis,</l>
+	<l id="134">Après le jour marqué, serait encor remis ?</l>
+	<l id="135">Avec quelles raisons se peut-elle défendre</l>
+	<l id="136">D'achever un bonheur où je dois seul prétendre ?</l>
+	<l id="137">Que dit-elle qui puisse excuser ses refus ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="138">Qu'elle le veut ainsi, Seigneur, et rien de plus.</l>
+	<l id="139">En cherchant des raisons, la fierté de la Reine</l>
+	<l id="140">Croirait trop abaisser la grandeur souveraine,</l>
+	<l id="141">Et prétend qu'en tous lieux, et qu'en toutes saisons,</l>
+	<l id="142">Les volontés des Rois tiennent lieu de raisons.</l>
+	<l id="143">Je vous dois trop, Seigneur, pour n'être pas sensible</l>
+	<l id="144">À l'affront que vous fait un mépris si visible.</l>
+	<l id="145">Lorsque par vos parents, aux yeux de l'Univers,</l>
+	<l id="146">Le vrai Roi fut jeté du trône dans les fers,</l>
+	<l id="147">Je ne puis oublier qu'on eût puni le zèle</l>
+	<l id="148">Qui de tous ses sujets me fit le plus fidèle,</l>
+	<l id="149">Si votre père, alors par pitié n'eût pour moi</l>
+	<l id="150">Pris le soin de calmer l'esprit du nouveau Roi.</l>
+	<l id="151">Depuis qu'Élise règne, et que son injustice</l>
+	<l id="152">De tout le sang royal s'est fait un sacrifice,</l>
+	<l id="153">Si tout le mien encore échappe à son courroux,</l>
+	<l id="154">Je sais trop qu'en effet je ne le dois qu'à vous.</l>
+	<l id="155">Cent fois de ses soupçons vous m'avez su défendre ;</l>
+	<l id="156">Et je connais assez quel parti je dois prendre,</l>
+	<l id="157">Si le juste dépit de trop de temps perdu</l>
+	<l id="158">Vous porte à vous saisir d'un bien qui vous est dû !</l>
+	<l id="159">Tout vous est favorable ; Élise, après son père,</l>
+	<l id="160">Du pouvoir souverain n'est que dépositaire :</l>
+	<l id="161">La Cour, qui veut un maître, à regret suit ses lois</l>
+	<l id="162">Le peuple est irrité du meurtre de ses Rois,</l>
+	<l id="163">Les plus braves soldats sont mécontents dans l'âme ;</l>
+	<l id="164">Un Roi sied mieux enfin au trône qu'une femme ;</l>
+	<l id="165">Et, malgré ses refus, il est doux de pouvoir</l>
+	<l id="166">Vous couronner vous-même, et ne lui rien devoir.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="167">Puis-je contre la Reine oser rien entreprendre ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="168">Mais plutôt contre vous qui pourrait la défendre ?</l>
+	<l id="169">Tout est pour vous, le peuple et l'armée et la Cour.</l>
+	<l id="170" syll="4" part="i">Rien n'est pour elle.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="170" syll="8" part="f">Hélas ! N'est-ce rien que l'amour ?</l>
+	<l id="171">Mes voeux vont à son coeur autant qu'à sa couronne ;</l>
+	<l id="172">L'un de ses biens n'est rien, si l'autre ne le donne ;</l>
+	<l id="173">Et j'aime mieux encor, pour être plus heureux,</l>
+	<l id="174">Attendre un peu plus tard, et les avoir tous deux.</l>
+	<l id="175">Allez, allez, Sichée, et dites à la Reine</l>
+	<l id="176">Qu'elle peut à son gré faire durer ma peine,</l>
+	<l id="177">Que son trône n'est pas ce qui m'a su charmer,</l>
+	<l id="178">Et qu'on peut tout souffrir, quand on fait bien aimer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Sichée, Bazore, Nicogène.
+</stage>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="179">J'attendais d'Agénor une âme moins soumise :</l>
+	<l id="180">Je l'ai cru plus charmé du trône que d'Élise ;</l>
+	<l id="181">Et ce délai nouveau me flattait aujourd'hui</l>
+	<l id="182">De quelque heureux divorce entre la Reine et lui.</l>
+</sp>
+<sp who="BAZORE"><speaker>BAZORE.</speaker>
+	<l id="183">Votre gloire, Seigneur, doit être sans seconde,</l>
+	<l id="184">Pour peu que la fortune à vos desseins réponde :</l>
+	<l id="185">Votre entreprise est belle, et vos projets sont grands ;</l>
+	<l id="186">Mais il faut désunir la maison des tyrans ;</l>
+	<l id="187">Sans quelque trouble entre eux l'issue est incertaine.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="188">De grâce, parlons bas ; nous sommes chez la Reine ;</l>
+	<l id="189">Défions-nous de tout ; craignons... Mais la voici,</l>
+	<l id="190" syll="6" part="i">Elle veut me parler.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Élise, Sichée, Géraste, Corisbe, Nicogène, Bazore, Suite.
+</stage> Suite.
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="190" syll="6" part="f">Que l'on nous laisse ici.</l>
+<stage type="exit">Tout le monde se retire à l'exception de Sichée.</stage>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="191">Le Prince a su votre ordre ; et malgré sa surprise,</l>
+	<l id="192">Il m'a fait voir une âme au dernier point soumise.</l>
+	<l id="193">J'ai voulu vainement, en m'offrant contre vous,</l>
+	<l id="194">Pénétrer ses desseins, et fonder son courroux ;</l>
+	<l id="195">Et soit qu'il me néglige, ou soit qu'il me soupçonne,</l>
+	<l id="196">Je n'ai rien vu de lui qu'un respect qui m'étonne :</l>
+	<l id="197">Mais si j'ose en juger, l'excès de ce respect</l>
+	<l id="198">Est trop peu naturel pour n'être pas suspect.</l>
+	<l id="199">Ce n'est pas d'aujourd'hui que le Prince sait feindre,</l>
+	<l id="200">Qu'on connaît qu'il excelle en l'art de se contraindre,</l>
+	<l id="201">Et dans tous les secrets que jusques à ce jour,</l>
+	<l id="202">L'artifice a pu mettre en usage à la Cour.</l>
+	<l id="203">Mais souvent les plus fins manquent à reconnaître</l>
+	<l id="204">Que c'est ne l'être plus, que le vouloir trop être</l>
+	<l id="205">L'art le plus affecté n'éblouît pas le mieux,</l>
+	<l id="206">Et le trop d'artifice ouvre souvent les yeux.</l>
+	<l id="207">Qui paraît si tranquille au moment qu'on l'outrage,</l>
+	<l id="208">Loin d'ôter des soupçons, en donne davantage ;</l>
+	<l id="209">Le dépit est plus fort, moins il est apparent,</l>
+	<l id="210">Et l'orage est à craindre, où le calme est trop grand.</l>
+	<l id="211">Le Prince peut assez, pour être téméraire ;</l>
+	<l id="212">Il croit que jusqu'au trône il n'a qu'un pas à faire,</l>
+	<l id="213">Qu'à monter un degré qu'on franchit tout d'un coup.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="214">Quand il s'agit du trône, un degré c'est beaucoup ;</l>
+	<l id="215">Quelque projet qu'il fasse, avant qu'il l'exécute,</l>
+	<l id="216">L'espace est assez grand pour craindre encor la chute ;</l>
+	<l id="217">Et lorsqu'on croit atteindre à ce rang plein d'appas,</l>
+	<l id="218">Le dernier pas qu'on fait est souvent un faux pas :</l>
+	<l id="219">Je vous avouerai tout, puisqu'il faut faire un maître,</l>
+	<l id="220">Je veux m'en donner un qui soit digne de l'être ;</l>
+	<l id="221">Qui puisse soutenir le souverain pouvoir,</l>
+	<l id="222">Et m'affermir au trône où je l'aurai fait seoir.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="223">Je rends grâce, Madame, au Ciel qui vous inspire</l>
+	<l id="224">Ce dessein favorable au bien de votre empire,</l>
+	<l id="225">Pour quelque Roi voisin que vous puissiez pencher...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="226">Quand on peut faire un Roi, quel besoin d'en chercher ?</l>
+	<l id="227">Je veux en choisir un qui soit tout mon ouvrage,</l>
+	<l id="228">Qui n'ait que de ma main ce suprême avantage,</l>
+	<l id="229">Qui ne doive qu'à moi le rang qu'il aura pris ;</l>
+	<l id="230">En un mot, ce grand choix regarde votre fils.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="231" syll="6" part="i">Mon fils ? Madame, ô Dieux !</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="231" syll="6" part="f">Quel trouble vous agite ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="232">Cet excès de bonheur rend mon âme interdite,</l>
+	<l id="233">Madame, et peu s'en faut que l'amour paternel</l>
+	<l id="234">Ne donne à vos bontés un aveu criminel,</l>
+	<l id="235">Et que mon coeur n'oublie avec trop peu de peine,</l>
+	<l id="236">En faveur de mon fils, l'intérêt de ma Reine :</l>
+	<l id="237">Mais mon devoir me force à vous représenter</l>
+	<l id="238">Les périls où ce choix peut vous précipiter.</l>
+	<l id="239">Pensez-vous qu'Agénor renonce au diadème,</l>
+	<l id="240">À moins de faire un Roi qui le soit de lui-même ;</l>
+	<l id="241">Qui pour vous pouvoir mettre au-dessus des mutins,</l>
+	<l id="242">Vous élève au-delà de vos premiers destins ?</l>
+	<l id="243">Le Prince aspire au sceptre, et doit y trop prétendre,</l>
+	<l id="244">Pour le laisser en paix à qui l'osera prendre :</l>
+	<l id="245">Sur lui seul votre père a fixé votre choix ;</l>
+	<l id="246">Il a des partisans qui soutiendront ses droits ;</l>
+	<l id="247">La foule de la Cour le suit et l'environne.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="248">On court à sa fortune, et non à sa personne.</l>
+	<l id="249">L'espoir de le voir Roi le fait suivre aujourd'hui,</l>
+	<l id="250">N'ayant plus cet espoir, il n'aura rien pour lui ;</l>
+	<l id="251">Ce qui suit la Fortune, avec elle s'écoule,</l>
+	<l id="252">Et son moindre revers écarte bien la foule.</l>
+	<l id="253">Si le Prince eut des droits, qu'il ne s'en flatte plus,</l>
+	<l id="254">Dans nos derniers combats il les a tous perdus ;</l>
+	<l id="255">Lorsqu'il me réduisit en perdant deux batailles,</l>
+	<l id="256">À me voir assiéger jusques dans ces murailles,</l>
+	<l id="257">Des Syriens vainqueurs, l'effort a renversé</l>
+	<l id="258">Le trône que pour lui mon père avait laissé ;</l>
+	<l id="259">Et le Prince obligé de le savoir défendre,</l>
+	<l id="260">Le devait relever, s'il y voulait prétendre.</l>
+	<l id="261">Un autre a su le faire, et s'est mis dans ses droits ;</l>
+	<l id="262">Mon trône enfin n'est plus tel qu'il fut autrefois,</l>
+	<l id="263">Un trône ôté par force à son Roi légitime,</l>
+	<l id="264">Cimenté de son sang, et fondé sur le crime.</l>
+	<l id="265">C'en est un de conquête, où votre illustre fils</l>
+	<l id="266">M'a placée en dépit des destins ennemis ;</l>
+	<l id="267">Dont le feu de la guerre a purgé l'injustice,</l>
+	<l id="268">Qu'un héros a pour moi tiré du précipice,</l>
+	<l id="269">A formé du débris d'un Empire abattu,</l>
+	<l id="270">Et ne m'a fait devoir qu'à sa seule vertu.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="271">Astrate fut heureux, et peut cesser de l'être :</l>
+	<l id="272">C'est un fils qui m'est cher, mais je le dois connaître :</l>
+	<l id="273">Loin comme il est de vous, pourriez-vous aujourd'hui,</l>
+	<l id="274">Sans vous trop abaisser, descendre jusqu'à lui ?</l>
+	<l id="275">Il a sans doute un coeur qui ne cède à nul autre,</l>
+	<l id="276">Mais il n'a point de sceptre à joindre avec le vôtre,</l>
+	<l id="277">Point de rang qui mérite un si glorieux soin.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="278">Il a de la vertu, c'est de quoi j'ai besoin.</l>
+	<l id="279">Le crime, en ma famille, a mis le diadème ;</l>
+	<l id="280">L'ayant ainsi reçu, je l'ai gardé de même.</l>
+	<l id="281">Mon père fut injuste, et le fut moins que moi :</l>
+	<l id="282">Mon règne commença par la mort du vrai Roi :</l>
+	<l id="283">Après quinze ans entiers de prison et de peines,</l>
+	<l id="284">N'ayant plus nul espoir qu'on pût briser ses chaînes,</l>
+	<l id="285">Son parti réveillé, voyant mon père mort,</l>
+	<l id="286">Crut que contre une fille il serait assez fort.</l>
+	<l id="287">Mais j'osai, dans le trouble où je me vis réduite,</l>
+	<l id="288">En détruisant la source, en arrêter la suite ;</l>
+	<l id="289">Et du danger pressée, enfin je me défis</l>
+	<l id="290">De ce Roi malheureux, et de deux de ses fils.</l>
+	<l id="291">Le troisième, à mon père échappé dès l'enfance,</l>
+	<l id="292">Caché dans mes États, prépare sa vengeance :</l>
+	<l id="293">J'en ai divers avis, et le peuple irrité,</l>
+	<l id="294">Pour lui, sans le connaître, est presque révolté.</l>
+	<l id="295">Le Prince, en m'épousant, loin d'assurer ma tête,</l>
+	<l id="296">N'aiderait qu'à grossir l'orage qui s'apprête ;</l>
+	<l id="297">Et le peuple serait encor plus mutiné,</l>
+	<l id="298">S'il voyait des tyrans tout le sang couronné.</l>
+	<l id="299">J'ai besoin d'un époux illustre et magnanime,</l>
+	<l id="300">Qui m'allie à la gloire, et me tire du crime,</l>
+	<l id="301">Dont la vertu pour moi, calme les factieux,</l>
+	<l id="302">Écarte la tempête et désarme les Dieux.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="303">En faveur de mon fils, c'est en vouloir trop croire,</l>
+	<l id="304">C'est trop vous éblouir du peu qu'il a de gloire ;</l>
+	<l id="305">Le sceptre entre ses mains fera mille jaloux.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="306">S'il n'importe pour moi, qu'importe-t-il pour vous ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="307">J'ai cru qu'un bon sujet ne vous devait rien taire.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="308">C'est trop être sujet, soyez un peu plus père,</l>
+	<l id="309">Et laissez, sans contrainte, échapper au-dehors,</l>
+	<l id="310">De l'amour paternel la joie et les transports.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="311">Astrate vous doit trop, et je lui cours apprendre...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="312">Non ; envoyez-le-moi, sans lui rien faire entendre.</l>
+	<l id="313">Je lui prétends moi-même annoncer son bonheur,</l>
+	<l id="314">Et connaître l'effet qu'il fera sur son coeur.</l>
+	<l id="315">Cependant, employez toute votre prudence</l>
+	<l id="316">À chercher l'ennemi dont je crains la vengeance.</l>
+	<l id="317">De Jupiter Hammon, l'Oracle consulté,</l>
+	<l id="318">Nous en pourra bientôt donner quelque clarté :</l>
+	<l id="319">J'espère en sa réponse, et je l'attends sans cesse ;</l>
+	<l id="320">Mais elle tarde trop, et le péril me presse.</l>
+	<l id="321">Mon ennemi, peut-être, est prêt à me punir,</l>
+	<l id="322">Tâchons de le connaître, et de le prévenir.</l>
+	<l id="323">J'ai trop fait, pour laisser ma fortune douteuse :</l>
+	<l id="324">L'injustice imparfaite est la plus périlleuse ;</l>
+	<l id="325">C'est erreur de tenter des crimes superflus,</l>
+	<l id="326">Et de n'en pas jouir, pour un crime de plus.</l>
+	<l id="327">Je me trouve en un rang où je dois me défendre</l>
+	<l id="328">De tout ce qui pourrait me forcer d'en descendre :</l>
+	<l id="329">Adraste, et ses deux fils, pourraient m'en faire choir,</l>
+	<l id="330">Et j'ai cru que leur perte était de mon devoir.</l>
+	<l id="331">J'eusse épargné leur sang, s'il m'eut été possible ;</l>
+	<l id="332">Le sang versé toujours de lui-même est horrible :</l>
+	<l id="333">La vertu résistait sans doute à leur trépas ;</l>
+	<l id="334">Mais ma perte était sûre, en ne les perdant pas ;</l>
+	<l id="335">Et la raison d'État veut souvent qu'on préfère</l>
+	<l id="336">À la vertu nuisible, un crime nécessaire.</l>
+	<l id="337">Cette même raison exige encore de moi,</l>
+	<l id="338">La mort du dernier fils de ce malheureux Roi.</l>
+	<l id="339">Il ne m'est plus permis de m'épargner ce crime ;</l>
+	<l id="340">Mon destin me demande encor cette victime</l>
+	<l id="341">Le sort de ma maison, plus fort que mes souhaits,</l>
+	<l id="342">M'arrache à l'innocence, et m'enchaîne aux forfaits.</l>
+	<l id="343">Il m'en fait un devoir, et me force à connaître</l>
+	<l id="344">Qu'on n'est pas toujours juste autant qu'on voudrait l'être ;</l>
+	<l id="345">Qu'il est des Ascendants, dont la fatalité</l>
+	<l id="346">Nous impose du crime une nécessité ;</l>
+	<l id="347">Et qu'en nous quelquefois, par un pouvoir suprême,</l>
+	<l id="348">Il entre du destin jusqu'en la vertu même.</l>
+	<l id="349">Épousez donc mon sort, comme moi votre Fils,</l>
+	<l id="350">Et souffrez des forfaits dont il reçoit le prix.</l>
+	<l id="351">Cherchez, avecque moi l'ennemi qui me reste :</l>
+	<l id="352">Ma chute désormais vous deviendrait funeste.</l>
+	<l id="353">Songez que sans vous nuire on ne peut m'attaquer.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="354">Je sais trop mon devoir pour y pouvoir manquer.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Élise, Corisbe.
+</stage>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="355">Viens savoir avec moi ce que l'Orale annonce,</l>
+	<l id="356">Il a parlé, Corisbe, et voici sa réponse ;</l>
+	<l id="357">Je l'ai voulu secrète, afin de consulter</l>
+	<l id="358">S'il m'est utile ou non, de la faire éclater.</l>
+	<l id="359">Voyons quelle clarté par le Ciel m'est offerte,</l>
+	<l id="360">Pour trouver l'Ennemi qui conspire ma perte :</l>
+	<l id="361">Apprenons qui doit craindre, ou qui doit espérer,</l>
+	<l id="362">Et pour qui les destins se veulent déclarer.</l>
+	<l id="363">Les soins qu'en ma faveur ils ont déjà su prendre,</l>
+	<l id="364">Semblent me donner lieu d'en oser tout attendre.</l>
+<stage type="read">Elle lit.</stage>
+<stage type="title">ORACLE.</stage>
+	<l id="365">Reine, en cherche point ailleurs que dans ta Cour,</l>
+	<l id="366">L'Ennemi que le Ciel pour ta perte a fait naître :</l>
+	<l id="367">L'heure fatale approche, où tu le dois connaître ;</l>
+	<l id="368">Mais il t'en doit coûter, et l'Empire, et le jour.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="369">Quel oracle, Madame ! Et qu'il est effroyable !</l>
+	<l id="370">Quoi, le sort qui pour vous semblait si favorable ;</l>
+	<l id="371">Veut déjà s'en dédire et vous abandonner ?</l>
+	<l id="372" syll="6" part="i">Quel revers étonnant ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="372" syll="6" part="f">Faut-il s'en étonner ?</l>
+	<l id="373">Le Sort m'avait flattée ; il me menace, il change ;</l>
+	<l id="374">Ce n'est que sa coutume, il ne fait rien d'étrange :</l>
+	<l id="375">Il avait trop longtemps soutenu mon parti ;</l>
+	<l id="376">À ne s'en pas dédire, il se fût démenti.</l>
+	<l id="377">N'attends point de me voir plaindre de la Fortune,</l>
+	<l id="378">La plainte a des douceurs pour une âme commune :</l>
+	<l id="379">Mais une âme élevée en doit bien moins trouver</l>
+	<l id="380">À se plaindre du Sort, qu'à le savoir braver.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="381">Pensez-vous qu'aux grands coeurs, quand le Ciel les menace,</l>
+	<l id="382">Un peu d'effroi, Madame, ait si mauvaise grâce ?</l>
+	<l id="383">Quoi, vous voyez les Dieux prêts à vous accabler,</l>
+	<l id="384" syll="6" part="i">Et vous ne tremblez pas ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="384" syll="6" part="f">Que sert-il de trembler ?</l>
+	<l id="385">S'il est bien vrai qu'au Ciel ma perte soit écrite,</l>
+	<l id="386">Pour en craindre le coup, crois-tu que je l'évite ?</l>
+	<l id="387">Et par mes faibles soins, qu'il soit encore en moi</l>
+	<l id="388">D'altérer des destins l'inviolable loi ?</l>
+	<l id="389">Non, pour fuir les périls que prédit un Oracle,</l>
+	<l id="390">L'ébranlement sert moins de secours que d'obstacle ;</l>
+	<l id="391">Et l'aveugle terreur, quand on doit trébucher,</l>
+	<l id="392">Précipite la chute au lieu de l'empêcher.</l>
+	<l id="393">Tel Oracle, parfois, s'est accompli sans peine,</l>
+	<l id="394">Qui n'a dû son succès qu'à la faiblesse humaine.</l>
+	<l id="395">Et qui, s'il n'eût fait peur, eût pu courir hasard</l>
+	<l id="396">De n'avoir point d'effet, ou d'en avoir plus tard.</l>
+	<l id="397">Ne s'ébranler de rien, et d'une âme constante</l>
+	<l id="398">Rendre, s'il sauf périr, sa disgrâce éclatante ;</l>
+	<l id="399">Suivre en paix son destin et laisser faire aux Dieux,</l>
+	<l id="400">C'est toujours le plus sûr et le plus glorieux.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="401">Ces nobles sentiments, ce courage admirable,</l>
+	<l id="402">Méritaient bien un sort qui fût plus favorable ;</l>
+	<l id="403">Et que les Dieux, pour vous propices plus longtemps,</l>
+	<l id="404">Se fissent quelque effort, pour être plus constants.</l>
+	<l id="405">Avez-vous à ce point mérité leur colère ?</l>
+	<l id="406">Quel autre n'eût point fait ce qu'on vous a vu faire ?</l>
+	<l id="407">Et quels soins violents avez-vous jamais pris,</l>
+	<l id="408">Que le dernier besoin ne vous ait pas prescrits ?</l>
+	<l id="409">Agénor est le seul, à parler sans rien feindre,</l>
+	<l id="410">Qui de vous justement puisse encore se plaindre.</l>
+	<l id="411">Un devoir si puissant vous parle en sa faveur...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="412">Je l'avouerai, Corisbe, il a droit sur mon coeur :</l>
+	<l id="413">Il doit me plaire seul, par l'ordre de mon père ;</l>
+	<l id="414">Et peut-être il m'eût plu, s'il eût moins dû me plaire.</l>
+	<l id="415">Les noeuds déjà formés par le sang entre nous,</l>
+	<l id="416">M'auraient pu disposer à des liens plus doux ;</l>
+	<l id="417">Et peut-être vers lui, sans un effort extrême,</l>
+	<l id="418">Mon coeur, se trouvant libre, eût penché de lui-même.</l>
+	<l id="419">Mais s'agissant d'aimer, un coeur plein de fierté</l>
+	<l id="420">Est, contre la contrainte, aisément révolté :</l>
+	<l id="421">À tout ce qu'on impose avec peine on incline,</l>
+	<l id="422">Tel choix plairait, qu'on suit dès qu'on le détermine.</l>
+	<l id="423">L'amour, libre de foi, n'obéit jamais bien ;</l>
+	<l id="424">Mais surtout sur le trône, il ne prend loi de rien ;</l>
+	<l id="425">Bien souvent le devoir lui nuit, loin de l'accroître ;</l>
+	<l id="426">Et le droit d'être aimé sert d'obstacle pour l'être.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="427" syll="6" part="i">Je plains le Prince, il aime.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="427" syll="6" part="f">Au rang où je me vois,</l>
+	<l id="428">Me répondrais-tu bien de ce qu'il aime en moi ?</l>
+	<l id="429">Ce n'est pas à mon coeur qu'il veut peut-être atteindre :</l>
+	<l id="430">Mais le voici qui vient, sans doute, pour se plaindre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Agénor, Élise, Corisbe.
+</stage>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="431">Si dans l'état funeste où vos ordres m'ont mis,</l>
+	<l id="432">L'espoir d'être écouté peut m'être encor permis...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="433">Souffrez que je m'explique avant que vous entendre.</l>
+	<l id="434">J'écoute tout le monde, et ne puis m'en défendre ;</l>
+	<l id="435">C'est un bien que les Rois doivent peu refuser,</l>
+	<l id="436">Mais il est dangereux de n'en pas bien user :</l>
+	<l id="437">Vous êtes irrité, vous croyez devoir l'être ;</l>
+	<l id="438">Quand le dépit échappe, on n'en est plus le maître ;</l>
+	<l id="439">C'est son premier transport qu'on doit plus retenir ;</l>
+	<l id="440">J'ai du rang où je suis la gloire à soutenir.</l>
+	<l id="441">On ne peut rien souffrir au trône sans faiblesse,</l>
+	<l id="442">Ses droits sont délicats, peu de chose les blesse.</l>
+	<l id="443">Voilà ce que j'ai cru ne vous pouvoir celer ;</l>
+	<l id="444">Après cela j'écoute, et vous pouvez parler.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="445">Un transport violent m'agite et me possède,</l>
+	<l id="446">Je l'avoue, il m'emporte, et tout mon coeur lui cède ;</l>
+	<l id="447">Mais n'en redoutez rien qui vous blesse en ce jour,</l>
+	<l id="448">Ce n'est pas le dépit, Madame, c'est l'amour.</l>
+	<l id="449">Je n'entends que trop bien tout ce que me veut dire</l>
+	<l id="450">Le délai rigoureux du bonheur où j'aspire ;</l>
+	<l id="451">Je vois ce qui vous rend mon hymen sans appas ;</l>
+	<l id="452">L'hymen déplaît toujours, quand l'époux ne plaît pas :</l>
+	<l id="453">Mais à quoi que m'expose un si cruel supplice,</l>
+	<l id="454">Faut-il pas se connaître, et se faire justice ?</l>
+	<l id="455">Dois-je m'en prendre à vous, puis-je vous en blâmer ?</l>
+	<l id="456">Si je n'ai pu vous plaire, avez-vous dû m'aimer ?</l>
+	<l id="457">Et s'il manque à mes feux le secours d'un mérite</l>
+	<l id="458">Dont la force en secret pour moi vous sollicite ;</l>
+	<l id="459">Si je n'ai pas su l'art de toucher votre coeur ;</l>
+	<l id="460">Si vous n'y sentez rien qui parle en ma faveur,</l>
+	<l id="461">Rien qui cherche à répondre à mon amour extrême,</l>
+	<l id="462">La faute en peut-elle être ailleurs que dans moi-même ?</l>
+	<l id="463">Bien que l'ordre d'un Prince ait flatté mon espoir,</l>
+	<l id="464">Je n'aime pas si mal que de m'en prévaloir ;</l>
+	<l id="465">J'en veux à votre coeur plutôt qu'à votre Empire ;</l>
+	<l id="466">Et quoi qu'en ma faveur votre père ait pu dire,</l>
+	<l id="467">Quoi qu'il vous ait prescrit au point de son trépas,</l>
+	<l id="468">Le don du coeur est libre et ne se prescrit pas.</l>
+	<l id="469">Pour peu que de son choix la loi vous semble dure,</l>
+	<l id="470">Vous pouvez au délai joindre encor la rupture ;</l>
+	<l id="471">Eussé-je mille droits pour être votre époux,</l>
+	<l id="472">Mon amour y renonce et vous rend toute à vous :</l>
+	<l id="473">Je vous mets en pouvoir de vous choisir un maître ;</l>
+	<l id="474">Qui n'a pas vos désirs n'est pas digne de l'être ;</l>
+	<l id="475">Votre coeur seul doit faire un choix si glorieux,</l>
+	<l id="476">Et le vrai droit du trône, est de plaire à vos yeux.</l>
+	<l id="477">Vous pouvez me l'ôter, et ne devez pas craindre</l>
+	<l id="478">Que j'aime mon bonheur jusqu'à vous y contraindre :</l>
+	<l id="479">Désormais contre vous, malgré votre rigueur,</l>
+	<l id="480">La révolte n'est plus au pouvoir de mon coeur :</l>
+	<l id="481">Pour ne me pas soumettre, ainsi que bon vous semble,</l>
+	<l id="482">La couronne et vos yeux sont trop fort joints ensemble ;</l>
+	<l id="483">J'ai de subir vos lois un double engagement,</l>
+	<l id="484">C'est peu d'être sujet, je suis encore amant :</l>
+	<l id="485">Quelque dure toujours que soit la servitude,</l>
+	<l id="486">L'amour m'en a fait faire une douce habitude,</l>
+	<l id="487">Et l'on doit craindre peu que rien puisse en ce jour</l>
+	<l id="488">Ébranler le devoir soutenu par l'amour.</l>
+	<l id="489">Disposez donc enfin du trône et de vous-même :</l>
+	<l id="490">Seulement, s'il se peut, songez que je vous aime,</l>
+	<l id="491">Et mériterais mieux que d'éternels tourments,</l>
+	<l id="492">Si l'amour tenait lieu de mérite aux amants.</l>
+	<l id="493">Je ne vous dis plus rien, Madame, et vais attendre</l>
+	<l id="494">L'arrêt que, sur mon sort il vous plaira de rendre.</l>
+	<l id="495">Pour laisser votre choix en pleine liberté,</l>
+	<l id="496">Je ne vous verrai plus qu'il ne soit arrêté ;</l>
+	<l id="497">Et veux vous épargner jusqu'à la violence</l>
+	<l id="498">Que peut, même en secret, vous faire ma présence.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Corisbe, Élise.
+</stage>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="499">Enfin, selon vos voeux vous pourrez faire un choix :</l>
+	<l id="500">Le Prince vous dégage et vous remet ses droits ;</l>
+	<l id="501">Il ne vous laisse plus aucun scrupule à faire.</l>
+	<l id="502">Sur l'ordre, en sa faveur laissé par votre père.</l>
+	<l id="503" syll="6" part="i">Vous ne devez plus rien...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="503" syll="6" part="f">Par quelle injuste loi</l>
+	<l id="504">Ne lui dois-je plus rien, quand il fait tout pour moi ?</l>
+	<l id="505">Corisbe me croit-elle une âme si farouche,</l>
+	<l id="506">Qu'une belle action n'ait plus rien qui me touche ?</l>
+	<l id="507">Et que l'excès d'amour d'un Prince si soumis,</l>
+	<l id="508">N'ait pas des droits plus forts que ceux qu'il m'a remis ?</l>
+	<l id="509">J'ai peine toutefois, quoi que je me figure,</l>
+	<l id="510">De croire dans le Prince une vertu si pure,</l>
+	<l id="511">Et de n'y soupçonner d'aucun déguisement</l>
+	<l id="512">L'excès étudié d'un si beau sentiment.</l>
+	<l id="513">J'y reconnais plus d'art que l'amour n'en inspire :</l>
+	<l id="514">Pour m'aimer comme il dit, il l'a su trop bien dire ;</l>
+	<l id="515">Et quand je le croirais, à te parler sans fard,</l>
+	<l id="516">J'aurais toujours bien peur de le croire trop tard.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="517">Il est vrai que Sichée a reçu de vous-même,</l>
+	<l id="518">En faveur de son fils, l'espoir du diadème.</l>
+	<l id="519">Ils sont considérés tous deux dans vos États ;</l>
+	<l id="520">Le père l'est du peuple et le fils des soldats :</l>
+	<l id="521">Vous en avez besoin pour vous pouvoir défendre</l>
+	<l id="522">De l'ennemi caché qui cherche à vous surprendre.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="523">Je hais cet ennemi d'une invincible horreur ;</l>
+	<l id="524">Mais la haine n'est pas toute seule en mon coeur ;</l>
+	<l id="525">Astrate doit mon choix à plus que cette haine.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="526">Vous devez à son bras la grandeur souveraine ;</l>
+	<l id="527">Et la reconnaissance a pu vous émouvoir ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="528">Ce qui m'émeut, Corisbe, a bien plus de pouvoir.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="529">Mais ce n'est pas l'amour ? Je vous dois trop connaître.</l>
+	<l id="530" syll="3" part="i">Il ne peut...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="530" syll="9" part="f">Et pourquoi ne pourrait-ce pas l'être ?</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="531">Quoi donc ? Un coeur si fier, si plein de fermeté,</l>
+	<l id="532">Par l'effort de l'amour peut être surmonté !</l>
+	<l id="533">Il en ressent l'atteinte ; il s'y trouve accessible ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="534">Crois-tu, pour être fier, qu'un coeur soit insensible ?</l>
+	<l id="535">Et quelque fermeté qu'on ait pu mettre au jour,</l>
+	<l id="536">Qu'auprès d'un grand mérite on échappe à l'amour ?</l>
+	<l id="537">Apprends que dans une âme, avec peine rendue,</l>
+	<l id="538">Rien ne fait mieux aimer que la fierté vaincue :</l>
+	<l id="539">Qu'un coeur est plus touché, plus il a fait d'effort,</l>
+	<l id="540">Et qu'où l'obstacle est grand, l'amour en est plus sort.</l>
+	<l id="541">Au bonheur d'Agénor voilà ce qui s'oppose ;</l>
+	<l id="542">Du choix d'Astrate enfin voilà la seule cause ;</l>
+	<l id="543">Voilà ce que j'ai su trop bien dissimuler ;</l>
+	<l id="544">Et si j'attends si tard à te le révéler,</l>
+	<l id="545">Ne t'en étonne pas ; avec un soin extrême,</l>
+	<l id="546">Je m'en suis fait longtemps un secret à moi-même.</l>
+	<l id="547">Mon coeur d'abord sans doute aurait mieux résisté,</l>
+	<l id="548">S'il n'eût été trahi par sa propre fierté :</l>
+	<l id="549">C'est elle qui du coup dont tu me vis atteinte,</l>
+	<l id="550">M'a causé la surprise, en m'en ôtant la crainte.</l>
+	<l id="551">Oui, loin de me servir, mon orgueil m'abusant,</l>
+	<l id="552">M'a livrée à l'amour en me le déguisant :</l>
+	<l id="553">Je négligeai d'abord une langueur secrète ;</l>
+	<l id="554">Je n'appelai qu'estime, une estime inquiète ;</l>
+	<l id="555">Et mon coeur, trop superbe et trop crédule aussi,</l>
+	<l id="556">Crut même, en soupirant, qu'on estimait ainsi.</l>
+	<l id="557">L'amour faible toujours, quand il ne fait que naître,</l>
+	<l id="558">Caché sous cette erreur, a pris le temps de croître,</l>
+	<l id="559">Et contre mon orgueil ne s'est pas déclaré,</l>
+	<l id="560">Qu'il n'ait de sa victoire été bien assuré.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="561">Cet amour me surprend, et je croyais, Madame,</l>
+	<l id="562">Que l'ambition seule avait touché votre âme.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="563">Dès que j'ouvris les yeux, Astrate et la grandeur,</l>
+	<l id="564">Tous deux, d'un charme égal, surent frapper mon coeur :</l>
+	<l id="565">Mon âme également s'en trouva pénétrée ;</l>
+	<l id="566">Mais cette égalité ne fut pas de durée ;</l>
+	<l id="567">Ces deux divers transports prirent un divers cours :</l>
+	<l id="568">J'eus même ambition, mais l'amour crût toujours.</l>
+	<l id="569">Je t'avouerai bien plus, toutes mes injustices,</l>
+	<l id="570">Tout ce que pour mon rang j'ai fait de sacrifices,</l>
+	<l id="571">J'ai tout fait pour Astrate ; et, pour rien épargner,</l>
+	<l id="572">Ce héros m'a paru trop digne de régner.</l>
+	<l id="573">J'ai tenté pour donner un trône à ce que j'aime,</l>
+	<l id="574">Ce que jamais mon coeur n'eût osé pour moi-même ;</l>
+	<l id="575">Et les raisons d'État qu'on m'a vu mettre au jour,</l>
+	<l id="576">N'ont servi que de voile à des crimes d'amour.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="577">Je m'assure qu'Astrate aussi pour vous soupire ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="578">Il m'aime ; ce n'est pas qu'il me l'ait osé dire ;</l>
+	<l id="579">Pour contraindre sa flamme, il n'a rien épargné ;</l>
+	<l id="580">Le silence toujours sur sa bouche a régné :</l>
+	<l id="581">Mais un coeur pour parler n'a-t-il qu'un interprète ?</l>
+	<l id="582">Ne dit-on rien des yeux, quand la bouche est muette ?</l>
+	<l id="583">L'amant qui craint le plus de rien faire éclater,</l>
+	<l id="584">N'en dit toujours que trop à qui veut l'écouter ;</l>
+	<l id="585">En vain pour se contraindre on prend un soin extrême ;</l>
+	<l id="586">Tout parle dans l'amour, jusqu'au silence même.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="587">Quand le respect d'Astrate, en s'oubliant un peu,</l>
+	<l id="588">Vous aurait épargné la peine d'un aveu ;</l>
+	<l id="589">Quand par un beau transport, il eût moins su se taire,</l>
+	<l id="590">À dire vrai, Madame, eût-il pu vous déplaire ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="591">Du moins il l'aurait dû, c'était trop s'oublier,</l>
+	<l id="592">Et ce n'est pas à lui de parler le premier.</l>
+	<l id="593">Je sais qu'à notre sexe il sied bien d'ordinaire,</l>
+	<l id="594">De laisser aux amants les premiers pas à faire,</l>
+	<l id="595">De tenir, avec soin, tout notre amour caché,</l>
+	<l id="596">D'attendre que l'aveu nous en soit arraché,</l>
+	<l id="597">De ne parler qu'après d'extrêmes violences :</l>
+	<l id="598">Mais je règne, et le trône a d'autres bienséances ;</l>
+	<l id="599">Et quand jusqu'à ce rang notre sexe est monté,</l>
+	<l id="600">Il doit être au-dessus de la timidité.</l>
+	<l id="601">Astrate est mon sujet, et la toute-puissance</l>
+	<l id="602">L'engage aux mêmes lois dont elle me dispense.</l>
+	<l id="603">Quelque ardeur qui l'emporte, il doit se retenir ;</l>
+	<l id="604">C'est à moi de descendre et de le prévenir,</l>
+	<l id="605">De l'aider à s'ouvrir, de l'y servir de guide ;</l>
+	<l id="606">Jusques-là c'est à lui d'aimer d'un feu timide,</l>
+	<l id="607">D'en cacher tout l'éclat, et pour le mettre au jour,</l>
+	<l id="608">D'attendre qu'il m'ait plu d'enhardir son amour.</l>
+	<l id="609">Tu m'y vois résolue, et c'est trop m'en défendre.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="610">Et l'amour d'Agénor n'a donc rien à prétendre ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="611">Je l'oubliais déjà, fais m'en ressouvenir ;</l>
+	<l id="612">Il a trop fait pour moi pour ne rien obtenir :</l>
+	<l id="613">Je l'avoue, et promets, pour ne point être ingrate,</l>
+	<l id="614" syll="1" part="i">De...</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="614" syll="5" part="m">Quoi, qui vous retient ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="614" syll="6" part="f">Ne vois-tu pas Astrate ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Astrate, Élise, Corisbe.
+</stage>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="615">D'un ennemi caché craignez moins les desseins :</l>
+	<l id="616">J'ose espérer dans peu de le mettre en vos mains,</l>
+	<l id="617">Madame, et la fortune, à mes désirs propice,</l>
+	<l id="618">Semble me réserver l'honneur de ce service.</l>
+	<l id="619">Deux de mes gens pressés d'entrer dans son parti,</l>
+	<l id="620">Ont feint de s'y résoudre, et m'en ont averti.</l>
+	<l id="621">Je les viens d'animer, et d'instruire à connaître</l>
+	<l id="622">Ce perfide ennemi, qui craint tant de paraître,</l>
+	<l id="623">Qui cherche avec bassesse, à se faire raison,</l>
+	<l id="624">Et n'aspire à régner que par la trahison.</l>
+	<l id="625">Ils m'ont tous deux promis d'éclaircir ce mystère.</l>
+	<l id="626">Occupé par ces soins, je n'ai pu voir mon père ;</l>
+	<l id="627">Peut-être a-t-il aussi quelque éclaircissement ;</l>
+	<l id="628">On m'a dit qu'il me cherche avec empressement ;</l>
+	<l id="629">Et comme il fait les soins qu'un zèle ardent m'inspire...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="630">Je puis vous dire plus qu'il ne pourrait vous dire ;</l>
+	<l id="631">Et je crois que pour vous il vaut mieux aujourd'hui</l>
+	<l id="632">Devoir tout mon secret à moi-même qu'à lui.</l>
+	<l id="633">Cessons de feindre, Astrate, on veut me faire croire</l>
+	<l id="634">Qu'oubliant tout devoir, séduit par trop de gloire,</l>
+	<l id="635">Vous avez jusqu'à moi secrètement osé...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="636">Quoi ? Près de vous, Madame, on m'aurais accusé ?</l>
+	<l id="637">Ah ! S'il en est besoin, je puis trop me défendre...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="638">Il n'est besoin ici que de me bien entendre.</l>
+	<l id="639">Avant que de répondre examinez vous bien ;</l>
+	<l id="640">Voyez si votre coeur ne s'accuse de rien,</l>
+	<l id="641">S'il ne se sent pour moi rien d'un peu téméraire,</l>
+	<l id="642">Rien qui passe l'ardeur d'un sujet ordinaire...</l>
+	<l id="643">Vous vous troublez, Astrate ; il suffit, répondez ;</l>
+	<l id="644">C'est à vous à parler, puisque vous m'entendez.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="645">Je vois que vous savez ma téméraire flamme ;</l>
+	<l id="646">On vous a révélé le secret de mon âme ;</l>
+	<l id="647">Et de mes seuls regards l'indiscrète langueur,</l>
+	<l id="648">Vous a pu découvrir l'audace de mon coeur.</l>
+	<l id="649">Ils vous ont dit trop vrai pour oser les dédire ;</l>
+	<l id="650">Et cette ardeur aveugle a sur moi tant d'empire,</l>
+	<l id="651">Que, dussé-je en périr, je ne sais pas trop bien</l>
+	<l id="652">Si je pourrais vouloir que vous n'en sussiez rien.</l>
+	<l id="653">J'ai bien jugé toujours, quoi que je pusse faire,</l>
+	<l id="654">Que je vous aimais trop pour m'en pouvoir bien taire :</l>
+	<l id="655">Mais quelque affreux péril qui me dût alarmer,</l>
+	<l id="656">J'aurais bien du regret d'avoir pu moins aimer.</l>
+	<l id="657">D'un crime si charmant mon coeur insatiable,</l>
+	<l id="658">En voudrait, s'il pouvait, être encor plus coupable ;</l>
+	<l id="659">Et si je l'ose dire, aime mieux consentir</l>
+	<l id="660">À tout votre courroux qu'au moindre repentir.</l>
+	<l id="661">Lorsque, par un transport, dont on est plus le maître,</l>
+	<l id="662">On devient téméraire, on ne saurait trop l'être ;</l>
+	<l id="663">Et dès qu'on a pu mettre un feu coupable au jour,</l>
+	<l id="664">C'est l'excès qui peut seul justifier l'amour.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="665">Puis-je exiger du vôtre une marque allez grande ?...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="666" syll="3" part="i">Si ma mort...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="666" syll="9" part="f">Ce n'est pas ce que je vous demande ;</l>
+	<l id="667">Il s'agit seulement du choix de mon époux,</l>
+	<l id="668">Et c'est sur quoi je veux ne consulter que vous.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="669">Hélas ! Ce choix encor pourrait-il être à faire ?</l>
+	<l id="670" syll="6" part="i">Agénor en est sûr ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="670" syll="6" part="f">Oui, du choix de mon père.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="671">Et du vôtre, Madame, en pourrait-il douter ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="672">S'il ne penchait ailleurs, qu'aurais-je à consulter ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="673">À moins d'un rang égal à votre rang suprême...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="674">Les inégalités ne sont rien, quand on aime ;</l>
+	<l id="675">Et quelques rangs divers où deux coeurs soient placés,</l>
+	<l id="676">Quand l'amour les unit, il les égale assez.</l>
+	<l id="677">C'est au choix d'un sujet qu'un doux penchant m'engage ;</l>
+	<l id="678">Mais un sujet si grand, par son propre courage,</l>
+	<l id="679">Si digne d'engager une Reine à l'amour...</l>
+	<l id="680">J'ose assez ; il est temps d'oser à votre tour.</l>
+	<l id="681">Vous-même là-dessus jugez qui ce peut être.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="682">Me serait-il permis d'oser me reconnaître ?</l>
+	<l id="683">M'en désavoueriez-vous ? Vous vous taisez, hélas !</l>
+	<l id="684" syll="6" part="i">N'ai-je point trop osé ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="684" syll="6" part="f">Je ne me tairais pas.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="685">Ah ! Par ces mots charmants tout mon bonheur s'achève.</l>
+	<l id="686">Mais peut-être il faudra qu'un rival me l'enlève ;</l>
+	<l id="687">Que tout ce tendre amour cède aux droits d'Agénor.</l>
+	<l id="688" syll="6" part="i">Dieux ! S'il est votre époux ?...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="688" syll="6" part="f">Il ne l'est pas encor :</l>
+	<l id="689">Mais quand vous connaîtrez ce qu'il m'a fait connaître,</l>
+	<l id="690">Peut-être avouerez-vous qu'il est digne de l'être.</l>
+	<l id="691">De l'ordre de mon père il ne se prévaut pas ;</l>
+	<l id="692">Il m'en remet les droits, et c'est mon embarras.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="693">Ah ! Si vous en croyez le devoir et la gloire...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="694">Je vous l'ai déjà dit, c'est vous que j'en veux croire ;</l>
+	<l id="695" syll="6" part="i">J'en fais votre amour juge.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="695" syll="6" part="f">Ah ! Madame, est-il rien</l>
+	<l id="696">Si suspect qu'un amour aussi pur que le mien ?</l>
+	<l id="697">Plutôt que d'exposer ni vous, ni votre gloire,</l>
+	<l id="698">Il me condamnera, si vous l'en voulez croire ;</l>
+	<l id="699">Il trahira mes voeux, s'il en est juge, hélas !</l>
+	<l id="700">Jugez-en mieux vous-même, et ne l'en croyez pas.</l>
+	<l id="701">S'il est vrai qu'Agénor, sans aucun artifice,</l>
+	<l id="702">Vous fasse de ses droits un entier sacrifice ;</l>
+	<l id="703">Que son coeur soit pour vous tel qu'il vous a paru ;</l>
+	<l id="704">Puis-je, en parlant pour moi, mériter d'être cru ?</l>
+	<l id="705">Et si, pour vous surprendre, il ne cherche qu'à feindre,</l>
+	<l id="706">En le désespérant, que n'en doit-on point craindre ?</l>
+	<l id="707">Votre ennemi secret, surtout à redouter,</l>
+	<l id="708">De vos divisions pourrait trop profiter ;</l>
+	<l id="709">Dans le lâche dessein qu'il a de vous surprendre,</l>
+	<l id="710">Ce temps serait pour lui propre à tout entreprendre.</l>
+	<l id="711">Si vous songez, Madame, à ce pressant danger...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="712">Hé ! Devrait-ce être à vous de m'y faire songer ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="713">Ces raisons sont l'effort d'un amour véritable.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="714">Sied-il bien à l'amour d'être si raisonnable ?</l>
+	<l id="715">De trouver des raisons pour pouvoir tout céder ?</l>
+	<l id="716">Ah ! Vous mériteriez de me persuader ;</l>
+	<l id="717">Pour prix de vos conseils, je devrais y souscrire.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="718" syll="6" part="i">Le pourrez-vous, Madame ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="718" syll="1" part="m">Ah !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="718" syll="6" part="f">Votre coeur soupire ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="719">Malgré toute ma plainte, allez je vous permets</l>
+	<l id="720">D'expliquer ce soupir au gré de vos souhaits.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Bélus, Astrate.
+</stage>
+<sp who="BÉLUS"><speaker>BÉLUS.</speaker>
+	<l id="721">De grâce à mes avis donnez plus de créance.</l>
+	<l id="722">Seigneur, de ce Palais sortez en diligence.</l>
+	<l id="723">On forme un grand dessein, j'en vois tous les apprêts,</l>
+	<l id="724">Des passages gardés, des murmures secrets ;</l>
+	<l id="725">Enfin, tout ce qu'on voit, lorsqu'avec défiance</l>
+	<l id="726">On veut faire arrêter un homme d'importance.</l>
+	<l id="727">Vous êtes redouté, vous faites des jaloux :</l>
+	<l id="728">Et vos amis ont lieu de craindre ici pour vous.</l>
+	<l id="729">Sortez donc, et gardez de vous laisser surprendre.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="730">Non, je dois voir la Reine, et ne puis m'en défendre ;</l>
+	<l id="731">Et sa faveur m'accable en tel point en ce jour...</l>
+</sp>
+<sp who="BÉLUS"><speaker>BÉLUS.</speaker>
+	<l id="732">Vous fiez-vous, Seigneur, aux faveurs de la Cour ?</l>
+	<l id="733">C'est peut-être un appas que la Reine déploie...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="734">Quoi qu'il en soit enfin, il faut que je la voie.</l>
+	<l id="735">Adieu, rien ne peut plus m'arrêter un moment.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Corisbe, Astrate.
+</stage>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="736">Souffrez que je m'oppose à votre empressement.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="737">Ne me détournez point d'aller trouver la Reine.</l>
+	<l id="738">Un avis trop pressant en ces lieux me ramène ;</l>
+	<l id="739">Je viens lui révéler des secrets importants.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="740">M'en croirez-vous, Seigneur ? Prenez mieux votre temps.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="741">Non, non, Corisbe, non, ce que je veux lui dire</l>
+	<l id="742">Regarde son salut, son repos, son empire ;</l>
+	<l id="743">Je vais lui découvrir plusieurs des conjurés.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="744">Encore un coup, Seigneur, croyez-moi, demeurez ;</l>
+	<l id="745">La Reine a défendu qu'on laisse entrer personne.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="746">Nous devons du respect à tout ce qu'elle ordonne ;</l>
+	<l id="747">Mais ne puis-je espérer quelqu'ordre un peu plus doux.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="748">S'il faut ne celer rien, l'ordre est exprès pour vous.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="749" syll="2" part="i">Pour moi ?</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="749" syll="10" part="f">J'ai bien encor de quoi vous bien surprendre :</l>
+	<l id="750">Mais peut-être il vaut mieux ne vous en rien apprendre ;</l>
+	<l id="751">On sent toujours trop tôt de si funestes coups,</l>
+	<l id="752">Et les maux ignorés sont toujours les plus doux.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="753">Accablez-moi plutôt par le coup le plus rude,</l>
+	<l id="754">Que me laisser languir dans cette incertitude ;</l>
+	<l id="755">Parlez, vous m'exposez par ce doute importun,</l>
+	<l id="756">À craindre tous les maux, pour m'en épargner un.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="757">Puisque vous le voulez, vous saurez donc qu'à peine</l>
+	<l id="758">Vous êtes, plein d'espoir, sorti d'avec la Reine,</l>
+	<l id="759">Qu'elle a, sans consulter, avec empressement,</l>
+	<l id="760">Fait venir Agénor dans son appartement ;</l>
+	<l id="761">Et quand même elle a su qu'avec impatience</l>
+	<l id="762">Vous faisiez demander un moment d'audience :</l>
+	<l id="763">Elle m'a commandé de vous faire savoir</l>
+	<l id="764">Qu'elle est avec le Prince, et ne saurait vous voir.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="765">Elle voit mon rival, et me défend sa vue ?</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="766">Il n'est pas temps encor d'avoir l'âme abattue ;</l>
+	<l id="767">Ce qui reste à vous dire a bien plus de rigueur.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="768">Hé bien donc ! Achevez de me percer le coeur.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="769">Tout ce que pour le prix d'un effort magnanime,</l>
+	<l id="770">En faveur d'un amant on peut montrer d'estime,</l>
+	<l id="771">La Reine, avec un soin qui n'eut jamais d'égal,</l>
+	<l id="772">La fait voir en faveur de votre heureux rival.</l>
+	<l id="773">Elle a si hautement flatté son espérance ;</l>
+	<l id="774">Témoigné pour ses soins tant de reconnaissance ;</l>
+	<l id="775">Que le Prince charmé d'un si doux changement,</l>
+	<l id="776">En a paru d'abord muet d'étonnement.</l>
+	<l id="777">Que vous dirai-je enfin ? La première des marques</l>
+	<l id="778">Que l'usage en ces lieux veut qu'on donne aux Monarques,</l>
+	<l id="779">L'anneau royal déjà jusqu'en ses mains remis,</l>
+	<l id="780">Fait trop voir quel espoir lui peut être permis.</l>
+	<l id="781">La Reine ayant pour vous paru si favorable,</l>
+	<l id="782">Sa rigueur me confond, comme elle vous accable.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="783">Hélas ! De sa bonté la trompeuse douceur,</l>
+	<l id="784">M'accable encor bien plus que toute sa rigueur.</l>
+	<l id="785">Du bonheur d'être aimé l'essai trop agréable,</l>
+	<l id="786">Fait ce que ma disgrâce a de plus effroyable.</l>
+	<l id="787">Sans l'espoir trop charmant qui m'a si peu duré,</l>
+	<l id="788">À mon malheur, du moins j'eusse été préparé;</l>
+	<l id="789">Mon sort est plus cruel, plus je l'ai cru propice ;</l>
+	<l id="790">Tout ce qui m'a flatté redouble mon supplice ;</l>
+	<l id="791">Et, dans l'horreur du coup dont je suis pénétré,</l>
+	<l id="792">Mon plus grand désespoir est d'avoir espéré.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="793">Ce désespoir si grand, ces peines si cruelles,</l>
+	<l id="794">Sont le fruit qu'ont produit vos avis trop fidèles :</l>
+	<l id="795">La Reine vous a cru sur le choix d'un époux ;</l>
+	<l id="796">Et peut-être attendait d'autres conseils de vous.</l>
+	<l id="797">Vous avez fait, sans doute, un effort héroïque :</l>
+	<l id="798">Mais ce n'est pas toujours de quoi l'amour se pique ;</l>
+	<l id="799">Et par un noble effort perdre un bonheur charmant,</l>
+	<l id="800">Est plus une vertu de héros que d'amant.</l>
+	<l id="801">Vous deviez un peu moins parler contre vous-même.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="802">Ah, Corisbe ! Un amant qui se flatte qu'on l'aime,</l>
+	<l id="803">Qui s'assure qu'on cherche à lui tout accorder,</l>
+	<l id="804">En parlant contre lui, croit-il persuader ?</l>
+	<l id="805">Je ne m'attendais pas d'être cru de la Reine,</l>
+	<l id="806">Ou de l'être, du moins, avec si peu de peine.</l>
+	<l id="807">J'espérais sur la foi d'un aveu trop charmant,</l>
+	<l id="808">Que l'amour dans son coeur parlerait autrement.</l>
+	<l id="809">J'ai pris soin de montrer qu'une âme bien charmée</l>
+	<l id="810">Doit tout sacrifier à la personne aimée ;</l>
+	<l id="811">Mais j'ai cru que la Reine aurait un soin pareil,</l>
+	<l id="812">Et suivrait mon exemple, et non pas mon conseil.</l>
+	<l id="813">Cependant à ma perte elle s'est résolue.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="814" syll="6" part="i">Seigneur, le Prince sort.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="814" syll="6" part="f">Je frémis à sa vue.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="815">Modérez vos transports, et considérez bien...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="816">Hélas ! Suis-je en état de considérer rien ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Astrate, Agénor, Nerbal.
+</stage>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="817">Venez, venez, Seigneur, jouir de ma disgrâce ;</l>
+	<l id="818">Voir l'affreux châtiment de mon aveugle audace,</l>
+	<l id="819">Et goûter, à longs traits, le plaisir, sans égal,</l>
+	<l id="820">Qu'on trouve au désespoir d'un malheureux rival.</l>
+	<l id="821">Vous n'avez plus, enfin, aucun sujet de craindre ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="822">De la Reine, en effet, j'aurais tort de me plaindre ;</l>
+	<l id="823">Ce gage me permet d'oser le croire ainsi :</l>
+	<l id="824">Mais vous n'avez pas lieu de vous en plaindre aussi.</l>
+	<l id="825">Si mon bonheur est grand, votre gloire est extrême ;</l>
+	<l id="826">Que voulez-vous de plus ? Vous aimez, on vous aime ;</l>
+	<l id="827">Est-il rien de plus doux pour un coeur amoureux ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="828">Triomphez, insultez au sort d'un malheureux :</l>
+	<l id="829">Corisbe m'a trop dit où ma flamme est réduite.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="830">De ce qu'a vu Corisbe, apprenez donc la suite,</l>
+	<l id="831">Après m'avoir loué d'avoir cédé mes droits :</l>
+	<l id="832">En mettant dans mes mains cet anneau de nos Rois ;</l>
+	<l id="833">La Reine avec adresse a su me faire entendre</l>
+	<l id="834">Que son coeur à vos feux s'était laissé surprendre,</l>
+	<l id="835">Tâchant de s'excuser sur l'amour, dont les lois</l>
+	<l id="836">Ne souffrent pas toujours qu'un coeur aime à son choix.</l>
+	<l id="837">Mais qu'elle avait voulu du moins pour reconnaître,</l>
+	<l id="838">La générosité que j'avais fait paraître ;</l>
+	<l id="839">Et pour rendre pour moi son refus moins honteux,</l>
+	<l id="840">Que ce fût de ma main que vous fussiez heureux ;</l>
+	<l id="841">Qu'elle ne doutait point qu'après cette prière,</l>
+	<l id="842">Ma générosité ne sa montrât entière,</l>
+	<l id="843">Ne fît un grand effort pour couronner vos feux...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="844">Ah ! Jusque-là, Seigneur, seriez-vous généreux ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="845">Mon coeur ne peut former une plus noble envie ;</l>
+	<l id="846">À cet illustre effort la gloire me convie ;</l>
+	<l id="847">La générosité m'y fait voir mille appas ;</l>
+	<l id="848">Mais l'amour plus puissant ne me le permet pas.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="849">C'est donc-là cet amour, dont le pouvoir extrême</l>
+	<l id="850">Devait être assez fort pour se vaincre lui-même ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="851">S'il est beau de se vaincre, il est doux d'être heureux ;</l>
+	<l id="852">Et c'est crime aux amants d'être trop généreux.</l>
+	<l id="853">Les faiblesses toujours sont pour eux légitimes.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="854">Vous n'aviez pas promis de suivre ces maximes ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="855">L'Amour a beau promettre, il sait peu se trahir,</l>
+	<l id="856">À céder son bonheur, quand il en peut jouir.</l>
+	<l id="857">Un prix si doux vaut bien une injustice extrême.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="858">Et vous aimez, Seigneur ? Est-ce là comme on aime ?</l>
+	<l id="859">Est-ce ainsi qu'un grand coeur peut vouloir s'enflammer ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="860">Que voulez-vous ? Chacun a sa façon d'aimer.</l>
+	<l id="861">Vous aimez en héros, pour moi, je le confesse,</l>
+	<l id="862">Le Ciel m'a fait un coeur capable de faiblesse :</l>
+	<l id="863">Mais je n'en rougis point, et jusques à ce jour,</l>
+	<l id="864">La faiblesse jamais n'a fait honte à l'amour.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="865">Pour excuser la vôtre, elle est trop condamnable.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="866">La Reine cependant l'a trouvée excusable.</l>
+	<l id="867">Son dépit, je l'avoue, a d'abord paru grand.</l>
+	<l id="868">Mon refus l'a surprise, ainsi qu'il vous surprend.</l>
+	<l id="869">Mais j'ai su m'excuser, et mon amour extrême</l>
+	<l id="870">À d'un crime si beau fait l'excuse lui-même :</l>
+	<l id="871">La Reine enfin m'épouse, et pour vous voir jaloux,</l>
+	<l id="872">Le bien qui m'est offert n'en sera pas moins doux.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="873">Mettez votre bonheur au-dessus de tout autre :</l>
+	<l id="874">Puisque je suis aimé, mon sort vaut bien le vôtre ;</l>
+	<l id="875">Et vous devez penser, malgré le nom d'époux,</l>
+	<l id="876">Que ce n'est pas à moi d'être le plus jaloux.</l>
+	<l id="877">Oui, quoique malheureux, puisque la Reine m'aime,</l>
+	<l id="878">Puisque vous le savez, et par son aveu même ;</l>
+	<l id="879">Que, malgré votre hymen, l'amour en ma faveur,</l>
+	<l id="880">De ce qu'elle vous offre a séparé son coeur ;</l>
+	<l id="881">Ce bien qui vous échappe, et que mon feu vous vole,</l>
+	<l id="882">De tout votre bonheur, me venge et me console ;</l>
+	<l id="883">Ce bien seul des amants fait les félicités :</l>
+	<l id="884">Et je vous ôte en lui plus que vous ne m'ôtez.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="885">Laissez-moi les douceurs qui me sont accordées ;</l>
+	<l id="886">Et jouissez en paix de ces belles idées.</l>
+	<l id="887">Tandis qu'un noeud sacré, propice à mes souhaits,</l>
+	<l id="888">Va mettre entre mes bras la Reine et ses attraits :</l>
+	<l id="889">Que sans m'embarrasser d'un scrupule inutile,</l>
+	<l id="890">Je vais être à vos yeux le possesseur tranquille ;</l>
+	<l id="891">Et vais enfin, au gré de mes transports pressants,</l>
+	<l id="892">M'assurer d'être heureux sur la foi de mes sens :</l>
+	<l id="893">Pour vous en consoler ; songez qu'au fond de l'âme,</l>
+	<l id="894">La Reine avec regret s'arrache à votre flamme.</l>
+	<l id="895">Goûtez ce doux triomphe ; imaginez vous bien</l>
+	<l id="896">Qu'auprès de votre sort tout mon bonheur n'est rien ;</l>
+	<l id="897">Et par les faux appas d'une victoire vaine,</l>
+	<l id="898">Soyez ingénieux à flatter votre peine.</l>
+	<l id="899">J'y veux bien consentir ; un reste d'amitié</l>
+	<l id="900">M'oblige à voir encor vos maux avec pitié ;</l>
+	<l id="901">Et sûr d'un bien solide, il ne me coûte guère</l>
+	<l id="902">De vous abandonner un bien imaginaire.</l>
+	<l id="903">Ainsi chacun de nous se tiendra satisfait,</l>
+	<l id="904">Vous de vous croire heureux, moi de l'être en effet.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="905">Que sert de déguiser mon malheur et le vôtre :</l>
+	<l id="906">Nous ne sommes, Seigneur, heureux ni l'un ni l'autre.</l>
+	<l id="907">Pour l'être, c'est trop peu de me savoir aimé,</l>
+	<l id="908">S'il faut vous voir ravir tout ce qui m'a charmé,</l>
+	<l id="909">Mais sans l'heur d'être aimé, rien aussi n'est capable</l>
+	<l id="910">De vous donner jamais un bonheur véritable :</l>
+	<l id="911">Et, sans doute, il faudrait qu'un seul, pour être heureux,</l>
+	<l id="912">Obtint ce que le sort sépare entre nous deux.</l>
+	<l id="913">Il en est un moyen, si vous aimez la gloire.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="914">Ce discours est obscur, du moins je le veux croire :</l>
+	<l id="915">Et pour vous faire grâce, étant ce que je suis,</l>
+	<l id="916">N'y vouloir rien comprendre, est tout ce que je puis.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="917">Si j'ai de vous, Seigneur, quelque grâce à prétendre,</l>
+	<l id="918">C'est de ne m'en point faire, et de vouloir m'entendre :</l>
+	<l id="919">De répondre au dessein que vous dissimulez.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="920">Hé bien, je vous entends, puisque vous le voulez.</l>
+	<l id="921">Nerbal, faites venir des gardes de la Reine.</l>
+<stage type="exit">Nerbal rentre.</stage>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="922" syll="6" part="i">Quoi ! Me faire arrêter ?</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="922" syll="6" part="f">J'y consens avec peine :</l>
+	<l id="923">Mais je m'y vois forcé dans le rang que je tiens,</l>
+	<l id="924">Plus pour vos intérêts encor que pour les miens.</l>
+	<l id="925">Votre fureur trop forte a besoin qu'on l'arrête ;</l>
+	<l id="926">À trop d'emportement je vois qu'elle s'apprête,</l>
+	<l id="927">Et vous estime assez pour vouloir prévenir</l>
+	<l id="928">Le regret que j'aurais d'avoir à vous punir.</l>
+	<l id="929">Quiconque en d'autres mains voit tout ce qui le charme,</l>
+	<l id="930">Sent toujours des transports qu'il est bon qu'on désarme ;</l>
+	<l id="931">J'en prends soin pour vous-même, et crois vous trop devoir.</l>
+	<l id="932">Pour vous abandonner à votre désespoir.</l>
+	<l id="933">Je veux vous en défendre, et j'aurais l'âme ingrate...</l>
+	<l id="934" syll="6" part="i">Mais on vient par mon ordre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Agénor, Astrate, Géraste, Gardes.
+</stage>
+<sp who="AGÉNOR"><speaker>AGÉNOR</speaker><stage type="toward">, à Géraste.
+	</stage>
+	<l id="934" syll="6" part="f">Assurez-vous d'Astrate.</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="935" syll="2" part="i">Seigneur...</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="935" syll="10" part="f">N'hésitez point ; vous savez qui je suis ;</l>
+	<l id="936">À cette marque, enfin, voyez ce que je puis.</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Agénor.
+	</stage>
+	<l id="937">Quelque droit qu'elle donne à la grandeur suprême,</l>
+	<l id="938">Mon ordre est de venir m'assurer de vous-même.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="939">De moi ! La Reine ainsi trahirait mon espoir.</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="940">Je vous plains, mais Seigneur, vous savez mon devoir.</l>
+	<l id="941" syll="6" part="i">Il nous faut votre épée.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="941" syll="6" part="f">Il faut bien vous la rendre ;</l>
+	<l id="942">Je ne suis pas en lieu de pouvoir m'en défendre.</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="943" syll="3" part="i">À regret...</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="943" syll="9" part="f">Vos regrets ne font rien à mon sort.</l>
+	<l id="944" syll="2" part="i">Allons.</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="944" syll="10" part="f">Il m'est enjoint de vous conduire au Fort,</l>
+	<l id="945">Mais la Reine, Seigneur, auparavant désire</l>
+	<l id="946">Que nous vous demandions la marque de l'Empire.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="947" syll="6" part="i">Tenez, reportez-lui...</l>
+</sp>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="947" syll="6" part="f">Nous n'aurons pas besoin,</l>
+	<l id="948">Puisqu'Astrate est ici, de la porter plus loin.</l>
+	<l id="949">C'est en vos mains, Seigneurs, qu'un ordre exprès m'engage</l>
+	<l id="950">À remettre du trône et la marque et le gage.</l>
+<stage type="toward">À Astrate.</stage>
+	<l id="951">La Reine à votre espoir permet tout en ce jour.</l>
+</sp>
+<sp who="AGÉNOR"><speaker>AGÉNOR.</speaker>
+	<l id="952">Le sort change ; je tombe, et voici votre tour.</l>
+	<l id="953">Allons, épargnez-moi, dans le mal qui m'accable,</l>
+	<l id="954">D'un rival triomphant la vue insupportable ;</l>
+<stage type="toward">À Géraste.</stage>
+	<l id="955">Je trouve encor sa joie, au fort de mon malheur,</l>
+	<l id="956">Plus cruelle à souffrir que ma propre douleur.</l>
+	<l id="957">Il est assez heureux sans jouir de ma peine.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="958">Allez. Je vais, Seigneur, rendre grâce à la Reine :</l>
+	<l id="959">Et, quoi que mon rival, ce n'est pas près de vous</l>
+	<l id="960">Qu'un triomphe si beau doit m'être le plus doux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Sichée, Astrate.
+</stage>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="961" syll="6" part="i">Où courez-vous, mon Fils ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="961" syll="6" part="f">Où mon bonheur m'appelle.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="962">J'ai tout su de la Reine, et je sors d'avec elle.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="963">Si vous savez pour moi jusqu'où va sa bonté,</l>
+	<l id="964">N'arrêtez point, Seigneur, un amant transporté.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="965" syll="6" part="i">J'ai beaucoup à vous dire.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="965" syll="6" part="f">Ah ! Souffrez que je prenne</l>
+	<l id="966">Avant tout autre soin, celui de voir la Reine.</l>
+	<l id="967">Je ne puis moins, Seigneur, et je lui dois assez.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="968">Vous pourriez lui devoir moins que vous ne pensez.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="969">Le Prince est arrêté : qu'aurais-je encore à craindre ?</l>
+	<l id="970">La Reine aussi pour moi peut-elle avoir su feindre ?</l>
+	<l id="971">Et puis-je perdre encor l'espoir que je reprends,</l>
+	<l id="972">Lorsque j'en ai ce gage, et l'amour pour garants ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="973">Non ; ce gage à vos voeux permet de tout prétendre,</l>
+	<l id="974">Le Prince à ces appas s'est trop laissé surprendre,</l>
+	<l id="975">Et la Reine n'a feint de l'en laisser jouir,</l>
+	<l id="976">Que pour sonder son âme, et pour mieux l'éblouir.</l>
+	<l id="977">Elle cherchait pour rompre un prétexte à se plaindre :</l>
+	<l id="978">Enfin si vous voulez, vous n'avez rien à craindre,</l>
+	<l id="979" syll="6" part="i">Vous serez son époux.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="979" syll="6" part="f">Hélas ! Si je le veux ?</l>
+	<l id="980">Doutez-vous qu'un amant, Seigneur, veuille être heureux ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="981">Je vous estime assez pour ne pas vouloir croire,</l>
+	<l id="982">Qu'en votre coeur l'amour l'emporte sur la gloire.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="983">Je crois que pour les feux dont je me sens brûler,</l>
+	<l id="984">Ma gloire et mon amour n'ont rien à démêler.</l>
+	<l id="985">Qu'est-il plus glorieux que l'hymen d'une Reine ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="986">D'une Reine coupable, odieuse, inhumaine ?</l>
+	<l id="987">Qui pour son coup d'essai, s'immola nos vrais Rois ?</l>
+	<l id="988">Et qui n'a de leur rang que ses crimes pour droits ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="989">Ah ! Seigneur, est-ce à moi de la trouver coupable ?</l>
+	<l id="990">Et fût-elle à vos yeux encor plus condamnable,</l>
+	<l id="991">N'en jugeriez-vous pas plus favorablement,</l>
+	<l id="992">Si vous l'examiniez avec des yeux d'amant ?</l>
+	<l id="993">J'aimais déjà la Reine avant son injustice ;</l>
+	<l id="994">Je vis avec horreur ce sanglant sacrifice ;</l>
+	<l id="995">J'en frémis en secret ; mais quand on est charmé,</l>
+	<l id="996">Que n'excuse-t-on point dans un objet aimé ?</l>
+	<l id="997">L'éclat de deux beaux yeux adoucit bien un crime :</l>
+	<l id="998">Aux regards des amants tout paraît légitime :</l>
+	<l id="999">Leur esprit tient toujours le parti de leur coeur ;</l>
+	<l id="1000">Et l'Amour n'est jamais un juge de rigueur.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1001">Si l'horreur des forfaits n'a rien qui vous arrête,</l>
+	<l id="1002">Appréhendez du moins l'orage qui s'apprête.</l>
+	<l id="1003">Craignez de vous charger, par un sceptre odieux,</l>
+	<l id="1004">De la fureur du peuple, et du courroux des Dieux.</l>
+	<l id="1005">Sur un trône usurpé la Reine trop soufferte,</l>
+	<l id="1006">Touche peut-être enfin, au moment de sa perte :</l>
+	<l id="1007">Tout l'État à ses lois n'obéit qu'à regret ;</l>
+	<l id="1008">On murmure, on cabale, on conspire en secret ;</l>
+	<l id="1009">Le vrai Roi va paraître, et la Reine chancelle.</l>
+	<l id="1010">Gardez qu'un noeud fatal vous entraîne avec elle,</l>
+	<l id="1011">Ne vous hâtez point tant de régner à ce prix,</l>
+	<l id="1012">Et de monter au trône au point de son débris.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1013">Je vous entends, Seigneur, le sang en vous s'alarme,</l>
+	<l id="1014">Des périls qu'il croit voir à l'hymen qui me charme,</l>
+	<l id="1015">Et j'ai de quoi calmer l'effroi qu'en ma faveur,</l>
+	<l id="1016">Tout l'amour paternel excite en votre coeur.</l>
+	<l id="1017">La gloire qui m'attend, sans péril m'est offerte,</l>
+	<l id="1018">La conspiration est enfin découverte.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1019" syll="3" part="i">Découverte !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1019" syll="9" part="f">Oui, Seigneur, et par mes soins de plus,</l>
+	<l id="1020">Plusieurs des conjurés me sont déjà connus :</l>
+	<l id="1021">Je vais de ce pas même en instruire la Reine.</l>
+	<l id="1022">Pygmalion en est, Bazore et Nicogène.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1023" syll="6" part="i">Ces trois sont nos amis.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1023" syll="6" part="f">S'il en est dans la Cour,</l>
+	<l id="1024">Est-il quelque amitié qui résiste à l'amour ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1025">Je vois qu'il n'est plus temps qu'avec vous je déguise,</l>
+	<l id="1026">Et qu'il faut vous montrer le chef de l'entreprise :</l>
+	<l id="1027">Celui qui du vrai Roi connaît seul tout le sort ;</l>
+	<l id="1028">Et qui contre la Reine a fait le plus d'effort.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1029">Montrez-le-moi, Seigneur, par cette connaissance :</l>
+	<l id="1030">La Reine, et mon bonheur, sont en pleine assurance :</l>
+	<l id="1031">Ce rebelle puni, nous sommes sans effroi.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1032">Connaissez-le, mon fils, vous le voyez en moi.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1033" syll="6" part="i">Ce pourrait être vous ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1033" syll="6" part="f">Oui, c'est moi, dont le zèle,</l>
+	<l id="1034">Pour le sang de nos Rois, toujours ferme et fidèle,</l>
+	<l id="1035">Contre la tyrannie, a jusques à ce jour,</l>
+	<l id="1036">Ligué les plus puissants du peuple et de la Cour.</l>
+	<l id="1037">C'est moi qui du vrai Prince ai seul la connaissance ;</l>
+	<l id="1038">Qui des usurpateurs l'ai sauvé dès l'enfance,</l>
+	<l id="1039">Et qui l'ai réservé pour venger ses parents,</l>
+	<l id="1040">Pour reprendre leur sceptre et punir les tyrans.</l>
+	<l id="1041">Ce dessein découvert rend ma perte certaine ;</l>
+	<l id="1042">Elle est trop importante au salut de la Reine :</l>
+	<l id="1043" syll="10" part="i">Vous me perdez, mon fils, si vous parlez.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1043" syll="2" part="f">Hélas !</l>
+	<l id="1044">Je perds la Reine aussi, si je ne parle pas.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1045">Sa perte avec la mienne entre-t-elle en balance ?</l>
+	<l id="1046">Je sais ce qu'est l'amour, j'en connais la puissance,</l>
+	<l id="1047">Et veux bien pardonner aux transports d'un amant,</l>
+	<l id="1048">Cette excusable erreur d'un premier mouvement.</l>
+	<l id="1049">Mais je ne doute point qu'après cette faiblesse,</l>
+	<l id="1050">Votre coeur tout entier pour moi ne s'intéresse.</l>
+	<l id="1051">Quoi que d'abord l'amour ait pu vous inspirer,</l>
+	<l id="1052">Contre tous ses efforts le sang doit m'assurer :</l>
+	<l id="1053">Je me fie au pouvoir des droits de la nature ;</l>
+	<l id="1054">À la vertu d'un fils jusqu'ici toute pure ;</l>
+	<l id="1055">Au premier des devoirs, au plus sacré lien...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1056">Seigneur, contre l'amour, ne vous fiez à rien.</l>
+	<l id="1057">Que tout vous soit suspect, le sang, la vertu même :</l>
+	<l id="1058">Craignez tout d'un amant, qui craint pour ce qu'il aime.</l>
+	<l id="1059">Le plus sûr est pour vous de quitter les mutins :</l>
+	<l id="1060">De les abandonner à leurs mauvais destins :</l>
+	<l id="1061">Venez demander grâce, et nous l'aurons sans peine ;</l>
+	<l id="1062">Venez. Seigneur, venez, dite tout à la Reine.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1063">Moi ! Trahir mes serments, mon Prince et mes amis ?</l>
+	<l id="1064">Plutôt, si vous l'osez, trahissez-moi, mon fils.</l>
+	<l id="1065">Pensez-vous que l'appas du rang qu'on vous présente,</l>
+	<l id="1066">À cet infâme prix, me corrompe ou me tente ?</l>
+	<l id="1067">Connaissez mieux ma foi, rien ne peut l'émouvoir,</l>
+	<l id="1068">Et je n'ai point de fils si cher que mon devoir.</l>
+	<l id="1069">J'ai juré de venger mon maître légitime ;</l>
+	<l id="1070">De couronner son sang, de détrôner le crime ;</l>
+	<l id="1071">D'affranchir mon pays d'un empire odieux ;</l>
+	<l id="1072">Ou du moins de périr d'un trépas glorieux.</l>
+	<l id="1073">Dans un si grand dessein je suis inébranlable ;</l>
+	<l id="1074">Il faut qu'enfin la Reine, ou trébuche, ou m'accable,</l>
+	<l id="1075">Que vous voyez ses jours ou les miens terminés :</l>
+	<l id="1076">Et c'est à vous à voir quel parti vous prenez.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1077">Entre la Reine et vous je n'en ai point à prendre,</l>
+	<l id="1078">Que celui de vouloir tour_à_tour vous défendre ,</l>
+	<l id="1079">Vous garder l'un de l'autre, et toujours me ranger</l>
+	<l id="1080">Du parti seulement où sera le danger.</l>
+	<l id="1081">Il me paraît d'abord du côté de la Reine ;</l>
+	<l id="1082" syll="6" part="i">Pardonnez si j'y cours.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1082" syll="6" part="f">Quoi la nature est vaine ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1083">Vous n'avez pas encor besoin de mon secours,</l>
+	<l id="1084">Seigneur, et de la Reine on va trancher les jours.</l>
+	<l id="1085">Avec le même soin que, comme amant fidèle,</l>
+	<l id="1086">Je vais, ou la sauver, ou périr avec elle ;</l>
+	<l id="1087">Je saurai, l'ayant mise à couvert de vos coups,</l>
+	<l id="1088">Vous sauver comme fils, ou périr avec vous.</l>
+	<l id="1089">Je n'examine point dans cette conjoncture,</l>
+	<l id="1090">Qui doit vaincre ou céder, l'amour ou la nature :</l>
+	<l id="1091">Sans juger qui des deux doit être plus puissant,</l>
+	<l id="1092">Je regarde au péril, et cours au plus pressant.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Bazore, Sichée, Nicogène.
+</stage>
+<sp who="BAZORE"><speaker>BAZORE.</speaker>
+	<l id="1093">N'en doutons point, l'amour a fait parler Astrate ;</l>
+	<l id="1094">Notre entreprise est sue, il est temps qu'elle éclate :</l>
+	<l id="1095">Il faut sans plus tarder presser les derniers coups,</l>
+	<l id="1096">Et, si nous différons, tout est perdu pour nous.</l>
+	<l id="1097">Des tyrans désunis la force divisée,</l>
+	<l id="1098">Semble nous offrir même une victoire aisée ;</l>
+	<l id="1099">Le désordre est entre eux, le Prince est arrêté ;</l>
+	<l id="1100">Et suivant le dessein entre nous concerté,</l>
+	<l id="1101">Ses partisans aigris s'engageront sans peine,</l>
+	<l id="1102">À pousser leur fureur jusqu'à perdre la Reine :</l>
+	<l id="1103">Les Gardes d'Agénor sont gagnés presque tous,</l>
+	<l id="1104">Et nos amis tout prêts n'attendent plus que nous.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1105">Allez donc les conduire et marcher à leur tête.</l>
+	<l id="1106">Le soin de voir mon fils pour un moment m'arrête ;</l>
+	<l id="1107">Il peut beaucoup, ici, son nom seul est bien fort ;</l>
+	<l id="1108">Je vais pour l'entraîner, faire un dernier effort :</l>
+	<l id="1109">Mais puisque nos amis sont tout prêts d'entreprendre :</l>
+	<l id="1110">J'aurai soin d'achever ; commencez sans m'attendre :</l>
+	<l id="1111">Notre salut dépend de tout précipiter,</l>
+	<l id="1112" syll="6" part="i">De n'être point surpris.</l>
+</sp>
+<sp who="NICOGÈNE"><speaker>NICOGÈNE.</speaker>
+	<l id="1112" syll="6" part="f">Nous allons tout tenter.</l>
+	<l id="1113">Vous n'avez seulement qu'à faire enfin paraître</l>
+	<l id="1114">Celui que de l'État nous devons rendre maître ;</l>
+	<l id="1115">Ne nous le cachez plus, puisqu'il est en ces lieux ;</l>
+	<l id="1116">Montrez-nous notre Roi, nous en combattrons mieux.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1117">Vous l'aurez pour témoin de votre zèle extrême.</l>
+	<l id="1118">J'espère aller dans peu vous joindre avec lui-même :</l>
+	<l id="1119">L'amener, soutenir ses propres intérêts...</l>
+	<l id="1120">Mais mon fils sort, allez, je vous suivrai de près.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Astrate, Sichée.
+</stage>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1121">Rassurez-vous, Seigneur, et cessez de vous plaindre ;</l>
+	<l id="1122">Ni vous ni vos amis vous n'avez rien à craindre.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1123">Si vous n'avez rien dit, rien ne doit m'étonner.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1124">J'ai tout dit, mais Seigneur, j'ai fait tout pardonner.</l>
+	<l id="1125">La Reine, en ma faveur, oubliant votre audace,</l>
+	<l id="1126">À vous, aux conjurés, consent à faire grâce ;</l>
+	<l id="1127">Et toute sa rigueur se borne au seul trépas</l>
+	<l id="1128">De l'auteur du désordre et de vos attentats.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1129">La Reine achèverait l'injuste sacrifice...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1130">Souffrez-lui, s'il se peut, encor cette injustice ;</l>
+	<l id="1131">Ce sera la dernière, et l'État agité</l>
+	<l id="1132">En a même besoin pour sa tranquillité.</l>
+	<l id="1133">Dans ces deux ennemis un devoir implacable</l>
+	<l id="1134">Rend à jamais la haine irréconciliable :</l>
+	<l id="1135">Un père massacré, deux frères égorgés,</l>
+	<l id="1136">Tôt ou tard doivent être ou suivis ou vengés.</l>
+	<l id="1137">Le Prince malheureux qui reçoit cette offense,</l>
+	<l id="1138">Doit renoncer au jour plutôt qu'à la vengeance,</l>
+	<l id="1139">Et la Reine engagée à cette cruauté,</l>
+	<l id="1140">N'en peut, qu'en l'achevant, trouver l'impunité.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1141">Et pour prix de ma grâce, il faut livrer mon maître ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1142">Non, Seigneur ; seulement faites-le moi connaître.</l>
+	<l id="1143">Ne craignez rien de moi de honteux ni de bas :</l>
+	<l id="1144">J'irai seul l'attaquer sans secours que mon bras ;</l>
+	<l id="1145">Et n'imiterai point le soin indigne et lâche,</l>
+	<l id="1146">Dont il vous fait armer, quand lui-même il se cache.</l>
+	<l id="1147">Laissez-le enfin paraître, et par son propre effort,</l>
+	<l id="1148">Soutenir contre moi la gloire de son sort.</l>
+	<l id="1149">Il cherche à se venger, j'aime avec violence ;</l>
+	<l id="1150">Il trouble mon amour, je trouble sa vengeance ;</l>
+	<l id="1151">Il ne peut se venger sans commencer par moi ;</l>
+	<l id="1152">Je ne puis sans sa perte, aimer qu'avec effroi :</l>
+	<l id="1153">Souffrez que nous suivions les transports qui nous guident :</l>
+	<l id="1154">Que ces grands différends entre nous se décident,</l>
+	<l id="1155">Et qu'enfin l'un des deux, à l'autre ôtant le jour,</l>
+	<l id="1156">Montre qui peut le plus, la vengeance ou l'amour.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1157">Hé bien ! Puisque étouffant vos vertus magnanimes,</l>
+	<l id="1158">Vous voulez de la Reine épouser jusqu'aux crimes,</l>
+	<l id="1159">En achever l'horreur, et l'oser soutenir ;</l>
+	<l id="1160">Il faut vous dire tout, mais c'est pour vous punir.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1161">Cet ennemi, Seigneur, est-il si redoutable ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1162">De quelque fermeté dont vous soyez capable,</l>
+	<l id="1163">Je suis sûr de vous voir pâlir d'étonnement,</l>
+	<l id="1164">Et frémir de terreur à son nom seulement.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1165">Ces menaces ne font qu'augmenter mon envie,</l>
+	<l id="1166">Nommez-le-moi, Seigneur, m'en coûtât-il la vie.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1167">Par cet aveu qu'un père a commis à ma foi,</l>
+	<l id="1168">Apprenez donc le sort du dernier fils du Roi ;</l>
+	<l id="1169">Connaissez l'ennemi dont l'implacable haine,</l>
+	<l id="1170">Doit, à son sang versé, tout celui de la Reine.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE</speaker><stage type="show/read">, lit dans les tablettes que Sichée lui montre.
+	</stage>
+	<l id="1171">Le plus jeune de mes trois fils</l>
+	<l id="1172">Échappe aux cruels ennemis</l>
+	<l id="1173">Dont sur moi l'injustice éclate ;</l>
+	<l id="1174">Et quand il sera temps de découvrir son sort,</l>
+	<l id="1175">Ou pour rompre mes fers, ou pour venger ma mort,</l>
+	<l id="1176">Sichée en est cru père, et son nom est Astrate.</l>
+<stage type="throw">Il continue en rejetant les tablettes.</stage>
+	<l id="1177">Ah d'un coup plus affreux peut-on être percé !</l>
+	<l id="1178">Je serais né du sang que la Reine a versé ?</l>
+	<l id="1179">Quoi j'aurais à venger par des lois trop sévères,</l>
+	<l id="1180">Sur un si cher objet, mon Père et mes deux Frères !</l>
+	<l id="1181">Et quand nos coeurs charmés se croyaient tout permis,</l>
+	<l id="1182">Malgré l'amour et nous, nous serions ennemis ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1183">Il est trop vrai, Seigneur, vous le devez connaître.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1184">Le puis-je croire, hélas ! Quelque vrai qu'il puisse être ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1185">Je puis vous en convaincre, et cet aveu du Roi,</l>
+	<l id="1186">Pour en oser douter est trop digne de foi.</l>
+	<l id="1187">Quand le Père d'Élise eut la coupable audace</l>
+	<l id="1188">De mettre aux fers le vôtre et d'usurper sa place,</l>
+	<l id="1189">Un fils que je perdis, dont je celai la mort,</l>
+	<l id="1190">Me donna le moyen d'assurer votre sort :</l>
+	<l id="1191">Vous étiez de même âge ; et tous deux dans l'enfance,</l>
+	<l id="1192">Et son nom aisément cacha votre naissance.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1193">Qu'à jamais ce secret n'est-il caché pour moi ?</l>
+	<l id="1194">Ah ! Cruel, fallait-il, si je suis fils du Roi,</l>
+	<l id="1195">Pour me montrer la main qui fit périr mon père,</l>
+	<l id="1196">Attendre que l'amour me la rendît si chère ?</l>
+	<l id="1197">Et ne deviez-vous pas, pour le bien de mes jours,</l>
+	<l id="1198">Ou m'avertir plutôt, ou vous taire toujours ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1199">Avant qu'oser, Seigneur, vous apprendre l'offense,</l>
+	<l id="1200">J'ai cru vous en devoir assurer la vengeance,</l>
+	<l id="1201">Et n'ai pas dû prévoir un malheureux amour,</l>
+	<l id="1202">Qui ne s'est déclaré qu'en ce funeste jour.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1203">Mais si je sors du sang qu'a répandu la Reine ;</l>
+	<l id="1204">Quand par les Syriens sa perte était certaine,</l>
+	<l id="1205">Pourquoi, dans son péril, vous-même m'engager</l>
+	<l id="1206">Contre des ennemis armés pour me venger ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1207">Des Syriens pour nous la haine héréditaire,</l>
+	<l id="1208">N'aspirait à rien moins qu'à venger votre père ;</l>
+	<l id="1209">La mort des tyrans et leur punition,</l>
+	<l id="1210">N'étaient qu'un beau prétexte à leur ambition....</l>
+	<l id="1211">Ils n'en voulaient qu'au trône ou vous devez prétendre ;</l>
+	<l id="1212">Et si vos soins contre eux ne l'avaient su défendre,</l>
+	<l id="1213">Nous aurions eu besoin d'efforts beaucoup plus grands,</l>
+	<l id="1214">Pour l'ôter de leurs mains, que des mains des tyrans.</l>
+	<l id="1215">La vengeance d'un père à vous seul était due ;</l>
+	<l id="1216">Je vous l'ai réservée, et l'heure en est venue,</l>
+	<l id="1217">L'objet vous en fût-il cent fois plus précieux,</l>
+	<l id="1218">Levez le bras, Seigneur, et détournez les yeux ;</l>
+	<l id="1219">Faites votre devoir sans regarder le reste.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1220">Qu'il est cruel ! Ô Dieux ! Ce devoir trop funeste :</l>
+	<l id="1221">Je ne puis, sans frémir, seulement y penser :</l>
+	<l id="1222">Hé ! Ne serait-il rien qui pût m'en dispenser !</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1223">Perdre et punir la Reine, étant ce que vous êtes,</l>
+	<l id="1224">Sont des lois qu'elle-même à votre bras a faites ;</l>
+	<l id="1225">Votre père par elle, et vos frères meurtris...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1226">Hélas ! Si je pouvais n'être que votre fils ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1227">Vous êtes fils du Roi, la preuve en est trop claire.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1228">N'importe, par pitié soyez toujours mon Père.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1229" syll="6" part="i">Votre sort est trop beau...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1229" syll="6" part="f">Le prix m'en fait horreur,</l>
+	<l id="1230">Et j'aime encore mieux mille fois mon erreur.</l>
+	<l id="1231">Laissez, laissez-moi fuir cette fatale gloire ;</l>
+	<l id="1232">Laissez-moi, s'il se peut, tâcher de n'en rien croire ;</l>
+	<l id="1233">Repousser de mon coeur cette affreuse clarté,</l>
+	<l id="1234">Et garder de mon sort l'heureuse obscurité.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1235">Faites-vous un effort, pour dégager votre âme,</l>
+	<l id="1236">De ces transports honteux d'une coupable flamme :</l>
+	<l id="1237">Seigneur, considérez que l'amour désormais,</l>
+	<l id="1238">Est entre Élise et vous interdit pour jamais ;</l>
+	<l id="1239">Que cet indigne feu n'a plus droit de paraître ;</l>
+	<l id="1240">Et que, pour l'étouffer, quelque sort qu'il puisse être,</l>
+	<l id="1241">Dans la peur de tomber de son injuste rang,</l>
+	<l id="1242">La Reine n'a versé que trop de votre sang,</l>
+	<l id="1243">Songez que cet amour qui vous trouble et vous gêne,</l>
+	<l id="1244">Qui vous usurpe un coeur qui n'est dû qu'à la haine ;</l>
+	<l id="1245">Cet amour qui vous guide au crime le plus noir,</l>
+	<l id="1246">Corrompt votre vertu, séduit votre devoir ;</l>
+	<l id="1247">Cet amour qui vous rend à vous-même perfide,</l>
+	<l id="1248">Qui vous force à chérir une main parricide,</l>
+	<l id="1249">Doit être ici pour vous le premier des tyrans,</l>
+	<l id="1250">Qu'il faut sacrifier au sang de vos parents.</l>
+	<l id="1251">Rendez-vous à la gloire ; allez, où vous appelle</l>
+	<l id="1252">L'impatiente ardeur d'un peuple plein de zèle ;</l>
+	<l id="1253">Suivez de votre sort l'irrévocable loi :</l>
+	<l id="1254">Montrez-vous digne fils du véritable Roi :</l>
+	<l id="1255">Laissez-vous arracher aux flammes indiscrètes...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1256" syll="6" part="i">Ah ! J'aperçois la Reine !</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1256" syll="6" part="f">Ah ! Songez qui vous êtes !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1257">Hélas ! Qui que je sois, à cet aspect charmant,</l>
+	<l id="1258">Je ne me connais plus, et ne suis plus qu'amant.</l>
+	<l id="1259">Tout mon devoir s'oublie aux yeux de ce que j'aime.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1260">J'en vais donc prendre soin pour vous, malgré vous-même.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Élise, Astrate, Corisbe.
+</stage>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1261">Hé bien mon ennemi vous est-il découvert ?</l>
+	<l id="1262">Nul espoir contre lui ne peut-il m'être offert ?</l>
+	<l id="1263" syll="9" part="i">Doit-il m'ôter le sceptre et la vie...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1263" syll="3" part="f">Ah ! Madame !</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1264">Je vous trouve interdit ! Qui trouble ainsi votre âme ?</l>
+	<l id="1265">Tout votre soin pour moi n'a-t-il rien obtenu ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1266">Hélas ! Votre ennemi ne m'est que trop connu.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1267">En l'état où je suis c'est peu de le connaître ;</l>
+	<l id="1268">Peut-être de ces lieux est-il déjà le maître.</l>
+	<l id="1269">On vient de m'avertir que le peuple en fureur</l>
+	<l id="1270">Se soulève, s'attroupe, et s'arme en sa faveur ;</l>
+	<l id="1271">Et qu'un gros de soldats, joint à la populace,</l>
+	<l id="1272">En soutient la révolte, et redouble l'audace.</l>
+	<l id="1273">J'ai vu même à ce bruit la frayeur s'emparer</l>
+	<l id="1274">De ceux en qui j'ai cru devoir plus espérer ;</l>
+	<l id="1275">Tout cherche à me trahir, tout me devient funeste,</l>
+	<l id="1276">Et si j'ai quelque espoir, c'est en vous qu'il me reste ;</l>
+	<l id="1277">Mon ennemi sans vous est sûr de m'accabler.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1278">Non, n'appréhendez rien, c'est à lui de trembler.</l>
+	<l id="1279">L'état où mon amour l'a déjà su réduire,</l>
+	<l id="1280">Ne lui peut désormais permettre de vous nuire.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1281">Quoi, contre ses efforts, vous pourriez m'assurer ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1282">Je puis même encor plus, je puis vous le livrer.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1283">Me le livrer vous-même ? Ô Ciel ! Se peut-il faire</l>
+	<l id="1284">Que j'aie un bien si doux, par une main si chère ?</l>
+	<l id="1285">Et que le plus mortel de tous mes ennemis,</l>
+	<l id="1286">Par un amant aimé, me soit enfin remis ?</l>
+	<l id="1287">Ce temps presse ; à ma haine offrez donc sans attendre,</l>
+	<l id="1288">Ce sang fatal qu'il faut achever de répandre :</l>
+	<l id="1289">De cette heureuse mort, hâtons-nous de jouir.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1290">Hé bien Madame, hé bien, il faut vous obéir,</l>
+	<l id="1291">Et pour tarir ce sang qui vous est si funeste,</l>
+	<l id="1292">En montrer à vos yeux le déplorable reste.</l>
+	<l id="1293">Ce dernier fils d'un Roi par votre ordre égorgé ;</l>
+	<l id="1294">Ce fils par son devoir à vous perdre engagé ;</l>
+	<l id="1295">Cette victime encore à vos jours nécessaire ;</l>
+	<l id="1296">Ce malheureux vengeur d'un misérable père,</l>
+	<l id="1297">D'une maison détruite et d'un sceptre envahi ;</l>
+	<l id="1298">Enfin cet ennemi tant craint et tant haï,</l>
+	<l id="1299">Dont nous cherchions la perte avec un soin extrême,</l>
+	<l id="1300">Qui l'eût pu croire ! Hélas ! Madame, c'est moi-même.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1301" syll="6" part="i">Vous ! Ô Ciel ! Vous, Astrate !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1301" syll="6" part="f">En vain, pour me flatter,</l>
+	<l id="1302">J'ai fait ce que j'ai pu pour tâcher d'en douter.</l>
+	<l id="1303">Sichée, en me montrant ce que je frémis d'être,</l>
+	<l id="1304">S'il en eût cru mon coeur, m'eût laissé méconnaître :</l>
+	<l id="1305">Mais de ce sort affreux ignoré jusqu'ici,</l>
+	<l id="1306">Il ne m'a, malgré moi, que trop bien éclairci.</l>
+	<l id="1307">Je vois que ce revers, comme moi vous accable ;</l>
+	<l id="1308">Que votre âme à ce coup n'est pas inébranlable.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1309">Si j'ai cru l'être, Astrate, et me l'étais promis,</l>
+	<l id="1310">Je ne vous comptais pas parmi mes ennemis.</l>
+	<l id="1311">Je me vantais à tort d'un courage invincible,</l>
+	<l id="1312">D'une âme à la terreur, au trouble inaccessible,</l>
+	<l id="1313">L'ingénieux courroux du Ciel plein de rigueur,</l>
+	<l id="1314">N'a que trop bien trouvé le faible de mon coeur.</l>
+	<l id="1315">J'aurais bravé mon sort, s'il ne m'eût point trompée :</l>
+	<l id="1316">Je ne m'en gardais pas par où j'en suis frappée.</l>
+	<l id="1317">De ce piège des Dieux, qui se fût défié ?</l>
+	<l id="1318">Mon coeur était sans doute assez fortifié</l>
+	<l id="1319">Contre tous les dangers qui menaçaient ma vie ;</l>
+	<l id="1320">Il ne l'était que trop contre un peuple en furie,</l>
+	<l id="1321">Contre les Dieux vengeurs, les Destins en courroux ;</l>
+	<l id="1322">Mais il ne l'était pas contre l'Amour et vous.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1323">De l'Amour et de moi que peut craindre votre âme ?</l>
+	<l id="1324">Contre votre ennemi vous pouvez tout, Madame ;</l>
+	<l id="1325">Vous vouliez le connaître, et je vous l'ai montré ;</l>
+	<l id="1326">Vous cherchiez à le perdre, et je vous l'ai livré.</l>
+	<l id="1327">N'épargnez pas mon sang dans ce malheur extrême,</l>
+	<l id="1328">Vous en avez besoin, il me pèse à moi-même ;</l>
+	<l id="1329">Il coulera sans peine, et tout vous est permis,</l>
+	<l id="1330">Il est coupable assez de nous faire ennemis.</l>
+	<l id="1331">Trop heureux s'il vous laisse en paix au rang suprême...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1332">Ne me reprochez pas d'aimer le diadème.</l>
+	<l id="1333">S'il m'a pu tant coûter d'injustice et de soin,</l>
+	<l id="1334">C'était pour vous l'offrir, l'Amour m'en est témoin.</l>
+	<l id="1335">Je n'ai fait cependant rien qui ne vous trahisse ;</l>
+	<l id="1336">Le Ciel contre mes voeux tourne mon injustice,</l>
+	<l id="1337">Et tout ce que pour vous j'ai commis de forfaits,</l>
+	<l id="1338">Au lieu de nous unir nous sépare à jamais.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1339">Ainsi Madame, ainsi, pour avoir su vous plaire ;</l>
+	<l id="1340">C'est donc moi qui vous fit sacrifier mon père,</l>
+	<l id="1341">Répandre tout le sang qui m'avait animé ;</l>
+	<l id="1342">Et je fus parricide à force d'être aimé.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1343">Vous vous justifierez en immolant ma vie :</l>
+	<l id="1344">Et serez innocent quand vous m'aurez punie.</l>
+	<l id="1345">Vous devez vous venger et même me haïr :</l>
+	<l id="1346" syll="6" part="i">Votre sort vous l'ordonne...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1346" syll="6" part="f">Hé lui puis-je obéir ?</l>
+	<l id="1347">Vous, un objet pour moi de haine et de vengeance !</l>
+	<l id="1348">Et vous me condamnez à cette obéissance ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1349">J'avouerai ma faiblesse, Astrate, et qu'en effet</l>
+	<l id="1350">J'ai peine à vous presser d'obéir tout-à-fait.</l>
+	<l id="1351">Ne suivez qu'à demi ce devoir trop funeste ;</l>
+	<l id="1352">Sauvez m'en la moitié je suis d'accord du reste ;</l>
+	<l id="1353">J'y consens sans regret, vengez-vous, mais hélas !</l>
+	<l id="1354">Astrate, s'il se peut, ne me haïssez pas.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1355">Ah ! J'obéirai trop, pour peu que j'obéisse,</l>
+	<l id="1356">Et comment voulez-vous qu'un amant vous punisse ?</l>
+	<l id="1357">Non, non, le Ciel veut bien voir trahir son courroux,</l>
+	<l id="1358">Puisqu'il prend un vengeur si faible contre vous :</l>
+	<l id="1359">C'est pour vous épargner qu'en mes mains il vous livre ;</l>
+	<l id="1360">Qu'il m'impose un devoir que je ne saurais suivre ;</l>
+	<l id="1361">Et s'il avait voulu vous perdre absolument,</l>
+	<l id="1362">Il ne s'en fierait pas au devoir d'un amant.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1363">C'est par vous toutefois qu'il veut que je périsse ;</l>
+	<l id="1364">Un Oracle l'assure ; il faut qu'il s'accomplisse :</l>
+	<l id="1365">Les Dieux me l'ont trop dit, pour en oser douter.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1366">L'Amour est le Dieu seul qu'il en faut consulter ;</l>
+	<l id="1367">Et sa voix, dans mon coeur, s'expliquant sans obstacle,</l>
+	<l id="1368">Vous répond du contraire, et vaut bien votre Oracle.</l>
+	<l id="1369">C'est le Dieu qui me touche et me connaît le mieux,</l>
+	<l id="1370">Fiez-vous plus à lui qu'à tous les autres Dieux,</l>
+	<l id="1371">S'ils menacent par moi vos jours et votre Empire,</l>
+	<l id="1372">Ils se sont abusés, j'ose les en dédire ;</l>
+	<l id="1373">Je prétends vous sauver en dépit des destins.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Géraste, Élise, Astrate, Corisbe.
+</stage>
+<sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
+	<l id="1374">Ah ! Madame, tout cède au pouvoir des mutins ;</l>
+	<l id="1375">Et l'ennemi fatal réservé pour vous nuire,</l>
+	<l id="1376">Au dernier désespoir est prêt à vous réduire.</l>
+	<l id="1377">De sa haine pour vous tout est à redouter ;</l>
+	<l id="1378">Sa vengeance a déjà commencé d'éclater,</l>
+	<l id="1379">Et contre votre sang, la fureur qui l'anime,</l>
+	<l id="1380">A pris dans Agénor sa première victime.</l>
+	<l id="1381">Mais ce qui doit surprendre, est qu'on a fait effort</l>
+	<l id="1382">Pour même, en l'immolant, vous charger de sa mort.</l>
+	<l id="1383">Ces mutins, à la force ajoutant l'artifice,</l>
+	<l id="1384">Vous ont de ce trépas imputé l'injustice.</l>
+	<l id="1385">D'abord avec succès ce faux bruit a couru ;</l>
+	<l id="1386">Des amis d'Agénor le parti s'est accru,</l>
+	<l id="1387">Et l'effort réuni de toute la tempête,</l>
+	<l id="1388">Vient jusqu'en ce palais fondre sur votre tête.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE</speaker><stage type="toward">, à Astrate.
+	</stage>
+	<l id="1389">Vous voyez que des Dieux l'implacable courroux,</l>
+	<l id="1390">Veut que vous vous vengiez, Astrate, et malgré vous.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1391">Malgré ces Dieux, Madame, allons donc vous défendre,</l>
+	<l id="1392">Et d'eux ou de mon coeur, voir qui s'est pu méprendre.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1393" syll="6" part="i">Écoutez votre sang.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1393" syll="6" part="f">Ses cris sont superflus ;</l>
+	<l id="1394">J'écoute mon amour, et n'entends rien de plus.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Élise, Corisbe.
+</stage>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1395">Quelque effort que le Ciel à m'accabler emploie,</l>
+	<l id="1396">Il est temps qu'à tes yeux mon coeur s'ouvre à la joie.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="1397">Auriez-vous quelque espoir qu'Astrate pût calmer,</l>
+	<l id="1398">Ceux que ses intérêts malgré lui font armer,</l>
+	<l id="1399">Et que votre salut si proche du naufrage,</l>
+	<l id="1400">Une seconde fois fut encor son ouvrage ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1401">J'ai vu moi-même, Astrate, au-delà de mes voeux,</l>
+	<l id="1402">Tenter tout ce que peut un héros amoureux.</l>
+	<l id="1403">Je l'ai vu d'un balcon courir droit à la porte,</l>
+	<l id="1404">Qu'attaquait des mutins la troupe la plus forte :</l>
+	<l id="1405">Après avoir en vain essayé plusieurs fois,</l>
+	<l id="1406">D'arrêter leur fureur, du geste et de la voix ;</l>
+	<l id="1407">Voyant que le tumulte empêchait de l'entendre,</l>
+	<l id="1408">Il a changé ces soins en ceux de me défendre :</l>
+	<l id="1409">Pour moi contre lui-même il s'est cru tout permis,</l>
+	<l id="1410">Et de ses partisans s'est fait des ennemis.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="1411">Avec le peu d'amis qui vous restent fidèles,</l>
+	<l id="1412">Que pourra ce héros contre tant de rebelles ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1413">Montrer qu'il m'aime encor, malgré tout mon malheur,</l>
+	<l id="1414">Corisbe, et c'est assez pour charmer ma douleur.</l>
+	<l id="1415">Quand on aime, et qu'on trouve en un destin contraire,</l>
+	<l id="1416">Du côté de l'amour de quoi se satisfaire ;</l>
+	<l id="1417">C'est un bien qui tient seul lieu de tout autre bien,</l>
+	<l id="1418">Et ce qu'on perd d'ailleurs ne coûte presque rien.</l>
+	<l id="1419">Après avoir pu voir l'ennemi que j'offense,</l>
+	<l id="1420">Au lieu de me punir, s'armer pour ma défense,</l>
+	<l id="1421">Abandonner pour moi le sang de ses parents :</l>
+	<l id="1422">Étouffer dans son coeur leurs mânes murmurants,</l>
+	<l id="1423">D'instrument de ma perte en devenir l'obstacle,</l>
+	<l id="1424">Essayer de tromper et les Dieux et l'Oracle :</l>
+	<l id="1425">M'immoler son devoir, et plus amant que fils,</l>
+	<l id="1426">Démentir les destins qui nous sont ennemis,</l>
+	<l id="1427">Et de la même main pour mon trépas choisie,</l>
+	<l id="1428">Lutter contre le sort pour me sauver la vie ;</l>
+	<l id="1429">Quel qu'en soit le succès, ce triomphe secret</l>
+	<l id="1430">Me doit suffire, au moins pour mourir sans regret.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="1431">Je ne vois pour mourir, rien encor qui vous presse.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1432">Astrate est en péril : veux-tu que je l'y laisse ?</l>
+	<l id="1433">Non, non ; hâtons ma perte, et l'allons dispenser</l>
+	<l id="1434">De s'exposer aux coups qu'on me veut adresser.</l>
+	<l id="1435">J'aime encor moins que lui la vie et la couronne,</l>
+	<l id="1436">Et le danger qu'il court, est le seul qui m'étonne.</l>
+	<l id="1437">Il faut qu'un prompt trépas, qui soit tout de ma main,</l>
+	<l id="1438">Lui sauve des forfaits qu'il pourrait faire en vain,</l>
+	<l id="1439">Que j'emporte, en mourant le crime où je le lie,</l>
+	<l id="1440">Et qu'avec la vertu je le réconcilie.</l>
+	<l id="1441">Après ce que pour moi lui fait faire l'amour,</l>
+	<l id="1442">C'est bien le moins pour lui, que je doive à mon tour.</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="1443" syll="6" part="i">Quoi vous n'attendrez pas...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1443" syll="6" part="f">Que veux-tu que j'attende ?</l>
+	<l id="1444">Que de mes ennemis tout mon destin dépende ?</l>
+	<l id="1445">La mort est bien plus belle avant l'extrémité,</l>
+	<l id="1446">Et lorsqu'elle est un choix, qu'une nécessité.</l>
+	<l id="1447">Nous-mêmes prévenons le Ciel, et sa Justice,</l>
+	<l id="1448">Et laissons à douter, devançant mon supplice,</l>
+	<l id="1449">Ce que ma destinée aurait pu devenir,</l>
+	<l id="1450">Si je n'avais aidé les Dieux à me punir.</l>
+	<l id="1451">Allons de... Mais en vain cette douceur me flatte,</l>
+	<l id="1452">Je vois mes ennemis, et ne vois point Astrate.</l>
+	<l id="1453">Puisqu'il ne paraît point, et qu'il n'a pas vaincu,</l>
+	<l id="1454">Je dois le croire mort, et j'aurai trop vécu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Sichée, Nicogène, Bazore, Nerbal, Élise, Corisbe, Soldats.
+</stage>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1455">Voici la Reine, Amis, sa perte est légitime :</l>
+	<l id="1456">Mais respectons le trône, en punissant le crime :</l>
+	<l id="1457">Empêchez que le peuple ose passer plus loin,</l>
+	<l id="1458">Et laissez de nos Rois la vengeance à mon soin.</l>
+<stage type="exit/toward">Nicogène et Nerbal rentrent. À la Reine.</stage>
+	<l id="1459">Quoique par un devoir qui m'est inviolable,</l>
+	<l id="1460">Je serve contre vous le sort qui vous accable,</l>
+	<l id="1461">Le respect qu'on vous doit m'est encor trop connu.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1462">Qu'avez-vous fait d'Astrate, et qu'est-il devenu ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1463">Cessez de vous flatter qu'il vous puisse défendre ;</l>
+	<l id="1464">Il n'est plus en état d'oser rien entreprendre.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1465">Quoi ce héros est mort ? Et le peuple animé...</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1466">Madame, il est vivant, mais il est désarmé.</l>
+	<l id="1467">Sa flamme à notre zèle en vain s'est opposée ;</l>
+	<l id="1468">Son épée en éclats jusqu'en sa main brisée,</l>
+	<l id="1469">L'a laissé sans défense, et mis hors de pouvoir</l>
+	<l id="1470">De plus faire d'effort pour trahir son devoir.</l>
+	<l id="1471">Dans la chute ou des Dieux la rigueur vous entraîne,</l>
+	<l id="1472">J'ai voulu de le voir vous épargner la peine ;</l>
+	<l id="1473">Vous sauver à tous deux des regrets superflus :</l>
+	<l id="1474" syll="3" part="i">On le garde.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1474" syll="9" part="f">Ainsi donc, je ne le verrai plus.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1475" syll="6" part="i">Vous plaignez-vous d'un soin...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1475" syll="6" part="f">De quoi que l'on me prive,</l>
+	<l id="1476">Je ne me plains de rien, pourvu qu'Astrate vive ;</l>
+	<l id="1477">Et si l'on sauve en lui ce que j'aime le mieux,</l>
+	<l id="1478">Quel que soit mon malheur, je le pardonne aux Dieux.</l>
+	<l id="1479">Mais puis-je avant ma mort, vous faire une prière ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1480">Il n'est rien que pour vous, et pour faveur dernière...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1481">Vous parler de prière au point où je me vois,</l>
+	<l id="1482">Est dire encore allez que ce n'est pas pour moi.</l>
+	<l id="1483">Je sais l'amour d'Astrate, et juge par moi-même,</l>
+	<l id="1484">Qu'il est doux de mourir, quand on perd ce qu'on aime,</l>
+	<l id="1485">Et que pour me rejoindre, il ne manquera pas</l>
+	<l id="1486">De vouloir fuir la vie, au bruit de mon trépas :</l>
+	<l id="1487">Ayez soin d'empêcher son désespoir funeste,</l>
+	<l id="1488">C'est de quoi je vous prie, et vous quitte du reste.</l>
+	<l id="1489">Ce n'est que dans ses jours que je prends intérêt,</l>
+	<l id="1490">Et vous pouvez des miens user comme il vous plaît.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1491">Je révère le rang où vous avez pris place...</l>
+<stage type="noise">Il se fait un grand bruit derrière le théâtre.</stage>
+	<l id="1492">Mais je crains tout du peuple, et ce bruit vous menace.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1493">Qu'on me laisse en repos ; je sais ce que je dois,</l>
+	<l id="1494">Et je satisferai les Dieux, le peuple et moi...</l>
+<stage type="watch/location">Elle entre dans son cabinet.</stage>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE</speaker><stage type="toward">, à Bazore.
+	</stage>
+	<l id="1495">Son amour lui fait peine à renoncer à vivre,</l>
+	<l id="1496">Ami, pour l'observer, prenez soin de la suivre.</l>
+	<l id="1497">J'irai voir cependant d'où naît ce bruit confus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Astrate, Sichée, Soldats.
+</stage>
+<sp who="ASTRATE"><speaker>ASTRATE</speaker><stage type="away/push">, s'arrachant des mains des Soldats.
+	</stage>
+	<l id="1498">Ôtez-moi donc la vie, ou ne m'arrêtez plus.</l>
+	<l id="1499">Cruels, traiter ainsi Votre Roi, votre maître.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE</speaker><stage type="toward">, aux Soldats.
+	</stage>
+	<l id="1500">Excusez les transports qui le font méconnaître ;</l>
+	<l id="1501">Et pour le ramener de cet égarement,</l>
+	<l id="1502">Laissez-moi sans témoins lui parler un moment.</l>
+<stage type="entrance">Les Soldats rentrent.</stage>
+	<l id="1503">Dans peu j'avouerai tout : n'en soyez point en peine ;</l>
+<stage type="toward">À Astrate.</stage>
+	<l id="1504" syll="6" part="i">Seigneur, vous régnerez...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1504" syll="6" part="f">Mais où donc est la Reine ?</l>
+	<l id="1505">Ah ! Si j'osais penser qu'en cette extrémité,</l>
+	<l id="1506">Déjà contre sa vie on eût rien attenté...</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1507">La Reine vit encor ; mais enfin voici l'heure,</l>
+	<l id="1508">Où c'est ne l'aimer pas qu'empêcher qu'elle meure.</l>
+	<l id="1509">Tout le peuple est contre elle animé de fureur ;</l>
+	<l id="1510">Et retarder sa mort, c'est en croître l'horreur.</l>
+	<l id="1511">Voulez-vous l'exposer au sort dont la menace</l>
+	<l id="1512">La haine des Soldats et de la populace ?</l>
+	<l id="1513">Tous sont à l'immoler eux-mêmes résolus ;</l>
+	<l id="1514">Ça les retient à peine, et je n'en réponds plus.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1515">Je ne connais que trop ce qui nous est funeste.</l>
+	<l id="1516">Répondez-moi de vous, je vous réponds du reste :</l>
+	<l id="1517">Pour me rendre ici maître annoncez qui je suis.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1518">Ne vous en flattez point, c'est ce que je ne puis.</l>
+	<l id="1519">Il n'est pas encor temps que j'ose vous en croire,</l>
+	<l id="1520">Et vous mettre au pouvoir de trahir votre gloire.</l>
+	<l id="1521">Le peuple au nom de Roi, se laissant éblouir,</l>
+	<l id="1522">N'est pas fidèle assez pour vous désobéir.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1523">Quand donc réservez-vous à me faire connaître ?</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1524">Quand j'aurai vu venger le sang qui vous fit naître.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1525">Mais savez-vous quel prix doit attendre de moi,</l>
+	<l id="1526">Un si barbare soin de votre trop de foi ?</l>
+	<l id="1527">Que si pour me venger en dépit de moi-même,</l>
+	<l id="1528">Votre cruel devoir m'arrache ce que j'aime,</l>
+	<l id="1529">Je punirai sur vous, et de ma propre main,</l>
+	<l id="1530">L'excès injurieux de ce zèle inhumain.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1531">Je sais que l'on reçoit souvent comme une injure</l>
+	<l id="1532">Le zèle trop exact de la foi la plus pure :</l>
+	<l id="1533">Mais rien, en vous servant, ne peut me retenir,</l>
+	<l id="1534">Je serai mon devoir, dussiez-vous m'en punir.</l>
+	<l id="1535">À vous laisser régner rien ne me peut contraindre,</l>
+	<l id="1536">Tant que, pour votre honneur, j'y verrai lieu de craindre ;</l>
+	<l id="1537">Et j'y consentirai sans peine et sans effroi,</l>
+	<l id="1538">Quand je ne verrai plus à craindre que pour moi.</l>
+	<l id="1539">J'aime mon maître assez pour m'exposer sans peine,</l>
+	<l id="1540">Jusqu'à l'oser servir, au péril de sa haine ;</l>
+	<l id="1541">Et ma perte assurée, est, après tous mes soins,</l>
+	<l id="1542">L'injustice de lui que mon coeur craint le moins.</l>
+	<l id="1543">Quand j'aurai fait, Seigneur, tout ce que je dois faire,</l>
+	<l id="1544">Achevé ce que veut le sang de votre père ;</l>
+	<l id="1545">Assuré votre gloire, et signalé ma foi,</l>
+	<l id="1546">J'aurai cru vivre assez et pour vous et pour moi ;</l>
+	<l id="1547">Et si ma vie, enfin, suivant mon zèle extrême,</l>
+	<l id="1548">À venger votre sang vous sert malgré vous-même ;</l>
+	<l id="1549">Je mourrai trop content, si ma mort à son tour,</l>
+	<l id="1550">Vous sert, selon vos voeux, à venger votre amour.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1551">Puisque mes soins sont vains, puisque rien n'est capable,</l>
+	<l id="1552">De vaincre ou d'émouvoir cette âme impitoyable,</l>
+	<l id="1553">Ce coeur dont je ne puis fléchir la dureté,</l>
+	<l id="1554">Il en faut assouvir toute la cruauté ;</l>
+	<l id="1555">Il faut qu'elle ait de moi plus qu'elle ne demande,</l>
+	<l id="1556">Qu'avec un sang si cher tout le mien se répande.</l>
+	<l id="1557" syll="2" part="i">Donnez[...]</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE</speaker><stage type="pull">, empêchant Astrate de se saisir de son épée.
+	</stage>
+	<l id="1557" syll="2" part="m">Seigneur !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1557" syll="8" part="f">Cruel, mon sang vous fait-il peur ?</l>
+	<l id="1558">Si vous ne craignez pas de m'arracher le coeur,</l>
+	<l id="1559">Que ne m'épargnez-vous où je suis plus sensible ?</l>
+	<l id="1560">Ce n'est que dans la Reine où la mort m'est horrible ;</l>
+	<l id="1561">L'amour m'enchaîne au sort qu'elle doit éprouver ;</l>
+	<l id="1562">C'est en elle qu'il faut me perdre ou me sauver.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1563">Mon coeur n'est pas si dur, Seigneur, ni si farouche,</l>
+	<l id="1564">Qu'en cet état pour vous la pitié ne me touche.</l>
+	<l id="1565">Je plains de votre amour les noeuds mal assortis :</l>
+	<l id="1566">Mais ne sentez-vous point de qui vous êtes fils ?</l>
+	<l id="1567">Vous seul à votre sang serez-vous insensible !</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1568">Je sens ce que je dois autant qu'il m'est possible ;</l>
+	<l id="1569">Je sens de mes parents le meurtre injurieux ;</l>
+	<l id="1570">Mais j'aime, et c'est enfin ce que je sens le mieux.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1571">Pour la Reine, Seigneur, vous croyez légitime...</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1572">Hé bien, si vous voulez, son salut est un crime :</l>
+	<l id="1573">Mais fût-il plus affreux, n'en ayez point d'effroi,</l>
+	<l id="1574">Je vous en justifie, et le prends tout sur moi.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1575">Qu'à cet aveuglement ma foi vous abandonne ?</l>
+	<l id="1576" syll="6" part="i">Traiter ainsi mon Roi ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1576" syll="6" part="f">C'est moi qui vous l'ordonne,</l>
+	<l id="1577">Vouloir me servir mieux, c'est vouloir mon trépas ;</l>
+	<l id="1578">Et c'est m'assassiner, que ne me trahir pas.</l>
+	<l id="1579">Si vous aimez mes jours, cessez, mon cher Sichée,</l>
+	<l id="1580">De poursuivre une vie à la mienne attachée.</l>
+	<l id="1581">Vous n'avez que trop bien signalé votre foi,</l>
+	<l id="1582">Servez-moi comme amant plutôt que comme Roi :</l>
+	<l id="1583">Préférez mon sang propre, au sang qui m'a fait naître,</l>
+	<l id="1584">Au nom de votre Fils que j'ai tant aimé d'être ;</l>
+	<l id="1585">Dont le titre rendait mon amour innocent,</l>
+	<l id="1586">Par tout ce qui sur vous peut être plus puissant.</l>
+	<l id="1587">Du trouble où je vous vois, je forme un doux augure :</l>
+	<l id="1588" syll="4" part="i">J'ose espérer...</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Nicogène, Nerbal, Sichée, Astrate, Soldats.
+</stage>
+<sp who="NICOGÈNE"><speaker>NICOGÈNE</speaker><stage type="toward">, à Sichée.
+	</stage>
+	<l id="1588" syll="8" part="f">Seigneur, tout le peuple murmure.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1589">Est-ce contre la Reine, et veut-il son trépas ?</l>
+</sp>
+<sp who="NICOGÈNE"><speaker>NICOGÈNE.</speaker>
+	<l id="1590">Le peuple sur ce point encor ne presse pas.</l>
+	<l id="1591">Il réserve sa vie, et c'est une victime</l>
+	<l id="1592">Qu'il croit devoir garder à son Roi légitime :</l>
+	<l id="1593">Mais il veut voir son maître, et ne peut plus souffrit</l>
+	<l id="1594">Qu'on tarde davantage à le lui découvrir.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1595">Contentez donc le peuple, et lui faites connaître</l>
+	<l id="1596">Son légitime Roi, son véritable maître ;</l>
+	<l id="1597">Et puisque je le suis, cessez de m'arracher</l>
+	<l id="1598">L'avantage d'un sang qui me coûte si cher.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1599">Contre un peuple et mon Roi ma résistance est vaine ;</l>
+	<l id="1600" syll="6" part="i">Allons tout déclarer.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1600" syll="6" part="f">Voyons d'abord la Reine.</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE</speaker><stage type="toward">, à Nerbal.
+	</stage>
+	<l id="1601">Qu'on sache auparavant si l'on peut lui parler.</l>
+	<l id="1602" syll="6" part="i">Elle s'est retirée.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1602" syll="6" part="f">Ah c'est pour s'immoler !</l>
+	<l id="1603">Sans doute, il n'est plus temps de m'accorder sa vie,</l>
+	<l id="1604">Tandis que je l'obtiens, elle se l'est ravie,</l>
+	<l id="1605">Et votre coeur, cruel, ne se sût pas rendu,</l>
+	<l id="1606">S'il n'avait cru déjà tout son sang répandu.</l>
+	<l id="1607" syll="6" part="i">Peut-être est-ce par vous...</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1607" syll="2" part="m">Par moi ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1607" syll="4" part="f">Tout m'épouvante ;</l>
+	<l id="1608">Pour vous justifier, montrez-la-moi vivante :</l>
+	<l id="1609">Mon coeur n'en croira plus que mes yeux seulement.</l>
+	<l id="1610">La voici. Pardonnez aux frayeurs d'un amant.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><stage> Corisbe, Élise, Bazore, Nerbal, Astrate, Sichée, Nicogène, Soldats.
+</stage>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1611">Enfin, Madame, enfin, tout cède à mon envie,</l>
+	<l id="1612">Rien ne menace plus une si belle vie ;</l>
+	<l id="1613">Et malgré les destins contre nous conjurés,</l>
+	<l id="1614">Mes feux sont triomphants et vos jours assurés.</l>
+	<l id="1615">Mon amour a fléchi ce sujet trop fidèle,</l>
+	<l id="1616">Su vaincre son devoir, et séduire son zèle ;</l>
+	<l id="1617">Nous n'avons plus sujet d'en appréhender rien.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1618">Mais votre amour croit-il séduire aussi le mien ?</l>
+	<l id="1619">Non, non, Seigneur, l'amour doit, quand il est extrême,</l>
+	<l id="1620">Tout séduire et tout vaincre, excepté l'amour même.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1621">Dieux ! De vous-même encore aurais-je à vous sauver ?</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1622">Je vous dois trop ma mort pour ne pas l'achever.</l>
+	<l id="1623">Je ne puis moins, Seigneur, pour vous rendre justice.</l>
+	<l id="1624">Votre sang demandait de vous ce sacrifice ;</l>
+	<l id="1625">Et quand, par des transports mutuels entre nous,</l>
+	<l id="1626">Vous l'oubliez pour moi, j'y dois songer pour vous.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1627">Ah, Corisbe ! Empêchons que la Reine obstinée...</l>
+</sp>
+<sp who="CORISBE"><speaker>CORISBE.</speaker>
+	<l id="1628">Seigneur, il n'est plus temps, elle est empoisonnée.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1629" syll="2" part="i">Madame !</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1629" syll="10" part="F">C'en est fait, votre sang est vengé,</l>
+	<l id="1630">Et d'un soin criminel vous êtes dégagé.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1631" syll="6" part="i">Qu'on cherche du secours.</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1631" syll="6" part="f">L'envie en serait vaine,</l>
+	<l id="1632">Le poison que j'ai pris porte une mort certaine.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE</speaker><stage type="toward">, à Sichée.
+	</stage>
+	<l id="1633">Si c'est vous inhumain dont la barbare foi...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1634">Non ; vous ne devez rien de mon trépas qu'à moi.</l>
+	<l id="1635">J'ai cru devoir moi-même expier mon offense,</l>
+	<l id="1636">Vous offrir de ma main toute votre vengeance,</l>
+	<l id="1637">Mettre ainsi votre sang avec vos feux d'accord,</l>
+	<l id="1638">Et vous plaire sans crime, au moins après ma mort.</l>
+	<l id="1639">Aussi bien le malheur où mon destin me livre,</l>
+	<l id="1640">Ne me laisse plus rien pour qui je puisse vivre :</l>
+	<l id="1641">Je n'ai plus nul espoir des biens qui m'étaient doux ;</l>
+	<l id="1642">J'aimais beaucoup le trône, et moins encor que vous.</l>
+	<l id="1643">Le jour avec vous seul m'aurait pu faire envie ;</l>
+	<l id="1644">Mais sans trône et sans vous, que faire de la vie ?</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1645">Il fallait commencer par vous sauver le jour.</l>
+	<l id="1646" syll="3" part="i">Et du reste...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1646" syll="9" part="f">Ah ! Gardez de tenter mon amour.</l>
+	<l id="1647">Et quand je perds la vie, épargnez-moi l'outrage</l>
+	<l id="1648">De m'en faire trop tard une trop douce image ;</l>
+	<l id="1649">Troublez moins une mort qui n'est plus à mon choix.</l>
+	<l id="1650" syll="2" part="i">Je meurs.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1650" syll="1" part="m">Ah !...</l>
+</sp>
+<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+	<l id="1650" syll="9" part="f">La douleur vous dérobe la voix.</l>
+	<l id="1651">Ce silence en dit plus qu'une plainte éclatante,</l>
+	<l id="1652">Et la douleur muette est la plus éloquente.</l>
+	<l id="1653">Adieu, j'ai trop de peine à mourir à vos yeux ;</l>
+	<l id="1654">Et ne vous voyant plus je vous vengerai mieux.</l>
+	<l id="1655">Dans mon coeur expirant, je sens que votre vue</l>
+	<l id="1656">Rallume ce qu'éteint le poison qui me tue,</l>
+	<l id="1657">Et que de vos regards le charme est assez fort</l>
+	<l id="1658">Pour retenir mon âme, et suspendre ma mort.</l>
+	<l id="1659" syll="3" part="i">Qu'on m'emporte.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1659" syll="3" part="m">Ainsi ! Dieux !...</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1659" syll="6" part="f">Venez prendre l'Empire,</l>
+	<l id="1660" syll="2" part="i">Régnez.</l>
+</sp>
+<sp who="ASTRATE"><speaker>ASTRATE.</speaker>
+	<l id="1660" syll="10" part="f">Osez-vous bien ?... Mais que vois-je ? Elle expire !</l>
+</sp>
+<sp who="SICHÉE"><speaker>SICHÉE.</speaker>
+	<l id="1661">Il tombe, et cette mort semble trancher ses jours ;</l>
+	<l id="1662">Il est notre vrai Roi ; songeons à son secours.</l>
+<stage type="exit">On emporte Astrate.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

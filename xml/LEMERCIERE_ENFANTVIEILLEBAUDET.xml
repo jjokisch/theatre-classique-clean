@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'ENFANT, LA VIEILLE ET LE BAUDET, FABLE</title>
+				<author ISNI="0000 0001 2119 3444">Eugène LEMERCIER (1830-1918)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, juin 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, juillet 2023</publisher>
+				<idno>LEMERCIERE_ENFANTVIEILLEBAUDET</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1921-1930</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 4-YF-299 (1)">https://gallica.bnf.fr/ark:/12148/bpt6k6134996h</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'ENFANT, LA VIEILLE ET LE BAUDET</titlePart>
+			<titlePart type="sub">FABLE</titlePart>
+		</docTitle> 
+		<docDate value="1927">1927</docDate>
+		<docAuthor id="LEMERCIER, Eugène">PAR EUGÈNE LEMERCIER.</docAuthor>
+		<docImprint>
+			<copyright id="1921">Copyright 1921 by Francis Saîabert. Tous droits d'exécution publique, de traduction, de reproduction et d'arrangements réservés pour tous pays y compris la Suède, ta Norvège et le Danemark.</copyright>
+			<editor id="SALABERT">Propriété de S. E. M. F. A. Agence exclusive :  78, Avenue des Champs-Elysées (Arcades) 35, Bd des Capucines — 107, Avenue Victor Hugo,Paris. PARIS, BRUXELLES, NEW-YORK. ÉDITIONS FRANCIS SALABERT. Vente en gros : 37 R. Chauchat Paris 9°, - 14, rue de Loxum, BRUXELLES</editor>
+			<printer>13129. Dijon-Paris, Imprimerie Régionale. - Dr : J. CHAVALIER.</printer>
+			<bookstore>Vente en gros : Paris, 22, rue Chauchat (14, rue de Loxum, Bruxelles.</bookstore>
+		</docImprint>
+		<castList><head>PERSONNAGE</head>
+			<castItem><role id="UN HOMME" sex="2" type="H" statut="bourgeois" age="E" stat_amour="néant">UN HOMME</role>.</castItem>
+	</castList>
+   <set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+   <note>Ce monologue est extrait du volume "Eugène Lemercier, Choix de 10 monologues".</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>L'ENFANT, LA VIEILLE ET LE BAUDET</head>
+<div2 type="scene" n="1"><head/>
+<sp who="UN HOMME"><speaker>UN HOMME.</speaker>
+<poem type="strophes">
+<lg n="1">
+<note type="L">Bourricot : Petit âne.</note>
+	<l id="1">Martin était un bourricot</l>
+	<l id="2">Roux, des oreilles à la queue,</l>
+	<l id="3">Quand son braiment frappait l'écho,</l>
+	<l id="4">Cela s'entendait d'une lieue.</l>
+</lg>
+<lg n="2">
+	<l id="5">N'empêche que le petit Paul,</l>
+	<l id="6">Gamin qui n'avait pas la trousse,</l>
+	<l id="7">Grimpait, sans selle et sans licol,</l>
+	<l id="8">Sur son échine maigre et rousse.</l>
+</lg>
+<lg n="3">
+	<l id="9">- Ne monte pas sur le baudet,</l>
+	<l id="10">Lui disait sa bonne grand'mère,</l>
+	<l id="11">Mais, plus on le lui défendait,</l>
+	<l id="12">Plus il s'empressait de le faire.</l>
+</lg>
+<lg n="4">
+	<l id="13">- Pour grimper sur l'âne martin,</l>
+	<l id="14">Avec prudence, je me cache,</l>
+	<l id="15">Se disait le petit mâtin,</l>
+	<l id="16">Comment se peut-il qu'on le sache ?</l>
+</lg>
+<lg n="5">
+	<l id="17">Grand-maman, rouge de courroux,</l>
+	<l id="18">Lui dit un jour : « Hé ! Saprelotte !</l>
+	<l id="19">Tu ne vois donc pas les poils roux</l>
+	<l id="20">« De l'âne à ton fond de culotte ?</l>
+</lg>
+<lg n="6">
+	<l id="21">Quand je les brosse, le matin,</l>
+	<l id="22">Ces crins roussâtres, j'imagine</l>
+	<l id="23">Qu'avec toi, d'ici peu, Martin</l>
+	<l id="24">N'en aura plus un sur l'échine ».</l>
+</lg>
+<lg n="7">
+	<l id="25">Le gamin n'en revenait pas.</l>
+	<l id="26">Mais voilà, qu'un jour, sa grand mère,</l>
+	<l id="27">Sur la route, fait un faux pas</l>
+	<l id="28">Et prend un billet de parterre.</l>
+</lg>
+<lg n="8">
+	<l id="29">Juste à ce moment, l'aquilon</l>
+<note type="L">Cotte :  Jupe de paysanne, plissée par le haut à la ceinture. [L]</note>
+	<l id="30">S'engouffre, en sifflant, sous sa cotte</l>
+	<l id="31">Et la gonfle comme un ballon</l>
+	<l id="32">Rendant que la vieille gigote.</l>
+</lg>
+<lg n="9">
+	<l id="33">L'enfant regarde et dit : « Ma foi,</l>
+	<l id="34">C'est bien à tort qu'elle me damne,</l>
+	<l id="35">Si j'en crois mes yeux, avant moi,</l>
+	<l id="36">Grand mère a dû monter sur l'âne ! »</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

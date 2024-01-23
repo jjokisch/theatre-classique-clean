@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES FOURBERIES DE NÉRINE, COMÉDIE.</title>
+				<author type="texte" ISNI="0000 0000 8339 6506">BANVILLE, Théodore de (1823-1891)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, avril 2023.</editor>
+				<publisher>publié par Paul FIEVRE, mai 2023.</publisher>
+				<idno>BANVILLE_FOURBERIESDENERINE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1861-1870</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-YTH-7498">https://gallica.bnf.fr/ark:/12148/bpt6k97856255</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES FOURBERIES DE NÉRINE</titlePart>
+			<titlePart type="sub">COMÉDIE EN VERS</titlePart>
+			<titlePart type="sub">Représentée chez S. A. la princesse Mathilde en présence de leurs majestés le 27 février 1864</titlePart>
+		</docTitle> 
+		<docDate value="1868">M DCCC. LXVIII. Tous droits de reproduction et de représentaiton réservés</docDate>
+		<docAuthor id="BANVILLE, Théodore">PAR M. THÉODORE DE BANVILLE</docAuthor>
+		<docImprint>
+			<editor id="TRESSE">PARIS, MICHEL LEVY FRÈRES, LIBRAIRES ÉDITEURS, RUE VIVIENNE 2 BIS, ET BOULEVARD DES ITALIENS, 15.</editor>
+		</docImprint>
+		<performance>
+			<première date="1864-02-27" location="(inconnu)">Représentée chez S. A. la princesse Mathilde en présence de leurs majestés le 27 février 1864</première>
+		</performance>
+		<div type="dedicace"><adresse>À M. RÉGNIER DE LA COMÉDIE-FRANÇAISE</adresse>
+			<p>QUI NOUS A AIDÉ DE SES EXCELLENTS CONSEILS ET QUI A BIEN VOULU RÉGLER NOTRE PETITE MISE EN SCÈNE CET ESSAI DE COMÉDIE EST DÉDIÉ PAR SON TRÈS SINCÈRE ET TRÈS FIDÈLE ADMIRATEUR.</p>
+		<signature>TH. DE B.</signature>
+		</div>
+	<div type="dedicace"><adresse>À CONSTANT COQUELIN</adresse>
+		<head>MON CHER AMI,</head>
+			<p>Un soir que je venais de voir représenter Les Fourberies de Scapin à la Comédie-Française, vous me peigniez ardemment votre enthousiasme pour la façon magistrale dont votre bon et illustre maître Régnier joue le principal rôle dans cette farce héroïque. Ce qu'il accomplit là avec tant de bonheur et tant de science, me disiez-vous, c'est, non pas une tâche difficile, mais une tâche impossible ; car, dès qu'il s'agit de représenter SCAPIN, où le prendre ? Ce n'est pas dans la Comédie-Italienne, dont Molière n'a fait qu'une bouchée ; ce n'est pas même dans la lettre du chef-d'oeuvre de Molière, et voici pourquoi. Tout en faisant de son Scapin un simple mauvais garçon échappé d'un bagne chimérique, dont les ruses enfantines feraient sourire Vautrin, le poète a su nous suggérer l'idée d'un personnage épique et surhumain, qui devait de jour en jour grandir dans nos imaginations, atteindre à des proportions démesurées, et devenir pour nous, non plus un fourbe, mais le génie même de la libre Fantaisie, protestant contre l'avarice et l'imbécillité humaines. Protestant est le mot, car ses ruses ne servent de rien autre chose, et n'amènent pas même le dénoûment, que le grand Contemplateur a demandé, comme toujours, au hasard. Le temps s'est chargé de commenter Les Fourberies, et la lettre a beau parler, nous ne pouvons plus voir dans Scapin, dont le front touche aux étoiles, le misérable valet qui se déguise en loup-garou et qui se cache pour boire du vin dans une cave ; car Molière n'a pas pu empêcher les figures pétries par ses mains de grandir jusqu'à atteindre à la taille même de ses pensées ! Comment le comédien peut-il se mettre d'accord en même temps avec le rôle écrit et avec sa transfiguration idéale, qui est vivante dans tous les esprits ? C'est ce que le jeu inspiré de Régnier fait comprendre bien plus clairement que toute théorie, et cet inimitable comédien, qui se montre à la fois un observateur si fidèle de la Réalité et un si religieux interprète du maître, a en lui le sentiment inné des plus hautes conceptions de la poésie. Ainsi disiez-vous, mon ami ; cette conversation n'avait pas été perdue pour moi, et j'eus l'audace de me la rappeler le jour où vous veniez me demander de brocher à la hâte une scène à deux personnages, qui devait être représentée quarante-huit heures plus tard devant un illustre auditoire. Mais je n'eus garde de vous parler alors de mon sujet et de vous avouer que j'allais essayer d'évoquer pour un soir votre rêve, tremblant à l'idée que vous jugeriez ma tentative par trop folle. Après tout, me disais-je pour m'absoudre moi-même, il ne s'agit là que de noircir une feuille volante avec laquelle nous allumerons notre cigare au sortir de la représentation ! Il en eût été ainsi assurément sans la superbe couleur lyrique dont vous avez embelli notre personnage, et qui vous appartient bien en propre. Vos auditeurs ont été surpris et charmés d'entendre Scapin se louer lui-même avec la voix souveraine d'un jeune Achille ; le succès a dérouté tous nos calculs, Les Fourberies de Nérine... de Nérine, représentée par Mme Emma Fleury avec tant d'esprit et de grâce mutine, ont fait le tour des grands salons de Paris : cinq ou six directeurs de province réclament ce frivole intermède, et nous voilà forcés de nous faire imprimer, coûte que coûte. Je m'en lave les mains, c'est votre faute, cher ami, et non la mienne ; pourquoi avez-vous dépensé sur une saynète écrite à la diable, plus de puissance scénique et de composition qu'il n'en faut pour faire réussir un grand drame ? Si ces quelques pages valaient qu'on demandât quelque chose, je supplierais les directeurs de faire jouer nos deux personnages, non par un comique et une soubrette, mais par les grands premiers rôles, homme et femme. Car, où trouver un comique possédant comme vous une voix d'airain ferme et sonore, faite pour exprimer toutes les explosions et toutes les tendresses de la langue poétique ? Mais, (s'il est permis de comparer un ciron à un lion,) je me rappelle à temps que la même recommandation, faite si expressément par Beaumarchais à propos du plus grand des rôles, n'a jamais été suivie. Je m'arrête ; c'est trop longtemps parler d'une bluette ; je l'aurais déjà oubliée, si elle ne vous avait fourni l'occasion de montrer une face inconnue de votre admirable talent. C'est le seul résultat dont puisse se réjouir en cette affaire.</p>
+			<p>Votre ami bien dévoué.</p>
+		
+			<signature>THEODORE DE BANVILLE.</signature>
+			<date>Paris, le 15 avril 1864.</date>
+	</div>
+
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="SCAPIN" sex="1" type="H" statut="valet" age="A" stat_amour="néant">SCAPIN</role>, grand premier rôle. M. COQUELIN.</castItem>
+		<castItem><role id="NÉRINE" sex="2" type="H" statut="servante" age="A" stat_amour="néant">NÉRINE</role>, dix-huit ans, jeune premier rôle. Mme EMMA FLEURY..</castItem>
+	</castList>
+	<set location="Naples" country="Italie" periode="XVIIème" gps="26.1420358, -81.7948103">La scène est à Naples, en 1671.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LES FOURBERIES DE NÉRINE</head>
+<stage tyep="costume">Costume traditionnel, comme l'a gravé Riccoboni, et comme M. Maurice Sand l'a dessiné et peint avec la fantaisie la plus scrupulense et la plus charmante dans ses Masques et Bouffons, publiés par Michel Lévy. - Veste et culotte en poult de soie blanc, à brandebourg de velours bleu. Manteau en taffetas bleu de France grande largeur, coupé en biais et doublé en étoffe pareille, avec brandebourgs blancs. Ceinture de taffetas bleu. Toque blanche avec passe à revers en taffetas bleu. Bas de soie blancs à coins bleus. Souliers de peau blanche à rosettes bleues.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<stage type="decor/happy/carry">Le théâtre représente une place publique, éclatante de gaieté et dd soleil. Scapin entre d'un air joyeux, en traînant un énorme sac gonflé jusqu'aux bords.</stage>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="1">Ciel napolitain, fait d'azur et d'or vermeil,</l>
+	<l id="2">Vois Scapin triomphant ! Regarde-moi, soleil !</l>
+	<l id="3">Baise ma chevelure, Aurore aux doigts de rose !</l>
+	<l id="4" syll="4" part="i">Je suis riche !</l>
+<stage type="show">Montrant le sac qu'il tient.</stage>
+<note type="L">Potose : Se dit des montagnes voisines de Potosi (Pérou), dans lesquelles se trouvent des mines d'argent. [L]</note>
+	<l id="4" syll="8" part="f">J'ai là, dans ce sac, le Potose.</l>
+<stage type="work">Il sort du sac des hardes précieuses, des joyaux, des sacoches d'or, qu'il remet dans le sac dès qu'il les a montrés.</stage>
+	<l id="5" syll="7" part="i">Étoffes ! Diamants ! Sequins !</l>
+<stage type="hide">Après avoir tout remis dans le sac.</stage>
+	<l id="5" syll="4" part="f">J'en ai beaucoup.</l>
+<stage type="away/watch/anxious/back">Il remonte la scène, regarde au fond avec une inquiétude rusée et revient.</stage>
+	<l id="6" syll="8" part="i">Hé ! Nul ne peut m'entendre ici ?</l>
+<stage type="toward">Au public.</stage>
+	<l id="6" syll="4" part="f">J'ai fait le coup.</l>
+	<l id="7">Géronte est mort. Bien mort. Tandis que ses prunelles</l>
+	<l id="8">S'ouvraient à la clarté des choses éternelles,</l>
+<stage type="happy">Gaiement.</stage>
+	<l id="9" syll="2" part="i">Hélas !</l>
+<stage type="unhappy">Changeant de ton.</stage>
+	<l id="9" syll="10" part="f">J'ai couru vers le coffre, et, sans fracas,</l>
+	<l id="10">J'ai pillé les joyaux, les hardes, les ducats !</l>
+	<l id="11">J'ai tout pris. C'est en vain que la Fortune triche ;</l>
+	<l id="12">À présent, je la tiens aux cheveux. Je suis riche !</l>
+	<l id="13">Adieu Naples, je pars ! Près de tes flots dormants</l>
+	<l id="14">J'ai trop longtemps servi d'imbéciles amants ;</l>
+	<l id="15">À l'avenir, je veux intriguer pour moi-même.</l>
+	<l id="16">Oui, c'est moi dont je sers les beaux amours Je m'aime.</l>
+	<l id="17">Vous mêlerez pour moi dans les riants manoirs,</l>
+	<l id="18">Hyacinte au front d'or, Zerbinette aux yeux noirs,</l>
+	<l id="19">Vos chansons aux sanglots de la vague indocile !</l>
+	<l id="20">Et je vais te revoir, Éden, verte Sicile,</l>
+	<l id="21">Ô terre des épis tremblants et des grands lys,</l>
+	<l id="22">Où sourit cette mer, dont j'ai souvent, jadis,</l>
+	<l id="23">Pareil à Cléopâtre, admiré les colères</l>
+	<l id="24">Et les réveils charmants... du haut de mes galères !</l>
+<stage type="jump/away">Bondissant avec une excessive agilité vers un autre point de la scène.</stage>
+	<l id="25">Chut ! On a fait du bruit là-bas, près du volet.</l>
+<stage type="back">Revenant.</stage>
+	<l id="26">Non, ce n'est rien. Pourtant, si quelqu'un me volait !</l>
+	<l id="27">Naples, ce pays plein de filous et de ruses,</l>
+	<l id="28">À certains carrefours moins sûrs que les Abruzzes,</l>
+	<l id="29">Et les honnêtes gens sont fort volés. Mais on</l>
+	<l id="30" syll="6" part="i">Ne m'y prend pas !</l>
+<stage type="show">Montrant le sac.</stage>
+	<l id="30" syll="6" part="f">Cachons cela dans la maison.</l>
+<stage type="stress">Comme assailli par une idée importune.</stage>
+	<l id="31">Nérine !... - Il serait fou que je la rencontrasse !</l>
+	<l id="32">Pourtant, si la pauvrette avait suivi ma trace ?</l>
+	<l id="33">Baste ! Il est trop matin. Elle dort sur les deux</l>
+	<l id="34" syll="2" part="i">Oreilles.</l>
+<stage type="">Il entre dans une petite maison de vilaine apparence, après avoir soigneusement regardé autour de lui. Nérine paraît, attentive, Inquiète, avec l'allure d'un chien de chasse qui flaire le gibier.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="34" syll="10" part="f">Les archers, quand j'ai passé près d'eux,</l>
+	<l id="35">Parlaient de vol commis, de nippes dérobées.</l>
+	<l id="36">Ils avaient vu courir à grandes enjambées</l>
+	<l id="37">Un larron, qui fuyait avec un sac aux dents.</l>
+<stage type="dream">Rêvant.</stage>
+	<l id="38">Avec un sac ! - Je sens du Scapin là-dedans.</l>
+	<l id="39">Que fait mon traître ? Il m'a quittée avec la joie</l>
+	<l id="40">Et l'oeil brillant d'un fourbe heureux qui tient sa proie.</l>
+	<l id="41">Il regardait toujours la mer et l'horizon !</l>
+	<l id="42">Je suis sûre qu'il songe à quelque trahison.</l>
+	<l id="43">Qu'ai-je fait au destin, - moi douce comme un cygne !</l>
+	<l id="44">Pour aimer ce hardi menteur, ce fourbe insigne ?</l>
+	<l id="45">Certes il est plus léger que le vent, plus trompeur</l>
+	<l id="46">Que ces beaux feux follets dont les enfants ont peur,</l>
+	<l id="47">Et que l'Adriatique où le couchant se dore !</l>
+	<l id="48">C'est un prodigue, un monstre, un fou, mais je l'adore.</l>
+<stage type="enthousiasm">Avec admiration.</stage>
+	<l id="49">Qu'il est rusé ! J'ai beau faire, mon coeur en tient</l>
+	<l id="50" syll="4" part="i">Pour ce héros.</l>
+<stage type="search">Elle veut aller il la recherche de Scapin.</stage>
+	<l id="50" syll="2" part="m">Allons.</l>
+<stage type="watch">Apercevant Scapin qui sort de la maison.</stage>
+	<l id="50" syll="6" part="f">Mais le voici qui vient.</l>
+	<l id="51">C'est le moment d'ouvrir les yeux et la narine !</l>
+	<l id="52">Il parle. Que dit-il ? Attention, Nérine.</l>
+<stage type="away/hide/location/entrance">Elle se retire il l'écart au fond du théâtre. En même temps Scapin s'élance sur le devant de la scène, portant vide le sac qu'on a vu plein à la scène précédente.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Scapin, Nérine, d'abord cachée.
+</stage>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="53">Tout va des mieux. La mer est douce comme un lac</l>
+	<l id="54">Et m'appelle. Faisons disparaître le sac,</l>
+	<l id="55">Mon complice, et je suis aussi blanc que la neige.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage>, cachée.
+	</stage>
+	<l id="56" syll="4" part="i">Nous verrons bien.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage>, appuyant.
+	</stage>
+	<l id="56" syll="6" part="m">Un lys, une colombe.</l>
+<stage type="search">Cherchant, avec une profonde indifférence.</stage>
+	<l id="56" syll="2" part="f">N'ai-je </l>
+	<l id="57" syll="4" part="i">Rien oublié ?</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage>, cachée.
+	</stage>
+	<l id="57" syll="2" part="m">Si fait.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="57" syll="6" part="f">Tout succède a mes voeux.</l>
+	<l id="58">Je pars, je sens déjà passer dans mes cheveux</l>
+	<l id="59">Le souffle frais et pur do la brise marine !</l>
+<stage type="search">Avec le même accent que la première fois.</stage>
+	<l id="60" syll="6" part="i">N'ai-je rien oublié ?</l>
+<stage type="">Comme un homme qui se rappelle tout à coup une chose profondément oubliée.</stage>
+	<l id="60" syll="6" part="f">Si ! D'épouser Nérine.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="hide">, cachée.
+	</stage>
+	<l id="61" syll="3" part="i">C'est heureux.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="">, avec un détachement plein de fatuité.
+	</stage>
+	<l id="61" syll="1" part="m">Bah !</l>
+<stage type="happy">Avec bonhomie.</stage>
+	<l id="61" syll="5" part="m">Pourquoi se marier ?</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="hide">, cachée.
+	</stage>
+	<l id="61" syll="2" part="f">Pendard !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="62">Dans les yeux de Nérine Amour cache son dard.</l>
+	<l id="63">Ses cheveux d'or, couleur de flamme et de comète,</l>
+	<l id="64">Sont doux comme le miel blondissant de l'Hymette !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="hide">, cachée.
+	</stage>
+	<l id="65" syll="1" part="i">Oui !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="proud">, avec fatuité.
+	</stage>
+	<l id="65" syll="11" part="f">Mais d'autres désirs occupent mon cerveau.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="hide/anger">, cachée, avec colère.
+	</stage>
+	<l id="66" syll="1" part="i">Ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="66" syll="11" part="f">Chaque jour au gré d'un caprice nouveau,</l>
+	<l id="67">Ailé comme l'espoir et charmant comme un rêve,</l>
+	<l id="68">Sur le pommier fatal renaît la pomme d'Ève :</l>
+	<l id="69">Or, je veux la croquer jusqu'au dernier pépin !</l>
+	<l id="70" syll="8" part="i">Nérine n'aura rien, tant pis.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="show">, se montrant tout à coup et abordant Scapin.
+	</stage>
+	<l id="70" syll="4" part="f">Bonjour, Scapin.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="estonish">, feignant le plus grand étonnement.
+	</stage>
+	<l id="71">Eh ! C'est Nérine ! Par quel bon vent amenée ?</l>
+<stage type="cold">Très froidement.</stage>
+	<l id="72" syll="3" part="i">Cher astre.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="excited">, avec effusion.
+	</stage>
+	<l id="72" syll="3" part="m">Tout est prêt.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="72" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="72" syll="6" part="f">Pour notre hyménée.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="73" syll="3" part="i">Fort bien. Je...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="73" syll="9" part="f">Mes parents ont été prévenus,</l>
+	<l id="74">Et le notaire avec les témoins sont venus.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="75" syll="1" part="i">Je...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="75" syll="11" part="f">Ma robe de noce est prête. Une merveille !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="76" syll="3" part="i">Tant mieux. Je...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="76" syll="9" part="f">Son tissu lamé la rend pareille</l>
+	<l id="77">Au diamant. On croit voir, limpide et changeant,</l>
+	<l id="78">Un ciel de neige avec des étoiles d'argent !</l>
+	<l id="79">Être belle n'est rien, mais il faut qu'on le sache.</l>
+	<l id="80">Tu verras mon collier fait de perles sans tache !</l>
+	<l id="81">Quel bonheur de courir, par un jour embaumé,</l>
+	<l id="82">Vers l'autel, appuyée au bras du bien-aimé,</l>
+	<l id="83">Quand, mettant à néant l'ennui, les maux sans nombre</l>
+	<l id="84">Dans notre coeur, ainsi qu'en un bocage sombre,</l>
+	<l id="85">Le rossignol Amour fredonne sa chanson !</l>
+	<l id="86" syll="4" part="i">Quand irons-nous ?</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="86" syll="8" part="f">Jamais. Je veux rester garçon.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="cry">, feignant de pleurer.
+	</stage>
+	<l id="87" syll="2" part="i">Ah ! ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="quiet">, la calmant.
+	</stage>
+	<l id="87" syll="2" part="m">Nérine !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="87" syll="2" part="m">Ah ! ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="87" syll="2" part="m">Nérine !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="87" syll="2" part="m">Ah ! ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="87" syll="2" part="f">Nérine !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="88" syll="2" part="i">Ah ! ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+<note type="L">Purpurine : Terme de chimie. Principe colorant pourpre de la racine de garance. [L]</note>
+	<l id="88" syll="10" part="f">J'aimai toujours ta bouche purpurine !</l>
+	<l id="89" syll="1" part="i">Mais...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="89" syll="2" part="m">Ah ! ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="89" syll="3" part="m">Parle-nous !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="89" syll="1" part="m">Ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="89" syll="3" part="m">Nérine !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="quick">, avec volubilité.
+	</stage>
+	<l id="89" syll="2" part="f">Va-t'en,</l>
+<note type="L">Lestrygon : Nom d'un peuple de la Sicile, ou, suivant d'autres, de l'Italie inférieure, que les poëtes anciens nous ont représenté comme anthropophage. [L]</note>
+	<l id="90">Satrape ! Lestrygon ! Crocodile ! Satan !</l>
+<note type="L">Vipérine : Qui a rapport à la vipère. [L]</note>
+	<l id="91">Voleur d'âmes ! Flatteur à langue vipérine !</l>
+	<l id="92" syll="10" part="i">Pendard ! Méchant ! Vaurien ! Fourbe ! Effronté !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="92" syll="2" part="f">Nérine !</l>
+<stage type="sweet">Amicalement.</stage>
+	<l id="93">Je ne veux pas, avant l'heure de mon trépas,</l>
+	<l id="94" syll="4" part="i">Me marier.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="94" syll="8" part="f">Pourquoi ne le voudrais-tu pas,</l>
+	<l id="95">Cruel, coeur de rocher, plus dur qu'un ours de Thrace !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="96">Pour imiter mon père et tous ceux de ma race</l>
+	<l id="97" syll="9" part="i">Qui ne se sont jamais mariés.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="97" syll="3" part="f">Il fallait</l>
+	<l id="98">Me dire tout cela, méchant, quand ruisselait</l>
+	<l id="99">Sur nos têtes ce doux soleil du mois des roses,</l>
+	<l id="100">Lorsqu'au fond de ces vieux jardins aux portes closes,</l>
+	<l id="101">Dont le soir caressait la belle floraison,</l>
+	<l id="102" syll="8" part="i">À l'ombre des jasmins, tu me... </l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="cold">, très froidement.
+	</stage>
+	<l id="102" syll="2" part="f">Parlons raison,</l>
+	<l id="103">Je suis Scapin. Je suis cet intrigant illustre.</l>
+	<l id="104">Chaque jour à ma gloire ajoute un nouveau lustre.</l>
+	<l id="105">Que d'exploits ! Des tuteurs raillés, des jeunes gens</l>
+	<l id="106">Aimés, grâce à mes soins toujours... intelligents !</l>
+	<l id="107">Belles inventions ! Superbes stratagèmes</l>
+	<l id="108">Sur lesquels l'avenir écrira des poèmes !</l>
+	<l id="109">Ruses ! Déguisements ! Des Turcs tombant des cieux</l>
+	<l id="110">Pour arracher l'argent aux avaricieux !</l>
+	<l id="111">Les sacs passant des mains des pères dans les miennes,</l>
+	<l id="112">Pour servir de rançon à des Égyptiennes !</l>
+	<l id="113">Dans quelle vie heureuse et bizarre voit-on</l>
+	<l id="114">Plus de sequins, d'amour et de coups de bâton ?</l>
+	<l id="115">Qui donc, dupant Géronte, a rendu populaire</l>
+	<l id="116">Son : « Que diable allait-il faire à cette galère ? »</l>
+	<l id="117">Qui l'a mis dans un sac, et dans cet appareil</l>
+	<l id="118">A battu le vieillard poudreux au grand soleil !</l>
+	<l id="119">J'ai vaincu, dans ces lieux où mon audace brille,</l>
+	<l id="120">Trivelin, Scaramouche et le grand Mascarille</l>
+	<l id="121">Et les destins ; j'ai mis la gloire avant le pain,</l>
+	<l id="122">Et quand on veut nommer la fourbe, on dit : Scapin !</l>
+	<l id="123">Et tu voudrais, Nérine, en ton désir pendable,</l>
+	<l id="124">Avec le grand valet illustre et formidable,</l>
+	<l id="125">Tour à tour envié, béni, craint et flétri,</l>
+	<l id="126">Faire cet animal qu'on appelle un mari !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="127">Quand vous m'aimiez jadis, vous parliez d'autre sorte !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="128" syll="4" part="i">Voilà mon sein !</l>
+<stage type="threat">Il ouvre son couteau.</stage>
+	<l id="128" syll="8" part="f">Veux-tu, dis, que ma vie en sorte ?</l>
+<stage type="quiet/hide">Il ferme son couteau et le remet dans sa poche. - Avec indignation.</stage>
+	<l id="129">Mais Scapin marié ! Que diraient mes aïeux,</l>
+	<l id="130">Mon passé, mon histoire, et ces bandits joyeux</l>
+	<l id="131">Qui chantent mes hauts faits en pinçant leur guitare !</l>
+	<l id="132">Ô prodige inouï ! Monstruosité rare !</l>
+	<l id="133">Coup d'oeil inattendu ! Non, plutôt que de voir</l>
+	<l id="134">Cette métamorphose horrible à concevoir</l>
+	<l id="135">Du lion subissant une injure dernière,</l>
+	<l id="136">On verrait le Vésuve à l'ardente crinière</l>
+	<l id="137">Changer, sur les sommets où son panache luit,</l>
+	<l id="138">Son aigrette de flamme en un bonnet de nuit,</l>
+	<l id="139">Et, quittant les forêts qui lui servent d'asile,</l>
+	<l id="140">L'ours de Norvège errer dans les monts de Sicile !</l>
+	<l id="141">Chez nous grandit le myrte et non pas le sapin,</l>
+	<l id="142">Et Scapin marié ne serait plus Scapin !</l>
+	<l id="143">Malgré les accidents, les revers, les désastres,</l>
+	<l id="144">Je reste moi. Voilà comme on va jusqu'aux astres !</l>
+</sp>
+<sp sgtage="aparte" who="NÉRINE"><speaker>NÉRINE</speaker><stage>, à part.
+	</stage>
+	<l id="145">Ah ! Tu fais le Cyrus ! Mais pour te châtier,</l>
+	<l id="146">Je m'en vais te servir un plat de mon métier.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="sad">, avec une pitié outrageante.
+	</stage>
+	<l id="147">Encor, si vous étiez de ces filles d'intrigue,</l>
+	<l id="148">Amantes du péril que leur grande âme brigue !</l>
+	<l id="149">Une Frosine allant jusques chez Harpagon</l>
+	<l id="150">Voler la toison d'or sous les yeux du dragon !</l>
+	<l id="151">Je céderais ! - Mais, quoi ! Tu n'as pas de génie.</l>
+	<l id="152">Naïve comme Agnès et comme Iphigénie,</l>
+	<l id="153">Tu n'es qu'un pauvre agneau fait pour la dent des loups.</l>
+	<l id="154">De quel pas suivrais-tu le prince des filous</l>
+	<l id="155">Qui s'en va triomphant vers la race future ?</l>
+	<l id="156">Je t'explique cela. Tu comprends ? La nature</l>
+	<l id="157">N'unit pas au lion l'antilope aux yeux bleus ;</l>
+	<l id="158">Elle met les grands pics sur les monts sourcilleux,</l>
+	<l id="159">Et, comme la tempête à l'ouragan se mêle,</l>
+	<l id="160">Pour assortir Scapin veut un Scapin femelle !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="161" syll="1" part="i">Mais...</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="161" syll="11" part="f">La foudre ne peut épouser que l'éclair.</l>
+	<l id="162">Grandis. Sois gigantesque et tu m'auras. C'est clair,</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="163" syll="3" part="i">Tu m'auras !</l>
+<stage type="toward/shy">À Scapin, avec une humilité pompeuse.</stage>
+	<l id="163" syll="3" part="m">Ô mon roi !</l>
+<stage type="loud">Changeant de ton.</stage>
+	<l id="163" syll="6" part="f">Tu t'en fais bien accroire</l>
+	<l id="164">Pour quelques méchants tours fort dépourvus de gloire !</l>
+	<l id="165">Quoi, duper des barbons chancelants, et taillés</l>
+	<l id="166">Sur un patron si vieux qu'on les croit empaillés ;</l>
+	<l id="167">Éteindre la chandelle et cacher ton front hâve</l>
+	<l id="168">Pour boire en frissonnant du vin dans une cave ;</l>
+	<l id="169">Te barbouiller de fange et de sang, comme si</l>
+	<l id="170">Des spadassins t'avaient assommé, tout ceci</l>
+	<l id="171">Pour voler une montre à quelque Égyptienne ;</l>
+	<l id="172">Descendre à copier cette aventure ancienne</l>
+	<l id="173">De travestissement, faire le loup-garou</l>
+	<l id="174">Pour bâtonner ton maître, aussi poltron que fou ;</l>
+	<l id="175">Puis, lorsque, dissipant ta grandeur usurpée,</l>
+	<l id="176">Frémit devant ton front le vent froid d'une épée,</l>
+	<l id="177">Te jeter à genoux et demander pardon,</l>
+<note type="L">Laridon : Nom donné par la Fontaine à un chien qui ne quittait pas la cuisine. "Oh ! combien de Césars deviendront Laridons !" Fable VIII {L]</note>
+	<l id="178">Et bientôt de César devenir Laridon,</l>
+	<l id="179">Voilà de beaux états de service ! J'admire</l>
+	<l id="180">Que tu ne chantes pas ces hauts faits sur la lyre,</l>
+	<l id="181">Et que, pour embellir ton front d'aventurier,</l>
+	<l id="182">Tu n'ais pas aux jambons dérobé leur laurier !</l>
+	<l id="183">Ô grands événements, bien dignes de la race !</l>
+	<l id="184">Beaux exploits de valet qu'on bâtonne et qu'on chasse !</l>
+	<l id="185">Va, parle du Vésuve avec plus de douceur.</l>
+	<l id="186">Pauvre lièvre, fuyant au souffle du chasseur 1</l>
+	<l id="187">Tes divertissements, dont tu nous fais parade,</l>
+	<l id="188">Sont bons à figurer dans une mascarade ;</l>
+	<l id="189">Tes ruses n'ont servi de rien, tu t'es vanté,</l>
+	<l id="190">Tu n'imagines rien, tu n'as rien inventé,</l>
+	<l id="191">Et, s'il faut parler franc, je crois que ton mensonge</l>
+	<l id="192">Confond la vérité palpable avec le songe,</l>
+	<l id="193">Et que, mêlant ton rêve aux récits d'almanach,</l>
+	<l id="194">Tu n'as même pas mis Géronte dans le sac !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="estonish">, abasourdi.
+	</stage>
+	<l id="195" syll="1" part="i">Quoi !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="show">, montrant Scapin. Avec dédain.
+	</stage>
+	<l id="195" syll="11" part="f">Pleurer pour ce drôle ! À présent j'en ai honte.</l>
+<stage type="closer/touch">Allant à Scapin, et lui prenant le menton.</stage>
+	<l id="196" syll="4" part="i">Pleurer... ceci !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="estonish">, au comble de l'ébahissement.
+	</stage>
+	<l id="196" syll="8" part="f">Comment ! Je n'ai pas mis Géronte</l>
+	<l id="197" syll="3" part="i">Dans le sac !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="197" syll="1" part="m">Non.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="197" syll="2" part="m">Je n'ai...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="197" syll="6" part="f">Va dire à tes amis</l>
+	<l id="198" syll="8" part="i">Ces contes à dormir debout.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="198" syll="4" part="f">Je n'ai pas mis</l>
+	<l id="199" syll="6" part="i">Géronte dans le sac !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="199" syll="1" part="m">Non.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="desparate">, exaspéré.
+	</stage>
+	<l id="199" syll="5" part="f">Alors, nie Homère,</l>
+	<l id="200" syll="6" part="i">Achille, Troie en deuil !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="200" syll="6" part="f">Ce sac n'est que chimère.</l>
+	<l id="201">Tu fus toujours menteur de la nuque aux talons.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="202" syll="10" part="i">Moi ! moi ! Je ne l'ai pas mis dans le sac !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="202" syll="2" part="f">Parlons</l>
+	<l id="203">Raison. Quoi ! Le vieux, pris à ta ruse grossière,</l>
+	<l id="204">Se serait allé mettre en cette souricière !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="205" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="205" syll="11" part="f">Parce qu'à l'appui d'un péril imminent</l>
+	<l id="206">Tu lui fais voir Sylvestre en carême-prenant,</l>
+	<l id="207">(Je veux bien qu'il n'ait pas la bravoure d'Hercule,)</l>
+	<l id="208">Il se serait fourré dans ce sac ridicule !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="209" syll="4" part="i">Parfaitement.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="209" syll="8" part="f">Ce sont récits de vieux garçons,</l>
+	<l id="210" syll="4" part="i">Contes en l'air.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="210" syll="6" part="m">Je l'ai mis dans le sac !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="210" syll="2" part="f">Chansons.</l>
+	<l id="211">Qu'auraient dit de ce sac qui bouge et qui frissonne</l>
+	<l id="212" syll="3" part="i">Les passants ?</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="212" syll="1" part="m">Je...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="212" syll="2" part="m">Réponds.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="212" syll="6" part="f">Il ne passait personne.</l>
+	<l id="213">Je t'ai dit mille fois le fait de point en point.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="214" syll="3" part="i">Quelque sotte !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="214" syll="2" part="m">Mais si...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="214" syll="6" part="f">Je ne te croirai point.</l>
+	<l id="215">Tu nous prends pour une autre et tu me vois bâtée.</l>
+	<l id="216" syll="6" part="i">Je sais le train du monde.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="216" syll="6" part="f">Ô femelle entêtée !</l>
+<stage type="get">Prenant le sac qu'il a apporté au commencement de la scène.</stage>
+<note type="L">Sequin : Monnaie d'or qui avait cours en Italie, où sa valeur était de 11 à 12 francs. [L]</note>
+	<l id="217">Le sac est celui-ci. (Fût-il plein de sequins !)</l>
+	<l id="218">Je dis au vieux Géronte effrayé : « Ces coquins</l>
+	<l id="219">Vous cherchent. Ce sont gens d'une farouche mine,</l>
+	<l id="220">Qui s'en vont criant, l'un : Tue ! et l'autre : Extermine !</l>
+	<l id="221">Et qui toute l'année ont le poignard aux dents.</l>
+	<l id="222">Ils viennent. Cachez-vous au plus tÔt là dedans. »</l>
+	<l id="223" syll="6" part="i">Je lui montrais le sac.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="223" syll="4" part="m">Et lui, Géronte ?...</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="223" syll="2" part="f">Comme</l>
+	<l id="224" syll="8" part="i">Je l'y poussais toujours, il s'y mit.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="224" syll="4" part="f">Le pauvre homme !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="225">Moi, je l'encourageais du geste et de la voix.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="watch/suprise">, regardant le sac avec expression d'incrédulité.
+	</stage>
+	<l id="226" syll="8" part="i">Et, là dedans, son corps tenait ?</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="hide">, se mettant dans le sac.
+	</stage>
+	<l id="226" syll="4" part="f">Comme tu vois.</l>
+	<l id="227" syll="9" part="i">Facilement. Sans nul embarras.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="estonish">, affectant la niaiserie.
+	</stage>
+	<l id="227" syll="3" part="f">Mais sa tête</l>
+	<l id="228" syll="6" part="i">Passait comme la tienne !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="estonish">, avec une pitié complaisante.
+	</stage>
+	<l id="228" syll="6" part="f">Allons ! Tu fais la bête.</l>
+<stage type="hise/show">Cachant et découvrant sa tête tour à tour.</stage>
+	<l id="229">Il ramenait ainsi les bords du sac, et rien</l>
+	<l id="230" syll="10" part="i">Ne passait. Est-ce clair ? Me comprends-tu ?</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="close">, serrant vigoureusement la coulisse du sac, et la fermant par un noeud solide.
+	</stage>
+	<l id="230" syll="2" part="f">Fort bien.</l>
+<stage type="show/listen">Criant, pour être entendue de Scapin.</stage>
+	<l id="231">Lorsque l'on met les gens dans un sac, la malice</l>
+	<l id="232">Est de songer d'abord à serrer la coulisse.</l>
+<stage type="get/hit">Elle prend un bâton et bat Scapin.</stage>
+	<l id="233">Tiens, beau ténébreux ! Tiens, vendeur d'orviétan !</l>
+	<l id="234">Tiens, phénomène ! Tiens, héros ! Tiens, capitan !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="shout">, criant dans li sac.
+	</stage>
+	<l id="235" syll="3" part="i">Nérine !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="hit">, le battant.
+	</stage>
+	<l id="235" syll="3" part="m">Tiens, lion !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="shout">, criant.
+	</stage>
+	<l id="235" syll="6" part="f">Nérine, ma délice !</l>
+	<l id="236" syll="3" part="i">Mon amour !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="shoute/hit">, criant et battant Scapin.
+	</stage>
+	<l id="236" syll="ç" part="f">Il fallait songer à la coulisse.</l>
+<stage type="imitate">Imitantd'une manière enfantine les rodomontades de Scapin et de Sylvestre, et, pendant tout ce temps-là, battant Scapin.</stage>
+	<l id="237">Où donc est ce Géronte ? Allons ! marchons en rang.</l>
+	<l id="238">Donnons. Ferme. Poussons. Ah ! tête ! Ah ! ventre ! Ah ! sang !</l>
+	<l id="239">Point de quartier. Comment, vous reculez ! Eh ! l'homme !</l>
+	<l id="240">Pied ferme. Ah ! Coquins ! Ah ! Canaille ! Tue ! Assomme !</l>
+<stage type="open/escape">Scapin éventre le sac avec un couteau, et sort, haletant, effaré, ne sachant s'il doit se fâcher ou pardonner.</stage>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="entrance">, sortant du sac.
+	</stage>
+	<l id="241" syll="3" part="i">Bien joué.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage>, faisant la révérence, avec une modestie ironique.
+	</stage> ironique.
+	<l id="241" syll="6" part="m">Monseigneur me comble.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="241" syll="3" part="f">Non, le tour</l>
+	<l id="242" syll="4" part="i">Est bon, ma foi.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="wave">, saluant.
+	</stage>
+	<l id="242" syll="4" part="m">J'ai fait bien peu.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="furious">, furieux.
+	</stage>
+	<l id="242" syll="4" part="f">Juste retour</l>
+	<l id="243" syll="6" part="i">Des choses d'ici-bas !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="243" syll="6" part="f">Oh ! Mon maître professe,</l>
+	<l id="244" syll="4" part="i">Et moi, j'apprends.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="touch">, se tâtant les reins.
+	</stage>
+	<l id="244" syll="8" part="f">Le tour est bon, je le confesse.</l>
+	<l id="245">Ahi ! ahi ! Je suis roué. Je suis moulu.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="smile">, souriant.
+	</stage>
+	<l id="246" syll="8" part="i">Ce n'était que semblant, que jeu ! </l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="246" syll="4" part="f">Tu l'as voulu,</l>
+	<l id="247" syll="2" part="i">Scapin.</l>
+*<stage type="loud">Haut, et jouant avec le couteau qui lui a servi à éventrer le sac.</stage>
+	<l id="247" syll="10" part="f">Ce couteau-là me vient de toi, Nérine.</l>
+	<l id="248">Grâce à lui, j'ai rompu la toile où ma poitrine</l>
+	<l id="249" syll="5" part="i">Étouffait, et j'ai...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage>, les bras ouverts.
+	</stage>
+	<l id="249" syll="7" part="f">Viens, Scapin, mon cher époux.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="250" syll="4" part="i">Qui, moi ? Jamais !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="250" syll="8" part="f">Monsieur, pardonnez-moi les coups</l>
+	<l id="251" syll="4" part="i">De bâton que...</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="251" syll="8" part="f">C'est bon. Je connais cette histoire.</l>
+	<l id="252">Si Nérine me hait jusqu'à ternir ma gloire,</l>
+	<l id="253">C'est au mieux. Chacun sait que d'autres yeux chez nous</l>
+	<l id="254">Réservent à ma flamme un traitement plus doux.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="anxious">, inquiète.
+	</stage>
+	<l id="255" syll="3" part="i">Quoi ! Zaïde...</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="proud">, avec fatuité.
+	</stage>
+	<l id="255" syll="9" part="f">Elle meurt pour moi. Son dernier souffle</l>
+	<l id="256" syll="6" part="i">Est prêt à s'exhaler tout à l'heure.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="256" syll="6" part="f">Ah ! Maroufle !</l>
+	<l id="257" syll="6" part="i">C'est cela que tu veux.</l>
+<stage type="toward/sad">À Scapin, d'un air tragique.</stage>
+	<l id="257" syll="6" part="f">Eh bien ! Ô mon vainqueur,</l>
+	<l id="258">Puisque la pitié même a péri dans ton coeur,</l>
+	<l id="259" syll="6" part="i">Puisqu'il bat désormais</l>
+<stage type="quiet">Reprenant le ton naturel.</stage>
+	<l id="259" syll="6" part="f">pour une péronnelle,</l>
+<stage type="sad">Reprenant le ton tragique.</stage>
+	<l id="260">Je pars, je vais te fuir dans la nuit éternelle,</l>
+	<l id="261">Et chercher du trépas le secours odieux.</l>
+<stage type="steal">Elle arrache des mains de Scapin le couteau avec lequel il n'a cessé de jouer, feint de se frapper, et jette le couteau.</stage>
+	<l id="262" syll="4" part="i">Scapin, je meurs.</l>
+<stage type="fall/low">Elle se laisse tomber. - D'une voix mourante.</stage>
+	<l id="262" syll="8" part="f">Vivez, digne race des dieux.</l>
+<stage type="die">Elle feint d'être morte.</stage>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="kneel/location">, s'agenouillant près de Nérine.
+	</stage>
+	<l id="263">Nérine !... A-t-elle fait tout de bon la folie</l>
+	<l id="264" syll="1" part="i">De...</l>
+<stage type="kiss">Il l'embrasse.</stage>
+	<l id="264" syll="5" part="m">Nérine, mon coeur !</l>
+<stage type="doubt">Manifestant son incrédulité par des bouffonneries tragiques.</stage>
+	<l id="264" syll="6" part="f">Oui, sa face pâlie...</l>
+<stage type="kiss">Il l'embrasse encore.</stage>
+	<l id="265" syll="6" part="i">Nérine, ma déesse !</l>
+<stage type="sad">Avec un regret comique.</stage>
+	<l id="265" syll="6" part="f">Elle avait tant d'esprit !</l>
+	<l id="266">Sur son front, où le lys jaloux naît et fleurit,</l>
+	<l id="267">S'augmente par degrés la blancheur léthargique.</l>
+<stage id="emphasis">Avec emphase.</stage>
+	<l id="268">Ah ! Plut au Ciel qu'instruit au grimoire magique,</l>
+	<l id="269">Je pusse ranimer par des philtres secrets</l>
+	<l id="270">L'incarnat de sa joue, et je l'épouserais...</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="open/stand/happy">, rouvrant les yeux et se soulevant à demi. Avec joie.
+	</stage>
+	<l id="271" syll="1" part="i">Ah !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="hesitate">, regrettant de s'être trop avancé.
+	</stage>
+	<l id="271" syll="3" part="m">Pour un temps.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="fall">, retombant lourdement.
+	</stage>
+	<l id="271" syll="2" part="m">Je meurs.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="271" syll="4" part="m">Non, pour toujours.</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="stand/happy">, se relevant avec gaieté et se jetant dans les bras de Scapin.
+	</stage>
+	<l id="271" syll="2" part="f">Embrasse</l>
+	<l id="272">Ta Nérine, mon prince, et quittons la grimace.</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="273" syll="3" part="i">Mon astre !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="273" syll="3" part="m">Mon trésor !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="273" syll="3" part="m">Mon espoir !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE.</speaker>
+	<l id="273" syll="3" part="f">Mon tourment !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="rpoud">, avec noblesse.
+	</stage>
+	<l id="274">Lève les yeux avec orgueil, car le moment</l>
+	<l id="275">Est arrivé pour toi de marcher dans ton rêve,</l>
+	<l id="276" syll="6" part="i">Et d'être ma femme !</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="sweet">, amoureusement.
+	</stage>
+	<l id="276" syll="6" part="f">Oui, ta femme - et ton élève !</l>
+<stage type="toward">Au public.</stage>
+	<l id="277">Mesdames et messieurs, vous avez tout pouvoir</l>
+	<l id="278">À présent. Pardonnez au poète d'avoir</l>
+	<l id="279">Mendié, d'une main peut-être familière,</l>
+	<l id="280">Pour son festin d'un soir les miettes de Molière.</l>
+	<l id="281">Pardonnez-lui de s'être un moment enivré</l>
+	<l id="282">D'un peu de vin resté dans le verre sacré 1</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN</speaker><stage type="toward">, au public.
+	</stage>
+	<l id="283">Certes, ce jeu d'enfant vaut que l'on en sourie ;</l>
+	<l id="284">Mais qui donc se pourrait offenser, je vous prie,</l>
+	<l id="285">Qu'à l'abri de l'orage et du vent meurtrier</l>
+	<l id="286">Cette fleurette naisse, au pied du grand laurier</l>
+	<l id="287">Dont Thalie en pleurant cherche l'ombre divine ?</l>
+</sp>
+<sp who="NÉRINE"><speaker>NÉRINE</speaker><stage type="toward/sweet">, au public, avec calinerie.
+	</stage>
+	<l id="288" syll="8" part="i">Messieurs, un bravo... pour Scapin !</l>
+</sp>
+<sp who="SCAPIN"><speaker>SCAPIN.</speaker>
+	<l id="288" syll="4" part="f">Deux. Pour Nérine !</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

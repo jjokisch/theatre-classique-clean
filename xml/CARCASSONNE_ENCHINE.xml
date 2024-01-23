@@ -1,0 +1,1138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>EN CHINE, COMÉDIE</title>
+			<author type="texte" ISNI="0000 0001 1756 1275">Adolphe CARCASSONNE (1826-1891)</author>
+		</titleStmt>
+		<publicationStmt>
+			<editor>Texte établi par Paul FIEVRE novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE décembre 2021.</publisher>
+			<idno>CARCASSONNE_ENCHINE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Comédie</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1881-1890</periode>
+			<taille>250-500</taille>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k5742849d</permalien>
+		</SourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">EN CHINE</titlePart>
+			<titlePart type="sub">PIÈCE EN UN ACTE ET EN VERS.</titlePart>
+		</docTitle> 
+		<docDate value="1887">1887. Tous droits réservés.</docDate>
+		<docAuthor id="CARCASSONNE, Adolphe">Adolphe CARCASSONNE.</docAuthor>
+		<docImprint>
+			<editor id="OLLENDORF">PARIS PAUL OLLENDORF, 28 bis, RUE DE RICHEIEU, 28 bis..</editor>
+			<printer id="PICHAT">IMPRIMERIE GÉNÉRALE DE CHATILLON-SUR-SEINE. - A. PICHAT.</printer>
+		</docImprint>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="NELLY" sex="2" type="H" statut="" age="J" stat_amour="(néant)">NELLY</role>.</castItem>
+		<castItem><role id="MADEMOISELLE LAURE" sex="2" type="H" statut="gouvernante" age="A" stat_amour="(néant)">MADEMOISELLE LAURE</role>, sa gouvernante.</castItem>
+		<castItem><role id="PAT-TCHOU-LI" sex="2" type="H" statut="bourgeois" age="J" stat_amour="(néant)">PAT-TCHOU-LI</role>.</castItem>
+		<castItem><role id="KA-OUT-TCHOU" sex="2" type="H" statut="bourgeois" age="J" stat_amour="(néant)">KA-OUT-TCHOU</role>.</castItem>
+		<castItem><role id="MU-SI-KA-LI" sex="2" type="H" statut="bourgeois" age="J" stat_amour="(néant)">MU-SI-KA-LI</role>.</castItem>
+		<castItem><role id="CHANTEUSES ET DANSEUSES CHINOISES" sex="9" type="H" statut="artiste" age="J" stat_amour="(néant)">CHANTEUSES ET DANSEUSES CHINOISES</role>.</castItem>
+  </castList>
+	<set location="Pékin" country="Chine" periode="XIXème" gps="34.668138,104.165802"/>
+<note>Extrait de "Théâtre de jeunes filles, pièces à jouer dans les familles et dans les pensionnats", Paris, Paul Ollendorf, 1887. pp. 29-70.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>EN CHINE.</head>
+<stage type="decor/furniture">Un salon chinois. - À gauche, une porte. - Au fond, une porte donnant sur une galerie. - À droite, vers le fond, une table. - Des tentures à sujets chinois couvrent les murs du salon.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Nelly, Mademoiselle Laure.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="1">Nous sommes à Pékin, ma chère demoiselle.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="2">Et j'en suis enchantée... Il faut tout votre zèle</l>
+	<l id="3">Et vos soins assidus pour que j'arrive ainsi</l>
+	<l id="4" syll="6" part="i">Sans m'en apercevoir.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="4" syll="6" part="f">Vous le devez aussi</l>
+	<l id="5">Et surtout au Docteur_Jean dont la découverte</l>
+	<l id="6" syll="3" part="i">Fait merveille.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="6" syll="9" part="f">Il s'agit de cette liqueur verte</l>
+	<l id="7">Extraite d'une plante et d'un goût très amer.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="8">Justement; vous aviez grand peur du mal de mer.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="9" syll="4" part="i">J'en conviens, mais...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="9" syll="8" part="f">C'était une vague sourdine</l>
+	<l id="10">À votre enthousiasme à venir voir la Chine.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="11">Oh ! J'aurais tout bravé, tout ! Dangers inouïs,</l>
+	<l id="12">Tempête et mal de mer pour voir ce beau pays.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="13">Aussi, le docteur Jean, vous dis-je, a fait merveille ;</l>
+	<l id="14">Vous n'avez rien senti, vous avez pris la veille</l>
+	<l id="15">Du départ la liqueur bienheureuse, et depuis</l>
+	<l id="16">J'ai vu passer les jours, j'ai vu passer les nuits,</l>
+	<l id="17">Sans que le mal de mer jamais ne vous dérange ;</l>
+	<l id="18" syll="9" part="i">Vous mangiez, vous buviez en dormant.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="18" syll="3" part="f">C'est étrange.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="19">Je n'en disconviens pas, et pourtant c'est ainsi.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="20">Que m'importe après tout ?... Nous voilà donc ici</l>
+	<l id="21" syll="3" part="i">À Pékin.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="21" syll="9" part="f">Oui, malgré, je dois aussi le dire,</l>
+	<l id="22" syll="6" part="i">L'ennui de vos parents.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="22" syll="6" part="f">Voir le Céleste Empire!</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="23">Je le sais ; vous l'avez si bien manifesté</l>
+	<l id="24">Qu'on a dû se soumettre à votre volonté.</l>
+	<l id="25">Mais puisque nous voilà, profitons-en... Du reste</l>
+	<l id="26">J'ai vu trois mandarins de ce pays céleste ;</l>
+	<l id="27">L'un d'entr'eux, le plus riche, attache un bien grand prix</l>
+	<l id="28">À s'occuper de nous : la lettre de Paris</l>
+	<l id="29">Que son ambassadeur pour lui m'avait remise</l>
+	<l id="30">L'a hautement flatté ; cette heureuse entremise</l>
+	<l id="31">Nous vaudra les faveurs du Fils du Ciel ; jugez</l>
+	<l id="32">Dans quel ravissement nos coeurs seront plongés.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="33">Allons, en attendant, faire une promenade.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="34">Non, certes... j'oubliais déjà la sérénade ;</l>
+	<l id="35">Le puissant mandarin nous fait cet honneur-là ;</l>
+	<l id="36" syll="8" part="i">Les choeurs célestes vont venir...</l>
+<stage type="watch">Elle regarde par la galerie du fond.</stage>
+	<l id="36" syll="4" part="f">Et les voilà.</l>
+<stage type="entrance/carry/wave">Mu-si-ka-li et des jeunes Chinoises entrent ; Musi-ka-li tient dans la main un bâton de chef d'orchestre. — Les jeunes filles viennent saluer Nelly et mademoiselle Laure en s'inclinant et en portant les mains avec l'index debout à la hauteur de leurs têtes.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Nelly, Mademoiselle Laure, Mu-si-ka-li, Jeunes Chinoises.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="toward">, à Nelly.
+	</stage>
+	<l id="37">Il faut nous recueillir, car nous allons entendre</l>
+	<l id="38">Quelque chose d'exquis, de vaporeux, de tendre.</l>
+<stage type="away/location">Les jeunes Chinoises se rangent à droite ; Mu-si-ka-li se tient devant elles ; elle bat une mesure à deux temps dont le premier est frappé sur le bout de son nez et le second en l'air.</stage>
+</sp>
+<sp who="LES JEUNES CHINOISES"><speaker>LES JEUNES CHINOISES.</speaker>
+<stage type="title/slow">Sur l'air : Ah ! vous dirai-je, maman. Avec lenteur et avec beaucoup de gravité.</stage>
+	<l id="39">C'est pour nous l'heureux moment</l>
+	<l id="40">De vous faire compliment ;</l>
+	<l id="41">Nous vous sommes inconnues,</l>
+	<l id="42">Mais soyez les bienvenues,</l>
+	<l id="43">Car Yan-tsin, le mandarin,</l>
+	<l id="44">Vous le dit dans ce refrain.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="45">Nous remercions bien Monsieur_le_mandarin.</l>
+<stage type="toward">À Nelly.</stage>
+	<l id="46">L'air est fort connu, mais j'aime, je vous l'assure,</l>
+	<l id="47">Cette étrange façon de battre la mesure.</l>
+</sp>
+<sp who="MU-SI-KA-LI"><speaker>MU-SI-KA-LI.</speaker>
+	<l id="48">Écoutez maintenant un ensemble à succès ;</l>
+	<l id="49">On l'appelle chez nous le classique français.</l>
+<stage type="music/sing">Mu-si-ka-li bat encore une mesure de la même manière, et le choeur chante les vers suivants sur le motif : Au clair de la lune.</stage>
+</sp>
+<sp who="LES JEUNES CHINOISES"><speaker>LES JEUNES CHINOISES.</speaker>
+	<l id="50">Monte, ô blanche lune !</l>
+	<l id="51">Dans le firmament ;</l>
+	<l id="52">Jette à la nuit brune</l>
+	<l id="53">Ton éclat charmant ;</l>
+	<l id="54">Souris dans l'espace ;</l>
+	<l id="55">Tu peux nous donner</l>
+	<l id="56">La meilleure place</l>
+	<l id="57">Pour nous promener.</l>
+<stage id="entrance/carry/wave">Ka-out-tchoù, fille d'honneur de l'Impératrice, entre avec une large feuille de palmier à la main ; à son entrée, Mù-si-ka-li et les jeunes Chinoises saluent. - Ka-out-tohou vient s'incliner devant Mademoiselle Laure et Nelly qui se sont levées à son entrée ; elle se tourne ensuite vers les jeunes filles et elle leur indique la porte. Mn-si-ka-li et les jeunes Chinoises viennent passer devant mademoiselle Laure et Nelly en reprenant le dernier choeur et elles sortent en mesure.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Mademoiselle Laure, Nelly, Ka-out-tchou.
+</stage>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="show/toward">, présentant la feuille de palmier à Mademoiselle Laure.
+	</stage>
+	<l id="58">Voici ce que Tching-Fo, notre gracieux maître</l>
+	<l id="59">Et puissant Empereur, m'a dit de vous remettre.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="60" syll="3" part="i">Qu'est-ce donc ?</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="60" syll="9" part="f">Un écrit de sa divine main.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="61">Les feuilles de palmier servent de parchemin</l>
+	<l id="62" syll="2" part="i">Ici ?</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="62" syll="4" part="m">Précisément.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="62" syll="6" part="f">C'est pour cela peut-être,</l>
+	<l id="63">Que l'alphabet chinois renferme tant de lettre.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="64">Sans doute... mais lisez cet écrit, s'il vous plaît.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="65">J'ignore le chinois, je l'ignore au complet.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="66">J'aime de votre esprit la couleur et le style.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="67" syll="3" part="i">Oh ! Madame...</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="67" syll="9" part="f">Voyons, je veux vous être utile;</l>
+	<l id="68">Je lirai, si cela peut vous faire plaisir,</l>
+	<l id="69" syll="6" part="i">Le message d'en haut.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="69" syll="6" part="f">C'est mon plus grand désir,</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="70" syll="6" part="i">Alors, recueillez-vous.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="70" syll="4" part="m">Recueillons-nous.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="read">, lisant.
+	</stage>
+	<l id="70" syll="2" part="f">- Sa Grâce,</l>
+	<l id="71">Le Fils du Ciel, issu d'une divine race,</l>
+	<l id="72">L'Empereur que toujours le monde saluera,</l>
+	<l id="73">Le maître de la Chine entière... et_coetera,</l>
+	<l id="74">Institue à Nelly, la charmante Française,</l>
+	<l id="75">L'honneur de figurer de droit parmi les seize...</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="76" syll="2" part="i">Les seize ?</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="76" syll="4" part="f">Assurément.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="76" syll="6" part="f">Oui, mais les seize quoi ?</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="77">Recueillez-vous ; il faut contenir votre émoi.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="78" syll="8" part="i">Certes... mais je voudrais savoir...</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="read">, continuant à lire.
+	</stage>
+	<l id="78" syll="4" part="f">Les seize filles</l>
+	<l id="79">Que l'illustre Yan-tsin choisit dans les familles</l>
+	<l id="80">Les plus hautes, pour faire un cortège éclatant</l>
+	<l id="81" syll="6" part="i">À la Fille du Ciel.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="happy">, avec joie.
+	</stage>
+	<l id="81" syll="3" part="m">Quel honneur !</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="drop/location/furniture">, après avoir mis la feuille de palmier sur une chaise.
+	</stage>
+	<l id="81" syll="3" part="f">Un instant ;</l>
+	<l id="82" syll="6" part="i">Il me faut ajouter...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="82" syll="6" part="f">Vous ajoutez encore ?</l>
+	<l id="83" syll="6" part="i">Oh ! Non, oh ! Non, c'est trop...</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="83" syll="6" part="f">Mademoiselle_Laure,</l>
+	<l id="84" syll="6" part="i">Patientons un peu.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="toward">, à Nelly.
+	</stage>
+	<l id="84" syll="6" part="f">Vous devez chaque jour</l>
+	<l id="85">Observer strictement les règles de la Cour.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="86" syll="3" part="i">C'est très juste.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="86" syll="" part="f">Tching-Fo veut que l'on se soumette</l>
+	<l id="87">Au respect absolu d'une austère étiquette.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="88" syll="10" part="i">Mais nous sommes encore étrangères...</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="88" syll="2" part="f">Aussi</l>
+	<l id="89">La jeune Pat-tchou-li viendra bientôt ici,</l>
+	<l id="90">Elle vous apprendra nos us et nos coutumes.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="91" syll="3" part="i">Oh ! Merci.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="91" syll="9" part="f">Vous allez échanger vos costumes</l>
+	<l id="92">Contre ceux du pays, des vêtements chinois</l>
+	<l id="93" syll="4" part="i">D'un très bon goût.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="93" syll="8" part="f">Surtout s'ils sont de votre choix.</l>
+<stage type="applause/entrance/carry">Ka-out-tchou frappe dans ses mains ; deux jeunes Chinoises entrent avec des vêtements sur les bras.</stage>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="wave/declamate">, avec un geste de commandement et en accentuant chaque syllabe.
+	</stage>
+	<l id="94">Man, chon ! - Ka, fé, o, lé ! - Po, ta, ho ! - Kas, ka, mèche !</l>
+</sp>
+<sp who="LES DEUX CHINOISES"><speaker>LES DEUX CHINOISES</speaker><stage type="wave">, en s'inclinant.
+	</stage>
+	<l id="95" syll="2" part="i">Tsin, tsin.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="95" syll="10" part="f">Que c'est joli! quelle expression... fraîche !</l>
+	<l id="96" syll="3" part="i">Po, ta, ho!</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="96" syll="9" part="f">C'est pour dire avec autorité</l>
+	<l id="97">De porter ces objets dans la chambre à côté.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="98">Et Tsin, tsin, la réponse à deux mots seuls réduite,</l>
+	<l id="99">Certainement veut dire : allons-y tout de suite.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="100">Vous connaîtrez bientôt le chinois, c'est certain.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="101">Il suffit pour cela de se lever matin.</l>
+<stage type="">Les deux jeunes Chinoises sont entrées dans le cabinet, à gauche ; elles en ressortent, saluent avec l'index levé à la hauteur de la tête et s'en vont par la galerie.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="toward">, à Nelly.
+	</stage>
+	<l id="102">Hâtons-nous donc ; venez, ma chère demoiselle,</l>
+	<l id="103">Sous ces riches habits la grandeur nous appelle.</l>
+<stage type="exit">Mademoiselle Laure et Nelly entrent dans le cabinet.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Ka-out-tchou, puis Pat-tchou-li.
+</stage>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage>, désignant le cabinet.
+	</stage>
+	<l id="104">Tout ce qu'on dit ici s'entend fort bien de là ;</l>
+	<l id="105" syll="9" part="i">Il faut de la prudence, et beaucoup.</l>
+<stage type="watch/entrance">Apercevant Pat-tchou-li qui entre.</stage>
+	<l id="105" syll="3" part="f">Vous voilà,</l>
+	<l id="106" syll="3" part="i">Pat-tchou-li ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="106" syll="3" part="m">Me voilà.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="watch">, regardant Pat-tchou-li.
+	</stage>
+	<l id="106" syll="6" part="f">Qu'avez-vous donc, ma chère?</l>
+	<l id="107">Vos traits sont contractés, vous semblez en colère.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="108">On serait en colère à moins, en vérité.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="109">Parlez plus bas, on peut nous entendre à côté,</l>
+	<l id="110" syll="10" part="i">Car ces dames y font leur toilette.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="110" syll="2" part="f">Qu'importe</l>
+	<l id="111">Que l'on entende ou non à travers cette porte ?</l>
+	<l id="112">Jugez de mon courroux : J'aspirais à l'honneur</l>
+	<l id="113">D'être parmi les seize, et mon plus cher bonheur</l>
+	<l id="114">Était ce rêve... eh bien ! La sotte fantaisie</l>
+	<l id="115">Du grand lettré Yan-tsin fait que l'on m'a choisie</l>
+	<l id="116">Pour donner des conseils et même des leçons</l>
+	<l id="117">À celle qui prendra ma place sans façons.</l>
+	<l id="118">C'est impertinemment vouloir me chercher noise ;</l>
+	<l id="119">Elle est française, soit, eh bien ! je suis chinoise ;</l>
+	<l id="120">Nous verrons si de moi l'on fait un mannequin,</l>
+	<l id="121">Et qui l'emportera Paris ou bien Pékin.</l>
+	<l id="122">La Chine aux yeux du monde a mis une auréole,</l>
+	<l id="123" syll="6" part="i">Nous avons découvert...</l>
+<stage type="interrupt">S'interrompant.</stage>
+	<l id="124" syll="2" part="i">Quoi donc ?</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="124" syll="4" part="f">Mais... la boussole.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="125">La boussole. Oui ; croit-on que ces Françaises-là</l>
+	<l id="126">Dans leur fameux Paris auraient trouvé cela ?</l>
+	<l id="127">La boussole ! Je crois une chose entendue</l>
+	<l id="128">Que nous l'avons trouvée et qu'elles l'ont perdue.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="129" syll="10" part="i">Pourtant la plus âgée a de l'esprit.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="129" syll="2" part="f">Croit-on</l>
+	<l id="130">Que l'on soit sans esprit à Nankin, à Canton ?</l>
+	<l id="131">Croit-on que les Chinois, que trop souvent on raille,</l>
+	<l id="132">Aient l'esprit traversé par la grande muraille ?</l>
+	<l id="133">Non ; ce serait porter le plus faux jugement ;</l>
+	<l id="134">Les magots ne sont pas en Chine seulement,</l>
+	<l id="135">Je le démontrerai tout à l'heure à ces dames.</l>
+	<l id="136">Donc, j'ai dans ma pensée ourdi certaines trames</l>
+	<l id="137">Qui, je l'espère bien, prouveront de nouveau</l>
+	<l id="138">Que nous avons encor quelque chose au cerveau.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="139">Puisse l'esprit... céleste au succès vous conduire,</l>
+<stage type="watch">Regardant vers la gauche.</stage>
+	<l id="140" syll="5" part="i">Voilà ces dames...</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="140" syll="1" part="m">Ah !</l>
+<stage type="dress/entrance/exit">Nelly et Mademoiselle Laure, vêtues en Chinoises, entrent.</stage>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="140" syll="6" part="f">Je vais vous introduire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Ka-out-tchou, Pat-tchou-li, Nelly, Mademoiselle Laure. 
+</stage> 
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU</speaker><stage type="show">, présentant Pat-tchou-li.
+	</stage>
+	<l id="141" syll="8" part="i">Pat-tchou-li, ma meilleure amie...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="141" syll="4" part="f">Et j'ai l'espoir</l>
+	<l id="142" syll="8" part="i">Qu'elle sera la nôtre aussi...</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="142" syll="4" part="f">Nous allons voir.</l>
+<stage type="toward">À Mademoiselle Laure.</stage>
+	<l id="143">Je ne mérite pas autant de politesse.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="144">Il faut que je retourne auprès de Sa Hautesse.</l>
+<stage type="toward/location">À Nelly, en gagnant vers la porte.</stage>
+	<l id="145">Étudiez donc bien, mettez-vous au courant,</l>
+	<l id="146" syll="6" part="i">Et bientôt vous serez...</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="laugh">, riant.
+	</stage>
+	<l id="146" syll="6" part="f">Au seizième rang.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="147" syll="4" part="i">Assurément.</l>
+<stage type="wave/exit">Elle salue et sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Pat-tchou-li, Nelly, Mademoiselle Laure.
+</stage>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="147" syll="8" part="f">Yan-tsin, le mandarin illustre,</l>
+	<l id="148">Veut qu'à tous vos attraits s'ajoute un nouveau lustre.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="149">Je vous rends grâce autant qu'à lui, car vous venez</l>
+	<l id="150" syll="3" part="i">Nous instruire...</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="toward">, à part.
+	</stage>
+	<l id="150" syll="9" part="f">Elle veut me prendre par le nez.</l>
+<stage type="toward">À Mademoiselle Laure et à Nelly.</stage>
+	<l id="151">Me voici tout à vous et m'en voyez charmée.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="152">Gentille Pat-tchou-li, qu'on vous a bien nommée !</l>
+	<l id="153">On dirait votre voix un parfum qu'on entend.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="154" syll="9" part="i">Vous pouvez donc ouvrir la séance.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="154" syll="3" part="f">À l'instant.</l>
+<stage type="silence">Après un silence.</stage>
+	<l id="155">En Chine, il faut le dire, il est d'un vieil usage</l>
+	<l id="156">Que le pied joue un rôle autant que le visage,</l>
+	<l id="157">Autant que le visage il attire les yeux;</l>
+	<l id="158">Il faut qu'il soit cambré, petit et gracieux,</l>
+	<l id="159">Il faut qu'un dessin pur indique la cheville ;</l>
+	<l id="160">Les pieds de Salamanque et les pieds de Séville</l>
+	<l id="161">Ressembleraient chez nous à des pieds de Romain,</l>
+	<l id="162">Car le plus grand soulier doit tenir dans la main.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="163">La chose me paraît tant soit peu difficile.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="164">Oh ! Non, pas trop ; le pied, voyez-vous, est docile</l>
+	<l id="165">À la forme ; il suffit de le mettre au milieu</l>
+	<l id="166">D'un petit appareil en bois, on serre un peu,</l>
+	<l id="167" syll="1" part="i">Et...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="167" syll="2" part="m">J'y suis...</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="167" syll="9" part="f">Mais avant qu'ainsi l'on s'intéresse,</l>
+	<l id="168" syll="8" part="i">On a la liberté complète...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="work">, faisant le geste de serrer un écrou.
+	</stage>
+	<l id="168" syll="4" part="f">De la presse.</l>
+	<l id="169">Ce petit appareil, en usage à Pékin,</l>
+	<l id="170">Est un ancien supplice appelé : Brodequin.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="171" syll="3" part="i">Oh ! Madame...</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="toward">, à Mademoiselle Laure.
+	</stage>
+	<l id="171" syll="3" part="f">Il faut voir.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="171" syll="6" part="f">Pour moi, je me défie</l>
+	<l id="172" syll="6" part="i">D'un système pareil.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="sweet">, légèrement.
+	</stage>
+	<l id="172" syll="6" part="f">La chair se tuméfie,</l>
+	<l id="173">On le conçoit ; le pied se gonfle quelque peu,</l>
+	<l id="174">Il devient d'abord rouge, ensuite il devient bleu,</l>
+	<l id="175">Puis, jaune ; il faut du temps pour guérir, cela traîne,</l>
+	<l id="176">Et même quelquefois il s'y met la gangrène ;</l>
+	<l id="177">Mais on peut se vanter d'avoir un pied charmant.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="178">Peste ! Vous en parlez un peu légèrement.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="hesitate">, avec un peu d'hésitation.
+	</stage>
+	<l id="179" syll="3" part="i">Nous verrons.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="179" syll="9" part="f">Elle semble un peu moins à son aise.</l>
+<stage type="toward">À Nelly.</stage>
+	<l id="180">Mais aussi quel honneur d'être parmi les Seize !</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="181">Sans doute... Maintenant, si vous le voulez bien,</l>
+	<l id="182" syll="9" part="i">Donnez-moi ma leçon de tenue.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="182" syll="3" part="f">Il n'est rien</l>
+	<l id="183">De plus facile : Avec une entière assurance</l>
+	<l id="184">Faites tout au rebours de ce qu'on fait en France ;</l>
+	<l id="185">Là-bas, on rit souvent ; ici l'on ne rit pas ;</l>
+	<l id="186">On s'agite chez vous, nous marchons au compas</l>
+	<l id="187">Avec une lenteur que jamais on n'évite.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="wave">, avec un nouveau geste de pression.
+	</stage>
+	<l id="188">Vous avez des raisons pour ne pas marcher vite.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="continue">, continuant.
+	</stage>
+	<l id="189">À table, si polis et si nombreux qu'on soit,</l>
+	<l id="190">On laisse les voisins pour s'occuper de soi ;</l>
+	<l id="191">On n'y porte jamais de gants ou de manchettes,</l>
+	<l id="192">On n'a pas de cuillers, on n'a pas de fourchettes...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="193">Mais alors, quand on veut manger, comment fait-on ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="194">On se sert à propos d'un tout petit bâton</l>
+	<l id="195">Dont vous comprendrez mieux l'usage tout à l'heure.</l>
+	<l id="196">Il faut savoir aussi que dans chaque demeure,</l>
+	<l id="197">Dans la plus humble chambre ou les plus beaux salons,</l>
+	<l id="198">Au lieu d'entrer de face on entre à reculons.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="199" syll="6" part="i">C'est fort drôle, vraiment.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="199" syll="6" part="f">C'est fort drôle, peut-être,</l>
+	<l id="200" syll="4" part="i">Mais c'est réel.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="200" syll="8" part="f">Comment peut-on se reconnaître ?</l>
+	<l id="201">Car enfin, convenons qu'il faut, en vérité,</l>
+	<l id="202">Une certaine peine à voir de ce côté.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="203" syll="9" part="i">C'est une question d'habitude...</l>
+<stage type="toward">À Nelly.</stage>
+	<l id="203" syll="3" part="f">Ah ! J'y pense,</l>
+	<l id="204">Vous devez prendre encor votre leçon de danse.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="205" syll="2" part="i">C'est bien.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="205" syll="10" part="f">En attendant l'heure de la donner...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="206">Je voudrais bien qu'on vînt servir à déjeuner.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="207">Je vais vous envoyer les maîtresses de table.</l>
+	<l id="208" syll="3" part="i">À bientôt.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="208" syll="3" part="m">À bientôt...</l>
+<stage type="exit">Pat-tchou-li sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Mademoiselle Laure, Nelly.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="208" syll="6" part="f">Quel pays délectable !</l>
+	<l id="209">À coup sûr nous devons y passer de beaux jours.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="210">Mais très fâcheusement tout s'y fait au rebours.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="211">Cela vaut mieux; au lieu d'une Chine banale</l>
+	<l id="212">Nous avons une Chine étrange, originale,</l>
+	<l id="213">Avec ses petits pieds, avec ses cheveux longs;</l>
+	<l id="214">Quand on se rend visite on entre à reculons,</l>
+	<l id="215">Un certain... appareil procède à la chaussure,</l>
+	<l id="216">On se frappe le nez pour battre la mesure.</l>
+	<l id="217">Que voulez-vous de plus ? Si ce n'était ainsi</l>
+	<l id="218">A quoi vous servirait d'être venue ici ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="219" syll="8" part="i">Oui, vous avez raison, ma chère.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="219" syll="4" part="f">À la bonne heure.</l>
+<stage type="aparte">À part.</stage>
+	<l id="220">La raison la moins juste est souvent la meilleure.</l>
+<stage type="toward">À Nelly.</stage>
+	<l id="221">Mais... J'ai grand appétit... Va-t-on nous condamner</l>
+	<l id="222" syll="6" part="i">À mourir de faim ?</l>
+<stage type="entrance/wave">Deux Chinoises se présentent; une d'elles porte une nappe blanche ; elles viennent saluer Mademoiselle Laure et Nelly.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="222" syll="6" part="f">Non, voici le déjeuner.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Mademoiselle Laure, Nelly, Les deux  chinoises.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="223">J'ai pourtant du souci... Dans ce pays étrange</l>
+	<l id="224">Je n'ai pas bien compris encor comment on mange.</l>
+<stage type="carry/drop/location/furniture">Les deux Chinoises portent la table sur le devant de la scène, droite ; puis, elles déplient la nappe qui est très grande.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="watch">, remarquant la grandeur de la nappe.
+	</stage>
+	<l id="225">Ah ! Ça, dans quelle erreur nous laisse Pat-tchou-li ?</l>
+	<l id="226">On ne met pas la table, on va faire le lit.</l>
+</sp>
+<sp who="UNE CHINOISE"><speaker>UNE CHINOISE</speaker><stage type="furniture">, après que la nappe est mise sur la table.
+	</stage>
+	<l id="227">Mer, lan ! Kou-li-ho-chou ! Can, ta, lou ! Ka-bri-holes!</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="toward">, à Nelly.
+	</stage>
+	<l id="228">Je crois avoir saisi le sens de ces paroles,</l>
+	<l id="229" syll="4" part="i">C'est le menu.</l>
+<stage type="toward">Aux Chinoises.</stage>
+	<l id="229" syll="2" part="m">Tsin, Tsin!</l>
+<stage type="exit">Les Chinoises s'inclinent et sortent.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="229" syll="6" part="f">C'est pour dire qu'enfin</l>
+	<l id="230">On nous serve et bientôt, car nous mourons de faim.</l>
+<stage type="sit/eat/entrance/exit">Mademoiselle Laure et Nelly se mettent à table ; les Chinoises rentrent. L'une d'elles porte deux assiettes de riz sur lequel se trouvent deux petits bâtons minces et courts, elle met ces assiettes devant mademoiselle Laure et Nelly ; l'autre Chinoise porte deux plats qu'elle met également sur la table ; elles portent ensuite un pot à eau avec deux tasses ; puis elles sortent.</stage>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="231" syll="6" part="i">Ah ! Quelle affreuse odeur !</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="231" syll="3" part="m">En effet.</l>
+<stage type="wave/location">Elle s'incline sur l'un des plats.</stage>
+	<l id="231" syll="3" part="f">Une tranche</l>
+	<l id="232">De melon cantaloup dans une sauce blanche</l>
+	<l id="233">D'où s'exhale un parfum de vinaigre et d'oignons,</l>
+	<l id="234">Puis du fromage en pâte avec.des champignons</l>
+	<l id="235">Sur lesquels on a mis, je crois, du sucre d'orge.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="watch">, regardant.
+	</stage>
+	<l id="236" syll="6" part="i">Cela ne prend pas l'oeil.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="236" syll="6" part="f">Mais cela prend la gorge.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="237">Je ne toucherai pas à ce mets-là, bien sûr.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="show">, en découvrant le second plat.
+	</stage>
+	<l id="238" syll="10" part="i">Qu'est ceci ?... Par exemple ! Un oeuf d'autruche...</l>
+<stage type="get:HIT">Elle prend un des petits bâtons qu'elle appuie sur l'oeuf.</stage>
+	<l id="238" syll="2" part="f">Et dur</l>
+	<l id="239">Comme un cerveau chinois, comme une pierre sèche ;</l>
+	<l id="240">Il faudrait du canon pour pratiquer la brèche...</l>
+	<l id="241">Pourtant mon estomac pousse déjà des cris.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="242">Je vois bien qu'il nous faut rabattre sur le riz.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="243" syll="4" part="i">J'ai soif aussi.</l>
+<stage type="pour">Elle se verse à boire.</stage>
+	<l id="243" syll="8" part="f">De l'eau ! C'est à ne pas y croire !</l>
+	<l id="244">J'aime bien l'eau, pourtant je mets, quand je veux boire,</l>
+	<l id="245">Et sans être un adepte absolu du tonneau,</l>
+	<l id="246">Non de l'eau dans mon vin, mais du vin dans mon eau.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="247" syll="6" part="i">C'est un manque de soins.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="247" syll="6" part="f">Il faut qu'on le tolère...</l>
+	<l id="248">Allons, mangeons du riz et buvons de l'eau claire.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="249">Manger du riz ? C'est moins facile que cela ;</l>
+	<l id="250">Comment faut-il s'y prendre avec ces bâtons-là ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="251">J'ai lu dans un ouvrage à propos de la Chine,</l>
+	<l id="252" syll="10" part="i">Qu'on fait sauter le riz dans la bouche...</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="252" syll="2" part="f">Voisine ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="253">Non, dans sa propre bouche... essayons... sans orgueil</l>
+	<l id="254" syll="4" part="i">Je suis adroite...</l>
+<stage type="play">Elle fait sauter le riz avec les deux petits bâtons.</stage>
+	<l id="254" syll="8" part="f">Bon ! Cela me vient dans l'oeil.</l>
+<stage type="drop/stand">Elle pose les petits bâtons et elle se lève.</stage>
+	<l id="255">Que faire ?... Il ne faut pas cependant qu'on nous voue</l>
+	<l id="256" syll="6" part="i">À la faim sans espoir.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="256" syll="6" part="f">Pour mon compte j'avoue</l>
+	<l id="257">Que je suis déjà prête à manger dans la main.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="watch/furniture">, apercevant la feuille de palmier laissée sur la chaise.
+	</stage>
+	<l id="258">Eh ! Mais... Nous avons là le sacré parchemin ;</l>
+	<l id="259">En le coupant en deux nous ferons, je le pense,</l>
+	<l id="260" syll="4" part="i">Une cuiller.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="260" syll="2" part="m">Fort bien.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="260" syll="6" part="f">Et cela nous dispense</l>
+	<l id="261" syll="6" part="i">De manger dans la main.</l>
+<stage type="get">Elle va prendre la feuille de palmier.</stage>
+	<l id="261" syll="6" part="f">Aussitôt dit que fait.</l>
+<stage type="cut/give">Elle coupe la feuille en deux et elle donne une moitié à Nelly.</stage>
+	<l id="262" syll="2" part="i">Pour vous.</l>
+<stage type="work">Elle arrondit la demi-feuille en coquille.</stage>
+	<l id="262" syll="7" part="f">Pour moi ; ce n'est pas trop mal.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="262" syll="3" part="f">C'est parfait.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="263">Eh bien ! Sans plus tarder remettons-nous à table.</l>
+<stage type="sit/eat">Elles se remettent à table et elles mangent du riz en se servant de la feuille de palmier.</stage>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="264">En vérité, ce riz me semble présentable.</l>
+<stage type="entrance">Pat-tchou-li paraît au fond, elle fait, vers la galerie, un signe pour dire d'attendre ; elle entre ensuite et elle vient auprès de Nelly et de Mademoiselle Laure.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Mademoiselle Laure, Nelly, Pat-Tchou-li.
+</stage> Pat-Tchou-li.
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="265">Abomination et désolation !</l>
+	<l id="266">Action que l'on voue à l'exécration !</l>
+	<l id="267" syll="6" part="i">Horreur ! Terreur ! Fureur !</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="267" syll="3" part="m">Qu'avez-vous ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="267" syll="3" part="f">Ainsi mettre</l>
+	<l id="268">Dans le riz, et sans honte, une pareille lettre,</l>
+	<l id="269">La lettre de Tching-Fo, l'Empereur rayonnant !</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="270" syll="6" part="i">Nous la recollerons.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="270" syll="6" part="f">Je les tiens maintenant.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="271">Je ne sais pas pourquoi, mais je suis mal à l'aise.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="closer">, se rapprochant de Nelly.
+	</stage>
+	<l id="272">Voulez-vous, malgré tout, figurer dans les Seize ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="273">Malgré tout, dites-vous, malgré qui ? Malgré quoi ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="274" syll="9" part="i">Eh bien ! Je vous le dis franchement.</l>
+<stage type="strong">Avec fermeté.</stage>
+	<l id="274" syll="3" part="f">Malgré moi.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="275" syll="4" part="i">En vérité ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="275" syll="8" part="f">Sachez que j'aspire moi-même</l>
+	<l id="276">À ce titre de gloire, à cet honneur suprême ;</l>
+	<l id="277">Il m'est donc bien permis de vous interroger.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="278">Où donc l'ambition va-t-elle se loger ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="279">Si je vous disais : oui, sans raison et sans rime ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="280">Alors j'irais tout droit dénoncer votre crime.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="281">Notre crime ! avons-nous mérité l'échafaud ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="282">Vous avez déchiré la lettre de Tching-Fo,</l>
+	<l id="283">Et de la page sainte, au langage qui touche,</l>
+<stage type="declamate">Dramatiquement.</stage>
+	<l id="284">Vous avez osé faire une cuiller à bouche !</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="285" syll="2" part="i">Eh bien ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="285" syll="10" part="f">Eh bien ! Ce crime accompli sans remord,</l>
+	<l id="286" syll="8" part="i">Ce crime affreux sera puni...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="286" syll="2" part="m">Puni ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="286" syll="2" part="f">De mort !</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="aparte/toward">, à part, à Nelly.
+	</stage>
+	<l id="287" syll="6" part="i">Faut-il s'évanouir ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="closer/frighten">, se rapprochant avec crainte de Mademoiselle Laure.
+	</stage>
+	<l id="287" syll="6" part="f">Non, non, ma chère Laure.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="288" syll="2" part="i">Et puis...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="288" syll="10" part="f">Comment : Et puis ? Que peut-on faire encore</l>
+	<l id="289" syll="4" part="i">Après cela ?</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI</speaker><stage type="sweet">, légèrement.
+	</stage>
+	<l id="289" syll="8" part="f">Fort peu, vraiment ; sur un poteau</l>
+	<l id="290">On expose la tête avec un écriteau.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="291" syll="6" part="i">Quel tableau rassurant !</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="291" syll="6" part="f">Remarquez, je vous prie,</l>
+	<l id="292">Que tout cela n'est pas une plaisanterie ;</l>
+	<l id="293">Les droits du Fils du Ciel jusqu'au bout sont poussés.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="294" syll="6" part="i">Nous allons réfléchir.</l>
+</sp>
+<sp who="PAT-TCHOU-LI"><speaker>PAT-TCHOU-LI.</speaker>
+	<l id="294" syll="6" part="f">Certes, réfléchissez.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Mademoiselle Laure, Nelly.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="295" syll="6" part="i">Eh bien ! Qu'en pensez-vous ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="295" syll="6" part="f">Faut-il que je vous dise</l>
+	<l id="296">Ce que je pense avec une entière franchise ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="297" syll="3" part="i">Sans doute.</l>
+</sp>9
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="297" syll="9" part="f">Je vois fuir 9mes rêves d'autrefois</l>
+	<l id="298">Et j'aime déjà moins la Chine et les Chinois.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="299">Quoi ! Vous parlez ainsi dans le Céleste-Empire,</l>
+	<l id="300" syll="6" part="i">Dans ce pays rêvé ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="300" syll="6" part="f">Je ne sais rien de pire</l>
+	<l id="301">Qu'un pays où l'orgueil parle sur tous les tons ;</l>
+	<l id="302">On y commande au geste, on y mange aux bâtons,</l>
+	<l id="303">On y traite les gens un peu comme les bêtes,</l>
+	<l id="304">On écrase les pieds, on expose les têtes...</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="305" syll="10" part="i">C'est vrai, cela ; pourtant nous y sommes.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="305" syll="2" part="f">Comment</l>
+	<l id="306">Ne pas toucher bien vite au désenchantement ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="307">Vous semblez regretter notre terre française.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="308" syll="3" part="i">Eh bien !... Oui.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="308" syll="9" part="f">Mais alors que résoudre ?... Et les Seize ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="309" syll="2" part="i">C'est juste.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="309" syll="10" part="f">Ce Yan-tsin nous met dans l'embarras ;</l>
+	<l id="310">Acceptant, nous avons Pat-tchou-li sur les bras.</l>
+	<l id="311">Refusant, c'est Tching-Fo, le Fils du Ciel lui-même</l>
+	<l id="312">Qui nous fera sentir sa colère suprême.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="313" syll="2" part="i">Que faire ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="313" syll="10" part="f">Il n'est qu'un seul moyen de s'en sortir.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="314" syll="6" part="i">Quel qu'il soit, je l'accepte.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="314" syll="6" part="f">Il nous faut repartir.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="315">J'ai hâte d'être loin de ce pays sauvage.</l>
+<stage type="silence">Après un silence.</stage>
+	<l id="316" syll="6" part="i">Reste le mal de mer.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="show">, sortant une fiole de sa poche.
+	</stage>
+	<l id="316" syll="6" part="f">Mais j'ai là le breuvage</l>
+	<l id="317">De ce bon docteur Jean, et vous savez très bien</l>
+	<l id="318">Que par les plus gros temps vous ne sentirez rien.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="away/location">, en se dirigeant vers le cabinet, à gauche, et avec résolution.
+	</stage>
+	<l id="319" syll="6" part="i">Venez, endormez-moi.</l>
+<stage type="entrance/location">Elles vont entrer dans le cabinet, lorsque Ka-out-tchou se présente.</stage>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="319" syll="6" part="f">Notre étoile divine,</l>
+	<l id="320">La céleste clarté qui sourit sur la Chine,</l>
+	<l id="321">La Fille du Ciel même en son palais attend</l>
+	<l id="322" syll="6" part="i">La charmante Française.</l>
+<stage type="wave/sad">Nelly fait un geste de découragement.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="aparte/toward">, à part, à Nelly.
+	</stage>
+	<l id="322" syll="6" part="f">- Attendez un instant ;</l>
+	<l id="323">Nous sortir de cela ne pèse pas une once.</l>
+<stage type="toward">À Ka-out-chou, avec une solennité affectée.</stage>
+	<l id="324">Nous estimons bien haut votre flatteuse annonce ;</l>
+	<l id="325">Attendez-nous ici pour l'heureux dénouement.</l>
+<stage type="turn/toward">Se tournant vers Nelly.</stage>
+	<l id="326" syll="2" part="i">Venez.</l>
+<stage type="wave/exit/location">Elle salue gravement Ka-out-tchou et elle entre avec Nelly dans le cabinet.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp stage="alone" who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="326" syll="10" part="f">Cela s'embrouille et je ne sais comment</l>
+	<l id="327">Nous allons terminer cette étrange entreprise ;</l>
+	<l id="328">Nous sommes, comme on dit, au sommet de la crise ;</l>
+	<l id="329">On n'en peut pas encor prévoir le résultat,</l>
+	<l id="330">Et cela devient, certes, une affaire d'État.</l>
+	<l id="331">Nous avons cru d'abord la chose très facile ;</l>
+	<l id="332">Le plan conçu suivait une pente docile ;</l>
+	<l id="333">On peut improviser des chants et des ballets,</l>
+	<l id="334">Mais on ne bâtit pas aussi vite un palais.</l>
+	<l id="335">Où réunir Tching-Fo, sa compagne céleste,</l>
+	<l id="336">Les mandarins lettrés, Yan-tsin et tout le reste ?</l>
+	<l id="337">C'est fort embarrassant et je ne prévois pas</l>
+	<l id="338">Comment nous allons tous nous tirer de ce pas.</l>
+<stage type="exit/location/get">Mademoiselle Laure sort rapidement du cabinet, elle a repris ses vêtements à la française.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Ka-out-tchou, Mademoiselle Laure.
+</stage>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="quick">, vivement.
+	</stage>
+	<l id="339">Dieu merci ! Nous touchons au bout des aventures.</l>
+<stage type="call">Appelant.</stage>
+	<l id="340" syll="6" part="i">Marie ! Ursule ! Jeanne !</l>
+<stage type="call/costume/entrance">À son appel, trois domestiques, habillées à la française, entrent dans le salon.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="toward/show/location">, aux domestiques en désignant les sujets chinois posés sur les murs.
+	</stage>
+	<l id="340" syll="6" part="f">Enlevez ces tentures.</l>
+<stage type="work/furniture/drop">Les domestiques enlèvent rapidement les tentures ; elles portent des chaises, des fauteuils et un guéridon qu'elles placent à gauche et sur lequel se trouve le journal : La Mode ; elles sortent ensuite.</stage>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="341">Je m'attendais fort bien à ce dénotaient-là;</l>
+	<l id="342">Les Chinois l'ont bientôt désenchantée, elle a</l>
+	<l id="343">Voulu revoir la France, aussi j'ai dû lui faire</l>
+	<l id="344">Prendre sans plus tarder l'anodin somnifère</l>
+	<l id="345">Dont l'effet passager ne dure qu'un moment.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="346">Je m'en vais donc aussi changer de vêtement,</l>
+	<l id="347" syll="6" part="i">Car elle va venir.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="347" syll="2" part="m">Sans doute.</l>
+</sp>
+<sp who="KA-OUT-TCHOU"><speaker>KA-OUT-TCHOU.</speaker>
+	<l id="347" syll="4" part="f">À tout à l'heure.</l>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head>
+<sp stage="alone" who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="348">Ah ! Le joli voyage ! Et combien la demeure</l>
+	<l id="349">Retrouvée à la fin va lui paraître encor</l>
+	<l id="350">Pleine de souvenirs aussi chers qu'un trésor !</l>
+<stage type="sit/furniture">Elle s'assied dans un fauteuil.</stage>
+	<l id="351">Prenons dans ce fauteuil une pose commode.</l>
+<stage type="watch/location">Elle regarde à gauche.</stage>
+	<l id="352" syll="3" part="i">La voilà...</l>
+<stage type="get/location/furniture">Elle prend le journal sur le guéridon.</stage>
+	<l id="352" syll="9" part="f">Plongeons-nous dans le journal de mode.</l>
+<stage type="entrance">Nelly entre.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Mademoiselle Laure, Nelly.
+</stage>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="353" syll="8" part="i">Nous voilà de retour chez nous.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="353" syll="4" part="f">Oui, Dieu merci.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage type="watch">, regardant autour d'elle.
+	</stage>
+	<l id="354">Avec un vrai bonheur je me retrouve ici :</l>
+	<l id="355">Et pourtant, il me Semble... à coup sûr c'est un leurre,</l>
+	<l id="356">Que nous étions encore en Chine tout à l'heure.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="357" syll="3" part="i">Vous croyez ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="357" syll="9" part="f">Il me semble aussi que je revois</l>
+	<l id="358">Levant ses deux index à la hauteur de la tête.</l>
+	<l id="359">La danse des magots et que j'entends leurs voix.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="360">C'est, sans doute, l'effet du breuvage.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="361" syll="2" part="i">Peut-être.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="361" syll="" part="f">Combien le coeur se sent charmé de reconnaître</l>
+	<l id="362">Tout ce qu'on a laissé... Vous avez éprouvé</l>
+	<l id="363" syll="6" part="i">Ce bonheur, n'est-ce pas ?</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage>, vaguement.
+	</stage>
+	<l id="363" syll="6" part="f">J'ai peut-être rêvé.</l>
+<stage type="sing">À ce moment, un choeur de jeunes filles se fait entendre au dehors ; Nelly et Mademoiselle Laure se lèvent.</stage>
+</sp>
+<sp who="LES JEUNES FILLES"><speaker>LES JEUNES FILLES.</speaker>
+	<l id="364">Monte, ô blanche lune !</l>
+	<l id="365">Dans le firmament ;</l>
+	<l id="366">Jette à la nuit brune</l>
+	<l id="367">Ton éclat charmant.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="368">Que m'apporte ce chant ?... L'émotion me glace...</l>
+<stage type="costume/entrance/music/">Des jeunes filles, vêtues à la française, entrent en cadence et en chantant ; Mù-si-ka-li bat la mesure de la même façon ; Ka-out-tchou et P-at-tchou-li, également vêtues à la française, sont avec elles.</stage>
+</sp>
+</div2>
+<div2 type="scene" n=""><head>SCÈNE XV.</head><stage> Mademoiselle Laure, Nelly, Ka-out-tchou, Pat-tchou-li, Mu-si-ka-li, Jeunes filles.
+</stage>
+<sp who="LES JEUNES FILLES"><speaker>LES JEUNES FILLES.</speaker>
+	<l id="369">Souris dans l'espace ;</l>
+	<l id="370">Tu peux nous donner</l>
+	<l id="371">La meilleure place</l>
+	<l id="372">Pour nous promener.</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE</speaker><stage type="toward">, à Nelly.
+	</stage>
+	<l id="373">Que votre émotion comme une ombre s'efface.</l>
+<stage type="closer">Elle va prendre Ka-out-tchou et Pat-tchou-li qu'elle présente  à Nelly.</stage>
+	<l id="374">Je vous présente encor, ma bien chère Nelly,</l>
+	<l id="375">Hortense ou Ka-out-tchou... Mathilde ou Pat-tchou-li.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY.</speaker>
+	<l id="376">Me voilà maintenant tout à fait rassurée.</l>
+<stage type="silence">Après un silence.</stage>
+	<l id="377" syll="3" part="i">Mais la Chine ?</l>
+</sp>
+<sp who="MADEMOISELLE LAURE"><speaker>MADEMOISELLE LAURE.</speaker>
+	<l id="377" syll="9" part="f">Voici ; nous vous l'avons montrée</l>
+	<l id="378">Dans l'aile du château que l'on n'habite pas ;</l>
+	<l id="379">Nous avons fait ainsi la route en quelques pas,</l>
+	<l id="380">Puis, avec les enfants de l'école voisine</l>
+	<l id="381">Nous avons complété le tableau de la Chine.</l>
+</sp>
+<sp who="NELLY"><speaker>NELLY</speaker><stage>, tendant les mains à Ka-out-tchou et à Pat-tchou-li.
+	</stage>
+	<l id="382">Je vous en sais bon gré, car l'on a bien raison</l>
+	<l id="383">De ne jamais quitter le seuil de sa maison.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

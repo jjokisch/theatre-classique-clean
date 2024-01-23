@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>DE CALAIS À DOUVRES, COMÉDIE.</title>
+			<author type="texte" ISNI="0000 0001 0927 249X">Ernest d'HERVILLY (1839-1911)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, janvier 2023.</editor>
+				<publisher>Publié par Paul FIEVRE, février 2023.</publisher>
+				<idno>HERVILLY_CALAISDOUVRES</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-YF-24 (3)">https://gallica.bnf.fr/ark:/12148/bpt6k9619996b</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">DE CALAIS À DOUVRES</titlePart>
+			<titlePart type="sub">Monologue en vers</titlePart>
+		</docTitle>
+		<docDate value="1878">1878. Tous droits réservés.</docDate>
+		<docAuthor id="HERVILLY, Ernest d'">PAR M. ERNEST D'HERVILLY</docAuthor>
+		<docImprint>
+			<editor id="RUAULT">PARIS, PAUL OLLENDORF, ÉDITEUR, 28 bis, RUE DE RICHELIEU.</editor>
+			<printer>ÉVREUX, IMPRIMERIE DE CHALRES HÉRISSEY.</printer>
+		</docImprint>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="UN VOYAGEUR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN VOYAGEUR</role>, M. COQUELIN CADET.</castItem>  
+	</castList>
+	<set location="France" country="France" periode="XIXème" gps="(N/A)"/>
+	<note>Extrait de "Théâtre de campagne, troisième série (...)" par Abraham Dreyfus, Deuxième édition. Paris : Calmann Lévy, 1887. pp. 77-83.</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>DE CALAIS À DOUVRES</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE VOYAGEUR"><speaker>LE VOYAGEUR</speaker><stage>, constate avec une satisfaction inquiète et fébrile que le steamer se met en marche.
+	</stage>
+	<l id="1">Ah !.. Nous partons, je crois ? - Oui... l'on ramène à terre</l>
+	<l id="2">La passerelle. - Allons ! Cinglons vers l'Angleterre !</l>
+<stage type="agitate/costume">Il agite son chapeau.</stage>
+	<l id="3">Adieu, Calais, adieu !.. - C'est-à-dire, au revoir !</l>
+<stage type="confident">Avec confiance.</stage>
+	<l id="4">Superbe temps ! - La mer est comme un beau miroir...</l>
+<stage type="fall">Il manque de tomber.</stage>
+	<l id="5" syll="3" part="i">Allons, bon ! - </l>
+<stage type="smile">Souriant. </stage>
+	<l id="5" syll="9" part="f">C'est le flot : nous sortons des jetées.</l>
+<stage type="wave">Saluant l'étendue.</stage>
+	<l id="6">Que c'est beau, cette mer aux vagues argentées,</l>
+	<l id="7">Qui parle au ciel profond avec sa voix d'airain !...</l>
+<stage type="fall">Il trébuche.</stage>
+	<l id="8">Ah ! diable !... Je n'ai pas encor le pied marin.</l>
+<stage type="search/sit">Il cherche à s'asseoir.</stage>
+	<l id="9">Suivons donc les avis de la simple prudence :</l>
+	<l id="10">Asseyons-nous... Eh ! eh ! comme le bateau danse !</l>
+<stage type="fall">Tombant sur un monsieur.</stage>
+	<l id="11">Pardon, mon cher monsieur ; je prends ce petit coin.</l>
+	<l id="12">Oh ! Pour quelques instants ; Douvres n'est pas si loin...</l>
+	<l id="13">Une heure au plus... une heure est bien vite passée...</l>
+<stage type="confident">Avec une assurance confidentielle.</stage>
+	<l id="14">Nous aurons une bonne et courte traversée,</l>
+	<l id="15">Je crois, mon cher monsieur... Pour moi, je n'ai pas peur...</l>
+<stage type="closer">Cherchant à nouer la conversation.</stage>
+	<l id="16">La belle invention, monsieur, que la vapeur ?...</l>
+<stage type="toward">Réfutant un argument.</stage>
+	<l id="17">Je ne dis pas, la voile !... - Ah ! Oui, la voile antique</l>
+	<l id="18">Avait je ne sais quoi d'ailé, de poétique...</l>
+<stage type="watch">Il aperçoit les baquets.</stage>
+	<l id="19">Mais que passe-t-on donc là-bas... de peint en gris ?</l>
+	<l id="20">Ces petits tonnelets ?.. - Ah ! j'y suis ! J'ai compris !</l>
+	<l id="21">Bonne précaution ! - Quel mortel peut répondre</l>
+	<l id="22">En effet, d'arriver sans... au complet, à Londres ?</l>
+	<l id="23" syll="2" part="i">Eh ! eh !..</l>
+<stage type="toward">Reprenant la conversation.</stage>
+	<l id="23" syll="10" part="f">Mais nous disions qu'autrefois les vaisseaux...</l>
+<stage type="fall">Il pique une tête en avant.</stage>
+	<l id="24">(Ouf ! Quel coup de tangage !..) offraient aux grands pinceaux</l>
+<note type="L">Théodore Gudin (1802-1880) : Peintre, comparé avec Vernet. Proche duroi Louis Philippe puis de Napoléon III. Premier peintre de la Marine.</note>
+<note type="L">Horace Venet (1789-1863): peintre célèbre, membre de l'Insitut de France. </note>
+	<l id="25">Des Vernet, des Gudin, une grâce, une ligne !..</l>
+<stage type="fall">Il retombe sur son voisin.</stage>
+	<l id="26">Nous roulons maintenant d'une façon indigne...</l>
+	<l id="27" syll="6" part="i">Ça fait froid dans le dos.</l>
+<stage type="toward">À son voisin.</stage>
+	<l id="27" syll="6" part="f">Monsieur, ce paquebot</l>
+	<l id="28">Se comporte à la lame ainsi qu'un vrai sabot !</l>
+<stage type="toward">Le voisin ne répondant rien, le voyageur murmure :</stage>
+	<l id="29">Tiens, il ne répond rien... Il était si prolixe !..</l>
+	<l id="30">Voyons, raidissons-nous. Regardons un point fixe,</l>
+	<l id="31">On dit que ça remet. Là, contemplons ce mât.</l>
+<stage type="toward">Il bavarde de nouveau.</stage>
+	<l id="32">Londres a, m'a-t-on dit, un bien affreux climat,</l>
+	<l id="33">Du brouillard, de la pluie, et pour boisson de l'ale...</l>
+	<l id="34" syll="6" part="i">De l'aile ? Oh oui, pardon !...</l>
+<stage type="aparte">À part.</stage>
+	<l id="34" syll="6" part="f">Oh ! comme il devient pâle,</l>
+	<l id="35" syll="4" part="i">Mon voisin ! - Hum !</l>
+<stage type="loud">Haut.</stage>
+	<l id="35" syll="8" part="f">Monsieur voyage évidemment.</l>
+	<l id="36" syll="6" part="i">Pour ses affaires ? Moi, </l>
+<stage type="sit">Il s'étale.</stage>
+	<l id="36" syll="6" part="f">C'est pour mon agrément.</l>
+<stage type="low">Confidentiellement.</stage>
+	<l id="37">Je suis de Vaugirard. - Tiens, je sens un malaise...</l>
+<stage type="get/costume">Il tire un flacon de sa redingote.</stage>
+	<l id="38">Soignons-nous. Imitons cette fragile Anglaise</l>
+	<l id="39">Qui boit si gentiment, - à même le goulot,</l>
+	<l id="40" syll="6" part="i">Le rhum de son flacon... </l>
+<stage type="drink">Il boit.</stage>
+<stage type="show">On lui présente un baquet.</stage>
+	<l id="40" syll="6" part="f">Non, merci, matelot,</l>
+	<l id="41">Pas encore ! - Emportez votre baquet, mon brave !</l>
+<stage type="think">Soucieux.</stage>
+	<l id="42">Eh ! Comme tout le monde a l'air contrit et grave...</l>
+	<l id="43">C'est étrange ! - Essayons de changer... d'horizon...</l>
+<stage type="stand/walk">Il essaie de se lever et de marcher. - Avec regret :</stage>
+	<l id="44">On a tort de quitter sa petite maison,</l>
+	<l id="45" syll="3" part="i">Son chez-soi !..</l>
+<stage type="sit">Il se rassied.</stage>
+	<l id="45" syll="9" part="f">Non, vraiment, ce n'est pas très commode !</l>
+	<l id="46">Ah ça ! Comment faisait, pour débiter une ode,</l>
+	<l id="47">À bord d'une galère, et bien loin d'être à sec,</l>
+	<l id="48">Tout en pinçant du luth, ce musicien grec,</l>
+<note type="L">Arion : Cheval mythologique, réputé comme le plus rapide du monde.</note>
+	<l id="49">Arion, qui charmait - bienheureuses époques ! - </l>
+	<l id="50">Sans avoir mal au coeur, les dauphins et les phoques ?</l>
+	<l id="51">Pour moi, je ne saurais me tenir droit ici.</l>
+	<l id="52">Pourtant, si je tâchais de m'accoter ainsi ?</l>
+<stage type="disgust">Avec répugnance, après avoir regardé ses voisins.</stage>
+	<l id="53">Ah ! Les vilaines gens ! En font-ils, des grimaces !</l>
+	<l id="54">Bon ! Voilà deux époux tombés comme des masses !</l>
+<stage type="sit">Il s'installe.</stage>
+	<l id="55">Enfin, je suis très bien ; là, me voilà calé.</l>
+<stage type="watch/decor">Il admire la mer.</stage>
+	<l id="56" syll="4" part="i">La belle vague !..</l>
+<stage type="meteo">Il reçoit un paquet de mer en pleine figure.</stage>
+	<l id="56" syll="8" part="f">Ah ! Pouah ! - Bon Dieu ! que c'est salé !</l>
+<stage type="dress">Il se secoue comme un chien mouillé.</stage>
+	<l id="57">Peuh ! - Me voilà trempé du faux-col aux bottines.</l>
+	<l id="58">Ah ! Neptune, c'est mal ! - Mais en vain tu t'obstines !</l>
+	<l id="59">Et je nargue Amphitrite et ses tristes appas ;</l>
+	<l id="60">Dieux démodés, je meurs, mais je ne me rends pas !</l>
+<stage type="get">Il tire un citron de sa poche.</stage>
+	<l id="61">Grâce à ce tout petit citron de vingt centimes,</l>
+	<l id="62">Je serai sain et sauf dans le pays du Times.</l>
+<stage type="cold">Il grelotte.</stage>
+	<l id="63" syll="6" part="i">Oui, mais j'ai froid... et puis...</l>
+<stage type="touch">Il tâte son estomac.</stage>
+	<l id="63" syll="6" part="f">Mon citron !!. - Ça va mieux.</l>
+	<l id="64">Où donc est mon Anglaise avec ses jolis yeux.</l>
+	<l id="65">Ah ! La voici. - Bravo ! Jeune fille héroïque !..</l>
+	<l id="66">Elle lutte toujours, à coups de Jamaïque !</l>
+	<l id="67">Chère Miss ! Quel teint blanc ! quel humide regard !</l>
+	<l id="68">Peut-être est-elle un peu blonde... comme un renard !</l>
+	<l id="69">Mais qu'importe ! À ses pieds on vivrait heureux, certes !</l>
+	<l id="70" syll="6" part="i">Oh ! le « home » avec elle !</l>
+<stage type="esonish">Avec une grande stupeur.</stage>
+	<l id="70" syll="6" part="f">- Ah ! Qu'elle devient verte !..</l>
+	<l id="71">Ah ! Ciel ! Soutiens son coeur par le rhum inondé ;</l>
+	<l id="72">Courage, Miss ! - Trop tard ! - Le flacon est vidé !</l>
+<stage type="hide/pull">Il se voile la face. - On le tire par l'habit.</stage>
+	<l id="73">Çà, que veut mon voisin ? - Hein ? quoi ? Monsieur vous dites ?</l>
+	<l id="74">Vous êtes bien malade ? - Ah ! oui... Vagues maudites !</l>
+	<l id="75">Et vous voulez ?.. du thé ? - Je n'en ai pas sur moi !</l>
+	<l id="76" syll="2" part="i">Attendez !</l>
+<stage type="call">Il appelle.</stage>
+<note type="L">Souchong : Le souchong, et, adjectivement, le thé souchong. [L]</note>
+	<l id="76" syll="10" part="f">Hé ! Stewart ? Tea ! Tea ! Souchong ! - Ma foi,</l>
+	<l id="77">Je ne sais pas l'anglais. - Que le diable le brûle !</l>
+<note type="L">Curule : Terme d'antiquité romaine. Chaise curule, fauteuil d'ivoire sur lequel les premiers magistrats de Rome s'asseyaient et qui avait les pieds courbes et des ornements d'ivoire. [L]</note>
+	<l id="78">Heureux sénat romain, sur sa chaise curule,</l>
+	<l id="79">Il attendait la mort, - mais sans le mal de mer !</l>
+<stage type="watch">Il regarde son voisin.</stage>
+	<l id="80">Grand Dieu ! Que ce monsieur est vilain ! - Il a l'air</l>
+	<l id="81">D'un homme qui lirait des vers de tragédie !</l>
+	<l id="82">(Sapristi, mon citron !) - Ô sombre perfidie</l>
+	<l id="83">De l'onde ! J'ai bien cru... - J'en suis tremblant d'émoi.</l>
+<stage type="toward">Au voisin malade.</stage>
+	<l id="84">Non, laissez-moi, Monsieur ! - Tant pis, chacun pour soi !</l>
+	<l id="85">Vous êtes bien gentil; mais j'ai fait le possible !</l>
+	<l id="86">Il n'est pas bon, en mer, d'avoir le coeur sensible.</l>
+<stage type="sweet">Pris d'un reste de pitié.</stage>
+	<l id="87" syll="2" part="i">Enfin !</l>
+<stage type="call">Il appelle.</stage>
+	<l id="87" syll="10" part="f">Waiter ! Stewart ! Il n'est vraiment pas beau !</l>
+	<l id="88">Garçon ! Ce passager va descendre au tombeau.</l>
+<stage type="away">Il abandonne le voisin à son triste sort.</stage>
+	<l id="89">Ma foi, que ce monsieur passe du mal au pire...</l>
+<stage type="strong">Avec férocité.</stage>
+	<l id="90">Il n'a plus que son âme... à rendre... Qu'il l'expire</l>
+<stage type="eat">Il suce frénétiquement son citron.</stage>
+	<l id="91">Mon citron ! mon citron ! - Ô bon fruit espagnol !</l>
+	<l id="92">Quelle position ! Mon coeur bat comme un fol...</l>
+	<l id="93" syll="3" part="i">Sapristi !</l>
+<stage type="happy">Avec ravissement.</stage>
+	<l id="93" syll="6" part="f">- Mais voici les côtes britanniques !</l>
+	<l id="94">Enfin ! Merci, mon Dieu ! Que nos terreurs paniques</l>
+	<l id="95">S'effacent ! - Quand on voit la terre, on est sauvé !</l>
+	<l id="96">Soyons gai, soyons fier. - Eldorado rêvé,</l>
+	<l id="97">Paradis immobile, ah ! Devant moi tu t'ouvres.</l>
+	<l id="98">All_right !... Oui, nous voici juste en face de Douvres !</l>
+	<l id="99" syll="3" part="i">C'est fini.</l>
+<stage type="sad">Il pâlit.</stage>
+	<l id="99" syll="9" part="f">Mon citron ! - J'ai déjoué le sort.</l>
+<stage type="shout">Avec un cri affreux.</stage>
+	<l id="100">Hé ! Vite, matelot ! - Hélas, j'échoue au port !</l>
+<stage type="close/quick">Le rideau baisse très rapidement.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

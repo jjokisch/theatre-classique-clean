@@ -1,0 +1,3959 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'AVOCAT D'UN GREC, COMÉDIE.</title>
+				<author type="texte" ISNI="0000 0001 2277 5040">LABICHE, Eugène (1815-1888)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>publié par Paul FIEVRE, juillet 2023.</editor>
+				<publisher>publié par Paul FIEVRE, aôut 2023.</publisher>
+				<idno>LABICHE_AVOCATDUNGREC</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<type>mixte</type>
+				<structure>Un acte</structure>
+				<periode>1851-1860</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 8-YTH-1567">https://gallica.bnf.fr/ark:/12148/bpt6k61365300</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'AVOCAT D'UN GREC</titlePart>
+			<titlePart type="sub">COMÉDIE MÊLÉE DE COUPLETS EN UN ACTE</titlePart>
+			<titlePart type="sub">Représentée pour la première fois à Paris au Théâtre du Palais-Royal le 9 janvier 1859.</titlePart>
+		</docTitle> 
+		<docDate value="1859">1859.</docDate>
+		<docAuthor id="LABICHE, LEFRANC">PAR MM. LABICHE ET LEFRANC.</docAuthor>
+		<docImprint>
+			<acheveImprime id=""/>
+			<editor id="TRESSE">PARIS, TRESSE, Galerie du Théâtre Français, PALAIS-ROYAL.</editor>
+		</docImprint>
+		<performance>
+			<premiere location="Théâtre du Palais-Royal" date="1859-01-09">Représentée pour la première fois à Paris au Théâtre du Palais-Royal le 9 janvier 1859.</premiere>
+		</performance>
+	<castList><head>PERSONNAGES</head>
+		<castItem><role id="BENOÎT" sex="1" type="H" statut="négociant" age="A" stat_amour="néant">BENOÎT</role>, Négociant.</castItem>
+		<castItem><role id="BROSSARD" sex="1" type="H" statut="avocat" age="A" stat_amour="néant">BROSSARD</role>, Avocat.</castItem>
+		<castItem><role id="MALVOISIE" sex="1" type="H" statut="coiffeur" age="A" stat_amour="néant">MALVOISIE</role>, Coiffeur.</castItem>
+		<castItem><role id="VACHONNET" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">VACHONNET</role>, Amoureux de Céline.</castItem>
+		<castItem><role id="PONTBÉDOUIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">PONTBÉDOUIN</role>, ami de Benoît.</castItem>
+		<castItem><role id="BABOCHET" sex="1" type="H" statut="domestique" age="A" stat_amour="néant">BABOCHET</role>, domestique de Benoît.</castItem>
+		<castItem><role id="CÉLINE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">CÉLINE</role>, fille de Benoît.</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">La scène se passe à Paris, de nos jours, chez Benoît.</set>
+</front>
+<body>
+<div1 type="acte" n=""><head>L'AVOCAT D'UN GREC</head>
+<stage type="decor/furniture">Un salon disposé pour un bal. - Portes au fond ; portes latérales. Une table de jeu à droite.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Babochet, puis Vachonnet.
+</stage>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="alone">, seul, finissant d'allumer les candélabres.
+</stage>
+<p id="1">
+	<s id="1">Là... </s>
+	<s id="2">Voilà Dieu ! </s>
+	<s id="3">Qu'il est beau comme ça le salon de Monsieur_Benoît ! </s>
+	<s id="4">Douze bougies allumées... à la fois !... </s>
+	<s id="5">Lui qui se couche avec une chandelle ! </s>
+	<s id="6">Après ça, un marchand de bois des îles, qui marie sa fille, peut bien faire un peu de dépense.</s>
+</p>
+<stage type="show">Montrant sa livrée.</stage>
+<p id="2">
+	<s id="1">C'est moi que je ris de me voir là dedans... </s>
+	<s id="2">J'ai l'air d'un prince du moyen âge ? </s>
+	<s id="3">Un simple garçon de magasin... </s>
+	<s id="4">Ils m'ont élevé, pour cette soirée, au grade de domestique ! </s>
+	<s id="5">Je brûle de me montrer à Clarisse... </s>
+	<s id="6">Une demoiselle que j'aime... et qui est femme de chambre... pour le bon motif... chez Monsieur_de_Pontbédouin... un ami de mon maître.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="location/stutter">, à la porte du fond et bégayant.
+</stage>
+<p id="2">
+	<s id="1">Peut-on en... en... en... en...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="turn">, sans se retourner.
+</stage>
+<p id="3">
+	<s id="1">Tiens ! </s>
+	<s id="2">Un âne !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage>, finissant son mot.
+</stage>
+<p id="4">
+	<s id="1">En... entrer ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="5">
+	<s id="1">C'est Monsieur_Vachonnet !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="6">
+	<s id="1">Le deuxième prétendu de Mademoiselle... </s>
+	<s id="2">C'est drôle !... </s>
+	<s id="3">Elle en a un qui est avocat et l'autre qui est bègue...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="7">
+	<s id="1">Bonjour, Baba... baba... Babochet !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="8">
+	<s id="1">C'est l'autre qui est avocat !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="9">
+	<s id="1">Monsieur Be... Benoît...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="10">
+	<s id="1">Il est sorti.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="11">
+	<s id="1">Monsieur Be... Benoît m'a en... en... en... en...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="12">
+	<s id="1">Si on ne jurerait pas que c'est un âne !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="13">
+	<s id="1">En... engagé... à venir de bonne heure pour faire ses a... a... a...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="14">
+	<s id="1">Acquisitions.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="15">
+	<s id="1">Non ! </s>
+	<s id="2">Ses a... a... a...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="16">
+	<s id="1">Abricots ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="17">
+	<s id="1">Non ! </s>
+	<s id="2">Ses... a... a... a...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="18">
+	<s id="1">Passez-le, allez !... </s>
+	<s id="2">Il est trop difficile.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="19">
+	<s id="1">Ses a... additions !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="20">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui... </s>
+	<s id="3">Il m'a parlé de ça... </s>
+	<s id="4">Il m'a même recommandé de vous faire entrer dans son petit bureau...</s>
+</p>
+<stage type="pull">Tirant sa montre. </stage>
+<p id="21">
+	<s id="">Il ne va pas tarder à rentrer.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="watch/jump">, examinant la montre et sautant dessus.
+</stage>
+<p id="22">
+	<s id="1">Oh !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="23">
+	<s id="1">Eh bien ? </s>
+	<s id="2">Lâchez donc !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="24">
+	<s id="1">C'est mama... mama...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="25">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="26">
+	<s id="1">Ma montre !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="27">
+	<s id="1">Comment ! </s>
+	<s id="2">Votre montre ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="28">
+	<s id="1">Ah ! </s>
+	<s id="2">Non... on m'a vovo... volé la mienne... </s>
+	<s id="3">Alors quand je vois une mon... montre...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="29">
+	<s id="1">Vous sautez dessus !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="30">
+	<s id="1">Toutou... toujours.</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="31">
+	<s id="1">C'est bien agréable pour les passants qui regardent l'heure.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="32">
+	<s id="1">Laisse-moi te ra... ra... raconter une histoire ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="33">
+	<s id="1">Vous allez me raconter une histoire ! </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Non !... </s>
+	<s id="4">Non !...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="34">
+	<s id="1">Si ! si !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="35">
+	<s id="1">Vous le voulez ? </s>
+	<s id="2">Allez.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="narration">, racontant.
+</stage>
+<p id="36">
+	<s id="">En... en.. en... en...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="37">
+	<s id="1">Voilà l'âne qui recommence !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="38">
+	<s id="1">En... décembre dernier... j'aperçois place de la Bou... Bourse... un monsieur qui rég... rég... rég... rég...</s>
+</p>
+<stage type="impatient">Il trépigne d'impatience.</stage>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="39">
+	<s id="1">C'est bien fait !... </s>
+	<s id="2">Ça vous apprendra !...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="40">
+	<s id="1">Rég... réglait sa montre !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="41">
+	<s id="1">Très bien ! </s>
+	<s id="2">Reposez-vous.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="42">
+	<s id="1">Je crois reconnaître celle qu'on m'a vo... vo... volée !... </s>
+	<s id="2">Prompt comme la foufou... la fou... foudre, j'arrache la mon... montre et je me sauve avec...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="43">
+	<s id="1">Ça me paraît léger !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="44">
+	<s id="1">Le plus jojo... jojo...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte/stress">, à part, crispé.
+</stage>
+<p id="45">
+	<s id="1">Crrrr... </s>
+	<s id="2">Il me semble qu'on me fait la barbe avec une scie !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="46">
+	<s id="1">Le plus jo... joli !... </s>
+	<s id="2">C'est que la mon... montre n'était pas à moi !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="47">
+	<s id="1">Ah ! </s>
+	<s id="2">Bien !... </s>
+	<s id="3">Elle n'était pas à vous, la montre. </s>
+	<s id="4">Alors, qu'est-ce que vous avez fait ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="48">
+	<s id="1">On cri... cri... on cri... cri...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="49">
+	<s id="1">Comment, on cricri ? ...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="50">
+	<s id="1">On criait au voleur ! </s>
+	<s id="2">La venette me prend et je jette la mon... la mon...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="52">
+	<s id="1">Montre ! </s>
+	<s id="2">Allez !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="52">
+	<s id="1">Dans le para... parapluie d'un monsieur... qui li... lisait les affiches du vau... du vau... du vau...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="53">
+	<s id="1">Quel veau ?...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="54">
+	<s id="1">Du Vau..._deville !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="55">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="56">
+	<s id="1">Et voi... voi... voilà !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="57">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Qu'est-ce que ça me fait, tout ça ? </s>
+	<s id="3">Voyez-vous, vous avez une déplorable habitude... </s>
+	<s id="4">C'est de raconter des histoires... </s>
+	<s id="5">Ça ne vous va pas !...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="58">
+	<s id="1">Pour... pour... quoi ça ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="stutter">, bégayant.
+</stage>
+<p id="59">
+	<s id="1">Papar... ce que !...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="60">
+	<s id="1">Fafar... farceur !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="61">
+	<s id="1">Cocor... nichon ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="62">
+	<s id="1">Allez faire vos additions !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="63">
+	<s id="1">Bon... bon... bonjour !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="64">
+	<s id="1">Bon... bon... bonsoir !...</s>
+</p>
+<stage type="entrance/location">Vachonnet entre à gauche.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Babochet, puis Céline.
+</stage>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Pristi ! si ce n'est pas à vous rendre enragé !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="call/entrance/location">, appelant et entrant par la droite.
+</stage>
+<p id="2">
+	<s id="1">Babochet ! </s>
+	<s id="2">Babochet ! </s>
+	<s id="3">Ah ! </s>
+	<s id="3">Tu as allumé ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="3">
+	<s id="1">Douze bougies... à la fois !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="play">, disposant les cartes et les jetons sur la table de jeu.
+</stage>
+<p id="4">
+	<s id="1">Tu as bien porté toutes les lettres d'invitation pour le bal de ce soir ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="5">
+	<s id="1">Oui, mamzelle_Benoît... </s>
+	<s id="2">Je suis même monté chez Monsieur_de_Pontbédouin, qui a une si jolie femme de chambre !... </s>
+	<s id="3">Il viendra...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="6">
+	<s id="1">Et les glaces, les gâteaux... tout cela est commandé ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="7">
+	<s id="1">Oui, mamzelle_Benoît.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="8">
+	<s id="1">Mon_Dieu ! </s>
+	<s id="2">Ne m'appelle donc pas Mademoiselle_Benoît ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="9">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="10">
+	<s id="1">Je sais mon nom... où est mon père ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="11">
+	<s id="1">Monsieur Benoît ? </s>
+	<s id="2">Il est sorti à deux heures en habit bleu et en cravate blanche.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="12">
+	<s id="1">Ah ! </s>
+	<s id="2">Où est-il allé ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="13">
+	<s id="1">Monsieur_Benoît ? </s>
+	<s id="2">Je ne sais pas !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="14">
+	<s id="1">Mais ne dis donc pas toujours Monsieur_Benoît ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage>, étonné.
+</stage>
+<p id="16">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="17">
+	<s id="1">Il n'est venu personne ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="18">
+	<s id="1">Si... </s>
+	<s id="2">Il est là.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="19">
+	<s id="1">Qui ça ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="20">
+	<s id="1">Votre prétendu...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="quick">, vivement.
+</stage>
+<p id="21">
+	<s id="1">Monsieur Brossard ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="22">
+	<s id="1">Non... l'autre... le Vachonnet !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="23">
+	<s id="1">Ah ! </s>
+	<s id="2">Quel ennui !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="24">
+	<s id="1">Ça ! </s>
+	<s id="2">Je ne comprends pas comment votre père peut hésiter entre les deux.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="25">
+	<s id="1">Il a une foule de préjugés contre la profession de monsieur Brossard.</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="26">
+	<s id="1">Mais elle n'a rien de malpropre, sa profession... un avocat !...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="27">
+	<s id="1">Et quel talent !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="28">
+	<s id="1">Oh ! </s>
+	<s id="2">Pour ce qui est du talent... en voilà un qui n'a pas sa langue dans sa poche ! </s>
+	<s id="3">Quel magnifique robinet d'éloquence !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="29">
+	<s id="1">Et comme il est aimable !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="30">
+	<s id="1">C'est ce que je voulais dire, quel aimable robinet...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="31">
+	<s id="1">Ce n'est pas comme Monsieur_Vachonnet...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="32">
+	<s id="1">Enfin, c'est aujourd'hui que monsieur votre père doit se prononcer...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<stage type="title">Air : A nos parents, a nos amis,</stage>
+	<l id="1">Il ne pouvait plus s'en défendre,</l>
+	<l id="2">Oui, c'est ce soir qu'il a promis</l>
+	<l id="3">De présenter enfin son gendre.</l>
+	<l id="4">Est-ce le bon qu'il choisira ?</l>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="33">
+	<s id="1">Un père offre des garanties.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="34">
+	<s id="1">Oui, son bon coeur l'éclairera.</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="35">
+	<s id="1">Sans compter ses douze bougies.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="location">, dans la coulisse.
+</stage>
+<p id="36">
+	<s id="1">Babochet !... </s>
+	<s id="2">Babochet !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="37">
+	<s id="1">C'est Monsieur_Brossard !</s>
+</p>
+<stage type="entrance">Brossard entre.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Céline, Babochet, Brossard.
+</stage>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="1">
+	<s id="1">Babochet ! </s>
+	<s id="2">Un verre d'eau !</s>
+</p>
+<stage type="fall/sit">Il tombe dans un fauteuil.</stage>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="2">
+	<s id="1">Tiens ! </s>
+	<s id="2">Le robinet qui demande un verre d'eau !</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="3">
+	<s id="1">Voilà, Monsieur_Brossard !</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="toward">, à Brossard.
+</stage>
+<p id="4">
+	<s id="1">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="stand">, se levant.
+</stage>
+<p id="5">
+	<s id="1">Oh ! </s>
+	<s id="2">Pardon, Mademoiselle_Céline... </s>
+	<s id="3">Je ne vous avais pas vue... </s>
+	<s id="4">Ce n'est rien... </s>
+	<s id="5">Ceci vous représente un avocat triomphant et altéré... </s>
+	<s id="6">Je sors du palais...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="6">
+	<s id="1">Vous venez de plaider ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="7">
+	<s id="1">Pendant trois heures... sans respirer ! </s>
+	<s id="2">Vous permettez ?...</s>
+</p> 
+<stage type="breath">Il respire fortement.</stage>
+<p id="8">
+	<s id="1">Ouf !... </s>
+	<s id="2">Ça fait du bien.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="9">
+	<s id="1">Quelle plaisanterie !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="10">
+	<s id="1">Vrai !... </s>
+	<s id="2">J'ai été superbe... </s>
+	<s id="3">Je suis encore tout étourdi de mon succès... </s>
+	<s id="4">Quand je pense que je l'ai fait acquitter !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="11">
+	<s id="1">Qui ça ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="12">
+	<s id="1">Un petit gredin !...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="13">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="14">
+	<s id="1">Oh ! </s>
+	<s id="2">Mais là ! </s>
+	<s id="3">Ce que nous appelons un joli gredin ! </s>
+	<s id="4">On me nomme son défenseur d'office... </s>
+	<s id="5">Le farceur avait escamoté une montre dans son parapluie... </s>
+	<s id="6">C'était clair, c'était évident, ça crevait les yeux ! </s>
+	<s id="7">Eh bien ! </s>
+	<s id="8">Je leur ai prouvé le contraire... </s>
+	<s id="9">Moi, Brossard ! </s>
+	<s id="10">Et je l'ai rendu à la société... qui est sa mère... nourrice !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="laugh">, riant.
+</stage>
+<p id="15">
+	<s id="1">Un joli cadeau que vous lui avez fait là, à la société !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="16">
+	<s id="1">Ah ! </s>
+	<s id="2">Dame ! </s>
+	<s id="3">Tant pis ! </s>
+	<s id="4">On me donne un nègre à blanchir... </s>
+	<s id="5">Je le blanchis !... </s>
+	<s id="6">C'est mon état.</s>
+</p>
+<stage type="happy">Gaiement.</stage>
+<p id="16">
+	<s id="1">J'entreprends le nègre !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="17">
+	<s id="1">Mais c'est très mal... </s>
+	<s id="2">Faire acquitter un coquin !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="18">
+	<s id="1">Parbleu ! </s>
+	<s id="2">Si c'était un honnête, homme, où serait le mérite ?</s>
+</p>
+<stage type="title">Air : Tenez, moi, je suis un bonhomme.</stage>
+	<l id="5">L'éloquence est un cosmétique</l>
+	<l id="6">Qu'il faut dispenser avec soin,</l>
+	<l id="7">C'est à la laideur qu'il s'applique,</l>
+	<l id="8">La beauté n'en a pas besoin.</l>
+	<l id="9">Ses effets, lorsqu'ils sont rapides,</l>
+	<l id="10">Vous font surtout beaucoup d'honneur,</l>
+	<l id="11">Car plus il efface de rides,</l>
+	<l id="12">Plus ou vante le parfumeur.</l>
+<p id="19">
+	<s id="1">On sanglotait dans l'auditoire... </s>
+	<s id="2">L'huissier a mis à la porte un monsieur qui sanglotait trop... </s>
+	<s id="3">Brave homme, va !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="entrance">, entrant avec un verre d'eau.
+</stage>
+<p id="20">
+	<s id="1">Voilà, Monsieur_Brossard... </s>
+	<s id="2">Voilà, Monsieur_Brossard !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="drink">, buvant.
+</stage>
+<p id="21">
+	<s id="1">Ah ! </s>
+	<s id="2">Merci !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="22">
+	<s id="">C'est-y assez sucré, Monsieur_Brossard ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="23">
+	<s id="1">Mon ami, ne m'appelle donc pas toujours Monsieur_Brossard.</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="24">
+	<s id="1">Tiens ! </s>
+	<s id="2">Lui aussi !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="give">, lui rendant le verre.
+</stage>
+<p id="25">
+	<s id="1">Emporte !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="aparte/exit">, à part, sortant.
+</stage>
+<p id="26">
+	<s id="">Oui, Monsieur_Brossard !...</s>
+</p>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="toward">, à Céline.
+</stage>
+<p id="27">
+	<s id="1">Enfin, nous voilà seuls... </s>
+	<s id="2">Nous pouvons parler de nos projets d'avenir... </s>
+	<s id="3">D'abord, Mademoiselle, permettez-moi de vous inviter pour la première valse, la première contredanse, la première polka.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="28">
+	<s id="1">Les trois premières !... </s>
+	<s id="2">Mais qu'est-ce qu'on dira ?...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="29">
+	<s id="1">On dira... que j'ai du goût.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Céline, Brossard, Benoît.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="quick/stress">, entrant vivement et très ému.
+</stage>
+<p id="1">
+	<s id="1">Où est-il ? </s>
+	<s id="2">Où est-il, ce cher ami ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="2">
+	<s id="1">Monsieur Benoît ! </s>
+	<s id="2">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Brossard... </s>
+	<s id="3">Embrasse-moi !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="4">
+	<s id="1">Avec plaisir.</s>
+</p>
+<stage type="kiss">Ils s'embrassent.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="5">
+	<s id="1">Et toi, ma fille... </s>
+	<s id="2">Ma chère fille !... </s>
+	<s id="3">Embrasse-moi aussi !</s>
+</p>
+<stage type="kiss">Il l'embrasse.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="6">
+	<s id="1">Qu'est-ce qu'il a ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage>, regardant Brossard avec attendrissement.
+</stage>
+<p id="7">
+	<s id="1">Et dire que j'avais tant hésité... </s>
+	<s id="2">Va t'habiller, ma fille... </s>
+	<s id="3">Brossard, tu seras mon gendre !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="8">
+	<s id="1">Comment ! </s>
+	<s id="2">Bien vrai ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="9">
+	<s id="1">Céline, tu seras sa femme !...</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="10">
+	<s id="1">Quel bonheur !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="11">
+	<s id="1">Mais va donc t'habiller !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="12">
+	<s id="1">J'y vais, mon père, j'y vais !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="13">
+	<s id="1">Mais qu'est-il donc arrivé ?</s>
+</p>
+<stage type="exit">Elle sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Benoît, Brossard.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="1">
+	<s id="1">Brossard... </s>
+	<s id="2">Je suis vaincu... </s>
+	<s id="3">Tu l'emportes !... </s>
+	<s id="4">Laisse-moi te regarder, t'admirer !... </s>
+	<s id="5">Qu'il est beau ! </s>
+	<s id="6">Moi qui te considérais comme un petit homme ordinaire... avec du ventre...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="dress">, serrant son gilet.
+</stage>
+<p id="2">
+	<s id="1">Par exemple !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="3">
+	<s id="1">Vrai ! </s>
+	<s id="2">Tu me déplaisais, mon ami... </s>
+	<s id="3">Je te préférais Vachonnet...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="4">
+	<s id="1">Il est bègue...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="5">
+	<s id="1">Oui, mais c'est un commerçant !... </s>
+	<s id="2">N'en parlons plus ; tu es grand, tu es immense, tu as cent_coudées !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="6">
+	<s id="1">Vous êtes bien bon... </s>
+	<s id="2">Pourquoi ça ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="7">
+	<s id="1">Mais j'en sors, mon ami, j'en sors !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="8">
+	<s id="1">D'où ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="9">
+	<s id="1">De l'audience !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="10">
+	<s id="1">Ah ! </s>
+	<s id="2">Bah !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="11">
+	<s id="1">Je me suis dit : avant de lui donner ma fille, il faut que j'entende parler ce gaillard-là... </s>
+	<s id="2">Et s'il ne plaide pas à mon idée... </s>
+	<s id="3">Tout est rompu.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="12">
+	<s id="1">Sapristi ! ...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="13">
+	<s id="1">Entre nous, j'espérais que tu barboterais... </s>
+	<s id="2">Que veux-tu ? </s>
+	<s id="3">J'ai un faible pour Vachonnet !... </s>
+	<s id="4">J'entre dans le prétoire... </s>
+	<s id="5">C'est la première fois que je vais dans cet établissement... </s>
+	<s id="6">J'étais fort ému... </s>
+	<s id="7">Je me cache dans un coin... </s>
+	<s id="8">On appelle ta cause... </s>
+	<s id="9">Tu te lèves !... </s>
+	<s id="10">Ah ! </s>
+	<s id="11">Mon ami, que la toque te va bien... </s>
+	<s id="12">Je te prierai de la mettre quelquefois en famille.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="14">
+	<s id="1">Comment donc ! </s>
+	<s id="2">Tous les dimanches... au dessert.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="15">
+	<s id="1">Tu parles... </s>
+	<s id="2">Je t'avouerai qu'au premier abord ton client ne me revenait pas beaucoup.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="16">
+	<s id="1">Je le crois bien !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="17">
+	<s id="1">Mais en t'écoutant, il m'a semblé qu'une auréole descendait d'en haut pour éclairer cette noble physionomie !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="18">
+	<s id="1">Vraiment ?</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="19">
+	<s id="1">Il est poétique, le beau-père.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="20">
+	<s id="1">Peu à peu, je sentis les larmes me venir aux yeux et les sanglots... car j'ai sangloté.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="21">
+	<s id="1">Allons donc !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="22">
+	<s id="1">Au point que l'huissier m'a mis à la porte...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="23">
+	<s id="1">Comment ! </s>
+	<s id="2">C'était vous !</s>
+</p> 
+<stage type="touch">Lui serrant la main.</stage>
+<p id="24">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est gentil... </s>
+	<s id="3">Merci !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="25">
+	<s id="1">Mais ça m'était égal, j'avais entendu ta péroraison j'avais vu le bouquet !... </s>
+	<s id="2">Et j'apprenais un instant après que ton client, le vertueux Malvoisie... était acquitté...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="26">
+	<s id="1">Oui, beau-père... à l'unanimité... moins trois voix !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="quick">, vivement.
+</stage>
+<p id="27">
+	<s id="1">Comment ! </s>
+	<s id="2">Moins trois voix ! </s>
+	<s id="3">Ça fait pitié ! </s>
+	<s id="4">Un si magnifique caractère ! </s>
+	<s id="5">Un homme qui a sauvé une femme des flots ! </s>
+	<s id="6">Un vieillard !... </s>
+	<s id="7">Que dis-je, un commerçant !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="28">
+	<s id="1">Oui... </s>
+	<s id="2">Un Vachonnet, enfin !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="29">
+	<s id="1">Un Vachonnet de l'incendie... et un enfant... je ne sais plus de quoi !... </s>
+	<s id="2">Moins trois voix ! </s>
+	<s id="3">C'est honteux !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="30">
+	<s id="1">Songez qu'il y avait contre lui des charges accablantes.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="31">
+	<s id="1">Des charges ! </s>
+	<s id="2">Quelles charges ?... </s>
+	<s id="3">Quant à moi, j'étais convaincu... </s>
+	<s id="4">Surtout quand tu t'es écrié avec âme !</s>
+</p> 
+<stage type="declamate">Déclamant. </stage>
+<p id="32">
+	<s id="1">Cet homme que l'on soupçonne, messieurs, cet homme que l'on accuse, cet homme que l'on flétrit... </s>
+	<s id="2">Je voudrais... </s>
+	<s id="3">Oui... </s>
+	<s id="4">Je voudrais qu'il fût mon frère !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="33">
+	<s id="1">Ça a bien fait, n'est-ce pas ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="34">
+	<s id="1">Je t'en réponds, que ça a bien fait.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="35">
+	<s id="1">C'est ce que nous appelons une ficelle.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="36">
+	<s id="1">Comment ! </s>
+	<s id="2">Une ficelle ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="37">
+	<s id="1">Oui, un mouvement oratoire.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="quiet">, de bonne foi.
+</stage>
+<p id="38">
+	<s id="1">Alors, mon ami, mon compliment... </s>
+	<s id="2">Tu es sublime dans la ficelle !... </s>
+	<s id="3">Avocat ! </s>
+	<s id="4">Est-il une plus noble profession ? </s>
+	<s id="5">Ça m'a décidé tout de suite à te nommer mon gendre !... </s>
+	<s id="6">Ah ! </s>
+	<s id="7">Tu dois te sentir la conscience heureuse... </s>
+	<s id="8">Le coeur satisfait !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="39">
+	<s id="1">Moi ? </s>
+	<s id="2">Pourquoi ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="40">
+	<s id="1">Avoir fait acquitter un innocent !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="cold">, froidement.
+</stage>
+<p id="41">
+	<s id="">Oui, oui, oui...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="42">
+	<s id="1">L'avoir rendu à sa famille ! </s>
+	<s id="2">Car c'est un père de famille... cinq enfants !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, froidement.
+</stage>
+<p id="43">
+	<s id="1">Oui, oui, oui...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="44">
+	<s id="1">L'as-tu revu au moins ? </s>
+	<s id="2">Lui as tu serré la main ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="45">
+	<s id="1">Ma foi, non !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="46">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Tu le reverras !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="47">
+	<s id="1">Oh ! </s>
+	<s id="2">Je ne crois pas !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="48">
+	<s id="1">Si... si... </s>
+	<s id="2">Je t'ai ménagé une surprise.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="49">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="50">
+	<s id="1">À la sortie de l'audience... </s>
+	<s id="2">Encore tout ému, tout transporté, je lui ai fait parvenir une lettre d'invitation pour notre bal.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, bondissant.
+</stage>
+<p id="51">
+	<s id="1">Allons donc ! </s>
+	<s id="2">C'est impossible ! </s>
+	<s id="3">Une invitation, à Malvoisie ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="52">
+	<s id="1">Oui... au noble Malvoisie ? </s>
+	<s id="2">À ton frère !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="53">
+	<s id="1">Mon frère ! </s>
+	<s id="2">Mon frère !... </s>
+	<s id="3">Que diable, un homme qui s'est assis sur les bancs...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="54">
+	<s id="1">Un innocent ! </s>
+	<s id="2">La société lui doit une réparation... et je me suis chargé de la lui donner. </s>
+	<s id="3">Voilà comme je suis !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="55">
+	<s id="1">Oui ?</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="56">
+	<s id="1">Il est bête comme les souliers d'un Auvergnat ! </s>
+	<s id="2">Heureusement que l'autre ne viendra pas, il se rendra justice.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="entrance">, entrant.
+</stage>
+<p id="57">
+	<s id="1">Papa, papa, vos invités arrivent.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="58">
+	<s id="1">Venez, mon gendre, venez.... </s>
+	<s id="2">Je vais vous présenter officiellement.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="59">
+	<s id="1">Enfin !</s>
+</p>
+<stage type="toward">À Céline.</stage>
+<p id="60">
+	<s id="1">N'oubliez pas les trois premières !</s>
+</p>
+<stage type="exit/locaiton">Benoît et Brossard sortent par la droite.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Céline puis Malvoisie.
+</stage>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="alone/search">, seule cherchant quelque chose.
+</stage>
+<p id="1">
+	<s id="1">Comprend-on ma tante, qui en arrivant a perdu son éventail... </s>
+	<s id="2">Un éventail de prix ! </s>
+	<s id="3">Mais où peut-il être ?</s>
+</p>
+<stage type="search">Elle cherche.</stage>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="location">, annonçant du fond.
+</stage>
+<p id="2">
+	<s id="1">Monsieur Malvoisie !</s>
+</p>
+<stage type="entrance/wave">Malvoisie entre et salue de tous côtés, embarrassé de sa contenance.</stage>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="aparte/watch">, à part, le regardant.
+</stage>
+<p id="3">
+	<s id="1">Un invité sans doute. </s>
+</p>
+<stage type="wave">Saluant.</stage>
+<p id="4">
+	<s id="1">Monsieur !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="5">
+	<s id="1">Pardon... Mademoiselle... le nommé Benoît, s'il vous plaît ?</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="6">
+	<s id="1">C'est mon père, Monsieur, je vais le prévenir.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="7">
+	<s id="1">Vous êtes la fille du bourgeois ?</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="estonish">, étonnée.
+</stage>
+<p id="8">
+	<s id="1">Comment, du bourgeois ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="9">
+	<s id="1">Alors, permettez-moi, de vous remettre cet éventail que j'ai trouvé dans l'escalier.</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="get/quick">, le prenant vivement.
+</stage>
+<p id="10">
+	<s id="1">Celui de ma tante... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Qu'elle va être heureuse !</s>
+</p> 
+<stage type="exit">En sortant.</stage>
+<p id="11">
+	<s id="">Je vous remercie, monsieur... je vous remercie...</s>
+</p>
+<stage type="exit">Elle disparaît.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. </head>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">Et ils ont osé m'accuser !... </s>
+	<s id="2">Un homme qui rend des éventails...</s>
+</p>
+<stage type="think">Par réflexion.</stage>
+<p id="2">
+	<s id="1">Je crois qu'on dit éventaux... </s>
+	<s id="2">Moi, un honnête coiffeur qui n'ai jamais pris un cheveu à qui que ce soit... </s>
+	<s id="3">Excepté un cheveu blanc par-ci par-là... </s>
+	<s id="4">Et encore j'en avais l'autorisation.</s>
+</p> 
+<stage type="spit">Il crache par terre.</stage>
+<p id="3">
+	<s id="1">C'est bien meublé ici... </s>
+	<s id="2">Quel peut être ce Benoît qui m'invite à ses soirées, et dans quel but ?</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Malvoisie, Benoît, rentrant par la gauche.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à lui-même.
+</stage>
+<p id="1">
+	<s id="1">Allons, mes invités arrivent.</s>
+</p>
+<stage type="watch">Apercevant Malvoisie.</stage>
+<p id="2">
+	<s id="1">Encore un ! </s>
+	<s id="2">Mais c'est lui... Malvoisie !</s>
+</p>
+<stage type="touch">Lui serrant les mains.</stage>
+<p id="3">
+	<s id="1">Monsieur, vous êtes une de mes sympathies.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="4">
+	<s id="1">Monsieur, certainement... </s>
+	<s id="2">Pardon... </s>
+	<s id="3">Le nommé Benoît, s'il vous plaît ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="5">
+	<s id="1">C'est moi !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="6">
+	<s id="1">C'est drôle... </s>
+	<s id="2">Je ne le connais pas !</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="7">
+	<s id="1">En rentrant, ma portière m'a remis une lettre d'invitation...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="8">
+	<s id="1">La mienne ! </s>
+	<s id="2">J'ai pensé que vous voudriez bien nous faire l'honneur...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="9">
+	<s id="1">Est-ce pour coiffer ?</s>
+</p>
+<stage type="get/threat">Tirant un fer de sa poche.</stage>
+<p id="10">
+	<s id="1">J'ai apporté...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="11">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="12">
+	<s id="1">Je suis coiffeur.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="13">
+	<s id="1">Coiffeur !... </s>
+	<s id="2">N'importe, la société vous doit une réparation et je suis heureux... </s>
+	<s id="3">Ah çà ! </s>
+	<s id="4">Et Madame ?... </s>
+	<s id="5">Vous n'avez pas amené madame.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="14">
+	<s id="1">Moi ?... </s>
+	<s id="2">Je suis garçon.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="15">
+	<s id="1">Garçon !... </s>
+	<s id="2">Et vos cinq enfants ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="16">
+	<s id="1">Je n'en ai pas.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="17">
+	<s id="1">Alors, qu'est-ce que Brossard a donc chanté au tribunal !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="18">
+	<s id="1">Voyez-vous, je n'ai jamais eu qu'un sentiment dans ma vie... pour une blonde... </s>
+	<s id="2">Il était trois heures du matin...</s>
+</p>
+<stage type="spit">Il crache par terre.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="19">
+	<s id="1">Tiens ! </s>
+	<s id="2">Il crache par terre.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="20">
+	<s id="1">Son bourgeois était sorti... </s>
+	<s id="2">Il rentre, je me jette dans un placard et...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="location">, en dehors, au fond.
+</stage>
+<p id="21">
+	<s id="1">Où est donc le beau-père ?</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Malvoisie, Benoît, Brossard.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="1">
+	<s id="1">Ah ! </s>
+	<s id="2">Voilà Brossard !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="2">
+	<s id="1">Mon avocat !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="3">
+	<s id="1">Malvoisie !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="toward/show">, à Malvoisie, lui montrant Brossard.
+</stage>
+<p id="4">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous pouvez vous vanter d'avoir en lui un ami... un frère !... comme dans son plaidoyer.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="enthousiasm/toward">, avec effusion à Brossard.
+</stage>
+<p id="5">
+	<s id="1">Ah ! </s>
+	<s id="2">Monsieur !... </s>
+	<s id="3">Si j'osais... </s>
+	<s id="4">Je vous embrasserais !</s>
+</p>
+<stage type="hugh">Il veut se jeter dans ses bras.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="stop/low">, l'arrêtant et bas.
+</stage>
+<p id="6">
+	<s id="1">C'est bien... </s>
+	<s id="2">Trouvez un prétexte et décampez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="7">
+	<s id="1">Plaît il ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="touch">, serrant les mains de Malvoisie
+</stage>
+<p id="8">
+	<s id="1">Malvoisie... </s>
+	<s id="2">Vous êtes une de mes sympathies !</s>
+</p>
+<stage type="spit">Malvoisie crache.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="9">
+	<s id="1">Il a encore craché par terre... </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="10">
+	<s id="1">C'est beau, c'est grand ce que vous avez fait.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="11">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="12">
+	<s id="1">Et l'on a pu vous soupçonner !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Oui !... </s>
+	<s id="3">Figurez-vous que je regardais tranquillement l'affiche du Vaudeville... </s>
+	<s id="4">Un monsieur me jette une montre dans mon parapluie...</s>
+</p>
+<stage type="spit">Il crache par terre.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="14">
+	<s id="1">C'est un brave homme... mais il a une fichue habitude.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="15">
+	<s id="1">On m'arrête... </s>
+	<s id="2">On me fouille.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="low/toward">, bas à Malvoisie.
+</stage>
+<p id="16">
+	<s id="1">En voilà assez !... </s>
+	<s id="2">Partez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="17">
+	<s id="1">Est-ce que la soirée est finie ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="18">
+	<s id="1">Mais pas du tout !... </s>
+	<s id="2">Ça commence !... </s>
+	<s id="3">Entendez-vous l'orchestre ?</s>
+</p>
+<stage type="entrance/location">On voit passer plusieurs danseuses dans le second salon.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="19">
+	<s id="1">Oh ! </s>
+	<s id="2">La jolie coiffure !... </s>
+	<s id="3">Des perles fines !</s>
+</p> 
+<stage type="toward">À Benoît.</stage>
+<p id="20">
+	<s id="1">Vous permettez que j'examine.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="21">
+	<s id="1">Parbleu !... </s>
+	<s id="2">Allez donc !</s>
+</p>
+<stage type="exit">Malvoisie entre dans le salon.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Benoît, Brossard.
+</stage>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="1">
+	<s id="1">Des perles fines ! </s>
+	<s id="2">Est-ce qu'il serait venu pour travailler ?... </s>
+	<s id="3">Il n'y a pas à hésiter, je vais prévenir le beau-père !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="location">, redescendant.
+</stage>
+<p id="2">
+	<s id="1">Il a l'air d'un brave homme !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="3">
+	<s id="1">Beau-père, qu'est-ce que vous diriez si Malvoisie ?...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="4">
+	<s id="1">Le noble Malvoisie !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="5">
+	<s id="1">Oui... </s>
+	<s id="2">Si le noble Malvoisie était un filou ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="6">
+	<s id="1">Lui !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="7">
+	<s id="1">Qu'est-ce que vous diriez ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="8">
+	<s id="1">Ce que je dirais ?... </s>
+	<s id="2">Mais je dirais que tu n'es qu'un saltimbanque et un histrion... qui abuse de la parole... </s>
+	<s id="3">Ce don des dieux.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="9">
+	<s id="1">Cependant, beau-père...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="10">
+	<s id="1">Comment ! </s>
+	<s id="2">Tu m'aurais fait pleurer... </s>
+	<s id="3">Tu m'aurais fait mettre à la porte de l'audience... </s>
+	<s id="4">Pour un escroc !... </s>
+	<s id="5">Pour un bandit ! </s>
+	<s id="6">Mais alors ta profession ne serait plus un sacerdoce ! </s>
+	<s id="7">Et je te mépriserais comme un danseur_de_corde ou un avaleur_de_sabres ! </s>
+	<s id="8">Et tu n'aurais pas ma fille !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="11">
+	<s id="1">Cependant tous les grands orateurs... </s>
+	<s id="2">Cicéron lui-même...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="12">
+	<s id="1">Mais je ne donnerais pas ma fille à Cicéron... sans prendre des renseignements !... </s>
+	<s id="2">Je lui préférerais</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="13">
+	<s id="1">Voyons... du calme !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="14">
+	<s id="1">Je t'accorde Céline parce que tu as défendu l'innocence... mais du moment que l'innocence est un filou... et qui crache par terre encore !... </s>
+	<s id="2">Je te la retire... </s>
+	<s id="3">Où est Vachonnet !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, à part.
+</stage>
+<p id="15">
+	<s id="1">Sapristi ! </s>
+	<s id="2">Me voilà bien !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="call">, appelant.
+</stage>
+<p id="16">
+	<s id="1">Vachonnet !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="17">
+	<s id="1">Un instant, que diable !... </s>
+	<s id="2">J'ai dit : Si Malvoisie était un filou ? </s>
+	<s id="3">Mais il ne l'est pas.</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="18">
+	<s id="1">Après tout, il a été acquitté.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="19">
+	<s id="1">Je voulais vous faire peur !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="20">
+	<s id="1">C'est ce que nous verrons... </s>
+	<s id="2">J'ai des soupçons... </s>
+	<s id="3">D'abord il n'est pas marié, il n'a pas d'enfants... </s>
+	<s id="4">Où sont-ils ses cinq enfants ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="21">
+	<s id="1">Oh ! </s>
+	<s id="2">C'est un détail !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="22">
+	<s id="1">Tout ça c'est louche ; je te préviens que je vais le surveiller... </s>
+	<s id="2">Et si je le trouve le moindrement véreux... crac ! </s>
+	<s id="3">Tout est rompu !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="23">
+	<s id="1">C'est convenu !</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="24">
+	<s id="1">Je n'ai qu'un moyen, c'est de le camper tout de suite à la porte ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="25">
+	<s id="1">Adieu... beau-père !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="26">
+	<s id="1">Beau-père ! </s>
+	<s id="2">Pas encore...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="27">
+	<s id="1">Oh ! </s>
+	<s id="2">Je suis bien tranquille !</s>
+</p>
+<stage type="together">ENSEMBLE.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<stage type="title">Air :</stage>
+	<l id="13">Ah ? Quelle sotte aventure !</l>
+	<l id="14">Trouver un tel garnement</l>
+	<l id="15">Installé chez ma future... !</l>
+	<l id="16">Il faut qu'il parte à l'instant.</l>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+	<l id="17">À voir sa sotte figure !</l>
+	<l id="18">Il est positif qu'il ment.</l>
+	<l id="19">Que penser de son allure ?</l>
+	<l id="20">C'est à s'y perdre, vraiment.</l>
+<stage type="entrance/danse">Brossard entre dans le bal.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Benoît puis Vachonnet et Babochet.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="alone">, seul.
+</stage>
+<p id="1">
+	<s id="1">C'est drôle !... </s>
+	<s id="2">Pourquoi cette émotion... et puis ce qu'il vient de me dire... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Je me refroidis pour Brossard,... un avocat ! </s>
+	<s id="5">Qu'est-ce que c'est que ça, un avocat ? </s>
+	<s id="6">Tandis qu'un commerçant !...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="exit/carry">, sortant de la gauche avec des papiers.
+</stage>
+<p id="2">
+	<s id="1">Le beau... beau... beau-père.</s>
+</p>
+<stage type="closer">S'approchant de Benoît. </stage>
+<p id="3">
+	<s id="1">En... en... en... en...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="4">
+	<s id="1">C'est Vachonnet ! </s>
+	<s id="2">Ce brave garçon...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="show">, montrant des papiers.
+</stage>
+<p id="5">
+	<s id="1">Enchanté... </s>
+	<s id="2">J'ai trou... trou... trou... trou...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="6">
+	<s id="1">Tu as trou trou... quoi ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="7">
+	<s id="1">Trouvé l'erreur...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="8">
+	<s id="1">En voilà un qui n'abuse pas de la parole... </s>
+	<s id="2">Ce don des dieux !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="9">
+	<s id="1">Vous aviez retete... tenu... trois... et il fallait tretete.. tenir quatre !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="get">, prenant le papier.
+</stage>
+<p id="10">
+	<s id="1">Il a raison... </s>
+	<s id="2">Quel bon comptable !... </s>
+	<s id="3">Voilà le gendre qu'il me faudrait.</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="11">
+	<s id="1">J'ai vu mon, on... mon oncle... </s>
+	<s id="2">Il donne les vingt... les vingt...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="12">
+	<s id="1">Quels vins !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="13">
+	<s id="1">Les vingt mille francs de plus... pour la do... dot.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="14">
+	<s id="1">Vingt mille francs de plus pour la dodot ! </s>
+	<s id="2">Bigre ! </s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="15">
+	<s id="1">C'est drôle, comme je me refroidis pour Brossard.</s>
+</p> 
+<stage type="loud">Haut.</stage>
+<p id="16">
+	<s id="1">Vachonnet, espérance et confiance ! </s>
+	<s id="2">Je ne te dis que ça... </s>
+	<s id="3">Si je peux pincer l'autre... </s>
+	<s id="4">Le Malvoisie !... </s>
+	<s id="5">Et je le pincerai !...</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="exit/locaton">, sortant de la droite et parlant à la cantonade.
+</stage>
+<p id="17">
+	<s id="1">Oui, Messieurs, tout de suite...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="18">
+	<s id="1">Qu'est-ce que c'est ?</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="19">
+	<s id="1">On demande un quatrième au whist !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="20">
+	<s id="1">Un quatrième ?... </s>
+	<s id="2">Oh diable trouver ?... </s>
+	<s id="3">Eh ! </s>
+	<s id="4">Parbleu, Vachonnet ?</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="21">
+	<s id="1">Non, je veux dan... dan... danser.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="22">
+	<s id="1">Toi ! </s>
+	<s id="2">Allons donc ! </s>
+	<s id="3">Tu ne peux pas danser... </s>
+	<s id="4">Tu es bègue !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="23">
+	<s id="1">Avec ma fu... fu... future !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="24">
+	<s id="1">Non ! </s>
+	<s id="2">Va te mettre au whist !... </s>
+	<s id="3">Il est défendu de parler... voilà un jeu qui te va... </s>
+	<s id="4">Viens, je vais t'installer.</s>
+</p>
+<stage type="push">Il le pousse à droite.</stage>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="aparte">, à part.
+</stage>
+<p id="25">
+	<s id="1">Je trouve ça en... en... en...</s>
+</p>
+<stage type="exit/together">Il entre à droite avec Benoît.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Babochet, puis Malvoisie et Brossard.
+</stage>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="imitate">, imitant Vachonnet.
+</stage>
+<p id="1">
+	<s id="1">Il trouve ça en., en... en... en... </s>
+	<s id="2">Est-ce qu'il va braire comme ça toute la soirée ?...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="pull">, amenant Malvoisie par le collet de son habit.
+</stage>
+<p id="2">
+	<s id="1">Par ici, et à nous deux !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="3">
+	<s id="1">Mais, qu'est-ce que vous me voulez ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="4">
+	<s id="1">Babochet... </s>
+	<s id="2">Va-t'en !</s>
+</p>
+<stage type="exit">Babochet sort.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="toward">, à Malvoisie.
+</stage>
+<p id="5">
+	<s id="1">Maintenant, expliquons-nous !... </s>
+	<s id="2">Que venez-vous faire ici ? </s>
+	<s id="3">Parlez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="6">
+	<s id="1">Mais, dame !... </s>
+	<s id="2">J'étais venu avec l'intention de travailler...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="7">
+	<s id="1">Ici ?... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Mais non ! </s>
+	<s id="4">Pas chez mon beau-père !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="8">
+	<s id="1">Pourquoi ça ?...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="9">
+	<s id="1">Il a peut-être déjà commencé.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="10">
+	<s id="1">D'où venez-vous ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="11">
+	<s id="1">Du buffet ! </s>
+	<s id="2">Quelle belle argenterie !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="12">
+	<s id="1">Hein ? </s>
+	<s id="2">Un instant !</s>
+</p>
+<stage type="search">Il plonge vivement les deux mains dans les poches de Malvoisie.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="13">
+	<s id="1">Qu'est-ce qu'il fait ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="get">, retirant deux mouchoirs.
+</stage>
+<p id="14">
+	<s id="1">Deux mouchoirs ! </s>
+	<s id="2">Pourquoi deux mouchoirs ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="15">
+	<s id="1">Je suis enrhumé du cerveau, et alors...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="16">
+	<s id="1">Ta, ta, ta ! </s>
+	<s id="2">Avec moi, ça ne prend pas !</s>
+</p>
+<stage type="get">Lui rendant un mouchoir.</stage>
+<p id="17">
+	<s id="1">En Voilà un... </s>
+	<s id="2">C'est bien assez !</s>
+</p>
+<stage type="get">Il met l'autre dans sa poche.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="18">
+	<s id="1">Il me taxe ! </s>
+	<s id="2">Mon avocat me fait mon mouchoir, à présent !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="19">
+	<s id="1">Maintenant, vite ! </s>
+	<s id="2">Votre chapeau ! </s>
+	<s id="3">Votre paletot.</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Brossard, Malvoisie, Benoît, puis Babochet, puis Céline.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="entrance/location/aparte">, entrant par la gauche et à part.
+</stage>
+<p id="1">
+	<s id="1">Il faut absolument que je pince Malvoisie... et je le pincerai !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="2">
+	<s id="1">Allons ! </s>
+	<s id="2">En route ! </s>
+	<s id="3">Ne flânons pas !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="3">
+	<s id="1">Il le renvoie ! </s>
+	<s id="2">Mais s'il s'en va... je ne le pincerai pas ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="4">
+	<s id="1">Où allez-vous donc ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="5">
+	<s id="1">Il est obligé de partir... </s>
+	<s id="2">Une affaire très importante...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="6">
+	<s id="1">Par exemple !... </s>
+	<s id="2">Il n'y a pas d'affaires !</s>
+</p>
+<stage type="toward">À Malvoisie.</stage>
+<p id="7">
+	<s id="1">Je vous garde ! </s>
+	<s id="2">Je le veux !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="hesitate">, hésitant.
+</stage>
+<p id="8">
+	<s id="1">Mais c'est que...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="9">
+	<s id="1">Le souper sera splendide et copieux... servi en vermeil.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="10">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="11">
+	<s id="1">Je l'amorce !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="12">
+	<s id="1">Allons, puisque c'est comme ça... </s>
+	<s id="2">Je reste...</s>
+</p>
+<stage type="toward">À Brossard.</stage>
+<p id="13">
+	<s id="1">en vermeil !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="14">
+	<s id="1">Est-ce que le beau-père jouerait contre moi ?</s>
+</p>
+<stage type="location/push/fall">Babochet à la porte du fond, repoussant des messieurs qui se jettent sur son plateau.</stage>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="15">
+	<s id="1">Mais laissez donc !... </s>
+	<s id="2">C'est pour les dames.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="call">, l'appelant.
+</stage>
+<p id="16">
+	<s id="1">Babochet !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="closer">, s'approchant.
+</stage>
+<p id="17">
+	<s id="1">Monsieur ?</s>
+</p>
+<stage type="get/eat/location">Malvoisie prend une glace sur le plateau et la mange au milieu de la scène pendant ce qui suit.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="low/tooward/show">, bas à Babochet, lui montrant Malvoisie.
+</stage>
+<p id="18">
+	<s id="1">Tu vois bien ce monsieur ? </s>
+	<s id="2">Cent_francs pour toi s'il filoute quelque chose.</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="19">
+	<s id="1">Ah ! </s>
+	<s id="2">Bah !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="low">, bas.
+</stage>
+<p id="20">
+	<s id="1">Étale l'argenterie.</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="21">
+	<s id="1">Quant à moi, je vais lui tendre un piège !</s>
+</p>
+<stage type="get/show">Il fait sortir son mouchoir de sa poche et rôde autour de Malvoisie pour se le faire prendre.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, appelant.
+</stage>
+<p id="22">
+	<s id="1">Babochet !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="closer">, s'approchant.
+</stage>
+<p id="23">
+	<s id="1">Monsieur ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="low/show">, bas, lui montrant Malvoisie.
+</stage>
+<p id="24">
+	<s id="1">Tu vois bien ce monsieur... </s>
+	<s id="2">Cent_francs pour toi s'il sort d'ici sans avoir rien filouté !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="25">
+	<s id="1">Ah ! </s>
+	<s id="2">Bah !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="26">
+	<s id="1">Cache l'argenterie !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="27">
+	<s id="1">Impossible ! </s>
+	<s id="2">Le bourgeois m'a dit de l'étaler !</s>
+</p>
+<stage type="location/exit">Il remonte et disparaît.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="28">
+	<s id="1">Je m'en doutais !... </s>
+	<s id="2">C'est une lutte ! </s>
+	<s id="3">Eh bien ! </s>
+	<s id="4">Je la soutiendrai... </s>
+	<s id="5">Quand je devrais surveiller Malvoisie moi-même !</s>
+</p>
+<stage type="get">Prenant la cuillère des mains de Malvoisie qui a fini sa glace.</stage>
+<p id="29">
+	<s id="1">Pardon... </s>
+	<s id="2">Pardon...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="30">
+	<s id="1">Non... </s>
+	<s id="2">Ne vous donnez pas la peine.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="31">
+	<s id="1">Si ! </s>
+	<s id="2">Si !... </s>
+	<s id="3">J'y tiens !...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part..
+</stage>
+<p id="32">
+	<s id="1">Il fait la cuiller aussi !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="33">
+	<s id="1">Et maintenant, je ne le quitte pas d'une semelle !</s>
+</p>
+<stage type="listen/nusic">On entend l'orchestre.</stage>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="entrance/toward">, paraissant au fond, à Brossard.
+</stage>
+<p id="34">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Monsieur ! </s>
+	<s id="3">Je vous attends...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="35">
+	<s id="1">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE.</speaker>
+<p id="36">
+	<s id="1">Vous m'avez invitée pour les trois premières.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="37">
+	<s id="1">Ah ! </s>
+	<s id="2">Sacrebleu ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="38">
+	<s id="1">C'est que dans ce moment...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage>, à part.
+</stage>
+<p id="39">
+	<s id="1">Il ne veut pas quitter son gredin.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="40">
+	<s id="1">Comment ! </s>
+	<s id="2">Mon gendre... de la tiédeur !... </s>
+	<s id="3">Où est Vachonnet ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="41">
+	<s id="1">Du tout ! </s>
+	<s id="2">Du tout ! </s>
+	<s id="3">Me voilà !...</s>
+</p>
+<stage type="touch">Offrant son bras à Céline.</stage>
+<p id="42">
+	<s id="">Je suis prêt ! </s>
+</p>
+<stage type="low/toward/exit">Bas, à Malvoisie en sortant.</stage>
+<p id="43">
+	<s id="1">S'il manque une seule petite cuillère... </s>
+	<s id="2">Je vous étrangle !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="44">
+	<s id="1">Plaît-il ?</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="45">
+	<s id="1">Quel drôle d'avocat !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Benoît, Malvoisie.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="1">
+	<s id="1">Plus je le regarde, plus je lui trouve le galbe d'un gredin.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage>, bâillant et à part.
+</stage>
+<p id="2">
+	<s id="1">Ah !... </s>
+	<s id="2">Je m'ennuie ici !</s>
+</p>
+<stage type="watch/location">Regardant le plafond.</stage>
+<p id="3">
+	<s id="1">Joli plafond.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="4">
+	<s id="1">Est-ce qu'il aurait des intentions sur mon plafond !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="watch/furniture">, remarquant la table de jeu.
+</stage>
+<p id="5">
+	<s id="1">Tiens ! </s>
+	<s id="2">Des cartes ! </s>
+</p>
+<stage type="toward">À Benoît.</stage>
+<p id="6">
+	<s id="1">Faites-vous une partie ?...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="7">
+	<s id="1">Une partie !... </s>
+	<s id="2">Hein ? </s>
+	<s id="3">Volontiers !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="8">
+	<s id="1">Il va faire sauter la coupe ! </s>
+	<s id="2">Ça me va ! </s>
+	<s id="3">Je le tiens.</s>
+</p>
+<stage type="title">Air de l'Aveugle de Bagnolet :</stage>
+	<l id="21">Laissons la folâtre jeunesse</l>
+	<l id="22">Se divertir en gambadant ;</l>
+	<l id="23">La danse fort peu m'intéresse.</l>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage>, gaiement.
+	</stage>
+	<l id="24">Permettez-moi d'en dire autant,</l>
+	<l id="25">L'entrechat me semble embêtant.</l>
+	<l id="26">Au bruit de ce joyeux quadrille,</l>
+	<l id="27">Qui tous là-bas les émoustille,</l>
+	<l id="28">Je n'éprouv' qu'un désir ardent ;</l>
+	<l id="29">Tandis qu'ici chacun sautille,</l>
+	<l id="30">Je n'éprouv' qu'un désir ardent :</l>
+	<l id="31">C'est de fair' sauter votre argent.</l>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="9">
+	<s id="1">Eh bien, à la bonne heure !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="10">
+	<s id="1">Il y met de la franchise. </s>
+</p>
+<stage type="sit">Il s'est installé à la table.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="location">, de l'autre côté de la table.
+</stage>
+<p id="11">
+	<s id="1">Combien jouons-nous ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="12">
+	<s id="1">Dix_sous, à l'écarté.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="13">
+	<s id="1">Ah ! </s>
+	<s id="2">Non !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="14">
+	<s id="1">C'est juste ! </s>
+	<s id="2">Il ne ferait pas ses frais ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="15">
+	<s id="1">Allons, cinq_francs !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="16">
+	<s id="1">Cinq_francs !... </s>
+	<s id="2">Pristi ! </s>
+	<s id="3">J'allais lui proposer deux sous.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="17">
+	<s id="1">Laissez-moi battre ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="18">
+	<s id="1">Comment donc !</s>
+</p> 
+<stage type="aparte/play">À part, pendant que Malvoisie bat les cartes.</stage>
+<p id="19">
+	<s id="1">Il mouille son doigt !... </s>
+	<s id="2">Il fait sa petite cuisine, le gueux ! </s>
+</p>
+<stage type="happy">Gaiement.</stage>
+<p id="20">
+	<s id="1">Ça me va !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="give">, lui passant les cartes.
+</stage>
+<p id="21">
+	<s id="1">Là !... </s>
+	<s id="2">Voilà qui est fait.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="22">
+	<s id="1">C'est fait !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="23">
+	<s id="1">Donnez.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="24">
+	<s id="1">Avec plaisir.</s>
+</p> 
+<stage type="aparte/play">À part, tout en donnant.</stage>
+<p id="25">
+	<s id="1">Je suis sûr qu'il m'a fourré une petite famille de huit...</s>
+</p>
+<stage type="watch">Retournant.</stage>
+<p id="26">
+	<s id="1">Le roi ! </s>
+</p>
+<stage type="estonish">Très étonné. </stage>
+<p id="27">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="28">
+	<s id="1">Saperlotte !... </s>
+	<s id="2">Je propose ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="29">
+	<s id="1">Impossible !... </s>
+</p>
+<stage type="play">Jouant.</stage>
+<p id="30">
+	<s id="1">Je coupe !... </s>
+	<s id="2">Atout !... </s>
+	<s id="3">Atout !... </s>
+	<s id="4">Et atout !... </s>
+	<s id="5">J'ai la vole.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="31">
+	<s id="1">Pas de chance !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="32">
+	<s id="1">C'est pour m'amorcer... </s>
+	<s id="2">Je connais ça !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="33">
+	<s id="1">C'est à moi de donner.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="34">
+	<s id="1">Voilà son tour qui va venir... </s>
+	<s id="2">Aussi je le guette... </s>
+	<s id="3">Il a encore mouillé son doigt !... </s>
+	<s id="4">Je parie qu'il retourne le roi !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="watch">, retournant.
+</stage>
+<p id="35">
+	<s id="1">Huit_de_carreau !</s>
+</p>
+</sp>
+<sp stag="aparte" who="BENOÎT"><speaker>BENOÎT</speaker><stage>, à part.
+</stage>
+<p id="36">
+	<s id="1">Décidément, il est très malin.</s>
+</p>
+<stage type="watch">Regardant son jeu. </stage>
+<p id="37">
+	<s id="1">Tiens ! </s>
+	<s id="2">C'est moi qui ai le roi !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="38">
+	<s id="1">Encore !</s>
+</p> 
+<stage type="aparte/anxious">À part, avec méfiance.</stage>
+<p id="39">
+	<s id="1">Est-ce que le vieux tricherait ?</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Les mêmes, Brossard, puis Babochet.
+</stage>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, remerciant Céline au fond.
+</stage>
+<p id="1">
+	<s id="1">Mille remerciements, Mademoiselle...</s>
+</p> 
+<stage type="turn">Se retournant.</stage>
+<p id="2">
+	<s id="1">Sapristi ! </s>
+	<s id="2">Il joue avec le beau-père !... </s>
+	<s id="3">Il va le plumer !</s>
+</p> 
+<stage type="closer/touch">S'approchant de Malvoisie et lui frappant sur l'épaule,</stage>
+<p id="3">
+	<s id="1">Reperdez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="4">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, bas.
+</stage>
+<p id="5">
+	<s id="1">Reperdez... ou je vous étrangle !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="6">
+	<s id="1">Ah ! </s>
+	<s id="2">Je trouve ça joli, par exemple !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="7">
+	<s id="1">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="8">
+	<s id="1">C'est monsieur qui me dit de reperdre !... </s>
+	<s id="2">Mais je ne fais que ça !</s>
+</p> 
+<stage type="shout">Criant.</stage>
+<p id="9">
+	<s id="1">Je ne fais que ça.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="10">
+	<s id="1">Vous perdez ?</s>
+</p>
+<stage type="aparte">À part.</stage>
+<p id="11">
+	<s id="1">Ah çà, est-ce que je me serais trompé, par hasard ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage>, à part.
+</stage>
+<p id="12">
+	<s id="1">Brossard lui avait donné le mot... tout s'explique.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="13">
+	<s id="1">Désirez-vous votre revanche ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="14">
+	<s id="1">Merci !... </s>
+	<s id="2">Voilà vos cinq_francs.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="estonish">, stupéfait.
+</stage>
+<p id="15">
+	<s id="1">Il paye ! ! ! </s>
+</p>
+<stage type="noise">Il fait sonner la pièce sur la table.</stage>
+<p id="16">
+	<s id="1">Non... </s>
+	<s id="2">Elle n'est pas fausse !... </s>
+	<s id="3">Il est très malin... </s>
+	<s id="4">C'est égal, je le repincerai !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Les mêmes, Babochet, Pontbédouin.
+</stage>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="declamate">, annonçant.
+</stage>
+<p id="1">
+	<s id="1">Monsieur_de_Pontbédouin !</s>
+</p>
+<stage type="entrance/closer">Pontbédouin paraît au fond. Benoît va au-devant de lui.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="jump">, bondissant.
+</stage>
+<p id="2">
+	<s id="1">Pontbédouin ! </s>
+	<s id="2">Saperlotte !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="3">
+	<s id="1">Qu'avez-vous donc ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="low">, bas.
+</stage>
+<p id="4">
+	<s id="1">Un monsieur qui a surpris une page de ma vie privée !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="5">
+	<s id="1">Patratras !... </s>
+	<s id="2">Il ne manquait plus que ça ! </s>
+	<s id="3">Filez par là !</s>
+</p>
+<stage type="show">Il lui indique une porte à gauche.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="6">
+	<s id="1">Oui !</s>
+</p> 
+<stage type="hurry/location/open">Il s'élance vers la porte et ne peut l'ouvrir.</stage>
+<p id="7">
+	<s id="1">Fermée !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="8">
+	<s id="1">Sapristi !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="9">
+	<s id="1">Il va me reconnaître.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="10">
+	<s id="1">Louchez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="watch">, essayant de loucher.
+</stage>
+<p id="11">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="12">
+	<s id="1">Comme ça !</s>
+</p>
+<stage type="watch">Ils louchent tous deux.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage>, redescendant avec Pontbédouin.
+</stage>
+<p id="13">
+	<s id="1">Mon cher ami, permettez-moi de vous présenter mon gendre...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="wave">, saluant.
+</stage>
+<p id="14">
+	<s id="1">Monsieur...</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="15">
+	<s id="1">Jeune homme, laissez-moi vous féliciter...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte/watch">, à part, regardant Malvoisie et Brossard, qui louchent.
+</stage>
+<p id="16">
+	<s id="1">Qu'est-ce qu'ils ont donc à loucher comme ça ? </s>
+</p>
+<stage type="loud/show">Haut, désignant Malvoisie.</stage>
+<p id="17">
+	<s id="1">Monsieur est un de ses clients...</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="wave">, saluant Malvoisie.
+</stage>
+<p id="18">
+	<s id="1">Enchanté, Monsieur... </s>
+</p>
+<stage type="recognize">Le reconnaissant. </stage>
+<p id="19">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon_Dieu !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage>, à part..
+</stage>
+<p id="20">
+	<s id="1">Vlan ! </s>
+	<s id="2">Reconnu !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="low/toward">, bas à Malvoisie.
+</stage>
+<p id="21">
+	<s id="1">Tu n'as pas assez louché !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="22">
+	<s id="1">Quoi donc ?</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="23">
+	<s id="1">Rien... </s>
+	<s id="2">La surprise... </s>
+	<s id="3">Je ne m'attendais pas à retrouver monsieur ici...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="24">
+	<s id="1">Vous le connaissez ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="25">
+	<s id="1">Faiblement !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="low/toward">, bas à Benoît.
+</stage>
+<p id="26">
+	<s id="1">C'est un grec !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="27">
+	<s id="1">Grand peuple sous Périclès !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="low">, bas.
+</stage>
+<p id="28">
+	<s id="1">Mais non !... </s>
+	<s id="2">Il a été trouvé chez... chez un de mes amis... dans un placard, à trois heures du matin...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="happy">, joyeux.
+</stage>
+<p id="29">
+	<s id="1">Comment ! </s>
+	<s id="2">Vous êtes sûr !...</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="30">
+	<s id="1">Parbleu !</s>
+</p> 
+<stage type="aparte">À part. </stage>
+<p id="31">
+	<s id="1">C'était chez moi ! </s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="32">
+	<s id="1">Jetez-moi ça, la porte ! </s>
+</p>
+<stage type="sit/location">Il s'assoit à la table de jeu.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="touch">, se frottant les mains.
+</stage>
+<p id="33">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Je suis très content ! </s>
+	<s id="3">Je suis très heureux !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="34">
+	<s id="1">Il se frotte les mains... </s>
+	<s id="2">Ça va mal !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="35">
+	<s id="1">C'est ce pauvre Vachonnet qui va être heureux !... </s>
+	<s id="2">J'ai une bonne nouvelle à lui annoncer !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="anxious">, inquiet.
+</stage>
+<p id="36">
+	<s id="1">Ah ! </s>
+	<s id="2">Vous avez une nouvelle ?...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="37">
+	<s id="1">Oui.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="38">
+	<s id="1">Laquelle ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="39">
+	<s id="1">Je vais lui faire part de son mariage avec ma fille.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="40">
+	<s id="1">Comment !... </s>
+	<s id="2">Mais c'est impossible !... </s>
+	<s id="3">J'ai votre parole !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="41">
+	<s id="1">Tu as ma parole... </s>
+	<s id="2">Si monsieur n'est pas véreux !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="42">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="43">
+	<s id="1">Mais il l'est !... </s>
+	<s id="2">Heureusement !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="44">
+	<s id="1">Moi ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="45">
+	<s id="1">Tiens ! </s>
+	<s id="2">Je m'en rapporte à lui...</s>
+</p> 
+<stage type="toward">À Malvoisie.</stage>
+<p id="46">
+	<s id="1">Voyons, es-tu véreux ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="47">
+	<s id="1">Monsieur... </s>
+	<s id="2">Je ne m'en suis jamais aperçu...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="48">
+	<s id="1">Alors, veux-tu me dire ce que tu faisais à trois heures du matin dans certain placard...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="49">
+	<s id="1">Aïe !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte">, à part.
+</stage>
+<p id="50">
+	<s id="1">Sapristi !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="51">
+	<s id="1">Mais rien de plus simple, beau-père...</s>
+</p>
+<stage type="hesitate">Barbotant.</stage>
+<p id="52">
+	<s id="1">Qu'est-ce qui ne se trouve pas tous les jours... dans un placard... à trois heures... </s>
+	<s id="2">Parlons d'autre chose !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="53">
+	<s id="1">Non ! </s>
+	<s id="2">Parlons de ça !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="toward">, à Malvoisie.
+</stage>
+<p id="54">
+	<s id="1">Voyons, explique-toi !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="55">
+	<s id="1">Il va trouver quelque chose... </s>
+	<s id="2">Ils trouvent toujours !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="56">
+	<s id="1">Certainement, je pourrais vous le dire... mais... point ne le dois !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="toward">, à Brossard.
+</stage>
+<p id="57">
+	<s id="1">Point il ne le doit... </s>
+	<s id="2">Mon ami, j'en suis désolé... </s>
+	<s id="3">Mais je n'ai qu'une parole... et je vais retrouver Vachonnet.</s>
+</p>
+<stage type="call">Appelant.</stage>
+<p id="58">
+	<s id="1">Vachonnet !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="59">
+	<s id="1">Un instant !</s>
+</p> 
+<stage type="aparte">À part.</stage>
+<p id="50">
+	<s id="1">Il s'agit de mon mariage, après tout ; blanchissons le nègre.</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="61">
+	<s id="1">Comment, beau-père, vous ne devinez pas ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="62">
+	<s id="1">Non !... j'ai le malheur d'être très obtus... </s>
+	<s id="2">Parle ! </s>
+	<s id="3">Dépêche-toi.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="63">
+	<s id="1">Certainement...</s>
+</p>
+<stage type="aparte">À part. </stage>
+<p id="64">
+	<s id="1">Qu'est-ce que je vais donc lui dire ? </s>
+</p>
+<stage type="loud/declamate">Haut et plaidant. </stage>
+<p id="65">
+	<s id="1">Mon client, Messieurs, est un homme intègre et bienfaisant...</s>
+</p>
+<stage type="turn/watch/toward">Tout le monde se retourne pour regarder à qui Brossard s'adresse.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, continuant.
+</stage>
+<p id="66">
+	<s id="1">Interrogez la cabane du pauvre... elle vous redira le nom de Malvoisie !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="estonish">, étonné.
+</stage>
+<p id="67">
+	<s id="1">Tiens !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="68">
+	<s id="1">Il plaide... mais cette fois...</s>
+</p>
+<stage type="entrance/location/stop/listen">Babochet entre par le fond et s'arrête pour écouter la plaidoirie.</stage>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="continue">, continuant.
+</stage>
+<p id="69">
+	<s id="1">On nous accuse, Messieurs, de nous être trouvé à trois heures du matin dans un placard... </s>
+	<s id="2">Pitié !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="70">
+	<s id="1">Mais cependant...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="71">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Oui !... </s>
+	<s id="3">Nous y étions !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="72">
+	<s id="1">Ah !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="73">
+	<s id="1">C'est heureux.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="74">
+	<s id="1">Mais comment y étions-nous ?...</s>
+</p>
+<stage type="wave">Malvoisie lui fait des signes.</stage>
+<p id="75">
+	<s id="1">Rassurez-vous... </s>
+	<s id="2">Je serai chaste, messieurs.</s>
+</p>
+<stage type="title">Air : T'en souviens-tu ?</stage>
+	<l id="32">Reportez-vous à ce temps de folie</l>
+	<l id="33">Où la jeunesse exerçait tous ses droits ;</l>
+	<l id="34">Où pour cueillir les roses de la vie</l>
+	<l id="35">Vous n'aviez pas assez de vos dix doigts.</l>
+	<l id="36">À ces beaux jours où Cupidon nous somme</l>
+	<l id="37">D'aller semer notre coeur au hasard,</l>
+	<l id="38">Et comprenez comment un tout jeune homme</l>
+	<l id="39">Peut vers minuit flâner dans un placard...</l>
+<stage type="exit/cry">Pendant la fin du couplet, ils sortent tous leurs mouchoirs de leur poche et s'essuient les yeux.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="aparte/touched">, parlé, à part et très ému.
+</stage>
+<p id="76">
+	<s id="1">Hein ! </s>
+	<s id="2">Comment sait-il ?</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="stand/aparte">, parlé, se levant et à part.
+</stage>
+<p id="77">
+	<s id="1">Qu'est-ce que cela signifie ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="strong">, reprenant avec force.
+</stage>
+<p id="78">
+	<s id="">Demandez-vous comment un tout jeune homme peut, vers minuit, flâner dans un placard.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="wave">, lui faisant des signés.
+</stage>
+<p id="79">
+	<s id="1">Chut ! </s>
+	<s id="2">Taisez-vous !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="enthousiasm">, avec feu.
+</stage>
+<p id="80">
+	<s id="1">Non, Malvoisie ! </s>
+	<s id="2">Vous avez beau me faire des signes... quand il s'agit de votre honneur... de celui de vos enfants...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="81">
+	<s id="1">Il n'en a pas !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="82">
+	<s id="1">J'attendais cette interruption... </s>
+	<s id="2">Je n'y répondrai pas.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="83">
+	<s id="1">C'est plus commode !... </s>
+	<s id="2">Mais tout ça ne me dit pas pour quoi vous étiez dans le placard ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, avec force.
+</stage>
+<p id="84">
+	<s id="1">Vous voulez le savoir ?</s>
+</p>
+</sp>
+<sp who="BENOÎT, PONTBÉDOUIN"><speaker>BENOÎT et PONTBÉDOUIN.</speaker>
+<p id="85">
+	<s id="1">Oui !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="strong">, vivement.
+</stage>
+<p id="86">
+	<s id="1">Non ! </s>
+	<s id="2">Non !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="87">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Nous y étions pour une femme !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="quick">, vivement.
+</stage>
+<p id="88">
+	<s id="">Ne la nommez pas !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="89">
+	<s id="1">Pour une femme élégante et belle...</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="90">
+	<s id="1">Ah ! </s>
+	<s id="2">C'est trop fort !... </s>
+	<s id="3">Et j'ai le droit de vous demander...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="91">
+	<s id="1">N'interrompez pas !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="92">
+	<s id="1">Cependant, vous me permettrez...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="93">
+	<s id="1">La défense n'est pas libre !... </s>
+	<s id="2">Je vais m'asseoir !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="94">
+	<s id="1">Mais cette femme a un mari !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="95">
+	<s id="1">J'attendais cette objection... </s>
+	<s id="2">Un mari ! </s>
+	<s id="3">Vous appelez ça un mari !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="96">
+	<s id="1">Dame ! </s>
+	<s id="2">Il me semble que...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="97">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Soit !... </s>
+	<s id="3">Fouillons dans la vie privée de cet homme... de ce misérable !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="98">
+	<s id="1">Mais, Monsieur !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="99">
+	<s id="1">N'interrompez pas !... </s>
+	<s id="2">Parlerai-je de ses moeurs ?... </s>
+	<s id="3">Il n'en a pas !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="100">
+	<s id="1">Permettez !...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="101">
+	<s id="1">Je ne permets pas !... </s>
+	<s id="2">Un être qui subventionne des créatures !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="102">
+	<s id="1">C'est faux !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="103">
+	<s id="1">Qui entretient des liaisons coupables avec ses femmes de chambre !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="104">
+	<s id="1">Mais, Monsieur !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="105">
+	<s id="1">Que n'est-il ici !... </s>
+	<s id="2">Vous verriez sur son front livide la trace de tous les vices !... </s>
+	<s id="3">Un joueur, un brutal, un ivrogne !...</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="shout">, criant.
+</stage>
+<p id="106">
+	<s id="1">Mais, c'est moi !... </s>
+	<s id="2">C'est moi !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="107">
+	<s id="1">Qui vous ?</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN.</speaker>
+<p id="108">
+	<s id="1">Le mari.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="109">
+	<s id="1">Vous ?... </s>
+	<s id="2">Sacrebleu ! </s>
+	<s id="3">Il fallait donc le dire !</s>
+</p>
+<stage type="location">Il remonte.</stage>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="threat/fight">, sautant à la gorge de Malvoisie.
+</stage>
+<p id="110">
+	<s id="1">Quant à vous, Monsieur, répondez !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="111">
+	<s id="1">Aïe !... </s>
+	<s id="2">Vous m'étranglez !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="turn">, le faisant tourner.
+</stage>
+<p id="112">
+	<s id="1">Vous étiez dans le placard pour ma femme ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="shout/fight">, criant et se débattant.
+</stage>
+<p id="113">
+	<s id="1">Mais non !... </s>
+	<s id="2">Pour la bonne !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="114">
+	<s id="1">Hein ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="115">
+	<s id="1">Très adroit !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="116">
+	<s id="1">Pour Clarisse !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="fight">, allant pour lui sauter à la gorge.
+</stage>
+<p id="117">
+	<s id="1">Clarisse !... </s>
+	<s id="2">Ma bonne amie !... </s>
+	<s id="3">Ah gredin !</s>
+</p>
+<stage type="pull">Brossard le retient.</stage>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="118">
+	<s id="1">Puisque je dois l'épouser !</s>
+</p>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET.</speaker>
+<p id="119">
+	<s id="1">Mais moi aussi !</s>
+</p>
+</sp>
+<sp who="PONTBÉDOUIN"><speaker>PONTBÉDOUIN</speaker><stage type="aparte">, à part.
+</stage>
+<p id="120">
+	<s id="1">Et la drôlesse me faisait des mines !... </s>
+	<s id="2">Je vais la camper à la porte !</s>
+</p>
+<stage type="loud">Haut.</stage>
+<p id="121">
+	<s id="1">Messieurs, je vous salue.</s>
+</p>
+<stage type="exit">Il sort vivement.</stage>
+</sp>
+<sp who="BABOCHET"><speaker>BABOCHET</speaker><stage type="closer/show">, qui s'est approché de Malvoisie et lui montrant le poing.
+</stage>
+<p id="122">
+	<s id="1">Ah ! </s>
+	<s id="2">C'était pour Clarisse ! </s>
+	<s id="3">Nous en causerons sur le carré.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="123">
+	<s id="1">Babochet !...</s>
+</p>
+<stage type="exit">Babochet sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><stage> Benoît, Brossard, Malvoisie, puis Céline.
+</stage>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="1">
+	<s id="1">Tantôt c'est pour la maîtresse, tantôt c'est pour la bonne... </s>
+	<s id="2">Moi, je continue à croire que c'est pour l'argenterie.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, à Benoît.
+</stage>
+<p id="2">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Beau-père, êtes-vous convaincu ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="3">
+	<s id="1">Comment donc !</s>
+</p>
+<stage type="toward">À Malvoisie.</stage>
+<p id="4">
+	<s id="1">Recevez mes excuses, Monsieur... </s>
+	<s id="2">J'en conviens, je vous ai soupçonné, je vous ai pris pour un...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="5">
+	<s id="1">Il n'y a pas de mal... </s>
+	<s id="2">Entre amis... ça se fait ! </s>
+	<s id="3">C'est sa faute, le gredin !... </s>
+	<s id="4">Mais si jamais je le retrouve... </s>
+	<s id="5">Sa tôle est là !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="6">
+	<s id="1">Qui ça ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="7">
+	<s id="1">L'homme à la montre... </s>
+	<s id="2">Figurez-vous que je lisais l'affiche du Vaudeville...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="8">
+	<s id="1">C'est bien... </s>
+	<s id="2">Nous connaissons l'histoire... </s>
+	<s id="3">D'ailleurs vous êtes complètement justifié...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="9">
+	<s id="1">Oh ! </s>
+	<s id="2">Complètement ! </s>
+	<s id="3">Si complètement... que je vais vous donner une preuve éclatante de ma confiance...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage>, à part, effrayé.
+</stage>
+<p id="10">
+	<s id="1">Hein ! </s>
+	<s id="2">Qu'est-ce qu'il va faire ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="11">
+	<s id="1">À moi ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="12">
+	<s id="1">À vous... </s>
+	<s id="2">Depuis longtemps, je cherche un homme sûr, intègre, fidèle.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="13">
+	<s id="1">Pardon... </s>
+	<s id="2">Pourquoi faire ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="watch">, observant Brossard.
+</stage>
+<p id="14">
+	<s id="">Mais... pour en faire... mon caissier...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="15">
+	<s id="1">Tiens !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="16">
+	<s id="1">Nom_d_un_petit_bonhomme !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="aparte">, à part.
+</stage>
+<p id="17">
+	<s id="1">Il a tressailli ! </s>
+</p>
+<stage type="loud/toward">Haut à Malvoisie. </stage>
+<p id="18">
+	<s id="1">Et j'ai songé à vous, mon ami...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="19">
+	<s id="1">Mais, beau-père !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="20">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="21">
+	<s id="1">Rien... mais un caissier !... </s>
+	<s id="2">Il faudrait peut-être prendre quelques renseignements...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="22">
+	<s id="1">Oh ! </s>
+	<s id="2">Je ne crains rien !... </s>
+	<s id="3">Informez-vous à la Société_des_coiffeurs_réunis...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="23">
+	<s id="1">Inutile !</s>
+</p>
+<stage type="toward">À Brossard.</stage>
+<p id="24">
+	<s id="1">Je voudrais qu'il fût mon frère !... </s>
+	<s id="2">Avez-vous dit dans votre admirable plaidoyer...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="25">
+	<s id="1">Oh ! </s>
+	<s id="2">J'ai dit ça !... </s>
+	<s id="3">J'ai dit ça !...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="26">
+	<s id="1">Vous l'avez dit !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="27">
+	<s id="1">Et cela me suffit !</s>
+</p> 
+<stage type="toward">À Malvoisie. </stage>
+<p id="28">
+	<s id="1">Je vais vous remettre la clef de ma caisse.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="29">
+	<s id="1">Saprédié !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="30">
+	<s id="1">Elle contient des valeurs assez considérables... entre autres la dot de ma fille...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="31">
+	<s id="1">Ah ! </s>
+	<s id="2">Mais non !... </s>
+	<s id="3">Beau-père !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="32">
+	<s id="1">Quoi ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="33">
+	<s id="1">Monsieur ne peut pas être caissier... </s>
+	<s id="2">Un vol... </s>
+</p>
+<stage type="stress">Se reprenant.</stage>
+<p id="34">
+	<s id="1">Un coiffeur !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="35">
+	<s id="1">Oh ! </s>
+	<s id="2">Je lâcherai le cheveu !...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="toward">, à Malvoisie.
+</stage>
+<p id="36">
+	<s id="1">Ma serrure est à secret... </s>
+	<s id="2">Je vais vous donner les lettres : EBT.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="quiet">, sans intention.
+</stage>
+<p id="37">
+	<s id="1">Si je les oublie... </s>
+	<s id="2">Vous serez là pour me les rappeler.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="get">, tirant une clef de sa poche.
+</stage>
+<p id="38">
+	<s id="1">Maintenant, voici la clef...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="push">, écartant Malvoisie qui va prendre la clef.
+</stage>
+<p id="39">
+	<s id="1">Non, c'est impossible ! </s>
+	<s id="2">Je ne le souffrirai pas !</s>
+</p>
+</sp>
+<sp who="BENOÎT, MALVOISIE"><speaker>BENOÎT et MALVOISIE.</speaker>
+<p id="40">
+	<s id="1">Pourquoi donc ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="41">
+	<s id="1">Un coquin !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="41">
+	<s id="1">Ah ! </s>
+	<s id="2">Mais !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="43">
+	<s id="1">Un grec ! </s>
+	<s id="2">Un flibustier !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="happy">, avec triomphe.
+</stage>
+<p id="44">
+	<s id="1">Ah ! </s>
+	<s id="2">Tu l'avoues ! </s>
+	<s id="3">Très bien !... </s>
+	<s id="4">Tu es pincé !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="45">
+	<s id="1">Comment ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="46">
+	<s id="1">Voilà ce que je voulais te faire dire ! </s>
+	<s id="2">Tu n'auras pas ma fille !</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="aparte">, à part.
+</stage>
+<p id="47">
+	<s id="1">Quelle boulette !</s>
+</p>
+</sp>
+<sp who="CÉLINE"><speaker>CÉLINE</speaker><stage type="entrance">, qui est entrée et a entendu ces derniers mots.
+</stage>
+<p id="48">
+	<s id="1">Papa ?...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="49">
+	<s id="1">Tu épouseras Vachonnet !</s>
+</p>
+<stage type="call">Appelant. </stage>
+<p id="50">
+	<s id="1">Vachonnet ! </s>
+	<s id="2">Vachonnet !</s>
+</p>
+</sp>
+</div2>
+<div2 type="scene" n="18"><head>SCÈNE XVIII.</head><stage> Les mêmes, Vachonnet, puis Babochet.
+</stage>
+<sp who="VACHONNET"><speaker>VACHONNET</speaker><stage type="entrance">, paraissant la porte de gauche.
+</stage>
+<p id="1">
+	<s id="1">En... en... en... en...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="2">
+	<s id="1">Approche... Vachonnet ! </s>
+	<s id="2">Ma fille est à toi.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage>, regardant Vachonnet.
+</stage>
+<p id="3">
+	<s id="1">Ah ! </s>
+	<s id="2">Mon_Dieu !... </s>
+	<s id="3">Mais c'est lui !... </s>
+	<s id="4">Je le reconnais !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="4">
+	<s id="1">Qui ça ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="5">
+	<s id="1">Lui !... </s>
+	<s id="2">L'homme... qui a jeté la montre dans mon parapluie !</s>
+</p>
+</sp>
+<sp who="BENOÎT, BROSSARD"><speaker>BENOÎT et BROSSARD.</speaker>
+<p id="6">
+	<s id="1">Est-il possible ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage type="threat">, voulant sauter sur Vachonnet.
+</stage>
+<p id="7">
+	<s id="1">Ah ! </s>
+	<s id="2">Gredin !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="8">
+	<s id="1">Un instant ! </s>
+	<s id="2">Laissez-le s'expliquer... </s>
+	<s id="3">Est-ce vous, Monsieur_Vachonnet... qui, place_de_la_Bourse...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="9">
+	<s id="1">C'est... c'est moi.</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS</speaker><stage type="offended">, indignés.
+</stage>
+<p id="10">
+	<s id="1">Oh !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="11">
+	<s id="1">Laissez-moi vous ra... ra... raconter...</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="12">
+	<s id="1">Il se trouble !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="13">
+	<s id="1">J'ai jeté la mon... montre dans le pa... pa... dans le papa... rapluie...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="offended">, indigné.
+</stage>
+<p id="14">
+	<s id="1">Assez, Monsieur !... </s>
+	<s id="2">Un commerçant !... </s>
+	<s id="3">Sortez...</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="15">
+	<s id="1">Mais, je ne suis pas cou... cou... coupable !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="16">
+	<s id="1">Expliquez-vous !</s>
+</p>
+</sp>
+<sp who="VACHONNET"><speaker>VACHONNET.</speaker>
+<p id="17">
+	<s id="1">Je lisais l'affiche du vau... du vau... du vau...</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+<p id="18">
+	<s id="1">À la porte ! à la porte !</s>
+</p>
+<stage type="push/exit/hit">On pousse dehors Vachonnet, qui fait de vains efforts pour se justifier. Babochet lui donne un coup de pied au au moment où il sort.</stage>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT</speaker><stage type="toward">, à Malvoisie.
+</stage>
+<p id="19">
+	<s id="1">Quant à toi, mon brave... </s>
+	<s id="2">Tu seras mon caissier... et cette fois, c'est sérieux.</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="20">
+	<s id="1">Oh ! </s>
+	<s id="2">Merci !... </s>
+	<s id="3">Donnez-moi la clef de la caisse...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="21">
+	<s id="1">Demain... Ça c'est la clé... de ma lampe.</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD</speaker><stage type="touch">, donnant la main à Malvoisie.
+</stage>
+<p id="22">
+	<s id="1">Ce pauvre garçon ! </s>
+	<s id="2">Comment, tu étais innocent ?</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE.</speaker>
+<p id="23">
+	<s id="1">Vous ne le saviez donc pas ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="24">
+	<s id="1">Ma foi, non !</s>
+</p>
+</sp>
+<sp who="MALVOISIE"><speaker>MALVOISIE</speaker><stage>, retirant vivement sa main.
+</stage>
+<p id="25">
+	<s id="1">Alors pourquoi m'avez-vous défendu ?...</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="26">
+	<s id="1">Il a raison, mon gendre !... </s>
+	<s id="2">Si les avocats ne soutenaient jamais les mauvaises causes...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="27">
+	<s id="1">On n'aurait pas besoin de défendre les bonnes.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="28">
+	<s id="1">Eh bien ?...</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="29">
+	<s id="1">Alors il n'y aurait plus d'avocat !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="30">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="31">
+	<s id="1">Plus de juges, plus d'avoués, plus de clercs d'avoué !</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="32">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="33">
+	<s id="1">Alors il faudrait faire raser le Palais_de_Justice.</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="34">
+	<s id="1">Eh bien ?</s>
+</p>
+</sp>
+<sp who="BROSSARD"><speaker>BROSSARD.</speaker>
+<p id="35">
+	<s id="1">Alors à quoi servirait le Pont_Saint-Michel ?</s>
+</p>
+</sp>
+<sp who="BENOÎT"><speaker>BENOÎT.</speaker>
+<p id="36">
+	<s id="1">C'est juste !... il est logique !... Embrasse ma fille !...</s>
+</p>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+<stage type="title">Air : Ah ! Je suis affamé ! (Piccolet.)</stage>
+	<l id="40">Ah ! quel heureux destin !</l>
+	<l id="41">Oui, mon son gendre</l>
+	<l id="42">Va défendre</l>
+	<l id="43">La veuve et l'orphelin,</l>
+	<l id="44">Du soir au matin !</l>
+	<l id="45">Sur son avocat l'auteur a compté ;</l>
+	<l id="46">Vous connaissez tous ma spécialité,</l>
+	<l id="47">Puissé-je, ce soir, dire avec fierté :</l>
+	<l id="48">Encore un coupable acquitté !</l>
+<stage type="bis">Reprise.</stage>
+	<l id="49">Ah ! quel heureux destin ! etc.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LES BIENFAITS DE L'ÉDUCATION, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, septembre 2022</publisher>
+			<idno>COURTELINE_BIENFAITSDELEDUCATION</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF PHS 8-Z LE SENNE-3573">https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES BIENFAITS DE L'ÉDUCATION</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="BRISEMICHE" sex="1" type="H" statut="avocat" age="A" stat_amour="néant">BRISEMICHE</role>.</castItem>
+			<castItem><role id="LETRUFFÉ" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LETRUFFÉ</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 215-222</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LES BIENFAITS DE L'ÉDUCATION</head>
+<div2 type="scene" n="1"><head/>
+<stage type="narration">Les femmes qui ont trouvé de la place dans l'omnibus expriment la satisfaction que leur procure cet heureux événement par un sourire énigmatique, impénétrable et idiot.</stage>
+<stage type="narration">La lèvre fleurie du sourire dont il est question ci-dessus, la dame dont il va être question ci-dessous a pris place dans le tramway, où restait juste un siège vacant : la stalle mobile fixée au fond de la voiture.</stage>
+<stage type="">C'est une de ces vastes et imposantes personnes, qui, par leur air majestueux,la magnificence, de leur démarche, leur façon de porter haut la tête et de présenter à la foule un front qui n'a pas lieu de rougir, inspirent la considération et dont une profonde impression sur les gens de naturel timide.</stage>
+<stage type="narration">Elle tire de sa poche sa bourse.</stage>
+<stage type="narration">De sa bourse, elle tire son argent.</stage>
+<stage type="narration">Tout ceci n'a l'air de rien.</stage>
+<stage type="narration">Mais à la seule façon dont elle dissimule entre ses doigts ganté de noir les espèces destinées à acquitter sa dette, - les six sous de la place qu'elle occupe, - on devine en elle la femme d'ordre, la femme qui connaît la vie pour l'avoir expérimentée, et qui, enfermée par système en un prudent quant-à-soi, ne juge pas indispensable de révéler aux étrangers de quelle sorte de monnaie elle use pour payer l'argent qu'elle doit. À moins d'être fou ou aveugle, on ne saurait douter de l'austérité de ses moeurs, car elle est peinte sur son visage. De même y sont peintes en pleine pâte ses qualités de ménagère économe, son amour de la propreté et du bine-tenu.</stage>
+<stage type="narration">Il est regrettable que son derrière soit étrangement disproportionné avec le siège qui le supporte. Celui-ci est à celui-là ce qu'est à un pavé une pièce de dix sous, à une tête d'épingle une tomate.</stage>
+<stage type="narration">De chaque côté de la fragile planchette où repose sa splendeur élargie, le derrière de la voyageuse déborde ainsi qu'un potiron (évoquant une idée d'aérostat gonflé qu'accroupissent de force, à terre, les sacs pesants pendus aux mailles de son filet), en sorte que la dame est très mal. Elle pense être assise, la pauvre, sur une de ces pâtisseries sèches, percées de trous, qui se prennent avec du thé, et elle s'en montre fort marrie. Elle trouve que la Compagnie des Omnibus ne donne pas aux voyageurs, en confortable, l'équivalent de ce qu'elle reçoit d'eux en argent ; et ayant versé trente centimes entre les mains du conducteur, elle s'étonne de ne point recevoir, en retour, la libre disposition d'un sleeping-car. Le compagnie London-Chatam-Dover-railway possède d'admirables wagons qui ne sont point sans ressemblance avec les salons de l'Élysée : la dame éprouve quelque surprise à ne point sentir, sous son fessier, le moelleux exquis de leurs coussins.</stage>
+<stage type="">Et elle gémit ! Et elle se lamente ! Et elle geint !</stage>
+<stage type="">À la fin :</stage>
+<sp who="LE MONSIEUR"><speaker>UN MONSIEUR</speaker><stage type="sad/stand">, apitoyé, se levant de la place qu'il occupait.
+</stage>
+<p id="1">
+	<s id="1">Changez donc avec moi, Madame. </s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage type="proud">, faisant sa poire.
+</stage>
+<note type="L">Faire sa poire : Fig. et populairement, faire sa poire, avoir un air fier et important. [L]</note>
+<p id="2">
+	<s id="1">Monsieur...</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR.</speaker>
+<p id="3">
+	<s id="1">Je vous en prie.</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage type="quiet">, qui cède par obéissance.
+</stage>
+<p id="4">
+	<s id="1">En ce cas...</s>
+</p>
+<stage type="change">Échange de place entre la dame et le monsieur.</stage>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME.</speaker>
+<p id="5">
+	<s id="1">Monsieur, je vous remercie mille fois.</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR.</speaker>
+<p id="6">
+	<s id="1">De rien madame, de rien du tout.</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME.</speaker>
+<p id="7">
+	<s id="1">Ne vous dérobez pas à mes remerciements. </s>
+	<s id="2">Vous venez d'agir en galant homme et je me fais un devoir de rendre à votre courtoise un hommage aussi public qu'éclatant.</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR</speaker><stage type="embarrassed">, ennuyé.
+</stage>
+<p id="8">
+	<s id="1">Mon_Dieu, Madame, laissons cela.</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME.</speaker>
+<p id="9">
+	<s id="1">Pourquoi donc ?</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR.</speaker>
+<p id="10">
+	<s id="1">Parce que...</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME.</speaker>
+<p id="11">
+	<s id="1">Pardon ! </s>
+	<s id="2">Nous vivons dans un temps où les gens qui ont su garder le sentiment des convenances, ne se trouvent pas sous le pied des chevaux.</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR</speaker><stage type="nervous">, agacé.
+</stage>
+<p id="12">
+	<s id="1">Madame...</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage type="sad">, une amertume dans la voix.
+</stage>
+<p id="13">
+	<s id="1">La vieillesse est si peu habituée à recevoir des jeunes gens, les égards qu'elle serait en droit d'attendre d'eux... </s>
+	<s id="2">D'ailleurs, le bon procédé dont vous venez d'user envers moi n'a rien qui me surprenne de vous. </s>
+	<s id="3">On reconnaît tout de suite les personnes bien élevées...</s>
+</p>
+</sp>
+<sp who="LE MONSIEUR"><speaker>LE MONSIEUR</speaker><stage>, rasé jusqu'au sang.
+</stage>
+<p id="14">
+	<s id="1">De grâce...</s>
+</p>
+</sp>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage type="continue">, poursuivant.
+</stage>
+<p id="15">
+	<s id="1">Et Madame votre mère peut se vanter d'être une mère heureuse !... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Les bienfaits de l'éducation !!!... </s>
+	<s id="4">Tenez, Monsieur, je ne voudrais pas avoir l'air de répondre à votre galanterie par des flagorneries excessives, mais il suffit de vous regarder pour savoir tout de suite qui vous êtes. </s>
+	<s id="5">J'en appelle aux personnes présentes !...</s>
+</p>
+</sp>
+<sp who="TOUS"><speaker>LES PERSONNES PRÉSENTES.</speaker>
+<p id="16">
+	<s id="1">Il est vrai !... </s>
+	<s id="2">Ce jeune homme est un galant homme.</s>
+	<s id="3">Il a reçu, dans le château de ses pères, une brillante éducation ; il est plein de bon sentiments, et on demeure stupéfait à voir combine il a gardé - chose rare !... </s>
+	<s id="4">- Le sentiment des convenances.</s>
+</p>
+<stage type="explicit">Ainsi s'exprime le choeur des voyageurs qu'enferme la caisse du tramway. Sur quoi le monsieur dit :</stage>
+</sp>
+<sp who="LE MONSIEUR"><speaker/>
+<p id="17">
+	<s id="1">Très bien.</s>
+</p>
+<stage type="pay/exit">paye sa place, descend et prend un voiture.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

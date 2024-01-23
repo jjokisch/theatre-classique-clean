@@ -1,0 +1,2710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES ÉTOURDIS, OU LE MORT SUPPOSÉ, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0000 8081 539X">François ANDRIEUX (1759-1833)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, juillet 2022.</editor>
+				<publisher>publié par Paul FIEVRE, SEPTEMBRE 2022.</publisher>
+				<idno>ANDRIEUX_COMEDIENNE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<type>vers</type>
+				<structure>Trois actes</structure>
+				<periode>1811-1820</periode>
+				<taille>750-1000</taille>
+				<permalien cote="BnF 8-YTH-6270">https://gallica.bnf.fr/ark:/12148/bpt6k9693748x</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES ÉTOURDIS</titlePart>
+			<titlePart type="sub">OU LE MORT SUPPOSÉ</titlePart>
+			<titlePart type="sub">COMÉDIE EN TROIS ACTES ET EN VERS</titlePart>
+			<titlePart type="sub">Représentée, pour la première fois, par les Comédiens Italiens ordinaires du Roi, le Vendredi l4 Décembre 1787.</titlePart>
+			<titlePart type="sub">Prix 30 sous.</titlePart>
+		</docTitle> 
+		<docDate value="1788">M. DCC. LXXXVIII.</docDate>
+		<docAuthor id="ANDRIEUX, François Guillaume" bio="andrieux">.</docAuthor>
+		<docImprint>
+			<privilege id=""><head>APPROBATION.</head>
+				<p>Lu et approuvé, pour la représentation et l'impression.</p>
+				<p>À Paris, ce 7 Décembre 1787. SUARD.</p>
+				<p>VU l'Approbation, permis de représenter et d'imprimer, ce 7 Décembre. 1787. DE CROSNET</p>
+			</privilege>
+			<editor id="MASSON">À PARIS, chez BAILLY, libraire, rue Saint-Honoré, vis à vis la barrière des Sergents.</editor>
+		</docImprint>
+		<performance>
+			<premiere date="1816-03-06" location="Théâtre français">Représentée pour la première fois, au Théâtre Français, par les comédiens ordinaires de l'Empereur, le 6 mars 1816.</premiere>
+		</performance>
+		<castList><head>PERSONNAGES ACTEURS.</head>
+			<castItem><role id="MONSIEUR DAIGLEMONT" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR DAIGLEMONT</role>, oncle. M. COURCELLES.</castItem>
+			<castItem><role id="DAIGLEMONT" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">DAIGLEMONT</role>, son neveu. M. RAYMOND.</castItem>
+			<castItem><role id="FOLLEVILLE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">FOLLEVILLE</role>. M. GRANGER.</castItem>
+			<castItem><role id="JULIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">JULIE</role>, fille de M. Daiglemont. Mlle. CARLINE.</castItem>
+			<castItem><role id="L'HÔTESSE" sex="2" type="H" statut="hôtesse" age="A" stat_amour="néant">L'HÔTESSE</role>. Mme GONTHIER.</castItem>
+			<castItem><role id="DESCHAMPS" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">DESCHAMPS</role>. M. VALLEROY.</castItem>
+			<castItem><role id="JOURDAIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">JOURDAIN</role>. M. PERIGNY.</castItem>
+			<castItem><role id="MICHEL" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">MICHEL</role>. M. THOMASSIN,</castItem>
+			<castItem><role id="UN VALET" sex="1" type="H" statut="valet" age="A" stat_amour="néant">UN VALET</role>.</castItem>
+		</castList>
+	<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris, dans la salle commune d'un Hôtel garni.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<stage type="decor">Le Theâtre représente un salon. Sur l'un des côtés une porte qui donne dans un cabinet.</stage> 
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Daiglemont, Folleville.
+</stage>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1">Il le faut avouer ; depuis huit jours entiers</l>
+	<l id="2">Nous vivons sagement, grâce à nos créanciers.</l>
+	<l id="3">Nous ne sortons jamais ; une raison très forte</l>
+	<l id="4">T'empêche de passer le seuil de cette porte : </l>
+	<l id="5">Dans mon hôtel garni tu vins très prudemment</l>
+	<l id="6">Occuper la moitié de mon appartement.</l>
+	<l id="7">Je te tiens, en ami, fidèle compagnie ;</l>
+	<l id="8">Comment te trouves-tu de ce genre de vie ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="9" syll="2" part="i">Fort mal.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="9" syll="10" part="f">Pourquoi ? Caché sous le nom de Derbain,</l>
+	<l id="10">Les Huissiers, les Records te chercheront en vain ;</l>
+	<l id="11">Leur meute est en défaut ; tu lui donnes le change.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="12">Oui ; mais parbleu, l'ennui qui m'assomme, les venge.</l>
+	<l id="13" syll="6" part="i">Si je pouvais sortir !...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="13" syll="6" part="f">Tu le pourrais, vraiment,</l>
+	<l id="14">Sans ce fripon maudit, ce chicaneur d'Armant,</l>
+	<l id="15">Qui pour quinze_cents_francs a contre toi sentence ;</l>
+	<l id="16">Tu fis cette méchante affaire en mon absence :</l>
+	<l id="17">Où diantre ton esprit était-il donc alors ?</l>
+	<l id="18">C'est jouer trop gros jeu que risquer le par corps ;</l>
+	<l id="19">Moi, je ne fais jamais cette sottise étrange ;</l>
+	<l id="20">Des billets tant qu'on veut ; point de lettres de change.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="21">N'y pouvant plus tenir, et par l'ennui pressé,</l>
+	<l id="22">À Dortis mon cousin je me suis adressé.</l>
+	<l id="23">Je le prie en deux mots de me prêter la somme</l>
+	<l id="24" syll="4" part="i">Dont j'ai besoin...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="24" syll="8" part="f">Tu vas recourir à cet homme</l>
+	<l id="25">Que tu ne vois jamais ? Tu n'en tireras rien.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="26">Vraiment, j'en ai grand'peur ; c'est un dernier moyen</l>
+	<l id="27">Que j'ai voulu tenter, faute d'autre ressource.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="28">Tu sais bien qu'un ami peut puiser dans ma bourse.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="29" syll="6" part="i">Ta bourse ? Elle est à sec.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="29" syll="6" part="f">Elle va se remplir ;</l>
+	<l id="30">J'ai fait certain projet, et s'il peut réussir !</l>
+	<l id="31">L'idée en est hardie, et fortement conçue !</l>
+	<l id="32">Je compte aujourd'hui même en apprendre l'issue.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="33" syll="6" part="i">Dis-moi donc ce que c'est ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="declamate">, déclamant.
+</stage>
+<note type="C">Mithridate, Acte III, Scene 1. [v. 789-790]</note>
+	<l id="33" syll="6" part="f">Non ; pour être approuvés,</l>
+	<l id="34">De semblables desseins veulent être achevés.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Folleville, Daiglemont, Deschamps entre, une lettre à la main.
+</stage>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="35">Ah ! Ah ! Sachons un peu ce que Deschamps m'annonce .</l>
+	<l id="36">Cette lettre à la mienne est-elle une réponse ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="37" syll="3" part="i">Non, Monsieur.</l>
+<stage type="toward">À Folleville.</stage>
+	<l id="37" syll="3" part="m">C'est pour vous.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="37" syll="6" part="f">De Nantes ? Ah ! Ma foi,</l>
+	<l id="38" syll="2" part="i">Peut-être...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="toward">, à Deschamps.
+	</stage>
+	<l id="38" syll="10" part="f">Et mon cousin ne t'a rien dit pour moi ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="39">Il n'était pas chez lui ; j'ai laissé votre lettre:</l>
+	<l id="40">Sitôt qu'il rentrera, l'on doit la lui remettre.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="open">, qui a décacheté, dit avec joie :
+	</stage>
+	<l id="41">Nous sommes trop heureux, mon pauvre Daiglemont.</l>
+	<l id="42" syll="4" part="i">Embrasse-moi.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="42" syll="2" part="m">Pourquoi ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="42" syll="6" part="f">Mais embrasse-moi donc.</l>
+	<l id="43">Les effets, avec moi, répondent aux paroles.</l>
+	<l id="44">Vous dites qu'il vous faut deux ou trois cents pistoles,</l>
+	<l id="45">Mon ami, ce n'est rien ; je veux vous obliger.</l>
+	<l id="46">Ne me refusez pas ; ce serait m'affliger.</l>
+	<l id="47">Vous pouvez disposer de cette bagatelle.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="48">Une lettre de change ? Et d'où diantre vient-elle ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="49" syll="3" part="i">Tu peux voir.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="49" syll="3" part="m">De mon oncle ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="49" syll="6" part="f">Oui, sans doute, de lui.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="50" syll="9" part="i">Elle est de mille_écus, et payable....</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="50" syll="3" part="f">Aujourd'hui,</l>
+	<l id="51">À vue. Oh ! Nous n'aurons point à souffrir d'escompte</l>
+	<l id="52">J'aime fort les effets dont l'échéance est prompte.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="53">Il paraît que mon plan a très bien réussi.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="54" syll="6" part="i">Quoi ! Deschamps est au fait ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="54" syll="6" part="f">Sans doute ; en tout ceci</l>
+	<l id="55">Ses secours m'ont vraiment été très nécessaires.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="56">Oui, Monsieur. Connaissant l'état de vos affaires,</l>
+	<l id="57">J'ai déployé mon zèle en ce besoin urgent,</l>
+	<l id="58">Et c'est moi qui procure à Monsieur cet argent.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="59" syll="3" part="i">Mais comment ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="59" syll="9" part="f">Devinez ; je vous le donne en mille.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="60">Je veux bien t'épargner une peine inutile.</l>
+	<l id="61">Tiens, de l'énigme ici tu trouveras le mot.</l>
+	<l id="62" syll="1" part="i">Lis.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="62" syll="5" part="m">Qu'est-ce qui t'écrit ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="62" syll="6" part="f">C'est Monsieur_Guillemot.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="63" syll="10" part="i">Qui ? Le vieux factotum de mon oncle ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="63" syll="2" part="f">Lui même.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="get/read">, prend la lettre, et lit :
+	</stage>
+	<l id="64">Fous n'imaginez pas quelle douleur extrême</l>
+	<l id="65">A causée à Monsieur la mort de son neveu,</l>
+	<l id="66">Votre ami... Votre ami ? Mais dis-moi donc un peu ;</l>
+	<l id="67" syll="9" part="i">Parlerait-il de moi par hasard ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="67" syll="3" part="f">Je le pense.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="68" syll="6" part="i">Est-ce que je suis mort ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="68" syll="6" part="f">Que sait-on ? Lis ; j'avance.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="read">, continue à lire.
+	</stage>
+	<l id="69">Vous avez très bien fait, un si grand malheur ?</l>
+	<l id="70">De m'écrire d'abord cette triste nouvelle ;</l>
+	<l id="71">J'ai su de mon cher Maître adoucir la douleur</l>
+	<l id="72">Par les ménagements que m'a dictés mon zèle.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="73">Oh ! Monsieur_Guillemot est un garçon prudent.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="read">, lit.
+	</stage>
+	<l id="74">Monsieur approuve fort que, dans ces circonstances,</l>
+	<l id="75">Vous n'ayez épargné ni les soins ni l'argent ;</l>
+	<l id="76">Il faut vous rembourser de toutes vos avances.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="77" syll="4" part="i">Mais c'est fort juste.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="read">, lit.
+	</stage>
+	<l id="77" syll="8" part="f">Ici vous trouverez inclus</l>
+	<l id="78">Un bon effet de mille écus ;</l>
+	<l id="79">C'est, suivant votre état général de dépenses,</l>
+	<l id="80">Ce que vous ont coûté Médecin, Chirurgien,</l>
+	<l id="81">Gens qui font très souvent plus de mal que de bien,</l>
+	<l id="82">Et la Garde et l'Apothicaire,</l>
+	<l id="83">Les frais de sépulture et ceux du luminaire.</l>
+	<l id="84">Il en coûte bien cher pour mourir à Paris,</l>
+	<l id="85">Et les enterrements, Monsieur, sont hors de prix.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="86">Oh ! C'est que je t'ai fait un convoi magnifique.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="87">Je te suis obligé ; la ressource est unique.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="88" syll="6" part="i">Lis donc jusqu'à la fin.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="read">, lit.
+	</stage>
+	<l id="88" syll="6" part="f">Le défunt, dites-vous,</l>
+	<l id="89">Laisse quelques petites dettes :</l>
+	<l id="90">Voyez les créanciers, avertissez-les tous</l>
+	<l id="91">De tenir leurs quittances prêtes ;</l>
+	<l id="92">J'irai, sous peu de jours, à Paris les payer.</l>
+	<l id="93">Adieu, Monsieur : de tous vos soins mon Maître</l>
+	<l id="94">Me charge, encore un coup, de vous remercier ;</l>
+	<l id="95">Il vous aime toujours ; et moi, j'ai l'honneur d'être...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="96">Très bien, je suis charmé d'être à temps averti.</l>
+	<l id="97">De ce voyage-là nous tirerons parti ;</l>
+	<l id="98">Nous ferons bien payer tes dettes au bonhomme,</l>
+	<l id="99">Et nous accrocherons encore quelque somme.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="100">Le tour est incroyable, et j'en suis stupéfait.</l>
+	<l id="101" syll="4" part="i">On me croit mort ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="101" syll="2" part="m">Un peu.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="101" syll="6" part="f">Mais comment as-tu fait</l>
+	<l id="102" syll="3" part="i">Pour prouver ?...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="102" syll="9" part="f">J'ai fourni la preuve la plus claire ;</l>
+	<l id="103">Deschamps m'a délivré un extrait mortuaire.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="104" syll="8" part="i">Quoi ! Ce coquin a fait un faux ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="104" syll="4" part="f">Bien entendu.</l>
+	<l id="105">Eh mais, ne faut-il pas qu'il soit un jour pendu ?</l>
+	<l id="106">Qu'il le soit pour un faux, ou bien pour autre chose...</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="107">À mes dépens toujours Monsieur s'amuse et glose.</l>
+	<l id="108">Je pense qu'il me fait, en cette occasion,</l>
+	<l id="109">L'honneur d'être jaloux de mon invention.</l>
+	<l id="110">Dans ce tour peu commun éclate mon génie,</l>
+	<l id="111">Et c'est un des beaux traits qu'on lira dans ma vie.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="toward">, à Folleville.
+	</stage>
+	<l id="112">As-tu pu te servir d'un semblable moyen,</l>
+	<l id="113">Tromper ainsi mon oncle ? Oh ! Cela n'est pas bien.</l>
+	<l id="114">Tu sais, pour son neveu, jusqu'où va sa tendresse.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="115">Oui, plains-toi ; j'aime assez cette délicatesse.</l>
+	<l id="116">Imbécile, sens donc ce que l'on fait pour toi.</l>
+	<l id="117">De Nantes à Paris, tu vins, ainsi que moi,</l>
+	<l id="118">Pour nous former dans l'art de Cujas et Barthole :</l>
+	<l id="119">Nos parents comptaient bien qu'en une bonne école,</l>
+	<l id="120">Tous les deux avec fruit nous ferions notre Droit ;</l>
+	<l id="121">Mais comment travailler dans un si bel endroit,</l>
+	<l id="122">Parmi les agréments dont cette ville abonde ?</l>
+	<l id="123">On s'y divertit mieux qu'en aucun lieu du monde</l>
+	<l id="124">On y trouve à choisir mille plaisirs divers :</l>
+	<l id="125">Mais tous ces plaisirs là, par malheur, sont fort chers ;</l>
+	<l id="126">Nous le savons trop bien par notre expérience.</l>
+	<l id="127">Nous n'avons nullement épargné la dépense,</l>
+	<l id="128">Et depuis dix-huit_mois que nous sommes ici,</l>
+	<l id="129">Nous avons bien mangé de l'argent, Dieu merci.</l>
+	<l id="130">Aussi pour en avoir, que de ruses ourdies !</l>
+	<l id="131">Combien n'avons-nous pas compté de maladies,</l>
+	<l id="132">Tandis que nous étions en parfaite santé,</l>
+	<l id="133">Et des Cours où jamais nous n'avons assisté,</l>
+	<l id="134">Et le Maître d'Anglais, les mois d'Académie,</l>
+	<l id="135">Et de ce Droit surtout la dépense infinie !</l>
+	<l id="136">Notre rare savoir devrait être envié,</l>
+	<l id="137">Si nous avions appris tout ce qu'on a payé.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="138">Nos ressources enfin se sont bien affaiblies.</l>
+	<l id="139">Si nos parents encore ignorent nos folies,</l>
+	<l id="140">Au moins nous ont-ils fait sentir, par vingt refus,</l>
+	<l id="141" syll="4" part="i">Que nos dépenses.....</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="141" syll="8" part="f">Oui, l'argent ne venait plus ;</l>
+	<l id="142">Nous étions mal : Deschamps m'a fourni cette idée</l>
+	<l id="143">De supposer ta mort ; moi, je l'ai hasardée :</l>
+	<l id="144">Le tour nous réussit, et je trouve plaisant</l>
+	<l id="145">Que tu touches les frais de ton enterrement.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="146">Cet argent vient très bien pour me tirer de gêne ;</l>
+	<l id="147">Mais je songe à mon oncle, à sa cruelle peine...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="148">Bon ! Bon ! Songe plutôt au plaisir qu'il aura,</l>
+	<l id="149">Quand son neveu défunt à ses yeux reviendra :</l>
+	<l id="150" syll="6" part="i">Quelle douce surprise !</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="150" syll="6" part="f">Et ma pauvre cousine,</l>
+	<l id="151">Que j'adore, qui m'aime, est encor plus chagrine !</l>
+	<l id="152" syll="6" part="i">Comme elle va pleurer !</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="152" syll="6" part="f">Mais en revanche aussi</l>
+	<l id="153">Comme d'autres riront ! Tiens, je crois voir d'ici</l>
+	<l id="154">Plusieurs de tes parents, qui, pensant qu'ils héritent,</l>
+	<l id="155">D'une si prompte mort tout bas se félicitent :</l>
+	<l id="156">Ils vont prendre ton deuil, se partager ton bien ;</l>
+	<l id="157" syll="6" part="i">Mais ils te le rendront.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="157" syll="6" part="f">Ma foi, je n'en sais rien.</l>
+	<l id="158">Enfin, l'extrait fait foi contre mon existence;</l>
+	<l id="159" syll="9" part="i">Ils me chicaneront ; tu verras.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="159" syll="3" part="f">Oui ; sentence</l>
+	<l id="160">Par laquelle, vu l'a été, on doit te déclarer</l>
+	<l id="161">Mort, et te condamner à te faire enterrer.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="162">Si mon cousin pouvait, contre toute espérance,</l>
+	<l id="163">De mes quinze_cents_francs me faire encor l'avance !</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="164">Oh ! Tu n'en serais pas longtemps embarrassé ;</l>
+	<l id="165">Ce serait, je t'assure, un fonds bientôt placé.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="166">C'est assez discourir ; permets que je te dise</l>
+	<l id="167">D'aller au plus pressé ; va toucher sans remise</l>
+	<l id="168" syll="4" part="i">Les mille_écus.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="168" syll="8" part="f">J'y vais : toi, tandis que je sors,</l>
+	<l id="169">Et que je réglerai les choses au dehors,</l>
+	<l id="170">Travaille ici ; revois l'état de tes affaires ;</l>
+	<l id="171">Fais pour tes créanciers des billets circulaires ;</l>
+	<l id="172">Mande-leur de venir, et qu'ils sont trop heureux,</l>
+	<l id="173">Puisqu'on va les payer et finir avec eux ;</l>
+	<l id="174">Bien entendu pourtant qu'ils seront raisonnables,</l>
+	<l id="175">Et, feront sur leur dû des remises passables.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="176">Ma foi, tu sais fort bien qu'en leur donnant moitié,</l>
+	<l id="177">Il n'en est pas un seul qui ne fût trop payé.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="178">Allons, tout ira bien, sois sans inquiétude ;</l>
+	<l id="179">Je suis plus las que toi de notre solitude ;</l>
+	<l id="180">Il est temps d'en sortir, et de nous dissiper.</l>
+	<l id="181">Ce soir, en certain lieu, je te donne à souper.</l>
+	<l id="182">Je t'ai fait, par besoin, mourir de mort subite ;</l>
+	<l id="183">L'argent comptant revient, et je te ressuscite.</l>
+	<l id="184">Adieu, je vais courir : dans deux heures au plus</l>
+	<l id="185" syll="6" part="i">Je reviens te chercher.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="185" syll="6" part="f">Je compte là-dessus.</l>
+	<l id="186" syll="6" part="i">Bonjour, dépêche-toi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Daiglemont, Deschamps.
+</stage>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="186" syll="6" part="f">Jusqu'à ce qu'il arrive,</l>
+	<l id="187">À mes chers créanciers il faut donc que j'écrive...</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="188">Écoutez donc, Monsieur ; mon esprit attentif</l>
+	<l id="189">Observe ici qu'il faut un petit correctif.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="190" syll="3" part="i">Pourquoi donc ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="190" syll="9" part="f">Vous allez très fort vous contredire ;</l>
+	<l id="191">Quand on est mort, je crois qu'on ne peut pas écrire.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="192">As-tu trouvé cela sans faire un grand effort ?</l>
+	<l id="193">Je compte bien aussi dater d'avant ma mort.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="194" syll="1" part="i">Bon.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="194" syll="11" part="f">À mes créanciers je m'en vais faire entendre....</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="195" syll="1" part="i">Quoi ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="195" syll="11" part="f">Que dans l'autre monde étant près de me rendre</l>
+	<l id="196">Moi, je n'ai pas voulu, débiteur scrupuleux,</l>
+	<l id="197">Partir, pour si longtemps, sans prendre congé d'eux.</l>
+	<l id="198" syll="6" part="i">Il faut des procédés.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="198" syll="6" part="f">Ma foi, c'est très honnête ;</l>
+	<l id="199" syll="6" part="i">Ils en seront touchés.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="199" syll="6" part="f">J'ai mon dessein en tête.</l>
+	<l id="200">Laisse faire ; mon style énergique et concis</l>
+	<l id="201">Amollira leurs coeurs dans l'usure endurcis ;</l> 
+	<l id="202">Je veux que, tout contrits de leurs fraudes notoires,</l>
+	<l id="203">Eux-mêmes de moitié réduisent leurs mémoires.</l>
+	<l id="204">Parbleu, si j'en allais faire d'honnêtes gens, </l>
+	<l id="205">Cela serait bien beau ! Ne perdons point de temps ;</l>
+	<l id="206">Va chercher là-dedans mes papiers, je te prie,</l>
+	<l id="207" syll="3" part="i">Tout de suite...</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="207" syll="9" part="f">Allons ; c'est une plaisanterie,</l>
+	<l id="208">Monsieur ; vous n'avez point de papiers, entre nous,</l>
+	<l id="209">À moins que ce ne soit quelques vieux billets doux.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="210">Tu verras que tu sais mieux que moi mes affaires ?</l>
+	<l id="211">Je n'ai pas des papiers importants, nécessaires ;</l>
+	<l id="212">Griffonnés presque tous de la main des Huissiers,</l>
+	<l id="213">Et dont m'ont fait prêtent Messieurs mes créanciers ?</l>
+	<l id="214">Des assignations, des comptes, des mémoires ?...</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="215">Ah ! J'y suis. Je m'en vais vous chercher ces grimoires ;</l>
+	<l id="216" syll="8" part="i">Cela doit faire un beau recueil.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="216" syll="4" part="f">Nous allons voir</l>
+	<l id="217">Si j'aurai le talent d'attendrir, d'émouvoir !</l>
+	<l id="218">C'est par le vieux Jourdain qu'il faut que je commence ;</l>
+	<l id="219">Le drôle à tout propos vante sa conscience ;</l>
+	<l id="220">Même dans son quartier il passe pour dévot.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE IV.</head><stage> Daiglemont, Deschamps.
+</stage>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="221">Voilà, je crois, Monsieur,les papiers qu'il vous faut ;</l>
+	<l id="222">Vous aurez à les lire une peine effroyable,</l>
+	<l id="223">Et je les tiens écrits de la griffe du Diable.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="224" syll="2" part="i">C'est bon.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="224" syll="10" part="f">Monsieur a-t-il encor besoin de moi ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="225">Non, pas pour le moment ; j'écrirai bien sans toi.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="226">Je vais donc là-dedans voir l'objet de ma flamme.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="227">Tu t'es fait l'amoureux de cette vieille femme,</l>
+	<l id="228" syll="3" part="i">De l'Hôtesse ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="228" syll="9" part="f">Ma foi, Monsieur, n'en riez pas ;</l>
+	<l id="229">Elle en vaut bien la peine ; et quoique ses appas</l>
+	<l id="230">Aient au moins quarante ans, ils ont fait ma conquête.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="231" syll="6" part="i">Là, sérieusement ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="231" syll="6" part="f">D'honneur, j'en perds la tête.</l>
+	<l id="232">La bonne dame est veuve, et je lui sais du bien ;</l>
+	<l id="233">Et moi je suis garçon, Monsieur, et je n'ai rien.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="234">Ah ! Tu dois l'adorer ; je n'en suis plus en peine.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="235">Que voulez-vous ? Je suis un cadet du bas Maine ;</l>
+	<l id="236">J'ai du ciel, en naissant, reçu, pour tout avoir,</l>
+	<l id="237">Un grand fonds de mérite, et je le fais valoir.</l>
+	<l id="238">J'épouserai ; j'en ai par devers moi des preuves,</l>
+	<l id="239">Et les jolis garçons ont des droits sur les veuves.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="240">Faisons notre travail. Justement, c'est Jourdain</l>
+	<l id="241">Dont le compte d'abord me tombe sous la main.</l>
+	<l id="242">Voyons-le. « Dix coupons de belle mousseline;</l>
+	<l id="243">« Trente aunes de basin, cent-vingt de toile fine. »</l>
+	<l id="244">Je n'en ai pas levé de quoi faire un mouchoir ;</l>
+	<l id="245">J'achetais le matin pour revendre le soir...</l>
+	<l id="246">« Total, six_mille_francs », Juif, comme tu me voles !</l>
+	<l id="247">C'est beaucoup si j'en ai tiré deux cents pistoles...</l>
+	<l id="248">Allons ; mettons-nous bien en situation ;</l>
+	<l id="249">Prêchons à mon voleur la restitution.</l>
+<stage type="write">Il se met à écrire.</stage>
+	<l id="250">- Bon ! Superbe début ! C'est un trait de génie !</l>
+	<l id="251">- Écrivons gravement ; je suis à l'agonie.</l>
+	<l id="252">- L'écriture tremblée. - Il n'aura nul soupçon.</l>
+	<l id="253">- Mon épître vaudra celles de Cicéron.</l>
+	<l id="254">- Cela va bien. - Oui. - C'est ainsi qu'il faut s'y prendre.</l>
+	<l id="255">- Quel ton persuasif ! - Monsieur_Jourdain doit s'y rendre.</l>
+	<l id="256">Relisons. « Vieux coquin, dans une heure au plus tard,</l>
+	<l id="257">Je serai mort ; adieu. Toute rancune à part,</l>
+	<l id="258">Je veux bien te donner des avis salutaires.</l>
+	<l id="259">Amende-toi, renonce à tes gains usuraires ;</l>
+	<l id="260">Songe qu'en l'autre monde, où je vais aujourd'hui</l>
+	<l id="261">On est fort mal reçu, chargé du bien d'autrui.</l>
+	<l id="262">Je crois pouvoir, sans qu'on me blâme,</l>
+	<l id="263">De ton mémoire au moins retrancher la moitié :</l>
+	<l id="264">Ce que j'en fais, mon cher, c'est par pure amitié,</l>
+	<l id="265">Et pour le salut de ton âme.</l>
+	<l id="266">De ton mémoire ainsi réduit,</l>
+	<l id="267">Mon oncle recevra copie ;</l>
+	<l id="268">Il te paiera sans scandale et sans bruit :</l>
+	<l id="269">Mais si, pour ton malheur, il te prend fantaisie</l>
+	<l id="270">De vouloir contester, tu peux compter, vieux fou.</l>
+	<l id="271">Qu'exprès je reviendrai pour te tordre le cou ».</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Daiglemont, Deschamps.
+</stage>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="272">Dans cet hôtel garni, Monsieur, un homme arrive,</l>
+	<l id="273">Qui porte une figure assez rébarbative :</l>
+	<l id="274" syll="9" part="i">Il demande Monsieur_Folleville.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="274" syll="3" part="f">Et sais-tu</l>
+	<l id="275" syll="2" part="i">Qui c'est ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="275" syll="10" part="f">Non ! Il est vieux, passablement vêtu.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="276">Ah ! Puisque te voilà sers-moi de secrétaire.</l>
+	<l id="277">Tiens, fais de cette lettre un second exemplaire ;</l>
+	<l id="278">Puis tu porteras l'un au bonhomme Jourdain,</l>
+	<l id="279">Et l'autre au Bijoutier, à Monsieur_Valentin.</l>
+	<l id="280">Dis-leur bien qu'elle était depuis longtemps écrite.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="281">Oui, Monsieur. Allez-vous recevoir la visite</l>
+	<l id="282" syll="3" part="i">Du quidam ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="282" syll="9" part="f">Non ; il vient demander de l'argent :</l>
+	<l id="283">C'est quelque créancier, si ce n'est un Sergent.</l>
+	<l id="284">Parbleu ! Tu devais bien tâcher de le connaître.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="285">Mais vous-même à l'instant saurez qui ce peut être :</l>
+	<l id="286">Je crois qu'il vient ; passez dans ce cabinet-ci,</l>
+	<l id="287">D'où l'on entend très bien ce qui se dit ici.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="location">, oncle, derrière le Théâtre.
+	</stage>
+	<l id="288" syll="6" part="i">Entrons dans la maison.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="288" syll="6" part="f">Eh ! mais... je crois entendre....</l>
+	<l id="289">Oui, c'est lui... c'est sa voix... Ô ciel ! Quel parti prendre ?</l>
+	<l id="290" syll="3" part="i">C'est mon oncle....</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="290" syll="3" part="m">Votre oncle ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="290" syll="6" part="f">Eh ! Vite, cachons-nous.</l>
+<stage type="get/hurry/exit">Ils emportent les papiers, et se sauvent dans le cabinet.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Monsieur Daiglemont, Julie, L'Hôtesse.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="291">Monsieur de Folleville est sorti, dites-vous ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="292">Oui, Monsieur ; mais il doit revenir tout à l'heure.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="293">Puisque dans cet hôtel ce jeune homme demeure,</l>
+	<l id="294">J'y veux loger aussi. Vous aurez sûrement,</l>
+	<l id="295">Pour ma fille et pour moi, chez vous un logement ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="296">Certainement, Monsieur, et j'ose vous répondre</l>
+	<l id="297">Que vous serez content. Je tiens l'Hôtel_de_Londres.</l>
+	<l id="298">Sans vouloir me flatter, je puis dire qu'ici,</l>
+	<l id="299">Il ne vient que des gens comme il faut, Dieu merci.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="300">J'en suis persuadé. Le jeune Folleville,</l>
+	<l id="301">Que fait-il, dites-moi, dans cette grande ville ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="302">Mais, Monsieur, ce qu'y font beaucoup de jeunes gens,</l>
+	<l id="303">Il ne demeure ici que depuis peu de temps.</l>
+	<l id="304">Rarement je l'ai vu. Puis de mes locataires</l>
+	<l id="305">Je ne dois ni savoir ni conter les affaires.</l>
+	<l id="306">Les gens de notre état sont bavards, curieux ;</l>
+	<l id="307" syll="10" part="i">Grâce au ciel, je n'ai point ces défauts là.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="307" syll="2" part="f">Tant mieux.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="308">Sur tout ce que je sais j'ai grand soin de me taire,</l>
+	<l id="309">Et ne veux point savoir ce dont je n'ai que faire :</l>
+	<l id="310">Je ne peux pas souffrir les indiscrétions</l>
+	<l id="311">De ces gens qui toujours vous font des questions.</l>
+	<l id="312">Monsieur vient à Paris pour affaires, je pense ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="313">Oui ; par voir Folleville il faut que je commence.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="314" syll="6" part="i">C'est monsieur votre fils ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="314" syll="1" part="m">Non.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="314" syll="5" part="f">Ou votre neveu ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="315" syll="3" part="i">Hélas ! non.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="315" syll="9" part="f">Je trouvais... Il vous ressemble un peu... </l>
+	<l id="316" syll="6" part="i">Il vous connaît du moins ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="316" syll="6" part="f">Oh ! beaucoup, et je l'aime</l>
+	<l id="317" syll="4" part="i">De tout mon coeur.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="317" syll="8" part="f">Ici chacun en fait de même,</l>
+	<l id="318">Et c'est qu'il le mérite. Entre nous, je crois bien</l>
+	<l id="319">Qu'il s'amuse à Paris ; est-on jeune pour rien ?</l>
+	<l id="320">Le plaisir à cet âge est l'importante affaire ;</l>
+	<l id="321">Depuis huit jours au reste il est fort sédentaire ;</l>
+	<l id="322">Un de ses bons amis avec lui s'est logé ;</l>
+	<l id="323">Celui-là, par exemple, est un garçon rangé ;</l>
+	<l id="324">Il s'appelle Derbain ; il aime les sciences,</l>
+	<l id="325">Et surtout la physique et les expériences :</l>
+	<l id="326">Enfermé dans sa chambre, il travaille toujours,</l>
+	<l id="327">Et n'a pas mis le pied dehors tous ces huit_jours,</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="328" syll="6" part="i">Ne puis-je pas le voir ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="328" syll="6" part="f">Vous en êtes le maître ;</l>
+	<l id="329" syll="3" part="i">Il est là.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="329" syll="9" part="f">Je serais charmé de le connaître ;</l>
+	<l id="330">Je vais le saluer, et lui dire bonjour.</l>
+	<l id="331">De Folleville ainsi j'attendrai le retour.</l>
+<stage type="closer/location">Il s'approche avec l'Hôtesse de la porte du cabinet.</stage>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="332" syll="6" part="i">La clef est à la porte.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="lock">, tourne la clef et ne peut pas ouvrir.
+	</stage>
+	<l id="332" syll="3" part="m">Eh bien donc.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="332" syll="3" part="f">Poussez ferme.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="333" syll="9" part="i">Mais je crois qu'on retient la porte.</l>
+<stage type="close">On met un verrou en dedans.</stage>
+	<l id="333" syll="3" part="f">Ah ! L'on s'enferme,</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="334">C'est qu'il est occupé : je vous l'avais bien dit.</l>
+	<l id="335" syll="6" part="i">Vous le dérangeriez.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="335" syll="6" part="f">Allons ; cela suffit.</l>
+<stage type="shout">Il crie à travers la porte. </stage>
+	<l id="336">Ne vous dérangez pas, Monsieur, je vous supplie ;</l>
+	<l id="337">J'en serais désolé ; j'aime qu'on étudie.</l>
+	<l id="338">Je ne sais pas pourquoi nos gens ne viennent pas ;</l>
+	<l id="339">Je vais, pour les chercher, retourner sur mes pas.</l>
+<stage type="toward">À Julie.</stage>
+	<l id="340">Toi, reste avec Madame. Allons, ma bonne amie,</l>
+	<l id="341">Tâche ici d'oublier ton chagrin ; je t'en prie.</l>
+	<l id="342" syll="2" part="i">Adieu.</l>
+<stage type="kiss">Il l'embrasse.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> L'Hotesse, Julie.
+</stage>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="342" syll="10" part="f">Mademoiselle, à ce que je conçois ,</l>
+	<l id="343">Voit Paris aujourd'hui pour la première fois ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="344" syll="3" part="i">Oui, Madame.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="344" syll="9" part="f">Et sans doute elle en est bien joyeuse ? </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="345" syll="3" part="i">Pas beaucoup.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="345" syll="9" part="f">Quoi ! Si jeune, et si peu curieuse !</l>
+	<l id="346">Savez-vous bien qu'il n'est au monde qu'un Paris ?</l>
+	<l id="347">Chaque étranger qui vient est enchanté, surpris ;</l>
+	<l id="348">Rien n'est si beau !... Partout c'est un bruit ! Une foule !</l>
+	<l id="349">Sans des plaisirs nouveaux aucun jour ne s'écoule.</l>
+	<l id="350">Il faut aller tout voir, Comédie, Opéra.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="351">Qui ? Moi ? J'irai partout où mon père voudra.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="352">Comment donc ? Aux plaisirs êtes-vous insensible ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="353">Les goûter à présent me serait impossible.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="354">Pauvre enfant ! Quelle est donc sa situation ?</l>
+	<l id="355">Aurions-nous par hasard quelque inclination,</l>
+	<l id="356">Quelque tendre, penchant qu'un père désapprouve ?</l>
+	<l id="357">Ah ! je sais bien alors quel chagrin on éprouve,</l>
+	<l id="358">Moi, j'ai passé par-là. Pour vous mieux désoler,</l>
+	<l id="359">D'un vieux mari, peut-être, on veut vous affubler.</l>
+	<l id="360">Car voilà comme on fait... Les malheureuses filles !</l>
+	<l id="361">Toujours on les marie au gré de leurs familles,</l>
+	<l id="362">Jamais au leur... Je vois... Vous venez à Paris</l>
+	<l id="363">Acheter des bijoux, des étoffes de prix,</l>
+	<l id="364">Enfin tout ce qu'il faut quand on entre en ménage,</l>
+	<l id="365">Le trousseau ?... N'est-ce pas ?... À quand le mariage ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="366">Mon père n'est pas homme à me sacrifier,</l>
+	<l id="367">Et c'est moi qui ne veux jamais me marier.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="368">Ah ! Jamais ; ne jurons de rien, Mademoiselle ;</l>
+	<l id="369">Mais enfin, d'où vous vient cette peine cruelle ?</l>
+	<l id="370">Je crois le deviner ; soyez de bonne foi ;</l>
+	<l id="371">Je m'y connais un peu ; vous aimez, je le vois ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="372" syll="2" part="i">Ah ! Dieu !</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="372" syll="10" part="f">Là, faites-moi la confidence entière.</l>
+	<l id="373">Je suis fort indulgente en pareille matière.</l>
+	<l id="374">Au fait, est-ce pour rien que nous avons un coeur ?</l>
+	<l id="375">Puis, si vous aimez, c'est en tout bien, tout honneur.</l>
+	<l id="376">Dites-moi, votre amant est-il jeune, sincère.</l>
+	<l id="377">Vous écrit-il ? A-t-il l'aveu de votre père ?</l>
+	<l id="378">Viendra-t-il à Paris ? Est-il un peu jaloux ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="379">Hélas ! Il pouvait bien être connu de vous.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="380">Bon ! Comment ? Il a donc habité cette ville ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="381">C'était l'intime ami de Monsieur Folleville.</l>
+	<l id="382">Plus d'une fois sans doute il est ici venu.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="383" syll="6" part="i">Comment le nommait-on ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="383" syll="3" part="m">Daiglemont.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="383" syll="3" part="f">Je n'ai vu</l>
+	<l id="384">Personne de ce nom. Si bien donc qu'il demeure</l>
+	<l id="385" syll="3" part="i">À Paris ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="385" syll="9" part="f">Il n'est plus ; c'est sa mort que je pleure.</l>
+	<l id="386">Je le regretterai toujours comme aujourd'hui ;</l>
+	<l id="387">Je l'aimai le premier ; je n'aimerai que lui.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="388">Quoi ! Votre amant est mort ! Quel malheur effroyable !</l>
+	<l id="389">D'honneur, cela me fait une peine incroyable.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="390">Ensemble dès l'enfance élevés tous les deux,</l>
+	<l id="391">Nous avions mêmes goûts, mêmes soins, mêmes jeux :</l>
+	<l id="392">Je le voyais sans peine adoré de mon père ;</l>
+	<l id="393">Ce n'était qu'un cousin, je l'aimais plus qu'un frère...</l>
+	<l id="394">Je n'ai plus rien au monde, et n'y veux point rester.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="395">Mademoiselle, aussi c'est trop vous attrister ;</l>
+	<l id="396">L'usage de Paris est différent du vôtre :</l>
+	<l id="397">Quand on perd un amant, on se pourvoit d'un autre.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="398">Ma douleur est réelle, et durera toujours.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="399">Bon ! Bon ! Soyez ici seulement quinze jours...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="400">J'ai besoin de repos ; je me sens un peu lasse ;</l>
+	<l id="401">Faites que l'on me donne une chambre, de grâce,</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="402">Dans votre appartement je vais vous installer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> L'Hotesse, Julie, Deschamps fort du cabinet.
+</stage>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="403">Pardon, je vois quelqu'un qui voudrait me parler.</l>
+	<l id="404">Je m'en vais dire... Holà !... Viendra-t-on quand j'appelle ?</l>
+<stage type="open">Un valet paraît.</stage>
+	<l id="405">Au grand appartement menez Mademoiselle.</l>
+	<l id="406">Excusez-moi ; bientôt j'irai vous retrouver.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="407">Restez ; seule chez moi je vais lire ou rêver.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> L'Hotesse, Dëschamps.
+</stage>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="408">Ah ! Vous voilà, ma Reine. À la fin on vous trouve.</l>
+	<l id="409">Lisez-vous dans mes yeux le transport que j'éprouve ?</l>
+	<l id="410">De joie, en vous voyant, mon coeur est chatouillé.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="411">Le plaisir près de vous, tient le mien éveillé.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="412">Ça, quand épousons-nous ? Car chez moi cela presse.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="413">Et moi, je crains ; je vais n'être plus ma maîtresse.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="414">Pourquoi donc ? Nous ferons un ménage si doux,</l>
+	<l id="415">Que dans votre maison... La maison est à vous,</l>
+	<l id="416" syll="3" part="i">N'est-ce pas ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="416" syll="6" part="m">Oui, vraiment.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="416" syll="6" part="f">Ah ! Vous êtes charmante.</l>
+	<l id="417" syll="10" part="i">Je crois qu'elle vaut bien vingt_mille_francs ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="417" syll="2" part="f">Oh! trente</l>
+	<l id="418" syll="3" part="i">Tout au moins.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="418" syll="9" part="f">Les beaux yeux ! Qu'ils sont vifs et perçants !</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="419" syll="4" part="i">Vous me flattez.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="419" syll="8" part="f">Qui ? moi ? Je dis ce que je sens.</l>
+	<l id="420">Votre mobilier paraît considérable ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="421" syll="6" part="i">Il vaut dix mille francs.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="421" syll="6" part="f">Vous êtes adorable.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="422">J'ai beaucoup travaillé ; Dieu merci, j'ai du bien.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="423">Parle-t-on de cela ? Fi donc ! N'eussiez-vous rien,</l>
+	<l id="424">Je vous préférerais, belle comme vous êtes,</l>
+	<l id="425">Aux plus riches partis... Vous n'avez point de dettes ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="426">Très peu ; d'ailleurs bientôt je compte rembourser.</l>
+	<l id="427" syll="6" part="i">J'ai de l'argent comptant.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="kiss">, en l'embrassant.
+	</stage>
+	<l id="427" syll="6" part="f">Je veux vous embrasser.</l>
+	<l id="428">Je ne puis résister au désir qui me brûle.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="429" syll="6" part="i">Finissez donc, Monsieur.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="429" syll="6" part="f">D'où vous vient ce scrupule ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="430" syll="2" part="i">Eh ! mais... ;</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="430" syll="10" part="f">Ne suis-je pas votre futur époux ?</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="431" syll="6" part="i">Vous avez ma parole.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="431" syll="6" part="f">Eh bien, que craignez-vous ?</l>
+	<l id="432">Au point où nous voilà, vos refus sont bizarres ;</l>
+	<l id="433">Et pour qu'un marché tienne, il faut donner des arrhes.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="434">Non. Femme qui les donne, assez souvent les perd .</l>
+	<l id="435">Et je ne suis déjà que trop à découvert.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="436">Quoique cette pudeur à mes voeux soit contraire,</l>
+	<l id="437">Je l'aime. Adieu, cher coeur. J'ai des courses à faire ;</l>
+	<l id="438">L'amour cède au devoir ; mais bientôt de retour,</l>
+	<l id="439">Je reviens à vos pieds du devoir à l'amour.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="happy/carry"> entre gaîment, une bourse à la main.
+	</stage>
+	<l id="440">J'ai touché notre argent !... Ménageons cette bourse...</l>
+	<l id="441">On n'use pas deux fois d'une telle ressource...</l>
+	<l id="442">Mille écus !... À présent, attendons Guillemot.</l>
+	<l id="443">Pour nous mieux mettre en fonds il doit venir bientôt...</l>
+	<l id="444">On nous l'envoie exprès... Ce cher oncle !.. Je l'aime...</l>
+	<l id="445">Il nous eût fort gênés, s'il fût venu lui-même ;</l>
+	<l id="446">Heureusement pour nous, il est très loin d'ici...</l>
+<stage type="call/location">Il appelle du côté du cabinet.</stage>
+	<l id="447" syll="9" part="i">Tout va bien... Daiglemont... Daiglemont...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Folleville, Monsieur Daiglemont.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="entrance/location">, entrant tout d'un coup par un autre côté.
+	</stage>
+	<l id="447" syll="3" part="f">Me voici..</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="448" syll="6" part="i">Comment, Monsieur, c'est vous ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="448" syll="6" part="f">Vous le voyez ; moi-même.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="449" syll="4" part="i">Est-il bien vrai ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="449" syll="8" part="f">D'où vient cette surprise extrême ?</l>
+	<l id="450" syll="10" part="i">Vous me saviez ici ? Vous m'appeliez ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="450" syll="2" part="f">Moi ? Non.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="451">Mais très distinctement vous avez dit mon nom.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="452" syll="3" part="i">Vous croyez ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="452" syll="3" part="m">J'en suis sûr.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="452" syll="6" part="f">Cela se peut, sans doute ;</l>
+	<l id="453">C'est l'effet des regrets que mon ami me coûte ;</l>
+	<l id="454">Bien souvent je le nomme, et malgré son trépas,</l>
+	<l id="455">Insensé ! Je l'appelle ; il ne me répond pas.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="456">D'une vive amitié c'est la marque certaine.</l>
+	<l id="457">Sa mort m'a fait aussi la plus affreuse peine !...</l>
+	<l id="458" syll="9" part="i">Vous ne m'attendiez pas, je pense ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="458" syll="3" part="f">Pas beaucoup.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="459">Je me suis à venir décidé tout d'un coup.</l>
+	<l id="460">Et j'arrive un peu las, mais bien portant du reste,</l>
+	<l id="461" syll="6" part="i">Je loge en cet hôtel.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="461" syll="6" part="f">Je fuis, je vous proteste,</l>
+	<l id="462">Enchanté de vous voir. Cependant, entre nous,</l>
+	<l id="463">J'aimerais tout autant que vous fussiez chez vous.</l>
+	<l id="464">Risquer votre santé ! Voyager à votre âge !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="465">J'avais chargé d'abord Guillemot du voyage.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="466">Il fallait qu'il le fît, et je suis affligé</l>
+	<l id="467" syll="6" part="i">Par intérêt pour vous....</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="467" syll="6" part="f">Je vous suis obligé.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+<note type="L">Mesquin : Qui est de pauvre et chétive apparence. [L]</note>
+	<l id="468">Vous serez mal ici ; la maison est mesquine.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="469">Je ferai près de vous ; cela me détermine.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="470" syll="6" part="i">Vous êtes trop honnête.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="470" syll="6" part="f">Ah !... Vous avez reçu</l>
+	<l id="471" syll="6" part="i">Une lettre un effet ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="471" syll="6" part="f">Oui, tout m'est parvenu.</l>
+	<l id="472">Par exemple, pourquoi vous presser de me rendre</l>
+	<l id="473">Cette misère-là ? Je pouvais bien attendre ;</l>
+	<l id="474">Pour un peu de retard, rien n'eût été perdu :</l>
+	<l id="475" syll="6" part="i">Cela ne valait pas...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="475" syll="6" part="f">Cela vous était dû ;</l>
+	<l id="476">C'étaient des déboursés, et qui, par leur nature...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="477">Ne m'ont pas un instant gêné, je vous assure.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="478">Oh ! Ça, je vais un peu voir mon appartement ;</l>
+	<l id="479">Tantôt nous parlerons d'affaires amplement.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="480">Je vais, en attendant, vous tenir compagnie.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="481">Non, non ; restez, mon cher ; point de cérémonie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="482">Ah ! parbleu, nous voilà dans un bel embarras !</l>
+	<l id="483">Comment sortirons-nous d'un aussi mauvais pas ?</l>
+	<l id="484">Si le bon homme va découvrir le mystère,</l>
+	<l id="485">Il sera contre nous d'une horrible colère ;</l>
+	<l id="486">Mais de mon plan toujours assurons le succès ;</l>
+	<l id="487">Que d'abord l'oncle paye, et qu'il se fâche après.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Folleville, Daiglemont, Deschamps.
+</stage>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="location">, va à la porte du cabinet.
+	</stage>
+	<l id="488">Hé, notre ami, sais-tu que ton oncle lui-même...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="489">Est ici. Tu nous mets dans une peine extrême,</l>
+	<l id="490" syll="6" part="i">Et qu'y gagnerons-nous ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="490" syll="6" part="f">Mais d'abord mille écus,</l>
+	<l id="491">Qu'en fort beaux louis d'or à l'instant j'ai reçus.</l>
+	<l id="492">Hé, Deschamps, veille un peu, que l'on ne nous surprenne.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="493">J'ai l'oeil bon, Dieu merci ; ne soyez point en peine.</l>
+	<l id="494">Si quelqu'un vient, j'aurai soin de vous avertir.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="495">Où ton adresse enfin pourra-t-elle aboutir ?</l>
+	<l id="496">Là, dis-moi maintenant ce que nous allons faire ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="497">Il n'est pas trop aisé de nous tirer d'affaire.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="498" syll="3" part="i">Je le crois.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="498" syll="9" part="f">Je ne vois qu'un moyen d'en sortir.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="499" syll="3" part="i">Quel est-il ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="499" syll="9" part="f">Ma foi, c'est de te laisser mourir.</l>
+	<l id="500">Toi défunt, il n'est plus nécessaire de feindre ;</l>
+	<l id="501">Tu n'auras de ton oncle aucun reproche à craindre,</l>
+	<l id="502">Ni moi non plus ; cela nous met tous en repos.</l>
+	<l id="503">Tiens, tu ne peux jamais mourir plus à propos.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="504">Ris ; dis-nous des bons mots d'un air plaisant et leste.</l>
+	<l id="505">Sais-tu qu'il faut avoir bien de l'esprit de reste,</l>
+	<l id="506">Pour en vouloir fourrer partout comme tu fais ?</l>
+	<l id="507">Je vais tout avouer à mon oncle ; je vais</l>
+	<l id="508" syll="6" part="i">Me jeter à ses pieds.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="508" syll="6" part="f">Oui, je te le conseille ;</l>
+	<l id="509">Prends-moi le ton pleureur ; il te sied à merveille ;</l>
+	<l id="510">Va faire le nigaud : tu n'as donc pas de coeur ?</l>
+	<l id="511">Je te demande où sont les sentiments, l'honneur ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="512">Mais, encore une fois, que faut-il que je fasse ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="513">Je vais te l'indiquer ; car un rien t'embarrasse,</l>
+	<l id="514">Notre projet enfin, jusqu'ici bien conduit,</l>
+	<l id="515">Pour être dérangé, n'est pas encor détruit.</l>
+	<l id="516">Ton oncle ne sait pas le fin de notre histoire ;</l>
+	<l id="517">Il te croit toujours mort : eh bien, laissons-le croire.</l>
+	<l id="518">Toi, dans ce cabinet, renferme-toi sans bruit ;</l>
+	<l id="519">N'en sors pas un instant ; sitôt qu'il fera nuit,</l>
+	<l id="520">Tu partiras, muni d'une bourse assez ronde ;</l>
+	<l id="521">Et dans quelque retraite agréable et profonde,</l>
+	<l id="522">Tandis que ton trépas causera nos soupirs,</l>
+	<l id="523">Tu vivras à ton aise au milieu des plaisirs.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="524" syll="9" part="i">Et tu feras payer mes dettes ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="524" syll="3" part="f">Je l'espère.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="525">C'est que c'est là le point important de l'affaire.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="526">En as-tu fait l'état ? Peux-tu me le donner ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="527" syll="3" part="i">Pas encore.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="527" syll="6" part="f">Avant tout, il faut le terminer.</l>
+	<l id="528">Tes créanciers, voyons, que leur as-tu fait dire ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="529">Tantôt à quelques-uns j'ai pris le soin d'écrire</l>
+	<l id="530" syll="6" part="i">Qu'on leur payerait moitié.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="530" syll="6" part="f">Fort bien. Mon cher Deschamps,</l>
+	<l id="531" syll="6" part="i">Il faut nous seconder.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="531" syll="6" part="f">Volontiers ; j'y consens.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="532">Fais autour de notre oncle exacte sentinelle ;</l>
+	<l id="533">Entends, observe tout ; sois prêt, si je t'appelle.</l>
+<stage type="toward">À Daiglemont.</stage>
+	<l id="534">De ton état passif allons nous occuper ;</l>
+	<l id="535">Viens ; le succès en vain semble nous échapper ;</l>
+	<l id="536">J'en réponds ; tu verras, en affaire pareille,</l>
+	<l id="537">Que j'exécute encor mieux que je ne conseille.</l>
+<stage type="exit/together">Folleville et Daiglemont rentrent dans le cabinet.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="538">Laissez-moi faire, allez ; je ne suis pas un sot,</l>
+	<l id="539">Et je prétends ici vous aider comme il faut.</l>
+	<l id="540">Quelqu'un vient... C'est notre oncle... Il a tort. Comment diantre ?</l>
+	<l id="541">Là dedans à présent il ne faut pas qu'il entre ;</l>
+	<l id="542">Cherchons quelque moyen de l'arrêter ici...</l>
+	<l id="543">Il s'agit de mentir... c'est aisé... m'y voici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Monsieur Daiglemont, Deschamps.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="544">Folleville est chez lui ? Sans doute il est visible,</l>
+	<l id="545" syll="6" part="i">N'est-ce pas, mon ami ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="545" syll="6" part="f">Que vois-je ? Est-il possible ?</l>
+	<l id="546" syll="9" part="i">Ah ! Monsieur, je me jette à vos pieds.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="546" syll="3" part="f">Que veux-tu ?</l>
+	<l id="547">D'où nous connaissons-nous ? Tu ne m'as jamais vu.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="548">Oh ! Cela ne fait rien. Je fais vous reconnaître.</l>
+	<l id="549">Vous ressemblez si fort à feu mon pauvre maître !</l>
+	<l id="550">Il faut que vous soyez son oncle Daiglemont :</l>
+	<l id="551">Oui, Moniteur, c'est vous-même, et mon coeur m'en répond.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="552" syll="6" part="i">Tu servais mon neveu ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="552" syll="6" part="f">Jugez de ma disgrâce ;</l>
+	<l id="553">Vous sentez que sa mort m'a fait perdre ma place:</l>
+	<l id="554">Il n'a pu me garder. Ah ! Quel événement !</l>
+	<l id="555">Je l'ai donc vu mourir ce jeune homme charmant,</l>
+	<l id="556">Qui menait à son âge une vie exemplaire,</l>
+	<l id="557">Qui, dès qu'il se montrait, était certain de plaire ;</l>
+	<l id="558">Beau comme un ange.... Enfin, c'était votre portrait.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="559">Il me ressemblait fort, oui, chacun le disait.</l>
+	<l id="560" syll="9" part="i">Mais adieu ; je vais voir Folleville.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="pull">, le retenant.
+	</stage>
+	<l id="560" syll="3" part="f">Ah ! J'espère</l>
+	<l id="561">Que vous compatirez, Monsieur, à ma misère.</l>
+	<l id="562">Hélas ! J'ai sur les bras ma femme et quatre enfants.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="563">Je te plains. Mais il faut que j'entre là-dedans.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="pull">, le retenant encore.
+	</stage>
+	<l id="564">Monsieur, les malheureux aiment qu'on les écoute,</l>
+	<l id="565">Qu'on les plaigne c'est là le service sans doute</l>
+	<l id="566">Qu'on rend plus volontiers ; car il ne coûte rien.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="567">Va, va, je tâcherai de te faire du bien.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="568">Monsieur, pour un moment si je vous intéresse,</l>
+	<l id="569">Je suis content... Me voir si fort dans la détresse !...</l>
+	<l id="570">Feu Monsieur me disait : Deschamps, reste avec moi ;</l>
+	<l id="571">Tu ne manqueras pas, je prendrai soin de toi ;</l>
+	<l id="572">Si je viens à mourir, je prétends et j'ordonne</l>
+	<l id="573">Que jamais après moi tu ne serves personne,</l>
+	<l id="574">Et je n'oublierai pas de faire un testament,</l>
+	<l id="575">Afin de te laisser de quoi vivre aisément.</l>
+	<l id="576">Mais il est brusquement parti pour l'autre monde...</l>
+	<l id="577">En pleurs, lorsque j'y pense, il faut bien que je fonde...</l>
+	<l id="578">Être emporté si vite !... Ah ! j'en perdrai l'esprit.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="579">Le pauvre malheureux ! Vraiment, il m'attendrit.</l>
+	<l id="580">Va, je te placerai comme il faut ; sois tranquille.</l>
+	<l id="581">Mais, encore une fois, je veux voir Folleville,</l>
+	<l id="582" syll="2" part="i">Adieu.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="582" syll="10" part="f">Pardon, si j'ose encor vous arrêter.</l>
+	<l id="583">C'est que réellement je ne puis vous quitter.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Monsieur Daiglemont, Deschamps, Folleville sort du cabinet. 
+</stage> 
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="584">Ah ! vous voilà, mon cher ? chez vous j'allais me rendre,</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="585">Comment! Est-ce qu'ici l'on vous a fait attendre ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="586">Il n'importe le temps ne m'a pas semblé long,</l>
+	<l id="587">Et je causais avec cet honnête garçon.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="588" syll="6" part="i">Oui ; j'amusais Monsieur.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="588" syll="6" part="f">C'est un bon domestique,</l>
+	<l id="589" syll="5" part="i">À ce qu'il paraît ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="589" syll="7" part="f">Lui ? c'est un sujet unique.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="590">Et Daiglemont devait en être bien content ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="591">Daiglemont ?... En faisait l'éloge à chaque instant.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="592">Puisque vous m'en rendez un si bon témoignage,</l>
+	<l id="593">Je veux de mes bontés lui donner quelque gage.</l>
+	<l id="594" syll="8" part="i">Prends ce double louis à compte.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="594" syll="4" part="f">En vérité, </l>
+	<l id="595">Monsieur, c'est déjà plus que je n'ai mérité.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="596">Non, non, tous tes discours montrent une belle âme ;</l>
+	<l id="597">Va, va-t'en retrouver tes enfants et ta femme ;</l>
+	<l id="598">Console-les, dis-leur qu'à partir d'aujourd'hui</l>
+	<l id="599">Je prétends devenir leur père, et ton appui.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="600">Je n'avais pas compté recevoir ce salaire ;</l>
+	<l id="601">Mais on gagne toujours quelque chose à bien faire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Monsieur Daiglemont, Folleville.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="602">Ça, parlons des motifs qui m'amènent ici.</l>
+	<l id="603">Vous nous avez mandé que dans ce pays ci,</l>
+	<l id="604">Mon neveu, que je plains, a laissé quelques dettes ;</l>
+	<l id="605">Moi-même je verrai comment elles sont faites ;</l>
+	<l id="606">Je suis assez surpris qu'il ait pu s'endetter.</l>
+	<l id="607">Puis de l'occasion j'ai voulu profiter</l>
+	<l id="608">Pour faire voir Paris à ma pauvre Julie,</l>
+	<l id="609">Et la distraire un peu de sa mélancolie.</l>
+	<l id="610">Cet enfant se désole ; elle aimait son cousin ;</l>
+	<l id="611">Je cherche les moyens d'adoucir son chagrin,</l>
+	<l id="612">Et c'est pour elle aussi que j'ai fait le voyage.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="613">Tout cela me paraît on ne peut pas plus sage.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="614">Savez-vous à peu près combien doit mon neveu ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="615">Mais, Monsieur, c'est selon ; il doit beaucoup et peu.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="616" syll="6" part="i">Comment l'entendez-vous ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="616" syll="6" part="f">Cela peut vous surprendre ;</l>
+	<l id="617">Mais dans l'instant, je crois, vous allez me comprendre :</l>
+	<l id="618">Envers ses créanciers il a bien reconnu</l>
+	<l id="619">Qu'il leur devait beaucoup ; mais il a peu reçu.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="620">Mais vous me parlez là de mauvaises affaires ;</l>
+	<l id="621">Il a donc contrarié des dettes usuraires ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="622">Un jeune homme peut-il emprunter autrement ?</l>
+	<l id="623">Il faut qu'au poids de l'or il achète l'argent.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="624">De voir les créanciers il faut que je m'occupe.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="625">Je pourrai vous aider à n'être pas leur dupe.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="626" syll="6" part="i">Oui ? Comment ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="626" syll="6" part="f">J'ai sur eux de bons renseignements .</l>
+	<l id="627">Et Daiglemont lui-même, à ses derniers moments,</l>
+	<l id="628">A fait l'état au vrai de ses dettes passives,</l>
+<note type="L">Apostiller : Mettre une apostille, des apostilles [Annotation en marge ou au bas d'un écrit.] [L]</note>
+	<l id="629">Dûment apostillé de notes instructives.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="630" syll="6" part="i">Vous me le remettrez ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="630" syll="4" part="m">Très volontiers.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="630" syll="2" part="f">C'est bon.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="631">Ces Messieurs aisément n'entendront pas raison ;</l>
+	<l id="632">Mais pour mieux parvenir à la leur faire entendre,</l>
+	<l id="633">Offrez de les payer comptant, et sans attendre ;</l>
+	<l id="634">Ils se décideront ; ils sont gens à savoir</l>
+	<l id="635">Très bien ce que par heure un écu peut valoir.</l>
+	<l id="636">Plus tard on leur rendrait, plus il faudrait leur rendre.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="637">Très grand merci des soins que vous voulez bien prendre.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="638">Bon ! C'est avec plaisir, et par pure amitié :</l>
+	<l id="639">Je voudrais que déjà vous eussiez tout payé.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="640">Nous verrons tout cela... Mais que nous veut ma fille ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Les mêmes, Julie.
+</stage>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="641">L'Hôtesse me fait fuir ; sans cesse elle babille ;</l>
+	<l id="642">Son caquet à la fin me lasse et m'étourdit.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="643">Mais sans trop prendre garde à tout ce qu'elle dit?</l>
+	<l id="644">Cela te distrairait ; tu serais plus tranquille.</l>
+	<l id="645">Ma chère enfant, tu vois Monsieur de Folleville ;</l>
+	<l id="646">C'était le bon ami du pauvre Daiglemont.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="wave">, saluant Julie.
+	</stage>
+	<l id="647">Puis-je vous assurer de mon respect profond ? </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="648" syll="2" part="i">Monsieur....</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="648" syll="8" part="m">Tu te plais mieux toute seule ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="648" syll="2" part="f">Mon père</l>
+	<l id="649" syll="9" part="i">Je vous fais de la peine ; excusez.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="649" syll="3" part="f">Va, ma chère,</l>
+<stage type="toward">À Folleville.</stage>
+	<l id="650">Je ne puis t'en vouloir. Encor de nouveaux pleurs.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage type="toward">, à Julie.
+	</stage>
+	<l id="651">Je suis loin de blâmer vos regrets, vos douleurs.</l>
+	<l id="652">De mon ami pour vous j'ai connu la tendresse ;</l>
+	<l id="653">Mais on peut vaincre enfin la plus juste tristesse.</l>
+	<l id="654">Nous nous empresserons tous de vous consoler.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="655">Il a grande raison ; on ne peut mieux parler.</l>
+<stage type="toward">À Folleville.</stage>
+	<l id="656">Allons voir nos Messieurs. Ma fille, je vais faire</l>
+	<l id="657">En sorte de finir promptement toute affaire ;</l>
+	<l id="658">Puis à tes moindres voeux, tout prêt a consentir?</l>
+	<l id="659">Tu n'auras qu'à vouloir, pour te bien divertir.</l>
+<stage type="exit/together">Ils sortent tous, excepté Julie.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="JULIE"><speaker>JULIE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="660">Ah ! Dieu ! Dans le chagrin dont je suis tourmentée,</l>
+	<l id="661">De quels amusements pourrais-je être flattée ?</l>
+	<l id="662">Il n'en est plus pour moi... Cher cousin !... Non, jamais...</l>
+	<l id="663">Je sens bien à présent à quel point je l'aimais...</l>
+	<l id="664">Je le perds... pour toujours... Cette idée est affreuse.</l>
+	<l id="665">Je ne le verrai plus. Ah ! Pleure malheureuse,</l>
+	<l id="666">Pleure... Oh ! Si je pouvais, une fois seulement,</l>
+	<l id="667">Le revoir, lui parler. Ne fût-ce qu'un moment !...</l>
+	<l id="668">Pour un moment si doux, je donnerais ma vie...</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCENE XIII.</head><stage> Julie, DAIGLEMONT fort du cabinet.
+</stage>
+<note type="C">La numérotation des scènes est incorrecte. La scène 13 est le onzième. </note>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="669" syll="6" part="i">Ah ! Grand Dieu ! Me trompé-je ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="669" syll="6" part="f">Ô ma chère Julie !</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="670">Il me parle !... Est il vrai ?... Daiglemont, est-ce toi ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="671">Ma charmante cousine, ah ! N'aie aucun effroi !</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="672" syll="6" part="i">Je ne t'ai point perdu ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="672" syll="6" part="f">Revois celui qui t'aime.</l>
+	<l id="673">Oui, je vis, et pour toi je suis toujours le même ;</l>
+	<l id="674">Sur un récit trompeur, cesse de me pleurer.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="675" syll="6" part="i">Mais explique-moi donc ?...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="675" syll="6" part="f">Il faut te déclarer</l>
+	<l id="676">La vérité ; j'étais... Ciel ! on vient ; prenons garde;</l>
+	<l id="677">C'est l'Hôtesse ; feignons ; car c'est une bavarde.</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XIV.</head><stage> Julie, Daiglemont, L'Hôtesse.
+</stage>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="678">Ah ! Ah ! Monsieur Derbain, je vous rencontre ici ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="679" syll="6" part="i">Monsieur Derbain ?... Mais...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="679" syll="6" part="f">Oui ; c'est moi qu'on nomme ainsi,</l>
+	<l id="680" syll="4" part="i">Mademoiselle.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE</speaker><stage type="toward">, à Julie.
+	</stage>
+	<l id="680" syll="8" part="f">Et vous, pourquoi donc, je vous prie ;</l>
+	<l id="681">Nous fuir ? Pour vous livrer à votre rêverie ?</l>
+	<l id="682">Mais Monsieur votre père, en sortant, m'a prescrit</l>
+	<l id="683">De chercher les moyens d'égayer votre esprit.</l>
+	<l id="684" syll="6" part="i">Je ne vous quitte plus.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="684" syll="6" part="f">C'est avoir trop de zèle.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="685">Moi, j'arrive, et j'ai fait peur à Mademoiselle ;</l>
+	<l id="686">En entrant tout d'un coup ; j'ai mal pris mon moment.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="687">Oui, vous m'avez causé beaucoup d'étonnement ;</l>
+	<l id="688" syll="6" part="i">Mais je ne m'en plains pas.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="688" syll="6" part="f">Ah ! Vous êtes si bonne !</l>
+<stage type="toward">À Daiglemont.</stage>
+	<l id="689">Je cherche à consoler cette jeune personne ;</l>
+	<l id="690">Aidez-moi, s'il vous plaît ; causons un peu tous deux ;</l>
+	<l id="691" syll="6" part="i">Cela l'amusera.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="691" syll="6" part="f">De bon coeur ; je le veux.</l>
+	<l id="692">Eh ! Tenez, je m'en vais vous conter une histoire</l>
+	<l id="693">Qui vient fort à propos s'offrir à ma mémoire.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="694" syll="3" part="i">Voyons donc.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="694" syll="9" part="f">Vous savez comme les jeunes gens,</l>
+	<l id="695">Pour dépenser ici, rançonnent leurs parents ;</l>
+	<l id="696">Ils ont, pour les tromper, des ruses incroyables.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="697">C'est que tous ne sont pas, comme vous, raisonnables.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="698">Or écoutez le tour qu'ont fait deux étourdis,</l>
+	<l id="699">Dont l'un, je vous l'avoue, est fort de mes amis.</l>
+	<l id="700">L'autre suppose un jour que ton cher camarade</l>
+	<l id="701">Est mort, après avoir été longtemps malade ;</l>
+	<l id="702">À l'oncle du défunt il écrit tristement,</l>
+	<l id="703">Lui conte avec détails la mort, l'enterrement,</l>
+	<l id="704">En réclame les frais ; l'oncle, honnête et brave homme.</l>
+	<l id="705">S'empresse d'envoyer une assez forte somme...</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="706">S'il n'est pas vrai, le conte au moins est bien trouvé.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="707">Un conte ?... Point du tout ; le fait est arrivé.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="708">Tant pis ; je blâme fort un pareil artifice.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="709">Permettez ; mon ami n'en était point complice ;</l>
+	<l id="710">Il n'a même à la ruse en rien contribué ;</l>
+	<l id="711">C'est sans le prévenir que l'autre l'a tué.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="712">Ces deux Messieurs menaient une belle conduite !</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="713">Enfin, de mon récit écoutez donc la suite.</l>
+	<l id="714">L'oncle arrive ; jugez quel embarras cruel !</l>
+	<l id="715">Pour mon ami surtout un chagrin bien réel</l>
+	<l id="716">Vint de ce qu'il aimait, et de toute son âme,</l>
+	<l id="717">Une jeune beauté bien digne de sa flamme ;</l>
+	<l id="718">Dès l'âge le plus tendre il en était épris...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="719">Et peut-être il l'avait oubliée à Paris ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="720">Oh ! Non ; elle n'est pas de celles qu'on oublie.</l>
+	<l id="721">Comptez qu'il l'aime encore, et pour toute sa vie :</l>
+	<l id="722">Aussi, sans désespoir, il ne pouvait songer</l>
+	<l id="723">Qu'elle allait de sa mort peut-être s'affliger ;</l>
+	<l id="724">Et quoiqu'il n'eût pas eu de part au stratagème,</l>
+	<l id="725">Il se le reprochait, s'en voulait à lui-même</l>
+	<l id="726">Du chagrin qu'elle avoir senti... Mais, par bonheur,</l>
+	<l id="727">Il trouva le moyen de la tirer d'erreur,</l>
+	<l id="728">Lui peignit son amour, son repentir sincère :</l>
+	<l id="729">Pendez-vous qu'elle fut bien longtemps en colère ?</l>
+	<l id="730">Que fit-elle? Voyons ; daignez le deviner.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="731">Elle fut assez bonne encor pour pardonner.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="732">Oh ! Je le gagerais. Voila comme nous sommes !</l>
+	<l id="733">On ne nous parte rien ; nous partions tout aux hommes.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="734" syll="6" part="i">Elle fit plus encore.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="734" syll="6" part="f">Eh ! Quoi donc ? Pour le coup...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="735">Sur l'oncle du jeune homme elle pouvait beaucoup,</l>
+	<l id="736">Elle avait de l'esprit, une grâce adorable ;</l>
+	<l id="737">Elle en obtint l'oubli d'une faute excusable ;</l>
+	<l id="738">Même on dit que l'hymen d'elle et de son amant,</l>
+	<l id="739">De cette intrigue enfin fut l'heureux dénouement.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="740" syll="6" part="i">Ah ! vous brodez, Monsieur.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="740" syll="6" part="f">J'aime fort cette histoire.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="741">Oui, mais au dénouement je n'ose guère croire...</l>
+	<l id="742">Jugez, en apprenant comme tout s'est passé,</l>
+	<l id="743">À quel point l'oncle doit se trouver offensé.</l>
+	<l id="744">La paix, après cela, n'est pas aisée à faire.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="745">Ah ! Vous arrangeriez une pareille affaire,</l>
+	<l id="746" syll="6" part="i">Si vous vous en mêliez.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="746" syll="6" part="f">Je n'ose m'en flatter.</l>
+	<l id="747">J'y ferais mes efforts, vous pouvez y compter.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="748">Pardon, Mademoiselle ; il faut que je vous quitte.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="749">Vous êtes bien pressé ; pourquoi partir si vite ?</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="750" syll="6" part="i">Oh ! c'est bien à regret.</l>
+<stage type="low/toward">Bas à Julie.</stage>
+	<l id="750" syll="6" part="f">Mon oncle peut venir.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="751">Monsieur, je ne veux point ici vous retenir.</l>
+	<l id="752">Pourtant à vos récits je prêterais l'oreille</l>
+	<l id="753">Avec bien du plaisir. Vous contez à merveille.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="754">Ah ! Si le dénouement n'en était plus douteux,</l>
+	<l id="755">L'histoire que j'ai dite en vaudrait beaucoup mieux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XV.</head><stage> L'Hotêsse, Julie.
+</stage>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="756">Il vous a divertie ; oui, la chose est certaine.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="757">Son entretien m'a plu, j'en conviendrai sans peine.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="758">Je m'en suis aperçue ; de ce Monsieur Derbain,</l>
+	<l id="759">Pour être aimable, vaut, je crois, votre cousin.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker><stage type="smile">, souriant.
+	</stage>
+	<l id="760" syll="6" part="i">Mais je le crois aussi.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="760" syll="6" part="f">Bon ! Cela vous fait rire ?</l>
+	<l id="761">Vous serez consolée ; ai-je eu tort de le dire ?</l>
+	<l id="762">Je mettais quinze jours ; mais je vois maintenant ;</l>
+	<l id="763">Grâce à Monsieur Derbain, qu'il n'en faudra pas tant.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="JULIE"><speaker>JULIE</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="764">Je reviens en ces lieux, et mon coeur m'y ramené :</l>
+	<l id="765">Quel bonheur ! quelle joie incroyable et soudaine !</l>
+	<l id="766">Cher cousin ! Je voudrais le revoir, lui parler !...</l>
+	<l id="767">Si cela se pouvait sans qu'on vînt nous troubler !</l>
+	<l id="768">Déjà quelqu'un ? Combien cela me contrarie !</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Monsieur Daiglemont, Folleville, Monsieur Jourdain, Monsieur Michel, Julie.
+</stage>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="769">Entrez, Messieurs, entrez ; sans façons, je voue prie.</l>
+	<l id="770">Vous veniez pour me voir, et je sors de chez vous.</l>
+	<l id="771">Ainsi fort à propos nous nous rencontrons tous.</l>
+<stage type="watch">Apercevant Julie.</stage>
+	<l id="772" syll="6" part="i">Ah ! Ma fille, c'est toi ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="772" syll="6" part="f">Charmante demoiselle f</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="773">On est heureux d'avoir une fille si belle !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="774" syll="6" part="i">Eh ! Que faisais-tu là ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="774" syll="6" part="f">Qui ? Moi ? Je vous attends ;</l>
+	<l id="775">Avec ces Messieurs-là serez-vous bien longtemps ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="776">Je ne fais ; nous avons des affaires ensemble ;</l>
+	<l id="777">Daiglemont s'est beaucoup endetté, ce me semble.</l>
+	<l id="778">Ce sont des créanciers qu'il me laisse a payer,</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="779">Il faut finir cela sans vous faire prier.</l>
+	<l id="780">Ces Messieurs font des gens honnêtes, j'en suis sûre ;</l>
+	<l id="781">L'exacte probité se peint sur leur figure :</l>
+	<l id="782">Demandez-leur ; ils ont trop d'honneur, de vertu,</l>
+	<l id="783">Pour venir réclamer plus qu'il ne leur est dû.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="784">Je dis... Mademoiselle... Oh ! Vous êtes bien bonne.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="785">Voilà ce qui s'appelle une aimable personne.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="786">Terminez promptement ; ensuite dans Paris</l>
+	<l id="787">Nous nous promènerons ; vous me l'avez promis</l>
+	<l id="788">Vous me ferez tout voir, les jardins, les spectacles :</l>
+	<l id="789">On dit que c'est ici le pays des miracles ;</l>
+	<l id="790">Quant à moi, je conviens que je n'aurais pas cru,</l>
+	<l id="791">En arrivant, y voir ce que j'ai déjà vu.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="792">Eh ! Mais ! Comme elle est gaie ! Et comme elle babille !</l>
+	<l id="793">Est-il rien si léger que l'esprit d'une fille ?</l>
+	<l id="794">Vous avez vu tantôt les pleurs qu'elle a versés.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="795">Oh ! Mes plus grands chagrins à présent sont passés,</l>
+	<l id="796">Et même le moment n'est pas bien loin, j'espère,</l>
+	<l id="797">Où je n'en aurai plus du tout. Adieu, mon père.</l>
+	<l id="798" syll="6" part="i">Bonjour, Meilleurs.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="798" syll="2" part="m">Bonjour.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les précédents, excepté Julie.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="798" syll="6" part="f">Je serais enchanté</l>
+	<l id="799">Que cette chère enfant retrouvât sa gaîté.</l>
+	<l id="800">Oh ! Ça, Meilleurs, je suis à vous. Mais le jour baisse ;</l>
+	<l id="801" syll="6" part="i">Holà, de la lumière.</l>
+<stage type="entrance/carry/light">Un Valet apporte des bougies, qu'il pose sur la table.</stage>
+	<l id="801" syll="6" part="f">Il suffit ; qu'on nous laisse.</l>
+	<l id="802">Pour nous entendre mieux, d'abord asseyons-nous.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="803" syll="2" part="i">Bien vu.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="803" syll="10" part="f">Monsieur Jourdain, ça, commençons par vous.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="804">Volontiers ; mon objet n'est pas considérable.</l>
+	<l id="805">Puis, je crois que Monsieur est juste et raisonnable,</l>
+	<l id="806">Et qu'il ne voudrait pas qu'on perdît avec lui.</l>
+	<l id="807">Le commerce est vraiment périlleux aujourd'hui.</l>
+	<l id="808">Regardez... du défunt voilà bien l'écriture,</l>
+	<l id="809">Et sa reconnaissance au bas de ma facture.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="810">Voyons... Six mille francs. Vous vous moquez, je crois ?</l>
+	<l id="811">Quoi ! Pour deux_mille_écus de toile en dix-huit_mois ?</l>
+	<l id="812">Je vous demande un peu ce qu'il en a pu faire.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="813">Je n'en sais rien, Monsieur ; ce n'est pas mon affaire.</l>
+	<l id="814">J'ai vendu, j'ai livré, je ne sais que cela ;</l>
+	<l id="815" syll="6" part="i">Il faut que l'on me paye.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="815" syll="6" part="f">Ah ! Doucement ; j'ai là</l>
+	<l id="816">Certains renseignements qui doivent nous apprendre</l>
+	<l id="817">Comment Monsieur Jourdain a le talent de vendre.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="818">Monsieur, je suis Syndic de ma Communauté,</l>
+	<l id="819">Et je n'ai rien à craindre en fait de probité.</l>
+	<l id="820">Je suis connu ; depuis quarante ans que j'exerce...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="821">Oh ! Monsieur le Syndic sait le fin du commerce.</l>
+	<l id="822">Ça, ne nous fâchons pas, mon cher Monsieur_Jourdain.</l>
+	<l id="823">De Daiglemont aussi vous connaissez la main.</l>
+	<l id="824" syll="2" part="i">Voici...</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="824" syll="10" part="f">D'ailleurs, Monsieur, l'article est sur mes livres.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="825">Il est encore ici ; tenez : « Six_mille_livres.</l>
+	<l id="826">Il est vrai que Jourdain m'a vendu sur ce pied ;</l>
+	<l id="827">Mais Durand, son voisin et son associé,</l>
+	<l id="828">M'a racheté le tout avec deux tiers de perte ;</l>
+	<l id="829">Par ce moyen, pour moi leur bourse s'est ouverte ;</l>
+<note type="L">Basin : Étoffe croisée, dont la chaîne est de fil et la trame de coton. {L]</note>
+	<l id="830">J'ai reçu l'argent ; mais la toile et le basin</l>
+	<l id="831">N'ont fait qu'aller de l'un dans l'autre magasin ».</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="832">Monsieur, à tout cela je ne dois rien entendre ;</l>
+	<l id="833">Quand on se fait Marchand, je crois que c'est pour vendre.</l>
+	<l id="834">Les temps sont durs, Monsieur, et tout n'est pas profit :</l>
+	<l id="835" syll="6" part="i">On vit comme l'on peut..</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="835" syll="6" part="f">Eh ! Oui ; c'est fort bien dit.</l>
+	<l id="836">Monsieur Jourdain raisonne en père de famille ;</l>
+	<l id="837">Aussi dit-on qu'il vient de marier sa fille</l>
+	<l id="838">Avec un Procureur : il a donné comptant</l>
+	<l id="839" syll="6" part="i">Vingt_mille_écus de dot.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="839" syll="6" part="f">Et je n'ai plus d'argent.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="840">On vous en donnera ; mais rendez-vous traitable.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="841">Et vous, Monsieur_Michel, serez-vous raisonnable ?</l>
+	<l id="842" syll="6" part="i">Voyons, que vous faut-il ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="842" syll="6" part="f">Vous l'allez voir bientôt.</l>
+	<l id="843">Mon affaire est très simple ; et cela n'a qu'un mot.</l>
+	<l id="844">C'est de l'argent prêté ; j'ai le billet en poche.</l>
+	<l id="845">Le voici. J'ai longtemps attendu, sans reproche.</l>
+	<l id="846">Il est de cent_louis, que vous m'allez compter.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="847">Ah ! Vous nous permettrez d'abord de consulter</l>
+	<l id="848">Nos notes ; le défunt tout exprès les a faites.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="849" syll="2" part="i">Monsieur...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="849" syll="10" part="f">Tenez... « Michel... c'est l'article où vous êtes.</l>
+	<l id="850">Cent Louis, par billet, que j'ai dans peu de temps</l>
+	<l id="851">Trois fois renouvelé : j'ai reçu neuf_cents_francs. »</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="852">Oh ! C'est trop fort ; vit-on jamais pareille usure ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="853">Monsieur, je ne crois pas mériter cette injure,</l>
+	<l id="854">Pour avoir obligé Monsieur votre neveu ;</l>
+	<l id="855" syll="6" part="i">Je l'aimais tendrement....</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="855" syll="6" part="f">Il y paraît, parbleu !</l>
+	<l id="856" syll="6" part="i">Quel métier faites-vous ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="856" syll="6" part="f">Monsieur, je fais la banque,</l>
+	<l id="857">Et j'avance au public des fonds, quand il en manque.</l>
+	<l id="858">Vous entendez fort bien, lorsque l'on fait un prêt,</l>
+	<l id="859">Qu'il faut en retirer un certain intérêt.</l>
+	<l id="860">N'est ce pas que l'argent qu'en mon coffre je serre,</l>
+	<l id="861">Je pourrais l'employer en de bons fonds de terre,</l>
+	<l id="862">En maisons, en contrats ? J'en recevrais des fruits.</l>
+	<l id="863">Qu'importe la façon dont ils me sont produits ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="864">Vous savez employer au mieux votre fortune,</l>
+	<l id="865">Et vous faites, mon cher, trois récoltes pour une. </l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="866">Oui ; mais les non-valeurs, les risques que je cours...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="867">Oh ! Ça, Messieurs,  tranchons d'inutiles discours ;</l>
+	<l id="868">Je vous offre à chacun moitié de vos créances ;</l>
+	<l id="869">Voyez ; l'argent est prêt ; faites-moi vos quittances.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="870" syll="6" part="i">Cela ne se peut pas.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="870" syll="6" part="f">Moi, je veux tout ou rien.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="871" syll="4" part="i">Décidément ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="871" syll="2" part="m">Très fort.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="871" syll="6" part="f">Quittons cet entretien,</l>
+	<l id="872">Meilleurs, vous finiriez par m'échauffer la bile ;</l>
+	<l id="873">Je vous laisse. Venez ; suivez-moi, Folleville.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="874">Ce n'est pas avec moi qu'on devrait marchander.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="875">Songez qu'avant ce soir il faut vous décider.</l>
+	<l id="876">Adieu ; retenez bien ma dernière parole.</l>
+	<l id="877">Aujourd'hui, la moitié ; demain, pas une obole.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Jourdain, Michel.
+</stage>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="878" syll="6" part="i">Quel parti prendrez-vous ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="878" syll="6" part="f">Eh ! Mais, il est tout pris ;</l>
+	<l id="879">À ces manières-là nous sommes aguerris.</l>
+	<l id="880">Vous verrez qu'on doit faire une avance très forte,</l>
+	<l id="881">Sans que l'argent vous rentre, et sans qu'il vous rapporte.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="882" syll="6" part="i">Et s'ils vont nous plaider ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="882" syll="6" part="f">Quoi ! Cela vous sait peur,</l>
+	<l id="883">Tandis que vous avez un gendre Procureur?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="884" syll="6" part="i">J'entends mal les procès.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="884" syll="6" part="f">Oh ! Qu'à cela ne tienne ,</l>
+	<l id="885">Mon ami ; je suivrai votre affaire et la mienne ;</l>
+	<l id="886">En nous réunissant, il en coûtera moins.</l>
+	<l id="887">Vous en ferez les frais ; j'y donnerai mes soins.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="888">Mais l'écrit du défunt qu'ils viennent de nous lire,</l>
+	<l id="889">En justice ils auront grand soin de le produire ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="890">Eh ! Que fait cet écrit ? On ne le croira pas.</l>
+	<l id="891">Pensez-vous que le mort revienne de là-bas,</l>
+	<l id="892">Tout exprès pour plaider contre nous, pour se plaindre ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="893">Mais non ; je ne crois pas que cela soit à craindre.</l>
+	<l id="894" syll="9" part="i">Il m'en avait pourtant menacé...</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="894" syll="3" part="f">Bon ! Comment ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="895">Par ce billet ; lisez ; à la fin seulement.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL</speaker><stage type="read">, lit.
+	</stage>
+	<l id="896">Tu peux compter qu'exprès je reviendrai... Folie !</l>
+	<l id="897">Vous tentez bien que c'est une plaisanterie ;</l>
+	<l id="898">On n'est point effrayé d'un mot comme cela,</l>
+	<l id="899" syll="6" part="i">Quand on a de l'esprit..</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="899" syll="6" part="f">Oh ! oui, quand on en a...</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="900" syll="10" part="i">Est-ce que vous croyez aux revenants ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="900" syll="2" part="f">Moi ? Guère.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="901" syll="2" part="i">Un peu ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="901" syll="1" part="m">Mais.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="901" syll="9" part="f">Bon ! Ce sont des contes_de_grand-mère ;</l>
+	<l id="902">Chez les honnêtes gens, personne n'y croit plus.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="903">Ne badinez donc pas, de grâce, là-dessus.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="904">On fait sur ce sujet bien des récits bizarres ;</l>
+	<l id="905">Il faut s'en défier ; les esprits sont très rares...</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="location/loud"> dans le cabinet, sans montrer, et grossissant sa voix.
+	</stage>
+	<l id="906" syll="6" part="i">Vous êtes un fripon.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="906" syll="6" part="f">Plaît-il, Monsieur Jourdain ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="907" syll="6" part="i">Moi, je n'ai point parlé.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="location/loud">, de même.
+	</stage>
+	<l id="907" syll="6" part="f">Vous êtes un coquin.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="908" syll="3" part="i">Vous dites ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="908" syll="3" part="m">Pas un mot.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="location/loud">, de même.
+	</stage>
+	<l id="908" syll="6" part="f">Vous apprendrez, canaille,</l>
+	<l id="909">Si c'est impunément que d'un mort on se raille.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="910" syll="6" part="i">Nous ne sommes pas seuls.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT</speaker><stage type="location/loud">, de même.
+	</stage>
+	<l id="910" syll="6" part="f">Craignez d'être traités</l>
+	<l id="911">Aussi sévèrement que vous le méritez.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="912" syll="6" part="i">Juste ciel ! C'est sa voix !</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="912" syll="6" part="f">Mais je crois reconnaître</l>
+	<l id="913" syll="3" part="i">En effet...</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="913" syll="9" part="f">De ma peur je ne suis pas le maître.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Jourdain, Michel, Daiglemont sort du cabinet, souffle les bougies ; on baisse les lampes; le théâtre est dans l'obscurité. 
+</stage> 
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="914" syll="3" part="i">Scélérats !</l>
+<stage type="fall/frighten">Jourdain et Michel tombent par terre de frayeur.</stage>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="914" syll="3" part="m">Ah ! Mon_Dieu !</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="914" syll="6" part="f">Pardon, mille pardons.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="915">Oui, vous disiez bien vrai ; nous sommes des fripons.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="916">Qu'exigez-vous de nous ? Car je suis dans des transes....</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="917">Si vous n'abandonnez moitié de vos créances...</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="918" syll="6" part="i">Oh ! Je vous le promets.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="918" syll="6" part="f">Et moi j'en fais le voeu.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="919" syll="6" part="i">Nous vous obéirons.</l>
+</sp>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="919" syll="6" part="f">N'y manquez pas. Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Jourdain, Michel.
+</stage>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="920" syll="4" part="i">Est-il parti ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="920" syll="8" part="f">Vraiment, tâchez d'y voir vous-même.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="921">Je ne puis revenir de ma frayeur extrême ;</l>
+	<l id="922" syll="6" part="i">Car c'était lui, bien lui.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="922" syll="6" part="f">Vous faisiez l'esprit fort</l>
+	<l id="923" syll="6" part="i">Pourtant; vous prétendiez....</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="923" syll="6" part="f">Je vois que j'avais tort.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="924">Sûrement vous l'aviez ; et voilà bien qui prouve</l>
+	<l id="925" syll="4" part="i">Qu'il faut croire... .</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage type="light"> Les mêmes, Monsieur Daiglemont. Un Valet l'éclaire ; on relève les lampes.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="925" syll="6" part="f">Ah ! Messieurs, ici je vous retrouve ?....</l>
+	<l id="926" syll="6" part="i">Vous étiez sans lumière ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="926" syll="6" part="f">On nous en a défaits.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="927" syll="6" part="i">J'ai cru ma fille ici.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="927" syll="6" part="f">Monsieur, sans nuls délais.</l>
+	<l id="928">Nous voulons avec vous finir, coûte qui coûte.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="929" syll="10" part="i">J'offre toujours moitié ; l'acceptez-vous ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="929" syll="2" part="f">Sans doute.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="930">J'ai vos sommes en or ; je vais vous les payer.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="931">Faites-nous le plaisir de nous expédier.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="932" syll="6" part="i">Je vous rends le billet.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="932" syll="6" part="f">Moi, la reconnaissance ;</l>
+	<l id="933">Tenez, j'avais au bas mis mon acquit d'avance.</l>
+	<l id="934" syll="10" part="i">Nous avons fait ; partons. S'il revenait !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="934" syll="2" part="f">Eh ! Qui ?</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="935" syll="4" part="i">Votre neveu.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="935" syll="2" part="m">Comment ?</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="935" syll="6" part="f">Son âme en ce lieu-ci</l>
+	<l id="936">Revient ; nous l'avons vue ; elle était furibonde !</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="937">Pour nous faire du tort, venir de l'autre monde !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="938" syll="7" part="i">Mais comptez donc votre or.</l>
+</sp>
+<sp who="MICHEL"><speaker>MICHEL.</speaker>
+	<l id="938" syll="6" part="f">Il n'en est pas besoin.</l>
+	<l id="939" syll="2" part="i">Adieu.</l>
+</sp>
+<sp who="JOURDAIN"><speaker>JOURDAIN.</speaker>
+	<l id="939" syll="10" part="f">Nous voudrions être déjà bien loin.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="940" syll="4" part="i">Adieu, Messieurs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="940" syll="8" part="f">Eh ! Mais, qu'est-ce qu'ils veulent dire ?</l>
+	<l id="941">Que mon neveu revient ? Sont-ils dans le délire ?</l>
+	<l id="942">Si je n'étais bien sûr de son trépas !... Mais quoi ?</l>
+	<l id="943">Le remords peut chez eux avoir produit l'effroi ;</l>
+	<l id="944">Ou bien ils font exprès un conte... J'en profite</l>
+	<l id="945">En tout cas... Et de deux toujours dont je suis quitte.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Monsieur Daiglemont, L'Hôtesse.
+</stage>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="946">Monsieur, c'est une lettre ; elle est pour vous, je crois.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="947">À Monsieur_Daiglemont. C'est mon nom ; c'est pour moi.</l>
+	<l id="948" syll="1" part="i">Oui.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="948" syll="11" part="f">Monsieur est toujours satisfait de son gîte ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="949" syll="4" part="i">Très satisfait.</l>
+</sp>
+<sp who="L'HÔTESSE"><speaker>L'HÔTESSE.</speaker>
+	<l id="949" syll="8" part="f">Pardon ; je me sauve bien vite.</l>
+	<l id="950">Il m'arrive du monde, et notre état prescrit...</l>
+	<l id="951" syll="4" part="i">Adieu, Monsieur.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="951" syll="2" part="m">Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="951" syll="6" part="f">Qu'est-ce donc qui m'écrit?</l>
+	<l id="952">Et qui diantre déjà me sait dans cette ville ?</l>
+<stage type="read">Il lit la lettre.</stage>
+	<l id="953">« Pour moi c'est un plaisir, cousin</l>
+	<l id="954">De trouver à vous être utile ; </l>
+	<l id="955">Votre lettre de ce matin</l>
+	<l id="956">M'apprend qu'en ce moment, pour ranger vos affaires,</l>
+	<l id="957">Quinze_cents_francs vous seraient nécessaires. »</l>
+
+	<l id="958">Se moque-t-on de moi ? Je n'ai besoin de rien.</l>
+	
+	<l id="959">« On vous voit rarement, et cela n'est pas bien.</l>
+	<l id="960">Ne négligez donc plus un parent qui vous aime.</l>
+	<l id="961">Votre argent est tout prêt ; vous voulez l'avoir,</l>
+	<l id="962">Vous viendrez le chercher vous-même ;</l>
+	<l id="963">C'est ma condition. Venez louper ce soir.</l>
+	<l id="964">Votre cousin Dortis  »... Eh ! Mais... Est-il possible ?</l>
+	<l id="965">Oui ; c'est pour mon neveu ; la chose est très visible...</l>
+	<l id="966">Mon neveu ?... Ce matin ?... Il ne serait pas mort ?</l>
+	<l id="967">J'en serais bien content : mais le tour serait fort ;</l>
+	<l id="968">Je saurais l'en punir d'une façon sévère.</l>
+	<l id="969">Ces Messieurs qui l'ont vu ne m'étonnent plus guère.</l>
+	<l id="970">Voici fort à propos le fripon de valet ;</l>
+	<l id="971">Le drôle est, à coup sûr, confident du secret.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Monsieur Daiglemont, Deschamps.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="972">Viens ! Maraud ; tu m'as fait une friponnerie.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="973" syll="6" part="i">Moi, Monsieur ? Vous croyez ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="973" syll="6" part="f">La chose est éclaircie ;</l>
+	<l id="974" syll="6" part="i">Mon neveu n'est pas mort.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="974" syll="6" part="f">Il n'est pas mort, Monsieur ?</l>
+	<l id="975">En êtes-vous bien sûr ? Se peut-il ? Quel bonheur !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="976">Tu le sais mieux que moi, coquin, qu'il vit encore.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="977">Si l'on vous a trompé, comptez que je l'ignore.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="978">Maître fourbe, à l'instant tu vas tout déclarer,</l>
+	<l id="979">Ou bien sous le bâton je te fais expirer.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="980">Puisque vous vous fâchez, Monsieur, je me retire.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="981">Non non, pendard, il faut demeurer, et tout dire.</l>
+	<l id="982">Je pénètre à présent votre complot caché.</l>
+	<l id="983">Parle, ou tu n'en seras pas quitte à bon marché.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="984">Monsieur, à deux genoux je vous demande grâce.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="985">De tes mauvais discours à la fin je me lasse.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="low/loud">, parle alternativement très bas et très haut.
+</stage>
+<stage type="low">Bas.</stage>
+	<l id="986" syll="6" part="i">Monsieur, écoutez-moi.</l>
+<stage type="loud">Haut.</stage>
+	<l id="986" syll="6" part="f">Monsieur, en vérité.</l>
+	<l id="987" syll="6" part="i">Je ne sais rien du tout.</l>
+<stage type="low">Bas.</stage>
+	<l id="987" syll="6" part="f">Venez de ce côté.</l>
+<stage type="loud">Haut.</stage>
+	<l id="988">- Mon Maître est bien défunt. - Il se porte à merveille.</l>
+	<l id="989">- Rien n'est plus vrai. - J'ai peur qu'il ne prête l'oreille.</l>
+	<l id="990">- Je dois bien le savoir ; j'ai suivi son convoi. </l>
+	<l id="991">- S'il entendait un mot, ce serait fait de moi.</l>
+	<l id="992">- Faut-il, si jeune encor, que la mort nous l'arrache ?</l>
+	<l id="993">Ah ! - Dans ce cabinet, il est là qui se cache. </l>
+	<l id="994">- Vous m'interrogeriez ainsi jusqu'à demain. </l>
+	<l id="995">- Parlez à votre tour. - Non, Monsieur, c'est en vain ;</l>
+	<l id="996">Je ne sais pas tromper. - Grondez-moi, je vous prie.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="997" syll="2" part="i">Fourbe !</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="low">, bas.
+	</stage>
+	<l id="997" syll="2" part="m">Plus haut.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="997" syll="2" part="m">Coquin !</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="997" syll="6" part="f">Bien : entrez en furie.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+<stage type="loud">Haut.</stage>
+	<l id="998" syll="6" part="i">Je m'en vais t'assommer.</l>
+<stage type="low">Bas.</stage>
+	<l id="998" syll="6" part="f">Pour mieux cacher ton jeu,</l>
+	<l id="999">N'est-il pas à propos que je te rosse un peu ?</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1000">Eh ! non ; je ne crois pas ce point-là nécessaire,</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+<stage type="low">Bas.</stage>
+	<l id="1001" syll="6" part="i">Si ; cela fera bien.</l>
+<stage type="loud/hit">Haut, en le rossant.</stage>
+	<l id="1001" syll="6" part="f">Tiens ; voilà ton salaire.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="1002" syll="2" part="i">Aïe ! aïe !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1002" syll="10" part="f">Mais je saurai ce que tu veux cacher.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="1003" syll="6" part="i">Je ne vous cache rien.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1003" syll="6" part="f">Paix ; va-t-en me chercher</l>
+	<l id="1004">Monsieur de Folleville ; ici je vais l'attendre :</l>
+	<l id="1005">Dis-lui que je le prie au plutôt de s'y rendre.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1006">Oui, Monsieur.— N'allez pas, trahissant mon secret,</l>
+	<l id="1007">Déclarer que c'est moi qui vous ai mis au fait.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1008" syll="1" part="i">Non.</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="1008" syll="5" part="m">Chassez-moi bien haut.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1008" syll="6" part="f">Sors vite, ou je t'assomme !</l>
+</sp>
+<sp who="DESCHAMPS"><speaker>DESCHAMPS.</speaker>
+	<l id="1009">Mon_Dieu ! Peut-on traiter si mal un honnête homme ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Monsieur Daiglemont, Julie.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1010">Le drôle n'est pas sot. Mais qui vient en ces lieux ?</l>
+	<l id="1011">C'est ma fille. Tantôt elle avait l'air joyeux ! </l>
+	<l id="1012">Elle riait. Peut-être elle est d'intelligence : </l>
+	<l id="1013">Elle m'aurait trompé !... J'en veux tirer vengeance </l>
+	<l id="1014">La tourmenter un peu... Te voilà, mon enfant ? </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1015" syll="6" part="i">Mon père est toujours là.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1015" syll="6" part="f">Je te fais compliment ;</l>
+	<l id="1016">Ta gaîté me paraît tout à fait revenue.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1017">Pas encor ; mais au moins mon chagrin diminue.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1018">Et je sais le moyen de le faire finir.</l>
+	<l id="1019">Il faut te dire un fait qui doit te réjouir.</l>
+	<l id="1020" syll="9" part="i">Je vais te marier à Paris.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1020" syll="3" part="f">Moi, mon père ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1021">Oui, toi même, et dans peu ; j'ai trouvé ton affaire.</l>
+	<l id="1022">Ton cousin Daiglemont est mort ; il a bien fait.</l>
+	<l id="1023">Veux-tu que je t'en fasse en deux mots le portrait ?</l>
+	<l id="1024">C'était un étourdi, sans règle, sans conduite ;</l>
+	<l id="1025">Le drôle à la misère enfin t'aurait réduite ;</l>
+	<l id="1026">C'est un très grand bonheur pour toi qu'il ne soit plus.</l>
+	<l id="1027">Je te trouve un parti de trente_mille_écus,</l>
+	<l id="1028">Garçon prudent, rangé ; d'ailleurs tout jeune, aimable.</l>
+	<l id="1029">Qu'en dis-tu ? Ce plan doit te sembler agréable ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1030" syll="3" part="i">Mais, mon père...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1030" syll="9" part="f">Hein ! Cela paraît t'embarrasser.</l>
+	<l id="1031">Moi, j'ai cru que d'abord tu viendrais m'embrasser.</l>
+	<l id="1032" syll="6" part="i">Est-ce que j'ai mal fait ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1032" syll="6" part="f">Ces offres sont fort belles ;</l>
+	<l id="1033">Je sens, comme je dois, vos bontés paternelles ;</l>
+	<l id="1034">Mais mon cousin et moi nous devions être unis ;</l>
+	<l id="1035">Je m'en flattais déjà ; vous me l'aviez promis.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1036">Fort bien ; mais il est mort, et ce serait folie...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1037">Non, non, ne pensez pas qu'un instant je l'oublie.</l>
+	<l id="1038">Mon coeur, toujours constant, lui jure devant vous,</l>
+	<l id="1039">Que jamais, non jamais, je n'aurai d'autre époux.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1040">Ce serment-là, vraiment, est pathétique et tendre ;</l>
+	<l id="1041">On dirait qu'elle croit que ce mort peut l'entendre.</l>
+	<l id="1042">Ma pauvre fille est folle ; elle l'est tout à fait.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1043" syll="6" part="i">Mais s'il n'était pas mort ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1043" syll="6" part="f">La friponne est au fait.</l>
+<stage type="loud">Haut.</stage>
+	<l id="1044">Quoi ! S'il n'était pas mort ? Saurais-tu quelque chose</l>
+	<l id="1045" syll="6" part="i">Qui te fît soupçonner ?...</l> 
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1045" syll="6" part="f">Mais enfin je suppose...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1046">Tu supposes très mal. Eh ! Mais, j'aimerais fort</l>
+	<l id="1047">Qu'il se donnât les airs de ne pas être mort,</l>
+	<l id="1048">Quand nous l'avons pleuré, quand sa perte assurée</l>
+	<l id="1049">M'a causé des regrets, et t'a désespérée !</l>
+	<l id="1050">Et son enterrement que j'ai payé, parbleu,</l>
+	<l id="1051">Et fort cher, selon toi, ce serait donc un jeu ?</l>
+	<l id="1052">Mon neveu m'aurait pu donner ce ridicule,</l>
+	<l id="1053">Me traiter en Géronte imbécile et crédule ?</l>
+	<l id="1054">Suis-je fait, s'il vous plaît, pour être bafoué ?</l>
+	<l id="1055">Malheur à qui m'aurait de la sorte joué !</l>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Monsieur Daiglemont, Julie, Folleville.
+</stage>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="toward">, à Folleville.
+	</stage>
+	<l id="1056" syll="6" part="i">Ah ! Ah ! c'est vous, Monsieur ? </l>
+<stage type="toward">À Julie.</stage>
+	<l id="1056" syll="2" part="m">Tu sors ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1056" syll="4" part="f">Je me retire.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1057" syll="2" part="i">Non, reste.</l>
+<stage type="toward">À Folleville.</stage>
+	<l id="1057" syll="10" part="f">-Il faut vous apprendre d'abord</l>
+	<l id="1058">Que Michel et Jourdain ont fait, de bon accord ,</l>
+	<l id="1059" syll="5" part="i">Ce que je voulais.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1059" syll="1" part="m">Oui ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1059" syll="6" part="f">Je ne sais comment diable</l>
+	<l id="1060">S'est opéré soudain ce prodige incroyable ;</l>
+	<l id="1061">Mais en rentrant ici, j'ai trouvé mes fripons</l>
+	<l id="1062">Convertis tout à fait, et doux comme moutons.</l>
+	<l id="1063">Ils ont reçu moitié ; c'est affaire finie.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1064">Tant mieux donc, et pour vous j'en ai l'âme ravie,</l>
+	<l id="1065">De mon côté, j'ai vu les autres créanciers ;</l>
+	<l id="1066">Ce sont, pour la plupart, des gens durs, tracassiers....</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1067">Comment ? Ils ont grand tort d'être si difficiles !</l>
+	<l id="1068">La mort de mon neveu doit les rendre dociles ;</l>
+	<l id="1069">Car le pauvre garçon est bien mort dans vos bras ;</l>
+	<l id="1070">Vous m'avez en détail raconté son trépas ;</l>
+	<l id="1071">Vous m'avez envoyé son extrait mortuaire,</l>
+	<l id="1072">Et ce n'est pas à faux que vous l'avez fait faire ;</l>
+	<l id="1073">Vous êtes trop honnête et trop franc pour cela.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+<stage type="aparte">À part.</stage>
+	<l id="1074" syll="6" part="i">Sommes-nous découverts ?</l>
+<stage type="loud">Haut.</stage>
+	<l id="1074" syll="6" part="f">- À ce langage-là...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1075">Vous ne l'entendez pas, je le crois ; mais peut-être,</l>
+	<l id="1076">Mon cher, vous entendrez un peu mieux cette lettre,</l>
+	<l id="1077">Et vous m'expliquerez (car vous êtes très fin)</l>
+	<l id="1078">Comment mon neveu mort, écrivait ce matin.</l>
+	<l id="1079">Cette explication sera facile à croire,</l>
+	<l id="1080">Et tournera surtout beaucoup à votre gloire.</l>
+	<l id="1081">Eh bien, qu'en dites-vous ? Ce matin, Daiglemont,</l>
+	<l id="1082">Écrivait à Dortis, et Dortis lui répond.</l>
+	<l id="1083">Par hasard en mes mains cette lettre est venue.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1084" syll="2" part="i">Monsieur !...</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1084" syll="10" part="f">Vous le voyez ; la fraude est reconnue ;</l>
+	<l id="1085">Il n'est plus temps ici de rien dissimuler ;</l>
+	<l id="1086">Je vous en veux beaucoup, je ne puis le celer ;</l>
+	<l id="1087">Et vous m'avouerez bien que cette espièglerie,</l>
+	<l id="1088">A parler franchement, passe la raillerie.</l>
+	<l id="1089">Comment avez-vous pu vous faire un jeu cruel</l>
+	<l id="1090">De me plonger ainsi dans un chagrin mortel ?</l>
+	<l id="1091">De supposer la mort de mon neveu que j'aime ?</l>
+	<l id="1092">Mais il est mille fois plus blâmable lui-même...</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE</speaker><stage>, avec vivacité.
+	</stage>
+	<l id="1093" syll="3" part="i">Lui, Monsieur ?</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT</speaker><stage type="interrupt">, l'interrompant.
+	</stage>
+	<l id="1093" syll="9" part="f">À Paris il s'endette, se perd :</l>
+	<l id="1094">C'est peu ; pour m'affliger, avec vous de concert,</l>
+	<l id="1095">Mon étourdi se prête à votre affreuse ruse ;</l>
+	<l id="1096">Sa conduite envers moi ne peut avoir d'excuse :</l>
+	<l id="1097">Quand j'ai tout fait pour lui, ce trait peu délicat</l>
+	<l id="1098">M'apprend trop qu'en l'aimant,je n'aimais qu'un ingrat.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1099">Mon père, cette idée est injuste et l'offense.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1100">Eh ! Ma fille, est-ce à vous de prendre sa défense ?</l>
+	<l id="1101">Songez donc quel chagrin ceci vous a donné.</l>
+	<l id="1102" syll="2" part="i">Songez...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1102" syll="10" part="f">Quand je l'ai vu, moi, j'ai tout pardonné.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1103">Tant pis pour vous ; mais moi, je suis inexorable.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1104" syll="6" part="i">Monsieur, écoutez-moi.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1104" syll="6" part="f">Non, il est trop coupable ;</l>
+	<l id="1105">À pallier ses torts il ne faut point songer.</l>
+	<l id="1106">Un jeune homme peut bien être étourdi, léger ;</l>
+	<l id="1107">Aux travers de l'esprit aisément on fait grâce ;</l>
+	<l id="1108">Mais les fautes du coeur, jamais on ne les passe.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1109">Mon père, voulez-vous faire aussi mon malheur ?</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1110">Monsieur, vous m'accablez de honte et de douleur.</l>
+	<l id="1111">Je dois justifier mon ami ; c'est moi-même</l>
+	<l id="1112">Qui fus, sans son aveu, l'auteur du stratagème ;</l>
+	<l id="1113">Il le sait d'aujourd'hui : ses plaintes m'ont appris,</l>
+	<l id="1114">Que s'il l'eût su d'avance, il ne l'eût pas permis.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1115">Oui ; lui-même tantôt il me l'a dit, mon père.</l>
+</sp>
+<sp who="FOLLEVILLE"><speaker>FOLLEVILLE.</speaker>
+	<l id="1116">Ah ! Monsieur, mon pardon n'est pas ce que j'espère ;</l>
+	<l id="1117">Je vous ai, je le sens, vivement offensé ;</l>
+	<l id="1118">Je dois en convenir, je suis un insensé,</l>
+	<l id="1119">Qui n'ai pas de ce trait considéré la suite.</l>
+	<l id="1120">Malheureux que je suis ! Déjà, par ma conduite,</l>
+	<l id="1121">Mes parents contre moi doivent être irrités ;</l>
+	<l id="1122">Vous m'allez faire perdre à jamais leurs bontés :</l>
+	<l id="1123">Oui, que je sois puni ; c'est moi qui vous en presse ;</l>
+	<l id="1124">Mais à votre neveu rendez votre tendresse.</l>
+	<l id="1125">Si je puis avec vous le réconcilier,</l>
+	<l id="1126" syll="6" part="i">Je me soumets à tout.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1126" syll="6" part="f">Daignez tout oublier.</l>
+	<l id="1127">Vous aimez mon cousin, et votre âme est si bonne !</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+	<l id="1128">Mais qu'on le voie au moins, s'il veut qu'on lui pardonne.</l>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV et DERNIÈRE.</head><stage> Les mêmes, Daiglemont sort ducabinet ,et se présente à son oncle d'un air humilié.
+</stage>
+<sp who="DAIGLEMONT"><speaker>DAIGLEMONT.</speaker>
+	<l id="1129">Ah ! Mon oncle à vos yeux je craignais de m'offrir ;</l>
+	<l id="1130">Si vous saviez combien ceci m'a fait souffrir !</l>
+	<l id="1131">Vous pouvez me punir d'un tort qui m'humilie ;</l>
+	<l id="1132">Vengez-vous ; mais du moins ne m'ôtez pas Julie.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1133">Au futur de Paris vous donnerez congé ;</l>
+	<l id="1134">Mon cousin, comme lui, sera sage et rangé.</l>
+</sp>
+<sp who="MONSIEUR DAIGLEMONT"><speaker>MONSIEUR DAIGLEMONT.</speaker>
+<stage type="toward">À Julie.</stage>
+	<l id="1135" syll="6" part="i">Je me moquais de toi. </l>
+<stage type="toward">Aux deux jeunes gens.</stage>
+	<l id="1135" syll="6" part="f">Qu'aucun de vous n'oublie,</l>
+	<l id="1136">Meilleurs, que je vous passe une insigne folie.</l>
+	<l id="1137">Avec les créanciers nous allons terminer ;</l>
+	<l id="1138">Mais tous deux de Paris je veux vous emmener.</l>
+<stage type="toward">À Folleville.</stage>
+	<l id="1139">Je vous remettrai bien avec votre famille ;</l>
+	<l id="1140">Daiglemont, j'y consens, épousera ma fille.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

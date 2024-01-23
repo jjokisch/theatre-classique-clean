@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>THÉÂTRE DE LA SOCIÉTÉ DE LA RUE DU PERRON</title>
+				<author type="texte" ISNI="">(anonyme)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Paul FIEVRE, août 2023</editor>
+				<publisher>Publié par Paul FIEVRE, septembre 2023</publisher>
+				<idno>ANONYME_THEATREDESOCIETEDELARUEPERRON</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Prologue</genre>
+				<inspiration>Vie littéraire</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1861-1870</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA YF-12981">https://gallica.bnf.fr/ark:/12148/bpt6k5860602g</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">THÉÂTRE DE LA SOCIÉTÉ DE LA RUE DU PERRON</titlePart>
+			<titlePart type="sub">PROLOGUE POUR LA RENTRÉE DE LA TROUPE</titlePart>
+			<titlePart type="sub">Récité par un des acteurs, le 7 février 1865.</titlePart>
+		</docTitle> 
+		<docDate value="1865">1865.</docDate>
+		<docAuthor id="[Anonyme]"/>
+		<docImprint>
+			<printer>BESAHÇON, IMPR. DE J. JACQUIN.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1865-02-07" location="Théâtre de la rue du Perron">Récité par un des acteurs, le 7 février 1865.</premiere>
+		</performance>
+		<castList><head>ACTEURS.</head>
+			<castItem><role id="LE RÉCITANT" sex="1" type="H" statut="acteur" age="A" stat_amour="néant">LE RÉCITANT</role>.</castItem>
+		</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>THÉÂTRE DE LA SOCIÉTÉ DE LA RUE DU PERRON</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE RÉCITANT"><speaker/>
+	<l id="1">Mesdames et messieurs, durant leur longue absence,</l>
+	<l id="2">Modestement rentrée dans l'ombre et le silence,</l>
+	<l id="3">Nos acteurs attendaient l'instant de vous revoir,</l>
+	<l id="4">Rêvant au jour heureux dont ils gardaient l'espoir,</l>
+	<l id="5">Car nous ne sommes pas de ces troupes banales,</l>
+	<l id="6">Cherchant d'autres succès sur des scènes rivales :</l>
+	<l id="7">Nos voeux et nos travaux ne s'adressent qu'à vous.</l>
+	<l id="8">Qu'irions-nous demander ailleurs ? Qu'y ferions nous ?</l>
+	<l id="9">Nous ne trouverions plus ni le même indulgence,</l>
+	<l id="10">Ni le bonheur qu'on goûte au lieu de sa naissance.</l>
+	<l id="11">Donc, semblable au palais de ce conte charmant</l>
+	<l id="12">Où Perrault nous a peint la_Belle_au_bois_dormant,</l>
+	<l id="13">Notre théâtre, un jour pour vous sortant de l'ombre,</l>
+	<l id="14">Disparaît tout à coup dans quelque forêt sombre :</l>
+	<l id="15">Le lustre s'est éteint, il faut froid, il fait nuit,</l>
+	<l id="16">Et la troupe s'endort, loin du monde et du bruit, </l>
+	<l id="17">Jusqu'à ce qu'une fée indulgente et discrète</l>
+	<l id="18">Vienne la réveiller d'un coup de sa baguette.</l>
+	<l id="19">Nous conservons encor la plupart des acteurs</l>
+	<l id="20">Qui surent autrefois plaire à nos spectateurs,</l>
+	<l id="21">Et si nous avons fait des pertes regrettables,</l>
+	<l id="22">S'il nous manque aujourd'hui quelques talents aimables</l>
+	<l id="23">Qui, nous l'espérons bien, nous reviendront plus tard,</l>
+	<l id="24">D'autres à nos efforts ont voulu prendre part.</l>
+	<l id="25">Marchant au même but avec le même zèle,</l>
+	<l id="26">Puissions-nous tous, ce soir, pleins d'une ardeur nouvelle,</l>
+	<l id="27">Mériter ces bravos, ces applaudissements,</l>
+	<l id="28">De vos bontés pour nous témoignages charmants,</l>
+	<l id="29">Qui d'artistes payés feraient encor l'envie.</l>
+	<l id="30">Oubliant un moment les peines de la vie,</l>
+	<l id="31">Suivez-nous dans un monde où tout brille à nos yeux,</l>
+	<l id="32">Où l'on rit, où l'on chante, où rien n'est sérieux,</l>
+	<l id="33">Où la folle gaieté, chassant l'humeur morose,</l>
+	<l id="34">En dépit des censeurs nous montre tout en rose ;</l>
+	<l id="35">Fantastique pays dont l'horizon vermeil</l>
+	<l id="36">Resplendit sous un lustre et s'efface au soleil.</l>
+	<l id="37">Mesdames, venez-y sans crainte, sans scrupule :</l>
+	<l id="38">Si nous faisons souvent la guerre au ridicule,</l>
+	<l id="39">Nous respectons toujours la morale et l'honneur.</l>
+	<l id="40">À plaire aux gens de bien mettant notre bonheur,</l>
+	<l id="41">Nous voulons vous offrir un spectacle en famille,</l>
+	<l id="42">Digne en tout que la mère y conduise sa fille,</l>
+	<l id="43">Et laissant quelquefois sommeiller la raison</l>
+	<l id="44">Sans jamais offenser le goût et le bon ton.</l>
+	<l id="45">Heureux si nos acteurs, au vrai connaisseur même</l>
+	<l id="46">Ne font pas regretter les artistes qu'il aime !</l>
+	<l id="47">Tout autre amusement, du moins, j'en suis bien sûr,</l>
+	<l id="48">S'il peut être plus vif ne peut être plus pur,</l>
+	<l id="49">Les ouvrages produits devant notre parterre</l>
+	<l id="50">Ayant subi d'abord un examen sévère.</l>
+	<l id="51">Nous avions, loin de vous, dormi d'un long sommeil.</l>
+	<l id="52">Mais quelle activité depuis notre réveil !</l>
+	<l id="53">En pièces d'un ton gai la troupe est assez riche,</l>
+	<l id="54">Et notre directeur, contemplant son affiche,</l>
+	<l id="55">S'est montré satisfait du fruit de nos travaux.</l>
+	<l id="56">Vous allez nous juger dans des rôles nouveaux,</l>
+	<l id="57">Je dis nouveaux pour nous, car un succès notoire</l>
+	<l id="58">Est acquis dès longtemps à notre répertoire,</l>
+	<l id="59">Et ce ne serait pas la faute des auteurs</l>
+	<l id="60">Si nous faisions ce soir bâiller nos spectateurs.</l>
+<note type="C">Le Legs, comédie en prose de Marivaux (représenté pour la première fois en public le 11 juin 1736)</note>
+	<l id="61">Voici d'abord le_Legs, élégant badinage</l>
+	<l id="62">Où Marivaux, si vif, si fin dans son langage,</l>
+	<l id="63">Nous montre un soupirant qui, prenant de travers</l>
+	<l id="64">Les mots les plus flatteurs, les aveux les plus clairs,</l>
+	<l id="65">S'obstine à n'y trouver que des preuves de haine.</l>
+<note type="C">Monsieur Sans-Gêne, vaudeville de Désaugiers et Gentil de Chavagnac, représenté sur le Théâtre du Vaudeville le 13 mai 1816 </note>
+	<l id="66">Devant vous, après lui, viendra Monsieur_Sans-Gène,</l>
+	<l id="67">Joyeux original, qui, souvent imité,</l>
+	<l id="68">En tout temps du public excite la gaieté.</l>
+<note type="C">L'Héritière ou Les Champs et la cour, de Fabre d'Églantine (1791)</note>
+	<l id="69">Pour le prochain mardi nous aurons l_Héritière,</l>
+	<l id="70">Ce joli vaudeville où _Scribe, à sa manière</l>
+	<l id="71">(Heureux mélange alors de goût et d'enjouement,</l>
+	<l id="72">Nous peint d'un vieux garçon le juste châtiment.</l>
+<note type="C">Théâtre du Gymnase : théâtre situé au 38 Boulevard Bonne-Nouvelle à Paris inauguré le 20 décembre 1820.</note>
+	<l id="73">Le_Gymnase a perdu ce genre aimable et sage</l>
+<note type="C">Patronage : Protection accordée par un homme puissant à un homme d'un état inférieur, et même à des cités, à des cantons, etc. [L]</note>
+	<l id="74">Qui le faisait briller sous un haut_patronage :</l>
+	<l id="75">Ses nouveaux fournisseurs sont plus facétieux ;</l>
+<note type="C">La Poudre aux yeux, vaudeville d'Eugène Labiche. (1867) </note>
+	<l id="76">Nous leur demanderons aussi La_Poudre_aux_yeux,</l>
+	<l id="77">Contre les moeurs du jour amusante épigramme.</l>
+	<l id="78">Mesdames et Messieurs, voilà notre programme ;</l>
+	<l id="79">Quatre pièces ! Pour nous c'est un bien grand effort,</l>
+	<l id="80">Mais sous ce lourd fardeau quel que soit notre sort,</l>
+	<l id="81">Même en cas de succès, chacun de ces ouvrages</l>
+	<l id="82">Une fois seulement briguera vos suffrages :</l>
+	<l id="83">Nous rouvrons aujourd'hui pour fermer dans huit_jours.</l>
+	<l id="84">Prête à bien employer quelques_instants si courts,</l>
+	<l id="85">La troupe réunie est là dans la coulisse,</l>
+	<l id="86">N'attendant qu'un signal pour entrer dans la lice.</l>
+	<l id="87">Le coeur bat au plus brave, à ce dernier moment,</l>
+	<l id="88">Et je ne voudrais pas prolonger leur tourment :</l>
+	<l id="89">À mon petit discours il faut donc mettre un terme ;</l>
+	<l id="90">Permettez que sur moi le rideau se reforme :</l>
+	<l id="91">Cinq_minutes encore d'attente, et sous vos yeux.</l>
+	<l id="92">Nos acteurs empressés vont faire de leur mieux.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

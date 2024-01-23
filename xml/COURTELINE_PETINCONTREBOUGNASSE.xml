@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>PÉTIN CONTRE BOUGNASSE, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 2145 2784">Georges COURTELINE (1858-1929)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, septembre 2022</publisher>
+			<idno>COURTELINE_PETINCONTREBOUGNASSE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Saynète</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1891-1900</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF PHS 8-Z LE SENNE-3573">https://gallica.bnf.fr/ark:/12148/bpt6k11580090</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PÉTIN CONTRE BOUGNASSE</titlePart>
+		</docTitle> 
+		<docDate value="1894">1894. Tous droits réservés.</docDate>
+		<docAuthor id="COURTELINE, Georges">de GEORGES COURTELINE</docAuthor>
+		<docImprint>
+			<editor id="ALBIN MICHEL">PARIS, ERNEST FLAMMARION, ÉDITEUR, 26, rue RACINE, près l'Odéon.</editor>
+			<printer id="COLIN">ÉMILE COLIN - Imprimerie de Lagny.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES..</head>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut="président" age="A" stat_amour="néant">LE PRÉSIDENT</role>.</castItem>
+			<castItem><role id="PÉTIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">PÉTIN</role>.</castItem>
+			<castItem><role id="L'AVOCAT DE PÉTIN" sex="1" type="H" statut="avocat" age="A" stat_amour="néant">L'AVOCAT DE PÉTIN</role>.</castItem>
+			<castItem><role id="L'AVOCAT DE BOUGNASSE" sex="1" type="H" statut="avocat" age="A" stat_amour="néant">L'AVOCAT DE BOUGNASSE</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+		<note>Extrait de COURTELINE, Georges, "Ombres parisiennes", Paris, Ernest Flammarion, 1894. pp 5-11</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>PETIN CONTRE BOUGNASSE</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="toward">, à un témoin qui achève se déposition.
+</stage>
+<p id="1">
+	<s id="1">Allez vous coucher...</s>
+</p>
+<stage type="">Se reprenant.</stage>
+<p id="2">
+	<s id="1">Allez vous asseoir, je veux dire. </s>
+	<s id="2">- Pétin, vous avez un avocat ?</s>
+</p>
+</sp>
+<sp who="PÉTIN"><speaker>PÉTIN.</speaker>
+<p id="3">
+	<s id="1">Oui, m'sieur. </s>
+	<s id="2">J'en ai trouvé un, pour trois francs. </s>
+	<s id="3">Je l'ai arrêté.</s>
+</p>
+</sp>
+<sp who="L'AVOCAT DE BOUGNASSE"><speaker>L'AVOCAT DE BOUGNASSE</speaker><stage type="stand">, se levant.
+</stage>
+<p id="4">
+	<s id="1">C'est Maître_Legaffeur, Monsieur_le_Président ; cet ex-substitut de province qui a été révoqué au dernier changement de ministère et s'est, depuis, fait inscrire au barreau.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="5">
+	<s id="1">Eh bien, où est-il ?... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Le voici.</s>
+</p>
+<stage type="entrance">À ce moment, en effet, entre Maître Legaffeur, tenant sa serviette sous son bras.</stage>
+<p id="6">
+	<s id="1">Allons, Maître_Legaffeur, allons ! </s>
+	<s id="2">Le tribunal vous attend.</s>
+</p>
+</sp>
+<sp who="MAÎTRE LEGAFFEUR"><speaker>MAÎTRE LEGAFFEUR.</speaker>
+<p id="7">
+	<s id="1">Mille pardons.</s>
+</p>
+<stage type="drop/location/declamate">Il pose sa serviette, vient à la barre, et sans connaître le premier mot de ce qui a pu se passer avant son arrivée, il commence sa plaidoirie.</stage>
+<p id="8">
+	<s id="1">Messieurs. </s>
+	<s id="2">Si jamais prévention n'eut pas besoin d'être soutenue, c'est bien celle qui me vaut l'honneur de prendre la parole devant vous. </s>
+	<s id="3">À peine au sortir de l'enfance, l'homme que vous avez à juger, - et que vous jugerez, j'en suis sûr avec toute la sévérité que votre intégrité comporte - donna les signes les moins équivoques d'une nature réfractaire à tout bon sentiment. Il rouait de coups sa pauvre mère et lui dérobais ses économies, qu'il gaspillait ensuite en acquisitions de sucreries et de cigares de cacao : fâcheux prémices d'un avenir qui devait être plus lamentable encore... </s>
+	<s id="4">Vous d"peindrai-je, messieurs, la poignante douleur qui étreignait, à ces cruels moments, le cour de cette excellente femme ?... </s>
+	<s id="5">Non !.. </s>
+	<s id="6">La voudrai-je, que je n'y saurais parvenir, tant l'émotion me monte aux yeux en larmes tièdes et paralyse ma voix d'une indignation courroucée... </s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="estonish">, épaté.
+</stage>
+<p id="9">
+	<s id="1">Ah ça, vous requérez l'application de la peine !...</s>
+</p>
+</sp>
+<sp who="MAÎTRE LEGAFFEUR"><speaker>MAÎTRE LEGAFFEUR.</speaker>
+<p id="10">
+	<s id="1">Sans doute, et dans toute sa rigueur.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="estonish">, qui ne comprend rien.
+</stage>
+<p id="11">
+	<s id="1">Mais vous êtes étonné !!!....</s>
+</p>
+</sp>
+<sp who="MAÎTRE LEGAFFEUR"><speaker>MAÎTRE LEGAFFEUR</speaker><stage type="estonish">, sursautant.
+</stage>
+<p id="12">
+	<s id="1">Avec... </s>
+	<s id="2">Mille pardons, Monsieur_le_Président ; une simple distraction... </s>
+	<s id="3">Je me croyais encore substitut...</s>
+</p>
+<stage type="loud">Changeons de ton.</stage>
+<p id="13">
+	<s id="1">Plaise au tribunal faire droit à mes conclusions, renvoyez mon client des fins de la prévention et condamner la partie civile aux dépens.</s>
+</p>
+<stage type="declamate">Il plaide.</stage>
+<p id="14">
+	<s id="1">Messieurs. </s>
+	<s id="2">Si jamais le bon droit d'un homme faussement accusé creva les yeux aux gens de bonne foi, c'est bien - j'ose le proclamer, - dans l'affaire qui nous intéresse. </s>
+	<s id="3">Petit-fils d'un colonel de l'Empire qui laissa ses os à Iéna pour le gloire de la mère-patrie et le triomphe de la mère-patrie et le triomphe de nos libertés ; fils d'un grenadier de la garde qui, sous les murs de Sébastopol, conquis l'étoile de l'honneur à la pointe de sa baïonnette ; - que dis-je, fils d'un grenadier ?... </s>
+	<s id="4">Fils de ses oeuvres, plutôt !... </s>
+	<s id="5">Ayant combattu en 1870 au premier rang de cette vaillante armée_de_la_Loire dont le souvenir restera impérissable en tous les coeurs vraiment français- Bougnasse, Messieurs, tes l'Honnête Homme, dans l'acception la plus large et la plus majestueuse du mot !... </s>
+	<s id="6">Dès l'âge le plus tendre il montra un penchant irrésistible pour la vertu, et, par son application, son amour du travail, son hautain mépris des futilités de la vie, il sur conquérir l'estime de ses professeurs et la tendresse de ses parents. </s>
+	<s id="7">L'heureuse famille, Messieurs !... </s>
+	<s id="8">Qu'il me soit permis d'attarder un instant mes yeux sur le riant tableau que leur offrent monsieur et Madame_Bougnasse père et mère, étreignant de leurs bras attendris, et les yeux baignés de douces larmes, le fils (honneur de leur vieillesse) dont...</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="estonish">, ahuri.
+</stage>
+<p id="15">
+	<s id="1">Ah ça, Maître_Legaffeur, vous requérez l'acquittement de Bougnasse ?</s>
+</p>
+</sp>
+<sp who="MAÎTRE LEGAFFEUR"><speaker>MAÎTRE LEGAFFEUR.</speaker>
+<p id="16">
+	<s id="1">Sans doute.</s>
+</p>
+</sp>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT.</speaker>
+<p id="17">
+	<s id="1">Mais vous êtes l'avocat de Pétin !...</s>
+</p>
+</sp>
+<sp who="MAÎTRE LEGAFFEUR"><speaker>MAÎTRE LEGAFFEUR.</speaker>
+<p id="18">
+	<s id="1">.... de Pétin ?... </s>
+	<s id="2">Mille pardons, Monsieur_le_Président !... </s>
+	<s id="3">Une simple erreur. </s>
+	<s id="4">Je m'était trompé de client.</s>
+</p>
+<stage type="sweet">Changeant de ton.</stage>
+<p id="19">
+	<s id="1">Plaise au tribunal agréer mes conclusions, déclarer Pétin recevable en sa plainte, et condamner Bougnasse à un an de prison et trois_mille_francs d'amende, par application de l'article_373 du Code_Pénal.</s>
+</p>
+<stage type="declamate">Il plaide.</stage>
+<p id="20">
+	<s id="1">Messieurs. </s>
+	<s id="2">Un hasard (dont votre équité a déjà fait justice) me faisait dire tout_à_l_heure de Bougnasse ce que la plus stricte bonne foi me fait dire actuellement de Pétin. </s>
+	<s id="3">Si jamais le bien fondé d'une cause a ébloui les yeux de magistrats éclairés, c'est bien cela qui...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

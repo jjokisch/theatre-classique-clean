@@ -1,0 +1,1138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA NOCE DE VILLAGE, COMÉDIE</title>
+				<author type="texte" ISNI="0000 0001 0779 3531">Guillaume MARCOUREAU de BRÉCOURT (1638?-1685)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texet établie par par Paul FIEVRE juillet 2012</editor>
+				<publisher>Publié par Paul FIEVRE février 2023</publisher>
+				<idno>BRECOURT_NOCEDEVILLAGE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs</inspiration>
+				<structure>Un acte</structure>
+				<type>mixte</type>
+				<periode>1681-1690</periode>
+				<taille>250-500</taille>
+				<permalien cote="BnF LLA 8-YTH-12703">http://gallica.bnf.fr/ark:/12148/bpt6k62763275</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA NOCE DE VILLAGE</titlePart>
+			<titlePart type="sub">COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1681">M. DC. LXXXI. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="BRÉCOURT, Guillaume MARCOUREAU de">Par Brécourt</docAuthor>
+		<docImprint>
+		<privilege date="1674-04-12"><head>EXTRAIT DU PRIVILÈGE du ROI.</head>
+			<p>Par grâce et privilège du Roi, donné à fONTAINEBLEAU le 7 juillet 1666, Signé, Par le Roy en son Conseil, PUCELLE : il est permis à G. MARCOUREAU, Sieur de BRÉCOURT, l'un des comédiens de notre troupe ;de faire imprimer, vendre et débiter par quelque imprimeur ou marchand libraire qu'il voudra choisir, une pièce de théâtre intitulée, La Noce de village : pendant le temps de cinq années , et défenses sont faites à toutes personnes de l'imprimer ou faire imprimer, vendre ni débiter d'autre édition que celle de l'exposant, ou ceux qui auront droit de lui, à peine de trois mille livres d'amende, confiscation des exemplaire contrefaits, et de tous d"pens, dommages et intérêts : ainsi qu'il estporté plus au long par lesdites lettres de privilège.</p>
+			<p>Registré sur le Livre de la Communauté</p>
+		</privilege>
+			<acheveImprime id="1674-05-02">Achevé d'imprimé pour la première fois le dernier jour de juin 1681.</acheveImprime>
+			<printer id="BARBIN">À PARIS, Chez JEAN RIBOU, au Palais, dans la Salle Royale à l'Image Saint-Louis.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1666-06" location="Hôtel de Bourgogne">Représenté pour la première fois en juin 1666 à l'Hôtel de Bourgogne</premiere>
+		</performance>
+		<castList><head>ACTEURS.</head>
+			<castItem><role id="COLIN" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">COLIN</role>, le marié.</castItem>
+			<castItem><role id="NICOLAS" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">NICOLAS</role>, garçon de la noce.</castItem> 
+			<castItem><role id="CLAUDINE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">CLAUDINE</role>, la mariée.</castItem>
+			<castItem><role id="GRAND FRANÇOIS" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">GRAND FRANÇOIS</role>, père de Claudine.</castItem>
+			<castItem><role id="GROS JEAN" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">GROS JEAN</role>, père de Nicolas.</castItem>
+			<castItem><role id="LE JUGE DU VILLAGE" sex="1" type="H" statut="juge" age="A" stat_amour="néant">LE JUGE DU VILLAGE</role>.</castItem>
+			<castItem><role id="LE GREFFIER" sex="1" type="H" statut="greffier" age="A" stat_amour="néant">LE GREFFIER</role>.</castItem>
+			<castItem><role id="MONSIEUR BERTRAND" sex="1" type="H" statut="tabellion" age="A" stat_amour="néant">MONSIEUR BERTRAND</role>, Tabellion d'Aubervilliers.</castItem>
+			<castItem><role id="MARION" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">MARION</role>, Fille du Grand François.</castItem>
+			<castItem><role id="UN PAYSAN" sex="1" type="H" statut="paysan" age="A" stat_amour="néant">UN PAYSAN</role>.</castItem>
+			<castItem><role id="UN VIELLEUX" sex="1" type="H" statut="musicien" age="A" stat_amour="néant">UN VIELLEUX</role>.</castItem>
+			<castItem><role id="TROUPE DE CONVIÉS" sex="9" type="H" statut="bourgeois" age="A" stat_amour="néant">TROUPE DE CONVIÉS</role>.</castItem>
+			<castItem><role id="LES DANSEURS" sex="9" type="H" statut="danseur" age="A" stat_amour="néant">LES DANSEURS</role>.</castItem>
+			<castItem><role id="LES CHOEURS DE VOIX" sex="9" type="H" statut="choeur" age="A" stat_amour="néant">LES CHOEURS DE VOIX</role>.</castItem>
+		</castList>
+	<set location="Aubervilliers" country="France" periode="XVIIème" gps="48.912259, 2.384049">La scène est dans le logis du Grand François, dans la salle de la rue.</set>
+	</front>
+<body> 
+<div1 type="acte" n="1"><head>LA NOCE DE VILLAGE</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Colin, Nicolas.
+</stage>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="1" syll="6" part="i">Jarnigué, Nicolas.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="1" syll="6" part="f">Et jarnigué toi-même.</l>
+	<l id="2">Margué comme tu fais ; tu deviens tout blasphèmes</l>
+	<l id="3" syll="10" part="i">Partant que je t'ai dit deux paroles.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="3" syll="3" part="f">Margué.</l>
+	<l id="4">Tatigué, jarnigué, vois-tu bien ? Ventrigué,</l>
+	<l id="5">Je suis un bon garçon, tout franc, mais tatiguene,</l>
+	<l id="6" syll="9" part="i">Je ne suis point un sot, franchement.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="6" syll="3" part="f">Hé, marguene,</l>
+	<l id="7" syll="6" part="i">En suis-un, moi, Colin ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="7" syll="6" part="f">Et si tu l'es tant mieux,</l>
+	<l id="8">Qu'est-ce qui t'en dis rien ? Mais, margué, j'ai deux yeux ;</l>
+	<l id="9" syll="4" part="i">Tu le sais bien. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="10">Et bien, quand tu z'en naurais quatre.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="11" syll="6" part="i">Margué, je veux me battre.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="11" syll="6" part="f">Et contre qui ce battre.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="12">Jarnigué contre ceux qui me diront du mal.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="13">À qui, guiabe, en as-tu ? Dis donc, gros animal. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="14">Laisse-moi là, vois-tu ? Je ne veux point tant rire,</l>
+	<l id="15" syll="1" part="i">Moi. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="15" syll="5" part="f">Pargué, dis moi donc...</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="16">Je ne te veux rien dire.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="17" syll="6" part="i">Et bien, ne dis donc rien.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="17" syll="6" part="f">Je dirai si me plaît.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="18" syll="6" part="i">Parle donc tout ton son.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+<note type="L">Plaid : Audience d'un tribunal. [L]</note>
+	<l id="18" syll="6" part="f">Margué t'as bien du plaid ;</l>
+	<l id="19">Mais vois-tu ! Nicolas ? Je suis, pargué, bon frère,</l>
+	<l id="20">Veux-tu savoir pourquoi que je suis en colère. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="21" syll="6" part="i">Et bien pourquoi ? Dis donc.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="21" syll="6" part="f">C'est que je suis fâché ;</l>
+	<l id="22">Jarnigué l'autre jour comme j'atais caché...</l>
+	<l id="23">Non, c'est que j'acoutoes par le trou de la porte,</l>
+	<l id="24">C'est à dire qu'enfin... Mais bref, tanquia, n'importe.</l>
+	<l id="25">Or donc, car ventrigué, vois-tu bien Nicolas ?</l>
+	<l id="26" syll="6" part="i">Je ne suis point un gnais.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="26" syll="6" part="f">Non dà, tu ne l'es pas. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="27">Nanain, margué, nanain, je nel fuis, pargué, goutte. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="28" syll="6" part="i">Et bien, tan mieux pour toi. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="28" syll="6" part="f">Tant mieux, voirment, accoure,</l>
+	<l id="29">Nicolas, tu sais bien que je fon bon amis,</l>
+	<l id="30">Et tu sais bien encore que je somme pormis</l>
+	<l id="31">La fille au Grand-François avec moi par ensemble. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="32" syll="2" part="i">Et bien.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="32" syll="6" part="f">Mais ventriguenne, est-ce don qui te semble,</l>
+	<l id="33">Que quand qu'on est pormis, margué, qu'en</l>
+	<l id="34" syll="3" part="i">N'ait rien fait.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="34" syll="3" part="m">Et bien, susse.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="34" syll="6" part="f">Et bien donc, margué, comme d'effes ;</l>
+	<l id="35">Tu sais bien que je fime avant-hier nos fansailles.</l>
+	<l id="36">Et qu aujourd'hui, margué, je son les épousailles.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="37" syll="6" part="i">Est-ce là tout, Colin ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="37" syll="6" part="f">Non-dà, ce n'est pas tout ;</l>
+	<l id="38">Je m'en vois commencer tout par le droit fin bout,</l>
+	<l id="39">Hayer, come esgeveny d'avaNnt notre prairie,</l>
+	<l id="40">J'entris cheul Grand-François pour viriter not mie,</l>
+	<l id="41">Margué j'apercevy par le trou du grand huis,</l>
+	<l id="42">Que tu batifolais tout l'environ du puits</l>
+	<l id="43" syll="3" part="i">Aveuc elle. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="43" syll="2" part="m">Avec qui ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="43" syll="6" part="f">Morgues avec Glaudenne ;</l>
+	<l id="44">Aux enseigne, aga quien, que tu prenis la peine</l>
+	<l id="45">De mettre tes deux mains soura vau son brechet,</l>
+	<l id="46">Et puis tu lui baillis comme un colifichet...</l>
+	<l id="47">Margué je m'entends bien ; tu lui disais, Glaudenne,</l>
+	<l id="48">Lorgne-moi par un peu, n'ai-je pas bonne mène ?</l>
+	<l id="49">A donc, tu la ptenis par le chignon du cou,</l>
+	<l id="50">Et tu t'allis fourrer dans le jardin au chou</l>
+	<l id="51" syll="4" part="i">Aveuc elle. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="51" syll="2" part="m">Bon, bon. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="51" syll="6" part="f">Il ne faut point tant rire.</l>
+	<l id="52" syll="6" part="i">Nicolas, j'ai tout vu.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="52" syll="2" part="m">Bon, bon. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="52" syll="4" part="f">Que veux-tu dire ? </l>
+	<l id="53">Bon, bon : car vois-tu bien, si j'avais été prompt,</l>
+	<l id="54">Margué, je t'aurais fait pût-être un grand affront.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="55" syll="6" part="i">Bon, bon, qu'arais-tu fait.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="55" syll="6" part="f">Si je n'eusse été sage,</l>
+	<l id="56">Margué je l'arais dit par tout notre village.</l>
+	<l id="57">Et quem sonsige-moi ? Ventregué, dans l'honneur</l>
+	<l id="58">Je suis pis qu'un démon, car rien ne me fait peur.</l>
+	<l id="59">Comme dit l'autre, on za biau prenre une fumelle,</l>
+	<l id="60">Margué n'en prend toujours queuque mâle aveuc elle. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="61" syll="6" part="i">Ardé le grand malhûr.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="61" syll="6" part="f">Et bonhûr si tu veux, </l>
+	<l id="62">Je ne veux point porter les cornes si je peux :</l>
+	<l id="63">Et que sait-on ? Parfois un désespoir peut prendre.</l>
+	<l id="64">Marguene, pour un rien qu'un cocu s'irait prendre,</l>
+	<l id="65">Je le sais, pargué bien, j'en connaissons plusieurs...</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="66">Hé, margué, tu ferais comme les gros Monsieur.</l>
+	<l id="67" syll="6" part="i">Hé ! Que t'es fou, Colin !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="67" syll="6" part="f">Ho ! Margué fou toi-même,</l>
+	<l id="68">Je ne veux point de lait quand un autre à la cr7me.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="69" syll="2" part="i">Bon, bon. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="69" syll="10" part="f">Mais ventrigue aveuque ton bon</l>
+	<l id="70">Il faut point tant de lard pour faire un quarteron.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="71" syll="6" part="i">Bon, bon.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="71" syll="10" part="f">Pela morgoine, il ne faut point tant rire.</l>
+	<l id="72" syll="5" part="i">Veux-tu le battre ?</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="72" syll="1" part="m">Non.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="72" syll="6" part="f">Quien, tu n'as rien qu'à dire ?</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="73">Et non, Colin, nanain voire dà, queu marchant !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="74" syll="6" part="i">Ô margué, je te veux, moi.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="74" syll="6" part="f">T'es donc bien michant ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="75" syll="6" part="i">Oui, margué, je le suis.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+<note type="L">Diable à quatre : faire beaucoup de bruit, causer beaucoup de désordre (locution qui provient d'une représentation scénique du moyen âge qu'on appelait la grande diablerie à quatre personnages ; celle où il n'y en avait que deux se disait la petite diablerie) [L]</note>
+	<l id="75" syll="6" part="f">Tu fais le diable à quatre :</l>
+	<l id="76">Mais Colin, dis-moi donc, pourquoi veux-tu te battre.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="77">Morgué, pour mon plaisir, de quoi te mêles-tu ?</l>
+	<l id="78">Se bat-on pas toujours quand qu'on devient cocu.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="79" syll="3" part="i">Et l'es-tu ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="79" syll="9" part="f">Palsangué je m'attends bien de l'être ;</l>
+<note type="L">Bissêtre : Mot inusité présentement, qui signifiait malheur, malaventure. [L]</note>
+	<l id="80">Mais morguene avant coup je yeux faire bissêtre ;</l>
+	<l id="81">Jarnigué, par point bas, je veux me battre en deuil.</l>
+<stage type="dress">Colin ôte son pourpoint et son rabat.</stage>
+	<l id="82">Déchaussons le rabat, margué, bon pied, bon oeil.</l>
+	<l id="83" syll="4" part="i">La main fait tout.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="83" syll="8" part="f">Fi donc, Colin, n'en te regarde.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+<stage type="show">Il présente le poing à Nicolas.</stage>
+	<l id="84">Je n'ai coeur, ventrigué, boute toi dans ta garde. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="85">Oh ! C'est donc tout de bon ? Margué, vêla pour toi. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="86">Ah morgué, Nicolas ! te moques-tu de moi ?</l>
+	<l id="87" syll="6" part="i">Tu bailles dans less dents. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="87" syll="6" part="f">Margué, que me soucie-je ?</l>
+	<l id="88" syll="2" part="i">Tant mieux.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="88" syll="10" part="f">Ô vantrigué, laisse-moi là, te dis-je. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="89" syll="6" part="i">Quien, c'est pour t'agacer.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="89" syll="6" part="f">Ouf, margué, Nicolas,</l>
+	<l id="90">Quien, jarny, queuque jour ? Tu t'en repentiras.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="91" syll="6" part="i">Et que me feras-tu ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="91" syll="2" part="m">Margué !</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="91" syll="1" part="m">Quoi ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="91" syll="3" part="f">Ventriguene.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="92" syll="1" part="i">Hey.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+<note type="C">Glaudenne : Claudine.</note>
+	<l id="92" syll="11" part="f">Quien, je le dirai dres ce soir à Glaudenne :</l>
+	<l id="93">Tu le verras plutôt, mais pargué la voici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Claudine, Colin, Nicolas.
+</stage>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="94">Bonjour, me doux Colin, m'en amoureux souci.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="95" syll="6" part="i">Laisse loi là, marguenne.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="95" syll="6" part="f">Hé coeur de ma poitrenne,</l>
+	<l id="96" syll="9" part="i">Petit cochon de lait, qu'as-tu donc ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="96" syll="3" part="f">Ô la chienne !</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="97" syll="6" part="i">[Me] tredine, qu'a-t'il ?</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="97" syll="6" part="f">C'est qu'il se bat en deuil.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="98">Ventrigué, je t'aurai queuque jour seul à seul,</l>
+	<l id="99" syll="3" part="i">Laisse faire.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="99" syll="9" part="f">Hé margué, viens-y donc tout à l'heure.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="100" syll="6" part="i">Oh, jarnon, dans les dents !</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="100" syll="6" part="f">Hé quoi ! Tu pleures ? </l>
+	<l id="101" syll="4" part="i">Et d'où vient donc ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="101" syll="3" part="m">Marguenne, hé.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="101" syll="5" part="f">Bonjour, Nicolas.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="102">Oh chienne ! Queuque jour tu t'en repentiras.</l>
+	<l id="103" syll="6" part="i">Patience ?</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE. </speaker>
+	<l id="103" syll="6" part="m">Et de quoi bien aimé ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="104">Va je te battrai bien quand tu seras ma femme,</l>
+	<l id="105" syll="6" part="i">Baille moi deux épingues.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="105" syll="6" part="f">Hé mon quieu ,les voila.</l>
+<stage type="hurt">Il l'a piqué en prenant l'épingle.</stage>
+</sp>
+<sp who="COLIN"><speaker>[COLIN]. </speaker>
+	<l id="106" syll="6" part="i">Carogne.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="106" syll="2" part="m">Chouf, Colin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="106" syll="6" part="f">Ce n'est rien que cela.</l>
+	<l id="107" syll="6" part="i">Je t'en ferai bien pis. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="107" syll="6" part="f">Pourquas que tu la piques ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+<note type="L">Besicles : Familièrement. Vous n'avez pas bien mis vos besicles, vous y voyez mal. [L]</note>
+	<l id="108">Margué t'en as menti, boute mieux besicles.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="109" syll="3" part="i">J'ai menti ?</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="109" syll="9" part="f">Nicolas, tredin, tenez vous coi.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="110">Oh marguene au secours, à moi queu qu'un à moi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Grand-François, Gros-Jean, Colin, Nicolas.
+</stage>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="111" syll="6" part="i">Qu'est-ce qui n'y a ?</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="111" syll="6" part="f">Tatigué, c'est mon gendre.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="112">Biau père, tatigué, venez pour me défendre.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="113" syll="3" part="i">Nicolas.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="113" syll="9" part="f">Et Colin, dis donc qu'as tu mangé ?</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="114">Marguenne y sont tous deux pires qu'un enragé. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="115" syll="6" part="i">Oh nargué, je t'aurai. </l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="115" syll="6" part="f">Peste soit de la bête,</l>
+	<l id="116">Jem donne au diable, van je te romrai la tête</l>
+	<l id="117" syll="6" part="i">Si tu zy revien plus.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="117" syll="6" part="f">Oh, vous n'en ferez rien</l>
+	<l id="118" syll="2" part="i">Gros-Jean.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="118" syll="4" part="m">Et que sais tu ?</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="118" syll="6" part="f">Je le sais pargué bien,</l>
+	<l id="119" syll="6" part="i">Car j'y avon regardé.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+<note type="L">Lorgner : Observer à la dérobée, en tournant les yeux de côté. [L]</note>
+	<l id="119" syll="6" part="f">Je t'en réponds, mon borgne,</l>
+	<l id="120" syll="6" part="i">Je te crains margué bien.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="120" syll="6" part="f">Margué comme tu lorgnes,</l>
+	<l id="121">Veux tu que je fassions le coup de poing nous deux ?</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="122">Margué ne dites rien, vous êtes le plus vieux,</l>
+	<l id="123" syll="6" part="i">Montrez-vous le plus sage.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="123" syll="6" part="f">Oh, gna sage qui quiene</l>
+	<l id="124">Margué, s'il a du coeur, ventrigué qu'il y vienne.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="125">Oh, si je non du coeur, vois-tu, j'on du quarriau,</l>
+	<l id="126">Et si t'en veux jaser vien t'en dessous l'ormiau</l>
+	<l id="127" syll="4" part="i">Tu le verras.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+<note type="L">Pagnorte : pagnote. Qui est sans courage, sans énergie. [L]</note>
+	<l id="127" syll="8" part="f">Margué, tu n'es rien qu'un pagnorte. </l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="128">Oh, j'avon pourtant vu le Chaquiau de la Motte. </l>
+	<l id="129">Et si j'avons porté des farcine à Rocroy.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="130" syll="6" part="i">Oui par dessus l'épaule.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="130" syll="6" part="f">Et parqué, je le crois.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN. </speaker>
+	<l id="131">Va, va, je savons bien queussuq  c'est que la guerre</l>
+	<l id="132">J'on mangé queuquefois du l'art de militaire,</l>
+	<l id="133">Je savons, margué, bien, tirer un coup mousquet</l>
+	<l id="134">Sans nous brûler les doigts a vus tous VOS caquets ;</l>
+	<l id="135">Ô dont vous voyez bien, c'est pour vous faire entendre</l>
+	<l id="136">Que si vous nous baquiais, je saurions nous défendre.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="137">Ô margué, j'en on vu d'aussi futés que toi ;</l>
+	<l id="138">Quand on se bat, vois-tu, chacun y va pour soi :</l>
+<note type="L">Drille :  Fantassin, soldat à pied. [L]</note>
+	<l id="139">Crois-tu que je n'on pas queuque fois vu les drilles ?</l>
+	<l id="140">Tatigué tous les coups n'en ne fait pas neuf quilles</l>
+	<l id="141">Et j'en avon tant vu de ces regneux de Guieu,</l>
+	<l id="142">Aveuc ta parmission que je te crève un yeux. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN</speaker><stage> donne un soufflet à Nicolas quand il y pense le moins. 
+	</stage>
+	<l id="143">Margué, vela pour toy, j'avons notre revanche.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="144" syll="6" part="i">Ouf, j'ai le nez cassé.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="144" syll="6" part="f">Tatigué, queu Dimanche.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="145">Oh ventrigué, Colin, c'est de la trahison,</l>
+	<l id="146">Mais margué, queuque jour j'aurons notre raison.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="147">Ô, viens-y, Nicolas, je te ferons bien rire.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="148">Marguene, Grand-François, qu'est-ce qu'ou voulez dire ?</l>
+	<l id="149">Est-ce là l'action d'un brave homme de bien ? </l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="150" syll="1" part="i">Quoi ?</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="150" syll="11" part="f">De frapper les gens, margué, sans dire rien.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="151">Mais marguene, à proupos d'où yien donc la querelle.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="152">Bon, palsanguié, samon, vous nous la baillez belle.</l> 
+	<l id="153" syll="6" part="i">Est-ce que j'en sais rien ?</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="153" syll="6" part="f">Pargué ni moi non plus.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="154">Marguene, pourquoi donc nous serions-je battus ?</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="155">Je  m'en sais pargué rien ; Colin, pourquoi serait-ce ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="156">Margué, veyez-vous bien, que mon péché n'en croisse, </l>
+	<l id="157">Je crois que Nicolas m'a quasi fait cocu,</l>
+	<l id="158">Et vela pourquoi que c'est qu'ou vous seriais battu.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="159" syll="2" part="i">Cocu !</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="159" syll="2" part="m">Cocu !</l> 
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="159" syll="2" part="m">Cocu !</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="159" syll="2" part="m">Cocu ! </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="159" syll="4" part="f">Cocu, marguene.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="160">Ho, Colin, pour si peu ce n'en est pas la peine.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="161" syll="8" part="i">Et n'est-ce que cela, gros sot ? </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="161" syll="4" part="f">Et ce n'est rien.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="162">Pargué le grand malheur, aga, je le suis bien.</l>
+	<l id="163" syll="5" part="i">Et gros Jean aussi.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="163" syll="1" part="m">Moi ?</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="163" syll="6" part="f">C'est pour lui faire accroire.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="164">Margué, rayez cela de dessus vos grimoires,</l>
+	<l id="165">Je n'ai jamais reçu, parguene un tel affront.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="166">Cocu, c'est quand on a des cornes sur le front,</l>
+	<l id="167" syll="8" part="i">Tâte bien si t'en as, Colin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="167" syll="4" part="f">Hé bonne bête,</l>
+	<l id="168">Ce que l'on plante aux pieds vient-il dessus la [truffe] ?</l>
+	<l id="169">Quien pour nous marier je suis ton serviteur,</l>
+	<l id="170">Je son pauvre, vois-tu, mais javon de l'honneur.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="171" syll="6" part="i">Hé mon Guieu, que t'es chose !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="171" syll="6" part="f">Oh gna chose qui quienne,</l>
+<stage type="away">Il veut s'en aller.</stage>
+	<l id="172">Je devions nous marier aujourd'hui, mais marguene,</l>
+	<l id="173">Il n'en fera rien, ou... final, je m'entends bien.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS</speaker><stage> l'arrêtant.
+	</stage>
+	<l id="174">Pargué va, t'a raison... comme il n'en fera rien ;</l>
+	<l id="175" syll="4" part="i">Margué, je ne... </l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+<note type="L">Bile : Fig. Mauvaise humeur, colère. [L]</note>
+	<l id="175" syll="8" part="f">Tout biau, vous vous chauffez la bile.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="176">Ho, je suis d'une himeur tout à fait domicile,</l>
+	<l id="177">Mais margué dans l'honneur je suis pis qu'un Satan.</l>
+	<l id="178" syll="6" part="i">Hé comment ! Tout est press...</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="178" syll="6" part="f">Et bon, cela s'entend,</l>
+	<l id="179" syll="8" part="i">Margué vous avez tort, Colin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="179" syll="4" part="f">Et j'ai le Diable.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS-JEAN.</speaker>
+	<l id="180">À ton col, hé Marchand, on ne y fait le capable !</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="181">Colin, quien si tu veux que je s[oy]ons bons amis,</l>
+	<l id="182">Marguene il faut tenir le mot que t'as promis.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="183" syll="6" part="i">Pargué, je m'en bas l'oeil.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="183" syll="6" part="f">Oh, je m'en bats les fesses,</l>
+	<l id="184">Marguene, je te frons, margué, bien tenir tes promesses,</l>
+	<l id="185" syll="6" part="i">Ou je plaiderons bien.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="185" syll="6" part="f">Et bien je plaidrons,</l>
+	<l id="186">Et si nous faut trembler, margué je tremblerons.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="187">Jarnigué, je ferons quoique nouviau grabuge.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="188">Palsanguè je varrons, vecy Monsieur_le_Juge.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Le Juge, La greffier, Grand-François, Claudine, Gros-Jean, Colin, Nicolas.
+</stage>
+<stage type="move/furniture/fall">Colin présente un siège au juge, et comme il veut se seoir, Colin retie le siège comme pour le nettoyer, et le juge tombe.</stage>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="189">Monsieur le Juge, ardè, tenez boutez vous là.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE</speaker><stage type="fall">, tombant.
+	</stage>
+	<l id="190" syll="1" part="i">Hé.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="190" syll="11" part="f">C'est que notre siège était sale par là,</l>
+	<l id="191" syll="4" part="i">Reboutez vous.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="191" syll="2" part="m">Et bien ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="191" syll="6" part="f">Monsieur j'avons querelle.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="192" syll="6" part="i">Oh, margué, j'en appelle.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="192" syll="6" part="f">Oh, c'est moi qu'en appelle.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+<note type="L">Intimé : L'intimé, l'intimée, personne qui, ayant gagné son procès en première instance, est appelée devant un tribunal supérieur par sa partie. L'appelant et l'intimé. [L]</note>
+	<l id="193">Lequel est l'appelant des deux ou l'intimé ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="194" syll="2" part="i">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="194" syll="10" part="f">Dans le procès chacun est-il nommé ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="195" syll="2" part="i">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="195" syll="10" part="f">Est-il verbal, ou bien si la partie</l>
+	<l id="196" syll="6" part="i">Est appointée en droit ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="196" syll="2" part="m">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="196" syll="4" part="f">L'antipathie</l>
+	<l id="197" syll="6" part="i">Est une étrange chose !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="197" syll="4" part="m">Il est vrai, mais.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="197" syll="Z" part="f">Au moins</l>
+	<l id="198">Dedans le fait et cause avez-vous des témoins ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="199" syll="6" part="i">Ventriguene, Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="199" syll="4" part="m">Répondez donc.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="199" syll="2" part="f">Ô peste ! </l>
+	<l id="200" syll="2" part="i">Monsieur.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="200" syll="10" part="f">Votre innocence est assez manifeste.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="201" syll="2" part="i">Je vous...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="201" syll="10" part="f">Explique-moi la chose comme elle est.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="202" syll="6" part="i">Acoutez, vous saurez...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="202" syll="6" part="f">Voulez-vous un arrêt</l>
+	<l id="203">Qui soit au défenseur conforme à la sentence ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="204" syll="6" part="i">Et non, Monsieur, je veux.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="204" syll="6" part="f">Un peu de patience:</l>
+	<l id="205" syll="6" part="i">Dites, que voulez-vous ? </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="205" syll="4" part="m">Monsieur enfin...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE</speaker><stage>, au Greffier.
+	</stage>
+	<l id="205" syll="2" part="f">Hola,</l>
+	<l id="206" syll="6" part="i">Faites faire silence.</l>
+</sp>
+<sp who="LE GREFFIER"><speaker>LE GREFFIER.</speaker>
+	<l id="206" syll="6" part="f">Et là, Messieurs, paix là,</l>
+	<l id="207" syll="6" part="i">Monsieur n'sait ce qu'il dit.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="207" syll="6" part="f">Ho, faites-nous la grâce...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="208">On poudrait bien aussi juger par contumace,</l>
+	<l id="209">Fors aux cas réservés à l'hymen clandestin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="210">Margué ? je n'entends point tous vos mots de Latin.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="211">Si vous êtes absurd és termes de pratique,</l>
+	<l id="212">Il faut donc que quelqu'un pour votre cas s'explique.</l>
+	<l id="213" syll="6" part="i">Parlez-vous, Grand François.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="213" syll="2" part="m">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="213" syll="4" part="f">Ne parlez plus.</l>
+	<l id="214">C'est assez, vous Gros-Jean, répondez là-dessus.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="215" syll="2" part="i">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="215" syll="8" part="m">Hola, tase. Parlez, Colin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="215" syll="4" part="f">Marguene...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="216">Bon, voila qui va bien, répondez vous Claudine.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="217" syll="2" part="i">Monsieur...</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="217" syll="10" part="f">Qu'un jugement est un grand embarras !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="218" syll="2" part="i">Oh bien.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="218" syll="10" part="f">Laissez un peu répondre Nicolas.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="219" syll="6" part="i">Moi ? Je n'ai rien à dire.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="219" syll="6" part="f">Il faut que chacun parle.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="220">Margué, ja veux chiffler pu fort que notre Marle.</l>
+</sp>
+<sp who="TOUS ENSEMBLE"><speaker>TOUS ENSEMBLE.</speaker>
+	<l id="221">Vous saurez donc, Monsieur, que comme je venoua A</l>
+	<l id="222">Je nous esquième tous auparavant allé É</l>
+	<l id="223">Cheux Colin pour y voir la noce d'aujourd'hui I</l>
+	<l id="224">Mais comme je veniens, Monsieur, tout aussitôt, O</l>
+	<l id="225">Qu'en ce rencontre y la je nous seriens battu. U</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="226">Bénit soit le procès de l'A, E, I, O, U.</l>
+	<l id="227" syll="6" part="i">Écrivez donc Greffier.</l>
+</sp>
+<sp who="LE GREFFIER"><speaker>LE GREFFIER.</speaker>
+	<l id="227" syll="6" part="f">Monsieur, je n'entends goutte.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="228">Et quoi ? Ne faut-il pas que le Greffier écoute.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="229">Oh bien, Monsieur, vela, j'avons dit l'action,</l>
+	<l id="230">C'est à vous à bailler voute contusion.</l>
+</sp>
+<sp who="LE JUGE"><speaker>LE JUGE.</speaker>
+	<l id="231">Je conclus, concluant par conclusion brève</l>
+	<l id="232">Que vous serez très tous pendus en pleine Grève,</l>
+	<l id="233">Et si vous appelez d'un si beau jugement,</l>
+	<l id="234">Je conclus, concluant, conclusitivement,</l>
+	<l id="235">Pour ne vous plaindre point de notre procédure,</l>
+	<l id="236">Que je ne conclus rien de peur de mal conclure.</l>
+<stage type="exit/together">Le Juge et le Greffier s'en vont.</stage>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="237" syll="6" part="i">Bon, nous vela pas mal.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="237" syll="6" part="f">Pargué, d'effet, samon,</l>
+	<l id="238">Mais marguene, Colin, aveuc tout ton sarmon.</l>
+	<l id="239">Que veux-tu dire aussi, tiens si tu m'en veux croire,</l>
+	<l id="240">Margué, tu larras là toute ta belle Histoire,</l>
+	<l id="241">Vela le festin prêt qui vient subitement,</l>
+	<l id="242">Et nargué tu nous viens bailler du compliment,</l>
+	<l id="243">Allons, gros Jean, prenez Nicolas par la patte :</l>
+	<l id="244">Et faut-Il pour un rien qu'un bon ami se batte ?</l>
+	<l id="245" syll="6" part="i">Donne ta main, Colin.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="245" syll="3" part="m">Marguene...</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="245" syll="3" part="f">Do[nne] don.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="246">Non, jarnigué, je veux qu'il demande pardon.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="247" syll="3" part="i">Et de quoi ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="247" syll="3" part="f">Ô de quoi ?</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="247" syll="3" part="m">Oui de quoi ?</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="247" syll="3" part="f">Ventriguene,</l>
+	<l id="248">De ce qu'il a voulu coucher avec Glaudenne.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="249" syll="6" part="i">Il n'est margué pas vrai.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="249" syll="6" part="f">Margué, je dis que si.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="250">Et puisqu'il n'est pas vrai, Colin, t'as tort aussi.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="251">Et bien, margué, n'importe, il faut qu'il le confesse</l>
+	<l id="252" syll="6" part="i">Ou je ne ferons rien.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="252" syll="4" part="m">Mais ventriguene....</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="252" syll="2" part="f">Et qu'est-ce?</l>
+	<l id="253" syll="2" part="i">Dis qu'oui.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="253" syll="4" part="m">Je le veux bien.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="253" syll="6" part="f">Mais margué de franc coeur.</l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="254" syll="3" part="i">Oui, parguene.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN</speaker><stage>,	embrassant Nicolas.
+	</stage>
+	<l id="254" syll="9" part="f">Ô bien don je suis ton serviteur.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="255">Ah, voila qui va bien ; bon voici le notaire.</l>
+	<l id="256" syll="7" part="i">Bonjour, à Monsieur Bertrand.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Monsieur Bertrand, Grand
+François, Gros Jean, Claudine, Colin.
+</stage>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="256" syll="5" part="f">Ah bonjour, vieux frère.</l>
+</sp>
+<sp who="GROS-JEAN"><speaker>GROS JEAN.</speaker>
+	<l id="257" syll="6" part="i">Bonjour, Monsieur Bertrand.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="257" syll="6" part="f">Bonjour, bonjour, Gros-Jean.</l>
+	<l id="258" syll="6" part="i">Or ça, je viens ici...</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="258" syll="6" part="f">Bonjour, Monsieur Bertrand.</l> 
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="259" syll="2" part="i">Bonjour.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="259" syll="8" part="f">Nous venez vous lire des hereticles ?</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="260" syll="4" part="i">Oui, si Dieu plaît.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="260" syll="8" part="f">Et bien, boutez donc vos besicles.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND</speaker><stage type="read">, lit.
+</stage>
+<note type="L">Chasse-chien : Portier, bedeau. [L]</note>
+<p id="1">
+	<s id="1">Par devant Bertrand_Douillet, Tabellion d'Aubervilliers. </s>
+	<s id="2">Furent présents en leurs personnes Jean_Laurens, dit Grand-François, demeurant audit Aubervilliers ; et Perrette_Cre sa femme, d'une part : Guillaume_Buttan, Maître Carillonneur et premier Chasse-chien de la grand'Église dudit lit à Catherine_Vigreux sa femme, lesquels de leur bon gré ont reconnu et confessé avoir fait et font les promesses et accords de mariage qui ensuivent, à savoir de Colin_Battan et de Claudine_Vigreux, tous bourgeois dudit lieu tant du côté paternel que maternel ; l'un à l'autre agés de chacun dix_neuf_ans environ, plus_ou_moins sans conséquence. Pour la grande affection qu'ils se portent, pour avoir gardé par l'espace de dix ans les vaches ensemble, ils ont désiré se conjoindre par lien matrimonial sous le bon plaisir de leurs parents et amis. Lequel Guillaume_Buttan non ici présent pour être détenu au lit d'un coup de pierre au beau milieu du dos, a donné et donne - Colin_Battan son fils et futur époux, par ces présentes, en faveur de mariage un arpent d'héritage assis audit Aubervilliers. </s>
+	<s id="3">Plus une charrue attelée d'un boeuf et d'un âne âgés de quarante cinq_ans ou environ ; ensemble ses habits, savoir un paletot d'écarlate noire doublé de jaune cramoisie, un fonds de chauffe de blanchet gris, une chemise garnie de son colet de toile à boussette. </s>
+	<s id="4">Item une paire de guêtres et de souliers de vache tout neufs ; en outre la somme de onze livres quinze sols six_deniers tournois en belle pistole, et monnaie blanche. </s>
+	<s id="5">Et quant au dit Laurent, dit Grand-François, père de la future épouse, pour la bonne amitié qu'il porte, lui a donné en faveur dudit mariage un quartier et demi de pré fraîchement tondu, assis au lieu et territoire de la_Motte, plus une vache sous poil grivelé avec le pot à traire et autres ustensiles de ménage, et outre son trousseau garni de deux draps et une nappe frangée d'une aune un douze ou environ avec ses bagues et ses joyaux, desquels ledit Colin_Battan, futur époux, s'est tenu à tient pour content, et a donné et donne ladite future épouse de la somme de quatorze sous six_deniers_tournois, pour icelle avoir et prendre sur une masure sise en la plaine de Long-Boyau, et est accordée entre lesdites parties qu'au cas que l'un desdits futurs époux décède sans enfants procrées de leur mariage, le survivant remportera ce qu'il aura apporté ainsi qu'ils ont présentement accordé. </s>
+	<s id="6">Et quant à tout, etc. et obligeant, et renonçant, et fait et passé, etc.</s>
+</p>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>LE GRAND FRANÇOIS.</speaker>
+	<l id="261">Bon, voilà qui va bien, donnez, je signerons.</l>
+	<l id="262">François, s'écrit-il pas avec deux O ronds ?</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="263" syll="6" part="i">Tout comme il vous plaira.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS</speaker><stage type="sign">, après avoir signé.
+	</stage>
+	<l id="263" syll="6" part="f">Véla qu'a bonne menns</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="264" syll="6" part="i">Allons Monsieur Colin. </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="264" syll="6" part="f">Quoi ! Faut-il que je senne ?</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND. </speaker>
+	<l id="265" syll="4" part="i">Belle demande !</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS</speaker><stage type="toward/write">, à Colin qui prend la plume de la main gauche.
+</stage>
+<note type="L">Jobelin : Jeune jobard, petit jobard. [L]</note>
+	<l id="265" syll="6" part="f">Bon, peste du jobelin.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="266" syll="4" part="i">De l'autre main !</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="266" syll="8" part="f">Ah, oui, P, G, C, Q, Colin.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="267" syll="6" part="i">À vous, Claudine, allons.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="267" syll="6" part="f">Je ne sais point écrire,</l>
+	<l id="268" syll="4" part="i">Monsieur Bertrand.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="268" syll="8" part="f">Pargué va, tu nous fais bien rire :</l>
+	<l id="269">Hé, prend la plume, allons, boute là tes cinq doigts.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="270">Je m'en vais seulement faire cinq ou six croix ;</l>
+	<l id="271" syll="4" part="i">Sera-ce assez ? </l>
+</sp>
+<sp who="COLIN"><speaker>COLIN. </speaker>
+	<l id="271" syll="8" part="f">Fais-en plutôt plein un carrosse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Marion, les conviés, Grand-François, Colin, Gros-Jean, Nicolas, Claudine, Bertrand.
+</stage>
+<sp who="MARION"><speaker>MARION.</speaker>
+	<l id="272">Voici tous les Monsieux qui venons la nôce,</l>
+	<l id="273">Mon père, ma Grand dit que vous dongniez la clé</l>
+	<l id="274">Pour avinre des noix dans le grenier au blé.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND FRANCOIS.</speaker>
+	<l id="275">La vela, quien, allons, que l'on boute la nappe.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND</speaker><stage type="sign">, après que Claudine a signé.
+	</stage>
+	<l id="276" syll="6" part="i">Vous écrivez fort bien.</l>
+</sp>
+<sp who="CLAUDINE"><speaker>CLAUDINE.</speaker>
+	<l id="276" syll="6" part="f">Mon Guieu, le coeur me tape.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="277" syll="6" part="i">Or ça, Messieurs, adieu.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="277" syll="6" part="f">Bonsoir, Monsieur Bertrand.</l>
+</sp>
+<sp who="BERTRAND"><speaker>BERTRAND.</speaker>
+	<l id="278" syll="6" part="i">Au moins vous savez bien...</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="278" syll="6" part="f">Marguene, allez-vous-en.</l>
+	<l id="279">Ne savons-je pas bien tout sen qui faudra faire ?</l>
+<stage type="entrance/furniture">On fait paraître une table servit rustiquement.</stage>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="280">Glaudenne, ventrigué, je ferons bonne chère.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS</speaker><stage>, aux Conviés.
+	</stage>
+	<l id="281">Vous qerez mal traitez, mais margué, voyez vous,</l>
+	<l id="282">Messieurs, vous y serez tout enfin que chez vous,</l>
+	<l id="283" syll="6" part="i">Boutez-vous donc tretous...</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="283" syll="6" part="f">Pargué sans simonie.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="284">Allons donc, Nicolas, Gros-Jean, jarni ma vie,</l>
+	<l id="285" syll="6" part="i">Boutez-vous donc, Messieurs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Marion, Grand-François, Le Vielleux, Gros-Jean, Nicolas, Claudine, Les conviés.
+</stage>
+<sp who="MARION"><speaker>MARION.</speaker>
+	<l id="285" syll="6" part="f">Voici les violons.</l>
+</sp>
+<sp who="LE VIELLEUX"><speaker>UN VIELLEUX.</speaker>
+	<l id="286" syll="4" part="i">Bonjour Messieurs.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="286" syll="2" part="m">Bonjour.</l>
+</sp>
+<sp who="LE VIELLEUX"><speaker>LE VIELLEUX. </speaker>
+	<l id="286" syll="6" part="f">Voici deux bons garçons,</l>
+	<l id="287">Qui vont pargué jouer des branles d'importance.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="288">Ho, je somme bien fous, après pause la danse.</l>
+	<l id="289" syll="2" part="i">Jouez.</l>
+</sp>
+<sp who="LE VIELLEUX"><speaker>UN VIELLEUX.</speaker>
+	<l id="289" syll="10" part="f">Je ressemblons à l'oisiau de cheu nous,</l>
+	<l id="290">Je ne saurions chiffler si je ne sommes fous.</l>
+<stage type="drink">Il boit.</stage>
+	<l id="291">Aveuc vot parmission ; margué, le front me sue.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="292">Et là, là, tirez bas, de crainte de la vue.</l>
+</sp>
+<sp who="LE VIELLEUX"><speaker>LE VIELLEUX.</speaker>
+	<l id="293">Véla qu'est bien, ronflons.</l>
+<stage type="title">CHANSON. </stage>
+	<l id="294">Aga Piarot le terrible accident,</l>
+	<l id="295">J'avions fait acheter une fort bonne éclanche,</l>
+	<l id="296">J'esperions la manger, et l'était belle et blanche.</l>
+	<l id="297">Maturenne qui a le coeur grand</l>
+	<l id="298">Voulait régaler nos parents,</l>
+	<l id="299">L'estions auprès du feu les mains dessus les hanches,</l>
+	<l id="300">Je buvions demistié tourjour en attendant,</l>
+	<l id="301">Mais hélas dans le même instant</l>
+	<l id="302">Un matin l'atrapit sur le bout d'une planche,</l>
+	<l id="303">Et nous la croquit sur le champ,</l>
+	<l id="304">Il n'en laissit rien que le manche ;</l>
+	<l id="305" syll="6" part="i">Aga Piarot le tarible accident.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="305" syll="6" part="f">Hé margué Nicolas,</l>
+	<l id="306">Puis je sont bons amis, pargué, tu danseras. </l>
+</sp>
+<sp who="NICOLAS"><speaker>NICOLAS.</speaker>
+	<l id="307" syll="10" part="i">Je ne sais point danser. Laisse-moi là.</l>
+</sp>
+<sp who="COLIN"><speaker>COLIN.</speaker>
+	<l id="307" syll="2" part="f">Pargué,</l>
+	<l id="308">Hé danse un tantinet pour l'amour de Glaudene.</l>
+</sp>
+<sp who="UN CHOEUR DE PAYSANS"><speaker>UN CHOEUR DE PAYSANS.</speaker>
+	<l id="309" syll="6" part="i">Pargué, vive Glaudenne.</l>
+</sp>
+<sp who="UN AUTRE CHOEUR"><speaker>UN AUTRE CHOEUR.</speaker>
+	<l id="309" syll="6" part="f">Et vive aussi Colin.</l>
+</sp>
+<sp who="GRAND-FRANÇOIS"><speaker>GRAND-FRANÇOIS.</speaker>
+	<l id="310">Chacun s'aille coucher, Messieurs, jusqu'à demain.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

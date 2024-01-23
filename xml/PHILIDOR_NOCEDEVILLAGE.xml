@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA NOCE DE VILLAGE, MASCARADE.</title>
+				<author type="texte" ISNI="0000 0001 1060 7314">André PHILIDOR (1652?-1730)</author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE, septembre 2022</editor>
+				<publisher>publié par Paul FIEVRE, octobre 2022.</publisher>
+				<idno>PHILIDOR_NOCEDEVILLAGE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Mascarade</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1691-1700</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF 8-Z LE SENNE-14538">https://gallica.bnf.fr/ark:/12148/bpt6k6525795d</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA NOCE DE VILLAGE</titlePart>
+			<titlePart type="sub">MASCARADE MISE EN MUSIQUE PAR MR PHILIDOR L'AÎNÉ</titlePart>
+			<titlePart type="sub">Représentée devant SA MAJESTÉ à Marly.</titlePart>
+		</docTitle> 
+		<docDate value="1700">M. DCC. Par exprès commandement de sa Majesté.</docDate>
+		<docAuthor id="PHILIDOR, André">Par Mr PHILIDOR l'aîné, Ordinaire de la Musique du Roi.</docAuthor>
+		<docImprint>
+			<printer id="BALLARD">À PARIS, Par CHRISTOPHE BALLARD, seul Imprimeur du Roi pour le Musique, rue Saint-Jean de Beauvais, au Mont-Parnasse.</printer>
+		</docImprint>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="LE PÈRE DE LA MARIÉE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LE PÈRE DE LA MARIÉE</role>. Mr Philbert.</castItem>
+		<castItem><role id="LA MÈRE DE LA MARIÉE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">LA MÈRE DE LA MARIÉE</role>. Mlle Chappe.</castItem>
+		<castItem><role id="LE MARIÉ" sex="1" type="H" statut="bourgeois" age="J" stat_amour="néant">LE MARIÉ</role>. M Ballon.</castItem>
+		<castItem><role id="LA MARIÉE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">LA MARIÉE</role>. Mlle du Fort.</castItem>
+		<castItem><role id="LE SEIGNEUR DU VILLAGE" sex="1" type="H" statut="aristocrate" age="A" stat_amour="néant">LE SEIGNEUR DU VILLAGE</role>. Mr le Vasseur.</castItem>
+		<castItem><role id="LA DAME DU VILLAGE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">LA DAME DU VILLAGE</role>. Mlle Varango.</castItem>
+		<castItem><role id="UN ALLEMAND" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN ALLEMAND</role>. Mr le Coq.</castItem>
+		<castItem><role id="UN PAYSAN ALLEMAND" sex="1" type="H" statut="paysan" age="A" stat_amour="néant">UN PAYSAN ALLEMAND</role>, dansant, Mr Desmoulins.</castItem>
+		<castItem><role id="UNE FILLE DE LA NOCE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">UNE FILLE DE LA NOCE</role>. Melle Tiphaine.</castItem>
+		<castItem><role id="UN GARÇON DE LA NOCE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN GARÇON DE LA NOCE</role>, dansant. Mr Dolivet.</castItem>
+		<castItem><role id="SECOND GARÇON DE LA NOCE" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">UN GARÇON DE LA NOCE</role>. Mr Moussard.</castItem>
+		<castItem><role id="UNE AUTRE FILLE DE LA NOCE DANSANTE" sex="2" type="H" statut="danseur" age="A" stat_amour="néant">UNE AUTRE FILLE DE LA NOCE DANSANTE</role>. Mlle Dolivet.</castItem>
+		<castItem><role id="UN GARÇON DE LA NOCE DANSANT" sex="1" type="H" statut="danseur" age="A" stat_amour="néant">UN GARÇON DE LA NOCE DANSANT</role>. Mr Ruelle.</castItem>
+		<castItem><role id="UN SECOND GARÇON DE LA NOCE DANSANT" sex="1" type="H" statut="danseur" age="A" stat_amour="néant">UN SECOND GARÇON DE LA NOCE DANSANT</role>. Mr Batiftin.</castItem>
+		<castItem><role id="UN TROISIÈME GARÇON DE LA NOCE DANSANT" sex="1" type="H" statut="danseur" age="A" stat_amour="néant">UN TROISIÈME GARÇON DE LA NOCE DANSANT</role>. Mr Clause.</castItem>
+		<castItem><role id="UN JOUEUR DE MUSETTE" sex="1" type="H" statut="musicien" age="A" stat_amour="néant">UN JOUEUR DE MUSETTE</role>. Mr Philidor l'aîné.</castItem>
+		<castItem><role id="QUATRE GARÇONS DE LA NOCE JOUANT DU HAUTBOIS" sex="1" type="H" statut="musicien" age="A" stat_amour="néant">QUATRE GARÇONS DE LA NOCE JOUANT DU HAUTBOIS</role>. Mrs Anne Philidor, Pierre Philidor, Du Plessis et Constantin.</castItem>
+		<castItem><role id="DEUX JOUEURS DE BASSON" sex="1" type="H" statut="musicien" age="A" stat_amour="néant">DEUX JOUEURS DE BASSON</role>. Mrs Ferrier, et Philidor cadet.</castItem>
+	</castList>
+	<set location="Province" country="France" periode="XVIIème" gps=""/>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>LA NOCE DE VILLAGE</head>
+<div2 type="mascarade" n="1"><head>MASCARADE.</head>
+<stage type="">Le Marié et la Mariée conduits par leurs parents arrivent dans une salle du château d'un Seigneur qui a fait tous les frais de la noce.</stage>
+<sp who="LE PÈRE DE LA MARIÉE"><speaker>LE PÈRE DE LA MARIÉE.</speaker>
+	<l id="1">Ma chère fille, enfin enfin vous avez pour mari</l>
+	<l id="2">Celui que votre coeur a tendrement chéri.</l>
+	<l id="3">Rien ne s'oppose plus a des ardeurs si belles,</l>
+	<l id="4">Soyez contents, heureux époux :</l>
+	<l id="5">Que votre sort soit toujours doux,</l>
+	<l id="6">Goûtez, en vous aimant des douceurs éternelles.</l>
+</sp>
+<sp who="CHOEUR DE PARENTS, GARÇONS DE LA NOCE"><speaker>CHOEUR DE PARENTS, et de GARÇONS DE LA NOCE.</speaker>
+	<l id="7">Soyez contents, heureux époux ;</l>
+	<l id="8">Que votre sort soit toujours doux,</l>
+	<l id="9">Goûter en vous aimant des douceurs éternelles.</l>
+</sp>
+<stage type="explicit">PREMIÈRE ENTRÉE. LE MARIÉ ET LA MARIÉE.</stage>
+<stage type="explicit">SECONDE ENTRÉE. UN PAYSAN.</stage>
+<sp who="LA MÈRE DE LA MARIÉE"><speaker>LA MÈRE DE LA MARIÉE. </speaker>
+<poem type="">
+<lg n="1">
+	<l id="10">Que je fuis satisfaite !</l>
+	<l id="11">De voir dans ce jour heureux</l>
+	<l id="12">Qu'une personne si parfaite,</l>
+	<l id="13">Obtienne l'objet de ses voeux.</l>
+</lg>
+<lg n="2">
+	<l id="14">Elle a les vertus en partage</l>
+	<l id="15">Elle est jeune, belle, et sage ;</l>
+	<l id="16">J'en puis répondre sur ma foi.</l>
+	<l id="17">C'est ma fille,</l>
+	<l id="18">Qui fera comme moi</l>
+	<l id="19">L'honneur de la famille.</l>
+</lg>
+</poem>
+</sp>
+<sp who="LE SEIGNEUR DU VILLAGE"><speaker>LE SEIGNEUR DU VILLAGE.</speaker>
+	<l id="20">Je suis le Seigneur du village,</l>
+	<l id="21">Chacun me vient rendre hommage ;</l>
+	<l id="22">Et je crois que sur mon terr[a]in</l>
+	<l id="23">Je puis faire figure, et l'on m'y connaît bien.</l>
+<stage id="explicit">La Dame du Village étant fort ménagère, se plaint de ce que son mari est trop magnifique, et fait trop de dépense.</stage>
+</sp>
+<sp who="LA DAME DU VILLAGE"><speaker>LA DAME DU VILLAGE.</speaker>
+	<l id="24">Vraiment vous ne parlez que de magnificence,</l>
+	<l id="25">Et vous ne songez pas quelle en est la dépense :</l>
+	<l id="26">Lorsque vous comptez vos exploits,</l>
+	<l id="27">À la cave on va cent fois,</l>
+	<l id="28">Non, non je ne dis pas ce que mon coeur en pense.</l>
+</sp>
+<sp who="LE SEIGNEUR DU VILLAGE"><speaker>LE SEIGNEUR DU VILLAGE.</speaker>
+	<l id="29">Je suis maître. Je parle. C'est assez ;</l>
+	<l id="30">Pour vous faire oublier tous les chagrins passés.</l>
+	<l id="31">Dans cette fête.</l>
+	<l id="32">Je veux me divertir :</l>
+	<l id="33">Que chacun s'apprête :</l>
+	<l id="34">À se réjouir.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="35">Dans cette fête?</l>
+	<l id="36">Il faut se divertir ;</l>
+	<l id="37">Que chacun s'apprête</l>
+	<l id="38">À se réjouir.</l>
+</sp>
+<stage type="explicit">TROISIÈME ENTRÉE. UN PAYSAN ALLEMAND.</stage>
+<stage type="sing">Après cette Entrée un Allemand ami du Marié, ne pouvant s'exprimer en Français, chante en sa langue naturelle l'air qui suit.</stage>
+<sp who="UN ALLEMAND"><speaker>UN ALLEMAND. </speaker>
+	<l id="39">Lusitiq, froslich, vvacKerdrauf ;</l>
+	<l id="40">Nac der hohzeit Kromt die-taùs</l>
+	<l id="41">Vvasvor freu im leben,</l>
+	<l id="42">Damit alles vvol ablaùf</l>
+	<l id="43">Und gehàlten verd der Kauf</l>
+	<l id="44">Last : mir vvein hergeben.</l>
+</sp>
+<sp who="UNE DES FILLE DE LA NOCE"><speaker>CHANSON pour une des Filles de la Noce.</speaker>
+	<l id="45">Ah ! Qu'un jeune coeur s'abuse</l>
+	<l id="46">Quand il refuse</l>
+	<l id="47">De se rendre à l'Amour,</l>
+	<l id="48">Ce Dieu peut tôt ou tard triompher à son tour ;</l>
+	<l id="49">C'est en vain que l'on veut s'exempter de ses chaînes,</l>
+	<l id="50">Est-il rien qui résiste à ses traits dangereux ?</l>
+	<l id="51">Plus on ressent ses peines,</l>
+	<l id="52">Plus un coeur est heureux.</l>
+</sp>
+<sp who="DEUX PARENTS"><speaker>DEUX PARENTS DES MARIÉS.</speaker>
+	<l id="53">Ah ! Qu'il est doux en aimant,</l>
+	<l id="54">De voir finir son tourment,</l>
+	<l id="55">Heureux sont les coeurs fidèles !</l>
+<stage type="explicit">QUATRIÈME ENTRÉE. Le Marié, la Mariée, la Dame du Village,
+la Mère de la Mariée, et le Fou de la Fête.</stage>
+</sp>
+<sp who="LE CHOEUR"><speaker>LE CHOEUR. </speaker>
+	<l id="56">Soyez contents, heureux époux,</l>
+	<l id="57">Que votre sort soit toujours doux,</l>
+	<l id="58">Goûtez en vous aimant des douceurs éternelles.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

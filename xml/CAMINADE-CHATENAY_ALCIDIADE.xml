@@ -1,0 +1,2798 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+	<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>ALCIBIADE, TRAGÉDIE</title>
+			<author type="texte" ISNI="0000 0003 9398 9585">Augustin CAMINADE CHATENAY (1784-1861)</author>
+		</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Paul FIEVRE juin 2022</editor>
+				<publisher>Publié par Paul FIEVRE juillet 2022.</publisher>
+				<rights>Creative Commons BY-NC-SA</rights>
+				<idno>CAMINANDE-CHATENAY_ALCIBIADE</idno>
+		</publicationStmp>
+		<SourceDesc>
+			<genre>Tragédie</genre>
+			<inspiration>histoire</inspiration>
+			<structure>Cinq actes</structure>
+			<type>vers</type>
+			<periode>1811-1820</periode>
+			<taille>1500-1750</taille>
+			<permalien cote="BnF 8-YTH-374">https://gallica.bnf.fr/ark:/12148/bpt6k5804155g</permalien>
+		</SourceDesc>
+	</fileDesc>
+	</teiHeader>
+	<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ALCIBIADE</titlePart>
+			<titlePart type="sub">TRAGÉDIE.</titlePart>
+			<titlePart type="sub">Il restera aux auteurs la ressource de faire imrpimer leurs ouvrages (LETTRES NORMANDES, t. 1 p. 222, Analyse de Bélisaire de M. Jouy.</titlePart>
+			<titlePart type="sub">PRIX : 3 francs.</titlePart>
+		</docTitle> 
+		<docDate value="1819">M. DCCC. XIX.</docDate>
+		<docAuthor id="CAMINADE CHATENAY, Augustin">Par A. CAMINADE-CHATENAY.</docAuthor>
+		<docImprint>
+			<editor id="1819">À PARIS, chez Alexis EYMERY, Libraire de la Minerve française, rue Mazarine, n° 30 ; DELAUNAY, Libraire, Palais-Royal, galeries de bois.</editor>
+			<printer id="DIDOT">DE L'IMPRIMERIE DE P. DIDOT, L'AINÉ, CHEVALIER DE L'ORDRE. ROTAL DE SAINT-MICHEL, IMPRIMEUR DU ROI.</printer>
+		</docImprint>
+	<div type="dedicace"><adresse>À M. LE GÉNÉRAL MARQUIS DE LA FAYETTE, MEMBRE DE LA CHAMBRE DES DÉPUTÉS.</adresse>
+		<head>MONSIEUR LE GÉNÉRAL,</head>
+		<p>La plus haute estime, la vénération la mieux sentie, m'engagent à vous dédier ma tragédie d'Alcibiade. J'espérais qu'avant d'être livrée à l'impression  elle aurait subi cette épreuve du théâtre, pour laquelle écrit tout poète dramatique ; mon attente a été trompée, et le jury de lecture du Second Théâtre Français, en me remettant ma pièce, a déclaré qu'il nouait pas cru pouvoir l'admettre. Loin de me plaindre ici des illustres Académiciens qui le composent, je leur dois une vive gratitude pour l'accueil favorable, qu'ils ont fait, il y a quelques mois, à une autre tragédie en cinq actes, et aussi pour les changements qu'ils y ont demandés ; est-ce donc aux défauts de mon nouvel ouvrage que je dois attribuer leur refus, ou faut-il en chercher la cause dans les allusions qu'on y trouve ?</p>
+		<p>Avant de présenter ma pièce au théâtre, j'ai consulté des amis éclairés, et plus d'une fois j'ai mis à profit leurs conseils ; ils trouvaient tous dans l'Alcibiade une marche simple et rapide, des situations intéressantes, l'expression de nobles sentiments, et ils croyaient à son succès au théâtre : aujourd'hui, tous regardent les applications que l'on peut faire aux bannis de quelques passages de ma pièce, comme la cause qui en empêche la représentation.</p>
+		<p>Si leur opinion est fondée, si dans une tragédie toute grecque, où les détails de quelque importance sont tous historiques, et où je n'ai visé nulle part à ce qu'on nomme applications, on a cru, néanmoins, en apercevoir de répréhensibles, il faut renoncera écrire pour le théâtre ; car il n'est presque aucun sujet qui ne puisse donner lieu à des allusions : et les tragédies de nos grands poètes, que l'on représente tous les jours, en fournissent plus d'un exemple.</p>
+		<p>Sans doute, Monsieur le Général, en parlant des bannis d Athènes, j'ai pensé quelquefois aux bannis français, dont vous et vos honorables amis n'avez cessé de demander le retour ; mais quand j'écrivais ma pièce, les paroles mémorables d'union et oubli n'avaient-elles pas été prononcées ?  L'immense majorité de la nation ne voyait-elle pas, comme aujourd'hui, l'affermissement de son repos et du gouvernement Royal dans l'abolition entière des lois d'exception, et dans l'exécution de la Charte constitutionnelle ? Enfin, le ministère n'avait-il pas fait espérer le prochain rappel des bannis ? Je n'ai donc pas cru devoir éviter de peindre des Grecs exilés et fugitifs, parce que des Français gémissaient encore dans l'exil.</p>
+		<p>Au surplus, quelle que soit la cause du refus de ma pièce, je renonce à toute autre démarche pour sa représentation, jusqu'à ce que l'art dramatique ait obtenu le degré d'indépendance qui seul peut le faire fleurir. Je soumets cette tragédie, privée des illusions du théâtre, au jugement toujours équitable du public : elle a des défauts, sans doute ; mais vous l'avez lue avec intérêt, et le suffrage du Général La Fayette sera son plus beau titre de gloire. Dans plusieurs scènes, l'expression de l'amour de la patrie et de la liberté devait plaire à l'illustre ami de Washington: et quelques vers du rôle d'Hypparelle* ont rappelé au prisonnier d'Olmutz le dévouement sublime de la compagne de ses malheurs. </p>
+		<p>Veuillez agréer, Monsieur le Général, l'assurance de mon attachement et de mon respect.</p>
+		<p>CAMINADE-CHATENAY.</p>
+
+		<p type="v">Quand j'ai su ton exil, sur ces rives lointaines</p>
+		<p type="v">Ma tendresse a prévu tes périls et tes peines ;</p>
+		<p type="v">Je t'ai vu seul, errant, d'ennemis entouré :</p>
+		<p type="v">Quel douloureux tableau pour mon coeur déchiré !</p>
+		<p type="v">J'ai volé sur tes pas : je viens, contre l'orage,</p>
+		<p type="v">Par mes faibles efforts seconder ton courage ;</p>
+		<p type="v">Je viens te consoler en partageant ton sort</p>
+		<p>Acte III, scène IV.</p>
+	</div>
+	<castList><head>PERSONNAGES.</head>
+			<castItem><role id="ALCIBIADE" sex="1" type="H" statut="roi" age="A" stat_amour="">ALCIBIADE</role>.</castItem>
+			<castItem><role id="PHARNABAZE" sex="1" type="H" statut="satrape" age="A" stat_amour="">PHARNABAZE, Satrape persan, Gouverneur de l'Hellespont</role>.</castItem>
+			<castItem><role id="CLÉARQUE" sex="1" type="H" statut="général" age="A" stat_amour="">CLÉARQUE, Général lacédémonien</role>.</castItem>
+			<castItem><role id="PROXÈNES" sex="1" type="H" statut="officier" age="A" stat_amour="">PROXÈNES, Officier athénien, ami d'Alcibiade</role>.</castItem>
+			<castItem><role id="CALLIAS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">CALLIAS, Athénien, frère d'Hypparette</role>.</castItem>
+			<castItem><role id="HYPPARETTE" sex="2" type="H" statut="aristocrate" age="A" stat_amour="">HYPPARETTE, femme d'Alcibiade</role>.</castItem>
+			<castItem><role id="AMESTRIS" sex="2" type="H" statut="aristocrate" age="J" stat_amour="">AMESTRIS, fille de Pharnabaze</role>.</castItem>
+			<castItem><role id="THÉONE" sex="2" type="H" statut="nourrice" age="A" stat_amour="">THÉONE, Athénienne, nourrice d'Amestris</role>.</castItem>
+			<castItem><role id="MÉGABYSE" sex="1" type="H" statut="capitaine" age="A" stat_amour="">MÉGABYSE, Capitaine des gardes de Pharnabaze</role>.</castItem>
+			<castItem><role id="SEIGNEURS PERSANS" sex="1" type="H" statut="aristocrate" age="A" stat_amour="">SEIGNEURS PERSANS</role>.</castItem>
+			<castItem><role id="GARDES DE PHARNABAZE" sex="1" type="H" statut="garde" age="A" stat_amour="">GARDES DE PHARNABAZE</role>.</castItem>
+			<castItem><role id="SUITE D'ALCIBIADE" sex="1" type="H" statut="suite" age="A" stat_amour="">SUITE D'ALCIBIADE</role>.</castItem>
+	</castList>
+		<set location="Sparte" country="Grèce" periode="Temps mythologiques" gps="37.074461, 22.430264">La scène est en Phrygie, près de Lampsaque, dans un palais de Pharnabaze. Entre les colonnes qui occupent le fond du théâtre, on découvre de vastes jardins.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Cléarque, Proxènes !
+</stage>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1">Eh quoi ! Sur l'Hellespont je vous revois, Proxènes !</l>
+	<l id="2">Athènes succombait, vous étiez loin d'Athènes !</l>
+<note type="C">(1)</note>
+	<l id="3">De Lysandre vainqueur ignorez-vous l'arrêt ?</l>
+	<l id="4">Oubliez-vous ici votre propre intérêt ?</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="5">Non, Seigneur : modérez cet orgueil spartiate.</l>
+	<l id="6">Éloigné par l'exil d'une patrie ingrate,</l>
+	<l id="7">Je connais ses malheurs : soldat et citoyen,</l>
+	<l id="8">J'en gémis : mais mon coeur ne me reproche rien.</l>
+	<l id="9">Je ne fus point oisif aux jours de son naufrage,</l>
+<note type="C">(2)</note>
+	<l id="10">Seigneur : de Potamos le funeste rivage</l>
+	<l id="11">M'a vu d'Alcibiade accompagner les pas,</l>
+	<l id="12">Quand ce héros, craignant un revers sans combats,</l>
+	<l id="13">Aux chefs athéniens vint signaler Lysandre</l>
+	<l id="14">Qui feignait de les fuir, habile à les surprendre !</l>
+	<l id="15">Alcibiade alors fut par eux outragé ;</l>
+	<l id="16">Proscrit, levant au ciel son front découragé,</l>
+	<l id="17">« Fatal aveuglement ! me dit-il ; viens, Proxènes.</l>
+	<l id="18">Ne soyons pas témoins de la chute d'Athènes ! »</l>
+	<l id="19">En effet : nos destins reposaient sur les eaux,</l>
+	<l id="20">Et la ville fut prise en perdant ses vaisseaux.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="21">Comment ! Vous partagiez le sort d'Alcibiade ?...</l>
+	<l id="22" syll="6" part="i">Où porte-t-il ses pas ?</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="22" syll="6" part="f">Nous venons en Troade</l>
+	<l id="23">D'un satrape orgueilleux solliciter l'appui.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="24">Alcibiade ici vous seriez avec lui ?</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="25">Il m'attend : à la cour il va bientôt paraître.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="26">Le vertueux Proxènes est donc l'ami d'un traître !</l>
+	<l id="27">Vous, suivre Alcibiade, ô ciel ! En d'autres temps</l>
+	<l id="28">Je vous vis condamner ses vices éclatants ;</l>
+	<l id="29">il m'en souvient, Seigneur : prisonnier dans Athènes</l>
+	<l id="30">Souvent vos entretiens ont allégé mes chaînes;</l>
+	<l id="31">D'Alcibiade alors déplorant les erreurs</l>
+	<l id="32">Et son ambition (source de vos malheurs),</l>
+	<l id="33">« En héros, disiez-vous, Socrate veut l'instruire :</l>
+	<l id="34">Mais comment le dompter ? Il ne peut le conduire ;</l>
+	<l id="35">Du plus sage des Grecs ce disciple fougueux</l>
+	<l id="36">Peut-être sera grand, mais jamais vertueux !</l>
+	<l id="37">Il accourt, plein de zèle, aux leçons de son maître,</l>
+	<l id="38">Et retourne aux plaisirs ; qui pourrait le connaître ?</l>
+	<l id="39">Véritable Protée, à vos yeux tour_à_tour</l>
+<note type="C">(3)</note>
+	<l id="40">Il servira Bellone, et Minerve, et l'Amour. </l>
+	<l id="41">Selon les temps, les lieux, prompt à changer de face,</l>
+	<l id="42">Brillant dans les honneurs, ferme dans la disgrâce,</l>
+	<l id="43">Admiré dans les camps pour ses austérités,</l>
+	<l id="44">Dans Athènes, toujours ivre de voluptés ;</l>
+	<l id="45">Beau, vaillant, magnifique, éloquent, sûr de plaire,</l>
+	<l id="46">Il captive avec art la faveur populaire,</l>
+	<l id="47">Et fonde sa grandeur en préparant nos fers.</l>
+	<l id="48">Ses voeux ambitieux embrassent l'univers,</l>
+	<l id="49">Et pour les accomplir tout lui semble facile.</l>
+<note type="C">(4)</note>
+	<l id="50">Nos guerriers sur ses pas vont chercher en Sicile</l>
+	<l id="51">Une conquête injuste et des périls certains...</l>
+<note type="C">(5)</note>
+	<l id="52">Timon le misanthrope a prévu ses destins :</l>
+	<l id="53">Ô mon fils ! A-t-il dit, j'aime à voir ta fortune :</l>
+	<l id="54">Courage ! Agrandis-toi pour la perte commune ! »</l>
+	<l id="55">Proxènes, ces discours, à moi seul confiés,</l>
+	<l id="56">Voyez si l'avenir les a justifiés !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="57">Je m'abusais, Cléarque, et je fus trop sévère.</l>
+	<l id="58">Citoyen, d'un héros j'ai craint le caractère,</l>
+	<l id="59">Quand ce peuple jaloux, avare de ses droits,</l>
+	<l id="60">Et pour les grands talents injuste tant de fois,</l>
+	<l id="61">Du seul Alcibiade excusant la licence,</l>
+<note type="C">(6)</note>
+	<l id="62">Applaudissait en foule à sa magnificence,</l>
+	<l id="63">Du pouvoir à ses voeux ouvrait tous les chemins;</l>
+	<l id="64">Et semblait à ses fers déjà tendre les mains !</l>
+	<l id="65">Plût au ciel ! Périclès régna sur ma patrie,</l>
+	<l id="66">Et des Athéniens sa mémoire est chérie ;</l>
+	<l id="67">S'ils n'avaient condamné son vaillant successeur.</l>
+	<l id="68">Gémiraient-ils, grands dieux ! sous un joug oppresseur ?...</l>
+	<l id="69">À peine Alcibiade assiégeait Syracuse :</l>
+	<l id="70">Athènes le proscrit aussitôt qu'on l'accuse ;</l>
+	<l id="71">Ô faveur populaire !... On ordonne sa mort,</l>
+	<l id="72">Et dans les murs de Sparte il échappe à son sort ;</l>
+	<l id="73">Il fait plus, il vous sert. L'inexorable histoire</l>
+<note type="C">(7)</note>
+	<l id="74">Imprime pour toujours cette tache à sa gloire.</l>
+	<l id="75">Mais, s'il écouta trop son fier ressentiment,</l>
+	<l id="76">Soyez juste ; du moins, soyez reconnaissant !</l>
+	<l id="77">Cléarque, oubliez-vous, quand vous le nommez traître,</l>
+	<l id="78">Qu'il combattit pour Sparte, et la sauva peut-être ?</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="79">Par la seule vengeance il était inspiré ;</l>
+<note type="C">(8)</note>
+	<l id="80">Et d'Agis notre roi le lit déshonoré</l>
+	<l id="81">Nous dévoila bientôt son âme tout entière ;</l>
+	<l id="82">De Sparte il a souillé la terre hospitalière !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="83">Ses amis avec vous déplorent ses erreurs ;</l>
+	<l id="84">L'amour est trop souvent le faible des grands coeur ;</l>
+	<l id="85">Mais combien de vertus pour ces moments d'ivresse !</l>
+	<l id="86">Reconnaissez en lui le héros de la Grèce !</l>
+	<l id="87">Il fut des nations la terreur ou l'appui,</l>
+	<l id="88">Et nos peuples rivaux attendaient tout de lui...</l>
+<note type="C">(9)</note>
+	<l id="89">Proconnèse, Abydos, lieux chers à ma patrie ! </l>
+	<l id="90">Sur quels bords, en quel temps fut-elle mieux servie ?...</l>
+	<l id="91">Il revint de l'exil : et l'on vit ses vaisseaux,</l>
+<note type="C">(10)</note>
+	<l id="92">Traînant ceux des vaincus, couvrir au loin les eaux.</l>
+	<l id="93">Ô jour ! Où de lauriers couronnant ses phalanges,</l>
+	<l id="94">Ceux qui l'avaient maudit chantèrent ses louanges !</l>
+	<l id="95">Où des Athéniens l'unanime transport</l>
+	<l id="96">Fit retentir la ville, et la flotte, et le port !...</l>
+	<l id="97">Depuis ce temps, Seigneur, quelle voix ennemie</l>
+	<l id="98">Tenterait d'obscurcir la gloire de sa vie ?</l>
+	<l id="99">Alcibiade est grand, soit qu'en ces mêmes lieux</l>
+	<l id="100">Ce héros ait porté ses pas victorieux,</l>
+	<l id="101">Soit que de la fortune éprouvant le caprice</l>
+	<l id="102">Il ait d'un peuple ingrat épuisé l'injustice :</l>
+	<l id="103">Et qu'un fatal exil, pour la seconde fois,</l>
+<note type="C">(11)</note>
+	<l id="104">Ait détruit en un jour le fruit de ses exploits !</l>
+	<l id="105">Cet exil a causé la ruine d'Athènes.</l>
+	<l id="106">Frappé des mêmes coups, souffrant les mêmes peines.</l>
+	<l id="107">Oui, j'aime Alcibiade ; et tout doit nous unir :</l>
+	<l id="108">Je le suivrai, Seigneur, jusqu'au dernier soupir.</l>
+	<l id="109">D'une telle amitié la source est la patrie :</l>
+	<l id="110">Athènes dans les fers n'en est pas moins chérie !</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les Précédents, Pharnabaze, Mégabyse, Gardes.
+</stage>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE</speaker><stage type="toward">, à Cléarque.
+	</stage>
+	<l id="111">Approchez, de Lysandre illustre lieutenant.</l>
+	<l id="112">Nos voeux sont accomplis : ce héros triomphant</l>
+	<l id="113">Dans Athènes finit une guerre fatale ;</l>
+	<l id="114">Athènes enfin succombe, et Sparte est sans rivale !</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="115">C'est aussi votre ouvrage : et vos armes, Seigneur,</l>
+	<l id="116">De ce brillant succès ont partagé l'honneur ;</l>
+	<l id="117">Aux bords de l'Hellespont commença la victoire,</l>
+	<l id="118">Et dans Sardes, Cyrus jouit de votre gloire ;</l>
+	<l id="119">Vous nous avez, Seigneur, constamment secourus,</l>
+	<l id="120">Et nous servir ainsi c'était plaire à Cyrus !</l>
+	<l id="121">Ce prince généreux auprès de vous m'envoie.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="122">Cyrus est satisfait ?... Vous redoublez ma joie !...</l>
+	<l id="123">Mais votre compagnon, loin de la partager,</l>
+	<l id="124" syll="6" part="i">Semble accuser les Dieux....</l>
+<stage type="toward">À Proxènes.</stage>
+	<l id="124" syll="6" part="f">Seriez-vous étranger ?...</l>
+	<l id="125" syll="6" part="i">Parlez : qui vois-je en vous ?...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="125" syll="6" part="f">Un citoyen d'Athènes,</l>
+	<l id="126">Seigneur : ce titre seul vous explique mes peines !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="127" syll="2" part="i">Comment !...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="127" syll="10" part="f">À votre appui j'allais avoir recours ;</l>
+	<l id="128">Mais, seigneur, tant de haine éclate en vos discours !</l>
+	<l id="129">D'un proscrit dois-je encore exprimer la demande ?...</l>
+	<l id="130">« L'âme de Pharnabaze est généreuse et grande,</l>
+	<l id="131">M'a dit Alcibiade : il connaît mes destins ;</l>
+	<l id="132">Je fus son ennemi : mets ma vie en ses mains ! »</l>
+	<l id="133">Ici, pour ce héros, je cherchais un asile.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE</speaker><stage type="toward">, à Pharnabaze.
+	</stage>
+	<l id="134">Seigneur, Alcibiade en détours est fertile.</l>
+	<l id="135">Loin de moi d'accabler un guerrier malheureux !</l>
+	<l id="136">Mais de nos ennemis c'est le plus dangereux.</l>
+	<l id="137">Cet exilé célèbre est-il dans la détresse ?</l>
+	<l id="138">Avant lui ses trésors avaient quitté la Grèce :</l>
+	<l id="139">Et s'il vient près de vous, Seigneur, n'en doutez pas,</l>
+	<l id="140">Il faut craindre l'espoir qui dirige ses pas.</l>
+	<l id="141">Sur tous ses sentiments l'ambition domine :</l>
+	<l id="142">Et d'Athènes s'il veut réparer la ruine,</l>
+	<l id="143">Le succès est possible à ce génie ardent,</l>
+	<l id="144">Ferme dans ses desseins, intrépide, éloquent !</l>
+	<l id="145">Oui, si vous l'accueillez au sein de la Phrygie,</l>
+	<l id="146">Alcibiade encor peut embraser l'Asie !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="147">Cléarque, en son absence est-il bien généreux...?</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="148">Tels seraient mes discours s'il était en ces lieux,</l>
+	<l id="149">Proxènes : qui pourrait arrêter ma franchise,</l>
+	<l id="150">Quand l'intérêt de Sparte en ce jour l'autorise ?</l>
+<stage type="toward">À Pharnabaze.</stage>
+	<l id="151">S'il cherche des secours, qu'il les trouve en vos ports,</l>
+	<l id="152">Seigneur : et qu'aussitôt repoussé de ces bords,</l>
+	<l id="153">Alcibiade errant, mais toujours redoutable,</l>
+	<l id="154">Porte en d'autres climats le destin qui l'accable !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="155">Non, Cléarque : surtout dans la prospérité,</l>
+	<l id="156">Le premier des devoirs est l'hospitalité.</l>
+	<l id="157">Autrefois mon vainqueur, aujourd'hui sans puissance.</l>
+	<l id="158">Il pourrait m'accuser d'une lâche vengeance !...</l>
+	<l id="159">Je plains Alcibiade ; et, fût-il dangereux,</l>
+	<l id="160">Je devrais l'accueillir puisqu'il est malheureux !</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="161">Vous préparez, Seigneur, le triomphe d'Athènes !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE</speaker><stage type="toward">, à Proxènes.
+	</stage>
+	<l id="162">Portez-lui ma réponse : il vous attend, Proxènes,</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="163">En vous il se confie ! Il va venir, Seigneur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Cléarque, Pharnabaze, Gardes dans le fond du théâtre.
+</stage>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="164">Je vois avec surprise, et même avec douleur,</l>
+	<l id="165">Qu'au mépris des conseils qu'un allié vous donne,</l>
+	<l id="166">Seigneur, à ce danger votre âme s'abandonne.</l>
+	<l id="167">Si l'intérêt de Sparte est sans force à vos yeux,</l>
+	<l id="168" syll="6" part="i">Oubliez-vous Cyrus ?...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="168" syll="6" part="f">Vous me connaîtrez mieux :</l>
+	<l id="169">Et sans doute avec moi bientôt d'intelligence,</l>
+	<l id="170">De mes projets Cléarque avouera la prudence.</l>
+	<l id="171">Plongés dans les plaisirs, les satrapes persans</l>
+	<l id="172">Élèvent autour d'eux vingt monarques puissants ;</l>
+	<l id="173">Tyrans dans leurs palais, ils nous livrent l'Asie.</l>
+	<l id="174">Près de moi, Tissapherne asservit l'Ionie ;</l>
+	<l id="175">Jadis, d'Alcibiade infidèle allié,</l>
+	<l id="176">Il le retint captif ; mais l'a-t-il oublié ?</l>
+	<l id="177">Combien Alcibiade avait su le séduire !</l>
+	<l id="178">Mon refus à sa Cour peut encor le conduire.</l>
+	<l id="179">Je sais que Tissapherne à l'accueillir est prêt,</l>
+	<l id="180">Et qu'il change d'amis en changeant d'intérêt ;</l>
+	<l id="181">Qu'espérant affermir le pouvoir qu'il exerce,</l>
+	<l id="182">Il résiste à Cyrus pour flatter Artaxerce ;</l>
+	<l id="183">Que des Athéniens il déplore le sort,</l>
+	<l id="184">Et peut;, en leur faveur, faire un puissant effort !...</l>
+	<l id="185">Depuis Xercès, tout l'art de notre politique</l>
+<note type="C">(12)</note>
+	<l id="186">Fut d'allumer la guerre entre Sparte et l'Attique,</l>
+	<l id="187">D'affaiblir l'une et l'autre, en n'oubliant jamais</l>
+	<l id="188">De servir les vaincus pour éloigner la paix.</l>
+	<l id="189">Cyrus seul dédaigna ces marches tortueuses ;</l>
+	<l id="190">Nos guerriers, nos trésors et nos flottes nombreuses</l>
+	<l id="191">Hâtèrent vos succès, et Lysandre est vainqueur ;</l>
+	<l id="192">Tissapherne en gémit. Voudriez-vous, Seigneur,</l>
+	<l id="193">Quand je veille sur lui, que mon imprévoyance</l>
+	<l id="194">D'Athènes dans les fers ranimât l'espérance ?</l>
+	<l id="195">Non, quand Alcibiade ici cherche un appui,</l>
+	<l id="196">Par un accueil flatteur assurons-nous de lui :</l>
+	<l id="197">Vous me verrez alors, maîtrisant sa conduite,</l>
+	<l id="198">Renverser ses projets et prévenir sa fuite.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="199">Eh quoi ! Par Tissapherne autrefois arrêté,</l>
+	<l id="200">Il irait près de lui chercher sa sûreté ?</l>
+	<l id="201">Vous jugez mieux, Seigneur, du motif qui le guide ;</l>
+	<l id="202">Alcibiade ici porte un dessein perfide :</l>
+	<l id="203">Oui, vous-même y croyez ! Pourquoi le recevoir ?</l>
+	<l id="204">Un refus l'éloignait ; un piège est votre espoir ?...</l>
+	<l id="205">Pardonnez ce discours, Seigneur : loin de la Grèce</l>
+	<l id="206">J'ai de Lacédémone apporté la rudesse....</l>
+	<l id="207">Mais d'autres intérêts m'appellent en ces lieux.</l>
+	<l id="208">Cyrus touche, sans doute, au succès de ses voeux ;</l>
+	<l id="209">Si, dans Suze, écoutant une ardeur téméraire,</l>
+<note type="C">(13)</note>
+	<l id="210">Il a tenté sans fruit de détrôner son frère,</l>
+	<l id="211">Instruit par ce revers, dans vos climats lointains</l>
+	<l id="212">Il a porté sa haine et mûri ses desseins.</l>
+	<l id="213">Je n'examine point de Cyrus, d'Artaxerce,</l>
+	<l id="214">Lequel a plus de droits à régner sur la Perse ;</l>
+	<l id="215">Le roi m'est inconnu : son frère est un héros</l>
+	<l id="216">Que doivent illustrer les plus nobles travaux.</l>
+	<l id="217">Cyrus avec ardeur a servi ma patrie,</l>
+	<l id="218">Seigneur: à le servir je consacre ma vie !</l>
+	<l id="219">Hors des murs de Sardis flottent ses étendards ;</l>
+	<l id="220">Sa tente est son palais ; déjà de toutes parts</l>
+	<l id="221">Accourent les Persans : il n'aura qu'à paraître !</l>
+	<l id="222">Et dix mille guerriers que la Grèce a vus naître</l>
+<note type="C">(14)</note>
+	<l id="223">De combattre pour lui demandent le signal ;</l>
+	<l id="224">Je les ai réunis : je suis leur général.</l>
+	<l id="225">Au moment d'affronter les périls qu'il s'impose,</l>
+	<l id="226">Sur votre dévouement ce héros se repose ;</l>
+	<l id="227">Sous les lois de Cyrus maintenez ces climats.</l>
+	<l id="228">Tissapherne le hait ; il peut suivre nos pas :</l>
+	<l id="229">S'il osait le tenter, dissipez cet orage !</l>
+	<l id="230">De votre foi, Seigneur, Cyrus demande un gage</l>
+	<l id="231">Qui, de votre maison rehaussant la splendeur,</l>
+	<l id="232">Embellira son trône et fera son bonheur.</l>
+	<l id="233">Vous approuvez ses feux... Mais je vois la Princesse ;</l>
+	<l id="234">Parlez-lui de Cyrus ! Ensemble je vous laisse :</l>
+	<l id="235">Fixez l'heureux instant d'un hymen glorieux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Pharnabaze, Amestris, Théone, Gardes.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="236">Dois-je croire le bruit répandu dans ces lieux,</l>
+	<l id="237">Seigneur ? Alcibiade est-il près d'y paraître?</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="238">Cet illustre exilé de son sort me rend maître?</l>
+	<l id="239" syll="6" part="i">Ma fille : oui, je l'attends.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="239" syll="1" part="m">Dieux !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="239" syll="6" part="f">Il faut oublier</l>
+	<l id="240">Que devant lui jadis obligés de plier,</l>
+	<l id="241">Nous avons fui ces bords conquis par son courage :</l>
+	<l id="242">Il revient suppliant sur ce même rivage :</l>
+	<l id="243">Ainsi, chez Tissapherne, en ses premiers revers,</l>
+	<l id="244" syll="6" part="i">Il cherchait un asile...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="244" syll="6" part="f">Il y trouva des fers !</l>
+	<l id="245">J'étais alors, Seigneur, à cette cour perfide.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="246">Il sera plus heureux dans l'espoir qui le guide.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="247" syll="9" part="i">Cléarque est près de vous, et sa haine...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="247" syll="3" part="f">Amestris,</l>
+	<l id="248">Cyrus de sa constance attend enfin le prix.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="249" syll="1" part="i">Ciel !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="249" syll="11" part="f">Ne différons plus cette union prospère.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="250">Vous pressez notre hymen, vous ! Dans quel temps, mon père !</l>
+	<l id="251">Cyrus de la révolte a levé l'étendard ;</l>
+	<l id="252">D'un criminel dessein courrai-je le hasard ?</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="253">Ce héros va régner, et son trône t'appelle.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="254">Et si, par sa défaite, il n'était qu'un rebelle ?...</l>
+	<l id="255">Vous frémissez, mon père, en prévoyant mon sort:</l>
+	<l id="256">Vous-même, sans péril et surtout sans remord,</l>
+	<l id="257">Pouvez-vous d'Artaxerce abandonner la cause ?</l>
+	<l id="258">Songez-vous aux devoirs que son nom vous impose ?</l>
+	<l id="259">C'est par lui que ces bords sont remis à vos soins.</l>
+	<l id="260">De vos communs serments vos guerriers sont témoins :</l>
+	<l id="261">Voudront-ils les trahir ?... Tissapherne lui-même</l>
+	<l id="262">Va combattre, Seigneur, pour ce roi qui vous aime ;</l>
+	<l id="263">Et, malgré la discorde élevée entre vous,</l>
+	<l id="264">De votre unique soeur Tissapherne est l'époux :</l>
+	<l id="265">Vous verrons-nous, grands Dieux ! Dans des partis contraires ;</l>
+	<l id="266">Abandonnez Cyrus à ses voeux téméraires.</l>
+	<l id="267">Que des chefs imprudents accourent sur ses pas ;</l>
+	<l id="268">Vous, Seigneur, attendez les chances des combats !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="269">De mon sort, Amestris, je ne suis plus le maître ;</l>
+	<l id="270">Moi, rester neutre ! En vain je voudrais le paraître :</l>
+	<l id="271">Par des liens divers aux princes enchaînés,</l>
+	<l id="272">Les grands dans leurs destins sont toujours entraînés.</l>
+	<l id="273" syll="6" part="i">Je servirai Cyrus.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="273" syll="6" part="f">Vous trahissez son frère !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="274" syll="6" part="i">Cyrus doit triompher !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="274" syll="6" part="f">Ah ! Si je vous suis chère.</l>
+	<l id="275">Différez un hymen que suivrait mon trépas !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Précédents, Alcibiade, Proxènes, Suite d'Alcibiade, portant des présents.
+</stage>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="276">Sur votre foi, Seigneur, je porte ici mes pas.</l>
+	<l id="277">Trahi par la fortune, exilé, sans patrie,</l>
+	<l id="278">La Thrace hospitalière aurait caché ma vie ;</l>
+	<l id="279">Mais tant de souvenirs m'appelaient en ces lieux,</l>
+	<l id="280">Asile renommé, cher aux Grecs malheureux !</l>
+	<l id="281">Nous fûmes ennemis.... De l'espoir qui m'anime</l>
+	<l id="282">J'ai pour gages certains vos vertus, votre estime.</l>
+	<l id="283">Oui, mon destin cruel s'adoucit en ce jour,</l>
+	<l id="284">Seigneur : avec transport je revois cette cour</l>
+	<l id="285">Où les arts de la Grèce enrichissent l'Asie,</l>
+	<l id="286">Célèbre par vos soins, par madame embellie.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="287">Secourir l'infortune est un devoir pour tous :</l>
+	<l id="288">Que ne peut obtenir un héros tel que vous,</l>
+	<l id="289" syll="2" part="i">Seigneur ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="289" syll="10" part="f">Dans les débris sauvés de mon naufrage</l>
+<note type="C">(15)</note>
+	<l id="290">J'ai choisi ces présents : recevez-en l'hommage.</l>
+	<l id="291">Aux jours de mon triomphe ils me furent offerts</l>
+	<l id="292">Par un peuple vainqueur.... aujourd'hui dans les fers !</l>
+	<l id="293">Ici, de Phidias l'admirable génie</l>
+	<l id="294">Sur des marbres glacés a répandu la vie ;</l>
+	<l id="295">Là, de ces vases d'or le travail précieux</l>
+	<l id="296">Nous retrace des Grecs les combats glorieux.</l>
+	<l id="297">Vous le savez, malgré sa disgrâce fatale,</l>
+	<l id="298">Athènes dans les arts demeure sans rivale.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="299" syll="6" part="i">Elle vous a proscrit !...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="299" syll="6" part="f">Ah ! J'aime à la louer,</l>
+	<l id="300">Seigneur ! Pour son salut prêt à me dévouer,</l>
+	<l id="301">Je pleure ses malheurs ; les miens, je les oublie.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="toward">, à Alcibiade.
+	</stage>
+	<l id="302">Et sans ombrage encor venez-vous en Asie,</l>
+<note type="C">(16)</note>
+	<l id="303">Seigneur ? Chez Tissapherne on voulut vous trahir.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="toward">, à Amestris.
+	</stage>
+	<l id="304">J'en ai gardé, Madame, un constant souvenir...</l>
+<stage type="toward">À Pharnabaze.</stage>
+	<l id="305">Mais dans ces lieux, Seigneur, votre accueil qui m'honore</l>
+	<l id="306">À ma sécurité vient d'ajouter encore.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="307">Ah ! Quand votre destin par vous m'est confié,</l>
+	<l id="308">Toujours ce noble espoir sera justifié.</l>
+	<l id="309">Comptez sur mon appui, soit qu'illustre victime</l>
+	<l id="310">Vous écoutiez la voix d'un courroux légitime,</l>
+	<l id="311">Soit qu'ici vous cherchiez l'oubli de vos malheurs ;</l>
+	<l id="312">Venez, et du repos retrouvez les douceurs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Amestris, Théone.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="313" syll="6" part="i">Chère Théone ! Eh bien ?</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="313" syll="6" part="f">Modérez votre joie,</l>
+	<l id="314" syll="2" part="i">Madame.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="314" syll="10" part="f">Alcibiade !... Ah ! Le ciel nous l'envoie ! </l>
+	<l id="315">Théone, il m'est rendu ! Conçois-tu mon bonheur ?</l>
+	<l id="316">Oui, toujours Amestris fut présente à son coeur !</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="317">Quoi ! dès longtemps, Madame, à Cyrus destinée,</l>
+	<l id="318">Suivrez-vous d'un proscrit la vie infortunée ?</l>
+	<l id="319">Oublierez-vous ainsi vos plus chers intérêts ?</l>
+	<l id="320">Non : d'un père absolu respectez les arrêts.</l>
+	<l id="321">De votre âme la Perse est-elle moins chérie ?</l>
+	<l id="322">Dois-je de votre erreur accuser ma patrie ?...</l>
+	<l id="323">J'ai trop vanté la Grèce ; ah ! Que je me repens</l>
+	<l id="324">D'avoir à l'admirer instruit vos jeunes ans !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="325">Moi ! Du sang d'où je sors je perdrais la mémoire !</l>
+	<l id="326">Oui, je naquis Persane. Hélas ! J'en ferais gloire,</l>
+	<l id="327">Si la Cour de nos rois, moins féconde en forfaits...</l>
+	<l id="328">Ô de l'ambition trop funestes effets !</l>
+	<l id="329">Dans ce tableau cruel d'assassins, de victimes,</l>
+	<l id="330">Théone, de mon sexe on déplore les crimes ;</l>
+	<l id="331">Et le nom d'Amestris, que je reçus des Dieux,</l>
+<note type="C">(17)</note>
+	<l id="332">Rappelle une vengeance et des malheurs affreux.</l>
+	<l id="333">Quoi ! d'un forfait nouveau je deviendrais complice !</l>
+	<l id="334">J'épouserais Cyrus au bord du précipice !</l>
+	<l id="335">Je livrerais mes jours aux fureurs des partis !</l>
+<note type="C">(18)</note>
+	<l id="336">Pour belle-mère, enfin, j'aurais Parysatis !</l>
+	<l id="337">Quelle horreur à ce nom vient pénétrer mon âme !</l>
+	<l id="338">Ah ! Quand Alcibiade aurait trahi ma flamme,</l>
+	<l id="339">À l'hymen de Cyrus je saurais échapper !</l>
+	<l id="340">De son fatal espoir cesse de m'occuper :</l>
+	<l id="341">Et surtout ne crois plus qu'en exaltant la Grèce,</l>
+	<l id="342">Sur son héros ta voix ait fixé ma tendresse :</l>
+	<l id="343">Pourrais-je sans réserve admirer des climats</l>
+	<l id="344">Où ce héros, Théone, a trouvé tant d'ingrats ?...</l>
+	<l id="345">Toi-même l'accusais : avec indifférence</l>
+	<l id="346">D'Alcibiade alors j'apprenais l'inconstance,</l>
+	<l id="347">Son luxe fastueux, ses écarts, ses erreurs,</l>
+	<l id="348">Et les vastes projets source de ses malheurs.</l>
+	<l id="349">Sécurité trompeuse !... Il vint en Ionie ;</l>
+	<l id="350">Je le vis : il fuyait son ingrate patrie ;</l>
+	<l id="351">Théone, de ses maux comme il portait le poids !</l>
+	<l id="352">Que d'éclat dans ses traits ! Quel charme dans sa voix !</l>
+	<l id="353">Guerrier et courtisan, sans orgueil, sans faiblesse,</l>
+	<l id="354">De ses discours la grâce égalait la noblesse.</l>
+	<l id="355">Tissapherne charmé le retint dans sa Cour ;</l>
+	<l id="356">Je le vis à mes pieds, et je connus l'amour....</l>
+	<l id="357">Mais du satrape, hélas ! Bientôt la perfidie</l>
+	<l id="358">Le fit charger de fers, et menaçait sa vie....</l>
+	<l id="359">En sauvant ce héros je fixai mes destins.</l>
+	<l id="360">Je reçus ses serments... Ah ! Sur des bords lointains,</l>
+	<l id="361">Alcibiade, épris d'une gloire nouvelle,</l>
+	<l id="362">A l'amour d'Amestris est-il resté fidèle ?....</l>
+	<l id="363">Oui, lorsqu'en cette Cour il porte son malheur,</l>
+	<l id="364">Théone, cet asile est choisi par son coeur.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE SECOND</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Alcibiade, Cléarque, Proxènes.
+</stage>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="365">Non : malgré vos efforts, malgré ce front sévère,</l>
+	<l id="366">De votre âme, Seigneur, le noble caractère</l>
+	<l id="367">Ne peut se démentir et me sert contre vous ;</l>
+	<l id="368">Et dans les seuls combats il faut craindre vos coups.</l>
+	<l id="369">Quoi ! L'aspect d'un proscrit, Seigneur, vous inquiète ?</l>
+	<l id="370">Lacédémone enfin doit être satisfaite !</l>
+	<l id="371">Elle règne : et soumise à son joug oppresseur</l>
+	<l id="372">Athènes pleure en vain son antique splendeur.</l>
+	<l id="373">Moi qui n'ai pu mourir ou sauver ma patrie,</l>
+<note type="C">(10)</note>
+	<l id="374">Aux lieux où Thémistocle a terminé sa vie,</l>
+	<l id="375">Comme lui fugitif, je cherche des secours ;</l>
+	<l id="376">Poursuivi par les Grecs, aux Persans j'ai recours.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="377">Si tel est en effet le soin qui vous anime,</l>
+	<l id="378">Seigneur, de cet espoir craignez d'être victime.</l>
+	<l id="379">Je connais Pharnabaze ; et vos exploits passés</l>
+	<l id="380">De sa mémoire encor ne sont point effacés ;</l>
+	<l id="381">Du satrape l'orgueil égale l'artifice :</l>
+	<l id="382">Vos jours sont en ses mains... Vous me rendez justice.</l>
+	<l id="383">Seigneur : oui, je fuirai tout détour odieux ;</l>
+	<l id="384">Mais je suis Spartiate ; et tandis qu'en ces lieux</l>
+	<l id="385">De nous combattre encor vous portez l'espérance,</l>
+	<l id="386">Pourrais-je vous y voir et garder le silence ?</l>
+	<l id="387">De l'intrigue je hais les coupables ressorts ;</l>
+	<l id="388">Mais à vous éloigner vont tendre mes efforts.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="389">Eh bien ! Seigneur, suivez cette noble entreprise !</l>
+	<l id="390">Que Pharnabaze ainsi manque à la foi promise ;</l>
+	<l id="391">Que la haine des Grecs et celle des Persans</l>
+	<l id="392">Sur mon front désarmé frappent en même temps !</l>
+	<l id="393">Chassé du dernier port où j'ai fui la tempête,</l>
+	<l id="394">Proscrit, et n'ayant plus où reposer ma tête,</l>
+	<l id="395">Sur des rochers déserts, en des climats lointains,</l>
+	<l id="396">Que je trouve un trépas digne de mes destins !...</l>
+	<l id="397">En ces lieux, dites-vous, on menace ma vie ?</l>
+	<l id="398">L'accueil que je reçois cache une perfidie ?...</l>
+	<l id="399">Que ne devrais-je pas à vos soins généreux,</l>
+	<l id="400">S'ils n'étaient consacrés au succès de vos voeux !...</l>
+	<l id="401">Croirai-je, quand j'obtiens un accueil magnanime.</l>
+	<l id="402">Que l'hospitalité soit le chemin du crime ?</l>
+	<l id="403">Qu'aujourd'hui Pharnabaze.... Ah ! Loin de le penser.</l>
+	<l id="404">Par un doute, Seigneur, je croirais l'offenser.</l>
+	<l id="405">Combien sur moi du ciel la rigueur se déclare !</l>
+	<l id="406">Forcé de fuir la Grèce à la cour d'un barbare,</l>
+	<l id="407">Sur ces bords étrangers j'échappais à mon sort ;</l>
+	<l id="408">Mais Sparte vous envoie et me poursuit encor...</l>
+	<l id="409">Ô Grèce infortunée ! en ton erreur extrême</l>
+<note type="C">(20)</note>
+	<l id="410">Quelle est donc ta constance à t'affaiblit toi-même ?</l>
+	<l id="411">Ces Persans, dont jadis ton nom seul fut l'effroi,</l>
+	<l id="412">Par la discorde enfin vont triompher de toi.</l>
+	<l id="413">Quel mortel cher aux dieux préviendra ta ruine ?...</l>
+	<l id="414">Ô champs de Marathon ! Ô mers de Salamine !</l>
+	<l id="415">Et vous, mânes sacrés des héros citoyens</l>
+	<l id="416">Qui, des Grecs envahis resserrant les liens,</l>
+	<l id="417">D'une faible patrie appuis inébranlables,</l>
+	<l id="418">Défîtes.du grand roi les soldats innombrables !</l>
+	<l id="419">Que les temps sont changés ! Voyez vos descendants</l>
+	<l id="420">Contre eux-mêmes tourner leurs efforts imprudents,</l>
+	<l id="421">Et nos peuples rivaux, possédés des furies,</l>
+	<l id="422">Verser leur plus beau sang dans des combats impies !</l>
+	<l id="423">Quels succès douloureux ! Quels funestes revers !</l>
+	<l id="424">La cité de Minerve enfin reçoit des fers,</l>
+	<l id="425">Et l'éclat du triomphe, à Sparte enorgueillie,</l>
+	<l id="426">Dérobe ses dangers et l'espoir de l'Asie !</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="427">Sparte est moins en péril que vous ne le pensez ;</l>
+	<l id="428">Mais du joug des Persans fussions-nous menacés,</l>
+	<l id="429">Les maux qui, selon vous, nous préparent des chaînes</l>
+	<l id="430">Sont-ils l'oeuvre, Seigneur, ou de Sparte, ou d'Athènes ?</l>
+	<l id="431">D'ambition, d'orgueil votre peuple enivré</l>
+	<l id="432">À régner sur les Grecs se croyait préparé ;</l>
+	<l id="433">Ne vous souvient-il plus avec quelle éloquence</l>
+	<l id="434">Vous-même avez flatté sa coupable espérance ?</l>
+	<l id="435">Vos discours à ses lois promirent l'univers :</l>
+	<l id="436">Les Dieux sur vos desseins mesurent vos revers.</l>
+	<l id="437">Mais pourquoi du passé rappeler la mémoire ?</l>
+	<l id="438">De nous combattre encor, Seigneur, vous feriez gloire :</l>
+	<l id="439">Qui pourrait m'abuser sur vos desseins secrets ?...</l>
+	<l id="440">Sparte m'a confié de puissants intérêts :</l>
+	<l id="441">J'en vais suivre le cours. Mais soit qu'avec adresse</l>
+	<l id="442">Vous tentiez de changer les destins de la Grèce,</l>
+	<l id="443">Soit que de Pharnabaze éprouvant les détours</l>
+	<l id="444">Vous commenciez enfin à craindre pour vos jours.</l>
+	<l id="445">À me revoir, Seigneur, vous devez vous attendre,</l>
+	<l id="446">Prompt à vous résister, ou prêt à vous défendre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Alcibiade, Proxènes.
+</stage>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="447">Je le connais, Seigneur : en son austérité</l>
+	<l id="448">Cléarque n'a jamais trahi la vérité.</l>
+	<l id="449">De semblables soupçons mon âme fut atteinte ;</l>
+	<l id="450">Mais votre confiance a repoussé ma crainte ;</l>
+	<l id="451">Et malgré mes efforts, votre coeur généreux</l>
+	<l id="452">Choisit d'un ennemi l'asile dangereux...</l>
+	<l id="453">Je regrette la Thrace, où, sauvé du naufrage,</l>
+	<l id="454">Vous pouviez sans péril laisser gronder l'orage ;</l>
+	<l id="455">Mais, Seigneur, de vos jours quel que soit l'avenir,</l>
+	<l id="456">Avec vous et pour vous je veux vivre et mourir.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="457">Cher Proxènes ! Combien ton amitié sincère</l>
+	<l id="458">De mon destin cruel adoucit la colère !</l>
+	<l id="459">Oui, la Thrace m'offrait un asile assuré ;</l>
+	<l id="460">Mais tu sais les tourments dont je fus déchiré,</l>
+	<l id="461">Quand, fuyant en exil notre injuste patrie,</l>
+	<l id="462">Nous la vîmes vaincue et bientôt asservie.</l>
+	<l id="463">Chacun de nous, au bruit des maux qu'elle a soufferts,</l>
+	<l id="464">A juré de mourir ou de briser ses fers :</l>
+<note type="C">(21)</note>
+	<l id="465">Sur ces bords étrangers cet espoir nous amène,</l>
+	<l id="466">Et plus que tu ne crois la vengeance est prochaine !</l>
+	<l id="467">Tandis qu'en suppliant tu venais à la Cour,</l>
+	<l id="468">Et que sur l'Hellespont j'attendais ton retour,</l>
+	<l id="469">D'un désir curieux je n'ai pu me défendre,</l>
+	<l id="470">Et j'ai porté mes pas aux rives du Scamandre.</l>
+	<l id="471">Là, de mes souvenirs la prompte illusion</l>
+	<l id="472">M'a retracé les Grecs assiégeant Ilion ;</l>
+	<l id="473">Mon âme s'est émue, et j'ai senti, Proxènes,</l>
+<note type="C">(22)</note>
+	<l id="474">Frémir le sang d'Ajax qui coule dans mes veines !</l>
+	<l id="475">Les nobles chants d'Homère exaltaient mes esprits,</l>
+	<l id="476">Quand un vieillard se montre à mes regards surpris ;</l>
+	<l id="477">Ses vêtements, ses traits, sa marche peu commune,</l>
+	<l id="478">D'un illustre Persan décèlent l'infortune.</l>
+	<l id="479">« Êtes-vous de ces Grecs sur nos bords appelés,</l>
+	<l id="480">Dit-il, et par Cléarque à grands frais rassemblés ? »</l>
+	<l id="481">Confirmant son erreur pour savoir sa pensée :</l>
+	<l id="482">« Quelle est donc, m'a-t-il dit, votre ardeur insensée ?</l>
+	<l id="483">Pour quels dangers, ô Grecs ! Vous êtes accourus !</l>
+	<l id="484">Comme on sait vous cacher les desseins de Cyrus !</l>
+	<l id="485">Il brûle de régner : c'est au sein de la Perse</l>
+	<l id="486">Qu'il prétend vous conduire et combattre Artaxerce.</l>
+	<l id="487">Ô guerre criminelle !... Elle peut vous venger ;</l>
+	<l id="488">Mais malheur aux vaincus sous un ciel étranger !</l>
+	<l id="489">D'un long retour, ô Grecs ! Prévoyez les misères :</l>
+<note type="C">(23)</note>
+	<l id="490">Reverriez-vous jamais les tombeaux de vos pères ! »</l>
+	<l id="491">À ces mots il s'éloigne. En regagnant ces lieux</l>
+	<l id="492">Des projets de Cyrus j'ai rendu grâce aux Dieux.</l>
+	<l id="493">Sparte en vain le seconde : il périra, Proxènes !</l>
+	<l id="494">Nous, servons Artaxerce et délivrons Athènes !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="495">Auprès du Roi, Seigneur, quel sera votre appui ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="496" syll="2" part="i">Mon nom.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="496" syll="10" part="f">Mais pourrons-nous parvenir jusqu'à lui ?</l>
+	<l id="497" syll="4" part="i">Pharnabaze...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="497" syll="8" part="f">L'amour m'a sauvé d'Ionie :</l>
+	<l id="498">Il me protège encore au sein de la Phrygie.</l>
+	<l id="499">Les regards d'Amestris ont doublé mon espoir ;</l>
+	<l id="500">Cher Proxènes, combien j'aspire à la revoir !</l>
+	<l id="501">Que la voix d'Amestris à mes destins préside ;</l>
+	<l id="502">Qu'elle soit à_la_fois mon amante et mon guide !...</l>
+	<l id="503">Oui, j'entrevois enfin un terme à nos malheurs !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="504">Ah ! Seigneur, de l'amour redoutez les erreurs :</l>
+	<l id="505">Il vous fit oublier une épouse fidèle ;</l>
+	<l id="506" syll="6" part="i">Il abrégea ses jours.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="506" syll="6" part="f">Cette idée est cruelle,</l>
+	<l id="507">Proxènes ! Oui, d'Hypparette il causa les tourments ;</l>
+	<l id="508">Mais je revins bientôt à mes premiers serments,</l>
+	<l id="509">Et de mon repentir à ses pieds j'ai fait gloire.</l>
+	<l id="510">Tu sais si je l'aimais !... Je chéris sa mémoire ;</l>
+	<l id="511">Mon courage, affermi contre les coups du sort,</l>
+	<l id="512">A succombé, Proxènes, en apprenant sa mort !</l>
+	<l id="513">Autant qu'Alcibiade elle aimait sa patrie</l>
+	<l id="514">Hypparette m'entend : et son ombre chérie</l>
+<note type="C">(24)</note>
+	<l id="515">Veille sur nous, partage et nos soins et nos voeux.</l>
+	<l id="516">Crois-moi, pour Amestris elle approuve mes feux!</l>
+	<l id="517">Le bonheur de ma vie et le salut d'Athènes</l>
+	<l id="518">Dépendent d'Amestris... Mais tu la vois, Proxènes ;</l>
+	<l id="519">Sa noblesse, sa grâce, égalent sa beauté.</l>
+	<l id="520" syll="6" part="i">Cher ami, laisse-nous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Alcibiade, Amestris, Théone.
+</stage>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="520" syll="6" part="f">Enfin en liberté</l>
+	<l id="521">Après de grands revers je vous revois, Madame,</l>
+	<l id="522">Et déjà le bonheur est rentré dans mon âme !</l>
+	<l id="523">Lorsqu'on brisant mes fers vos généreuses mains</l>
+	<l id="524">D'Athènes en péril m'ouvrirent les chemins,</l>
+	<l id="525">Plein d'espoir et d'amour je courus à la gloire,</l>
+	<l id="526">Et vos derniers adieux m'ont prédit la victoire.</l>
+	<l id="527">Fier du coeur d'Amestris, j'ai combattu : les Dieux</l>
+	<l id="528">Ont deux fois couronné mes efforts et vos voeux :</l>
+	<l id="529">Deux fois vainqueur, enfin j'ai revu ma patrie ;</l>
+	<l id="530">Elle était libre alors !.... Bientôt la calomnie</l>
+	<l id="531">M'a suivi sur les mers : et, docile à sa voix,</l>
+	<l id="532">Athènes m'a banni pour la seconde fois.</l>
+	<l id="533">L'instant où ma patrie enchaînait mon courage</l>
+	<l id="534">Fut le fatal instant marqué pour son naufrage :</l>
+	<l id="535">Et je n'ai pu combattre aux jours de son danger !</l>
+	<l id="536">Mais, témoin de ses maux, ne puis-je la venger ?...</l>
+	<l id="537">Un double espoir m'anime et résiste à mes peines :</l>
+	<l id="538">Être aimé d'Amestris et délivrer Athènes.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="539">Le bruit de vos revers n'a point changé mon coeur ;</l>
+	<l id="540">Mes voeux loin de ces bords vous ont suivi, Seigneur ;</l>
+	<l id="541">Et de vos ennemis plus la haine est extrême,</l>
+	<l id="542">Plus le sort est injuste, enfin, plus je vous aime !</l>
+	<l id="543">Mais, malgré cet aveu, ne soyez point surpris</l>
+	<l id="544">Si quelque doute encor reste au coeur d'Amestris :</l>
+	<l id="545">J'attends de vous, Seigneur, un amour sans partage,</l>
+	<l id="546">Et votre nom suffit pour causer de l'ombrage ;</l>
+	<l id="547">Combien votre inconstance a fait couler de pleurs !</l>
+	<l id="548">D'Hypparette surtout que j'ai plaint les douleurs !</l>
+	<l id="549">Le cruel abandon d'un époux infidèle</l>
+	<l id="550">A tranché ses destins... Ah ! J'en mourrais comme elle</l>
+	<l id="551">Mais d'un amour trahi le douloureux transport</l>
+	<l id="552">Doit chercher à_la_fois la vengeance et la mort ;</l>
+	<l id="553">Oui, Seigneur ; d'Amestris tel est le caractère !...</l>
+	<l id="554">Ah ! si vous n'éprouvez qu'une flamme éphémère,</l>
+	<l id="555">Parlez : et de mon âme invoquant la fierté,</l>
+	<l id="556">Préférant à l'erreur la triste vérité,</l>
+	<l id="557">Triomphant de l'amour pour rester votre amie,</l>
+	<l id="558">Je servirai vos voeux. Bientôt votre patrie</l>
+	<l id="559">Vous reverra vainqueur quand sur ces bords lointains?</l>
+	<l id="560">Seigneur, vous poursuivrez vos glorieux destins,</l>
+	<l id="561" syll="6" part="i">Peut-être ma mémoire...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="561" syll="6" part="f">Ah ! C'en est trop, Madame !</l>
+	<l id="562">Par ces doutes cruels vous déchirez mon âme.</l>
+	<l id="563">Moi vous trahir, grands Dieux ! Eh ! D'un faible retour</l>
+	<l id="564">Par quel aveuglement paierais-je votre amour ?</l>
+	<l id="565">Bannissez pour jamais vos injustes alarmes ;</l>
+	<l id="566">Connaissez mieux, surtout, le pouvoir de vos charmes :</l>
+	<l id="567">Quel sort peut être égal au sort de votre époux ?</l>
+	<l id="568">Vous fixez tous mes voeux, tout mon sang est à vous ;</l>
+	<l id="569">D'un autre sentiment si j'avais la pensée,</l>
+	<l id="570">Puisse le ciel venger Amestris offensée !....</l>
+	<l id="571">Vous, craindre l'inconstance !... Ah ! De mes jeunes ans</l>
+	<l id="572">Pourquoi me retracer les longs égarements ?</l>
+	<l id="573">Mon âme fut séduite et non pas enchaînée :</l>
+	<l id="574">Un seul de vos regards eût fait ma destinée !</l>
+	<l id="575">De mon épouse, enfin, vous plaignez le malheur ?...</l>
+	<l id="576">Hypparette, Madame, a régné sur mon coeur ;</l>
+	<l id="577">Et si, jusqu'en ces lieux, on a peint ma jeunesse</l>
+	<l id="578">Par de nombreux écarts affligeant sa tendresse,</l>
+	<l id="579">Ignorez-vous l'instant où ses transports jaloux</l>
+	<l id="580">Invoquèrent les lois contre un volage époux ?</l>
+	<l id="581">Athènes vit alors ma compagne chérie</l>
+	<l id="582">Tremblante dans mes bras, par mes pleurs attendrie,</l>
+	<l id="583">Abjurer sans retour un divorce fatal,</l>
+<note type="C">(25)</note>
+	<l id="584">Et me suivre en triomphe au palais nuptial.</l>
+	<l id="585">Non, quand je la perdis, je n'étais plus coupable !</l>
+	<l id="586">Elle a cédé, Madame, à mon sort déplorable,</l>
+	<l id="587">Seule, trop faible, hélas ! Contre tant de malheur ;</l>
+	<l id="588" syll="6" part="i">Et j'atteste les Dieux...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="588" syll="6" part="f">Je vois votre douleur.</l>
+	<l id="589">C'en est fait ; je vous crois, et ma crainte est calmée ;</l>
+	<l id="590">Je me livre au bonheur d'aimer et d'être aimée !...</l>
+	<l id="591">Hélas ! Assez d'efforts vont traverser nos voeux :</l>
+	<l id="592">Vous aurez à combattre un rival dangereux...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="593" syll="3" part="i">Un rival !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="593" syll="3" part="m">Oui, Cyrus.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="593" syll="1" part="m">Dieux !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="593" syll="5" part="f">Mon père lui-même</l>
+	<l id="594" syll="4" part="i">Sert son amour.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="594" syll="2" part="m">Cyrus !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="594" syll="6" part="f">Mais, Seigneur, je vous aime.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="595">Ah ! Madame, à mes feux pardonnez ce transport :</l>
+	<l id="596">Puis-je vous écouter sans retour sur mon sort ?</l>
+	<l id="597">Non, d'un prince orgueilleux quand j'apprends l'espérance,</l>
+	<l id="598">Je dois à mes revers comparer sa puissance !</l>
+	<l id="599">Votre coeur à Cyrus préfère un étranger,</l>
+	<l id="600">Un malheureux proscrit, qu'il faudra protéger ?...</l>
+	<l id="601">Que de fois, loin de vous, dans mes justes alarmes,</l>
+	<l id="602">Voyant en souvenir cet éclat de vos charmes,</l>
+	<l id="603">J'ai prévu qu'Amestris, ornement de la Cour,</l>
+	<l id="604">De Cyrus ou du roi devait être l'amour !...</l>
+	<l id="605">Le fier Cyrus vous aime !... Avec cette âme ardente</l>
+	<l id="606">Que dans un si haut rang l'ambition tourmente,</l>
+	<l id="607">Quand du seul diadème on le croirait épris,</l>
+	<l id="608">L'ennemi d'Artaxerce est l'amant d'Amestris !...</l>
+	<l id="609">Vainqueur, il doit régner: un revers peut l'abattre</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="610">Vous savez ses desseins ? pensez à les combattre !</l>
+	<l id="611">Par un frère perfide Artaxerce trompé</l>
+	<l id="612">De pacifiques soins est encore occupé ;</l>
+	<l id="613">Partez. Auprès du Roi, seigneur, il faut vous rendre ;</l>
+	<l id="614">Et prompt à l'éclairer, habile à le défendre,</l>
+	<l id="615">Du rebelle Cyrus renverser les desseins,</l>
+	<l id="616">Et d'Athènes vengée assurer les destins.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="617" syll="4" part="i">Mais Pharnabaze....</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="617" syll="8" part="f">En vain je voudrais vous le taire :</l>
+	<l id="618">Parmi vos ennemis il faut compter mon père.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="619" syll="1" part="i">Dieux !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="619" syll="11" part="f">Au sort de Cyrus il est près de s'unir :</l>
+	<l id="620" syll="6" part="i">Vous pouvez le sauver.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="620" syll="6" part="f">Il va me retenir !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="621">Sur vos projets, Seigneur, j'ai vu sa défiance ;</l>
+	<l id="622">Hâtez-vous ; dès l'abord trompez sa prévoyance.</l>
+	<l id="623">Je puis vous seconder sans trouble et sans remord :</l>
+	<l id="624">Avec ses intérêts notre espoir est d'accord !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="625">Ah ! De tous mes travaux déité tutélaire,</l>
+	<l id="626" syll="4" part="i">Belle Amestris.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="626" syll="8" part="f">Madame, on vient : c'est votre père !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="627">Adieu, Seigneur : bientôt nous pourrons nous revoir.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="exit">, pendant la sortie d'Amestris.
+	</stage>
+	<l id="628">Protégez-la, grands Dieux ! Et comblez mon espoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Alcibiade, Pharnabaze, Gardes.
+</stage>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="629">Je vous cherchais, Seigneur. Oubliant vos alarmes,</l>
+	<l id="630">Aux bords de l'Hellespont trouvez-vous quelques charmes ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="631">Avec ravissement, de ces lieux enchantés</l>
+	<l id="632">Mes yeux à chaque pas contemplent les beautés.</l>
+	<l id="633">Riche de souvenirs dès l'enfance du monde,</l>
+	<l id="634">Que cette terre antique est brillante et féconde !</l>
+	<l id="635">Et sous vos lois, Seigneur, quel art prodigieux</l>
+	<l id="636">Pour l'embellir encore a secondé les Dieux !</l>
+	<l id="637">Ma surprise est extrême ; et mon âme abusée</l>
+	<l id="638">Sur ces bords fortunés croirait voir l'Élysée,</l>
+	<l id="639">Si votre camp, Seigneur, et vos nombreux soldats</l>
+	<l id="640">N'offraient à mes regards l'appareil des combats.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="641">Ces belliqueux apprêts menacent l'Ionie.</l>
+	<l id="642">Chaque jour Tissapherne étend sa tyrannie ;</l>
+	<l id="643">Ainsi que son orgueil ses voeux se sont accrus :</l>
+	<l id="644">Il ose résister au pouvoir de Cyrus !</l>
+	<l id="645">Quand ce jeune héros, lieutenant d'Artaxerce,</l>
+	<l id="646">D'un sujet dangereux va délivrer la Perse,</l>
+	<l id="647">Sans attendre du roi les ordres souverains,</l>
+	<l id="648">Je dois joindre Cyrus et servir ses desseins.</l>
+	<l id="649">Oui, je pense à la guerre ! Et dans ce vaste empire,</l>
+	<l id="650">Vous verrez, aussitôt qu'un satrape conspire,</l>
+	<l id="651">Accourir ses rivaux de puissance et d'honneurs ;</l>
+	<l id="652">Ils fondent sur sa mort leurs futures grandeurs ;</l>
+	<l id="653">On combat : et le Roi, laissant agir leur zèle,</l>
+	<l id="654">Attend dans son palais la tête du rebelle.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="655">Disposez de mon bras : je suivrai votre sort.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Précédents, Mégabyse.
+</stage>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE</speaker><stage type="toward">, à Pharnabaze.
+	</stage>
+	<l id="656">Un vaisseau grec, Seigneur, vient d'entrer dans le port.</l>
+	<l id="657">Il paraît avec peine échappé du naufrage ;</l>
+	<l id="658">Quelques Athéniens descendent au rivage.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="659" syll="1" part="i">Ciel !</l>
+</sp>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="659" syll="11" part="f">De ces étrangers partageant le malheur,</l>
+	<l id="660">Une femme en ces lieux suivra leurs pas, Seigneur.</l>
+	<l id="661">D'un long voile couverte, elle marche en silence.</l>
+	<l id="662">De l'hospitalité tous montrent l'espérance.</l>
+	<l id="663" syll="6" part="i">Faut-il les recevoir ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="663" syll="6" part="f">Ah ! Seigneur, accueillez</l>
+	<l id="664">Ces mortels suppliants et sans doute exilés !</l>
+	<l id="665">Plaignez-les : quel que soit le sujet de leurs peines.</l>
+	<l id="666">Ils sont infortunés... Hélas ! Ils sont d'Athènes !</l>
+	<l id="667">De la patrie absente ils pleurent les revers,</l>
+	<l id="668">Et nos tristes débris sont errants sur les mers !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="669">Qu'aisément votre voix, Seigneur, me persuade !</l>
+	<l id="670">Ils devront un asile aux voeux d'Alcibiade !</l>
+<stage type="toward">À Mégabyse.</stage>
+	<l id="671">Hâte-toi, Mégabyse. À ces Grecs malheureux</l>
+	<l id="672" syll="6" part="i">Prodigue des secours....</l>
+<stage type="toward">À demi-voix.</stage>
+	<l id="672" syll="6" part="f">Surtout, veille sur eux !</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Pharnabaze, Alcibiade, ensuite Proxènes.
+</stage>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="673">Ah ! Dans l'affreux destin qui pèse sur Athènes,</l>
+	<l id="674">Peut-être leurs récits vont accroître mes peines !</l>
+	<l id="675">Cette idée est cruelle : et d'un secret effroi</l>
+	<l id="676">Mon coeur à leur approche est saisi malgré moi !</l>
+<stage type="toward/entrance">À Proxènes, qui entre.</stage>
+	<l id="677" syll="4" part="i">Eh bien, Proxènes ?...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES</speaker><stage type="toward">, à Alcibiade.
+	</stage>
+	<l id="677" syll="8" part="f">Au port hâtez-vous de vous rendre,</l>
+	<l id="678">Seigneur : parmi les Grecs qui viennent d'y descendre,</l>
+	<l id="679" syll="6" part="i">Callias vous attend.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="679" syll="6" part="f">Serait-il vrai, grands Dieux !</l>
+	<l id="680" syll="6" part="i">Le frère d'Hypparette ?...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="680" syll="3" part="m">Oui, Seigneur.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="680" syll="3" part="f">Jour heureux !</l>
+	<l id="681" syll="4" part="i">Viens, Proxènes</l>
+<stage type="toward">À Pharnabaze.</stage>
+	<l id="681" syll="8" part="f">Seigneur, vous excusez ma joie :</l>
+	<l id="682">C'est un frère, un ami que le ciel me renvoie !</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="683">Quel dessein peut guider ces dangereux bannis ?</l>
+	<l id="684">Le hasard en ces lieux les a-t-il réunis ?</l>
+	<l id="685" syll="6" part="i">Ou leurs secrets complots....</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Pharnabaze, Mégabyse.
+</stage>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="685" syll="6" part="f">Des enfants de la Grèce</l>
+	<l id="686">Au nom d'Alcibiade éclate l'allégresse ;</l>
+	<l id="687">Et de ces étrangers vos fidèles Persans</l>
+	<l id="688">Avec inquiétude écoutent les accents.</l>
+	<l id="689">Oui, des Athéniens la présence leur pèse ;</l>
+<note type="C">(26)</note>
+	<l id="690">Ils brûlent de venger l'échec de Proconnèse ;</l>
+	<l id="691">Et redoutent, Seigneur, les secours généreux</l>
+	<l id="692">Que votre main prodigue à ces Grecs dangereux.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="693">Mégabyse, il fallait les contraindre au silence.</l>
+	<l id="694">Que ce peuple indiscret compte sur ma prudence :</l>
+	<l id="695">C'est trop faire éclater ses voeux ou son effroi,</l>
+	<l id="696">Quand il doit de son sort se reposer sur moi.</l>
+	<l id="697" syll="6" part="i">Les Grecs sont-ils armés ?</l>
+</sp>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="697" syll="6" part="f">Ils déposent leurs armes.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="698">Observe tous leurs pas sans leur causer d'alarmes.</l>
+	<l id="699">Admis dans ce palais, et d'honneurs entourés,</l>
+	<l id="700">Que les chefs des soldats se trouvent séparés.</l>
+	<l id="701">Les Dieux entre mes mains livrent Alcibiade :</l>
+	<l id="702">Il pense à se venger, tout me le persuade ;</l>
+	<l id="703">Frapper Sparte est le but de ses desseins secrets...</l>
+	<l id="704">Crois-tu que la vengeance ait pour moi moins d'attraits ?</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE TROISIÈME</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Alcibiade, Callias.
+</stage>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="705">Enfin nous sommes seuls ; dis-moi le sort d'Athènes,</l>
+	<l id="706">Callias. As-tu vu s'appesantir ses chaînes</l>
+	<l id="707">Depuis que des autels au supplice traîné</l>
+<note type="C">(27)</note>
+	<l id="708">Théramène, un des trente, est mort assassiné ?</l>
+	<l id="709">Ces tyrans, délivrés d'un collègue intrépide,</l>
+	<l id="710">Ont-ils suivi le cours de leur fureur avide ?</l>
+	<l id="711">Ou Sparte désormais moins cruelle aux vaincus...</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="712">Sparte n'a point changé : nos tyrans ne sont plus.</l>
+	<l id="713">Athènes, succombant sous le poids de leurs crimes,</l>
+<note type="C">(28)</note>
+	<l id="714">Voyait ses citoyens fugitifs ou victimes :</l>
+	<l id="715">Sparte, dans un décret, la honte de nos jours.</l>
+	<l id="716">Défendait qu'aux proscrits on donnât des secours :</l>
+	<l id="717">La Grèce obéissait à cet ordre barbare.</l>
+	<l id="718">Parmi tant de cités, Seigneur, Thèbes, Mégare,</l>
+	<l id="719">Osaient seules punir, par un accord fameux,</l>
+	<l id="720">Quiconque repoussait nos proscrits malheureux.</l>
+	<l id="721">Tout_à_coup Thrasybule à leur tête s'avance :</l>
+	<l id="722">Le pouvoir des tyrans s'écroule en sa présence ;</l>
+	<l id="723">Le peuple les immole : et son libérateur</l>
+<note type="C">(29)</note>
+	<l id="724">Proclame dans nos murs l'oubli réparateur !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="725">L'oubli ?... Quand Sparte veille !... Ah ! Sa haine inquiète</l>
+	<l id="726">Des tyrans abattus vengera la défaite...</l>
+	<l id="727">Athènes est sans défense et soulève ses fers.</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="728">Le roi Pausanias, touché de nos revers,</l>
+<note type="C">(30)</note>
+	<l id="729">A borné sa vengeance à des menaces vaines.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="730">C'est la pitié d'un roi qui fait le sort d'Athènes !</l>
+	<l id="731" syll="6" part="i">Ô douleur !... Ô patrie !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="731" syll="6" part="f">Il est trop vrai, Seigneur.</l>
+	<l id="732">Si le peuple du moins, ferme dans son malheur,</l>
+	<l id="733">Par un noble retour à nos vertus antiques,</l>
+	<l id="734">Cherchait à réparer les misères publiques !</l>
+	<l id="735">Mais ce peuple, toujours ou frivole ou cruel,</l>
+	<l id="736">Se montre tour_à_tour inconstant, criminel ;</l>
+	<l id="737">Et de la liberté, dont l'ombre encor lui reste,</l>
+	<l id="738">Il ne fait qu'un usage inutile ou funeste.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="739">Dans quelles mains, grands dieux ! Est donc l'autorité?</l>
+	<l id="740">Le peuple à la vertu n'est-il plus excité ?</l>
+<note type="C">(31)</note>
+	<l id="741" syll="4" part="i">Que fait Socrate ?</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="741" syll="2" part="m">Hélas !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="741" syll="6" part="f">Tu gardes le silence ?</l>
+	<l id="742">Le crime doit toujours pâlir en sa présence.</l>
+	<l id="743">Ses efforts généreux seraient-ils superflus ?</l>
+	<l id="744" syll="6" part="i">Sa bienfaisante voix.</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="744" syll="6" part="f">Vous ne l'entendrez plus.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="745">Qu'as-tu dit, Callias ?... Ô douleur imprévue!</l>
+	<l id="746" syll="2" part="i">Socrate...</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="746" syll="4" part="m">Il a vécu.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="746" syll="3" part="m">Quelle mort ?...</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="746" syll="3" part="f">La ciguë.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="747">Ô mon maître !... Aux tyrans il n'a point échappé !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="748">Les tyrans n'étaient plus : le peuple l'a frappé.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="749">Socrate !... Ô peuple ingrat ! Celui dont la sagesse</l>
+	<l id="750">Fut le flambeau d'Athènes et l'orgueil de la Grèce,</l>
+	<l id="751">Ainsi des criminels a partagé le sort !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="752">Il laisse à tous les temps l'exemple de sa mort.</l>
+	<l id="753">Ses disciples en pleurs ont fermé sa paupière :</l>
+	<l id="754">Seigneur, que n'étiez-vous à son heure dernière !</l>
+	<l id="755">De l'humaine vertu c'est l'ordinaire écueil :</l>
+	<l id="756">Calme au milieu de nous, sans effort, sans orgueil,</l>
+	<l id="757">Prodiguant les trésors de son âme immortelle,</l>
+	<l id="758">Il savait adoucir notre douleur cruelle ;</l>
+	<l id="759">Et de l'éternité, heureux pressentiment</l>
+	<l id="760">Nous dérobait l'horreur de ce fatal moment.</l>
+	<l id="761">Il nous parlait de vous ; attendri sur vos peines :</l>
+	<l id="762">« Console, m'a-t-il dit, l'unique espoir d'Athènes.</l>
+	<l id="763">D'un père, d'un ami porte lui les adieux :</l>
+	<l id="764">Qu'il serve la vertu, la patrie et les Dieux ! »</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="765">Divin Socrate ! Ô toi, seul auteur de ma gloire !</l>
+	<l id="766">Jusqu'à mon dernier jour chérissant ta mémoire,</l>
+	<l id="767">Je suivrai tes leçons : oui, quel que soit mon sort,</l>
+	<l id="768">Mon courage s'élève au récit de ta mort ;</l>
+	<l id="769">Et, dût un peuple ingrat m'ôter aussi la vie,</l>
+	<l id="770">Je veux briser ses fers et sauver ma patrie !</l>
+<stage type="toward">À Callias.</stage>
+	<l id="771">Contre Socrate enfin quel mensonge odieux...</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+<note type="C">(32)</note>
+	<l id="772">Mélitus l'accusa de mépriser les Dieux.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="773">Mélitus !... Juste ciel ! Athènes l'a pu croire ?</l>
+	<l id="774">La calomnie obtient cette horrible victoire !</l>
+	<l id="775">Socrate impie !... Eh quoi ! si de la vérité</l>
+	<l id="776">Aux antiques erreurs opposant la clarté,</l>
+	<l id="777">Il nous montra d'un Dieu l'éternelle puissance</l>
+	<l id="778">Au-dessus de ces Dieux que le vulgaire encense :</l>
+	<l id="779">Si du vaste univers son éloquente voix</l>
+	<l id="780">Dévoila les secrets, nous expliqua les lois ;</l>
+	<l id="781">Si des Athéniens sa vie était l'exemple,</l>
+	<l id="782">Loin de le condamner ils lui devaient un temple !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="783">Ce temple est élevé. D'inutiles regrets</l>
+	<l id="784">D'Athènes trop souvent ont suivi les arrêts :</l>
+	<l id="785">Du peuple détrompé le désespoir éclate ;</l>
+	<l id="786">Sur ses accusateurs il a vengé Socrate.</l>
+	<l id="787">Aussitôt son trépas, ses amis dispersés,</l>
+	<l id="788">D'un semblable destin se croyant menacés,</l>
+	<l id="789">Avaient quitté l'Attique : et moi, plein de tristesse,</l>
+	<l id="790">J'ai parcouru les mers, cherchant, loin de la Grèce,</l>
+	<l id="791">Un héros notre espoir, d'Athènes le vengeur,</l>
+	<l id="792">L'ami de mon enfance et l'époux de ma soeur.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="793">Ah ! Combien je bénis le sort qui nous rassemble !</l>
+	<l id="794">Frappés des mêmes coups, nous pleurerons ensemble</l>
+	<l id="795">Celui dont les leçons doivent nous soutenir,</l>
+	<l id="796">Et ta soeur, dont je garde un si cher souvenir !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="797">D'Hypparette en ces lieux il existe une amie,</l>
+	<l id="798">Prêtresse de Diane, et comme vous bannie</l>
+	<l id="799">Quand un injuste arrêt s'appesantit sur vous :</l>
+	<l id="800">Éphèse est son refuge ; elle arrive avec nous.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="801">Serait-ce Théane, qui seule osa se dire</l>
+<note type="C">(33)</note>
+	<l id="802">Prêtresse pour bénir et non pas pour maudire ?</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="803" syll="3" part="i">C'est elle.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="803" syll="9" part="f">Dieux puissants !... Ne pourrai-je la voir,</l>
+	<l id="804" syll="3" part="i">Callias ?</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="804" syll="9" part="f">Oui, Seigneur : c'est son plus cher espoir.</l>
+	<l id="805" syll="6" part="i">Je vais être son guide.</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="805" syll="6" part="f">Ah ! Ma reconnaissance</l>
+	<l id="806">Est de son dévouement l'unique récompense !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Alcibiade, Amestris, Théone.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="807">Eh bien, Seigneur, les Grecs arrivés en ces lieux</l>
+	<l id="808">Vous ont-ils annoncé des destins plus heureux ?</l>
+	<l id="809">Leurs récits consolants ont-ils calmé vos peines ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="810">Ils m'ont appris les maux et les crimes d'Athènes ;</l>
+	<l id="811">À des guides pervers le peuple abandonné,</l>
+	<l id="812">Et Socrate par eux à mourir condamné.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="813" syll="3" part="i">Dieux !... Socrate ?...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="813" syll="3" part="m">Il n'est plus.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="813" syll="6" part="f">Quelle aveugle furie !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="814">Ah ! Malgré les erreurs de ma triste patrie,</l>
+	<l id="815">Il faut plaindre, Madame, un peuple malheureux,</l>
+	<l id="816">Dont le crime est suivi de regrets douloureux :</l>
+<note type="C">(34)</note>
+	<l id="817">Tantôt aux magistrats que le hasard lui donne,</l>
+	<l id="818">Crédule et confiant, ce peuple s'abandonne ;</l>
+	<l id="819">Et tantôt, ombrageux et jaloux de ses droits,</l>
+	<l id="820">De perfides flatteurs il écoute la voix.</l>
+	<l id="821">Il se croit libre alors leur funeste éloquence</l>
+	<l id="822">L'entraîne trop souvent à servir leur vengeance.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="823">Votre peuple à ce point serait faible, imprudent ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="824">Sous des chefs citoyens il fut heureux et grand :</l>
+	<l id="825">Des jours de Périclès quand renaîtra la gloire ?</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="826">Par vous, qui dès longtemps rappelez sa mémoire !</l>
+	<l id="827">Cet espoir généreux doit vivre en votre coeur.</l>
+	<l id="828">D'Athènes préparez la nouvelle splendeur ;</l>
+	<l id="829">Combattez à_la_fois Cyrus, Lacédémone ;</l>
+	<l id="830">Sur le front d'Artaxerce assurez la couronne :</l>
+	<l id="831">Et moi, fière d'aimer un héros tel que vous,</l>
+	<l id="832">Dans Athènes, Seigneur, je suivrai mon époux.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="833">Vous doublez mon courage ; et cette heureuse attente</l>
+	<l id="834">Remplit d'un noble orgueil mon âme impatiente.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="835">Aussitôt que la nuit aura voilé les cieux,</l>
+	<l id="836">Tout sera préparé ; vous quitterez ces lieux.</l>
+<note type="C">(35)</note>
+	<l id="837">Thémistocle proscrit, jadis fuyant la Grèce,</l>
+	<l id="838">Comme vous sur nos bords jeté dans sa détresse,</l>
+	<l id="839">Au Roi son ennemi forcé d'avoir recours,</l>
+	<l id="840">D'un char mystérieux emprunta le secours :</l>
+	<l id="841">Ainsi vous partirez. J'ai choisi votre guide ;</l>
+	<l id="842">Et pour mieux dérober votre course rapide,</l>
+	<l id="843">Vos fidèles amis resteront près de nous.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="844">Puis-je sur vous d'un père attirer le courroux ?</l>
+	<l id="845">Et de mes compagnons dois-je exposer la vie ?</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="846">Je réponds de leurs jours ; de mon père chérie</l>
+	<l id="847">Je ferai loin de vous respecter leur malheur.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="848" syll="4" part="i">On vient, Madame.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="848" syll="8" part="f">Adieu : vous serez prêt, Seigneur ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="849">Ah ! D'espoir et d'amour mon âme est enivrée,</l>
+	<l id="850">Madame ; et dans vos mains je mets ma destinée !</l>
+<stage type="exit/watch/entrance">Amestris, en sortant, regarde avec inquiétude Hypparette, qui entre avec Callias.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Alcibiade, Hypparette (crue Théane) voilée, Callias.
+</stage>
+<sp who="CALLIAS"><speaker>CALLIAS</speaker><stage type="toward/location">, à Hypparette, dans le fond du théâtre.
+	</stage>
+	<l id="851" syll="9" part="i">Ma soeur, calme tes sens ; il est seul.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="851" syll="3" part="f">Soutiens-moi...</l>
+	<l id="852" syll="2" part="i">C'est lui !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="toward">, allant à elle.
+	</stage>
+	<l id="852" syll="10" part="f">D'Alcibiade approchez sans effroi,</l>
+	<l id="853">Prêtresse ! Mon abord, hélas ! Doit vous déplaire :</l>
+	<l id="854">Je suis de vos douleurs la cause involontaire...</l>
+	<l id="855">D'un peuple toujours cher, fatal aveuglement !</l>
+	<l id="856">Alors que pour moi-même il fut juste un moment,</l>
+	<l id="857">Et qu'il fit abjurer, lassé de me maudire,</l>
+	<l id="858">Les imprécations qu'enfanta son délire,</l>
+	<l id="859">Celle dont le courage avait seul refusé</l>
+	<l id="860">De servir la fureur de ce peuple abusé,</l>
+	<l id="861">Du temple hospitalier et d'Athènes bannie,</l>
+	<l id="862">Est encore en exil, de sa vertu punie !</l>
+	<l id="863">Et moi, dont elle osa partager les dangers,</l>
+	<l id="864">Comme elle fugitif sur ces bords étrangers,</l>
+	<l id="865">De finir ses malheurs je n'ai que l'espérance :</l>
+	<l id="866">La rendre à nos autels n'est pas en ma puissance.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="867">Ah ! Conservez, Seigneur, cet espoir généreux,</l>
+	<l id="868">Vous, qu'au salut d'Athènes ont destiné les Dieux ;</l>
+	<l id="869">Vous obtiendrez enfin cette gloire immortelle.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="870">Quels regrets votre voix dans mon coeur renouvelle !....</l>
+	<l id="871">Vous aimiez Hypparette : et de son souvenir</l>
+	<l id="872">Il m'est doux et cruel de vous entretenir ;</l>
+	<l id="873">J'ai perdu sans retour cette épouse chérie.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="874">Seigneur, je fus témoin des pleurs de mon amie ;</l>
+	<l id="875">Vous plaignez son destin : n'en accusez que vous.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="876">Ah ! Pourquoi déchirer le coeur de son époux ?</l>
+	<l id="877">Son pardon généreux suivit mon inconstance.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="878">Elle a dû succomber à votre indifférence.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="879">Que dites-vous, Madame ? Ah ! combien je l'aimais !</l>
+	<l id="880">Oui, je fus infidèle : indifférent, jamais !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="881" syll="2" part="i">Grands Dieux !</l>
+<stage type="loud">Haut.</stage>
+	<l id="881" syll="10" part="f">Avant ces jours d'éternelle mémoire</l>
+	<l id="882">Où pour vous à l'exil succéda la victoire,</l>
+	<l id="883">Plaintive et solitaire, à ses lettres, Seigneur,</l>
+	<l id="884">Hypparette souvent confiait sa douleur :</l>
+	<l id="885">Et de chaque vaisseau qui voguait vers l'Asie</l>
+	<l id="886">L'heureuse occasion par elle était saisie.</l>
+	<l id="887">Mais, tandis que ses voeux hâtaient votre retour,</l>
+	<l id="888">Seigneur, votre silence effrayait son amour ;</l>
+	<l id="889">Et, quand cessait enfin sa douloureuse attente,</l>
+	<l id="890">Vos lettres affligeaient une épouse, une amante,</l>
+	<l id="891">Qui toujours y cherchait votre première ardeur,</l>
+	<l id="892">Et qui, toujours trompée, y lisait son malheur !</l>
+	<l id="893">Nous apprîmes enfin votre double victoire :</l>
+	<l id="894">Hypparette me dit : « Il vient, brillant de gloire ;</l>
+	<l id="895">Mais mon bonheur présent pourra-t-il effacer</l>
+	<l id="896">Les traces de ces pleurs que l'exil fit verser ?</l>
+	<l id="897">Mes traits déjà flétris, mes yeux noyés de larmes,</l>
+	<l id="898">À mon époux encore offriront-ils des charmes ?</l>
+	<l id="899">Hélas ! De sa froideur tout semble m'avertir. »</l>
+	<l id="900">Pour Delphes aussitôt elle feint de partir,</l>
+	<l id="901">Et veut voir en secret, au bruit de son absence,</l>
+	<l id="902">Éclater votre amour ou votre indifférence.</l>
+	<l id="903">Vos vaisseaux approchaient : le peuple avec transport</l>
+<note type="C">(36)</note>
+	<l id="904">Célébrant vos exploits, s'élance vers le port ;</l>
+	<l id="905">Sous un déguisement dans la foule cachée,</l>
+	<l id="906">Hypparette, Seigneur, à vos pas attachée,</l>
+	<l id="907">Avec ravissement a revu son époux ;</l>
+	<l id="908">Ah ! Pour son faible coeur moment cruel et doux !</l>
+	<l id="909">Elle mêlait sa voix à ces cris de victoire</l>
+	<l id="910">Qu'élevait dans les airs un peuple ivre de gloire...</l>
+	<l id="911">Quel destin eût jamais égalé son bonheur,</l>
+	<l id="912">Si son absence alors eût touché votre coeur,</l>
+	<l id="913">Et si, dans vos discours, son oreille attentive</l>
+	<l id="914">Eût recueilli le nom d'une épouse craintive !</l>
+	<l id="915">Mais ; hélas ! constamment son espoir fut trompé ;</l>
+	<l id="916">En voyant de vous seul tout un peuple occupé,</l>
+	<l id="917">Vous triomphiez, Seigneur: par vos lauriers distraite.</l>
+	<l id="918">Votre âme dans Athènes oubliait Hypparette !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="919">Ô cruelle ignorance ! Ô nouveau coup du sort !</l>
+	<l id="920">Et cette erreur fatale aurait causé sa mort ?...</l>
+	<l id="921">Ah ! Loin que j'oubliasse une épouse fidèle,</l>
+	<l id="922">Ma première pensée avait été pour elle !</l>
+	<l id="923">J'approchais de l'Attique : et son rivage heureux</l>
+	<l id="924">Semblait du sein des mers s'élever à mes yeux,</l>
+	<l id="925">Quand, sortant du Pirée, un vaisseau se présente ;</l>
+	<l id="926">Je l'aborde et j'apprends que mon épouse absente</l>
+	<l id="927">Pour moi demande aux Dieux un fortuné retour ;</l>
+	<l id="928">Combien cette nouvelle affligea mon amour !</l>
+	<l id="929">Mais je rendis hommage à cette âme pieuse</l>
+	<l id="930">À craindre pour mes jours sans cesse ingénieuse ;</l>
+	<l id="931">Cette idée était douce, et m'occupait encor</l>
+	<l id="932">Quand mes nombreux vaisseaux entrèrent dans le port.</l>
+	<l id="933">Si de mes maux alors je perdis la mémoire,</l>
+	<l id="934">Si, d'honneurs entouré, je fus tout à la gloire,</l>
+	<l id="935">Faut-il m'en faire un crime ? Eh ! Quel est le guerrier</l>
+	<l id="936">Qui, sauvant son pays par un double laurier,</l>
+	<l id="937">Trouvant, après six ans d'exil et de souffrance,</l>
+	<l id="938">Dans sa victoire même une heureuse vengeance,</l>
+	<l id="939">Béni de tout un peuple et fixant tous les yeux,</l>
+	<l id="940">Serait demeuré calme en ce jour glorieux ?</l>
+	<l id="941">Oui, ma joie était grande !... Elle eût été parfaite,</l>
+	<l id="942">Si j'eusse rencontré les regards d'Hypparette !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="stress">, très émue.
+	</stage>
+	<l id="943" syll="9" part="i">Alcibiade !... Eh quoi ! Vous l'aimiez ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="943" syll="3" part="f">Quels accents</l>
+	<l id="944">Votre voix me rappelle !... Ah ! Plus je vous entends,</l>
+	<l id="945">Madame, et plus je crois, tant mon trouble est extrême,</l>
+	<l id="946">Entendre et retrouver Hypparette elle-même !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="947" syll="2" part="i">Ô ciel !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="947" syll="10" part="f">Eh bien ! Seigneur, si la bonté des Dieux</l>
+	<l id="948">Vous avait conservé ce trésor précieux ?</l>
+	<l id="949">Si, pleurant votre oubli, ma soeur infortunée</l>
+	<l id="950">Depuis ce jour s'était à vous fuir condamnée ?</l>
+	<l id="951">Et si, dans sa douleur, pour mieux cacher son sort,</l>
+	<l id="952">Elle avait répandu le faux bruit de sa mort ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="953" syll="1" part="i">Dieux !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="953" syll="11" part="f">Si votre Hypparette, à son dessein fidèle</l>
+	<l id="954">Tant qu'un cruel époux vécut heureux loin d'elle,</l>
+	<l id="955">Publiait sa colère au bruit de vos revers ?</l>
+	<l id="956">Si, quittant sa retraite et traversant les mers,</l>
+	<l id="957">Elle venait, craignant encor d'être importune,</l>
+	<l id="958">De son époux proscrit partager l'infortune ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="959" syll="6" part="i">Achève, Callias !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS</speaker><stage type="show">, levant le voile d'Hypparette.
+	</stage>
+	<l id="959" syll="6" part="f">Vous la voyez, Seigneur.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="960" syll="2" part="i">C'est elle !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="960" syll="4" part="m">Alcibiade !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="960" syll="6" part="f">Hypparette !... Ô bonheur !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="961">Croirai-je à tes transports ?... Ton âme est attendrie ;</l>
+	<l id="962">Ah ! Si de mon époux je suis encor chérie,</l>
+	<l id="963">Ne nous séparons plus ! Il n'est pas de danger</l>
+	<l id="964">Qu'Hypparette avec toi ne veuille partager !</l>
+	<l id="965">Mais ne me flatte point : explique-toi sans feinte ;</l>
+	<l id="966">De la seule pitié si tu ressens l'atteinte,</l>
+	<l id="967">Ou d'un nouvel amour si ton coeur est épris,</l>
+	<l id="968">J'ai déjà préféré l'absence à tes mépris !...</l>
+	<l id="969">Quand j'ai su ton exil, sur ces rives lointaines</l>
+	<l id="970">Ma tendresse a prévu tes périls et tes peines ;</l>
+	<l id="971">Je t'ai vu seul, errant, d'ennemis entouré :</l>
+	<l id="972">Quel douloureux tableau pour mon coeur déchiré !</l>
+	<l id="973">J'ai volé sur tes pas : je viens, contre l'orage,</l>
+	<l id="974">Par mes faibles efforts seconder ton courage,</l>
+	<l id="975">Je viens te consoler en partageant ton sort...</l>
+	<l id="976">Si mon espoir est vain, parle : je puis encor</l>
+	<l id="977">Renoncer au bonheur que donne ta présence,</l>
+	<l id="978">Languir dans la retraite et mourir en silence.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="979" syll="6" part="i">Généreuse Hypparette !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="979" syll="6" part="f">Ah ! Ne me cache rien !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="980">Moi ! Je pourrais tromper un coeur tel que le tien ?</l>
+	<l id="981">Non, non : dût ma franchise affaiblir ta tendresse,</l>
+	<l id="982">Je dois à tes vertus l'aveu de ma faiblesse !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="983" syll="1" part="i">Ciel !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="983" syll="11" part="f">D'un ardent amour Alcibiade épris.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="984" syll="6" part="i">Ah ! Trop cruel époux !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="984" syll="6" part="f">Tu verras Amestris !</l>
+	<l id="985">Pardonne ! Je le sens, je déchire ton âme ;</l>
+	<l id="986">Mais tout fit naître en moi cette ardeur qui m'enflamme.</l>
+	<l id="987">Quand, au bruit de ta mort, je pleurais mon malheur,</l>
+	<l id="988">Les larmes d'Amestris charmèrent ma douleur !</l>
+	<l id="989">Des mains de Tissapherne elle a sauvé ma vie ;</l>
+	<l id="990">Fille de Pharnabaze, ornement de l'Asie,</l>
+	<l id="991">Du superbe Cyrus elle a fixé les voeux,</l>
+	<l id="992">Et préfère l'amour d'un proscrit malheureux.</l>
+	<l id="993">C'est en me secondant que sa tendresse éclate ;</l>
+	<l id="994">Elle m'ouvre en secret le chemin de l'Euphrate :</l>
+	<l id="995">Et si de mes efforts j'obtiens enfin le prix,</l>
+	<l id="996">Je devrai mon triomphe à l'amour d'Amestris.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="997" syll="6" part="i">C'en est trop... Malheureuse !</l>
+<stage type="toward">À Callias.</stage>
+	<l id="997" syll="3" part="m">Ah ! Fuyons.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="997" syll="3" part="f">Je m'égare :</l>
+	<l id="998">Pardonne à ton époux ces transports...</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="999" syll="3" part="i">Ah barbare !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="999" syll="9" part="f">Arrête : plains mon sort et calme ton effroi :</l>
+	<l id="1000">Qui pouvait altérer ma tendresse pour toi ?</l>
+	<l id="1001">Cruelle, à ton trépas en vain tu m'as fait croire :</l>
+	<l id="1002">Des jours de notre hymen je gardais la mémoire ;</l>
+	<l id="1003">Aujourd'hui même encore Amestris en ces lieux</l>
+	<l id="1004">M'a vu de mes regrets prendre à témoin les Dieux.</l>
+	<l id="1005">Sans le bruit de ta mort, aurais-je pu prétendre</l>
+	<l id="1006">À posséder ce coeur et si noble et si tendre ?...</l>
+	<l id="1007">N'accuse que toi-même... Ah ! Dans nos plus beaux jours,</l>
+	<l id="1008">Quand ton époux brûlait d'éphémères amours,</l>
+	<l id="1009">Souviens-toi que de fois ton regard, ton sourire,</l>
+	<l id="1010">Sur moi de nos liens ont raffermi l'empire !</l>
+	<l id="1011">D'autres m'avaient séduit, mais je n'aimais que toi :</l>
+	<l id="1012">Et la seule Amestris a triomphé de moi.</l>
+	<l id="1013">Par ce nouvel amour mon âme est entraînée ;</l>
+	<l id="1014">Je le sens : cet amour eût fuit ma destinée !</l>
+<stage type="exit">Hypparette veut sortir.</stage>
+	<l id="1015">Veux-tu m'abandonner à ce trouble cruel ?</l>
+	<l id="1016">Ton époux est à plaindre et non pas criminel ;</l>
+	<l id="1017">Contre mon propre coeur sois mon appui, mon guide.</l>
+<stage type="entrance">Amestris paraît.</stage>
+	<l id="1018" syll="10" part="i">Ne nous séparons plus !... Cède à mes voeux !...</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Précédents, Amestris.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1018" syll="2" part="f">Perfide !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1019" syll="6" part="i">Amestris ! Juste ciel !...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1019" syll="6" part="f">C'est moi que tu trahis !...</l>
+	<l id="1020">Tu ne peux soutenir les regards d'Amestris ?...</l>
+	<l id="1021">Mon aspect te confond : tu gardes le silence ?...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1022" syll="6" part="i">Ah ! Madame, apprenez...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1022" syll="6" part="f">Je cours à la vengeance !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="exit">, pendant la sortie d'Amestris.
+	</stage>
+	<l id="1023" syll="6" part="i">Arrêtez !... Amestris !</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Alcibiade, Hypparette, Callias.
+</stage>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="toward">, à Callias.
+	</stage>
+	<l id="1023" syll="6" part="f">Mon frère, soutiens-moi...</l>
+	<l id="1024">Mon coeur est accablé de douleur et d'effroi...</l>
+	<l id="1025" syll="2" part="i">Sortons.</l>
+<stage type="toward">À Alcibiade.</stage>
+	<l id="1025" syll="10" part="f">Ah ! Je crains tout de sa fureur jalouse !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1026">Elle doit s'apaiser au nom de mon épouse !</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE QUATRIÈME</head>
+<div2 type="ecene" n="1"><head>SCÈNE I.</head>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="alone">, seule.
+	</stage>
+	<l id="1027">Qu'ai-je fait, malheureuse ?... Ô pénibles combats !</l>
+	<l id="1028">Quel trouble me poursuit ?... Où porté-je mes pas ?</l>
+	<l id="1029">Contre un juste courroux mon coeur en vain murmure ;</l>
+	<l id="1030">C'en est fait : j'ai parlé... J'ai vengé mon injure.</l>
+	<l id="1031">Tremble, traître !.... Déjà tes jours sont menacés,</l>
+	<l id="1032">Tes pas sont retenus, tes desseins renversés.</l>
+	<l id="1033">Sans espoir de retour pleure ta perfidie,</l>
+	<l id="1034">Et vois s'appesantir les fers de ta patrie !...</l>
+	<l id="1035">Ô toi ! L'orgueil des Grecs, Reine de leurs cités,</l>
+	<l id="1036">Athènes ! C'en est fait de tes prospérités.</l>
+	<l id="1037">Quel bras peut désormais finir ton esclavage ?</l>
+	<l id="1038">De la haine et du temps éprouvant le ravage,</l>
+	<l id="1039">Bientôt tes murs déserts, tes temples abattus....</l>
+<note type="C">(37)</note>
+	<l id="1040">Oui, quelques jours encore, et tu ne seras plus.</l>
+	<l id="1041">Brillant séjour des arts ! Ô ville infortunée !</l>
+	<l id="1042">Combien dans mon malheur je plains ta destinée !....</l>
+	<l id="1043">J'espérais, sur tes bords ramenant ton héros,</l>
+	<l id="1044">Voir renaître pour toi ses illustres travaux ;</l>
+	<l id="1045">Ton salut devenait ma plus chère espérance :</l>
+	<l id="1046">L'hymen d'Alcibiade était ma récompense !...</l>
+	<l id="1047">Quels nobles sentiments, quelle brûlante ardeur,</l>
+	<l id="1048">Cruel ! Tu savais feindre en captivant mon coeur !...</l>
+	<l id="1049">Pour jouir de mes maux chercherais-tu ma vue ?</l>
+	<l id="1050">Ou prétends-tu calmer le tourment qui me tue ?...</l>
+	<l id="1051">De me trahir encore abandonne l'espoir :</l>
+	<l id="1052">Je t'aimerai toujours... Je ne puis te revoir !</l>
+	<l id="1053">Quelle est cette étrangère, objet de ton ivresse !</l>
+	<l id="1054">De Diane, grands Dieux ! Elle serait prêtresse ?...</l>
+	<l id="1055">Elle aurait donc quitté pour te suivre en ces lieux</l>
+	<l id="1056">Un temple profané par ses coupables feux ?...</l>
+	<l id="1057">Loin de t'en repentir, peut-être en fais-tu gloire...</l>
+	<l id="1058">À tant d'égarements je ne voulais pas croire ;</l>
+	<l id="1059">Mon coeur à te connaître en vain fut préparé...</l>
+	<l id="1060">Non, pour Alcibiade il n'est rien de sacré !</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Amestris, Pharnabaze.
+</stage>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1061">Je te cherchais, ma fille : errante et solitaire</l>
+	<l id="1062">Pourquoi fuir en ces lieux et la Cour et ton père ?</l>
+	<l id="1063">Il est temps qu'un secret à demi révélé</l>
+	<l id="1064">Sans réserve à mes yeux soit par toi dévoilé ;</l>
+	<l id="1065">Du trouble où je te vois je veux savoir la cause.</l>
+	<l id="1066">Songe aux devoirs sacrés que notre rang t'impose :</l>
+	<l id="1067">Sois Persane, Amestris !... Si j'en crois les discours</l>
+	<l id="1068">Dont naguère ta bouche a suspendu le cours,</l>
+	<l id="1069">Alcibiade encor pense à troubler la Perse ;</l>
+	<l id="1070">Il cherche à pénétrer à la Cour d'Artaxerce,</l>
+	<l id="1071">À nous combattre, enfin. Si tel est son espoir,</l>
+	<l id="1072">L'intérêt de Cyrus me dicte mon devoir.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1073" syll="2" part="i">Seigneur...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1073" syll="10" part="f">De ses desseins qui t'a donc informée ?</l>
+	<l id="1074">De sentiments divers tu semblais animée :</l>
+	<l id="1075">Et j'ai cru voir ma fille, oubliant mon danger,</l>
+	<l id="1076">S'émouvoir au seul nom d'un perfide étranger.</l>
+	<l id="1077">Serait-il vrai, grands Dieux !... Et que dois-je en conclure ?</l>
+	<l id="1078">Pour le sang d'où tu sors quelle cruelle injure !</l>
+	<l id="1079">Ton coeur, qui de Cyrus a rejeté les voeux,</l>
+	<l id="1080">Pour un Grec brûlerait d'un amour odieux !</l>
+	<l id="1081">Près de trahir pour lui ton pays, ta famille,</l>
+	<l id="1082" syll="6" part="i">Sans un jaloux transport</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1082" syll="6" part="f">Respectez votre fille,</l>
+	<l id="1083">Seigneur ; et quels que soient mes secrets sentiments,</l>
+	<l id="1084">D'un doute injurieux craignez les mouvements.</l>
+	<l id="1085">Qui ? Moi vous oublier ! Moi trahir ma patrie !</l>
+	<l id="1086">Quand ma fidélité s'est-elle démentie ?</l>
+	<l id="1087">Est-ce en flattant vos voeux qu'il faut vous la prouver ?</l>
+	<l id="1088">Non, seigneur : malgré vous je voudrais vous sauver.</l>
+	<l id="1089">Eh quoi ! De Darius jamais votre pensée</l>
+	<l id="1090">N'offre-t-elle à vos yeux la grande ombre offensée,</l>
+	<l id="1091">Venant vous rappeler qu'à ses derniers moments</l>
+	<l id="1092">Pour l'aîné de ses fils il reçut vos serments ?</l>
+	<l id="1093">Vous l'entendrez trop tard : « Tremble, vous dira-t-elle ;</l>
+	<l id="1094">Artaxerce est ton roi ; Cyrus n'est qu'un rebelle. »</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1095">C'en est trop, Amestris ! Tant de témérité...,</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1096">Votre fille, Seigneur, vous doit la vérité ;</l>
+	<l id="1097">Votre intérêt m'anime : excusez ma franchise.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1098">Pourquoi d'Alcibiade arrêter l'entreprise ?...</l>
+	<l id="1099">Il eût servi tes voeux.... Mais, ou l'on m'a trompé,</l>
+	<l id="1100">Ou de soins différents son coeur est occupé ;</l>
+	<l id="1101">Et d'un nouvel amour la flamme passagère</l>
+	<l id="1102">Retient Alcibiade aux pieds d'une étrangère.</l>
+	<l id="1103">Quand l'objet de ses feux l'a suivi sur nos bords.</l>
+	<l id="1104">D'ambitieux desseins troubleraient leurs transports ?</l>
+	<l id="1105">Non, je ne puis le croire, Amestris : tu t'abuses,</l>
+	<l id="1106">Ou tu veux te venger alors que tu l'accuses.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1107" syll="6" part="i">Me venger, dites-vous ?...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1107" syll="3" part="m">Tu frémis.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1107" syll="3" part="f">Ah ! Seigneur,</l>
+	<l id="1108">Pourquoi m'interroger ? Vous lisez dans mon coeur ;</l>
+	<l id="1109">Je l'aime... et quel mortel plus digne de tendresse ?</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1110" syll="4" part="i">Ô honte ! Ô crime !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1110" syll="8" part="f">Eh quoi ! Le héros de la Grèce,</l>
+	<l id="1111">Fameux dans les combats, plus grand dans les revers.</l>
+	<l id="1112">Dont le nom glorieux a rempli l'univers ;</l>
+	<l id="1113">Qui fut votre ennemi sans perdre votre estime,</l>
+	<l id="1114">Alcibiade enfin... l'aimer serait un crime ?</l>
+	<l id="1115">Non, Seigneur, non, jamais ! Je l'aime ; et plût aux Dieux</l>
+	<l id="1116">Que son coeur fût fidèle autant que généreux !</l>
+	<l id="1117">Alcibiade, épris d'une nouvelle flamme,</l>
+	<l id="1118">A trahi ses serments : il déchire mon âme.</l>
+	<l id="1119">Dans mon juste courroux j'ai trop su me venger... </l>
+	<l id="1120">Je vous connais, Seigneur, et je vois son danger.</l>
+	<l id="1121">À le frapper déjà votre haine s'apprête :</l>
+	<l id="1122">Vous le comblez d'honneurs.... la foudre est sur sa tête</l>
+	<l id="1123">Ah ! Si je vous suis chère, il en est temps encor,</l>
+	<l id="1124">Sur vos ressentiments faites un noble effort !</l>
+	<l id="1125">C'est l'hospitalité qui seule vous confie</l>
+	<l id="1126">Le pouvoir de trancher une si belle vie...</l>
+	<l id="1127">Et vous pourriez trahir ce héros malheureux !</l>
+	<l id="1128">L'asile qu'il obtient serait un piège affreux !</l>
+	<l id="1129">Vous porteriez si loin l'oubli de votre gloire !...</l>
+	<l id="1130">Ce jour peut à jamais flétrir votre mémoire ;</l>
+	<l id="1131">Oui, Seigneur : de Cyrus redoutez le mépris,</l>
+	<l id="1132">Le courroux d'Artaxerce et la mort d'Amestris !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE</speaker><stage type="alone">, seul.
+	</stage>
+	<l id="1133">À quels égarements l'imprudente se livre !</l>
+	<l id="1134">Et s'il meurt, dans la tombe elle pense à le suivre...</l>
+	<l id="1135">Fatal aveuglement !... Ainsi, quand de nos moeurs</l>
+	<l id="1136">Ma tendresse pour elle oubliant les rigueurs,</l>
+	<l id="1137">Réunit dans ma Cour, pour charmer sa jeunesse,</l>
+	<l id="1138">Les pompes de l'Asie et les arts de la Grèce,</l>
+	<l id="1139">Quand Cyrus et le trône attendent Amestris,</l>
+	<l id="1140">De mes soins paternels, grands Dieux ! Tel est le prix !</l>
+	<l id="1141">Elle aime Alcibiade !... Elle ose le défendre !</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Pharnabaze, Mégabyse.
+</stage>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+<note type="C">(38)</note>
+	<l id="1142">On apporte, Seigneur, cet écrit de Lysandre.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1143" syll="2" part="i">Voyons.</l>
+<stage type="read">Il lit.</stage>
+	<l id="1143" syll="10" part="f">« Alcibiade est errant sur vos bords,</l>
+	<l id="1144">Seigneur. Si le perfide ose entrer dans vos ports,</l>
+	<l id="1145">Le repos de la Grèce et celui de l'Asie</l>
+	<l id="1146">Demandent son trépas : Sparte vous y convie.</l>
+	<l id="1147">N'hésitez point, frappez : ce transfuge odieux</l>
+	<l id="1148">Fut de tous les partis, est pour tous dangereux. »</l>
+<stage type="read">Après avoir lu.</stage>
+	<l id="1149">Qui pourrait désormais suspendre ma vengeance ?</l>
+	<l id="1150">Oui, meure Alcibiade ! Il est en ma puissance,</l>
+	<l id="1151">Et j'ai lu son arrêt.... Mégabyse, à l'instant</l>
+	<l id="1152">Il faut tout préparer pour ce coup important ;</l>
+	<l id="1153">Qu'en secret Amestris soit ici retenue ;</l>
+	<l id="1154">Qu'aux étrangers surtout on dérobe sa vue.</l>
+</sp>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="1155">Vous serez obéi : mais quels soins superflus,</l>
+	<l id="1156">Seigneur ! Dites un mot, votre ennemi n'est plus.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1157">Mégabyse, veux-tu qu'on nomme perfidie</l>
+	<l id="1158">Le juste châtiment qui va trancher sa vie ?</l>
+	<l id="1159">Près du roi, de Cyrus on irait m'accuser</l>
+	<l id="1160">De ne l'avoir reçu que pour l'assassiner.</l>
+	<l id="1161">Satisfaits de sa chute, ils m'en feraient un crime...</l>
+	<l id="1162">Non, non : que du hasard il paraisse victime.</l>
+	<l id="1163">Frappons Alcibiade ; et qu'après son trépas,</l>
+	<l id="1164">Si le soupçon m'atteint, il ne m'accable pas !</l>
+	<l id="1165">Ses fidèles amis suivront sa destinée ;</l>
+	<l id="1166">Proxènes, cette femme avec eux amenée,</l>
+	<l id="1167">Séparés de leur suite, à ma Cour sont admis :</l>
+<stage type="show/location">Montrant le fond du théâtre, à gauche.</stage>
+	<l id="1168">Dans mon palais d'été qu'ils soient tous réunis.</l>
+	<l id="1169">Là, de ces Grecs charmés de se voir sans contrainte,</l>
+	<l id="1170">Que tes soins empressés éloignent toute crainte ;</l>
+	<l id="1171">Qu'ils passent d'un festin dans les bras du sommeil,</l>
+	<l id="1172">Et qu'un vaste incendie éclaire leur réveil.</l>
+	<l id="1173">S'ils pouvaient échapper à la flamme trop lente,</l>
+	<l id="1174">Qu'attentive à leurs cris ma garde vigilante</l>
+	<l id="1175">Au-devant de leurs pas se hâte d'accourir,</l>
+	<l id="1176">Et dans ces mêmes feux les contraigne à mourir.</l>
+	<l id="1177" syll="6" part="i">On vient ; c'en est assez.</l>
+</sp>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="1177" syll="6" part="f">Oui, comptez sur mon zèle ;</l>
+	<l id="1178" syll="6" part="i">Tout sera prêt, Seigneur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Pharnabaze, Cléarque.
+</stage>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1178" syll="6" part="f">À mes devoirs fidèle,</l>
+	<l id="1179">Je reviens près de vous pour la dernière fois,</l>
+	<l id="1180">Et tous vos alliés vous parlent par ma voix.</l>
+	<l id="1181">C'est peu qu'Alcibiade ici brave l'orage ;</l>
+	<l id="1182">D'autres Athéniens, jetés sur ce rivage,</l>
+	<l id="1183">Sont par vous accueillis ; et vous savez, Seigneur,</l>
+	<l id="1184">Ce qu'on doit aux traités, ce qu'on doit au malheur.</l>
+	<l id="1185">Secourez ces mortels que trahit la fortune ;</l>
+	<l id="1186">Mais consultez aussi la sûreté commune :</l>
+	<l id="1187">De Sparte, de vous-même ils sont tous ennemis :</l>
+	<l id="1188">Éloignez de ces bords ces dangereux bannis !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1189">Ce matin, à vos yeux dévoilant ma pensée,</l>
+	<l id="1190">J'ai cru sur mes desseins voir la vôtre fixée ;</l>
+	<l id="1191">Par nos vrais intérêts ils me sont inspirés.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1192">Lorsque d'Athéniens nous sommes entourés ?...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1193">Réunis sous mes yeux, ils cessent d'être à craindre :</l>
+	<l id="1194" syll="6" part="i">Tous leurs pas observés....</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1194" syll="6" part="f">Ah ! C'est trop me contraindre,</l>
+	<l id="1195">Seigneur. Tous vos détours ne m'abuseront pas :</l>
+	<l id="1196">Peut-être en ce moment jurez-vous leur trépas !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1197">Moi, Seigneur ! Ce discours, que je ne puis comprendre...</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1198">J'ai reçu comme vous des lettres de Lysandre</l>
+	<l id="1199">Je venais, plein d'horreur pour son projet affreux,</l>
+	<l id="1200">Demander le départ d'un proscrit malheureux ;</l>
+	<l id="1201">J'espérais qu'indigné de tant de perfidie,</l>
+	<l id="1202">Vous n'hésiteriez plus.... Ô Sparte ! Ô ma patrie !</l>
+	<l id="1203">C'est par de tels complots qu'on prétend te servir,</l>
+<note type="C">(39)</note>
+	<l id="1204">Et les fils de Lycurgue ont appris à trahir !... </l>
+	<l id="1205">Des vaincus, au mépris de nos lois immortelles,</l>
+<note type="C">(40)</note>
+	<l id="1206">L'or nous est apporté par des mains criminelles : </l>
+	<l id="1207">Ces trésors, à l'état vainement réservés,</l>
+	<l id="1208">Vont corrompre des coeurs si longtemps éprouvés.</l>
+	<l id="1209">Ainsi, quand chaque jour accroît notre puissance,</l>
+	<l id="1210">Notre vertu s'éteint, notre perte s'avance.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1211">De l'écrit de Lysandre indigné comme vous,</l>
+	<l id="1212">Je vous cachais, Seigneur, mon trop juste courroux :</l>
+	<l id="1213">Je garde Alcibiade, et c'est pour le défendre.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1214">À changer vos desseins je ne dois plus prétendre,</l>
+	<l id="1215">Je le vois : mais au moins j'ai fait ce que j'ai dû ;</l>
+	<l id="1216" syll="6" part="i">Adieu, Seigneur.</l>
+<stage type="location/entrance">Dans le fond du théâtre, à Alcibiade qui entre, et à demi-voix.</stage>
+	<l id="1216" syll="6" part="f">Fuyez, ou vous êtes perdu !</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Pharnabaze, Alcibiade, Hypparette, Proxènes, Callias, Trois autres Athéniens. 
+</stage> 
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="silence">, après un silence.
+	</stage>
+	<l id="1217">Enfin, seigneur, des maux qui pesaient sur ma tête</l>
+	<l id="1218">La fortune est lassée, et sa rigueur s'arrête.</l>
+	<l id="1219">À peine ai-je obtenu votre appui généreux,</l>
+	<l id="1220">Que d'un bonheur nouveau j'ai rendu grâce aux Dieux.</l>
+	<l id="1221">J'avais pleuré longtemps une épouse chérie ;</l>
+<stage type="show">La montrant.</stage>
+	<l id="1222" syll="3" part="i">Hypparette....</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1222" syll="9" part="f">Les Dieux ne vous l'ont point ravie !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1223" syll="10" part="i">Elle arrive en ces lieux : vous la voyez.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1223" syll="2" part="f">Seigneur,</l>
+	<l id="1224">Je venais d'un proscrit partager le malheur :</l>
+	<l id="1225">Mais votre noble accueil a calmé sa souffrance ;</l>
+	<l id="1226">Vous avez dans nos coeurs ranimé l'espérance.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1227">Madame, je bénis le sort qui dans ma Cour</l>
+	<l id="1228">A conduit votre époux, vous rend à son amour ;</l>
+	<l id="1229">De quels justes regrets son âme fut atteinte !</l>
+<stage type="toward/show">À Alcibiade, montrant Hypparette.</stage>
+	<l id="1230">Au bonheur de la voir livrez-vous sans contrainte,</l>
+	<l id="1231">Seigneur, et de sa perte oubliez les tourments.</l>
+	<l id="1232">Ah ! Rien ne doit troubler ces fortunés moments !</l>
+	<l id="1233">Je veux à vos transports choisir un sûr asile ;</l>
+<stage type="show/location">Montrant le fond du théâtre à gauche.</stage>
+	<l id="1234">Il s'offre à vos regards : c'est ce palais tranquille,</l>
+	<l id="1235">Que de vastes jardins mes soins ont entouré,</l>
+	<l id="1236">Qu'au repos des grandeurs j'ai souvent consacré.</l>
+	<l id="1237">Pour vous, pour vos amis, Seigneur, je le destine ;</l>
+	<l id="1238" syll="6" part="i">Je vais tout ordonner.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les Précédents, excepté Pharnabaze.
+</stage>
+<sp who="PROXÈNES"><speaker>PROXÈNES</speaker><stage type="toward">, à Alcibiade.
+	</stage>
+	<l id="1238" syll="6" part="f">C'est pour notre ruine,</l>
+	<l id="1239">Seigneur, qu'en ce palais il veut nous réunir.</l>
+	<l id="1240">Fuyez, croyez Cléarque, ou songez à mourir !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1241" syll="1" part="i">Ciel !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="toward">, à Proxènes.
+	</stage>
+	<l id="1241" syll="11" part="f">De ma perte ici par Cléarque annoncée,</l>
+	<l id="1242">Quoi ! Proxènes, la crainte occupe ta pensée ?</l>
+	<l id="1243">Toujours de ce rivage il prétend m'éloigner.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1244">Incapable de feindre, il cherche à vous sauver.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1245">Et Pharnabaze ainsi flatterait sa victime ?</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1246">Dans ses sombres regards j'ai lu l'espoir du crime.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1247" syll="6" part="i">Sa fille est notre appui.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1247" syll="6" part="f">Du courroux d'Amestris</l>
+	<l id="1248">L'image m'épouvante et glace mes esprits...</l>
+	<l id="1249">Grands Dieux ! Ses derniers mots sont un cri de vengeance !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1250" syll="6" part="i">Je n'ai pu la revoir...</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1250" syll="6" part="f">Que je crains son silence !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1251">Elle m'aime : à ses yeux j'ai trahi mes serments ;</l>
+	<l id="1252" syll="6" part="i">Demain elle apprendra...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1252" syll="6" part="f">Mais s'il n'était plus temps ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1253">Tu changes tes soupçons en sinistre présage.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1254">À chaque instant, Seigneur, je vois grossir l'orage.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1255" syll="6" part="i">Notre suite fidèle...</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1255" syll="6" part="f">On nous a séparés ;</l>
+	<l id="1256">Eux et nous, d'ennemis nous sommes entourés.</l>
+	<l id="1257">Ce soir pour pénétrer jusqu'aux guerriers d'Athènes,</l>
+	<l id="1258">J'ai fait de vains efforts et j'ai connu nos chaînes.</l>
+	<l id="1259">Aux portes du palais de farouches soldats</l>
+	<l id="1260">Semblaient sourds à ma voix en arrêtant mes pas.</l>
+	<l id="1261">J'ai retrouvé partout cette garde inflexible :</l>
+	<l id="1262">Quels que soient nos dangers, la fuite est impossible.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1263" syll="3" part="i">Ô destins !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1263" syll="9" part="f">Il nous reste un moyen douloureux,</l>
+	<l id="1264">Seigneur ; mais c'est le seul que nous offrent les Dieux.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1265" syll="2" part="i">Parle.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1265" syll="10" part="f">De ce palais je parcourais l'enceinte,</l>
+	<l id="1266">Quand un Persan m'aborde ; il frémissait de crainte,</l>
+	<l id="1267">Et jetant loin de nous un rapide regard :</l>
+	<l id="1268">« De vous parler, dit-il, j'ai couru le hasard ;</l>
+	<l id="1269">Sauvons Alcibiade, ou sa perte est jurée.</l>
+	<l id="1270">Ma fuite avec lui seul est déjà préparée ;</l>
+	<l id="1271">Ici, dès que la nuit aura voilé les cieux,</l>
+	<l id="1272">Je l'attendrai. » Soudain il échappe à mes yeux.</l>
+	<l id="1273" syll="6" part="i">L'heure approche, Seigneur.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1273" syll="6" part="f">Quel est donc ce mystère ?</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1274">Reconnais d'Amestris le secours tutélaire.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1275">Hé bien, Alcibiade... Hâte-toi de partir !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1276" syll="1" part="i">Seul ?</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1276" syll="3" part="m">Sans doute.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1276" syll="6" part="f">Qui, moi ! J'y pourrais consentir !</l>
+	<l id="1277">Et quand tu m'es rendue, au fort de la tempête</l>
+	<l id="1278">Le coup que je fuirais viendrait frapper ta tête !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1279">Cours délivrer Athènes, et laisse-moi mourir.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1280">Je ne te quitterai qu'à mon dernier soupir.</l>
+<stage type="toward">À Proxènes.</stage>
+	<l id="1281">Compagnon des malheurs où le sort m'abandonne,</l>
+	<l id="1282">Proxènes, quel conseil ton amitié me donne !</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1283">La patrie enchaînée attend votre secours ;</l>
+	<l id="1284">Pour consommer sa perte on va trancher vos jours :</l>
+	<l id="1285">Et je crois voir couler ce sang qui dans vos veines</l>
+	<l id="1286">Bouillonne en ce moment pour le salut d'Athènes.</l>
+	<l id="1287">Ah ! Vous en devez compte à vous-même, à nos Dieux,</l>
+	<l id="1288">À la terre sacrée où dorment nos aïeux !</l>
+	<l id="1289">Partez, Seigneur ; partez, espoir de la patrie !</l>
+	<l id="1290">Vous reverrez un jour cette épouse chérie,</l>
+	<l id="1291">Ces fidèles amis qui suivaient votre sort ;</l>
+	<l id="1292">D'Alcibiade seul le tyran veut la mort :</l>
+	<l id="1293">Échappez à ses coups, et laissez-nous sans crainte.</l>
+	<l id="1294">Songez que Pharnabaze a recours à la feinte ;</l>
+	<l id="1295">En perdant sa victime il taira son courroux.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1296">Pharnabaze trompé se vengerait sur vous.</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1297">Il nous verrait braver ses fureurs inhumaines,</l>
+	<l id="1298">Et prédire, en tombant, le triomphe d'Athènes.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1299" syll="6" part="i">Venez, Seigneur.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1299" syll="6" part="f">La nuit favorise tes pas.</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1300">Grands dieux ! Fut-il jamais de plus nobles combats ?</l>
+	<l id="1301">Quels trésors m'a laissés la fortune jalouse !</l>
+	<l id="1302">Après tant de revers, quels amis ! Quelle épouse !...</l>
+	<l id="1303">Pardonnez si je doute au moment du danger ;</l>
+	<l id="1304">Peut-être on nous inspire un trouble mensonger ;</l>
+	<l id="1305">Croirai-je qu'un satrape illustre dans l'Asie,</l>
+	<l id="1306">S'abaisse, pour me perdre, à tant de perfidie ?...</l>
+	<l id="1307">Amestris irritée aura dit mes desseins :</l>
+	<l id="1308">Je vois des surveillants et non des assassins.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1309">C'est trop vous confier aux discours d'un barbare.</l>
+	<l id="1310" syll="3" part="i">L'heure fuit....</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1310" syll="9" part="f">Quel que soit le sort qu'on me prépare,</l>
+	<l id="1311">Je ne partirai point. À peine réunis,</l>
+	<l id="1312">Moi vous abandonner, ô mes nobles amis !</l>
+	<l id="1313">De rentrer dans nos murs où trouver le courage ?</l>
+	<l id="1314">Le peuple vainement m'attendrait au rivage ;</l>
+	<l id="1315">Cette ville chérie, où vous ne seriez plus,</l>
+	<l id="1316">N'offrirait qu'un désert à mes sens éperdus.</l>
+	<l id="1317">Vous parlez de patrie !... Ah ! Je lui suis fidèle :</l>
+	<l id="1318">Mais je veux avec vous vivre ou mourir pour elle.</l>
+	<l id="1319">Si le péril existe, il nous menace tous :</l>
+	<l id="1320">Ne montrons aux Persans ni craintes ni courroux.</l>
+<stage type="toward">À Hypparette.</stage>
+	<l id="1321">Songe que trop souvent l'effroi de la victime</l>
+	<l id="1322">Excite à la frapper et décide le crime.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1323" syll="6" part="i">On vient... C'en est donc fait !...</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Les Précédents, Mégabyse.
+</stage>
+<sp who="MÉGABYSE"><speaker>MÉGABYSE.</speaker>
+	<l id="1323" syll="6" part="f">Pharnabaze, Seigneur,</l>
+	<l id="1324">D'orner votre palais m'a confié l'honneur ;</l>
+	<l id="1325">Tout est prêt : ordonnez, je serai votre guide.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES</speaker><stage type="low/toward">, bas à Alcibiade.
+	</stage>
+	<l id="1326">Ah ! Quelle joie éclate au front de ce perfide !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="low">, bas.
+	</stage>
+	<l id="1327" syll="3" part="i">Proxènes !...</l>
+<stage type="loud/toward">Haut à Mégabyse.</stage>
+	<l id="1327" syll="6" part="m">Sur vos pas nous marchons.</l>
+<stage type="toward">À Hypparette et aux Grecs.</stage>
+	<l id="1327" syll="3" part="f">Venez tous.</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="aparte/exit">, à part, en sortant.
+	</stage>
+	<l id="1328">Dieux ! Frappez Hypparette, et sauvez son époux !</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE CINQUIEME</head>
+<stage type="light">Il fait nuit.</stage>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Amestris, Théone.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1329" syll="6" part="i">N'arrête plus mes pas.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1329" syll="6" part="f">Écoutez-moi, Madame.</l>
+	<l id="1330">Ah ! Quel trouble cruel s'empare de votre âme !...</l>
+	<l id="1331">Rentrons : la nuit du moins fera trêve à vos maux.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1332">Non, non : pour Amestris il n'est plus de repos,</l>
+	<l id="1333">Théone ! Par un traître indignement trompée,</l>
+	<l id="1334">De mon destin cruel sans relâche occupée,</l>
+	<l id="1335">Je repousse ta main, prompte à me secourir,</l>
+	<l id="1336">Et n'ai plus qu'un espoir : me venger et mourir.</l>
+	<l id="1337">Me venger !... Ah ! Ce mot ranime mon courage !...</l>
+	<l id="1338">Dieux ! Quelle perfidie et quel sanglant outrage !</l>
+	<l id="1339">Jamais serments plus forts et plus tôt effacés,</l>
+	<l id="1340">Jamais serments plus doux furent-ils prononcés ?...</l>
+	<l id="1341">C'est dans ces lieux, Théone, où sa bouche infidèle</l>
+	<l id="1342">Venait de me jurer une ardeur éternelle,</l>
+	<l id="1343">Qu'aux pieds d'une autre amante, à mes yeux, sans remords,</l>
+	<l id="1344">Le parjure exprimait ses coupables transports !</l>
+	<l id="1345">J'ai couru le punir : ma vengeance était prête;;;</l>
+	<l id="1346">À l'aspect du danger qui menaçait sa tête,</l>
+	<l id="1347">J'ai frémi, je l'avoue ; et mes ordres secrets</l>
+	<l id="1348">Ont soudain de sa fuite achevé les apprêts :</l>
+	<l id="1349">Théone, vainement je l'en ai fait instruire :</l>
+	<l id="1350">Dédaignant mon secours, son aveugle délire</l>
+	<l id="1351">Aux pieds de l'étrangère a retenu ses pas...</l>
+	<l id="1352">Que dis-je ? Alcibiade est déjà dans ses bras !...</l>
+	<l id="1353">Dieux vengeurs !... C'en est fait : que son sort s'accomplisse !</l>
+	<l id="1354">N'hésitez plus, mon père ; ordonnez son supplice,</l>
+	<l id="1355">Et qu'avec son amante il expire à mes yeux !</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1356">Madame, calmez-vous et sortons de ces lieux.</l>
+	<l id="1357">Votre père, qu'appelle ici votre vengeance,</l>
+	<l id="1358">Peut-être en ce moment découvre votre absence.</l>
+	<l id="1359">Il connaît vos douleurs, et vous n'ignorez pas</l>
+	<l id="1360">Avec quel soin tantôt il observait vos pas ;</l>
+	<l id="1361">De secrets surveillants vous marchez entourée.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1362">Dans mon appartement on me croit retirée.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1363" syll="3" part="i">Ah ! Venez.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1363" syll="9" part="f">Je ne puis : et dans mon désespoir</l>
+<stage type="show/location">Montrant le Palais où est Alcibiade.</stage>
+	<l id="1364">Ce funeste palais... J'ai besoin de le voir !</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1365">Mais ici de vos maux tout vous offre l'image.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1366">Théone, tout m'excite à venger mon outrage.</l>
+	<l id="1367">Là reposent ces Grecs, dont j'ai plaint les destins...</l>
+	<l id="1368">Quel silence succède au bruit de leurs festins !</l>
+	<l id="1369">D'ennemis entourés, ils semblent ne rien craindre,</l>
+	<l id="1370">Et leurs derniers flambeaux achèvent de s'éteindre !</l>
+	<l id="1371">Alcibiade.... Ô crime ! Ô trop juste fureur !...</l>
+	<l id="1372">Théone, il est heureux.... L'enfer est dans mon coeur !</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1373" syll="6" part="i">Ô ciel ! Quelqu'un s'avance.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Cléarque, Amestris, Théone.
+</stage>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE</speaker><stage type="location/alone">, dans le fond du théâtre, se croyant seul.
+	</stage>
+	<l id="1373" syll="6" part="f">Ainsi, tout est tranquille,</l>
+	<l id="1374">Et du malheur encore on respecte l'asile.</l>
+	<l id="1375">Pharnabaze suspend ses desseins commencés :</l>
+	<l id="1376">Ô Lysandre ! Tes voeux seront-ils exaucés ?</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1377" syll="6" part="i">C'est la voix de Cléarque.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1377" syll="4" part="m">Il vient à nous.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1377" syll="2" part="f">Demeure.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE</speaker><stage type="alone">, se croyant seul.
+	</stage>
+	<l id="1378" syll="6" part="i">J'ai fait de vains efforts....</l>
+<stage type="show">Voyant Amestris.</stage>
+	<l id="1378" syll="6" part="f">Ciel ! Que vois-je ? À cette heure,</l>
+	<l id="1379">Madame, du repos vous fuyez la douceur ?</l>
+	<l id="1380" syll="6" part="i">Pardonnez ma surprise...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1380" syll="6" part="f">À votre aspect, Seigneur,</l>
+	<l id="1381">Du même étonnement pourrais-je être frappée ?</l>
+	<l id="1382">Non : des Athéniens votre âme est occupée ;</l>
+	<l id="1383">Vous méditez leur perte... et déjà tant de fois</l>
+	<l id="1384">Contre eux Lacédémone emprunta votre voix !</l>
+	<l id="1385">Sa haine est implacable : elle doit les atteindre.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1386">Votre père pour eux est encor plus à craindre, </l>
+	<l id="1387">Madame... Un autre soin conduit ici mes pas :</l>
+	<l id="1388">Mais j'ignore vos voeux et ne m'explique pas.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1389">C'est peu que les vaincus soient courbés sous leurs chaînes ;</l>
+	<l id="1390">Sparte veut effacer le nom même d'Athènes :</l>
+	<l id="1391">Et cet espoir, Seigneur, vous amène en ces lieux.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1392">J'ai servi mon pays contre un peuple orgueilleux :</l>
+	<l id="1393">Il tombe, et je voulais préserver ce rivage</l>
+	<l id="1394">Des dangereux débris qu'y porte son naufrage.</l>
+	<l id="1395">Mais, loin d'être enflammé d'une lâche fureur,</l>
+	<l id="1396">De ces Grecs fugitifs je plaignais le malheur :</l>
+	<l id="1397">Et s'ils étaient trahis, je songe à les défendre.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1398">Est-ce vous que j'entends, lieutenant de Lysandre ?</l>
+	<l id="1399">Sparte les a proscrits : quoi ! Vous, les protéger ?</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1400">Je les ai combattus aux jours de son danger.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1401">Vous devez seconder le courroux qui l'anime.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1402">Non : le devoir finit où commence le crime.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1403" syll="6" part="i">Généreux ennemi !</l>
+<stage type="loud">Haut.</stage>
+	<l id="1403" syll="6" part="f">Eh bien, Seigneur... Grands Dieux !</l>
+<note type="C">(41)</note>
+	<l id="1404">Quelle clarté soudaine a donc frappé mes yeux ? </l>
+<stage type="light">Le fond du théâtre, à gauche, doit être éclairé de manière a présenter la réverbération d'un incendie.</stage>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1405" syll="6" part="i">Des feux brillent dans l'ombre.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1405" syll="6" part="f">Ô fatale imprudence !</l>
+	<l id="1406" syll="6" part="i">C'est au palais des Grecs.</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1406" syll="6" part="f">Quelle horrible vengeance !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1407" syll="6" part="i">Ô ciel ! Alcibiade...</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1407" syll="6" part="f">Il faut le secourir !</l>
+<stage type="exit">Il sort.</stage>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1408">Théone, suis mes pas : le sauver ou mourir !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Amestris, Théone, Pharnabaze, Gardes.
+</stage>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1409" syll="3" part="i">Amestris !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1409" syll="3" part="m">Dieux ! Mon père !...</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1409" syll="6" part="f">Est-ce ici votre place ?...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1410">Ah ! Je tombe mourante à vos pieds que j'embrasse.</l>
+	<l id="1411" syll="6" part="i">Seigneur, sauvez les Grecs !</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE.</speaker>
+	<l id="1411" syll="6" part="f">Je connais leur danger:</l>
+	<l id="1412" syll="2" part="i">J'y cours.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1412" syll="10" part="f">Voyez les feux prêts à les dévorer !</l>
+	<l id="1413">Est-ce à les secourir que la garde s'empresse ?...</l>
+	<l id="1414" syll="6" part="i">Je ne vous quitte plus.</l>
+</sp>
+<sp who="PHARNABAZE"><speaker>PHARNABAZE</speaker><stage type="toward">, aux Gardes.
+	</stage>
+	<l id="1414" syll="6" part="f">Retenez la princesse.</l>
+</sp>
+</div2>
+<div2 type="type" n="4"><head>SCÈNE IV.</head><stage> Amestris, Théone, Gardes dans le fond.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1415">Mon père !... Je succombe à mon affreux tourment !...</l>
+<stage type="sad">Avec égarement.</stage>
+	<l id="1416">Mais que dis-je ?... Mes voeux appelaient ce moment ;</l>
+	<l id="1417">Et mon coeur, déchiré d'une horrible souffrance,</l>
+	<l id="1418">Naguère avec ardeur invoquait la vengeance :</l>
+	<l id="1419">Les dieux m'ont entendue... Elle s'offre à mes yeux !...</l>
+	<l id="1420">Où courent ces soldats ?... À la lueur des feux</l>
+	<l id="1421">Je vois briller le fer, instrument du carnage...</l>
+	<l id="1422">Mon père est à leur tête : il excite leur rage,</l>
+	<l id="1423">Et les débris des Grecs, aux flammes échappés,</l>
+	<l id="1424">De lâches meurtriers vont être enveloppés.</l>
+	<l id="1425">Pourquoi frémir ?... C'est moi qui tremble pour leur vie !</l>
+	<l id="1426">N'ai-je pas de mon père excité la furie ?...</l>
+	<l id="1427">Oui, je les ai perdus ! Et s'il est leur bourreau,</l>
+	<l id="1428">J'allumai dans ses mains le funeste flambeau !</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE.</speaker>
+	<l id="1429">Eh quoi ! D'Alcibiade oubliez-vous le crime,</l>
+	<l id="1430">Quand de sa perfidie il va tomber victime ?...</l>
+	<l id="1431">Mais, Madame, quelqu'un porte vers nous ses pas ;</l>
+	<l id="1432">C'est Cléarque ; une femme est mourante en ses bras.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1433">Dieux ! Serais-je vengée, et vois-je ma rivale ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Callias, blessé, et Cléarque, l'épée à la main, apportent Hypparette, évanouie ; Amestris, Théone, Gardes dans le fond.
+</stage>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE</speaker><stage type="sit/toward">, après avoir placé Hypparette sur un fauteuil, à Amestris.
+	</stage>
+	<l id="1434">Au milieu des forfaits de cette nuit fatale,</l>
+	<l id="1435">Où trouver des secours contre leurs assassins ?...</l>
+	<l id="1436">Je viens à vous, Madame, ignorant vos desseins...</l>
+	<l id="1437">J'implore d'Amestris le noble caractère :</l>
+	<l id="1438">Sauvez d'Alcibiade et l'épouse et le frère !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1439">Son épouse ! Et lui-même, est-il abandonné ?</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1440">De feux et d'ennemis il est environné :</l>
+	<l id="1441">Il combat en héros, et je cours le défendre.</l>
+<stage type="exit">Cléarque sort.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Les précédents, excepté Cléarque.
+</stage>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1442" syll="3" part="i">Il combat !...</l>
+<stage type="help/watch">Théone aide Callias à secourir Hypparette ; Amestris la regarde fixement.</stage>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1442" syll="9" part="f">Ô ma soeur !... Ne peux-tu donc m'entendre,</l>
+	<l id="1443" syll="4" part="i">Chère Hypparette ?...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1443" syll="2" part="m">Ô ciel !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1443" syll="6" part="f">Quel coup affreux du sort !</l>
+	<l id="1444">Ton frère infortuné t'a conduite à la mort !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1445">Dès longtemps Hypparette a fini sa carrière,</l>
+	<l id="1446" syll="2" part="i">Seigneur ?</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1446" syll="4" part="m">Vous la voyez.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1446" syll="6" part="f">Ô tardive lumière !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1447">Toujours fidèle et tendre, elle accourait... grands Dieux!</l>
+	<l id="1448">À peine elle a revu son époux malheureux !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="toward">, à Théone.
+	</stage>
+	<l id="1449" syll="3" part="i">Hypparette !</l>
+<stage type="awake">Hypparette reprend ses sens.</stage>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1449" syll="3" part="m">Elle vit !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1449" syll="6" part="f">Suis-je assez criminelle,</l>
+	<l id="1450" syll="3" part="i">Théone ?...</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1450" syll="9" part="f">Alcibiade !... Ah ! Viens.... ma voix t'appelle :</l>
+	<l id="1451">Ne nous séparons plus !.... Redis ces mots si doux ;</l>
+	<l id="1452" syll="4" part="i">J'ai tant souffert !...</l>
+<stage type="watch">Voyant Caillas.</stage>
+	<l id="1452" syll="6" part="f">Mon frère, où donc est mon époux ?</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="1453" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1453" syll="10" part="f">Des dieux enfin la colère est lassée...</l>
+	<l id="1454">Mais cependant quel songe a troublé ma pensée ?...</l>
+	<l id="1455">Callias, j'ai cru voir des flammes, des bourreaux :</l>
+	<l id="1456">On inventait pour nous des supplices nouveaux !...</l>
+	<l id="1457">Cet affreux souvenir malgré moi se réveille :</l>
+	<l id="1458">Malheureuse !... Des cris ont frappé mon oreille !</l>
+	<l id="1459">Quelle clarté funeste !.... Ah ! Ton sang coule encor,</l>
+	<l id="1460">Et l'aspect d'Amestris me révèle mon sort !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1461" syll="3" part="i">Madame...</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="toward">, à Amestris.
+	</stage>
+	<l id="1461" syll="9" part="f">Quel espoir suspend votre furie ?</l>
+	<l id="1462">Qu'attendez-vous ?... Frappez : arrachez-moi la vie !...</l>
+	<l id="1463">Ô pitié d'un héros ! Pourquoi me secourir ?</l>
+	<l id="1464">Avec Alcibiade au moins j'allais mourir !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS</speaker><stage type="toward">, à elle-même.
+	</stage>
+	<l id="1465">Fut-il jamais, grands Dieux ! Un plus affreux supplice ?</l>
+<stage type="toward">À Hypparette.</stage>
+	<l id="1466">Non, de tant de forfaits mon coeur n'est point complice !</l>
+	<l id="1467">Et pour Alcibiade, en ces moments d'horreurs</l>
+	<l id="1468">Je partage vos voeux, votre effroi, vos douleurs !</l>
+	<l id="1469">Hypparette, au tombeau je vous crus descendue...</l>
+	<l id="1470">Rivale infortunée et trop tard reconnue !</l>
+	<l id="1471">Alcibiade, hélas ! Dut être mon époux ;</l>
+	<l id="1472">Vos tourments sont les miens... Je l'aime comme vous.</l>
+</sp>
+<sp who="THÉONE"><speaker>THÉONE</speaker><stage type="show/location">, montrant le fond du théâtre.
+	</stage>
+	<l id="1473" syll="2" part="i">Madame...</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1473" syll="4" part="m">Il est sauvé !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1473" syll="1" part="m">Dieux !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1473" syll="5" part="f">Vers nous il s'avance,</l>
+	<l id="1474" syll="6" part="i">Mais faible, tout sanglant...</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1474" syll="6" part="f">Laisse-nous l'espérance !</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les précédents, Alcibiade, soutenu par Cléarque et Proxènes. 
+</stage> 
+<sp who="HYPPARETTE"><speaker>HYPPARETTE</speaker><stage type="run/toward">, courant à Alcibiade.
+	</stage>
+	<l id="1475" syll="3" part="i">Cher époux !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE</speaker><stage type="low">, d'une voix faible.
+	</stage>
+	<l id="1475" syll="3" part="m">Hypparette !...</l>
+<stage type="">Montrant Cléarque et Proxènes.</stage>
+	<l id="1475" syll="6" part="f">Ils ne m'ont point trompé !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1476">À quel affreux péril je te vois échappé !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1477" syll="2" part="i">Seigneur...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1477" syll="10" part="f">Ciel !... Amestris !... Vous que j'ai tant aimée,</l>
+	<l id="1478">Apaisez-vous : voyez finir ma destinée !</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1479" syll="3" part="i">Ah cruel !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1479" syll="9" part="f">Non, mon coeur ne vous accuse pas,</l>
+	<l id="1480">Et le seul Pharnabaze ordonna mon trépas.</l>
+	<l id="1481">Vous vouliez à ses coups dérober sa victime,</l>
+	<l id="1482">Amestris ; mais toujours j'ai douté de son crime.</l>
+	<l id="1483">Je meurs assassiné... Peut-être que les Dieux</l>
+	<l id="1484">Devaient à mon courage un sort plus glorieux :</l>
+	<l id="1485">De plus nobles combats devaient trancher ma vie...</l>
+	<l id="1486">Je meurs... un joug pesant accable ma patrie !...</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1487" syll="6" part="i">Ô regrets d'un héros !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1487" syll="6" part="f">Songez à la revoir :</l>
+	<l id="1488">La servir est toujours votre premier devoir ;</l>
+	<l id="1489">Ses fers seront brisés ! Conon vous reste encore :</l>
+<note type="C">(42)</note>
+	<l id="1490">Il trouve un sûr asile à la Cour d'Évagore ;</l>
+	<l id="1491">Et, seul des généraux par Lysandre surpris,</l>
+	<l id="1492">De leur défaite en Chypre il sauve les débris.</l>
+	<l id="1493">Évagore, d'Athènes embrasse la querelle ;</l>
+	<l id="1494">Descendant de Teucer et des rois le modèle,</l>
+	<l id="1495">Ce prince généreux aidera vos efforts,</l>
+	<l id="1496">Et l'espoir du succès me suivra chez les morts !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1497" syll="6" part="i">Vis pour vaincre avec eux.</l>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1497" syll="6" part="f">Vivez pour Hypparette !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1498">C'en est fait : du tyran la rage est satisfaite.</l>
+<stage type="toward">À Proxènes et Caillas.</stage>
+	<l id="1499">Ne craignez plus ses coups qu'il prétendait cacher,</l>
+	<l id="1500">Il prépare pour moi les honneurs du bûcher !</l>
+<stage type="toward">À Cléarque.</stage>
+	<l id="1501">Ennemi généreux, dont la vertu sublime</l>
+	<l id="1502">Brille d'un nouveau lustre à côté d'un grand crime !</l>
+<stage type="show">Montrant Hypparette.</stage>
+	<l id="1503">Vous l'avez arrachée au plus affreux trépas...</l>
+<stage type="show">Montrant aussi Amestris.</stage>
+	<l id="1504">Je vois couler leurs pleurs... Je mourrai dans leurs bras !</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1505">Pour sauver aujourd'hui l'honneur de ma patrie</l>
+	<l id="1506">C'est peu de mes secours : j'aurais donné ma vie.</l>
+	<l id="1507">Je vais m'unir pour elle, au bout de l'univers,</l>
+	<l id="1508">Aux destins de Cyrus... peut-être à ses revers !...</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+<note type="C">(43)</note>
+	<l id="1509">De lâches trahisons que les dieux vous défendent !... </l>
+	<l id="1510">Mais sur moi du trépas les ombres se répandent :</l>
+	<l id="1511">Quel froid glace mes sens !... À peine je vous vois...</l>
+	<l id="1512">Hypparette... Amestris... Approchez-vous de moi !</l>
+</sp>
+<sp who="HYPPARETTE"><speaker>HYPPARETTE.</speaker>
+	<l id="1513">Ton épouse fidèle au tombeau va te suivre !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1514">Songe aux malheurs d'Athènes et promets-moi de vivre.</l>
+	<l id="1515">Ose élever ta voix contre ses oppresseurs.</l>
+</sp>
+<sp who="PROXÈNES"><speaker>PROXÈNES.</speaker>
+	<l id="1516">Veuve de son héros, cherchez-lui des vengeurs !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1517">Quel souvenir cruel ce moment me rappelle !</l>
+<note type="C">(44)</note>
+	<l id="1518">Ma patrie... Ah ! Mon bras a combattu contre elle !</l>
+</sp>
+<sp who="CALLIAS"><speaker>CALLIAS.</speaker>
+	<l id="1519">Un triomphe éclatant racheta votre erreur ;</l>
+	<l id="1520" syll="6" part="i">Songez à vos lauriers !</l>
+<stage type="pain">Alcibiade lutte contre la mort.</stage>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1520" syll="6" part="f">Ô spectacle d'horreur !</l>
+	<l id="1521">Tu vas mourir... c'est moi qui t'arrache la vie !</l>
+</sp>
+<sp who="ALCIBIADE"><speaker>ALCIBIADE.</speaker>
+	<l id="1522">Vous étiez adorée... Et vous crûtes trahie,</l>
+	<l id="1523">Amestris !... De mon sort n'accusez que les Dieux...</l>
+<stage type="toward">À Hypparette.</stage>
+	<l id="1524">Que ma cendre repose auprès de nos aïeux,</l>
+	<l id="1525" syll="4" part="i">Chère Hypparette !...</l>
+</sp>
+<sp who="CLÉARQUE"><speaker>CLÉARQUE.</speaker>
+	<l id="1525" syll="2" part="m">Il meurt !</l>
+<stage type="kneel/watch">Hypparette reste à genoux, penchée sur le corps d'Alcibiade.</stage>
+</sp>
+<sp who="AMESTRIS"><speaker>AMESTRIS.</speaker>
+	<l id="1525" syll="6" part="f">Et je soutiens la vue</l>
+	<l id="1526">De l'horrible vengeance où je suis parvenue ?...</l>
+	<l id="1527">D'Alcibiade, épouse, amis désespérés,</l>
+	<l id="1528">Il n'est plus : j'ai frappé celui que vous pleurez !</l>
+	<l id="1529">Oui, d'un tyran cruel j'enflammai la colère</l>
+	<l id="1530">Ô comble de douleurs !... Ce barbare est mon père !....</l>
+	<l id="1531">Théone, s'il m'aimait, si son coeur peut encor</l>
+	<l id="1532">M'accorder un regret, éprouver un remord,</l>
+	<l id="1533">De ces infortunés qu'il respecte la vie,</l>
+	<l id="1534">Et pleure le forfait dont je me suis punie !</l>
+<stage type="suicide">Elle se tue.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+<bottom>
+<div type="notes"><head>NOTES</head>
+<div1 type="acte" n=""><head>ACTE I.</head>
+<div2 type="" n=""><head>SCENE I.</head>
+	<p>(1) De Lysandre vainqueur ignorez-vous l'arrêt ?</p>
+	<p>« Après la bataille d'iEgos-Potamos, Lysandre, général des Lacédémouiens, alla avec sa flotte dans toutes les villes maritimes , et il ordonnait, sous peine de mort, aux Athéniens qui s'y trouvaient de se retirer au plus tôt dans Athènes. » Cet ordre avait pour principal objet d'affamer la ville pendant le Siège. (Histoire ancienne, par ïloilin, édition in-i2, Paris, 1737, tome 4, page 87.)</p>
+	<p>(2) De Potamos le funeste rivage, etc.</p>
+	<p>La bataille navale qui décida du sort d'Athènes, et mit fin à la guerre du Péloponnèse, fut donnée sur i'IIe)lr;spont, près d'un lieu nommé-'Egos-Potamos, en face de Lampsaque, où le détroit n'a pas deux mille pas de largeur. La flotte athénienne, composée de cent quatre-vingts galères, était commandée par dix généraux nommés après l'cxii d'Alcibiade. Ils présentèrent la bataille pendant quatre jours consécutifs à Lysandre, gênéral lacédémonien, dont les galères étaient rangées dans le port de Lampsaque, les proues tournées vers l'ennemi, mais qui ne fit aucun mouvement pour accepter le combat. Lysandre, par cette feinte timidité, augmenta de beaucoup la confiance et l'audace des Athéniens, leur inspira un grand mépris pour lui et pour son armée, et porta au comble la négligence de leurs généraux. Chaque soir les soldats athéniens descendaient à terre, laissant les galères presque vides, et se répandaient dans la campagne.</p>
+	<p>« Alcibiade, qui était près de là, montant à cheval, vint trouver les généraux athéniens, et leur représenta qu'ils se tenaient sur une côte fort désavantageuse, où ils n'avaient ni ports, ni villes voisines.... ;,qu'ils avaient grand tort de souffrir que les gens de l'équipage, dès qu'ils étaient à terre, s'éloignassent chacun de son côté, pendant qu'ils voyaient vis à vis d'eux une flotte ennemie accoutumée à une prompte obéissance.</p>
+	<p>Il offrait même de venir attaquer par terre les ennemis, avec de nombreuses troupes de Thraee. Les généraux, jaloux du commandement, ne se contentèrent pas de refuser ses offres, dans la pensée que si le succès des armes était malheureux, tout le blâme en retomberait sur eux, et que, s'il était favorable, Alcibiade en aurait tout l'honneur; mais ils rejetèrent encore avec insulte des conseils si sages et si salutaires.</p>
+	<p>Alcibiade se retira.</p>
+	<p>« Le cinquième jour, les Athéniens se présentèrent encore pour donner la bataille, et s'éloignèrent le soir avec des airs encore plus insultans que les premiers jours. Lysandre détacha quelques galères pour les observer, avec ordre de. retourner en diligence dès qu'ils auraient vu les Athéniens descendre à terre, et d'élever sur chaque proue un bouclier d'airain. A ce signal, toute la flotte lacédémonienne partit, et le détroit fut bientôt franchi par les efforts et la diligence des rameurs. Les galères athéniennes furent surprises presque sans défense ; Conon, l'un des généraux athéniens, parvint à s'échapper, et se retira en Chypre, à la cour d'Évagore, roi de Salamine, avec neuf galères, au nombre desquelles était la paralienne, ou galère sacrée. Lysandre prit tous les autres généraux, et se rendit maître du reste de la flotte. Bientôt après il entra victorieux dans Athènes, qu'il réduisit par famine , et en fit abattre les murailles. Ainsi finit la guerre du Péloponnèse, qui avait duré vingt-sept ans. » (Rollin, tom. 4; pag. 80 et suivantes. )</p>
+	<p>(3) Véritable Protee, à vos yeux tour-à-tour Il servira Beltone, et Minerve, et l'Amour, etc. Ce portrait d'Alcibiade est entièrement historique. Voyez Plutarque, Hommes illustres; Rollin, tom. 3, pag. 634-644; 680-681 ; et tom. 4, pag. 110 et 111.</p>
+	<p>(4) Nos guerriers sur ses pas vont chercher en Sicile Une conquête injuste et des périls certains. Dès le temps de Périclès, les Athéniens avaient pensé à conquérir la Sicile. Alcibiade, flattant les voeux et l'ambition du peuple, décida cette expédition, et fut nommé l'un des trois généraux qui devaient la commander ; mais accusé de sacrilège au moment du départ de la flotte, forcé de s'embarquer sans avoir pu obtenir d'être jugé, condamné aussitôt après son arrivée en Sicile, et forcé de se réfugier à Lacédémone, Alcibiade laissa à ses collègues (Nicias et Lamachus, puis Démosthène) la conduite d'une guerre qui eut pour résultats la défaite entière de l'armée et la mort des généraux athéniens. (Histoire ancienne, tom 3 , pag. 642 , 663 , 704 et suivantes. )</p>
+	<p>(5) Timon le misanthrope a prévu ses deslins. « Timon le Misanthrope ayant rencontré un jour Alcibiade très content de se voir généralement honoré par le peuple, qui le reconduisait en foule ; loin de l'éviter comme il évitait tout le monde, il alla au-devant de lui, et lui tendant la main : » Courage, mon fils, lui dit-il, tu fais fort bien de l'agrandir « et de t'élever : car c'est pour la ruine de tout ce peuple. » (Ibid. tom. 3, pag. 6440</p>
+	<p>(6) Du seul Alcibiade excusant la licence, Applaudissait en foule à sa magnificence. « Les dons gratuits, les iiberalitez et despenses magnificques qu'il faisoit pour donner passe-tems au peuple, si grandes qu'il n'estoit possible de plus ; la glorieuse mémoire de ses ancestres, la grâce de son éloquence, la beaulté de sa personne, la force de corps et hardiesse conjoincte avec bon sens et expérience au faict de la guerre, estovent causes qu'on luy permettoit toutes choses, et que les Athesniens enduroyent toutes ses insolences , en desguisant et adoulcissant des plus gracieux noms qu'ils pouvoient les fautes qu'il faisoit. » ( Plutarque , traduction d'Amyot.)</p>
+	<p>(7) Il fait plus, il vous sert; l'inexorable histoire Imprime pour toujours cette tache à sa gloire. Quand Alcibiade apprit que tous ses biens étaient confisqués , que les prêtres et les prêtresses avaient reçu l'ordre de le maudire, et qu'il avait été condamné à mort par les Athéniens : « Je leur ferai bien voir, dit-il, que je suis en vie. » Il se retira à Sparte, ennemie d'Athènes, et y fut reçu à bras ouverts. Quelque temps après il se rendit en Asie avec une flotte lacédémonienne , et devint très puissant auprès de Tissapherne , satrape persan , gouverneur de la Lydie et de l'Ionie , dont il g3gna entièrement l'esprit par le charme de sa conversation et par ses flatteries. Il prit plusieurs villes alliées des Athéniens, et leur causa de grandes pertes. Rien ne se faisait que par son avis, et l'on disait communément qu'il faisait réussir tout ce qu'on entreprenait. Mais ses succès même lui attirèrent de dangereux ennemis parmi les plus puissans et les plus ambitieux des Spartiates, en excitatit leur jalousie. Ils partagèrent bientôt la haine qu'avait vouée à Alcibiade le roi Agis, dont il avait séduit la femme pendant son séjour à Lacédémone ; et des ordres furent donnés secrètement pour le faire périr. Alcibiade se tint sur ses gardes, se mit plus que jamais dans les bonnes grâces de Tissapherne , et autant pour sa propre sûreté que par amour pour sa patrie, qu'il regrettait vivement au fond du coeur, il commença à rendre de mauvais offices aux Spartiates, près de Tissapherne. Cependant de grands changements avaient lieu à Athènes. Quatre cents citoyens y furent revêtus de toute l'autorité, dont ils abusèrenttyranniquement. A peine cette nouvelle fut-elle parvenue à Samos, principale place d'armes des Athéniens en Asie, et où ils avaient toutes leurs forces, que l'armée se souleva, déposa les chefs qui lui étaient suspects, et rappela Alcibiade , qui fut nommé généralissime. ( Histoire ancienne , tom. 3, p. 677, et tom. 45 pag- 6-25.) (S) Et tl'Açis notre rui le lit de'shonore'. Ainsi qu'on l'a dit ci-dessus, Alcibiade séduisit Timoea, femme du roi Agis; il en eut un fils, nommé Léotychides , qui fut désavoué par Agis, et dans la suite privé de la succession au trône. (Plutarque, Vie d'Alcibiade.)</p>
+	<p>(9) Proconnèse} Abydos , lieux chers à ma patrie ! Les quatre cents ayant été déposés par le peuple, et Alcibiade rappelé, il ne voulut retourner à Athènes qu'après des exploits éclatans. Il fit voile vers l'Hellespont avec dix-huit vaisseaux , et arriva en face d'Abydos au moment où un combat naval était engagé entre les Athéniens et Mindarc, amiral de Sparte. Celui-ci avait l'avantage ; mais Alcibiade , par sa présence, ranima les Athéniens ; et malgré les secours que Pharnabaze, satrape de l'Hellespont, amena aux Spartiates, il mit leur flotte en désordre , la poussa contre terre, brisa plusieurs galères , en prit trente, et recouvra toutes celles que les Athéniens avaient perdues. Il se rendit ensuite auprès de Tissapherne avec un train magnifique et des présens fort riches; mais ce satrape, qui se voyait accusé par les Lacédémoniens, et qui craignait que le roi de Perse ne le punît enfin de n'avoirpas exécuté ses ordres, trouva qu'Alcibiade s'offrait à lui fort à propos , et le fit arrêter. Alcibiade parvint à s'échapper trente jours après, et, pour se venger de la perfidie de Tissapherne , il sema le bruit que c'était lui qui l'avait relâché. De retour à sa flotte, il se rendit à Proconnèse, petite île en face de Cvsique , où étaient Mindare et Pharnabaze. Alcibiade attaqua la flotte de Sparte, la défit, poursuivit à terre les fuyards, tua Mindare, qui combattait avec courage, et mit Pharnabaze en fuite.</p>
+	<p>(10) Il revint de l'exil : et l'on vit ses vaisseaux Traînant ceux des vaincus, couvrir au loin.les eaux. Par suite de la victoire de Proconnèse, Alcibiade prit Cysique, Calcédoine, Sélymbria, Byzance, etc.; et Pharnabaze, effrayé de ses succès , se hâta de traiter avec les Athéniens. Alois Alcibiade fit voile vers Athènes. • Tous ses vaisseaux étaient bordés de boucliers et de trophées ; et traînant après lui, comme en triomphe, un grand nombre de vaisseaux qu'il avait pris, il étalait encore les enseignes et les omemens de ceux qu'il avait brûlés, et qui étaient en plus grand nombre : les uns et les autres faisaient environ deux cents vaisseaux Le peuple était sorti en foule de la ville pour aller à sa rencontre. Dès qu'il parut, ce fureht;de. tous côtés des cris de joïe incroyables. Au milieu de ce nombrejnfini d'officiers et de soldats , tous les yeux étaient fixés sur lui=seul, et on le regàïdait comme descendu du ciel et comme la-Victoire même- Tous s'empressant autour de lui, le caressaient,'le bénissaient et le couronnaient à l'cnvi. Ceux qui ne pouvaient l'approcher ne se lassaient point de le contempler de lo;n, et: les vieillards le montraient à leurs enfans, etc., etc. « (Histoire; ancienne, tom. 4, pag- 27-38.)</p>
+	<p>(11) Et qu'un fatal exil, pour la seconde fois, Ait détruit en un jour le fruit .de ses exploits. Alcibiade retourna en Asie pour y continuer la guerre. Son départ n'ayant pas été immédiatement suivi d'actions aussi grandes et aussi éclatantes qu'on s'y attendait, l'enthousiasme des Athéniens se refroidit; « et l'on peut dire que ce furent sa propre gloire et sa réputation qui le ruinèrent. Car on le soupçonnait de n'avoir pas voulu faire tout ce qu'il n'avait pas fait, pareeque l'on était fortement persuadé que rien de tout ce qu'il voulait ne lui était impossible. » Alcibiade étant parti de Samos pour aller en lonie lever les tributs nécessaires pour payer ses troupps, il laissa le commandement de la flotte à un officier nommé Antiochus, avec défense de combattre en son absence. Mais ce nouveau commandant, pour faire parade de courage, alla jusque dans le port d'Éphèse braver Lysandre, général lacédémonien. Le combat s'engagea, Antiochus fut vaincu, et Lysandre prit quinze galères athéniennes. Alcibiade, à son retour, présenta vainement le combat à Lysandre, qui, satisfait de sa victoire, demeura dans le port. Les ennemis d'Alcibiade à Athènes redoublèrent alors d'audace, et ce peuple inconstant et léger ajouta foi à leurs accusations ; Alcibiade fut déposé, et l'on nomma à sa place dix généraux. Il se retira en Thrace. (Voyez ci-dessus, note 2, quelle fut la suite de ce second exil d'Alcibiade, la bataille d'iEgos-Potamos, etc.) Cependant le jeune Cyrus, gouverneur général de l'Àsie- Mineure, se préparait à détrôner son frère Artaxerce, roi de Perse. « Sous prétexte de porter la guerre en Thrace, il armait avec activité, et faisait rassembler un corps de troupes grecques par Cléarque, général lacédémonien Alcibiade démêla sans peine le secret des levées que faisait Cyrus. Il alla dans la province de Pharnabaze pour se rendre de là à la cour de Perse, et pour donner avis à Artaxerce de ce qui se tramait contre lui. » (Histoire ancienne, tom. 4&gt; Pag- 52 et 108. Voyez ei-après, note 21.)</p>
+	<p>(12) Depuis Xercès, tout l'art de notre politique Fut d'allumer la guerre entre Sparte et rAttique, etc. « Les rois de Perse n'osant plus attaquer ouvertement les Grecs, travaillèrent à les ruiner par une autre voie. Ils cherchèrent à exciter sous main parmi eux des divisions, à les fomenter par des sommes considérables qu'ils envoyaient tantôt à Athènes, tantôt à Lacédémone, et à balancer si bien les forces des deux républiques, que l'une.ne pût pas opprimer tout-à-fait l'autre, mais que toutes deux fussentgraduellement •affaiblies. » (Ibid. tom. 4, pag. so. )</p>
+	<p>(13) Si dans Suze, écoutant une ardeur téméraire Il a tenté sans fruit de détrôner son frère Darius, en mourant, choisit pour successeur Arsace, son fils aîné, qui prit le nom d'Artaxerce. C'est celui à qui les Grecs, à cause de sa mémoire prodigieuse, ont donné le surnom de Mnemon. Le jeune Cyrus, dévoré d'ambition, était au désespoir d'êne frustré pour toujours de l'espoir de régner, que lui avait donné sa mère, parccqu'il était né depuis l'avénement de Darius au trône. Il résolut d'égorger son frère dans le temple, au moment où il quitterait sa robe pour prendre celle du grand Cyrus (c'était l'une des cérémonies observées au sacre des rois de Perse). Artaxerce en eut avis par le prêtre même qui avait élevé son frère, et à qui ce jeune prince avait confié son dessein. Cyrus fut arrêté et condamné à mort. Sa mère Parysatis étant accourue, le prit dans ses bras, le lia avec les tresses de ses cheveux, attacha soi] cou au sien , et fit tant par ses cris, par ses larmes et ses prières , qu'elf- obtint sa grâce et qu'elle le fit renvoyerdans les provinces maritimes dont il avait le gouvernement. « Il y porta une ambition non moins ardente qu'auparavant, animée par le dépit de l'affront qu'il avait reçu et par un vif désir de vengeance, et armée d'un pouvoir presque sans bornes. » (Histoire ancienne, tom. 4; pag. 98-101.)</p>
+	<p>(14) Et dix mille guerriers, que la Grèce a vus naître, De combattre pour lui demandentlesignal. (Voyez ci-dessus,note n.) Tous ces détails sont historiques.</p>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+	<p>(15) Dans les débris sauvés de mon naufrage J'ai choisi ces présens : recevez-eu l'hommage. C'est dans les peinturesde moeurs, dans les couleurs locales et dans la vérité des détails historiques que j'ai cherché une grande partie de l'intérêt de ma pièce.</p>
+	<p>(16) Chez Tissapherne on voulut vous trahir (Voyezci-dessus, note 9. )</p>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+	<p>(17) Et le nom d'Amestris, que je reçus des dieux, Rappelle une'vengeance et des malheurs affreux. Voyez dans Rollin, tom. 3, pag. 297 et suivantes , les détails de l'horrible vengeance qu'Amestris, femme de Xercès , exerça sur sa belle-soeur, dont elle était jalouse.</p>
+ 	<p>(18) Pour belle-mère, enfin, j'aurais Parysatis? Parysatis, reine de Perse , était mère d'ArtaxerceMnemonet de Cyrus (voyez ci-dessus, note 13). Elle devint célèbre par sa cruauté. L'un de ses plus grands crimes fut l'empoisonaenient de la reine Statira, sa belle-fille, femme d'Artaxerce.</p>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+	<p>(19) Aux lieux où Thémistocle a terminé sa vie. « Thémistocle, proscrit par les Athéniens, se retira auprès du roi de Perse, Artaxerce Longuemain (voyez ci - après , note 34)- Ce prince l'établit dans l'Asie-Mineure, à Magnésie sur le Méandre, et lui donna les revenus considérables de cette ville et de celles de Myunte jet de Lampsaque. Thémistocle passa quelques années à Magnésie dans l'abondance et la splendeur ; mais le roi de Perse ayant voulu l'envoyer dans l'Attique à. la tête d'une nombreuse armée, Thémistocle, combattu entre la reconnaissance qu'il devait au roi et son amour pour sa patrie, que n'avait pu étouffer l'injustice de ses concitoyens, résolut, pour se délivrer de ce cruel e/nbarras, de mettre fin à sa vie; et après un sacrifice solennel, auquel il invita tous ses amis, il s'empoisonna. » (Histoire ancienne, tom. 3, pag. 356 et 372. )</p>
+	<p>(20) Ô Grèce infortunée! en ton erreur exU-êroe Quelle est donc ta constance à l'affaiblir toi-même? L'idée principale de cette scène m'a été fournie par les ré flexions de Rollin sur la paix d'Antalcide. (Histoire ancienne, tom. 4 j pag- 3o3 et suivantes. )</p>
+</div2>
+<div2 type="scene" n="1"><head>SCÈNE II.</head>
+	<p>(21) Sur ces bords étrangers cet espoir nous amène. Après là bataille diEgos-Polamos, « Alcibiadcs , redoublant les Lacédémoniens,qui lors sans contredict estoyent démolirez seigneurs de la mer et de la ferre, passa au pais de la Bythynie, faisant conduire après luy grande quantité de biens, et portant bonne somme d'argent quand et luy Si délibéra de se retirer devers le roy Artaserces.-.. non pas pour faire la guerre à ses citoyens et à son paîs ains au contraire en intention de requérir le roy qu'il'lu y pleust les secourir; et pensant que Pharnabazus , piûstôt que nul austre, luy doniieroit moyen de pouvoir aller seurerhent jusques à la cour du roy, il dressa son chemin devers luy au païs de la Phrygie, où il demoura quelque tems à luy faire la cour, estant aussv réciproquement honnoré et caressé par luy. » (Plutarque, traduction d'Amyot.)</p>
+	<p>(22) Et j'ai senti, Proxènes, Frémir le sang d'Ajax qui coule dans mes veines! « La race d'Alcibiadcs','ducosté de son père, estait anciennement descendue d'Eurysaces, qui feutfils d'Ajax. » (fbiil.)' Les ruines de Troie, voisines du lieu de la scène , m'ont fourni l'un de ces souvenirs antiques que l'on aime à retrouver dans les pièces grecques. *- * ;?.'; : D'un Ion;-; voiour , 6 Grecs ! yirévovf-z les misères ! Ui'wriïcz-vousjamais les tombeaux do \us peies? Ce« vers présagent la retraite dos dix mille, si bien décrite par Xéiionhun. cl si fameuse dans toute l'antiquité. « Longtemps après. Antoine, poursuivi par 1rs Parthes à-peu-près dans le mémo pavs , et se trouvant dans un pareil danger, s éoria, plein il ad iiraiion pour un courage si invincible : O retraite îles dix mille! » (Histoire ancienne, I. 4, p. 2i4- ) (? \) i!yp|iarrtte m'entend : et son ombre chérie ^ cille ;.nr nous, partage et nos soins et nos voeux. Hypparette. femme d'Alcibiade, était morte avant lui; mais j'ai senti combien ce rôle , en le contrastant avec celui d'Amestris, serait susceptible d'intérêt; et j'ai substitué cette épouse fidèle à la coin tisane Timandra, qui, selon Plutaïquo, fut témoin de la mort d'Alcibiade et lui rendit les derniers devoirs. ( Voyez ci-après , noie j î. ) « Il faut toujours, a dit l'un de nos auteurs les plus disti: .gués, qu'un poète soit créateur; il doit dominer tous ses sujets, les transformer, les disposer et, les orner à son gré. » (Notice sur JI. Trcneuil, par M. P.-F. Tissot. )</p>
+</div2>
+<div2 type="" n=""><head>SCÈNE III.</head>
+	<p>(25) Vi Atijarrr sans retour un ilivorrc filai , tf me sui-.re in ti imiiplir an palais tmj;:ial i. Cctle diitiie llvj'parettc estant lioimesfe et gardant loyaulté à son niary- eus', ilespil du tort qu'il luy faisoii d'entretenir plusieurs lullc.-i !cmines. tant de la ville mesme que des estraneaer--. tellement qu'elle sortit fie sa maison et s'en alla, chez son frère.... Or, fa!loii-il qu'elle portasl ello-mesnie au magistrat «on divorce par eseript. Pnurquoy y estant clle-mcsme allée pour se faire despartir d'avecqucs luy, selon que la loy l'ordonnoit, Alcibiadcs la saisit au corps et l'emporta à travers la place jusques en sa maison, sans que personne s'osast entremettre de l'en empêcher, ni la lui oster; elle y démolira jusques à sa mort, qui feut bientôt après, pendant un voyage que feit Alcibiadcs en la ville d'Éphèse. » ( Piutarquc, traduction d'Amyot. )</p>
+</div2>
+<div2 type="" n=""><head>SCÈNE VIN.</head>
+	<p>(26} ils brûlent de venger l'échec de Proconnf'sc. Voyez ci-dessus, à la no Le 9.</p>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+	<p>(27) Depuis que des autels au supplice traîné Theramcne , un des trente, est mort assassiné? Lysandre, après avoir pris par famine la ville d'Athènes, qui se rendit le jour même où les Athéniens avaient, gagné autrefois la bataille de Salamine, et après avoir fait démolir ses murailles au son des flûtes et des trompettes , y établit trente tyrans, et laissa dans la citadelle une forte garnison. « Ces tyrans, connus sous le nom des trente, excitèrent bientôt à Athènes d'affreuses cruautés. Sous le prétexte d'arrêter les séditions, ils s'étaient lait donner des gardes , avaient armé trois mille citoyens qui leur servaient de satellites, et avaient ôté les armes à tous les autres. Quiconque s'opposait à leur violence en devenait la victime : les richesses étaient un crime et attiraient à leurs maîtres une condamnation certaine, qui était toujours suivie de la mort et de la confiscation des biens, que les t\ rnns partageaient entre eux. ils firent mourir, dit Xénoplion . plus de gens en huit mois de paix , que les ennemis n'en avaient tué en trente ans de guerre. ii Les doux plus considérables d'entre les trente étaicntCritias et Thé: amène. Quand ce dernier, qui était honnête homme et qui aimait sa patrie, vit les violences et les cruautés où se portaient ses collègues, il se déclara ouvertement contre eux. Crilias devint alors son plus mortel ennemi. Il le dénonça dans le sénat, qu'il fit entourer de ses satellites armés de poignards pour le contraindre à condamner Théramène. Celui-ci se réfugia sur l'autel, en demandant aux Athéniens d cire jugé selon les lois; triais Critias l'en fit arracher et conduire au supplice. Socrate, seul de tous les sénateurs, osa , mais en vain, prendre sa défense. Théramène but la ciguë avec une tranquillité inaltérable , et en fit îles filiations au beau Critias. •&gt; (Rollin, tom. 4, pag. 114-117.) (-'.H) Athènes ; succombant pous le poliîs de l.jurs ciiinc?, ^ oyait ses citoyens fugitifs ou victimes. « Tout ce qu'il v avait alors à Athènes de citoyens un peu considérables, et qui conservaient encore quelque amour de la liberté, sortirent d'une ville réduite à uisa dîne et honteuse servitude, et allèrent chercher ailleurs un asile où ils pussent vivre en sûreté. Ils axaient à leur tète Thrasvbule, citoyen don rare mérite, et qui sentait avec une vive douleur les maux dt: sa patrie. Les Lacédémtinieris eurent l'inhumanité de vouloir iiter celte dernière ressource à ces malheureux fugitifs ; ils détendirent aux villes de la Grèce, par un édit public, de leur donner retraite; ordonnèrent qu'on les livrât aux trente. Ivrans, et condamnèrent à une amende de cinq talons quiconque s'opposerait à l'exécution de cet édit. Deux villes seules mépriseront une ordonnance si injuste, Mégare et l'hèbcs; et celle dernière fil un édit pour punir quiconque voyant un Athénien attaqué par ses ennemis, ne lui prêterait pas mainforte. « (Ibid. tom. 4, pag. 119)</p>
+	<p>(29) Le peuple les immole : et son libérateur Proclame dans nos murs l'oubli réparateur ! Voyez, sur l'entreprise courageuse de Thrasybule, sur la chute des trente tyrans, et sur l'amnistie qui en fut la suite , le tome 4 de l'Histoire ancienne, pag. 120-124.</p>
+	<p>(30) Le roi Pausanias, touché de nos revers, A borné sa vengeance à des menaces vaines. Pausanias, roi de Sparte (et collègue d'Agis), qui marcha alors contre Athènes, touché de compassion pour l'état où était réduite une ville autrefois si florissante, eut la générosité d'en favoriser secrètement les citoyens , et enfin leur procura la paix. (Ibid. tom. 4, pag- 122.)</p>
+	<p>(31) Que fait Socrate ? Alcibiade étaut l'ami et le disciple le plus illustre de Socrate, j'ai lié à mon sujet la mort de ce rJln'osophe célèbre. Les détails en sont tous puisés dans l'histoire, qui place vers la même époque la mort de Socrate et celle d'Alcibiade.</p> 	<p>(32) Mélitus l'accusa de mépriser les dieux.</p>
+	<p>Voyez l'histoire abrégée de Socrate, dans le quatrième volume de Rollin, pag. 346 et suivantes.</p>
+	<p>(33) Serait-ce Théano, qui seule osa se dire Prêtressepour bénir et non pas pour maudire? Lorsque le peuple d'Athènes condamna Alcibiade et ordonna à tous les prêtres et prêtresses de le maudire, « une seule de ces dernières , nommée Théano, eut le courage de s opposer à n4 NOTES. ee décret, disant qu'elle était prêtresse pour bénir et non pas pour maudire.. » (Ibid., t. 3, p. 677. )</p>
+</div2>
+<div2 type="" n=""><head>SCÈNE III.</head>
+	<p>(34) Tantôt aux magistrats que le hasard lui donne, etc. Le choix des sénateurs et des magistrats d'Athènes était confié au sort, pour lequel on se servait de fèves blanches et noires. Chaque tribu fournissait les noms des aspirans qui avaient le revenu déterminé par les lois, et qui étaient âgés d'au moins trente ans. (Ibid.. tom. 4) pag- 510.)</p> 	<p>(35) Thémistocle proscrit, jadis fuyant la Grèce, etc. Poursuivi par les Athéniens et les Lacédémoniens, Thémistocle se réfugia en Éolie, dans l'Asie-Mineure. Le roi de Perse avait promis deux cents talen's à qui le lui livrerait, et toute la côte était pleine de gens qui l'observaient pour le prendre. Connu seulement de son hôte Sicogène, il en obtint une bonne escorte, et se rendit en sûreté à Suze, dans un de ces chariots couverts domines Perses, qui étaient fort jaloux, se servaient pour conduire leurs femmes Le roi de Perse, admirant la hardiesse de Thémistocle, lui fit un aceneil très favorable et le combla de biens. (Histoire ancienne, tom. 3 , p. 35i et suivantes.).</p>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+	<p>(36) Vos vaisseaux approchaient : le peuple avec transport Célébrant vos exploits, s'élance vers le port. Voyez ci-dessus, note 10.</p>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="" n=""><head>SCÈNE I.</head>
+	<p>(37) Bientôt tes murs déserts, tes temples abattus... Oui, quelquesjours encore, et tu ne seras plus. Athènes , démantelée par Lysandre, à peine délivrée da joUg destructeur des trente tyrans, et sous la dépendance de Sparte, était alors bien près de sa ruine.</p>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+	<p>(38) On apporte, seigneur, cet écrit de Lysandre. Lysandre n'écrivit à Pharnabaze de faire périr Alcibiade, qu'après s'en être fait donner l'ordre formel par les magistrats de Sparte; non qu'il craignît de se souiller de ce crime, mais seulement pour plus de sûreté : car l'histoire le représente comme profondément corrompu, rempli d'orgueil, d'ambition et de perfidie. C'est lui qui avait coutume de dire qu'on amusait les enfans avec des osselets, et les hommes avec des sermens. On eût pu mettre sur son tombeau, comme depuis sur celui de Syllaj que' personne ne l'avait surpassé à. faire du bien a ses amis, ni à faire du mal a ses ennemis. (Plutarque, Vie d!Alcibiade ; Histoire ancienne, tom. 4, pag. 77 et 129. )</p>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+	<p>(39) Et les fils de Lycurgue ont appris à trahir!... « La lettre écrite à Pharnabaze pour faire périr Alcibiade fut une noire lâcheté qui ne peut s'excuser, et qui montre combien Sparte avait dégénéré de ses anciennes moeurs. » (Histoire ancienne, t. 4, pag. 109.) 116 N 0 7 I". S.</p>
+	<p>(40) De? vaincus, an nu nris ilt- nu.-- lnis iimnovif lies. Lui nous est appui H' par ili:;) mains criminelles. Lysandre, avant de revenir victorieux à Sparte, avait envoyé devant lui (fvlippe pour y porter l'argent et Je- dépouilles de ses ennemis. L'argent, sans compter les couronnes d or sans nombre que les villes lui avaient données, moulait à i uoo talons (environ },5oo.ooo IV. jG\ lippe, porieur dune somme si considéiahle, ne put résister à la tentation de s'en approprier une partie, ce qu'il lit en décousant par le fond les sacs, qui étaient scellés, et en les recousani ensuite. Mais les bordereaux qui étaient dans chaque sac le décelèrent ; et, pour éviter le supplice, il se bannit lui-même de Sparte. Ce Gylippc était le même qui avait vaincu les Athéniens en Sicile ; il ternit ainsi la gloire de toutes ses belles actions. Sur ce fâcheux exemple, les plus sages des Lacédémoniens blâmèrent extrêmement Lysandre de vouloir donner ainsi atteinte aux lois fondamentales de Sparte; à leur demande, les éphorcs rendirent un décret qui défendait l'or et l'argent, et ne permetla.it que la monnaie de fer depuis long - tems en usage. ?&gt;fais les amis de Lysandre parvinrent à laite changer ce décret; on ordonna que lot" et l'argent auraient cours seulement pour les affaires de l'état, et que tout particulier qui s'en trouverait saisi serait mis à mort. Vovez à ce sujet les réflexions de l'hilarque, rapportées dans le quatrième volume de l'Histoire ancienne . pag. pô cl 9(1. À(;'N'] Y.</p>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+	<p>(41) Quelle clai'le Milttiaille a '!"!n lï.ijipi/ n;r, vr;,\? Voici ce que 1 hisioire ma inurni sur la mort d Alcibiade: « Or estoil pour lors Aleibiado.3 en im certain bourg de la i'-itryNOTES. gie, ayant aveeques lui une sienne concubine, qui s'appelait Tiinaudra Ceux qui feurenl envoyez pour le tuer n'eurent pas la hardiesse d'entrer dedans la maison où il estoit, ains meirent le feu lotit à l'entour; et luv, soudain qu'il en ouyt le bruict,.... enlortilla son manteau à l'entour de son bras gauche, prinl son espéc nue en la main droic-te, et se jeeta hors de la maison sans que le l'eu lui feist aucun mal Les barbares, sitost qu'ils rapperecureut, se tirèrent en arrière et s'escarièivni., et n'y eu eut pas un qui l'osast attendre ny le joindre de près pour le combattre; niais de loing luy tirèrent tant de coups de dard et de trait , qu'ils le tuèrent en lit place. Quand ils se ièureut relirez, Timandra alla prendre le corps.... et luv donna la sépulture le plus honorablement qu'il lui font possible. » (Plutarque, traduction d'Amyot.)</p>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+	<p>(42) Conon vous reste encore : 11 trouve un sur asile à la cour d'Evagorca Évagore régnait alors à Salanùno, capitale de file de Chypre. Il descendait de Teuccr le Salaininien , qui, au retour de la guerre de Truie, avait bâti cette ville et fui avait donné le nom de sa patrie. Kvagore était le prince le plus vertueux de son temps : Isoerate en a fait un pompeux éloge. Après la bataille d'/Egos-Potamos , Conou, général athénien, sciait retiré près de lui, et il se forma bientôt entre eux une étroite amitié. Évagore ne contribua pas peu , par le crédit qu'il avait près du roi de Perse, à faire nommerConon général do sa fiotle lorsqu'il déclara la guerre aux Lacédémonicns. La célèbre victoire que Conon remporta sur eux près de Cnidos en fut la suite, et porta un coup mortel à la puissance de Sparte. Conon victorieux se rendit à Athènes. « Le triste état où il trouva cette villeaulrefois si florissante, lui causa plus de douleur qu'il ne ressentit de joie de revoir sa chère patrie après tant d'années. Il ne perdit point de tems, et commença aussitôt l'ouvrage , y employant, outre l'es ouvriers ordinaires, les soldats , les matelots ,-léscitôyens, les alliés, etc la Providence voulant que cette ville .brûlée anciennement par les Perses , fût rebâtie alors de leurs propres mains, cl qu'avant été démantelée et démolie parles Lacédémoniens, elle fut rétablie de leurs propres deniers et des dépouilles qu'on avait prises sur eux. u (Rollin, t. 4, p. 297.)</p> 	<p>(43) De lâches trahisons que les dieux vous défendent!... Après la bataille de Cunaxa , livrée, non loin de Babylonc, entre Artaxerce et Cyrus, et dans laquelle Ce dernier fut tué , les dix mille Grecs qui l'avaient suivi sous le commandement de Cléarque, et qui avaient triomphé de l'aile gauche de l'armée d'Artaxerce qui leur était opposée, obtinrent une capitulation honorable; et Tissapherne fut chargé de les reconduire dans leur patrie. Mais ce satrape arrêta par trahison Cléarque et quairc autres généraux grecs , qu'il fit mourir. Les successeurs que leur choisit cette petite armée entreprirent et exécutèrent, à travers mille dangers, cette mémorable retraite dont Xénophon, l'un d'eux, a écrit l'histoire.</p>
+	<p>(/43) Ma patrie!... ail ! mon bras a combattu contre elle! Alcibiade rappelle ici l'époque où, pendant son premier exil, il servit les Lacédémoniens contre Athènes.</p>
+</div2>
+</div1>
+</div>
+</bottom>
+</text>
+</TEI>

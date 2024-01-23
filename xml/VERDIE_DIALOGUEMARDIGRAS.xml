@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>DIALOGUE ENTRE L'ILLUSTRE DON MARDI-GRAS ET CARÊME L'ABSTINENT.</title>
+			<author type="texte" ISNI="0000 0001 2100 9758">Antoine VERDIÉ (1779-1820)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, novembre 2021</editor>
+			<publisher>Publié par Paul FIEVRE, décembre 2021</publisher>
+			<idno>VERDIE_DIALOGUEMARDIGRAS</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Dialogue</genre>
+			<inspiration>Allégorie</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1811-1820</periode>
+			<taille>0-250</taille>
+			<permalien cote="BnF LLA YE-53700">https://gallica.bnf.fr/ark:/12148/bpt6k58373622</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">DIALOGUE ENTRE L'ILLUSTRE DON MARDI-GRAS ET CARÊME L'ABSTINENT</titlePart>
+		</docTitle> 
+		<docDate value="1867">1867. Tous droits réservés.</docDate>
+		<docAuthor id="VERDIÉ, Antoine">signé Meste Verdié</docAuthor>
+		<docImprint>
+			<printer id="CAVAZZA">Bordeaux. - Imprimerie général d'émile CRUGY, rue et hôtel Saint-Siméon, 16.</printer>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="MARDI-GRAS" sex="1" type="A" statut="allégorie" age="A" stat_amour="néant">MARDI-GRAS</role>.</castItem>
+			<castItem><role id="LORD CARÊME" sex="1" type="A" statut="allégorie" age="A" stat_amour="néant">LORD CARÊME</role>.</castItem>
+		</castList>
+		<set location="(Lieu indéterminé)" country="(Pays indéterminé)" periode="XIXème" gps="(N/A)"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>DIALOGUE ENTRE L'ILLUSTRE DON MARDI-GRAS ET CARÊME L'ABSTINENT</head>
+<div2 type="scene" n=""><head/>
+<stage type="entrance/carry">Don Mardi-Gras revenant de faire sa tournée ordinaire,
+rencontre Lord Carême, un panier sous le bras.</stage>
+<sp who="MARDI-GRAS"><speaker>MARDI-GRAS.</speaker>
+	<l id="1">Eh ! Bonjour, mon cher Carême, comment vous portez-vous ?</l>
+	<l id="2">Car vous avez l'air triste comme un amant jaloux.</l>
+	<l id="3">Je vois que vous venez de faire provision,</l>
+	<l id="4">Car l'odeur du panier ressent au bon jambon.</l>
+</sp>
+<sp who="LORD CARÊME"><speaker>LORD CARÊME.</speaker>
+	<l id="5">Au jambon?... Fi donc ! Vivent tous les légumes,</l>
+	<l id="6">J'en mange avec excès sans trouver d'amertume. .</l>
+	<l id="7">Ce n'est pas comme toi, gourmand impitoyable.</l>
+	<l id="8">Qui jamais ne recule à l'aspect d'une table.</l>
+	<l id="9">Tu vois ce grand panier ? Eh bien ! C'est un beau chou</l>
+	<l id="10">Que je viens d'acheter pour en faire un ragoût,</l>
+	<l id="11">Avec quelques navets, un peu d'huile commune</l>
+	<l id="12">Que j'ai payée bien cher chez l'épicier l'Adune.</l>
+</sp>
+<sp who="MARDI-GRAS"><speaker>MARDI-GRAS.</speaker>
+	<l id="13">Quoi ! Un chou en ragoût ? Tu perds, je crois, la tête.</l>
+	<l id="14">Imite-moi, Carême, dans mes beaux jours de fête :</l>
+	<l id="15">Mon teint toujours vermeil, ma mine rubiconde,</l>
+	<l id="16">Rajeunis, font plaisir jusqu'au bord de la tombe ;</l>
+	<l id="17">Crois-moi, ne bois pas d'eau, débouche le Champagne.</l>
+	<l id="18">Le bordeaux, le médoc, n'oublie pas l'Espagne,</l>
+	<l id="19">Et tu verras bientôt croître ton embonpoint ;</l>
+	<l id="20">Méprise la tisane, donne-toi tes besoins.</l>
+</sp>
+<sp who="LORD CARÊME"><speaker>LORD CARÊME.</speaker>
+	<l id="21">Je m'attendais de toi un pareil compliment.</l>
+	<l id="22">Glouton, gargantua, exécrable friand,</l>
+	<l id="23">Père des débauchés, père de tous les vices,</l>
+	<l id="24">Mangeur démesuré, jusqu'à mille saucisses,</l>
+	<l id="25">Ogre dénaturé, sans civilisation,</l>
+	<l id="26">Fameux anthropophage, sans moeurs, sans religion,</l>
+	<l id="27">Tu me reproches, à moi, que je vis d'abstinence !</l>
+	<l id="28">À toi, ton seul plaisir, c'est de tendre la panse.</l>
+	<l id="29">Boeuf, veau, porc et mouton, voilà ton grand régal,</l>
+	<l id="30">Et souvent tu répètes : « C'est un repas frugal. »</l>
+	<l id="31">Prends garde, Mardi-Gras, que Carême, soumis,</l>
+	<l id="32">À ton convoi funèbre chante un De_Profundis.</l>
+</sp>
+<sp who="MARDI-GRAS"><speaker>MARDI-GRAS.</speaker>
+	<l id="33">Je ne crains nul danger, pas même toi, Carême,</l>
+	<l id="34">Homme efféminé, squelette suprême.</l>
+	<l id="35">On ne te verra pas parmi la Médecine,</l>
+	<l id="36">Car ton corps est hideux et il tombe en ruine.</l>
+	<l id="37">Tu m'es bien différent... Ils ont mine</l>
+	<l id="38">De faire de mon corps la sublime utopie !</l>
+	<l id="39">Ils sortirent de moi, de graisse, cent quintaux</l>
+	<l id="40">Utiles aux bras, aux jambes, guérissant bien des maux,</l>
+	<l id="41">Comme fortes douleurs nommées sciatiques </l>
+	<l id="42">Rhumatisme goutteux, jusqu'aux paralytiques.</l>
+	<l id="43">Que je te plains Carême, amateur de fromage !</l>
+	<l id="44">Grand Dieu ! Quelle maigreur ! quel mauvais présage 1</l>
+	<l id="45">Si tu t'examinais, tu verrais que ton corps</l>
+	<l id="46">Ressemble à un vrai pic, ou à un hareng_saur !</l>
+</sp>
+<sp who="LORD CARÊME"><speaker>LORD CARÊME.</speaker>
+	<l id="47">Qui voudrait te répondre, perdrait très mal son temps,</l>
+	<l id="48">Homme vil, crapuleux, banni des braves gens !</l>
+	<l id="49">Bientôt tu vas subir un jugement sévère ;</l>
+	<l id="50">Tu seras la Statue comme au Festin_de_Pierre.</l>
+	<l id="51">Tu ne répliques pas, oh ! j'en suis sûr d'avance,</l>
+	<l id="52">Goinfre le plus suspect, grand maître de pitance,</l>
+	<l id="53">Qui ne cesse de dire ; Mon ventre est un grand sac</l>
+	<l id="54">Où je logeais au moins quinze cents cervelas.</l>
+	<l id="55">Tiens, crois-moi, finissons, ou je vais commencer</l>
+	<l id="56">Ton interrogatoire pour faire un plaidoyer.</l>
+	<l id="57">Tu crois t'enorgueillir, fier nettoyeur de plats,</l>
+	<l id="58">Mais au coup qui l'attend, tu ne reculeras pas.</l>
+</sp>
+<sp who="MARDI-GRAS"><speaker>MARDI-GRAS.</speaker>
+	<l id="59">Être pusillanime, depuis quand la berlue</l>
+	<l id="60">T'a choisi pour ton maître celle vieille morue ?</l>
+	<l id="61">Du pain trempé dans l'eau fait souvent ton repas ;</l>
+	<l id="62">Tu as un teint livide, pâle et_coetera.</l>
+	<l id="63">Vas-t-en donc te cacher au fond de ta cellule,</l>
+	<l id="64">Car ton regard m'effraie, égoïste crédule.</l>
+	<l id="65">Je te répète encore : imite-moi, ami ; </l>
+	<l id="66">Quitte cet air rêveur, sois toujours sans souci ;</l>
+	<l id="67">Tu auras près de moi un compagnon fidèle</l>
+	<l id="68">Qui sera ton Mentor, te servant avec zèle.</l>
+	<l id="69">Vas, tu ne diras plus : Mes beaux jours sont passés !</l>
+	<l id="70">T'en seras content, Carême, t'en seras satisfait.</l>
+</sp>
+<sp who="LORD CARÊME"><speaker>LORD CARÊME.</speaker>
+	<l id="71">Gastronome hardi, grand-soudan de la table,</l>
+	<l id="72">Assouvis-toi de chair dans ta faim satiable</l>
+	<l id="73">Je te quitte, maudit, et ne m'aborde plus,</l>
+	<l id="74">Car tu n'es qu'un goujat, qu'un vaurien sans vertu,</l>
+	<l id="75">Qu'un vautour carnassier, qu'un buveur implacable,</l>
+	<l id="76">À qui il faut au moins cinq cents bouteilles à table ;</l>
+	<l id="77">Haut-Brion, Haut-Barsac, ce sont tes vins choisis ;</l>
+<note type="L">Malvoisie : Vin grec qui est fort doux. [L]</note>
+<note type="L">Tokay : Vin de Hongrie que l'on place au premier rang parmi les vins doux. [L]</note>
+	<l id="78">Bourgogne, Cendrieu, le Tokay, Malvoisie ;</l>
+	<l id="79">Tes lèvres très souvent en portent les empreintes,</l>
+	<l id="80">Car l'on dirait d'ici qu'elles en sont bien peintes.</l>
+	<l id="81">Tu ne diras pas non... L'on t'a vu, jeudi soir,</l>
+	<l id="82">À l'issue des bouchers, à gravir l'abattoir ;</l>
+	<l id="83">Tu est entré fougueux ; dans ton humeur contente,</l>
+	<l id="84">Tu as glacé d'horreur les moutons d'épouvante,</l>
+	<l id="85">Et tu n'as pas senti en toi quelques remords</l>
+	<l id="86">En les mangeant vorace, en leur donnant la mort !</l>
+	<l id="87">Adieu, homme vulgaire, sans honneur et sans foi ;</l>
+	<l id="88">Je te quitte, adieu pour la dernière fois.</l>
+	<l id="89">Apprends donc désormais à devenir plus sage ;</l>
+	<l id="90">Lis l'Homme_vertueux, et fais en bon usage ;</l>
+	<l id="91">Tu te diras alors : Je veux me convertir ;</l>
+	<l id="92">Je commence à connaître où sont les vrais amis !</l>
+	<l id="93">Tu seras repentant de tant d'extravagances</l>
+	<l id="94">Que jadis tu faisais étant dans l'opulence,</l>
+	<l id="95">Ainsi, promets-moi bien de devenir austère ;</l>
+	<l id="96">Que tes jours finiront au pied d'un monastère,</l>
+	<l id="97">Et alors tu verras, illustre Mardi-Gras,</l>
+	<l id="98">Que le plaisir n'est rien où la vertu n'est pas,</l>
+	<l id="99">Et qu'au sein des débauches on finit toujours mal</l>
+	<l id="100">Le fait est véridique, c'est d'après Juvénal.</l>
+<stage type="">Par Meste VERDIÉ.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

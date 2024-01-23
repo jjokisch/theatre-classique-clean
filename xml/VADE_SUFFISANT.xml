@@ -1,0 +1,1619 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LE SUFFISANT, OPÉRA COMIQUE</title>
+			<author type="texte" ISNI="0000 0001 2277 5219">Jean-Joseph VADÉ (1720-1757)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIEVRE, mars 2022</editor>
+			<publisher>Publié par Paul FIEVRE, avril 2022</publisher>
+			<idno>VADE_SUFFISANT</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Opéra comique</genre>
+			<inspiration>moeurs</inspiration>
+			<structure>Un acte</structure>
+			<type>vers</type>
+			<periode>1751-1760</periode>
+			<taille>750-1000</taille>
+			<permalien cote="BnF LLA 8-YTH-16860">https://gallica.bnf.fr/ark:/12148/bpt6k1501425w</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE SUFFISANT</titlePart>
+			<titlePart type="sub">OPÉRA COMIQUE</titlePart>
+			<titlePart type="sub">Représenté pour la première fois sur le Théâtre de l'Opéra comique, le 12 Mars 1753.</titlePart>
+		</docTitle> 
+		<docDate value="1753">M. DCC. LIII.</docDate>
+		<docAuthor id="VADÉ, Jean-Joseph" bio="vade">PAR M. VADÉ.</docAuthor>
+		<docImprint>
+			<privilege date=""><head/>
+		</privilege>
+			<acheveImprime id=""/>
+			<printer>À Paris, Chez Nicolas-Bonaventure DUSCHENE. </printer>
+		</docImprint>
+		<performance>
+			<premiere date="1758" location="Paris">Représenté pour la première fois à Paris en 1758.</premiere>
+		</performance>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="ELVIRE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">ELVIRE</role>.</castItem>
+		<castItem><role id="CLITIE" sex="2" type="H" statut="bourgeois" age="J" stat_amour="néant">CLITIE</role>, nièce d'Elvire.</castItem>
+		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut="aristocrate" age="A" stat_amour="néant">LE CHEVALIER</role>, fils de la Marquise.</castItem>
+		<castItem><role id="LINDOR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LINDOR</role>, amant de Clitie.</castItem>
+		<castItem><role id="MARTON" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">MARTON</role>, suivante d'Elvire.</castItem>
+	</castList>
+	<set location="France" country="France" periode="XVIIIème" gps="(N/A)">La Scène est dans le salon d'Elvire.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>LE SUFFISANT</head>
+<div2 type="scene" n="1"><head>SCENE PREMIÈRE.</head><stage> Lindor, Clitie.
+</stage>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Aimons-nous, belle Thémire.</stage>
+	<l id="1">Hélas pouvez-vous encore</l>
+	<l id="2">Douter du feu qui me dévore ?</l>
+	<l id="3">Qui mieux que moi vous adore ?</l>
+	<l id="4">Qui plus que moi</l>
+	<l id="5">Sait vous prouver sa foi ?</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Le langage des soupirs.</stage>
+	<l id="6">Le langage d'un Amant</l>
+	<l id="7">Contraint un coeur à se rendre,</l>
+	<l id="8">Quand il peint le sentiment :</l>
+	<l id="9">Mais souvent pour nous surprendre</l>
+	<l id="10">Le plus volage sait prendre</l>
+	<l id="11">Le langage d'un amant.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Dans nos hameaux la paix et l'innocence.</stage>
+	<l id="12">Quand on vous aime, on vous aime sans cesse :</l>
+	<l id="13">À ce prix vous m'avez permis l'espoir :</l>
+	<l id="14">Au doux instant marqué par la tendresse,</l>
+	<l id="15">Vous opposerez le sévère devoir.</l>
+	<l id="16">N'éloignez plus ce moment où j'aspire ;</l>
+	<l id="17">Dieux ! En serai-je encor longtemps privé !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="18">Craindre .... hésiter .... n'est-ce donc pas vous dire</l>
+	<l id="19">Que cet heureux instant est arrivé ?</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Constantin buvoit toujours.</stage>
+	<l id="20">Ah ! Dans quel ravissement</l>
+	<l id="21">Me plonge cet aveu charmant !</l>
+	<l id="22">Le vrai bonheur pour toujours</l>
+	<l id="23">Va filer mes jours !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Pour un amour frivole.</stage>
+	<l id="24">Un apparent hommage</l>
+	<l id="25">Souvent dure bien peu ;</l>
+	<l id="26">La constance est le gage</l>
+	<l id="27">D'un véritable feu.</l>
+	<l id="28">Lorsque le temps nous prouve</l>
+	<l id="29">Ce qu'un amant nous dit,</l>
+	<l id="30">Le devoir même approuve</l>
+	<l id="31">Ce qu'amour applaudit.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Des Sabotiers Italiens, sous un ombrage épais, etc.</stage>
+	<l id="32">Je cède au charme dont je joui[s] :</l>
+	<l id="33" syll="6" part="i">Ô ciel : l'ai je bien ouï !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="33" syll="2" part="f">Oui,</l>
+	<l id="34">Mon cher Lindor</l>
+	<l id="35">Mon coeur prend l'effort.</l>
+	<l id="36">Mon amour qui vous en croit croît.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="37">Que je ressens</l>
+	<l id="38">Le prix de vos chers accents !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="39">Quoi, vous m'aimez !</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="40">Pour jamais vous m'enflammez.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="41">Ah, qu'il me plaît !</l>
+	<l id="42">Oui, je sens qu'il est :</l>
+	<l id="43">Pour être amant fortuné, né.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Ne vla-t-il pas que j'aime.</stage>
+	<l id="44">D'un rival qui vous suit de près,</l>
+	<l id="45">Le soin paraît extrême.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="46">Bon, c'est un fat et je le hais</l>
+	<l id="47">Autant que je vous aime.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : De la neuvaine, ou Quand l'auteur de la nature.</stage>
+	<l id="48">Que craindre d'un petit maître,</l>
+	<l id="49">Suffisant, enchanté de son être,</l>
+	<l id="50">Qui se vante,</l>
+	<l id="51">Forge, invente</l>
+	<l id="52">Billets doux,</l>
+	<l id="53">Soupers et rendez-vous ?</l>
+	<l id="54">Affectant la faible vue,</l>
+	<l id="55">Et passant ses bijoux en revue,</l>
+	<l id="56">Il minaude,</l>
+	<l id="57">Échafaude</l>
+	<l id="58">Son jargon,</l>
+	<l id="59">Sur un singulier ton.</l>
+	<l id="60">Que craindre, etc.</l>
+	<l id="61">Oui la belle</l>
+	<l id="62">La plus rebelle,</l>
+	<l id="63">Cesse de l'être à son aspect.</l>
+	<l id="64">L'air d'aisance</l>
+	<l id="65">Le dispense</l>
+	<l id="66">Des égards et du froid respect.</l>
+	<l id="67">Chargé de poudre et d'essence,</l>
+	<l id="68">Il exhale un parfum suspect.</l>
+	<l id="69">Que craindre, etc.</l>
+<stage type="title">AIR : De s'engager il n'est que trop facile.</stage>
+	<l id="70">Un point m'alarme, Elvire est très jolie !</l>
+	<l id="71">Ses yeux, Lindor, ne vous touchent-ils pas ?</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="72">Dieux ! Quels soupçons ! Ah ma chère Clitie,</l>
+	<l id="73">Vous offensez l'amour et vos appas !</l>
+<stage type="title">AIR : L'occasion fait le larron.</stage>
+	<l id="74">Elvire feint pour moi quelque tendresse :</l>
+	<l id="75">Pour ramener son amant singulier,</l>
+	<l id="76">Enfin son air de petite maîtresse,</l>
+	<l id="77">Ne peut plaire qu'au Chevalier.</l>
+<stage type="title">AIR : Non, non Colette n'est point trompeuse.</stage>
+</sp>
+<sp who="LINDOR, CLITIE"><speaker>CLITIE, LINDOR.</speaker>
+	<l id="78">Non, non notre amour n'est point volage,</l>
+	<l id="79">Le sentiment le produit.</l>
+	<l id="80">Non, non notre amour n'est point volage,</l>
+	<l id="81">Par l'estime il est conduit.</l>
+	<l id="82">Une ardeur qui se partage</l>
+	<l id="83">Trompe autant qu'elle séduit ;</l>
+	<l id="84">Mais du feu qui nous engage,</l>
+	<l id="85">Naît le bonheur qui nous suit.</l>
+	<l id="86">Non, non notre amour n'est point volage</l>
+	<l id="87">Le sentiment le produit.</l>
+	<l id="88">Non, non notre amour n'est point volage,</l>
+	<l id="89">Par l'estime il est conduit. </l>
+<stage type="exit">Ils sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Elvire, Marton.
+</stage>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage>, un miroir de poche à la main.
+</stage>
+<stage type="title">AIR : Le fameux Diogène.</stage>
+	<l id="90">Tu m'as fort négligée,</l>
+	<l id="91">Je suis mal arrangée.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="92">Oh votre miroir ment.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="93">Que le Chevalier tarde !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="94">Un tel muguet n'a garde</l>
+	<l id="95">D'être trop prévenant.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : L'honneur dans un jeune tendron.</stage>
+	<l id="96">Pour punir un homme si vain,</l>
+	<l id="97" syll="5" part="i">J'aimerai Lindor.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="97" syll="3" part="f">Mais enfin</l>
+	<l id="98">Êtes-vous sûre de sa flamme ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="99">Va, j'ai lu dans l'air de Lindor</l>
+	<l id="100" syll="6" part="i">Le goût qu'il a pour moi....</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="100" syll="2" part="f">Madame,</l>
+	<l id="101">Son air pourrait bien avoir tort.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="offended">, piquée.
+</stage>
+<stage type="title">AIR : Sans le savoir.</stage>
+	<l id="102">En vérité je vous admire ?</l>
+	<l id="103">Qu'est-ce que ce doute veut dire !</l>
+	<l id="104">Mes attraits sont-ils sans pouvoir !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="sweet">, malicieusement.
+	</stage>
+	<l id="105">Malgré qu'ils n'épargnent personne ;</l>
+	<l id="106">Lindor les voit sans s'émouvoir....</l>
+	<l id="107">Il en tient... si le coeur se donne</l>
+	<l id="108">Sans le savoir.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Nous sommes précepteurs d'amour.</stage>
+	<l id="109">Allez, je saurai l'enflammer :</l>
+	<l id="110">Jugez mieux, ou sachez vous taire.</l>
+	<l id="111">Quand je prends la peine d'aimer,</l>
+	<l id="112">Apprenez que je prétends plaire.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="laugh">, riant.
+</stage>
+<stage type="title">AIR : Du Prévôt des Marchands.</stage>
+	<l id="113">Ah ! Puisque vous le prétendez.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="114">Mais, mais, Marton, vous m'excédez.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="115">Tout au contraire, je respecte</l>
+	<l id="116">Beaucoup votre prétention :</l>
+	<l id="117">Mais la réussite est suspecte</l>
+	<l id="118">Sans une déclaration.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Chantez petit Colin.</stage>
+	<l id="119">C'est raisonner au mieux,</l>
+	<l id="120">Voyez quelle impudence !...</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="121">Ah ! Quel air sérieux,</l>
+	<l id="122" syll="2" part="i">Madame !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="122" syll="6" part="f">Ôtez-vous de mes yeux.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="123">Elle aime qu'on l'encense,</l>
+	<l id="124">Réparons l'imprudence.</l>
+<stage type="loud">Haut.</stage>
+	<l id="125">Ah ! point de courroux.</l>
+	<l id="126">Des attraits si doux</l>
+	<l id="127" syll="2" part="i">Sont faits.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="127" syll="3" part="f">Taisez-vous.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="proud">, d'un ton flatteur.
+</stage>
+<stage type="title">AIR : Gentille Pèlerine.</stage>
+	<l id="128">Oui, vous êtes charmante,</l>
+	<l id="129">Votre voix est touchante,</l>
+	<l id="130">Votre regard enchante.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="sweet">, se radoucissant.
+	</stage>
+	<l id="131">Que ne dis-tu cela...</l>
+	<l id="132">Ma nièce me tracasse...</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="133">Votre beauté l'efface,</l>
+	<l id="134">M'accordez-vous ma grâce ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="135">Oui-dà, Marton, oui-dà.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="toward">, au Public.
+	</stage>
+	<l id="136">Flattez amants, on nous prend toutes par-là.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Du haut en bas.</stage>
+	<l id="137">D'un pis aller</l>
+	<l id="138">On n'a point encor l'air, je pense,</l>
+	<l id="139">D'un pis aller.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="140">De qui donc voulez-vous parler ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="141">C'est d'un parjure qui m'offense :</l>
+	<l id="142">Mon mépris serait la vengeance</l>
+	<l id="143">D'un pis-aller.</l>
+<stage type="title">AIR : Ah qu'il est beau l'oiseau !</stage>
+	<l id="144">Tu sais bien que le Chevalier</l>
+	<l id="145">A mon sort devait se lier :</l>
+	<l id="146">Le traître !</l>
+	<l id="147">Le traître !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="148">Ah ! De vous oublier</l>
+	<l id="149">Est-il le maître ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : De tous les Capucins du monde.</stage>
+	<l id="150">Apprends donc qu'il me sacrifie.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="151" syll="5" part="i">Bon !... À qui, Madame ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="151" syll="3" part="f">À Clitie.</l>
+	<l id="152">L'insolent en est ébloui.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="153">C'est manquer à la bienséance.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="154">Marton, le trait est inouï;</l>
+	<l id="155">C'est une perfidie .... immense.</l>
+<stage type="title">AIR : Des vapeurs.</stage>
+	<l id="156">L'espoir de lui rendre le change</l>
+	<l id="157">Me venge</l>
+	<l id="158">De sa noirceur.</l>
+	<l id="159">Et pour que l'ingrat me respecte,</l>
+	<l id="160">J'affecte</l>
+	<l id="161">L'air de douceur ;</l>
+	<l id="162">Mais en secret mon coeur succombe.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="163">Le coup est frappant.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="164">Assommant !</l>
+	<l id="165">Ma chère soutiens-moi, je tombe,</l>
+	<l id="166">J'ai des vapeurs.</l>
+<stage type="fall/furniture">Elle tombe dans un fauteuil.</stage>
+	<l id="167">Je me meurs.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Une nuit dormant à merveille.</stage>
+	<l id="168">Mais comment ? Ses yeux, sont humides :</l>
+<stage type="toward">Au public.</stage>
+	<l id="169">Voyez pourtant, petits perfides;</l>
+	<l id="170">Quelles transes vous nous donnez.</l>
+	<l id="171">Par ma foi nous sommes bien folles</l>
+	<l id="172">D'en croire vos belles paroles.</l>
+<stage type="toward/slow">À Elvire, lentement.</stage>
+	<l id="173">Allons, Madame, revenez.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="174">Mes sens sont encore étonnés.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="show">, lui présentant un flacon.
+	</stage>
+	<l id="175">Respirez cette eau, je vous prie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="176">Donne... Je suis anéantie !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="177" syll="6" part="i">Essayez de marcher.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="177" syll="é" part="f">Hélas !</l>
+	<l id="178">C'est à périr !... On n'y tient pas !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Quoi vous partez, etc.</stage>
+	<l id="179">S'il paraissait ne faites point d'avance.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="stage/quick">, se levant brusquement.
+	</stage>
+	<l id="180">Fi, donc Marton, l'affront serait sanglant :</l>
+	<l id="181">Il doit venir, compte qu'avec décence</l>
+	<l id="182">Je saurai soutenir son changement ;</l>
+	<l id="183">Il sait déjà qu'à Lindor mon coeur pense.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="184">Ah ! Qu'une veuve entend l'arrangement !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCENE III.</head><stage> Le Chevalier, Elvire, Marton.
+</stage>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="sing/location">, chante dès le fonds du Théatre.
+	</stage>
+	<l id="185">Que ce beau jour promet d'heureux instants.</l>
+	<l id="186">Qu'avec plaisir sur ces bords on s'arrête !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Du cotillon couleur de rose.</stage>
+	<l id="187">Ah ! Chevalier, arrivez donc,</l>
+	<l id="188">Vous vous faites toujours attendre.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="189">Vous me grondez hors de saison.</l>
+	<l id="190">De grâce avant daignez m'entendre.</l>
+	<l id="191">Mais mais, comment</l>
+	<l id="192">Quel air galant !</l>
+	<l id="193">Sans balancer, Lindor doit se rendre</l>
+	<l id="194">Cet air vainqueur</l>
+	<l id="195">Va dans son coeur.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="196" syll="6" part="i">Vous me trouvez donc bien ,</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="196" syll="2" part="f">D'honneur ?</l>
+<stage type="title">AIR : Ah ! c'est une merveille.</stage>
+	<l id="197">Oui, d'honneur, je serais trompé,</l>
+	<l id="198">Si de vous il n'était frappé ;</l>
+	<l id="199">Tenez, votre rouge est coupé !</l>
+	<l id="200">Ah, c'est une merveille !</l>
+	<l id="201">C'est aux feux.</l>
+	<l id="202">De vos yeux</l>
+	<l id="203">Qu'amour se réveille.</l>
+<stage type="title">AIR : Comme vla qu'est fait.</stage>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="204" syll="3" part="i">Vous raillez...</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="204" syll="5" part="f">Non, sur ma parole,</l>
+	<l id="205">Cette coiffure est au parfait,</l>
+<note type="L">Girandole : Groupe de pierres précieuses que les dames portent aux oreilles. [L]</note>
+	<l id="206">Et ce brillant de girandole</l>
+	<l id="207">Produit un merveilleux effet,</l>
+	<l id="208">Ces noeuds sont d'un goût adorable,</l>
+	<l id="209">Que cet ajustement me plaît !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="210" syll="5" part="i">Mon chignon est mal ?</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="210" syll="3" part="f">Admirable.</l>
+	<l id="211">Cet habit vous va tout-à-fait,</l>
+	<l id="212">C'est fort bien fait !</l>
+	<l id="213">Mais très bien fait !</l>
+<stage type="watch">Il la regarde du haut en bas.</stage>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Le Seigneur Turc a raison.</stage>
+	<l id="214">Le compliment est joli !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="215">Ou plutôt risible.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="216">Vous joignez au ton poli</l>
+	<l id="217">Une finesse indicible.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="218">Oh, je vous en doit l'éclat !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="219">Votre goût est délicat...</l>
+	<l id="220">Délicat... au possible.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Paris est au Roi, mon coeur est à moi.</stage>
+	<l id="221">Ce que vous pensez</l>
+	<l id="222">Me ressemble assez</l>
+	<l id="223">Je me pique surtout</l>
+	<l id="224">D'avoir quelque goût,</l>
+	<l id="225">J'occupe un brodeur ....</l>
+	<l id="226">Moi, c'est ma fureur.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="show">, le montrant.
+</stage>
+<stage type="aparte">À part.</stage>
+	<l id="227">C'est quelqu'original</l>
+	<l id="228">Du palais Royal.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="229">Ces dentelles.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="230">Sont fort belles.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="231">Examinez-en les points....</l>
+<note type="L">Berline : Carrosse suspendu et fermé, à deux fonds et à quatre roues. [L]</note>
+	<l id="232">Ma berline</l>
+	<l id="233">Est divine.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="234">On sait qu'en tout point</l>
+	<l id="235">Vous n'épargnez point.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="236">Ce que vous pensez,</l>
+	<l id="237">Me ressemble assez</l>
+	<l id="238">Je me pique surtout</l>
+	<l id="239">D'avoir quelque goût.</l>
+	<l id="240">C'est qu'il faut être mis</l>
+	<l id="241">Car ma foi les commis</l>
+	<l id="242">Ont laissé le drap à la Province.</l>
+	<l id="243">Le plus mince</l>
+	<l id="244">Joue au Prince;</l>
+	<l id="245">On prête à l'erreur.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="246">Ah ! C'est une horreur !</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="247">Ce que vous pensez</l>
+	<l id="248">Me ressemble assez</l>
+	<l id="249">Je me pique surtout</l>
+	<l id="250">D'avoir quelque goût.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Le joli jeu d'amour.</stage>
+	<l id="251">À parler franchement,</l>
+	<l id="252">On doit être charmant,</l>
+	<l id="253">Lorsque l'on est l'amant</l>
+	<l id="254">De Clitie.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="255">Ah, c'est un bijoux,</l>
+	<l id="256">Ma foi sans elle, entre nous,</l>
+	<l id="257">J'aurai d'être à vous</l>
+	<l id="258">Grande envie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="offended">, piquée.
+	</stage>
+	<l id="259">Après un tel aveu,</l>
+	<l id="260">En vérité j'ai lieu</l>
+	<l id="261">D'être fidèle au noeud</l>
+	<l id="262">Qui nous lie.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Est-ce que ça se demande.</stage>
+	<l id="263">Accusez la fatalité.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="264">Bien peu je m'en chagrine.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="265">Malgré ma bonne volonté</l>
+	<l id="266">Ma tendresse décline.</l>
+	<l id="267">Je vous respecte avec raison.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="268">La faveur est fort grande !</l>
+	<l id="269" syll="7" part="i">Clitie est donc sensible.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="269" syll="1" part="f">Bon !</l>
+	<l id="270">Est-ce que cela se demande.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> ELVIRE, LE CHEVALIER, CLITIE MARTON.
+</stage>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Le demon malicieux et fin.</stage>
+<stage type="aparte">À part.</stage>
+	<l id="271" syll="4" part="i">Le perfide !...</l>
+<stage type="loud">[Haut.]</stage>
+	<l id="271" syll="6" part="f">Ah, ma nièce approchez,</l>
+	<l id="272">C'est le Chevalier que vous cherchez ?</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="273" syll="4" part="i">Moi, Madame !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="273" syll="6" part="f">Au moins je le soupçonne.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="274" syll="4" part="i">Elle rougit....</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="274" syll="6" part="f">Allons, rassurez-vous,</l>
+	<l id="275">La démarche est simple, on la pardonne ;</l>
+	<l id="276">Pour un motif si flatteur et si doux.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Bouchez Naïades vos fontaines.</stage>
+	<l id="277">Que veut dire ce badinage !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="278">Sans m'en demander davantage,</l>
+	<l id="279">Expliquez-vous avec Monsieur.</l>
+<stage type="toward">Au Chevalier.</stage>
+	<l id="280">Lindor chez moi pourrait se rendre,</l>
+	<l id="281">Et s'il veut mériter mon coeur,</l>
+	<l id="282">Vous n'aurez plus droit d'y prétendre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Clitie, Le Chevalier.
+</stage>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Attendez-moi sous l'orme.</stage>
+	<l id="283">Elle a beau s'en défendre,</l>
+	<l id="284">Je la tiens toujours-là.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="285">Monsieur, daignez m'apprendre</l>
+	<l id="286">Le noeud de tout cela ?</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="287">J'aime trop le mystère.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="288">Ah, de grâce, parlez !</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="289">On peut fort bien se taire,</l>
+	<l id="290">Quand vous dissimulez.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Mariez-moi.</stage>
+	<l id="291" syll="3" part="i">J'ignore....</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="291" syll="5" part="f">Oh, vous ignorez ?</l>
+	<l id="292">Pourquoi jouer l'ignorance ?</l>
+	<l id="293">On sait que vous espérez...</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="away">, le quittant.
+	</stage>
+	<l id="294">Éviter votre présence ....</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="stop">, l'arrêtant.
+	</stage>
+	<l id="295">Écoutez, écoutez, écoutez donc :</l>
+	<l id="296">M'échapper ! Quelle apparence !</l>
+	<l id="297">Écoutez, écoutez, écoutez donc :</l>
+	<l id="298">Mais, voilà le mauvais ton.</l>
+<stage type="title">AIR : Dans le fond d'une écurie.</stage>
+	<l id="299">Est-ce ainsi que l'on en use;</l>
+	<l id="300">Rien n'est plus inconséquent.</l>
+	<l id="301">Aurais-je un air excédent ?</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="aparte">, à part.
+	</stage>
+	<l id="302">Il faut que je m'en amuse.</l>
+<stage type="loud">Haut.</stage>
+	<l id="303">Monsieur pardonnez un peu.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="304">Ah ! Sans peine on vous excuse ;</l>
+	<l id="305">Quand la pudeur entre en jeu,</l>
+	<l id="306">Elle orne bien un aveu.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : A quoi s'occupe Madelon.</stage>
+	<l id="307">MonSieur je ne mérite pas.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="308">Sa modestie est à peindre !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="309">Et d'ailleurs j'ai si peu d'appas !</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="310">J'aime à voir son embarras.</l>
+<stage type="title">AIR : Par ma foi Monsieur le Curé.</stage>
+	<l id="311">Dites-moi pourquoi vous tremblez?</l>
+	<l id="312">Rougir est une misère.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="313">Moi ! Point du tout.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="314">Tenez, vous vous troublez. </l>
+<stage type="aparte">À part.</stage>
+	<l id="315">Ah qu'il sait bien me déplaire !</l>
+<stage type="title">AIR : Raisonnez. ma musette. </stage>
+<stage type="loud">Haut.</stage>
+	<l id="316">Ayez moins d'assurance,</l>
+	<l id="317">Car ma gloire s'offense</l>
+	<l id="318">De cet air triomphant ....</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="319">Oh, vous faites l'enfant.</l>
+<stage type="title">Air Ca n'vous va brin.</stage>
+	<l id="320">Pour une fille presque faite,</l>
+	<l id="321">Vous donnez encor dans le faux :</l>
+	<l id="322">Je veux pour vous rendre parfaite</l>
+	<l id="323">Corriger ces légers défauts.</l>
+	<l id="324">Un feu d'une certaine espèce,</l>
+	<l id="325">En votre faveur m'intéresse,</l>
+	<l id="326">Sans cela votre air bien ou mal</l>
+	<l id="327">Me serait égal....</l>
+<stage type="smoke">Il prend du tabac.</stage>
+	<l id="328">Mais fort égal.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Que chacun de nous se livre.</stage>
+	<l id="329">Je suis ce que je dois être,</l>
+	<l id="330">Vous ne serez rien de moi.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="331">Ah, l'amour est un grand maître ;</l>
+	<l id="332">Vous le suivez, je le vois.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="ironic">, ironiquement.
+	</stage>
+	<l id="333">Mon coeur facile à connaître,</l>
+	<l id="334">Peut-être est fort amoureux.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="335">Oh, j'aime beaucoup peut-être,</l>
+	<l id="336">Et peut-être est merveilleux.</l>
+<stage type="title">AIR : L'occasion fait le larron.</stage>
+	<l id="337" syll="4" part="i">Vous soupirez ....</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="337" syll="6" part="f">Vous faites l'agréable :</l>
+	<l id="338">Mais vous n'en êtes pas mieux écouté :</l>
+	<l id="339">Près d'un galant qui se croit trop aimable,</l>
+	<l id="340">Notre coeur est en sûreté.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Ma chère mère que je révère.</stage>
+	<l id="341">Ah ma petite,</l>
+	<l id="342">Le tien palpite,</l>
+	<l id="343">Et dans tes yeux</l>
+	<l id="344">L'amour s'annonce au mieux.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="345">Cela me pique !</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="346">Elle est unique,</l>
+	<l id="347">Ah, point d'aigreur;</l>
+	<l id="348">Auriez-vous de l'humeur ?</l>
+	<l id="349">Cet air méchant</l>
+	<l id="350">Qui succède,</l>
+	<l id="351">Cède</l>
+	<l id="352">Au doux penchant</l>
+	<l id="353">D'un regard louchant.</l>
+<stage type="title">MENUET D'EXAUDET, ou bien Point de bruit, ce réduit solitaire.</stage>
+	<l id="354">Vous boudez,</l>
+	<l id="355">Vous gardez</l>
+	<l id="356">Le silence ;</l>
+	<l id="357">Mais loin d'en être accablé,</l>
+	<l id="358">Parbleu je suis comblé</l>
+	<l id="359">De votre résistance.</l>
+	<l id="360">À vous voir,</l>
+	<l id="361">Le devoir</l>
+	<l id="362">Vous occupe.</l>
+	<l id="363">De ce manège usité,</l>
+	<l id="364">Je n'ai jamais été</l>
+	<l id="365">La dupe.</l>
+	<l id="366">Cependant cet air bizarre,</l>
+	<l id="367">À parler net, vous dépare.</l>
+	<l id="368">Vos attraits</l>
+	<l id="369">Sont moins vrais.</l>
+	<l id="370">Ah de grâce</l>
+	<l id="371">Abandonnez ce ton là.</l>
+	<l id="372">En vérité cela</l>
+	<l id="373">Me passe !</l>
+	<l id="374">Entre nous,</l>
+	<l id="375">C'est pour vous</l>
+	<l id="376">Qu'on vous gronde !</l>
+	<l id="377">Car vous avez un maintien</l>
+	<l id="378">Qui ne ressemble à rien</l>
+	<l id="379">Ce n'est pas là le monde.</l>
+	<l id="380">Ayez donc</l>
+	<l id="381">Du bon ton,</l>
+	<l id="382">Quelqu'ébauche.</l>
+	<l id="383">Je suis trop franc .... pardonnez ;</l>
+<note type="L">Donner à gauche : se tromper, et aussi se mal conduire. [L]</note>
+	<l id="384">Mais ma foi vous donnez</l>
+	<l id="385">À gauche.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Vous qui feigniez d'aimer.</stage>
+	<l id="386">Vos airs, votre leçon,</l>
+	<l id="387">Vos petits mots, votre faste,</l>
+	<l id="388">De la saine raison</l>
+	<l id="389">Forment bien le contraste.</l>
+	<l id="390">L'esprit a peu de part</l>
+<note type="L">Bigarrure : Bigarrure de style, mélange de styles disparates. [L]</note>
+	<l id="391">À cette bigarrure,</l>
+	<l id="392">Plaire est un grand hasard,</l>
+	<l id="393">Lorsque l'Art</l>
+	<l id="394">Choque la nature.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Comme un coucou.</stage>
+	<l id="395">Je vous trouve délicieuse !</l>
+	<l id="396">Ma foi vive les arguments :</l>
+	<l id="397">Savez-vous qu'on est précieuse</l>
+	<l id="398">Avec de tels raisonnements.</l>
+<stage type="title">AIR : Tout roule aujourd'hui dans le monde.</stage>
+	<l id="399">Mais comme vous êtes bien née,</l>
+	<l id="400">Si vous voulez vous appliquer,</l>
+	<l id="401">Je veux après notre hyménée</l>
+	<l id="402">Ma chère enfant, vous éduquer.</l>
+	<l id="403">L'hymen de Lindor et d'Elvire</l>
+	<l id="404">Va se terminer en ce jour.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="405">Ô juste ciel ! ...</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="406">Je vais l'instruire</l>
+	<l id="407">Du plein succès de mon amour.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Plus inconstant que l'onde et leur nuage.</stage>
+	<l id="408">Que dites-vous.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="409">Vous mordez à la grappe.</l>
+	<l id="410">L'amant vous frappe</l>
+	<l id="411">Par le nom d'époux.</l>
+	<l id="412">Déjà votre joie éclate,</l>
+	<l id="413">J'aime à voir ce sentiment !</l>
+	<l id="414">Cela me flatte</l>
+	<l id="415">Infiniment !</l>
+	<l id="416">Je m'en étais douté,</l>
+	<l id="417">Moi, tout mon art est de séduire,</l>
+	<l id="418">On peut le dire</l>
+	<l id="419">Sans fatuité.</l>
+<stage type="exit/sing">Il sort en fredonnant un air du nouvel Opéra.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Clitie, Marton, dans le fond du théâtre. 
+</stage>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Paresseuse Aurore.</stage>
+	<l id="420">Que viens-je d'apprendre !</l>
+	<l id="421">Quel revers pour un coeur tendre.</l>
+	<l id="422">Hélas devais-je m'attendre</l>
+	<l id="423">À ce contretemps affreux !</l>
+	<l id="424">Trompeuse apparence,</l>
+	<l id="425">Frivole espérance,</l>
+	<l id="426">Vous m'annonciez les jours les plus heureux.</l>
+	<l id="427">Dieux, Dieux !</l>
+	<l id="428">Quel outrage ;</l>
+	<l id="429">Quel partage !</l>
+	<l id="430">On m'engage.</l>
+	<l id="431">Au gré d'un vain éclat,</l>
+	<l id="432">Au plus grand fat !</l>
+	<l id="433">Que viens-je d'apprendre.</l>
+	<l id="434">Ai-je pu l'entendre !</l>
+	<l id="435">Quoi donc,Elvire va prendre</l>
+	<l id="436">Celui que j'adore, hélas :</l>
+	<l id="437">Hymen étrange !</l>
+	<l id="438">Fatal échange !</l>
+	<l id="439">Non, non, je ne le crois pas ;</l>
+	<l id="440">Lindor ma rassure,</l>
+	<l id="441">Il n'est point parjure,</l>
+	<l id="442">La plus constante ardeur</l>
+	<l id="443">Règne en son coeur.</l>
+	<l id="444">Oui, oui, l'on m'abuse,</l>
+	<l id="445">Et la ruse</l>
+	<l id="446">Dont on use,</l>
+	<l id="447">Fait que j'aime plus encore</l>
+	<l id="448">Mon cher Lindor.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Clitie, Marton.
+</stage>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="suprise">, en la surprenant.
+	</stage>
+	<l id="449">Vous avez raison, Clitie,</l>
+	<l id="450">Il est bon sur ce ton là.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="estonish">, étonnée.
+	</stage>
+	<l id="451">Te voilà ?</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Nous venons de Barcelonette.</stage>
+	<l id="452">Diantre ! Comme le coeur s'en donne,</l>
+	<l id="453">Quand l'amour le fait soupirer</l>
+	<l id="454">Il pense, il projette, il raisonne,</l>
+	<l id="455">Et finit par délibérer.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">Air De la Confession.</stage>
+	<l id="456">Puisque tu sais tout, que dois je faire ?</l>
+	<l id="457">Réponds-moi, ma chère !</l>
+	<l id="458">Au plus noir soupçon</l>
+	<l id="459">Ai-je raison</l>
+	<l id="460">De me soustraire :</l>
+	<l id="461">Ou dois-je bannir</l>
+	<l id="462">Mon amant de mon souvenir ?</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Margot sur la brune.</stage>
+	<l id="463">Votre chère tante.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="464" syll="2" part="i">Hé bien ?</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="464" syll="4" part="f">Beaucoup le tente.</l>
+	<l id="465">Votre chère tante</l>
+	<l id="466">Veut usurper vos droits.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="467">Ô Ciel je tremble !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="468">Ils sont ensemble !</l>
+	<l id="469">Cela ressemble...</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="470">Hélas tu vois</l>
+	<l id="471">Comme tout m'accable à la fois.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Elvire, Lindor, Clitie, Marton.
+</stage>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Ce qui me chagrine, hélas ! c'est que Claudine.</stage>
+<stage type="closer">Elvire s'avance.</stage>
+	<l id="472">Paix....</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="toward">, à Lindor.
+	</stage>
+	<l id="473">Oui, Monsieur, je pense</l>
+	<l id="474">Qu'un homme désoeuvré</l>
+	<l id="475">Aux ennuis est livré.</l>
+	<l id="476">Votre coeur timide,</l>
+	<l id="477">Que le respect guide,</l>
+	<l id="478">Peut sans me manquer,</l>
+	<l id="479">Franchement s'expliquer;</l>
+	<l id="480">J'excuserai même...</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="481">Le Chevalier vous aime,</l>
+	<l id="482">J'ai peu mérité</l>
+	<l id="483">Cet excès de bonté.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Quel mystère.</stage>
+	<l id="484">Le scrupule,</l>
+	<l id="485">Lindor, dans un homme élégant,</l>
+	<l id="486">Est ridicule.</l>
+	<l id="487">Le scrupule</l>
+	<l id="488">À la fin devient fatigant.</l>
+	<l id="489">L'adroit amant</l>
+	<l id="490">Sait d'un heureux moment</l>
+	<l id="491">Apercevoir le crépuscule.</l>
+	<l id="492">Une femme....décemment.</l>
+	<l id="493">Se prête à l'événement.</l>
+	<l id="494">Le scrupule, etc.</l>
+	<l id="495">Pour un mot qu'on vous dit</l>
+	<l id="496">Vous voilà tout interdit.</l>
+	<l id="497">Parlez en liberté...</l>
+	<l id="498">Mais quel air déconcerté !</l>
+	<l id="499">Je vous trouve excellent !</l>
+	<l id="500">Le trait est galant !</l>
+	<l id="501">Enfin j'ai Lindor</l>
+	<l id="502">Tort.</l>
+	<l id="503">Je conçois le scrupule,</l>
+	<l id="504">Pour plus d'une montrant du goût,</l>
+	<l id="505">Votre coeur brûle,</l>
+	<l id="506">Il circule,</l>
+	<l id="507">On ne peut pas parer à tout.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : L'autre jour étant assis.</stage>
+	<l id="508">Le détour ne me sied pas,</l>
+	<l id="509">Oui, je l'avouerai, Madame,</l>
+	<l id="510">Que malgré tous vos appas</l>
+	<l id="511">Une autre règne en mon âme.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="512">Le propos est flatteur.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="513">L'amour me justifie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="514">Quel est votre vainqueur ?</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="515">Interrogez Clitie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE</speaker><stage type="anger">, avec emportement.
+</stage>
+<stage type="title">AIR : De la Colombe.</stage>
+<stage type="toward">À sa nièce.</stage>
+	<l id="516">J'ai deux amants, vous me les enlevés.</l>
+	<l id="517">Quel attentat ! Ah j'en suis furieuse !</l>
+	<l id="518">J'ai deux amants, vous me les enlevez.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : On n'entend plus dessous l'ormeau.</stage>
+	<l id="519">De ce courroux injurieux</l>
+	<l id="520">Connaissez l'injustice ;</l>
+	<l id="521">Le Chevalier m'est odieux</l>
+	<l id="522">Je hais son artifice.</l>
+	<l id="523">Oui, mon coeur se décide aujourd'hui,</l>
+	<l id="524">C'est pour Lindor qu'il prononce,</l>
+	<l id="525">Je renonce</l>
+	<l id="526">À tout autre qu'à lui.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Je n'en veux pas davantage.</stage>
+	<l id="527">Vous avez l'âme si belle,</l>
+	<l id="528">Faites, Madame un effort.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="529">Ciel l'agréable nouvelle !</l>
+<stage type="title">À Clitie. </stage>
+	<l id="530">Quoi vous n'aimez que Lindor !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="531">Pour le fat qui vous outrage</l>
+	<l id="532">J'ai la plus grande aversion.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="533">Et non, non, non,</l>
+	<l id="534">Je n'en veux pas davantage.</l>
+<stage type="title">AIR : Printemps dans nos bocages.</stage>
+	<l id="535">Ma nièce, ma chère nièce,</l>
+	<l id="536">Vous me tranquillisez.</l>
+	<l id="537">Vos voeux, votre tendresse</l>
+	<l id="538">Seront favorisés.</l>
+<stage type="title">AIR : Ici je fonde une Abbaye.</stage>
+</sp>
+<sp who="LINDOR, CLITIE"><speaker>LINDOR, CLITIE.</speaker>
+	<l id="539">Vous nous comblez....</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="540">Je vous dispense</l>
+	<l id="541">De transports dont j'ai peu besoin,</l>
+	<l id="542">Votre bonheur et ma vengeance</l>
+	<l id="543">Vous tiennent quittes de ce soin.</l>
+<stage type="title">AIR : Du Prevôt des Marchands.</stage>
+	<l id="544">Ah ! ah ! Mon petit Chevalier !</l>
+	<l id="545">Clitie ? il faut l'humilier.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="546">Volontiers.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="547">Et comme il se pique</l>
+	<l id="548">D'avoir subjugué votre coeur,</l>
+	<l id="549">Par une tendresse ironique</l>
+	<l id="550">Prolongez encor son erreur.</l>
+<stage type="title">AIR : Sur le pont d'Avignon.</stage>
+	<l id="551">Je vais vous l'envoyer, contentez mon envie.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="552">Mon intérêts m'y porte, et vous serez servie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Lindor, Clitie, Marton.
+</stage>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : Quand on sait aimer et plaire.</stage>
+	<l id="553">Pour nos veux quel doux présage !</l>
+	<l id="554">Soupirons en sûreté.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="555">Le prix d'un tendre esclavage</l>
+	<l id="556">Est d'aimer en liberté.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">MENUET. Air. Meurs, cruelle infidèle.</stage>
+	<l id="557">Ah ! Clitie</l>
+	<l id="558">Que la vie</l>
+	<l id="559">Quand on peut vous plaire</l>
+	<l id="560">Devient chère</l>
+	<l id="561">Hélas je préfère</l>
+	<l id="562">Ce regard charmant</l>
+	<l id="563">à tout l'éclat brillant</l>
+	<l id="564">Du plus haut rang :</l>
+	<l id="565">Oui sans cesse</l>
+	<l id="566">Il me blesse ;</l>
+	<l id="567">L'amour tient ses armes</l>
+	<l id="568">De vos charmes;</l>
+	<l id="569">Sans crainte en ce jour</l>
+	<l id="570">Vous le fixez par le retour ;</l>
+	<l id="571">Son pouvoir</l>
+	<l id="572">Triomphe et sait prévoir</l>
+	<l id="573">Tous les dangers d'un apparent naufrage ;</l>
+	<l id="574">Sa douceur calme bientôt l'orage,</l>
+	<l id="575">Son flambeau dissipe le nuage</l>
+	<l id="576">Il conduit les pas</l>
+	<l id="577">Des amants vrais et délicats.</l>
+	<l id="578">Ah Clitie, et c.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">Second MENUET.</stage>
+	<l id="579">Oui pour jamais la crainte expire,</l>
+	<l id="580">En notre faveur tout conspire</l>
+	<l id="581">De l'amour suivons l'empire,</l>
+	<l id="582">Livrons-nous aux tendres feux</l>
+	<l id="583">Qu'il nous inspire.</l>
+	<l id="584">C'est pour aimer que l'on respire.</l>
+	<l id="585">Un coeur jouit dès qu'il soupire.</l>
+	<l id="586">C'est par ses noeuds</l>
+	<l id="587">Qu'il aspire</l>
+	<l id="588">Au destin plus heureux.</l>
+	<l id="589">Ce Dieu, sur un amant trompeur</l>
+	<l id="590">Exerce avec fureur</l>
+	<l id="591">Sa rigueur</l>
+	<l id="592">C'est aux perfides qu'il sait nuire,</l>
+	<l id="593">C'est pour eux qu'est fait son martyre,</l>
+	<l id="594">Un trait vengeur</l>
+	<l id="595">Les déchire.</l>
+	<l id="596">Ils forment des voeux sans pouvoir dire</l>
+	<l id="597">Oui, pour jamais la crainte expire, etc.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="watch">, les regardant.
+</stage>
+<stage type="title">AIR : De l'anonyme.</stage>
+	<l id="598">Par ma foi l'eau me vient à la bouche,</l>
+	<l id="599">Tant l'exemple a sur moi de pouvoir.</l>
+	<l id="600">À présent si quelque amant me touche</l>
+	<l id="601">Je saurai couronner son espoir ;</l>
+	<l id="602">Il sied fort mal d'être farouche,</l>
+	<l id="603">Quand on n'a qu'un temPs pour se pourvoir.</l>
+	<l id="604">Par ma foi l'eau me vient à la bouche,</l>
+	<l id="605">Tant l'exemple a sur moi de pouvoir !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Je serai mon devoir.</stage>
+	<l id="606">Mais voici notre suffisant,</l>
+	<l id="607">Il se croit ravissant,</l>
+	<l id="608">Exécutons notre projet.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="609">Qu'il a l'air satisfait ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Clitie, Le Chevalier, Lindor, Marton.
+</stage>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : De la Troteuse, Contredanse.</stage>
+	<l id="610">Quand on est Sûr de plaire,</l>
+	<l id="611">Ma foi voltiger est amusant ?</l>
+<stage type="title">À Clitie.</stage>
+	<l id="612">N'est-il pas vrai, ma chère,</l>
+	<l id="613">Que l'amour est plaisant ?</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="614">Oui, Monsieur et j'espère</l>
+	<l id="615">De l'hymen allumer le flambeau,</l>
+	<l id="616">Puisque l'amour m'éclaire</l>
+	<l id="617">Sur un choix aussi beau.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="618">Vous vouliez me le taire,</l>
+	<l id="619">Et cela me paraissait nouveau.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="620">Mais l'amour nous éclaire</l>
+	<l id="621">Sur un choix aussi beau.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Hé comment pourrait-on soupirer tristement.</stage>
+	<l id="622">En honneur, vous me faites plaisir ;</l>
+	<l id="623">Voilà parler à ravir,</l>
+	<l id="624">À mon gré,</l>
+	<l id="625">Votre air est un peu plus maniéré.</l>
+	<l id="626">Quand je donne</l>
+	<l id="627">Certains conseils aux gens...</l>
+	<l id="628">Tenez, Lindor s'étonne</l>
+	<l id="629">De vos progrès frappants...</l>
+<stage type="toward">À Lindor.</stage>
+	<l id="630">Sais-tu que la friponne</l>
+	<l id="631">A de belles dents !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : L'amour sait plus d'un tour.</stage>
+	<l id="632">Ah ! Que Monsieur est honnête !</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="633">Que j'aime cet encens !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="634">Il ferait ma conquête,</l>
+	<l id="635">Si j'en croyais mes sens ;</l>
+	<l id="636">Mais ma pudeur surmonte</l>
+	<l id="637">Un téméraire amour.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="638">Comment ! Marton, je crois, m'en conte ?</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="639">Non ce n'est pas mon tour,</l>
+	<l id="640">Non ce n'est pas mon tour.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR</speaker><stage type="ironic">, ironiquement.
+</stage>
+<stage type="title">AIR : Quand le péril est agréable.</stage>
+	<l id="641">Qui peur résister à tes charmes !</l>
+	<l id="642">Chevalier, ton air est divin ;</l>
+	<l id="643">Mais toi-même à Clitie enfin</l>
+	<l id="644">Tu va rendre les armes.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : De l'amour tout subit les lois.</stage>
+	<l id="645">Un Minois</l>
+	<l id="646">Peut bien quelquefois</l>
+	<l id="647">Nous toucher,</l>
+	<l id="648">Sans nous attacher ;</l>
+	<l id="649">Un éclair</l>
+	<l id="650">Est assez l'image</l>
+	<l id="651">Des feux d'un homme de bel air ;</l>
+	<l id="652">On le craint,</l>
+	<l id="653">Et même on se plaint</l>
+	<l id="654">D'un tourment</l>
+	<l id="655">Qu'il cause aisément.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="656">Volontiers,</l>
+	<l id="657">Ton humeur volage</l>
+	<l id="658">S'endort sur ses lauriers.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="659">Oh ! parbleu, s'il fallait aimer</l>
+	<l id="660">Toutes celles qu'on sait charmer,</l>
+	<l id="661">Le rôle serait assommant ;</l>
+	<l id="662">J'y renoncerais assurément ;</l>
+	<l id="663">Car enfin,</l>
+	<l id="664">Moi, si j'étais vain,</l>
+	<l id="665">Je pourrais,</l>
+	<l id="666">Tant que je voudrais,</l>
+	<l id="667">Me flatter</l>
+	<l id="668">Que plus de cent femmes</l>
+	<l id="669">Respirent pour me regretter ;</l>
+	<l id="670">Elles sont</l>
+	<l id="671">Du bruit, elles ont</l>
+	<l id="672">Beau crier</l>
+	<l id="673">Sans cesse prier</l>
+	<l id="674">Soins perdus !</l>
+	<l id="675">Je ris de leur flammes ; </l>
+<stage type="toward">À Clitie.</stage>
+	<l id="676">Mes soupirs vous sont dus. </l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="ironic">, ironiquement.
+</stage>
+<stage type="title">AIR : Le seul flageolet de Colin.</stage>
+	<l id="677">Je touche donc à cet instant.</l>
+	<l id="678">Que si fort je désire.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="679">Croyez-vous qu'au sort qui m'attend</l>
+	<l id="680">Je puisse bien suffire?</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="681">Oh, vous êtes très suffisant !</l>
+	<l id="682">On ne peut trop vous le dire.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="toward">, à Lindor.
+</stage>
+<stage type="title">AIR : Que j'estime mon cher voisin.</stage>
+	<l id="683">Hé bien, comment gouvernes-tu</l>
+	<l id="684">La respectable Elvire ?</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="685">Tu vois à mon air abattu,</l>
+	<l id="686">Qu'en vain mon coeur soupire.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Ah le bel oiseau, Maman.</stage>
+	<l id="687">Ah, Monsieur le Chevalier,</l>
+	<l id="688">Vous, que l'on prend pour modèle.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="689">Dont le talent singulier</l>
+	<l id="690">Est de vaincre chaque belle.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="691">Apprenez donc à Lindor</l>
+	<l id="692">À fléchir une cruelle.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="693">Enseignez donc à Lindor,</l>
+	<l id="694">L'art de plaire sans effort.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Des Insulaires.</stage>
+	<l id="695">Je le veux de toute mon âme,</l>
+	<l id="696">Écoute donc et retiens bien :</l>
+	<l id="697">Le piège où l'on prend une femme,</l>
+	<l id="698">Est pour nous autres moins que rien.</l>
+	<l id="699">Un air leste, un propos libre,</l>
+	<l id="700">Moitié hardi, moitié saillant,</l>
+	<l id="701">Le plus souvent</l>
+	<l id="702">Tout en riant,</l>
+	<l id="703">Piquer l'esprit en le contrariant...</l>
+	<l id="704">La raison perd bientôt l'équilibre,</l>
+	<l id="705">Quand on l'attaque avec tant de brillant !</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+<stage type="title">AIR : De Catinat.</stage>
+	<l id="706">Le beau sexe par moi fut toujours respecté.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="707">Ah ! Défais-toi, mon cher, de cette qualité ;</l>
+	<l id="708">Tiens, la soumission qu'on a pour son vainqueur.</l>
+	<l id="709">Nourrit sa vanité, sans émouvoir son coeur.</l>
+<stage type="title">AIR : Non je ne serai pas.</stage>
+	<l id="710">Plus le sexe a de droit, et plus il en abuse ;</l>
+	<l id="711">Qui l'encense est esclave, est aimé qui l'amuse.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="712">Ainsi, Monsieur Lindor, avant de m'enflammer,</l>
+	<l id="713">Profitez ; à ce prix on pourra vous aimer.</l>
+<stage type="title">AIR : Tu croyais en aimant Colette.</stage>
+	<l id="714">Votre maladresse est extrême,</l>
+	<l id="715">Vous porteriez trop mal vos fers.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="716">Quoi ! Le pauvre diable vous aime.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="717">Vraiment il s'en donne les airs.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="happy">, s'extasiant.
+</stage>
+<stage type="title">AIR : Un Cordelier d'une riche encolure.</stage>
+	<l id="718">Il sait nos voeux, et d'en former il ose !</l>
+	<l id="719">Oh ! La bonne chose !</l>
+<stage type="toward">À Lindor.</stage>
+	<l id="720">Tiens, je t'avertis</l>
+	<l id="721">Que tu me divertis.</l>
+<stage type="toward">À Clitie.</stage>
+	<l id="722">Le parallèle est, je vous le déclare,</l>
+	<l id="723">D'un singulier rare.</l>
+<stage type="kiss">Il l'embrasse.</stage>
+	<l id="724">Baise moi Lindor,</l>
+	<l id="725">Car le trait vaut de l'or.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Clitie, Elvire, Le Chevalier, Lindor, Marton.
+</stage>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="title">AIR : Des Billets doux.</stage>
+	<l id="726">Ah, vous arrivez à propos,</l>
+	<l id="727">Elvire, adieu votre repos.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="728">Pourquoi donc, je vous prie !</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="729">Lindor vous quitte avec éclat.</l>
+<stage type="laugh">Il rit.</stage>
+	<l id="730">Et même le petit ingrat</l>
+	<l id="731">Va m'enlever Clitie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Des étonnements.</stage>
+	<l id="732">Que prévenu pour de jeunes appas,</l>
+	<l id="733">Lindor néglige mon empire,</l>
+	<l id="734">Et vole à l'objet qui l'attire,</l>
+	<l id="735">Cela ne me surprend pas:</l>
+	<l id="736">Mais qu'un galant que le myrte couronne,</l>
+	<l id="737">Persuasif, flatteur, charmant,</l>
+	<l id="738">Par crainte ou par ménagement,</l>
+	<l id="739">Cède ces droits à quelque amant,</l>
+	<l id="740">Voilà ce qui m'étonne.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="laugh">, riant.
+</stage>
+<stage type="title">AIR : Vous voulez me faire chanter.</stage>
+<stage type="toward">À Clitie et à Lindor.</stage>
+	<l id="741">Elle donne dans le panneau.</l>
+</sp>
+<sp who="LINDOR, CLITIE"><speaker>CLITIE, LINDOR.</speaker>
+	<l id="742">L'aventure est comique.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="toward">À Elvire.</stage>
+	<l id="743">Nous sommes au même niveau ;</l>
+	<l id="744">Mais rien n'est plus physique[.]</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="745">Ainsi sur vous je compte fort.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="746">Je n'ai pas l'avantage,</l>
+	<l id="747">De savoir réparer le tort</l>
+	<l id="748">De deux ans de veuvage.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Du Menuet des Francs-Maçons.</stage>
+	<l id="749">Je préfère à votre tendresse</l>
+	<l id="750">Cet heureux refus.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="ironic">, raillant.&gt;
+	</stage>
+	<l id="751">De ce trait de délicatesse</l>
+	<l id="752">Je reste confus.</l>
+<stage type="toward">À Lindor.</stage>
+	<l id="753">Toi, tu crois que la bonne Dame</l>
+	<l id="754">Va cesser de m'aimer ; erreur.</l>
+	<l id="755">À travers de sa grandeur d'âme,</l>
+	<l id="756">Je vois le faible de son coeur.</l>
+<stage type="title">AIR : Que je regrette mon amant.</stage>
+	<l id="757">Morbleu, voilà comme on s'y prend,</l>
+	<l id="758">Tu vois que cela n'est point fade.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="759">J'agissais tout différemment.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="760">Mon ami, rien n'est plus maussade.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="toward">, à Lindor.
+	</stage>
+	<l id="761">Oui, soyez, Monsieur,</l>
+	<l id="762">Beau diseur,</l>
+	<l id="763">Grand menteur,</l>
+	<l id="764">Cajoleur,</l>
+	<l id="765">Persifleur,</l>
+	<l id="766">Mauvais railleur,</l>
+	<l id="767">Et vous serez notre vainqueur.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+<stage type="title">AIR : Babin que t'es gentille.</stage>
+	<l id="768">Lindor, vous entendez</l>
+	<l id="769">Cet avis salutaire.</l>
+	<l id="770">En vain vous prétendez</l>
+	<l id="771">En aimant pouvoir plaire.</l>
+	<l id="772">Une vive ardeur</l>
+	<l id="773">Va souvent au coeur.</l>
+	<l id="774">Mais l'art fait plus encore,</l>
+	<l id="775">Acquerrez ce joli talent.</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR</speaker><stage type="imitate">, contrefaisant le fat.
+	</stage>
+	<l id="776" syll="4" part="i">Oui, mon cher coeur.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="776" syll="2" part="m">Bravo !</l>
+</sp>
+<sp who="LINDOR"><speaker>LINDOR.</speaker>
+	<l id="776" syll="2" part="f">Vraiment,</l>
+	<l id="777">Je serai même impertinent.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="touch/kiss">, donnant sa main à Lindor qui la baise.
+	</stage>
+	<l id="778">Hé bien ! Je vous adore,</l>
+	<l id="779">Hé bien ! Je vous adore.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="estonish">, interdit.
+</stage>
+<stage type="title">AIR : Quand on parle de Lucifer.</stage>
+	<l id="780">Ma foi celui-là n'est pas mal...</l>
+	<l id="781">Mais quelle plaisanterie !</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON</speaker><stage type="show">, montrant Lindor.
+	</stage>
+	<l id="782">Oui, Monsieur est votre rival.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="783">Rival aimé de Clitie.</l>
+</sp>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+	<l id="784">Jugez du pouvoir de l'original,</l>
+	<l id="785">Puisqu'on se rend à la copie.</l>
+<stage type="title">AIR : De nécessité nécessitante.</stage>
+	<l id="786">N'est pas maladroit qui vous attrape.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="aparte">À part.</stage>
+	<l id="787">Voilà la première qui m'échappe.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="788">Chevalier la rencontre est piquante.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+<stage type="aparte">À part.</stage>
+	<l id="789">Si je perds la nièce, ayons la tante.</l>
+<stage type="title">AIR : C'est au désir que je l'attends.</stage>
+	<l id="790">J'y réussirai sans effort.</l>
+<stage type="loud">Haut.</stage>
+	<l id="791">Pour me piquer de jalousie,</l>
+	<l id="792">On feint de préférer Lindor</l>
+	<l id="793">Et par cette adresse infinie,</l>
+	<l id="794">Qui, je l'avouerai, me plaît fort,</l>
+	<l id="795">Je vous jure qu'elle est ma foi,</l>
+	<l id="796">Folle de moi,</l>
+<stage type="bis">bis.</stage>
+	<l id="797">Oui, Clitie est folle de moi.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE</speaker><stage type="toward">, à Lindor.
+</stage>
+<stage type="title">AIR : Du Prévôt des marchands.</stage>
+	<l id="798">Ah, qu'il perd bien son étalage !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="799">Si vous avez cet avantage,</l>
+	<l id="800">Monsieur, que ne l'épousez-vous ?</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="801">On voudrait bien que je le fisse ;</l>
+<stage type="toward">À Elvire.</stage>
+	<l id="802">Mais, Madame, il m'est bien plus doux</l>
+	<l id="803">De vous en faire un sacrifice.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Que j'aime mon cher Arlequin.</stage>
+	<l id="804">C'est agir trop modestement,</l>
+</sp>
+<sp who="TOUS"><speaker>TOUS.</speaker>
+	<l id="805">Ah, qu'il est drôle !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="806">Mille vous aiment tendrement ;</l>
+	<l id="807">Mais pour grossir un tel roman,</l>
+	<l id="808">Je ne suis pas si folle.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="809">Votre fierté gratuitement</l>
+	<l id="810">Donne dans l'hyperbole.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+<stage type="title">AIR : Un mouvement de curiosité.</stage>
+	<l id="811">Il n'est plus temps de songer à me plaire</l>
+	<l id="812">Oui, Chevalier, votre règne est passé ;</l>
+	<l id="813">Et ma raison, grâce à votre caractère,</l>
+	<l id="814">Sait dédaigner un sacrifice forcé.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="815">Quand le dépit s'arme d'un commentaire,</l>
+	<l id="816">On fait bien voir que le coeur est blessé.</l>
+<stage type="title">AIR : De la Fanfare de Saint-Cloud.</stage>
+	<l id="817">Ceci fort peu m'embarrasse,</l>
+	<l id="818">Et même j'en suis charmé ;</l>
+	<l id="819">L'amour propre qui menace</l>
+	<l id="820">Par l'amour est désarmé :</l>
+	<l id="821">Avant que le jour se passe</l>
+	<l id="822">Vous voudrez combler mes voeux,</l>
+	<l id="823">Lorsque je quitte une place,</l>
+	<l id="824">Je la reprends quand je veux.</l>
+<stage type="title">AIR : Nous sommes précepteurs d'amour. </stage>
+<stage type="aparte">À part.</stage>
+	<l id="825">Je suis pourtant pétrifié.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="826">Votre orgueil guérit ma faiblesse.</l>
+</sp>
+<sp who="CLITIE"><speaker>CLITIE.</speaker>
+	<l id="827">Ah qu'il a l'air humilié ?</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="watch">, tirant sa montre.
+	</stage>
+	<l id="828">Un autre m'attend, je vous laisse.</l>
+<stage type="title">AIR : Pour la Baronre.</stage>
+	<l id="829">Oui je vous laisse,</l>
+	<l id="830" syll="2" part="i">Je pars.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="830" syll="6" part="f">Allez, Monsieur, allez,</l>
+	<l id="831">Et de m'oublier je vous presse.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="back">, revenant.
+	</stage>
+	<l id="832">Je crois que vous me rappelez.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="833" syll="1" part="i">Non.</l>
+</sp>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
+	<l id="833" syll="3" part="f">Je vous laisse.</l>
+<stage type="exit">Il sort en chantant.</stage>
+	<l id="834">Témoins de ma gloire, aimables oiseaux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE DERNIERE.</head><stage> Elvire, Clitie, Lindor, Marton.
+</stage>
+<sp who="MARTON"><speaker>MARTON.</speaker>
+<stage type="title">AIR : Du Vaudeville d'Epicure.</stage>
+	<l id="835">S'Il chante, il n'en a pas envie.</l>
+</sp>
+<sp who="LINDOR, CLITIE"><speaker>LINDOR et CLITIE.</speaker>
+	<l id="836">Vous avez bien su le punir.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="837">Dès ce jour, ma chère Clitie,</l>
+	<l id="838">J'aurai le soin de vous unir.</l>
+	<l id="839">Si son départ un peu m'afflige,</l>
+	<l id="840">J'y gagne, car je me souviens</l>
+	<l id="841">Qu'un petit malheur qui corrige,</l>
+	<l id="842">Est le plus grand de tous les biens.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

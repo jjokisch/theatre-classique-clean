@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>CLERMONT-FERRAND, BRELAN DE PROLOGUES.</title>
+		<author type="texte" ISNI="0000 0003 7876 6682">Louis CHALMETON (1813-1879)</author>
+		</titleStmt>
+		<publicationStmp>	
+			<publisher>Texte établi par Paul FIEVRE, juillet 2023</publisher>
+			<publisher>Publié par Paul FIEVRE, août 2023</publisher>
+			<idno>CHALMETON_CLERMONTFERRAND</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmp>
+		<SourceDesc>
+			<genre>Prologue</genre>
+			<inspiration>Moeurs</inspiration>
+			<type>vers</type>
+			<structure>Un acte</structure>
+			<periode>1871-1880</periode>
+			<taille>0-250</taille>
+			<permalien cote="BnF LLA YE-17437">https://gallica.bnf.fr/ark:/12148/bpt6k56233051</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="sub">CLERMONT FERRAND</titlePart>
+			<titlePart type="main">dans BRELANS DE PROLOGUES</titlePart>
+		</docTitle> 
+		<docDate value="1878">1878</docDate>
+		<docAuthor id="CHALMETON, Louis">de LOUIS CHALMETON, OFFICIER D'ACADÉMIE, DE LA SOCIÉTÉ DES GENS DE LETTRES, DES ACADÉMIES DE CLERMONT ET DU GARD.</docAuthor>
+		<docImprint>
+			<editor type="COLLAY">CLERMONT-FERRAND, DUCROS-PARIS, LIBRAIRE, Mlle J. COLLY, SUCCESSEUR, rue Saint-Genès, n°5</editor>
+			<printer id="VIGOT">CLERMONT, Typ. A. VIGOT. rue de la Treille, 14.</printer>
+		</docImprint>		
+		<div type="préface"><adresse>AUX LECTEURS</adresse>
+			<head>Carissimi !</head>
+			<p type="v">Des vers toujours ; des vers encore !</p>
+			<p type="v">- À soixante-cinq ans passés ? - Et pourquoi pas ?</p>
+			<p type="v">La pêche a, pour certains, de... sérieux appas ;</p>
+			<p type="v">Un fusil sur l'épaule, on devance l'aurore ;</p>
+			<p type="v">L'écarté, le cheval, plaisent à tel ou tel !...</p>
+			<p type="v">.... Je ne chercherai pas à profaner l'autel</p>
+			<p type="v">De la divinité que chacun s'est choisie ;</p>
+			<p type="v">Mais laissez-moi, du moins, ma sainte poésie !</p>
+			<p type="v">Ne trouvez pas mauvais qu'à soixante-cinq ans,</p>
+			<p type="v">Hélas ! (honni soit qui de cet âge mal pense) !</p>
+			<p type="v">Ma vieille Muse et moi, soyons de connivence</p>
+			<p type="v">Pour vous rimer des vers, qu'à notre joie immense,</p>
+			<p type="v">Nous venons vous offrir, ô lecteurs bienveillants !</p>
+			<p>Les trois petits poèmes qui suivent ont été écrits, l'un, en vue de la reprise du Casino de Royat, l'autre, à propos de l'installation du Théâtre de la Bourboule ; le troisième, à l'occasion de la réouverture du Théâtre de Clermont.</p>
+			<p>Le premier est illustré du nom de la femme charmante qui symbolise Royat !</p>
+			<p>Nous devons, en outre, les splendeurs de notre Station Thermale à M. Samie, son Directeur, dont la triple qualité d'administrateur habile, d'artiste éminent et d'exquis homme du monde, a mis les choses de cet Eldorado sur un pied tel, que les progrès accomplis ne peuvent qu'y être maintenus dans une voie toujours ascendante.</p>
+			<p>À lui, merci au nom de tous !</p>
+			<p>Nous profitons de la publicité donnée à ces lignes pour ajouter à Ce remerciement collectif l'expression de tous nos meilleurs sentiments personnels d'affection et d'estime.</p>
+			<p>M. Alexandre Dumas, de l'Académie française, a été l'un des bienveillants auditeurs de notre Prologue Un Théâtre à la Bourboule ; nous avons l'honneur de le lui dédier en reconnaissance de l'excellent accueil qu'il a bien voulu lui faire.</p>
+			<p>M. Alfred Estival, enfin, est le nouveau Directeur de notre Théâtre ;</p>
+			<p>Confident de ses projets, nous connaissons tout ce qu'il prépare d'intelligentes réformes et de littéraires innovations ; grâce à lui, notre scène conquerra certainement bientôt un rang distingué en province.</p>
+			<p>Le Théâtre et le Livre va, donc naturellement à M. Estival, qui voudra bien trouver à ce souvenir, le témoignage de nos cordialités les plus sincères.</p>
+			<p>Royat - La Bourboule - Clermont. Bien chère trilogie que résume l'Auvergne, sous le patronage de laquelle nous mettons pieusement nos pauvres vers.</p>
+			<signature>L. C.</signature>
+		</div>
+		<castList><head>ACTEUR.</head>
+			<castItem><role id="LE RÉCITANT" sex="1" type="H" statut="récitant" age="A" stat_amour="néant">LE RÉCITANT</role>.</castItem>
+	</castList>
+	<set location="Clermont-Ferrand" country="France" periode="XIXème" gps="45.777222, 3.087025"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>CLERMONT-FERRAND</head>
+<div2 type="scene" n="1"><head>LE THEATRE ET LE LIVRE.</head>
+<stage type="dedicace">À Alfred ESTIVAL</stage>
+<stage type="thanks">Très cordial souvenir.</stage>
+<stage type="date">29 Septembre 1878.</stage>
+<stage type="explicit">Ouverture de la Saison d'Hiver.</stage>
+<sp who="LE RÉCITANT"><speaker/>
+	<l id="1" syll="6" part="i">Mesdames et Messieurs !</l>
+	<l id="1" syll="6" part="f">Une troupe nouvelle,</l>
+	<l id="2">Un nouveau directeur ne pouvaient dignement</l>
+	<l id="3">Se présentera vois, sans, préalablement,</l>
+	<l id="4">Vous avoir exposé, tant pour lui que pour elle,</l>
+	<l id="5">En vers (aux choses d'art, la rime convient mieux !)</l>
+	<l id="6">Quels sont, pour l'avenir, leurs projets sérieux !</l>
+	<l id="7">Un prologue, en un mot, m'a paru nécessaire.</l>
+	<l id="8">Un prologue ? non pas en pareille matière,</l>
+	<l id="9">Le boniment banal que vous connaissez tous,</l>
+	<l id="10">Le cliché suranné, la phrase toute faite,</l>
+	<l id="11">Le triste imbroglio que l'orateur complète</l>
+	<l id="12">Par le bruit du tambour, le son de la trompette...</l>
+	<l id="13">... Non ! Nous voulons, messieurs, être digne de vous</l>
+	<l id="14">Et sérieusement parler, car le théâtre,</l>
+	<l id="15">A pour vous, je le sais, la noble mission</l>
+	<l id="16">De donner, aux esprits, de l'élévation</l>
+	<l id="17">Et c'est le bon combat que l'on y vient combattre !</l>
+	<l id="18">Il est le porte-voix qui propage le beau,</l>
+	<l id="19">De la vérité sainte, il tient le clair flambeau,</l>
+	<l id="20">Le mensonge et le laid, doivent y trouver l'ombre !...</l>
+	<l id="21">... Certes, la passion a plus d'un côté sombre ;</l>
+	<l id="22">Elle est, mal définie, un mauvais conducteur ;</l>
+	<l id="23">Mais le théâtre est là pour la mettre en lumière,</l>
+	<l id="24">En signaler l'excès et rendre salutaire</l>
+	<l id="25">Ce tout puissant levier, dans ce qu'il a d'austère,</l>
+	<l id="26" syll="6" part="i">De sublime et de grand !</l>
+	<l id="26" syll="6" part="f">Oui, pour notre bonheur,</l>
+	<l id="27">Cette conviction est la votre, et nous sommes,</l>
+	<l id="28">Quant à nous, imprégnés du même sentiment ;</l>
+	<l id="29">Le théâtre, pour nous, est un enseignement,</l>
+	<l id="30">Sous une forme ailée, il conseille les hommes ;</l>
+	<l id="31">C'est un éducateur sérieux qui sourit,</l>
+	<l id="32">Pour s'emparer du coeur, i] passe par l'esprit,</l>
+	<l id="33">Pour éclairer l'effet, il explique la cause ;</l>
+	<l id="34">Sa démonstration est rapide et s'impose ;</l>
+	<l id="35">Le théâtre est vivant ! il a, par l'action,</l>
+	<l id="36">Le mouvement et la couleur ; tout y respire ;</l>
+	<l id="37">Un geste, un froncement de sourcils, un sourire,</l>
+	<l id="38">Y sont vécus, c'est dans le fait qu'on peut y lire ;</l>
+	<l id="39">Il est du coeur humain l'irradiation !</l>
+	<l id="40">Tout incisifs que soient les traits que La Bruyère</l>
+	<l id="41">Lançait pour corriger les travers de son temps,</l>
+	<l id="42">A ce peintre immortel de portraits saisissants,</l>
+	<l id="43">Mais, seulement tracés, comparez donc Molière.</l>
+	<l id="44">L'un décrit, l'autre fait palpiter ses héros ;</l>
+	<l id="45">Le premier analyse et prouve par des mots,</l>
+	<l id="46">Le second prend à_bras_le_corps, son personnage,</l>
+	<l id="47">Le scalpe de la main, en fait plus qu'une image</l>
+	<l id="48">De l'homme dont il est aussi le créateur</l>
+	<l id="49">Et son oeuvre, relief ardent de son génie,</l>
+	<l id="50">Prend une forme, où la nature à l'art unie,</l>
+	<l id="51">En se dramatisant, réalise la vie,</l>
+	<l id="52">Ce mélange idéal de la tête et du coeur.</l>
+	<l id="53">Au théâtre, en effet, l'idée est condensée ;</l>
+	<l id="54">Le drame présenté dans un cadre restreint,</l>
+	<l id="55">S'empare du public, le fascine et l'étreint ;</l>
+	<l id="56">On y va droit au but que la foule empressée,</l>
+	<l id="57">Haletante, vient y chercher : l'émotion.</l>
+	<l id="58">Le conte, le roman ont la diversion</l>
+	<l id="59">Pour attrait ; le lecteur complaisamment s'arrête ;</l>
+	<l id="60">Hier, un prosateur, et demain, un poète,</l>
+	<l id="61">Rien ne le presse, mais le spectateur est, lui,</l>
+	<l id="62">Impatient d'aller au bout et de conclure:</l>
+	<l id="63">Ce qui doit l'émouvoir a l'exacte envergure</l>
+	<l id="64">Que l'immuable loi de l'action mesure,</l>
+	<l id="65">Et la conclusion, il la veut aujourd'hui.</l>
+	<l id="66">Certes, le livre est bon, la presse est lumineuse,</l>
+	<l id="67">Ses cubes_de_métal sont des engins sauveurs ;</l>
+	<l id="68">De ses casses de bois surgissent des splendeurs.</l>
+	<l id="69">Quand l'homme intervenant, sa main prodigieuse</l>
+	<l id="70">Imprègne d'idéal, le plomb mystérieux,</l>
+	<l id="71">Qui, transformé, devient un livre radieux,</l>
+	<l id="72">Cet émancipateur de la pensée humaine !</l>
+	<l id="73">Oui, le livre est puissant ! À l'âme qu'il entraîne</l>
+	<l id="74">Il conseille le bon, préconise le beau,</l>
+	<l id="75">Ouvre des horizons plus larges, fait connaître</l>
+	<l id="76">Que le juste et le vrai, sont souvent dans peut-être,</l>
+	<l id="77">Doute éclairant, auquel pour l'empêcher de naître.</l>
+	<l id="78">L'ombre fit tes honneurs de la main du bourreau !</l>
+	<l id="70">Oui, le livre est vainqueur! sous sa modeste forme,</l>
+	<l id="80">Il conquiert ! Cependant, rien ne fait pressentir</l>
+	<l id="81">Les immenses clartés dont il doit resplendir.</l>
+	<l id="82">C'est à l'état latent que sa force est énorme ;</l>
+	<l id="83">Car, lui tout éloquence et vie, il resterait</l>
+	<l id="84">Inerte, si jamais personne ne l'ouvrait ;</l>
+	<l id="85">Pour le tirer de son trop dangereux silence,</l>
+	<l id="86">Il faut avec amour, lui faire violence ;</l>
+	<l id="87">C'est en l'y contraignant qu'on obtient ses faveurs ;</l>
+	<l id="88">Donc, il est incomplet, son action féconde</l>
+	<l id="89">Sur l'esprit du publie n'est pas assez profonde ;</l>
+	<l id="90">Il ne s'adresse pas, hélas 1 à tout le monde,</l>
+	<l id="91">Dans la foule, combien compte-t-on de lecteurs ?</l>
+	<l id="92">Mais le théâtre, lui, de façon moins discrète,</l>
+	<l id="93">S'offre à tous, il suffit, en effet, de vouloir</l>
+	<l id="94">S'y rendre, et de payer sa place, et de s'asseoir !</l>
+	<l id="95">Le spectacle varie ; un jour c'est un poète</l>
+	<l id="96">Et son drame puissant ; demain un prosateur</l>
+	<l id="97">Et son intrigue exquise et son style enchanteur;</l>
+	<l id="98">La musique, plus tard, y déploiera ses ailes!</l>
+	<l id="99">A ces promesses là, quels seraient les rebelles?</l>
+	<l id="100">Trouverait-on quelqu'un assez indifférent</l>
+	<l id="101">Pour passer outre, alors qu'une affiche attrayante</l>
+	<l id="102">Est là, devant ses yeux? Son esprit qu'elle tente</l>
+	<l id="103">Pourrait il résister ? Non ! et l'heure est pressante;</l>
+	<l id="104">A la tentation, il répond en entrant !</l>
+	<l id="105">Il trouve des amis, cause avec eux, leur serre</l>
+	<l id="106">Affectueusement la main en attendant</l>
+	<l id="107">Que les trois coups frappés, le rideau se levant,</l>
+	<l id="108">La scène s'ouvre enfin ! Aux loges, au parterre</l>
+	<l id="109">Le silence se fait, chacun des spectateurs</l>
+	<l id="110">Attentif, et donnant la parole aux acteurs</l>
+	<l id="111">Dont le geste et la voix vont tenter des merveilles,</l>
+	<l id="112">N'a qu'à bien écouter des yeux et des oreilles;</l>
+	<l id="113">Immobile à sa place, il se laisse ravir</l>
+	<l id="114">Par l'opéra tantôt et tantôt par le drame ;</l>
+	<l id="115">La musique et le vers s'emparent de son âme !</l>
+	<l id="116">Il lit, mais dans un livre où chaque mot l'enflamme,</l>
+	<l id="117">Il voit de ses feuillets de grands éclairs surgir;</l>
+	<l id="118">Car ce livre n'est pas un intermédiaire,</l>
+	<l id="119">Un agent indirect d'intérêt pour l'esprit,</l>
+	<l id="120">Pour le coeur, contenant seulement un écrit;</l>
+	<l id="121">Non ! Non ! Mais l'action s'y développe entière,</l>
+	<l id="122">L'homme y vit et s'y meut en toute vérité;</l>
+	<l id="123">Tous les discours tenus sont la réalité;</l>
+	<l id="124">Il n'est pas le miroir, mais la face elle même ;</l>
+	<l id="125">Ce n'y sont pas des mots seulement que : Je t'aime !</l>
+	<l id="126">Et le poignard tiré l'est effectivement ;</l>
+	<l id="127">Ce n'est pas un portrait, ce n'est pas une image ;</l>
+	<l id="128">Non ! Mais du coeur humain une vivante page ;</l>
+	<l id="129">Pour l'auditoire ému, tout ce qui s'en dégage,</l>
+	<l id="130">A les mille rayons de l'éblouissement,</l>
+	<l id="131">Le théâtre est cela, donc vive le théâtre!</l>
+	<l id="132">Ce vivat, permettez que je le pousse aussi</l>
+	<l id="133">Avec conviction, et puisse-t-il ici</l>
+	<l id="134">Nous toujours attirer une foule idolâtre,</l>
+	<l id="135">Amante de la muse, ardente à lui prouver</l>
+	<l id="136">Qu'à ses pieds tous les soirs on pourra la trouver !...</l>
+	<l id="137">.... Mesdames et messieurs, telle est notre espérance</l>
+	<l id="138">Je vous en fais l'aveu ; mais pour forcer la chance</l>
+	<l id="139">A ne jamais trahir, il faut non seulement,</l>
+	<l id="140">Ne pas se contenter de dire : je m'engage,</l>
+	<l id="141">Avoir l'intention... (vous connaissez l'adage</l>
+	<l id="142">Confirmé si souvent) et ne donner qu'un gage</l>
+	<l id="143">Trop platonique, hélas ! de cet engagement !</l>
+	<l id="144">Non ! non ! Il faut prouver, bien tenir sa promesse ;</l>
+	<l id="145">Pour n'aboutir qu'à moins, ne pas avancer plus.</l>
+	<l id="146">Dans un programme vrai, pas de mots superflus ;</l>
+	<l id="147">En somme, avec respect, au public on l'adresse,</l>
+	<l id="148" syll="6" part="i">Et ce public ... c'est vous !</l>
+	<l id="148" syll="6" part="f">Je viens donc affirmer</l>
+	<l id="149">Que nous ferons tous nos efforts pour vous charmer</l>
+	<l id="150">Et mériter, de plus en plus, vos sympathies.</l>
+	<l id="151">Nous ne vous offrirons que des pièces choisies,</l>
+	<l id="152">Tant en prose qu'en vers ; pas une nouveauté</l>
+	<l id="153">Digne de vous, jouée à Paris, qui ne prenne</l>
+	<l id="154">Le chemin de Clermont, et que sur votre scène</l>
+	<l id="155">Nous ne représentions, malgré les frais qu'entraîne</l>
+	<l id="156">Pour la direction cette précocité.</l>
+	<l id="157">En supplément du drame et de la comédie,</l>
+	<l id="158">Après Victor_Hugo, Dumas, Émile_Augier,</l>
+	<l id="159">Nous jouerons... quelquefois (faut-il pas varier ?)</l>
+	<l id="160">Un genre que le goût actuel congédie,</l>
+	<l id="161">Ainsi qu'un serviteur dont il n'a plus besoin,</l>
+	<l id="162">Mais qui pourra vous plaire encor... de loin en loin.</l>
+	<l id="163">N'est-ce pas? J'ai nommé, Messieurs, le vaudeville,</l>
+	<l id="164">Celte production agréable et facile,</l>
+	<l id="165">Française s'il en fut ! N'a-t-elle pas un droit</l>
+	<l id="166">Certain à figurer sur nos projets d'affiches ?</l>
+	<l id="167">À tous les saints... connus ne faut-il pas des niches ?</l>
+	<l id="168">Pourquoi l'exclusion, puisque nous sommes riches ?</l>
+	<l id="169">Du beau, du grand d'abord, du léger en surcroît !</l>
+	<l id="170">A défaut d'opéra, nous aurons l'opérette,</l>
+	<l id="171">Offenbach et Lecocq, Messieurs, nous suffiront ;</l>
+	<l id="172">Il serait dangereux, en effet, à Clermont,</l>
+	<l id="173">(Et vous savez pourquoi, sans que je le répète !)</l>
+	<l id="174">De trop sacrifier à la musique ; mais,</l>
+	<l id="175">Quand le printemps sera venu, je vous promets</l>
+	<l id="176">D'ajouter une corde aux cordes de la lyre !</l>
+	<l id="177">De nos maîtres fameux, les oeuvres qu'on admire</l>
+	<l id="178">Auront, durant deux mois de soleil et de fleurs,</l>
+	<l id="179">A vous charmer encor par des flots d'harmonie.</l>
+	<l id="180">La fleur a de l'attrait, certes, point ne le nie ;</l>
+	<l id="181">Mais n'est-elle pas trop, aux chastes soeurs unie,</l>
+	<l id="182">Pour vouloir s'emparer de toutes vos faveurs ?...</l>
+	<l id="183" syll="4" part="i">Deux mots encor !</l>
+	<l id="183" syll="8" part="f">Veuillez agréer, je vous prie,</l>
+	<l id="184">L'assurance des soins, du zèle persistant</l>
+	<l id="185">Que toujours et toujours, en artiste exigeant,</l>
+	<l id="186">J'apporterai, Messieurs, pour que tout vous sourie,</l>
+	<l id="187">De votre directeur, puisse-t-on dire un jour</l>
+	<l id="188">Qu'apprécié par vous et payant de retour</l>
+	<l id="189">Le précieux honneur de votre bienveillance,</l>
+	<l id="190">Il a... (son idéal est sans outrecuidance</l>
+	<l id="191">Et sa prétention n'a rien de triomphal !)</l>
+	<l id="192">Il a de ce théâtre augmenté le prestige,</l>
+	<l id="193">Compris que l'art ainsi que la noblesse oblige,</l>
+	<l id="194">Et que si quelqu'un doit être ici l'homme_lige</l>
+	<l id="195" syll="9" part="i">Du public clermontois, cet homme est </l>
+	<l id="195" syll="3" part="f">ESTIVAL !</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

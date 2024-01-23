@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>EN EXPRESS, MONOLOGUE</title>
+				<author type="texte" ISNI="">Arthur CHÉREAU ()</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, juillet 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, août 2023</publisher>
+				<idno>CHEREAU_ENEXPRESS</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>Moeurs</inspiration>
+				<type>vers</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>0-250</taille>
+				<permalien cote="BnF LLA 8-YTH-22096">https://gallica.bnf.fr/ark:/12148/bpt6k939692</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">EN EXPRESS</titlePart>
+			<titlePart type="sub">Monologue en vers.</titlePart>
+			<titlePart type="sub">dit par COQUELIN AINÉ, de la Comédie Française.</titlePart>
+		</docTitle> 
+		<docDate value="1886">1886</docDate>
+		<docAuthor id="CHÉREAU, Arthur">par ARTHUR CHÉREAU</docAuthor>
+		<docImprint>
+			<bookstore>PARIS PAUL OLLENDORF, ÉDITEUR, 28 bis, RUE DE RICHELIEU, 28 bis.</bookstore>
+			<printer id="PICHAT">Imprimerie Générale de Chatillon-sur-Seine.- A. PICHAT</printer>
+			<copyright>Tous droits réservés.</copyright>
+		</docImprint>		
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="LE NARRATEUR" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LE NARRATEUR</role>, COQUELIN AÎNÉ</castItem>
+	</castList>
+	<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+</front>
+<body>
+<div1 type="acte" n="1"><head>EN EXPRESS</head>
+<div2 type="scene" n="1"><head/>
+<sp who="LE NARRATEUR"><speaker/>
+<poem type="parties">
+<lg n="1">
+	<l id="1">J'aime beaucoup voyager,</l>
+	<l id="2">Mais seul : la compagnie empêche de songer</l>
+	<l id="3">Et de bien voir le paysage ;</l>
+	<l id="4">Et puis il me plaît de causer, quant à moi,</l>
+	<l id="5">Avec n'importe qui touchant n'importe quoi :</l>
+	<l id="6">D'un mot, je suis un peu sauvage.</l>
+	<l id="7">Chacun son naturel. Lors donc que je voyage,</l>
+	<l id="8">Je recherche l'isolement</l>
+	<l id="9">Et, la tête en dehors de mon compartiment,</l>
+	<l id="10">Je veille, de peur qu'on ne l'ouvre,</l>
+	<l id="11">Comme jadis la garde aux barrières du Louvre.</l>
+	<l id="12">Un jour, ainsi campé, j'attendais le départ.</l>
+	<l id="13">Ceux qui voyaient mon air se sauvaient autre_part.</l>
+	<l id="14">Tout le monde se loge enfin et je m'installe,</l>
+	<l id="15">Seul ! - Mais j'avais compté sans les gens en retard</l>
+	<l id="16">Un monsieur hors d'haleine entre comme un Vandale.</l>
+	<l id="17">- Le vapeur siffle. En marche ! - Un monsieur très gentil</l>
+	<l id="18">Peut-être est-il discret et me laissera-t-il,</l>
+	<l id="19">Sinon tant pis pour lui, je fais quelque scandale !</l>
+	<l id="20">- Il me salue et fort civilement,</l>
+	<l id="21">Je lui réponds et fort brutalement.</l>
+	<l id="22">Il m'oppose un cigare et moi je lui réplique</l>
+	<l id="23">Du geste un refus sec. Sans se décourager,</l>
+	<l id="24">Après certain coup_d_oeil oblique</l>
+	<l id="25">Il va jusqu'à m'interroger :</l>
+	<l id="26">- « Allez-vous loin, Monsieur ? » - J'enrageais taciturne.</l>
+	<l id="27">Renfonce, renfrogné comme un oiseau nocturne.</l>
+	<l id="28">Bavarde tant qu'il plaira,</l>
+	<l id="29">Morbleu ! Je suis sourd. On verra. </l>
+	<l id="30">- « Monsieur, allez-vous loin ?... » Et moi je tends l'oreille.</l>
+	<l id="31">Dieu sait pourtant qu'il parlais bas !</l>
+	<l id="32">- Allez-vous à Lyon ?... Allez -vous à Marseille ?...</l>
+	<l id="33">- Non, merci, je ne fume pas... »</l>
+	<l id="34">Ah ! ah! pensais-je, admirable riposte !</l>
+	<l id="35">Pouffant de rire, il retourne à son poste ?</l>
+	<l id="36">Plus que lui je riais, sauvé sans trop de mal,</l>
+	<l id="37">Quand il conclut : « Est-il sourd l'animal ? »</l>
+	<l id="38">Eh ! eh ! pensai-je un tant soir peu morose,</l>
+	<l id="39">Pour un faux sourd tout n'est pas rose !...</l>
+</lg>
+<lg n="2">
+	<l id="40">Bientôt il descendit - seul - et remonta deux :</l>
+	<l id="41">Une petite femme au parfum capiteux,</l>
+	<l id="42">Aux yeux noirs pétillants, à la bouche maligne,</l>
+	<l id="43">Vive comme l'anguille aux méandres glissants.</l>
+	<l id="44">Bienheureux le pêcheur qui la prit à la ligne !</l>
+	<l id="45">Ah ! Maintenant causons, cher Monsieur, j'y consens !</l>
+	<l id="46">Or c'était une jeune et fraîche mariée,</l>
+	<l id="47">Je le sus par la suite et qu'à ce rendez-vous</l>
+	<l id="48">Elle avait rejoint son époux.</l>
+	<l id="49">Elle eut, m'apercevant, une moue ennuyée.</l>
+	<l id="50">- « Bah ! lui dit-il, Charlotte, il est sourd comme un pot. »</l>
+	<l id="51">Décidément, j'étais capot.</l>
+	<l id="52">- « Quoi : Sourd ? réfléchit-elle en frappant ses mains folles,</l>
+	<l id="53">Nous pourrons au moins nous aimer en paroles ?...  »</l>
+	<l id="54">Oh ! oh ! pensais-je, impossible ! Il me faut</l>
+	<l id="55">D'honneur les inviter à n'aimer pas tout haut !...</l>
+	<l id="56">- « Huit jours, reprit la jeune femme,</l>
+	<l id="57">Huit longs jours sans se voir et,  quand on se revoit,</l>
+	<l id="58">N'être pas seuls !... » - Chacun alors ouvrit son âme,</l>
+	<l id="59">Où l'autre s'abreuvait comme un oiseau qui boit.</l>
+	<l id="60">- Tu crois qu'il n'entend pas ? disait la pauvre amie ; </l>
+	<l id="61">- Qui ? Lui ? Pas plus qu'une momie !</l>
+	<l id="62">- Quel dommage au physique il n'est pas mal pourtant. »</l>
+	<l id="63">(Là, de ne pas être sourd j'étais assez content.)</l>
+	<l id="64">- « Peut-il en cet état se marier quand même ?</l>
+	<l id="65">Poursuit-elle d'un air contrit,</l>
+	<l id="66">Comment s'y prendrait-on pour lui dire : je t'aime ?... »</l>
+	<l id="67">Là-dessus, d'un fantasque esprit</l>
+	<l id="68">Sans doute aiguillonné par ma sotte présence,</l>
+	<l id="69">Elle me décocha toute sa médisance,</l>
+	<l id="70">Tous les désagréments de cette infirmité</l>
+	<l id="71">Dont j'affectais trop bien l'impassibilité,</l>
+	<l id="72">Un étourdissant babillage,</l>
+	<l id="73">Des gammes de rire éclatant.</l>
+	<l id="74">- « C'est un colis, dit-elle en m'inspectant,</l>
+	<l id="75">On s'est trompé dans l'emballage ! »</l>
+	<l id="76">(Là, de n'être pas sourd je n'étais plus content !)</l>
+	<l id="77">Elle allait, se grisant d'une ivresse enfantine,</l>
+	<l id="78">Et répétait dans ses ébats :</l>
+	<l id="79">- Mais Gaston, puisqu'il n'entend pas !... </l>
+	<l id="80">On est puni par où l'on pèche. - La mutine,</l>
+	<l id="81">Me guettait ; un moment je détourne les yeux</l>
+	<l id="82">Et j'entends le baiser le plus séditieux !...</l>
+	<l id="83">De son audace peu commune</l>
+	<l id="84">Elle tremble après coup, elle articule : « Ciel !</l>
+	<l id="85">- Il rêve dit Gaston, il marche dans la lune... »</l>
+	<l id="86">Ce sont eux qui marchaient dans le lune... de miel !</l>
+	<l id="87">Je n'osais plus me retourner, profane.</l>
+	<l id="88">- « Ah ! murmurait un organe charmant,</l>
+	<l id="89">Ah ! S'il était aveugle, seulement !</l>
+	<l id="90">- Mains encor, s'il dormait ! » soupirait l'autre organe.</l>
+	<l id="91">Dormir ; Si je faisait semblant ?</l>
+	<l id="92">Sans mentir, j'en eus la pensée</l>
+	<l id="93">Séduisante, mais repoussée,</l>
+	<l id="94">Et je me retournerai, comme Argus vigilant.</l>
+</lg>
+<lg n="3">
+	<l id="95">Je déplorai d'ailleurs mon stratagème.</l>
+	<l id="96">Ces rôles tiers sont singuliers.</l>
+	<l id="97">Depuis les papillons jusqu'au couple lui-même </l>
+	<l id="98">Tout conjuguait le verbe : « J'aime » ;</l>
+	<l id="99">J'étais dans mes petits souliers,</l>
+	<l id="100">Refroidi par le pittoresque,</l>
+	<l id="101">Rêvant Arlésienne, Espagnole ou Mauresque.</l>
+	<l id="102">- « Dormira-t-il ? Entendais-je toujours.</l>
+	<l id="103">Dors, voisin ! soufflait l'un ; l'autre : dors, roi des sourds ! »</l>
+</lg>
+<lg n="4">
+	<l id="104">C'en était trop. Plus prompt que le salpêtre</l>
+	<l id="105">Et m'affublant d'un titre redouté,</l>
+	<l id="106">- « Non ! dis-je avec autorité,</l>
+	<l id="107">Je ne dormirai pas, je suis garde-champêtre !... »</l>
+	<l id="108">D'ici vous jugez l'effet.</l>
+	<l id="109">L'épouse rougit fort et l'époux stupéfait :</l>
+	<l id="110">- Vous n'étiez donc pas sourd ? - Hé ! Pas le moins du monde... »</l>
+	<l id="111">À ces mots, comme un chat qui gronde</l>
+	<l id="112">Il se hérisse furieux,</l>
+	<l id="113">Va me manger le nez ou m'arracher les yeux,</l>
+	<l id="114">Quand le train s'arrêtant, madame saut à terre</l>
+	<l id="115">Et, pour couper court au procès,</l>
+	<l id="116">Entraîne à quelques pas monsieur qu'il fait taire.</l>
+	<l id="117">Colloque entre_eux et rire : Enfin un vrai succès.</l>
+	<l id="118">Gaston m'offre la main et moi, de ma portière,</l>
+	<l id="119">Saluant et déjà roulant vers la frontière ;</l>
+	<l id="120">- « Un peu plus, lui criai-je, et je verbalisais !...  »</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

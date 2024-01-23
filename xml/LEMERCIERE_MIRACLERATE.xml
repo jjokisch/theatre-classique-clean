@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE MIRACLE RATÉ, MONOLOGUE</title>
+				<author ISNI="0000 0001 2119 3444">Eugène LEMERCIER (1830-1918)</author>
+			</titleStmt>
+			<publicationStmp>	
+				<publisher>Texte établi par Paul FIEVRE, avril 2023</publisher>
+				<publisher>Publié par Paul FIEVRE, mai 2023</publisher>
+				<idno>LEMERCIERE_MIRACLERATE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Monologue</genre>
+				<inspiration>moeurs</inspiration>
+				<type>prose</type>
+				<structure>Un acte</structure>
+				<periode>1881-1890</periode>
+				<taille>(mesure non pertinente)</taille>
+				<permalien cote="BnF LLA 4-YF-299 (5)">https://gallica.bnf.fr/ark:/12148/bpt6k61349404</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE MIRACLE RATÉ</titlePart>
+			<titlePart type="sub">MONOLOGUE POUR ENFANTS</titlePart>
+			<titlePart type="sub">PRIX : 30 CENTIMES</titlePart>
+		</docTitle> 
+		<docDate value="1896">1896</docDate>
+		<docAuthor id="LEMERCIER, Eugène">PAR EUGÈNE LEMERCIER.</docAuthor>
+		<docImprint>
+			<copyright id="1927">Copyright 1927 by Francis Salabert. Tous droits d'exécution publique, de traduction, de reproduction et d'arrangements réservés pour tous pays, y compris la Suède, la Norvège et le .</copyright>
+			<editor id="SALABERT">Propriété de S. E. M. F. A. Agence exclusive :  78, Avenue des Champs-Elysées (Arcades) 35, Bd des Capucines — 107, Avenue Victor Hugo,Paris. PARIS, BRUXELLES, NEW-YORK. ÉDITIONS FRANCIS SALABERT. Vente en gros : 37 R. Chauchat Paris 9°, - 14, rue de Loxum, BRUXELLES</editor>
+			<printer>13129. Dijon-Paris, Imprimerie Régionale. - Dr : J. CHAVALIER.</printer>
+		</docImprint>
+		<castList><head>PERSONNAGE</head>
+			<castItem><role id="L'ENFANT" sex="2" type="H" statut="bourgeois" age="E" stat_amour="néant">L'ENFANT</role>.</castItem>
+	</castList>
+   <set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222"/>
+   <note>Ce monologue est extrait du volume "Eugène Lemercier, Choix de 10 monologues".</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LE MIRACLE RATÉ</head>
+<div2 type="scene" n="1"><head/>
+<sp who=""><speaker/>
+<poem type="">
+<lg n="1">
+	<l id="1">C'était le curé du hameau,</l>
+	<l id="2">C'était même un berger modèle,</l>
+	<l id="3">Mais il comptait, dans son troupeau,</l>
+	<l id="4">Plus d'une brebis infidèle ;</l>
+</lg>
+<lg n="2">
+	<l id="5">Et, dans le saint lieu déserté,</l>
+	<l id="6">Il murmurait : « C'est la débâcle !</l>
+	<l id="7">Pour ranimer leur piété,</l>
+	<l id="8">Il me faudrait un bon miracle ! ».</l>
+</lg>
+<lg n="3">
+	<l id="9">Or, un jour, à son bedeau Jean,</l>
+	<l id="10">Il dit : « Vous allez me promettre</l>
+	<l id="11">De suivre, en homme intelligent,</l>
+	<l id="12">Mes instructions à la lettre.</l>
+</lg>
+<lg n="4">
+	<l id="13">Vous, qui vivez dans le saint lieu,</l>
+	<l id="14">Vous avez remarqué, sans doute,</l>
+	<l id="15">En élevant votre âme à Dieu </l>
+	<l id="16">Des trous perforés dans la voûte ?</l>
+</lg>
+<lg n="5">
+	<l id="17">« De ces trous, tout là-haut perchés,</l>
+	<l id="18">Pendent d'interminables câbles</l>
+	<l id="19">Au bout desquels sont attachés</l>
+	<l id="20">Autant de lustres remarquables,</l>
+</lg>
+<lg n="6">
+	<l id="21">Ceci dit, écoutez-moi bien :</l>
+	<l id="22">(Pour ne pas faire de boulettes,</l>
+	<l id="23">Prenez d'abord — n'oubliez rien — </l>
+	<l id="24">Cette étoupe et ces allumettes.) »</l>
+</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>
