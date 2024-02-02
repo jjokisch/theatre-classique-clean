@@ -50,9 +50,11 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LES DEUX TIMIDES</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Annette, puis Cécile.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Annette, puis Cécile.
+</stage>
 <stage type="decor/furniture">Salon de campagne, ouvrant au fond sur un jardin par une grande porte. — Porte à gauche. — Portes dans les pans coupés. — Cheminée à droite. — Une pendule et des vases sans fleurs sur la cheminée. — Une table avec encrier, papier et plumes, à gauche. — À droite, un guéridon. — Un petit buffet après la porte de gauche. — Chaises, fauteuils.</stage>
-<sp stage="entrance/location" who="ANNETTE"><speaker>ANNETTE, venant du fond une bouilloire à la main et entrant par la gauche, pan coupé.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="entrance/location">, venant du fond une bouilloire à la main et entrant par la gauche, pan coupé.
+</stage>
 <p id="1">
 	<s id="1">Monsieur, c'est votre eau chaude...</s>
 </p>
@@ -77,7 +79,8 @@
 	<s id="3">Elle revient de sa promenade du matin avec une botte de fleurs dans son panier et son petit volume à la main.</s>
 </p>
 </sp>
-<sp stage="entrance/location" who="CÉCILE"><speaker>CÉCILE, venant du jardin.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="entrance/location">, venant du jardin.
+</stage>
 <stage type="title">Air de la Clef des champs (Deffès)</stage>
 	<l id="1">Le bon La_Fontaine</l>
 	<l id="2">Nous peint le tableau</l>
@@ -146,7 +149,8 @@
 	<s id="3">Mais l'autre jour, en voulant ouvrir sa fenêtre, il en a cassé un !...</s>
 </p>
 </sp>
-<sp stage="ironic" who="CÉCILE"><speaker>CÉCILE, ironiquement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="ironic">, ironiquement.
+</stage>
 <p id="13">
 	<s id="1">Voilà un grand malheur !</s>
 	</p>
@@ -163,7 +167,8 @@
 	<s id="2">Cela m'est désagréable, cela m'agace !</s>
 </p>
 </sp>
-<sp stage="estonish" who="ANNETTE"><speaker>ANNETTE, étonnée.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="estonish">, étonnée.
+</stage>
 <p id="16">
 	<s id="1">Votre futur ?</s>
 </p>
@@ -183,7 +188,8 @@
 	<s id="2">Il est dans son cabinet depuis une grande heure avec un particulier venu de Paris...</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, venant vivement à elle.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, venant vivement à elle.
+</stage>
 <p id="19">
 	<s id="1">De Paris ? </s>
 	<s id="2">Un jeune homme... </s>
@@ -196,7 +202,8 @@
 	<s id="1">Non... celui-là est brun... avec des moustaches et une barbe comme du cirage.</s>
 </p>
 </sp>
-<sp stage="disapointed" who="CÉCILE"><speaker>CÉCILE, désappointée.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="disapointed">, désappointée.
+</stage>
 <p id="21">
 	<s id="1">Ah !</s>
 </p>
@@ -226,8 +233,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les Mêmes, Thibaudier.</head>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, venant du pan coupé de droite, à la cantonade, en saluant.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les Mêmes, Thibaudier.
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, venant du pan coupé de droite, à la cantonade, en saluant.
+</stage>
 <p id="1">
 	<s id="1">Monsieur, c'est à moi de vous remercier... </s>
 	<s id="2">Enchanté...</s>
@@ -261,7 +270,8 @@
 	<s id="1">Mais c'est vous qu'il a dérangé.</s>
 </p>
 </sp>
-<sp stage="location" who="ANNETTE"><speaker>ANNETTE, au fond.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="location">, au fond.
+</stage>
 <p id="6">
 	<s id="1">Est-il bon, au moins, son vin ?</s>
 </p>
@@ -271,7 +281,8 @@
 	<s id="1">Veux-tu goûter ?</s>
 </p>
 </sp>
-<sp stage="get" who="ANNETTE"><speaker>ANNETTE, prenant un verre sur le buffet.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="get">, prenant un verre sur le buffet.
+</stage>
 <p id="8">
 	<s id="1">Voyons ! </s>
 </p>
@@ -288,7 +299,8 @@
 	<s id="4">Alors, j'en ai pris quatre pièces...</s>
 </p>
 </sp>
-<sp who="ANNETTE"><speaker>ANNETTE, prenant les échantillons.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage>, prenant les échantillons.
+</stage>
 <p id="11">
 	<s id="1">Voilà de quoi faire de la salade.</s>
 </p>
@@ -299,7 +311,8 @@
 <stage type="exit">Elle entre à gauche, pan coupé.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Thibaudier, Cécile ; puis Annette.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Thibaudier, Cécile ; puis Annette.
+</stage>
 <sp who="THIBAUDIER"><speaker>THIBAUDIER.</speaker>
 <p id="1">
 	<s id="1">Comment ! </s>
@@ -353,7 +366,8 @@
 	<s id="2">Tu oseras ?...</s>
 </p>
 </sp>
-<sp stage="serious" who="CÉCILE"><speaker>CÉCILE, résolument.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="serious">, résolument.
+</stage>
 <p id="10">
 	<s id="1">Tiens !</s>
 </p>
@@ -623,13 +637,15 @@
 	<s id="2">C'est qu'il t'aime ?</s>
 </p>
 </sp>
-<sp stage="stand" who="CÉCILE"><speaker>CÉCILE, se levant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="stand">, se levant.
+</stage>
 <p id="54">
 	<s id="1">Dame, papa !... </s>
 	<s id="2">Si cela était ?</s>
 </p>
 </sp>
-<sp stage="stand" who="THIBAUDIER"><speaker>THIBAUDIER, se levant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="stand">, se levant.
+</stage>
 <p id="55">
 	<s id="1">Si cela était, il serait venu... </s>
 	<s id="2">Il n'est pas venu... </s>
@@ -637,13 +653,15 @@
 	<s id="4">Et j'en suis bien aise, car, au point où sont les choses avec Monsieur Garadoux...</s>
 </p>
 </sp>
-<sp stage="entrance" who="ANNETTE"><speaker>ANNETTE, entrant par le fond.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="entrance">, entrant par le fond.
+</stage>
 <p id="56">
 	<s id="1">Monsieur, c'est une lettre que le facteur apporte.</s>
 </p>
 <stage type="exit">Elle sort.</stage>
 </sp>
-<sp stage="enthousiasm" who="CÉCILE"><speaker>CÉCILE, vivement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="enthousiasm">, vivement.
+</stage>
 <p id="57">
 	<s id="1">L'écriture de ma marraine !</s>
 </p>
@@ -658,7 +676,8 @@
 	<s id="2">Il aime notre chère Cécile..."</s>
 </p>
 </sp>
-<sp stage="happy" who="CÉCILE"><speaker>CÉCILE, avec joie.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="happy">, avec joie.
+</stage>
 <p id="60">
 	<s id="1">J'en étais bien sûre !</s>
 </p>
@@ -722,19 +741,23 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les Mêmes, Garadoux, Annette.</head>
-<sp stage="entrance" who="GARADOUX"><speaker>GARADOUX, entrant par la gauche, pan coupé.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les Mêmes, Garadoux, Annette.
+</stage>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="entrance">, entrant par la gauche, pan coupé.
+</stage>
 <p id="1">
 	<s id="1">Bonjour... </s>
 	<s id="2">Cher beau-père...</s>
 </p>
 </sp>
-<sp stage="wave" who="THIBAUDIER"><speaker>THIBAUDIER, saluant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="wave">, saluant.
+</stage>
 <p id="2">
 	<s id="1">Monsieur Garadoux...</s>
 </p>
 </sp>
-<sp sytage="wave" who="GARADOUX"><speaker>GARADOUX, saluant Cécile.</speaker>
+<sp sytage="wave" who="GARADOUX"><speaker>GARADOUX</speaker><stage>, saluant Cécile.
+</stage>
 <p id="3">
 	<s id="1">Ma charmante future... </s>
 	<s id="2">Vous êtes fraîche, aujourd'hui, comme un bouquet de cerises.</s>
@@ -746,7 +769,8 @@
 </p>
 <stage type="walk/decor">Elle remonte à la table.</stage>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="5">
 	<s id="1">Oh ! </s>
 	<s id="2">Elle va trop loin ! </s>
@@ -792,23 +816,27 @@
 </p>
 <stage type="get">Il tire un petit instrument de sa poche et lime ses ongles.</stage>
 </sp>
-<sp stage="aparte/sit" who="THIBAUDIER"><speaker>THIBAUDIER, à part, s'asseyant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte/sit">, à part, s'asseyant.
+</stage>
 <p id="14">
 	<s id="1">Le voilà parti !... </s>
 	<s id="2">C'est très commode !</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part. </speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part. 
+</stage>
 <p id="15">
 	<s id="1">Il fait sa toilette !</s>
 </p>
 </sp>
-<sp stage="wash" who="GARADOUX"><speaker>GARADOUX, continuant à faire sa toilette.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="wash">, continuant à faire sa toilette.
+</stage>
 <p id="16">
 	<s id="1">L'abeille diligente commence ses visites à la rose pendant que la fauvette à tête noire...</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="17">
 	<s id="1">C'est impatientant ! </s>
 </p>
@@ -827,7 +855,8 @@
 	<s id="1">Vous l'avez monté, hier soir... et mon père n'a pu le lire...</s>
 </p>
 </sp>
-<sp stage="aparte/stand" who="THIBAUDIER"><speaker>THIBAUDIER, à part, se levant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte/stand">, à part, se levant.
+</stage>
 <p id="21">
 	<s id="1">Oh !... </s>
 	<s id="2">A-t-elle un aplomb !</s>
@@ -844,7 +873,8 @@
 	<s id="2">Il n'y a pas de mal !</s>
 </p>
 </sp>
-<sp stage="get" who="GARADOUX"><speaker>GARADOUX, tirant le journal de sa poche.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="get">, tirant le journal de sa poche.
+</stage>
 <p id="24">
 	<s id="1">Je ne l'ai pas même lu...</s>
 </p>
@@ -855,28 +885,33 @@
 	<s id="2">Alors, gardez-le, Monsieur_Garadoux !</s>
 </p>
 </sp>
-<sp stage="give" who="GARADOUX"><speaker>GARADOUX, insistant pour le rendre.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="give">, insistant pour le rendre.
+</stage>
 <p id="26">
 	<s id="1">Non, je vous en prie !</s>
 </p>
 </sp>
-<sp stage="oppose" who="THIBAUDIER"><speaker>THIBAUDIER, refusant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="oppose">, refusant.
+</stage>
 <p id="27">
 	<s id="1">Moi, je vous en supplie...</s>
 </p>
 </sp>
-<sp stage="hide" who="GARADOUX"><speaker>GARADOUX, le remettant dans sa poche.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="hide">, le remettant dans sa poche.
+</stage>
 <p id="28">
 	<s id="1">Allons, puisque vous le voulez !</s>
 </p>
 <stage type="location/dress">Il va à la cheminée et arrange sa cravate devant la glace.</stage>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="29">
 	<s id="1">J'aurais pourtant bien voulu voir le cours de la rente !</s>
 </p>
 </sp>
-<sp stage="entrance" who="ANNETTE"><speaker>ANNETTE, entrant.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="30">
 	<s id="1">Monsieur...</s>
 </p>
@@ -892,7 +927,8 @@
 </p>
 <stage type="give">Elle remet la carte à Thibaudier.</stage>
 </sp>
-<sp stage="closer/quick" who="CÉCILE"><speaker>CÉCILE, se rapprochant vivement de son père.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="closer/quick">, se rapprochant vivement de son père.
+</stage>
 <p id="33">
 	<s id="1">Un monsieur ?...</s>
 </p>
@@ -902,14 +938,16 @@
 	<s id="2">Monsieur Jules !</s>
 </p>
 </sp>
-<sp stage="low" who="THIBAUDIER"><speaker>THIBAUDIER, bas.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="low">, bas.
+</stage>
 <p id="35">
 	<s id="1">Saprelotte !... </s>
 	<s id="2">Et devant l'autre !... </s>
 	<s id="3">Que faire ?</s>
 </p>
 </sp>
-<sp stage="low" who="CÉCILE"><speaker>CÉCILE, bas.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="low">, bas.
+</stage>
 <p id="36">
 	<s id="1">Vous ne pouvez pas lui refuser votre porte.</s>
 </p>
@@ -950,7 +988,8 @@
 	<s id="1">Arroser mes fleurs.</s>
 </p>
 </sp>
-<sp stage="cold" who="GARADOUX"><speaker>GARADOUX, froidement.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="cold">, froidement.
+</stage>
 <p id="44">
 	<s id="1">Ah !... </s>
 	<s id="2">C'est que le soleil est bien ardent.</s>
@@ -969,7 +1008,8 @@
 	<s id="1">Avec plaisir !</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="47">
 	<s id="1">S'il pouvait encore se casser un ongle !</s>
 </p>
@@ -984,7 +1024,8 @@
 <sp who="GARADOUX"><speaker>GARADOUX.</speaker>
 	<l id="28">Voyez mon obéissance !</l>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="29">Que faire en cette occurence ?</l>
 <stage type="together">ENSEMBLE.</stage>
 </sp>
@@ -1000,7 +1041,8 @@
 	<l id="36">De vous j'attends ma récompense.</l>
 	<l id="37">Allons, allons arroser vos soeurs.</l>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="38">Quel sort cruel ! deux adorateurs !</l>
 	<l id="39">Voilà de quoi combler mes malheurs !</l>
 	<l id="40">À qui donner la préférence</l>
@@ -1008,8 +1050,10 @@
 <stage type="exit/together/location">Garadoux et Cécile sortent par le fond.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Thibaudier, Annette.</head>
-<sp stage="alone" who="THIBAUDIER"><speaker>THIBAUDIER, seul.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Thibaudier, Annette.
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Mon_Dieu ! </s>
 	<s id="2">Mon_Dieu ! </s>
@@ -1023,13 +1067,15 @@
 	<s id="10">Ça en fera deux !</s>
 </p>
 </sp>
-<sp who="ANNETTE"><speaker>ANNETTE, annonçant au fond.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage>, annonçant au fond.
+</stage>
 <p id="2">
 	<s id="1">Monsieur_Frémissin !</s>
 </p>
 <stage type="exit/location">Elle sort par la droite.</stage>
 </sp>
-<sp stage="frighten" who="THIBAUDIER"><speaker>THIBAUDIER, effrayé.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="frighten">, effrayé.
+</stage>
 <p id="3">
 	<s id="1">Lui !... </s>
 	<s id="2">Que lui dire ?... </s>
@@ -1044,7 +1090,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp stage="alone" who="FRÉMISSIN"><speaker>FRÉMISSIN, seul.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="alone">, seul.
+</stage>
 <stage type="entrance/shy/embarrassed/wave">Il entre par le fond timidement, très décontenancé, et salue tout bas.</stage>
 <p id="1">
 	<s id="1">Monsieur... </s>
@@ -1094,19 +1141,23 @@
 <stage type="closer">Il remonte vers le fond et se rencontre vers la porte avec Cécile.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Cécile, Frémissin.</head>
-<sp stage="stop" who="FRÉMISSIN"><speaker>FRÉMISSIN, s'arrêtant.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Cécile, Frémissin.
+</stage>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="stop">, s'arrêtant.
+</stage>
 <p id="1">
 	<s id="1">Trop tard !</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, jouant la surprise.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, jouant la surprise.
+</stage>
 <p id="2">
 	<s id="1">Je ne me trompe pas... </s>
 	<s id="2">Monsieur_Jules_Frémissin ?</s>
 </p>
 </sp>
-<sp stage="embarrassed" who="FRÉMISSIN"><speaker>FRÉMISSIN, troublé.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="embarrassed">, troublé.
+</stage>
 <p id="3">
 	<s id="1">Oui, Monsieur...</s>
 </p>
@@ -1116,7 +1167,8 @@
 	<s id="1">Hein ?</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, se reprenant.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, se reprenant.
+</stage>
 <p id="5">
 	<s id="1">Oui, Mademoiselle...</s>
 </p>
@@ -1169,20 +1221,23 @@
 	<s id="3">Veuillez vous asseoir...</s>
 </p>
 </sp>
-<sp stage="hurt" who="FRÉMISSIN"><speaker>FRÉMISSIN, se heurtant à une chaise.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="hurt">, se heurtant à une chaise.
+</stage>
 <p id="14">
 	<s id="1">Avec plaisir... </s>
 	<s id="2">Je ne suis pas fatigué.</s>
 </p>
 <stage type="dress">Il ôte ses gants puis les remet vivement.</stage>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="15">
 	<s id="1">Pauvre garçon ! </s>
 	<s id="2">Comme il est troublé !</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="16">
 	<s id="1">Qu'elle est jolie !</s>
 </p>
@@ -1231,7 +1286,8 @@
 	<l id="48" syll="6" part="f">D'avoir la complaisance</l>
 	<l id="49">De me tenir mon sucrier ?</l>
 </sp>
-<sp stage="speak" who="FRÉMISSIN"><speaker>FRÉMISSIN, parlé.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="speak">, parlé.
+	</stage>
 	<l id="50">Avec bonheur ! avec transport !...</l>
 <stage type="together">Ensemble</stage>
 </sp>
@@ -1250,7 +1306,8 @@
 	<l id="58">M'enhardit déjà !</l>
 <stage type="get/location/drop">Cécile choisit les morceaux de sucre dans la boîte et les met un à un dans le sucrier.</stage>
 </sp>
-<sp stage="aparte/get" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part, tenant le sucrier.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte/get">, à part, tenant le sucrier.
+</stage>
 <p id="21">
 	<s id="1">Si son père nous surprenait dans cette position !... </s>
 	<s id="2">Il faut pourtant que je lui dise quelque chose... </s>
@@ -1261,12 +1318,14 @@
 	<s id="1">Mademoiselle_Cécile !...</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, avec un sourire encourageant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, avec un sourire encourageant.
+</stage>
 <p id="23">
 	<s id="1">Monsieur Jules ?</s>
 </p>
 </sp>
-<sp stage="hesitate" who="FRÉMISSIN"><speaker>FRÉMISSIN, balbutiant.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="hesitate">, balbutiant.
+</stage>
 <p id="24">
 	<s id="1">Il est bien blanc, votre sucre !...</s>
 </p>
@@ -1276,18 +1335,21 @@
 	<s id="1">Comme tous les sucres...</s>
 </p>
 </sp>
-<sp stage="tender" who="FRÉMISSIN"><speaker>FRÉMISSIN, avec tendresse.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="tender">, avec tendresse.
+</stage>
 <p id="26">
 	<s id="1">Oh ! </s>
 	<s id="3">Non, pas comme tous les sucres !</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="27">
 	<s id="1">Qu'est-ce qu'il a donc ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="28">
 	<s id="1">J'ai été trop loin. </s>
 </p>
@@ -1308,19 +1370,22 @@
 	<s id="2">Elle est très grande... l'un est bien plus... tandis que l'autre... est récolté par les nègres...</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, le regardant très étonnée.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, le regardant très étonnée.
+</stage>
 <p id="32">
 	<s id="1">Ah ! </s>
 	<s id="2">Je vous remercie !</s>
 </p>
 <stage type="get/away/location">Elle reprend son sucrier, s'éloigne de lui et va au buffet.</stage>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="33">
 	<s id="1">C'est bien fait ! Pourquoi vais-je me fourrer dans la question des sucres ?</s>
 </p>
 </sp>
-<sp stage="watch" who="CÉCILE"><speaker>CÉCILE, voyant entrer Thibaudier.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="watch">, voyant entrer Thibaudier.
+</stage>
 <p id="34">
 	<s id="1">Voici mon père !</s>
 </p>
@@ -1332,7 +1397,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Frémissin, Cécile, Thibaudier.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Frémissin, Cécile, Thibaudier.
+</stage>
 <stage type="entrance/location">Thibaudier entre par la gauche, très décontenancé. Il est en habit noir.</stage>
 <sp who="CÉCILE"><speaker>CÉCILE.</speaker>
 <p id="1">
@@ -1340,7 +1406,8 @@
 </p>
 <stage type="closer/location">Thibaudier et Frémissin se tiennent aux deux extrémités de la scène, très embarrassés et n'osant lever les yeux l'un sur l'autre.</stage>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="2">
 	<s id="1">Allons, il le faut ! </s>
 </p>
@@ -1349,17 +1416,20 @@
 	<s id="1">Monsieur... je suis très heureux...certainement...</s>
 </p>
 </sp>
-<sp stage="hesitate" who="THIBAUDIER"><speaker>FRÉMISSIN, balbutiant.</speaker>
+<sp who="THIBAUDIER"><speaker>FRÉMISSIN</speaker><stage type="hesitate">, balbutiant.
+</stage>
 <p id="4">
 	<s id="1">C'est moi, monsieur, qui... certainement...</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="5">
 	<s id="1">Qu'il a l'air imposant !</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="6">
 	<s id="1">J'aurais bien mieux fait de m'en aller !</s>
 </p>
@@ -1369,7 +1439,8 @@
 	<s id="1">Vous avez sans doute à causer... je vous laisse.</s>
 </p>
 </sp>
-<sp who="THIBAUDIER, FRÉMISSIN"><speaker>THIBAUDIER et FRÉMISSIN, voulant la retenir.</speaker>
+<sp who="THIBAUDIER, FRÉMISSIN"><speaker>THIBAUDIER et FRÉMISSIN</speaker><stage>, voulant la retenir.
+</stage>
 <p id="8">
 	<s id="1">Comment !</s>
 </p>
@@ -1397,15 +1468,18 @@
 <stage type="exit/location">Elle sort par la gauche.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Thibaudier, Frémissin.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Thibaudier, Frémissin.
+</stage>
 <stage type="sit/location/embarrassed">Ils sont assis en face l'un de l'autre, et sont très embarrassés.</stage>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="1">
 	<s id="1">Nous voilà seuls... </s>
 	<s id="2">Il a l'air d'avoir un aplomb de tous les diables !</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="2">
 	<s id="1">Jamais je n'ai été si mal à mon aise. </s>
 </p>
@@ -1414,7 +1488,8 @@
 	<s id="1">Monsieur...</s>
 </p>
 </sp>
-<sp stage="wave" who="THIBAUDIER"><speaker>THIBAUDIER, s'inclinant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="wave">, s'inclinant.
+</stage>
 <p id="4">
 	<s id="1">Monsieur... </s>
 </p>
@@ -1460,7 +1535,8 @@
 	<s id="1">Mais j'espère que le beau temps... le soleil...</s>
 </p>
 </sp>
-<sp stage="quick" who="THIBAUDIER"><speaker>THIBAUDIER, vivement.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="quick">, vivement.
+</stage>
 <p id="13">
 	<s id="1">Mon baromètre monte !</s>
 </p>
@@ -1503,7 +1579,8 @@
 	<s id="1">Jusqu'à présent, ça marche très bien !</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="21">
 	<s id="1">Il a l'air bonhomme... </s>
 	<s id="2">Si j'essayais...</s>
@@ -1514,7 +1591,8 @@
 	<s id="2">Ma tante daignait... vous annoncer ma visite...</s>
 </p>
 </sp>
-<sp stage="aparte/stand" who="THIBAUDIER"><speaker>THIBAUDIER, à part, se levant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte/stand">, à part, se levant.
+</stage>
 <p id="23">
 	<s id="1">Nous y voilà... </s>
 </p>
@@ -1537,7 +1615,8 @@
 	<s id="2">Elle ne m'en a pas soufflé mot...</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="27">
 	<s id="1">Ah ! </s>
 	<s id="2">Mon_Dieu !... </s>
@@ -1550,7 +1629,8 @@
 	<s id="2">C'est en tremblant...</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, éludant la question.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, éludant la question.
+</stage>
 <p id="29">
 	<s id="1">Quel soleil ! </s>
 	<s id="2">Regardez donc ce soleil ! </s>
@@ -1567,7 +1647,8 @@
 	<s id="1">C'est en tremblant que je viens solliciter la faveur de...</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, de même.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, de même.
+</stage>
 <p id="32">
 	<s id="1">Voulez-vous vous rafraîchir ?</s>
 </p>
@@ -1594,7 +1675,8 @@
 	<s id="4">Je viens solliciter la faveur...</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, éludant toujours.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, éludant toujours.
+</stage>
 <p id="36">
 	<s id="1">Ah ! </s>
 	<s id="2">Vous cultivez des rosiers ?...</s>
@@ -1622,12 +1704,14 @@
 	<s id="2">Mais j'ai les Prémices_de_Pontoise.</s>
 </p>
 </sp>
-<sp stage="get" who="FRÉMISSIN"><speaker>FRÉMISSIN, reprenant.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="get">, reprenant.
+</stage>
 <p id="41">
 	<s id="1">Monsieur, c'est en tremblant...</s>
 </p>
 </sp>
-<sp stage="give" who="THIBAUDIER"><speaker>THIBAUDIER, lui offrant une prise.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="give">, lui offrant une prise.
+</stage>
 <p id="42">
 	<s id="1">En usez-vous, Monsieur ?</s>
 </p>
@@ -1643,12 +1727,14 @@
 	<s id="1">Quoi ?</s>
 </p>
 </sp>
-<sp stage="surpise" who="FRÉMISSIN"><speaker>FRÉMISSIN, déconcerté.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="surpise">, déconcerté.
+</stage>
 <p id="45">
 	<s id="2">Mais... quelques-unes de vos greffes !...</s>
 </p>
 </sp>
-<sp stage="quick" who="THIBAUDIER"><speaker>THIBAUDIER, vivement.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="quick">, vivement.
+</stage>
 <p id="46">
 	<s id="1">Comment donc ! </s>
 	<s id="2">Jeune homme... avec plaisir...</s>
@@ -1659,12 +1745,14 @@
 	<s id="1">Mais, Monsieur...</s>
 </p>
 </sp>
-<sp stage="quick" who="THIBAUDIER"><speaker>THIBAUDIER, vivement.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="quick">, vivement.
+</stage>
 <p id="48">
 	<s id="1">Je cours les envelopper moi-même dans de la mousse mouillée...</s>
 </p>
 </sp>
-<sp stage="aparte" who="FRÉMISSIN"><speaker>FRÉMISSIN, à part.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="49">
 	<s id="1">Il s'en va !... </s>
 </p>
@@ -1685,7 +1773,8 @@
 <stage type="exit/location">Il sort vivement par le fond et tourne à droite.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Frémissin, Cécile.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Frémissin, Cécile.
+</stage>
 <sp who="FRÉMISSIN"><speaker>FRÉMISSIN.</speaker>
 <p id="1">
 	<s id="1">Il est parti !... </s>
@@ -1696,7 +1785,8 @@
 	<s id="6">Crétin !...</s>
 </p>
 </sp>
-<sp stage="entrance/locartion" who="CÉCILE"><speaker>CÉCILE, entrant gaiement du fond.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="entrance/locartion">, entrant gaiement du fond.
+</stage>
 <p id="2">
 	<s id="1">Eh bien, Monsieur_Jules ?</s>
 </p>
@@ -1727,7 +1817,8 @@
 	<s id="2">Et la preuve c'est qu'il est allé me chercher ce que je lui demandais...</s>
 </p>
 </sp>
-<sp stage="naive" who="CÉCILE"><speaker>CÉCILE, naïvement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="naive">, naïvement.
+</stage>
 <p id="8">
 	<s id="1">Il me cherche ?</s>
 </p>
@@ -1738,7 +1829,8 @@
 	<s id="2">Pas vous... des greffes de rosier !</s>
 </p>
 </sp>
-<sp stage="estonish" who="CÉCILE"><speaker>CÉCILE, étonnée.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="estonish">, étonnée.
+</stage>
 <p id="10">
 	<s id="1">Des greffes !</s>
 </p>
@@ -1780,7 +1872,8 @@
 	<s id="1">Mais il me semble que vous le dites très bien !</s>
 </p>
 </sp>
-<sp stage="estonish" who="FRÉMISSIN"><speaker>FRÉMISSIN, stupéfait de son audace.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="estonish">, stupéfait de son audace.
+</stage>
 <p id="17">
 	<s id="1">Je l'ai dit !... </s>
 	<s id="2">Oh ! </s>
@@ -1790,7 +1883,8 @@
 	<s id="6">Je vous le jure !...</s>
 </p>
 </sp>
-<sp stage="quick" who="CÉCILE"><speaker>CÉCILE, vivement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="quick">, vivement.
+</stage>
 <p id="18">
 	<s id="1">Ne jurez pas... </s>
 	<s id="2">Je ne vous demande pas de serment !... </s>
@@ -1874,19 +1968,22 @@
 	<s id="1">Je ne puis pourtant pas lui demander ma main pour vous...</s>
 </p>
 </sp>
-<sp stage="naive" who="FRÉMISSIN"><speaker>FRÉMISSIN, naïvement.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="naive">, naïvement.
+</stage>
 <p id="39">
 	<s id="1">Non ! </s>
 	<s id="2">Ça ne serait pas convenable ; alors, j'attendrai que ma tante soit guérie !</s>
 </p>
 </sp>
-<sp stage="quick" who="CÉCILE"><speaker>CÉCILE, vivement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="quick">, vivement.
+</stage>
 <p id="40">
 	<s id="1">Attendre ! </s>
 	<s id="2">Mais vous ne savez donc pas qu'il y a ici un autre prétendu ?</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, tressaillant.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, tressaillant.
+</stage>
 <p id="41">
 	<s id="1">Un autre ?</s>
 </p>
@@ -1950,7 +2047,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="1"><head>SCÈNE XI.</head>
-<sp stage="alone" who="FRÉMISSIN"><speaker>FRÉMISSIN, seul.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Oui, je parlerai !... </s>
 	<s id="2">C'est-à-dire non !... </s>
@@ -1979,13 +2077,15 @@
 	<s id="2">Voilà ce que c'est.</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, au dehors.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, au dehors.
+</stage>
 <p id="6">
 	<s id="1">Tenez-les au frais ! </s>
 	<s id="2">On va venir les prendre !</s>
 </p>
 </sp>
-<sp stage="touch" who="FRÉMISSIN"><speaker>FRÉMISSIN, ému.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="touch">, ému.
+</stage>
 <p id="7">
 	<s id="1">Lui ! </s>
 	<s id="2">Déjà ! </s>
@@ -1999,13 +2099,16 @@
 <stage type="drop/quick/away">Il met vivement sa lettre sur la pendule et s'en éloigne.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Frémissin, Thibaudier.</head>
-<sp stage="entrance/location" who="FRÉMISSIN"><speaker>THIBAUDIER, entrant par le fond et venant de la droite.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Frémissin, Thibaudier.
+</stage>
+<sp who="FRÉMISSIN"><speaker>THIBAUDIER</speaker><stage type="entrance/location">, entrant par le fond et venant de la droite.
+</stage>
 <p id="1">
 	<s id="1">Cher Monsieur, vos greffes sont prêtes...</s>
 </p>
 </sp>
-<sp stage="emabrrassed" who="FRÉMISSIN"><speaker>FRÉMISSIN, troublé.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="emabrrassed">, troublé.
+</stage>
 <p id="2">
 	<s id="1">Merci.</s>
 </p>
@@ -2042,15 +2145,18 @@
 <stage type="exit/hurry">Il sort vivement par le fond.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Cécile, Thibaudier.</head>
-<sp stage="alone" who="THIBAUDIER"><speaker>THIBAUDIER, seul.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Cécile, Thibaudier.
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Sur la pendule ?... </s>
 	<s id="2">Une lettre ?</s>
 </p>
 <stage type="get">Il la prend.</stage>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, entrant par la gauche, première porte.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, entrant par la gauche, première porte.
+</stage>
 <p id="2">
 	<s id="1">Ah ! </s>
 	<s id="2">Papa, je vous cherche partout.</s>
@@ -2071,19 +2177,22 @@
 	<s id="1">Comment ?</s>
 </p>
 </sp>
-<sp stage="watch" who="CÉCILE"><speaker>THIBAUDIER, regardant l'adresse.</speaker>
+<sp who="CÉCILE"><speaker>THIBAUDIER</speaker><stage type="watch">, regardant l'adresse.
+</stage>
 <p id="6">
 	<s id="1">C'est bien pour moi... </s>
 	<s id="2">Tiens ! </s>
 	<s id="3">Il a mis un timbre !</s>
 </p>
 </sp>
-<sp stage="impatient" who="CÉCILE"><speaker>CÉCILE, impatiente.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="impatient">, impatiente.
+</stage>
 <p id="7">
 	<s id="1">Voyons, papa, voyons vite !...</s>
 </p>
 </sp>
-<sp stage="read" who="THIBAUDIER"><speaker>THIBAUDIER, lisant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="read">, lisant.
+</stage>
 <p id="8">
 	<s id="1">"Monsieur, j'aime mademoiselle votre fille !... </s>
 	<s id="2">Non, je ne l'aime pas !..."</s>
@@ -2094,7 +2203,8 @@
 	<s id="1">Hein ?</s>
 </p>
 </sp>
-<sp stage="continue" who="THIBAUDIER"><speaker>THIBAUDIER, continuant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="continue">, continuant.
+</stage>
 <p id="10">
 	<s id="1">"Je l'adore ! "</s>
 </p>
@@ -2191,7 +2301,8 @@
 	<s id="2">Je ne vous aime pas... tant que ça !</s>
 </p>
 </sp>
-<sp stage="sweet" who="CÉCILE"><speaker>CÉCILE, le câlinant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="sweet">, le câlinant.
+</stage>
 <p id="29">
 	<s id="1">Oh ! </s>
 	<s id="2">Je le sais bien !</s>
@@ -2206,7 +2317,8 @@
 	<l id="65">Et je n'ai droit qu'à votre haine,</l>
 	<l id="66">Pour tout l'amour que j'ai pour vous.</l>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, à part.
+</stage>
 <p id="30">
 	<s id="1">Est-elle gentille ! </s>
 </p>
@@ -2276,7 +2388,8 @@
 	<s id="2">Écrivez !</s>
 </p>
 </sp>
-<sp stage="happy" who="THIBAUDIER"><speaker>THIBAUDIER, enchanté.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="happy">, enchanté.
+</stage>
 <p id="42">
 	<s id="1">Écrire !... </s>
 	<s id="2">Parbleu !... </s>
@@ -2284,13 +2397,15 @@
 	<s id="4">S'il ne s'agit que d'écrire...</s>
 </p>
 </sp>
-<sp stage="sit/location" who="CÉCILE"><speaker>CÉCILE, le faisant asseoir à la table.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="sit/location">, le faisant asseoir à la table.
+</stage>
 <p id="43">
 	<s id="1">Vite vite ! </s>
 	<s id="Z">Mettez-vous là !</s>
 </p>
 </sp>
-<sp stage="sit/get" who="THIBAUDIER"><speaker>THIBAUDIER, s'asseyant et prenant une plume.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="sit/get">, s'asseyant et prenant une plume.
+</stage>
 <p id="44">
 	<s id="1">Tu vas voir ! </s>
 </p>
@@ -2312,12 +2427,14 @@
 	<s id="2">Qu'est-ce que tu mettrais ?</s>
 </p>
 </sp>
-<sp stage="dictate" who="CÉCILE"><speaker>CÉCILE, dictant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="dictate">, dictant.
+</stage>
 <p id="49">
 	<s id="1">"Votre recherche me flatte..."</s>
 </p>
 </sp>
-<sp stage="write" who="THIBAUDIER"><speaker>THIBAUDIER, écrivant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="write">, écrivant.
+</stage>
 <p id="50">
 	<s id="1">"Et m'honore." </s>
 </p>
@@ -2327,12 +2444,14 @@
 	<s id="2">Adoucissons !...</s>
 </p>
 </sp>
-<sp stage="dictate" who="CÉCILE"><speaker>CÉCILE, dictant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="dictate">, dictant.
+</stage>
 <p id="52">
 	<s id="1">"Mais il m'est impossible de donner suite à vos projets de mariage avec  ma fille."</s>
 </p>
 </sp>
-<sp stage="write" who="THIBAUDIER"><speaker>THIBAUDIER, écrivant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="write">, écrivant.
+</stage>
 <p id="53">
 	<s id="1">"Avec ma fille."</s>
 </p>
@@ -2352,7 +2471,8 @@
 	<s id="2">Voyons !</s>
 </p>
 </sp>
-<sp stage="dictate" who="CÉCILE"><speaker>CÉCILE, dictant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="dictate">, dictant.
+</stage>
 <p id="57">
 	<s id="1">"Croyez bien, cher monsieur, que je n'obéis en cette circonstance qu'à des considérations toutes particulières et toutes personnelles qui n'affaiblissent en rien les sentiments avec lesquels j'ai l'honneur d'être..."</s>
 </p>
@@ -2367,7 +2487,8 @@
 	<s id="1">C'est une raison diplomatique.</s>
 </p>
 </sp>
-<sp who="GARADOUX"><speaker>GRADOUX, dans la coulisse.</speaker>
+<sp who="GARADOUX"><speaker>GRADOUX</speaker><stage>, dans la coulisse.
+</stage>
 <p id="60">
 	<s id="1">Portez ça dans ma chambre !</s>
 </p>
@@ -2402,7 +2523,8 @@
 	<s id="1">Elle est pleine d'idées, ma fille.</s>
 </p>
 </sp>
-<sp stage="show" who="CÉCILE"><speaker>CÉCILE, lui présentant son front.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="show">, lui présentant son front.
+</stage>
 <p id="67">
 	<s id="1">Adieu, petit père... </s>
 	<s id="2">Quand vous le voulez, vous êtes charmant !</s>
@@ -2410,8 +2532,10 @@
 <stage type="exit">Elle sort par la gauche.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Thibaudier, Garadoux.</head>
-<sp stage="alone" who="THIBAUDIER"><speaker>THIBAUDIER, seul.</speaker>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Thibaudier, Garadoux.
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">L'enfant gâté !</s>
 </p>
@@ -2420,12 +2544,14 @@
 	<s id="1">Appelons Annette.</s>
 </p>
 </sp>
-<sp stage="entrance/location" who="GARADOUX"><speaker>GARADOUX, paraît au fond.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="entrance/location">, paraît au fond.
+</stage>
 <p id="3">
 	<s id="1">Comment, beau-père, vous n'êtes pas encore prêt ?</s>
 </p>
 </sp>
-<sp stage="aparte/stand" who="THIBAUDIER"><speaker>THIBAUDIER, à part, se levant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte/stand">, à part, se levant.
+</stage>
 <p id="4">
 	<s id="1">Ce n'est pas Annette.</s>
 </p>
@@ -2455,7 +2581,8 @@
 	<s id="3">Cher monsieur, en vous attendant... j'ai écrit une lettre... une lettre importante.</s>
 </p>
 </sp>
-<sp stage="listen" who="GARADOUX"><speaker>GARADOUX, sans l'écouter.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="listen">, sans l'écouter.
+</stage>
 <p id="10">
 	<s id="1">Une grande nouvelle ! </s>
 	<s id="2">Mais pas un mot à votre fille.</s>
@@ -2491,7 +2618,8 @@
 	<s id="1">Il a acheté la corbeille !</s>
 </p>
 </sp>
-<sp stage="get/work" who="GARADOUX"><speaker>GARADOUX, tirant son petit instrument et se limant les ongles.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="get/work">, tirant son petit instrument et se limant les ongles.
+</stage>
 <p id="17">
 	<s id="1">Vous verrez !... </s>
 	<s id="2">Je crois que ce n'est pas mal !... </s>
@@ -2506,7 +2634,8 @@
 	<s id="1">Style Renaissance... bleu sur fond d'or.</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="20">
 	<s id="1">Bleu sur fond d'or !</s>
 </p>
@@ -2525,7 +2654,8 @@
 	<s id="1">À moi ?</s>
 </p>
 </sp>
-<sp stage="get" who="GARADOUX"><speaker>GARADOUX, tirant de sa poche une tabatière d'or.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="get">, tirant de sa poche une tabatière d'or.
+</stage>
 <p id="24">
 	<s id="1">Un souvenir... </s>
 	<s id="2">Une tabatière.</s>
@@ -2541,7 +2671,8 @@
 	<s id="1">C'est du Louis_XV... sans restauration.</s>
 </p>
 </sp>
-<sp stage="touch" who="THIBAUDIER"><speaker>THIBAUDIER, touché.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="touch">, touché.
+</stage>
 <p id="27">
 	<s id="1">Comment, Monsieur... non ! </s>
 	<s id="2">Mon gendre... vous avez eu la bonté... ?</s>
@@ -2570,7 +2701,8 @@
 	<s id="3">Dépêchons-nous, votre maire va nous attendre !</s>
 </p>
 </sp>
-<sp stage="estonish" who="THIBAUDIER"><speaker>THIBAUDIER, ahuri.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="estonish">, ahuri.
+</stage>
 <p id="32">
 	<s id="1">Ma mère ? </s>
 </p>
@@ -2595,8 +2727,10 @@
 <stage type="exit/location">Il entre dans sa chambre, pan coupé à gauche.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Thibaudier ; puis Frémissin.</head>
-<sp stage="alone" who="THIBAUDIER"><speaker>THIBAUDIER, seul.</speaker>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Thibaudier ; puis Frémissin.
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Il n'y avait pas moyen ! </s>
 	<s id="2">Il a acheté la corbeille. </s>
@@ -2626,7 +2760,8 @@
 </p>
 <stage type="drop/location">Il met sa lettre sur la pendule.</stage>
 </sp>
-<sp wstage="entrance" who="FRÉMISSIN"><speaker>FRÉMISSIN, entrant au fond.</speaker>
+<sp wstage="entrance" who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, entrant au fond.
+</stage>
 <p id="6">
 	<s id="1">Pardon, Monsieur, c'est moi !</s>
 </p>
@@ -2639,8 +2774,10 @@
 <stage type="exit">Il sort par la gauche.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="16"><head>SCÈNE XVI. Frémissin, Cécile.</head>
-<sp stage="alone" who="FRÉMISSIN"><speaker>FRÉMISSIN, seul.</speaker>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Frémissin, Cécile.
+</stage>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Sur la pendule ? </s>
 </p>
@@ -2673,7 +2810,8 @@
 	<s id="3">J'en étais sûr !</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, entrant du fond.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, entrant du fond.
+</stage>
 <p id="6">
 	<s id="1">Monsieur_Jules, vous avez vu...</s>
 </p>
@@ -2686,14 +2824,16 @@
 </p>
 <stage type="give">Il lui donne la lettre.</stage>
 </sp>
-<sp stage="watch" who="CÉCILE"><speaker>CÉCILE, la regardant.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="watch">, la regardant.
+</stage>
 <p id="8">
 	<s id="1">Hein ? </s>
 	<s id="2">Ma lettre ?... </s>
 	<s id="2">Mais elle n'est pas pour vous !</s>
 </p>
 </sp>
-<sp stage="show" who="FRÉMISSIN"><speaker>FRÉMISSIN, lui montrant l'adresse.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="show">, lui montrant l'adresse.
+</stage>
 <p id="9">
 	<s id="1">"À Monsieur_Jules_Frémissin, avocat au barreau de Paris."</s>
 </p>
@@ -2709,7 +2849,8 @@
 	<s id="2">Sur la pendule !</s>
 </p>
 </sp>
-<sp stage="offended" who="CÉCILE"><speaker>CÉCILE, indignée.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="offended">, indignée.
+</stage>
 <p id="12">
 	<s id="1">Oh ! </s>
 	<s id="2">C'est trop fort ! </s>
@@ -2717,12 +2858,14 @@
 	<s id="4">Me jouer comme une enfant !</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, de même.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, de même.
+</stage>
 <p id="13">
 	<s id="1">Vous sacrifier !</s>
 </p>
 </sp>
-<sp stage="strong" who="CÉCILE"><speaker>CÉCILE, avec résolution.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="strong">, avec résolution.
+</stage>
 <p id="14">
 	<s id="1">Oh ! </s>
 	<s id="2">Mais nous allons voir ! </s>
@@ -2730,7 +2873,8 @@
 	<s id="4">Monsieur_Jules !</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, de même.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, de même.
+</stage>
 <p id="15">
 	<s id="1">Mademoiselle !</s>
 </p>
@@ -2763,7 +2907,8 @@
 <stage type="exit/hurry/location">Il sort vivement par le fond.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="17"><head>SCÈNE XVII. Cécile ; puis Thibaudier ; puis Annette.</head>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><stage> Cécile ; puis Thibaudier ; puis Annette.
+</stage>
 <sp who="CÉCILE"><speaker>CÉCILE.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -2794,7 +2939,8 @@
 Etc.
 <stage type="get/dress/furniture/quick">Elle prend, sur une chaise au fond, son châle et son chapeau qu'elle met vivement.</stage>
 </sp>
-<sp stage="entrance/location" who="THIBAUDIER"><speaker>THIBAUDIER, entrant de la gauche.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="entrance/location">, entrant de la gauche.
+</stage>
 <p id="2">
 	<s id="1">J'ai mis ma cravate.</s>
 </p>
@@ -2804,7 +2950,8 @@ Etc.
 	<s id="2">Où vas-tu ?</s>
 </p>
 </sp>
-<sp stage="dress/away" who="CÉCILE"><speaker>CÉCILE, descendant en nouant les rubans de son chapeau.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="dress/away">, descendant en nouant les rubans de son chapeau.
+</stage>
 <p id="4">
 	<s id="1">Je pars... </s>
 	<s id="2">Je vous quitte !</s>
@@ -2877,13 +3024,15 @@ Etc.
 	<s id="1">Annette, vite la robe de chambre de mon père !</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>THIBAUDIER, protestant.</speaker>
+<sp who="CÉCILE"><speaker>THIBAUDIER</speaker><stage>, protestant.
+</stage>
 <p id="16">
 	<s id="1">Mais non ! </s>
 	<s id="2">Mais je ne veux pas !</s>
 </p>
 </sp>
-<sp stage="carry" who="ANNETTE"><speaker>ANNETTE, apportant de la gauche une robe de chambre.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="carry">, apportant de la gauche une robe de chambre.
+</stage>
 <p id="17">
 	<s id="1">Voilà, Monsieur... </s>
 	<s id="2">Qu'est-ce qu'il y a donc ?</s>
@@ -2929,7 +3078,8 @@ Etc.
 	<s id="3">Un coussin, un tabouret...</s>
 </p>
 </sp>
-<sp who="ANNETTE"><speaker>ANNETTE, apportant les objets demandés.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage>, apportant les objets demandés.
+</stage>
 <p id="26">
 	<s id="1">Voilà ! </s>
 	<s id="2">Voilà !</s>
@@ -2942,8 +3092,10 @@ Etc.
 <stage type="get/closer">Elle prend vivement le verre d'eau sucrée et le retourne près du fauteuil de son père.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="18"><head>SCÈNE XVIII. Les Mêmes, Garadoux, en habit.</head>
-<sp who="GARADOUX"><speaker>GARADOUX, entrant par le pan coupé de gauche.</speaker>
+<div2 type="scene" n="18"><head>SCÈNE XVIII.</head><stage> Les Mêmes, Garadoux, en habit.
+</stage>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage>, entrant par le pan coupé de gauche.
+</stage>
 <p id="1">
 	<s id="1">Vous m'appelez, beau-père ? me voilà prêt... Partons-nous ?</s>
 </p>
@@ -2974,7 +3126,8 @@ Etc.
 	<s id="2">N'est-ce pas, petit père !</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part, sans répondre.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part, sans répondre.
+</stage>
 <p id="7">
 	<s id="1">Je proteste par mon silence.</s>
 </p>
@@ -2990,13 +3143,15 @@ Etc.
 	<s id="1">Ah ! oui !</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, vivement.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, vivement.
+</stage>
 <p id="10">
 	<s id="1">Ah ! </s>
 	<s id="2">Non !</s>
 </p>
 </sp>
-<sp who="CÉCILE"><speaker>CÉCILE, vivement.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage>, vivement.
+</stage>
 <p id="11">
 	<s id="1">Cela va mieux ! </s>
 </p>
@@ -3005,13 +3160,15 @@ Etc.
 	<s id="1">Buvez, mon père !</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="13">
 	<s id="1">Mais je n'ai pas soif.</s>
 </p>
 <stage type="drink">Il boit.</stage>
 </sp>
-<sp stage="watch" who="GARADOUX"><speaker>GARADOUX, regardant sa main.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="watch">, regardant sa main.
+</stage>
 <p id="14">
 	<s id="1">Il ne faut pas jouer avec sa santé. </s>
 </p>
@@ -3021,19 +3178,22 @@ Etc.
 	<s id="2">On ne l'apprécie réellement que lorsqu'on l'a perdue !</s>
 </p>
 </sp>
-<sp stage="low/toward/show" who="ANNETTE"><speaker>ANNETTE, bas à Cécile, lui montrant Garadoux.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="low/toward/show">, bas à Cécile, lui montrant Garadoux.
+</stage>
 <p id="14">
 	<s id="1">Mam'zelle, regardez-le donc travailler !... </s>
 	<s id="2">Il s'est remis à son établi.</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="15">
 	<s id="1">Est-ce que nous allons rester toute la journée comme ça ?... </s>
 	<s id="2">J'ai très chaud sous cette robe de chambre.</s>
 </p>
 </sp>
-<sp stage="toward" who="CÉCILE"><speaker>CÉCILE, à Garadoux.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="toward">, à Garadoux.
+</stage>
 <p id="16">
 	<s id="1">L'indisposition de mon père peut durer quelques jours, Monsieur, et, si vos affaires vous rappelaient à Paris...</s>
 </p>
@@ -3045,7 +3205,8 @@ Etc.
 	<s id="3">Jamais !</s>
 </p>
 </sp>
-<sp stage="aparte" who="THIBAUDIER"><speaker>THIBAUDIER, à part.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="17">
 	<s id="1">Excellent jeune homme !</s>
 </p>
@@ -3073,13 +3234,15 @@ Etc.
 	<s id="2">Mon père est tellement fatigué !</s>
 </p>
 </sp>
-<sp stage="get" who="GARADOUX"><speaker>GARADOUX, prenant sur la table un buvard, du papier et une plume.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="get">, prenant sur la table un buvard, du papier et une plume.
+</stage>
 <p id="22">
 	<s id="1">Une simple signature.</s>
 </p>
 <stage type="give">Il donne tout cela à Thibaudier.</stage>
 </sp>
-<sp stage="low/toward" who="CÉCILE"><speaker>CÉCILE, bas à son père.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="low/toward">, bas à son père.
+</stage>
 <p id="23">
 	<s id="1">Ne signez pas !</s>
 </p>
@@ -3089,12 +3252,14 @@ Etc.
 	<s id="1">Veuillez signer...</s>
 </p>
 </sp>
-<sp stage="embarrassed" who="THIBAUDIER"><speaker>THIBAUDIER, très embarrassé.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="embarrassed">, très embarrassé.
+</stage>
 <p id="25">
 	<s id="1">Mais c'est que...</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉCILE"><speaker>CÉCILE, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="26">
 	<s id="1">Que faire ?</s>
 </p>
@@ -3105,7 +3270,8 @@ Etc.
 	<s id="1">Où est donc l'encrier ?</s>
 </p>
 </sp>
-<sp stage="search" who="GARADOUX"><speaker>GARADOUX, après l'avoir cherché sur la table.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="search">, après l'avoir cherché sur la table.
+</stage>
 <p id="28">
 	<s id="1">Mademoiselle a la bonté de vous le tenir...</s>
 </p>
@@ -3116,14 +3282,17 @@ Etc.
 	<s id="2">Merci, ma fille, merci !</s>
 </p>
 </sp>
-<sp stage="aparte/drop" who="CÉCILE"><speaker>CÉCILE, à part, remettant l'encrier sur la table.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="aparte/drop">, à part, remettant l'encrier sur la table.
+</stage>
 <p id="30">
 	<s id="1">Tout est perdu !</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="19"><head>SCÈNE XIX. Les Mêmes, Frémissin.</head>
-<sp stage="run" who="FRÉMISSIN"><speaker>FRÉMISSIN, accourant par le fond.</speaker>
+<div2 type="scene" n="19"><head>SCÈNE XIX.</head><stage> Les Mêmes, Frémissin.
+</stage>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage type="run">, accourant par le fond.
+</stage>
 <p id="1">
 	<s id="1">La voiture est à la grille !</s>
 </p>
@@ -3139,7 +3308,8 @@ Etc.
 	<s id="2">Monsieur Garadoux !</s>
 </p>
 </sp>
-<sp sage="aparte" who="GARADOUX"><speaker>GARADOUX, à part.</speaker>
+<sp sage="aparte" who="GARADOUX"><speaker>GARADOUX</speaker><stage>, à part.
+</stage>
 <p id="4">
 	<s id="1">Ah ! </s>
 	<s id="2">Diable, quelle rencontre !</s>
@@ -3150,7 +3320,8 @@ Etc.
 	<s id="1">Et ça va bien, depuis... ?</s>
 </p>
 </sp>
-<sp stage="quick" who="GARADOUX"><speaker>GARADOUX, vivement.</speaker>
+<sp who="GARADOUX"><speaker>GARADOUX</speaker><stage type="quick">, vivement.
+</stage>
 <p id="6">
 	<s id="1">Parfaitement !</s>
 </p>
@@ -3176,7 +3347,8 @@ Etc.
 </p>
 <stage type="get">Il met le buvard et l'encrier sur le guéridon à droite.</stage>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, se levant effrayé.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, se levant effrayé.
+</stage>
 <p id="11">
 	<s id="1">Hein !</s>
 </p>
@@ -3197,7 +3369,8 @@ Etc.
 	<s id="1">Monsieur a laissé tomber sa canne sur sa première femme !</s>
 </p>
 </sp>
-<sp stage="down" who="ANNETTE"><speaker>ANNETTE, descendant à gauche.</speaker>
+<sp who="ANNETTE"><speaker>ANNETTE</speaker><stage type="down">, descendant à gauche.
+</stage>
 <p id="15">
 	<s id="1">Ah ! </s>
 	<s id="2">L'horreur !</s>
@@ -3216,7 +3389,8 @@ Etc.
 	<s id="2">Une canne, c'était une petite badine !</s>
 </p>
 </sp>
-<sp stage="kiss" who="THIBAUDIER"><speaker>THIBAUDIER, embrassant sa fille.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="kiss">, embrassant sa fille.
+</stage>
 <p id="18">
 	<s id="1">Oh ! </s>
 	<s id="2">Ma pauvre Cécile !</s>
@@ -3236,7 +3410,8 @@ Etc.
 	<s id="2">Ce n'est pas celle-là !</s>
 </p>
 </sp>
-<sp stage="give/dignity" who="THIBAUDIER"><speaker>THIBAUDIER, avec dignité, lui rendant l'autre.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="give/dignity">, avec dignité, lui rendant l'autre.
+</stage>
 <p id="21">
 	<s id="1">La voici ! </s>
 	<s id="2">Je ne prise pas de ce tabac-là !</s>
@@ -3252,14 +3427,17 @@ Etc.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="20"><head>SCÈNE XX. Frémissin, Cécile, Thibaudier</head>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, remontant.</speaker>
+<div2 type="scene" n="20"><head>SCÈNE XX.</head><stage> Frémissin, Cécile, Thibaudier
+</stage>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, remontant.
+</stage>
 <p id="1">
 	<s id="1">Hein ! </s>
 	<s id="2">Qu'est-ce qu'il a dit ?</s>
 </p>
 </sp>
-<sp stage="low/toward" who="CÉCILE"><speaker>CÉCILE, bas, et vivement, à Frémissin.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="low/toward">, bas, et vivement, à Frémissin.
+</stage>
 <p id="2">
 	<s id="1">Maintenant, faites votre demande... </s>
 	<s id="2">Mettez vos gants.</s>
@@ -3276,14 +3454,16 @@ Etc.
 	<s id="2">Il est plus timide que vous !</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, bravement.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, bravement.
+</stage>
 <p id="5">
 	<s id="1">Ah ! </s>
 	<s id="2">Il est timide ?</s>
 </p>
 <stage type="dress">Il met ses gants.</stage>
 </sp>
-<sp stage="low/toward" who="CÉCILE"><speaker>CÉCILE, bas à Thibaudier.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="low/toward">, bas à Thibaudier.
+</stage>
 <p id="6">
 	<s id="1">Il va vous faire sa demande... </s>
 	<s id="2">Mettez vos gants !</s>
@@ -3300,24 +3480,28 @@ Etc.
 	<s id="2">Il est plus timide que vous.</s>
 </p>
 </sp>
-<sp stage="proud" who="THIBAUDIER"><speaker>THIBAUDIER, bravement.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="proud">, bravement.
+</stage>
 <p id="9">
 	<s id="1">Ah ! </s>
 	<s id="2">Il est timide ?</s>
 </p>
 <stage type="dress">Il met ses gants.</stage>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, résolument.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, résolument.
+</stage>
 <p id="10">
 	<s id="1">Monsieur !</s>
 </p>
 </sp>
-<sp who="THIBAUDIER"><speaker>THIBAUDIER, de même.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage>, de même.
+</stage>
 <p id="11">
 	<s id="1">Monsieur !</s>
 </p>
 </sp>
-<sp who="FRÉMISSIN"><speaker>FRÉMISSIN, d'un ton résolu.</speaker>
+<sp who="FRÉMISSIN"><speaker>FRÉMISSIN</speaker><stage>, d'un ton résolu.
+</stage>
 <p id="12">
 	<s id="1">Pour la deuxième fois, je vous demande la main de votre fille !</s>
 </p>
@@ -3332,7 +3516,8 @@ Etc.
 	<s id="1">Le ton qui me convient, Monsieur !</s>
 </p>
 </sp>
-<sp stage="stress" who="THIBAUDIER"><speaker>THIBAUDIER, s'emportant.</speaker>
+<sp who="THIBAUDIER"><speaker>THIBAUDIER</speaker><stage type="stress">, s'emportant.
+</stage>
 <p id="15">
 	<s id="1">Mais puisque je vous l'accorde, Monsieur !</s>
 </p>
@@ -3357,7 +3542,8 @@ Etc.
 	<s id="1">Monsieur !!!</s>
 </p>
 </sp>
-<sp stage="interrupt/aparte" who="CÉCILE"><speaker>CÉCILE, intervenant, à part.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="interrupt/aparte">, intervenant, à part.
+</stage>
 <p id="20">
 	<s id="1">Eh bien, est-ce qu'ils vont se quereller, à présent ? </s>
 </p>
@@ -3383,7 +3569,8 @@ Etc.
 	<l id="90">Implorons l'indulgence</l>
 	<l id="91">Avec timidité.</l>
 </sp>
-<sp stage="toward" who="CÉCILE"><speaker>CÉCILE, au public.</speaker>
+<sp who="CÉCILE"><speaker>CÉCILE</speaker><stage type="toward">, au public.
+</stage>
 <stage type="title">Air de Broskovano (Deffès)</stage>
 	<l id="92">Pour sauver ce léger ouvrage,</l>
 	<l id="93">Messieurs, deux timides m'ont dit :</l>

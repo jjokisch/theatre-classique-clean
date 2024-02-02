@@ -49,7 +49,8 @@ Tour Blanche Nesster
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="entrancce" who="MARCUCHET"><speaker>MONSIEUR MARCUCHET, entrant. </speaker>
+<sp who="MARCUCHET"><speaker>MONSIEUR MARCUCHET</speaker><stage type="entrancce">, entrant. 
+</stage>
 <stage type="costume/location">Il est en habit noir. Il va à la pendule.</stage>
 <p id="1">
 	<s id="1">Déjà dix heures... </s>
@@ -71,7 +72,8 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Marcuchet, Pierrot, Guignol, Polichinelle.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Marcuchet, Pierrot, Guignol, Polichinelle.
+</stage>
 <sp who="MARCUCHET"><speaker>MARCUCHET.</speaker>
 <p id="1">
 	<s id="1">Et arrivez donc, mon gendre, j'étais d'une impatience...</s>
@@ -93,12 +95,14 @@ Tour Blanche Nesster
 	<s id="1">Les amis dont jo vous avais parlé...</s>
 </p>
 </sp>
-<sp stage="low" who="MARCUCHET"><speaker>MARCUCHET, bas.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage type="low">, bas.
+</stage>
 <p id="5">
 	<s id="1">De hauts personnages...</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE, id.</speaker>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage>, id.
+</stage>
 <p id="6">
 	<s id="1">De très hauts personnages. </s>
 </p>
@@ -107,12 +111,14 @@ Tour Blanche Nesster
 	<s id="1">Monsieur_Pierrot et Monsieur_Guignol.</s>
 </p>
 </sp>
-<sp stage="wave" who="MARCUCHET"><speaker>MARCUCHET, saluant.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage type="wave">, saluant.
+</stage>
 <p id="8">
 	<s id="1">Messieurs, je suis vraiment pénétré de l'honneur de...</s>
 </p>
 </sp>
-<sp stage="hit" who="GUIGNOL"><speaker>GUIGNOL, lui donnant un renfoncement.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="hit">, lui donnant un renfoncement.
+</stage>
 <p id="9">
 	<s id="1">C'est bon, c'est bon, fais pas tant ta poire, vieux pot_à_moutarde ! </s>
 	<s id="2">Nous savons ce quo parler veut dire.</s>
@@ -164,7 +170,8 @@ Tour Blanche Nesster
 	<s id="2">Tu ne comprends donc pas le français ?</s>
 </p>
 </sp>
-<sp who="MARCUCHET"><speaker>MARCUCHET, étonné.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage>, étonné.
+</stage>
 <p id="19">
 	<s id="1">Mais après la cérémonie.</s>
 </p>
@@ -204,24 +211,28 @@ Tour Blanche Nesster
 	<s id="1">Mais...</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, lui dcnwmt un rinfonctment.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, lui dcnwmt un rinfonctment.
+</stage>
 <p id="27">
 	<s id="1">Ta fille, donc ! </s>
 	<s id="2">Est-il bête.</s>
 </p>
 </sp>
-<sp stage="TOWARD" who="MARCUCHET"><speaker>MARCUCHET, à Polichinelle.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage type="TOWARD">, à Polichinelle.
+</stage>
 <p id="28">
 	<s id="1">Dites donc, je trouve les façons d'agir de vos amis un peu... brusque.</s>
 </p>
 </sp>
-<sp stage="low" who="POLICHINELLE"><speaker>POLICHINELLE, bas.</speaker>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage type="low">, bas.
+</stage>
 <p id="29">
 	<s id="1">Ils ont tant voyagé ! </s>
 	<s id="2">Mais vous vous y ferez à la langue.</s>
 </p>
 </sp>
-<sp who="MARCUCHET"><speaker>MARCUCHET, frottant la tête.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage>, frottant la tête.
+</stage>
 <p id="30">
 	<s id="1">Je les trouve néanmoins un peu trop directes...</s>
 </p>
@@ -230,7 +241,8 @@ Tour Blanche Nesster
 	<s id="1">Messieurs, je vais chercher la mariée et madame_Marcuchet.</s>
 </p>
 </sp>
-<sp stage="low" who="GUIGNOL"><speaker>GUIGNOL, même jeu que plus haut.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="low">, même jeu que plus haut.
+</stage>
 <p id="32">
 	<s id="1">Eh ! </s>
 	<s id="2">Va donc, vieux blagueur !</s>
@@ -242,13 +254,15 @@ Tour Blanche Nesster
 	<s id="1">Marchand_de_coco !</s>
 </p>
 </sp>
-<sp stage="push/location" who="GUIGNOL"><speaker>GUIGNOL, le poussant dehors.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="push/location">, le poussant dehors.
+</stage>
 <p id="34">
 	<s id="1">Vieux raseur !</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Polichinelle, Guignol, Pierrot.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Polichinelle, Guignol, Pierrot.
+</stage>
 <sp who="GUIGNOL"><speaker>GUIGNOL.</speaker>
 <p id="1">
 	<s id="1">Je croyais qu'il ne s'en irait plus !...</s>
@@ -362,7 +376,8 @@ Tour Blanche Nesster
 <stage type="hit">Il donne un renfoncement.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Marcuchet, Madame Marcuchet, La Mariée, Pierrot, Guignol, et Polichinelle.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Marcuchet, Madame Marcuchet, La Mariée, Pierrot, Guignol, et Polichinelle.
+</stage>
 <sp who="MARCUCHET"><speaker>MARCUCHET.</speaker>
 <p id="1">
 	<s id="1">Messieurs, voici ma femme et ma fille.</s>
@@ -373,7 +388,8 @@ Tour Blanche Nesster
 	<s id="2">Monsieur_Guignol et monsieur_Pierrot.</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, à Marcuchet.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, à Marcuchet.
+</stage>
 <p id="3">
 	<s id="1">Dites donc, vous, le vieux, pourquoi votre femme s'est elle mise un melon sur la tête ?</s>
 </p>
@@ -401,12 +417,14 @@ Tour Blanche Nesster
 </p>
 <stage type="hit">Il lui donne un renfoncement.</stage>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, frappant sur la tête de madame Marcuchet.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, frappant sur la tête de madame Marcuchet.
+</stage>
 <p id="8">
 	<s id="1">Mettez-le donc droit, au moins si c'est un chapeau.</s>
 </p>
 </sp>
-<sp stage="call" who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET, appelant.</speaker>
+<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET</speaker><stage type="call">, appelant.
+</stage>
 <p id="9">
 	<s id="1">Monsieur_Marcuchet !</s>
 </p>
@@ -421,13 +439,15 @@ Tour Blanche Nesster
 	<s id="2">Moi je prendrai le bras de ma fille.</s>
 </p>
 </sp>
-<sp stage="closer" who="POLICHINELLE"><speaker>POLICHINELLE, s'avançant.</speaker>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage type="closer">, s'avançant.
+</stage>
 <p id="12">
 	<s id="1">Belle-maman !</s>
 </p>
 <stage type="exit">Ils sortent.</stage>
 </sp>
-<sp who="MARCUCHET"><speaker>MARCUCHET, s'approchant delà mariée.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage>, s'approchant delà mariée.
+</stage>
 <p id="13">
 	<s id="1">Ma fille...</s>
 </p>
@@ -438,7 +458,8 @@ Tour Blanche Nesster
 </p>
 <stage type="hit">Il lui donne un renfoncement.</stage>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT, même jeu.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage>, même jeu.
+</stage>
 <p id="15">
 	<s id="1">Va mettre le couvert, Dagobert !</s>
 </p>
@@ -458,7 +479,8 @@ Tour Blanche Nesster
 </p>
 <stage type="">Ils sortait.</stage>
 </sp>
-<sp who="MARCUCHET"><speaker>MARCUCHET, va pour les suivre.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage>, va pour les suivre.
+</stage>
 <p id="19">
 	<s id="1">Ah ! </s>
 	<s id="2">Mon_Dieu ! </s>
@@ -469,7 +491,8 @@ Tour Blanche Nesster
 <stage type="exit/entrance">Au moment où il va pour sortir, Rosette entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Marcuchet, Rosette, avec un balai à la main.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Marcuchet, Rosette, avec un balai à la main.
+</stage>
 <sp who="ROSETTE"><speaker>ROSETTE.</speaker>
 <p id="1">
 	<s id="1">C'est-il ici monsieur_Marcuchet ?</s>
@@ -480,7 +503,8 @@ Tour Blanche Nesster
 	<s id="1">C'est moi, mais je n'y suis pas !</s>
 </p>
 </sp>
-<sp stage="pull" who="ROSETTE"><speaker>ROSETTE, le retenant.</speaker>
+<sp who="ROSETTE"><speaker>ROSETTE</speaker><stage type="pull">, le retenant.
+</stage>
 <p id="3">
 	<s id="1">Qu'est-ce qu'il dit ?</s>
 </p>
@@ -613,12 +637,14 @@ Tour Blanche Nesster
 	<s id="1">Et maintenant courons à la mairie.</s>
 </p>
 </sp>
-<sp stage="touch" who="MARCUCHET"><speaker>MARCUCHET, se frottant les épaules.</speaker>
+<sp who="MARCUCHET"><speaker>MARCUCHET</speaker><stage type="touch">, se frottant les épaules.
+</stage>
 <p id="26">
 	<s id="1">C'est peut-être par là que nous aurions dû commencer !</s>
 </p>
 </sp>
-<sp stage="hit" who="ROSETTE"><speaker>ROSETTE, le menaçant de son balai.</speaker>
+<sp who="ROSETTE"><speaker>ROSETTE</speaker><stage type="hit">, le menaçant de son balai.
+</stage>
 <p id="27">
 	<s id="1">File devant ! </s>
 	<s id="2">Et ne te plains pas. </s>
@@ -631,7 +657,8 @@ Tour Blanche Nesster
 <div1 type="acte" n="2"><head>ACTE II</head>
 <stage type="location">La mairie.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="alone" who="LE MAIRE"><speaker>LE MAIRE, seul.</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Mais il me semble que la noce_Marcuchet se fait bien attendre. </s>
@@ -644,8 +671,10 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Guignol, Pierrot, Le Maire.</head>
-<sp stage="low" who="GUIGNOL"><speaker>GUIGNOL, à Pierrot, bas.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Guignol, Pierrot, Le Maire.
+</stage>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="low">, à Pierrot, bas.
+</stage>
 <p id="1">
 	<s id="1">Tu vas voir, mon moyen. </s>
 	<s id="2">C'est l'affaire de deux minutes,</s>
@@ -660,7 +689,8 @@ Tour Blanche Nesster
 	<s id="1">C'est moi.</s>
 </p>
 </sp>
-<sp stage="" who="GUIGNOL"><speaker>GUIGNOL, saluant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="">, saluant.
+</stage>
 <p id="4">
 	<s id="1">Il n'y a pas de sot métier.</s>
 </p>
@@ -685,7 +715,8 @@ Tour Blanche Nesster
 	<s id="1">C'est de naissance.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GUIGNOL"><speaker>GUIGNOL, à part.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Attends, je vais t'en donner de la naissance. </s>
 </p>
@@ -703,12 +734,14 @@ Tour Blanche Nesster
 	<s id="1">La drôle de question !</s>
 </p>
 </sp>
-<sp stage="low" who="PIERROT"><speaker>PIERROT, bas.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="low">, bas.
+</stage>
 <p id="13">
 	<s id="1">Pourquoi lui demandes-tu tout cela ?</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, id.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, id.
+</stage>
 <p id="14">
 	<s id="1">Tu vas voir.</s>
 </p>
@@ -733,7 +766,8 @@ Tour Blanche Nesster
 	<s id="2">Mais pourquoi toutes ces questions ?</s>
 </p>
 </sp>
-<sp stage="show" who="GUIGNOL"><speaker>GUIGNOL, lui montrant une porte à gauche.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="show">, lui montrant une porte à gauche.
+</stage>
 <p id="19">
 	<s id="1">Tu vas le savoir, mon fils. </s>
 	<s id="2">Pierrot, ouvre ce cabinet.</s>
@@ -781,7 +815,8 @@ Tour Blanche Nesster
 </p>
 <stage type="get">Il prend son bâton.</stage>
 </sp>
-<sp stage="apaert" who="LE MAIRE"><speaker>LE MAIRE, à part.</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage type="apaert">, à part.
+</stage>
 <p id="28">
 	<s id="1">Si je pouvais m'échapper.</s>
 </p>
@@ -845,7 +880,8 @@ Tour Blanche Nesster
 	<s id="1">Bandits !</s>
 </p>
 </sp>
-<sp stage="push" who="PIERROT"><speaker>PIERROT, le poussant à coups de tête.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="push">, le poussant à coups de tête.
+</stage>
 <p id="39">
 	<s id="1">Rentre donc !</s>
 </p>
@@ -874,7 +910,8 @@ Tour Blanche Nesster
 	<s id="5">Papa_Marcuchet criera ; mais nous aurons gagné la sacoche et évité la pendaison.</s>
 </p>
 </sp>
-<sp stage="wave" who="PIERROT"><speaker>PIERROT, s'inclinant.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="wave">, s'inclinant.
+</stage>
 <p id="44">
 	<s id="1">Guignol ! </s>
 	<s id="2">Vous êtes grand comme le monde !</s>
@@ -894,8 +931,10 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pierrot, Polichinelle, Madame Marcuchet, Le Maire, puis Guignol.</head>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE, entrant.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Pierrot, Polichinelle, Madame Marcuchet, Le Maire, puis Guignol.
+</stage>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage>, entrant.
+</stage>
 <p id="1">
 	<s id="1">Eh bien ! </s>
 	<s id="2">Sommes-nous prêts ?</s>
@@ -916,7 +955,8 @@ Tour Blanche Nesster
 	<s id="1">Monsieur_Marcuchet est toujours en retard.</s>
 </p>
 </sp>
-<sp stage="declamate" who="PIERROT"><speaker>PIERROT, annonçant.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="declamate">, annonçant.
+</stage>
 <p id="5">
 	<s id="">Monsieur_le_Maire.</s>
 </p>
@@ -932,12 +972,14 @@ Tour Blanche Nesster
 </p>
 <stage type="entrance">Guignol parait.</stage>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE, à part, à Pierrot.</speaker>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage>, à part, à Pierrot.
+</stage>
 <p id="8">
 	<s id="1">Mais c'est Guignol ?</s>
 </p>
 </sp>
-<sp stage="low" who="PIERROT"><speaker>PIERROT, bas.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="low">, bas.
+</stage>
 <p id="9">
 	<s id="1">Oui, c'est le moyen dont il nous avait parlé.</s>
 </p>
@@ -952,7 +994,8 @@ Tour Blanche Nesster
 	<s id="1">Monsieur_le_Maire...</s>
 </p>
 </sp>
-<sp stage="wave" who="TOUS"><speaker>TOUS, saluant.</speaker>
+<sp who="TOUS"><speaker>TOUS</speaker><stage type="wave">, saluant.
+</stage>
 <p id="12">
 	<s id="1">Monsieur_le_Maire...</s>
 </p>
@@ -967,7 +1010,8 @@ Tour Blanche Nesster
 	<s id="6">Et j'adore le boudin.</s>
 </p>
 </sp>
-<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET, le reconnaissant.</speaker>
+<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET</speaker><stage>, le reconnaissant.
+</stage>
 <p id="14">
 	<s id="1">Ah ! </s>
 	<s id="2">Mon_Dieu !</s>
@@ -1015,7 +1059,8 @@ Tour Blanche Nesster
 	<s id="1">Tu es toquée, vieille_limande !</s>
 </p>
 </sp>
-<sp stage="serious" who="GUIGNOL"><speaker>GUIGNOL, gravement.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="serious">, gravement.
+</stage>
 <p id="23">
 	<s id="1">Laissez ! </s>
 	<s id="2">Laissez !... </s>
@@ -1078,7 +1123,8 @@ Tour Blanche Nesster
 	<s id="2">Donc, dépêchons !</s>
 </p>
 </sp>
-<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET, à Polichinelle.</speaker>
+<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET</speaker><stage>, à Polichinelle.
+</stage>
 <p id="34">
 	<s id="1">Êtes-vous convaincu ?</s>
 </p>
@@ -1119,7 +1165,8 @@ Tour Blanche Nesster
 	<s id="2">Dites donc, quand vous aurez Oui de discuter avec l'autorité, il faudra me le dire !</s>
 </p>
 </sp>
-<sp stage="shout/location" who="PIERROT"><speaker>PIERROT, criant à l'oreille de madame Marcuchet.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="shout/location">, criant à l'oreille de madame Marcuchet.
+</stage>
 <p id="42">
 	<s id="1">Silence !</s>
 </p>
@@ -1140,12 +1187,14 @@ Tour Blanche Nesster
 	<s id="1">Je vais vous lire la loi.</s>
 </p>
 </sp>
-<sp stage="read" who="PIERROT"><speaker>PIERROT, lis.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="read">, lis.
+</stage>
 <p id="46">
 	<s id="1">Dépêche-toi donc !</s>
 </p>
 </sp>
-<sp stage="aparte" who="GUIGNOL"><speaker>GUIGNOL, id.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="aparte">, id.
+</stage>
 <p id="47">
 	<s id="1">Sauvons les apparences ! </s>
 </p>
@@ -1161,7 +1210,8 @@ Tour Blanche Nesster
 	<s id="1">Quelle est cette loi ?</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, avec aplomb.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, avec aplomb.
+</stage>
 <p id="50">
 	<s id="1">La nouvelle ! </s>
 </p>
@@ -1200,7 +1250,8 @@ Tour Blanche Nesster
 	<s id="1">Le papa !</s>
 </p>
 </sp>
-<sp stage="watch" who="POLICHINELLE"><speaker>POLICHINELLE, regardant.</speaker>
+<sp who="POLICHINELLE"><speaker>POLICHINELLE</speaker><stage type="watch">, regardant.
+</stage>
 <p id="56">
 	<s id="1">Et Rosette !</s>
 </p>
@@ -1211,7 +1262,8 @@ Tour Blanche Nesster
 	<s id="2">Sauve qui peut !</s>
 </p>
 </sp>
-<sp stage="watch" who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET, les regardant.</speaker>
+<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET</speaker><stage type="watch">, les regardant.
+</stage>
 <p id="57">
 	<s id="1">Mais où allez-vous donc ?</s>
 </p>
@@ -1237,25 +1289,29 @@ Tour Blanche Nesster
 	<s id="1">Au secours !</s>
 </p>
 </sp>
-<sp stage="call" who="LA MARIÉE"><speaker>LA MARIÉE, appelant.</speaker>
+<sp who="LA MARIÉE"><speaker>LA MARIÉE</speaker><stage type="call">, appelant.
+</stage>
 <p id="62">
 	<s id="1">Maman ! </s>
 	<s id="2">Maman !</s>
 </p>
 </sp>
-<sp stage="hit" who="PIERROT"><speaker>PIERROT, lui donnant un coup de bâton.</speaker>
+<sp who="PIERROT"><speaker>PIERROT</speaker><stage type="hit">, lui donnant un coup de bâton.
+</stage>
 <p id="63">
 	<s id="1">Veux-tu bien ne pas crier comme ça !</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCENE IV. La Mariée, Monsieur Marcuchet, Rosette.</head>
+<div2 type="scene" n="4"><head>SCENE IV.</head><stage> La Mariée, Monsieur Marcuchet, Rosette.
+</stage>
 <sp who="ROSETTE"><speaker>ROSETTE.</speaker>
 <p id="1">
 	<s id="">Où sont-ils ?</s>
 </p>
 </sp>
-<sp who="LA MARIÉE"><speaker>LA MARIÉE, courant à monsieur Marcuchet.</speaker>
+<sp who="LA MARIÉE"><speaker>LA MARIÉE</speaker><stage>, courant à monsieur Marcuchet.
+</stage>
 <p id="2">
 	<s id="1">Ah ! </s>
 	<s id="2">Papa !</s>
@@ -1282,7 +1338,8 @@ Tour Blanche Nesster
 	<s id="1">Où est le maire ?</s>
 </p>
 </sp>
-<sp stage="hit/location" who="LE MAIRE"><speaker>LE MAIRE, frappant à la porte du cabinet où on l'a enfermé.</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage type="hit/location">, frappant à la porte du cabinet où on l'a enfermé.
+</stage>
 <p id="7">
 	<s id="1">Je suis là ! </s>
 	<s id="2">Ouvrez !</s>
@@ -1333,7 +1390,8 @@ Tour Blanche Nesster
 	<s id="2">Je commençais à étouffer là-dedans.</s>
 </p>
 </sp>
-<sp who="ROSETTE"><speaker>ROSETTE, commandant.</speaker>
+<sp who="ROSETTE"><speaker>ROSETTE</speaker><stage>, commandant.
+</stage>
 <p id="17">
 	<s id="1">Une, deux !</s>
 </p>
@@ -1435,13 +1493,15 @@ Tour Blanche Nesster
 	<s id="1">Non !</s>
 </p>
 </sp>
-<sp stage="toward" who="MONSIEUR MARCUCHET"><speaker>MONSIEUR MARCUCHET, au maire.</speaker>
+<sp who="MONSIEUR MARCUCHET"><speaker>MONSIEUR MARCUCHET</speaker><stage type="toward">, au maire.
+</stage>
 <p id="36">
 	<s id="1">Mille excuses alors. </s>
 	<s id="2">Nos coups de bâton se sont trompés d'adresse !</s>
 </p>
 </sp>
-<sp who="LE MAIRE"><speaker>LE MAIRE, se frottant le dos.</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage>, se frottant le dos.
+</stage>
 <p id="37">
 	<s id="1">Si vous pouviez me les reprendre.</s>
 </p>
@@ -1456,7 +1516,8 @@ Tour Blanche Nesster
 	<s id="1">Ni qui les a mariés.</s>
 </p>
 </sp>
-<sp stage="location" who="GUIGNOL"><speaker>GUIGNOL, passant sa tête par une fenêtre, dans le  fond.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="location">, passant sa tête par une fenêtre, dans le  fond.
+</stage>
 <p id="40">
 	<s id="1">C'est moi.</s>
 </p>
@@ -1532,7 +1593,8 @@ Tour Blanche Nesster
 	<s id="1">Et Monsieur_le_maire !</s>
 </p>
 </sp>
-<sp stage="serious" who="LE MAIRE"><speaker>LE MAIRE, solennellement,</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage type="serious">, solennellement,
+</stage>
 <p id="54">
 	<s id="1">La clémence est la vertu des grands !</s>
 </p>
@@ -1545,8 +1607,10 @@ Tour Blanche Nesster
 <stage type="exit/location">Il disparaît de la fenêtre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Tous les personnages.</head>
-<sp stage="kiss" who="ROSETTE"><speaker>ROSETTE, embrassant son mari.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Tous les personnages.
+</stage>
+<sp who="ROSETTE"><speaker>ROSETTE</speaker><stage type="kiss">, embrassant son mari.
+</stage>
 <p id="1">
 	<s id="1">Polichinelle !</s>
 </p>
@@ -1556,7 +1620,8 @@ Tour Blanche Nesster
 	<s id="1">Ma chère petite Rosette !</s>
 </p>
 </sp>
-<sp stage="kiss" who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET, même feu.</speaker>
+<sp who="MADAME MARCUCHET"><speaker>MADAME MARCUCHET</speaker><stage type="kiss">, même feu.
+</stage>
 <p id="3">
 	<s id="1">Monsieur_Marcuchet !</s>
 </p>
@@ -1566,7 +1631,8 @@ Tour Blanche Nesster
 	<s id="1">Tout est arrangé.</s>
 </p>
 </sp>
-<sp stage="touch" who="GUIGNOL"><speaker>GUIGNOL, lui serrant ta main.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="touch">, lui serrant ta main.
+</stage>
 <p id="5">
 	<s id="1">Je ne vous en veux plus.</s>
 </p>

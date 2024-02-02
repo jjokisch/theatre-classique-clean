@@ -52,7 +52,8 @@
 <div1 type="act" n="1"><head>CONTENTEMENT PASSE RICHESSE</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
 <stage type="decor">Le Théâtre représente une rue. Sur le devant, on voit d'un côté la boutique d'un Savetier, de l'autre, l'Hôtel d'un Financier.</stage>
-<sp stage="alone" who="COLIN"><speaker>COLIN, seul , ouvrant la boutique etfr met tant au travail.</speaker>
+<sp who="COLIN"><speaker>COLIN</speaker><stage type="alone">, seul , ouvrant la boutique etfr met tant au travail.
+</stage>
 <p id="1">
 	<s id="1">Je travaillons, travaillons, afin de plaire à notre maître Grégoire, et d'épouser sa chère fille. </s>
 	<s id="2">La pauvre enfant, elle est là-haut qui dort encore. </s>
@@ -73,8 +74,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Grégoire, Perrette, Colin, Lucette.</head>
-<sp stage="toward" who="GRÉGOIRE"><speaker>GRÉGOIRE, à Colin.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Grégoire, Perrette, Colin, Lucette.
+</stage>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="toward">, à Colin.
+</stage>
 <p id="1">
 	<s id="1">Comment Diable, te voilà déjà au travail ! </s>
 	<s id="2">L'Amour t'éveille de grand matin. </s>
@@ -96,7 +99,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les Acteurs précédents, Dufoin.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les Acteurs précédents, Dufoin.
+</stage>
 <sp who="GRÉGOIRE"><speaker>GRÉGOIRE.</speaker>
 <p id="1">
 	<s id="1">Oh ? </s>
@@ -110,7 +114,8 @@
 	<s id="3">Qui sait s'il n'aura pas quelque jour le sort de son Maître, et si on ne le mènera pas dans le carrosse qu'il mène aujourd'hui ?</s>
 </p>
 </sp>
-<sp stage="proud" who="DUFOIN"><speaker>DUFOIN, d'un ton précieux.</speaker>
+<sp who="DUFOIN"><speaker>DUFOIN</speaker><stage type="proud">, d'un ton précieux.
+</stage>
 <p id="3">
 	<s id="1">Monsieur Million m'envoie vous dire que, par vos chansons, vous interrompez le sommeil de ses gens et le sien.</s>
 </p>
@@ -170,11 +175,13 @@
 	<s id="1">Je vais rendre compte à mon Maître de votre insolence, et dans peu vous aurez de ses nouvelles.</s>
 </p>
 </sp>
-<sp stage="sing" who="GRÉGOIRE"><speaker>GRÉGOIRE, chantant.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="sing">, chantant.
+	</stage>
 	<l id="3">Allez vous-en, gens de la noce, etc.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Grégoire, Colin, Perrette, Lucette.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Grégoire, Colin, Perrette, Lucette.
+</stage>
 <sp who="LUCETTE"><speaker>LUCETTE.</speaker>
 <p id="1">
 	<s id="1">Cependant, Papa, sa menace m'inquiète. </s>
@@ -193,8 +200,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les acteurs précédents, Monsieur Million.</head>
-<sp stage="costume/location" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, en robe de chambre sur son balcon.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les acteurs précédents, Monsieur Million.
+</stage>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="costume/location">, en robe de chambre sur son balcon.
+</stage>
 <p id="1">
 	<s id="1">Ainsi un misérable savetier suffit pour troubler le repos d'un homme tel que moi ! Et je ne pourrai pas le forcer au silence ! </s>
 	<s id="2">Si je vais me plaindre au Magistrat, il se moquera de moi, comme il fit, lorsque je le priai de défendre à un Maréchal de mon voisinage d'ouvrir sa boutique avant midi, parce que je ne me lève qu'à cette heure-là. </s>
@@ -210,7 +219,8 @@
 </p>
 <stage type="exit/dows">Il rentre pour descendre.</stage>
 </sp>
-<sp stage="toward" who="LUCETTE"><speaker>LUCETTE, à Grégoire.</speaker>
+<sp who="LUCETTE"><speaker>LUCETTE</speaker><stage type="toward">, à Grégoire.
+</stage>
 <p id="2">
 	<s id="1">Papa, je viens d'apercevoir Monsieur Million sur son balcon ; il avait un air d'humeur qui m'a effrayée, il parlait tout seul. </s>
 	<s id="2">J'ai cru même entendre qu'il nous menaçait de la Police.</s>
@@ -223,7 +233,8 @@
 	<s id="3">Le Commissaire me fera venir, je lui chanterai une petite chanson ; nous nous quitterons bons amis, et Monsieur Million paiera les frais.</s>
 </p>
 </sp>
-<sp stage="exit" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, sortant de son Hôtel.</speaker>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="exit">, sortant de son Hôtel.
+</stage>
 <p id="4">
 	<s id="1">Grégoire, j'ai deux mots à vous dire.</s>
 </p>
@@ -286,7 +297,8 @@
 	<s id="3">J'ai des voisins qui, entre nous, ne sont pas fort honnêtes gens, et qui, s'ils savaient que j'ai un trésor...</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, à part.</speaker>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="aparte">, à part.
+</stage>
 <p id="15">
 	<s id="1">Bon ! </s>
 	<s id="2">Je réussis ; voilà déjà l'inquiétude qui commence : il est alarmé pour deux cents francs qu'il n'a pas encore ; que sera-ce quand il les aura ? </s>
@@ -301,7 +313,8 @@
 	<s id="1">Monsieur du Million, tournez-vous comme cela, je vous en prie ; cachez bien cela sous votre robe de chambre en me le donnant, de peur que quelqu'un ne le voie : car ma fortune serait des envieux, et peut-être des fripons...</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, à part.</speaker>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="aparte">, à part.
+</stage>
 <p id="18">
 	<s id="1">Bon... </s>
 	<s id="2">Bon ! </s>
@@ -311,7 +324,8 @@
 </p>
 <stage type="give">Il lui donne la somme que Grégoire enferme dans son tablier.</stage>
 </sp>
-<sp stage="low/toward" who="GRÉGOIRE"><speaker>GRÉGOIRE, bas à Monsieur Million.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="low/toward">, bas à Monsieur Million.
+</stage>
 <p id="19">
 	<s id="1">Monsieur du Million, j'aurais encore une grâce à vous demander ; ce serait de me gronder bien haut, de me menacer, et même quand vous me donneriez quelques coups de poing, il n'y aurait pas de mal.</s>
 </p>
@@ -327,7 +341,8 @@
 	<s id="1">C'est de peur que ma famille et mes voisins ne soupçonnent que vous venez de me donner un trésor.</s>
 </p>
 </sp>
-<sp stage="low" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, bas.</speaker>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="low">, bas.
+</stage>
 <p id="22">
 	<s id="1">Ah ! </s>
 	<s id="2">Très volontiers.</s>
@@ -345,7 +360,8 @@
 	<s id="2">Je ne vous crains point , je vous mets à pis faire.</s>
 </p>
 </sp>
-<sp stage="hit" who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION, lui donnant un coup de pied.</speaker>
+<sp who="MONSIEUR MILLION"><speaker>MONSIEUR MILLION</speaker><stage type="hit">, lui donnant un coup de pied.
+</stage>
 <note type="L">Hoirie : Terme de pratique. Héritage, succession directe. [L]</note>
 <p id="25">
 	<s id="1">Ah ! </s>
@@ -354,7 +370,8 @@
 </p>
 <stage type="exit">Il rentre.</stage>
 </sp>
-<sp stage="aparte" who="GRÉGOIRE"><speaker>GRÉGOIRE, à part.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
 <note type="L">Casaquin : Espèce de corsage de femme avec de petites basques dans le dos, formant deux gros plis à l'endroit de la ceinture et relevant en l'air ; il était facile à mettre et commode ; il ne sert plus qu'à la campagne. [L]</note> 
 <p id="26">
 	<s id="1">Confierai-je ma bonne fortune à ma femme et à ma fille ? </s>
@@ -369,7 +386,8 @@
 <stage type="entrance">Il entre, cachant les cent écus dans son tablier.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Lucette, Perrette, Colin, Grégoire.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Lucette, Perrette, Colin, Grégoire.
+</stage>
 <sp who="LUCETTE"><speaker>LUCETTE.</speaker>
 <p id="1">
 	<s id="1">Avez-vous entendu, Maman, comme Monsieur Million menaçait mon père ; il l'a frappé : si j'étais homme, il ne l'aurait pas fait impunément.</s>
@@ -390,7 +408,8 @@
 	<s id="2">Il était inquiet, il nous regardait d'un oeil qui m'a fait peur ; pourquoi est-il descendu dans la cave ?</s>
 </p>
 </sp>
-<sp styage="aparte/open/location" who="GRÉGOIRE"><speaker>GRÉGOIRE, à part, ouvrant la fenêtre de la chambre.</speaker>
+<sp styage="aparte/open/location" who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage>, à part, ouvrant la fenêtre de la chambre.
+</stage>
 <p id="4">
 	<s id="1">Mon argent est en sûreté. </s>
 	<s id="2">Écoutons un peu, et jugeons par leur conversation s'ils ne soupçonnent pas le présent que Monsieur Million vient de me faire.</s>
@@ -401,7 +420,8 @@
 	<s id="1">Je crains bien que les chagrins que ce financier donne à mon père ne retardent notre mariage.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GRÉGOIRE"><speaker>GRÉGOIRE, à part.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="6">
 	<s id="1">Je n'entends pas bien... </s>
 	<s id="2">Mais il me semble qu'ils ont parlé de Financier et de mariage ; c'est qu'ils ont envie de se marier avec mes cent écus.</s>
@@ -419,7 +439,8 @@
 </p>
 	<l id="4">La sagesse est un trésor, etc.</l>
 </sp>
-<sp stage="aparte" who="GRÉGOIRE"><speaker>GRÉGOIRE, à part.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Justement, ils parlent d'argent, d'or, de trésor. </s>
 	<s id="2">Il n'en faut plus douter, ils veulent me voler mes cent écus. </s>
@@ -431,7 +452,8 @@
 	<s id="1">Quoique vous en disiez, Madame Perrette ; il y a bien des filles qui se font laissé enlever ce trésor-là.</s>
 </p>
 </sp>
-<sp stagek="aparte/run/wor" who="GRÉGOIRE"><speaker>GRÉGOIRE, à part, fonçait de la boutique, et se remettant au travail.</speaker>
+<sp stagek="aparte/run/wor" who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage>, à part, fonçait de la boutique, et se remettant au travail.
+</stage>
 <p id="11">
 	<s id="1">Ils parlent d'enlever mon trésor : Oh ! </s>
 	<s id="2">Je saurai bien les en empêcher. </s>
@@ -460,7 +482,8 @@
 </p>
 	<l id="5">Dans un verger Colinette, etc.</l>
 </sp>
-<sp stage="interrupt" who="GRÉGOIRE"><speaker>GRÉGOIRE, l'interrompant.</speaker>
+<sp who="GRÉGOIRE"><speaker>GRÉGOIRE</speaker><stage type="interrupt">, l'interrompant.
+</stage>
 <p id="15">
 	<s id="1">Tais-toi, il me semble que j'entends du bruit dans ma cave.</s>
 </p>
@@ -582,7 +605,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Les Acteurs précédera, Un Gascon.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Les Acteurs précédera, Un Gascon.
+</stage>
 <sp who="LE GASCON"><speaker>LE GASCON.</speaker>
 <p id="1">
 	<s id="1">Bonjour , Monsieur Grégoire, bonjour ; je viens vous faire mon petit compliment.</s>
@@ -609,7 +633,8 @@
 	<s id="3">Cap de Diouz, cent écus, la belle somme !</s>
 </p>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Grégoire.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Grégoire.
+</stage>
 <p id="5">
 	<s id="1">Quoi ! </s>
 	<s id="2">Mon ami, tu m'avais caché ta bonne fortune ?</s>
@@ -739,7 +764,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Grégoire, Perrette, Lucette, Colin, Monsieur Million.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Grégoire, Perrette, Lucette, Colin, Monsieur Million.
+</stage>
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 <p id="1">
 	<s id="1">Ainsi tu nous cachais cette somme ! </s>

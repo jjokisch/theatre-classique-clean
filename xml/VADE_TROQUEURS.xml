@@ -18,7 +18,7 @@
 			<type>vers</type>
 			<periode>1751-1760</periode>
 			<taille>250-500</taille>
-			<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k9809876</permalien>
+			<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k9809876f</permalien>
 			<keywords>
 				<keyword type="caractère">jalousie</keyword>
 				<keyword type="relation">mariage</keyword>
@@ -57,7 +57,8 @@
 <body>
 <div1 type="acte" n="1"><head>LES TROQUEURS</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LUBIN"><speaker>LUBIN fiuU.</speaker>
+<sp who="LUBIN"><speaker>LUBIN</speaker><stage> seul.
+</stage>
 <stage type="title">ÀIR. Tout cela m'est indifférent.</stage>
 	<l id="1">Quand sur fis vieux jours un garçon</l>
 	<l id="2">Devient le mari d'un tendron,</l>

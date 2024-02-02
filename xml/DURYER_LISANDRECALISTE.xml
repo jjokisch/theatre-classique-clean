@@ -508,7 +508,8 @@
 	<l id="287">J'emporte assez de force et de contentement</l>
 	<l id="288">Pour vaincre les ennuis de mon éloignement.</l>
 </sp>
-<sp who="CLEANDRE"><speaker>CLÉANDRE revient.</speaker>
+<sp who="CLEANDRE"><speaker>CLÉANDRE</speaker><stage> revient.
+	</stage>
 	<l id="289">Lisandre tout est prêt, et le temps déjà sombre</l>
 	<l id="290">Donne à votre départ la faveur de son ombre.</l>
 </sp>
@@ -878,10 +879,12 @@
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lisandre, Caliste, le Geôlier, Le boucher.
 </stage>
-<sp who="LISANDRE"><speaker>LISANDRE à la fenêtre du boucher.</speaker>
+<sp who="LISANDRE"><speaker>LISANDRE</speaker><stage> à la fenêtre du boucher.
+	</stage>
 	<l id="501" part="i">Caliste.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE en prison.</speaker>
+<sp who="CALISTE"><speaker>CALISTE</speaker><stage> en prison.
+	</stage>
 	<l id="501" part="m">Êtes-vous là ?</l>
 </sp>
 <sp who="LISANDRE"><speaker>LISANDRE.</speaker>
@@ -961,7 +964,8 @@
 	<l id="534">Dérobe à l'univers la clarté des étoiles.</l>
 	<l id="535">Mais il faut retourner dessous le Châtelet.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE en sortant de prison donne au geôlier un bracelet.</speaker>
+<sp who="CALISTE"><speaker>CALISTE</speaker><stage> en sortant de prison donne au geôlier un bracelet.
+	</stage>
 	<l id="536">Ami reçois de moi ce petit bracelet.</l>
 </sp>
 <sp who="LISANDRE"><speaker>LISANDRE.</speaker>
@@ -977,7 +981,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="LIDIAS"><speaker>LIDIAS accompagné d'un ami.</speaker>
+<sp who="LIDIAS"><speaker>LIDIAS</speaker><stage> accompagné d'un ami.
+	</stage>
 	<l id="541">Quelques difficultés, que tout le monde fasse</l>
 	<l id="542">J'obligerai Lisandre en obtenant sa grâce,</l>
 	<l id="543">Et malgré Lucidan qui poursuit contre lui</l>

@@ -1746,17 +1746,17 @@
 	<l id="893">Aimant le dieu de ces lieux :</l>
 	<l id="894">Poussez-en jusques aux cieux</l>
 	<l id="895">Des chants remplis d'allégresse.</l>
-<stage type="action/danse">Mercure revole au ciel, ayant laissé Pégase sur le double mont. Quatre auteurs lyriques et autant de Muses du même genre viennent danser en témoignage de joie ; puis les ridicules se mêlent avec eux, formant de différentes figures avec des branches de laurier qu'ils portent tous, et dont ils se font des espèces de berceaux. C'est le grand ballet. </stage>
+<stage type="action/danse">Mercure revole au ciel, ayant laissé Pégase sur le double mont. Quatre auteurs lyriques et autant de Muses du même genre viennent danser en témoignage de joie ; puis les ridicules se mêlent avec eux, formant de différentes figures avec des branches de laurier qu'ils portent tous, et dont ils se font des espèces de berceaux. C'est le grand ballet. Après qu'ils ont dansé une fois, UNE MUSE DU GENRE LYRIQUE chante ceci.</stage>
 </sp>
-<sp stage="sing" who="UNE MUSE LYRIQUE"><speaker>Après qu'ils ont dansé une fois, UNE MUSE DU GENRE LYRIQUE chante ceci.</speaker>
+<sp stage="sing" who="UNE MUSE LYRIQUE">
 	<l id="896">Il n'est que de s'enflammer ;</l>
 	<l id="897">Laissez, laissez-vous charmer ;</l>
 	<l id="898">La raison vous y convie :</l>
 	<l id="899">Sans le dieu qui fait aimer,</l>
 	<l id="900">Que serait-ce que la vie ?</l>
-<stage type="danse">Le grand ballet recommence encore.</stage>
+<stage type="danse">Le grand ballet recommence encore puis UNE AUTRE MUSE LYRIQUE chante ce second couplet.</stage>
 </sp>
-<sp who="AUTRE MUSE LYRIQUE"><speaker>puis UNE AUTRE MUSE LYRIQUE chante ce second couplet.</speaker>
+<sp who="AUTRE MUSE LYRIQUE">
 	<l id="901">Chacun sert quelque désir ;</l>
 	<l id="902">Tout consiste à bien choisir ;</l>
 	<l id="903">Faites-vous de douces chaînes :</l>

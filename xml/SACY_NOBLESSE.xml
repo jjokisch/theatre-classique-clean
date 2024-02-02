@@ -46,7 +46,8 @@
 <body>
 <div1 type="act" n="1"><head>LA NOBLESSE,</head>
 <div2 type="scene" n="1"><head>DIALOGUE.</head>
-<sp stage="" who="LE MARQUIS"><speaker>LE MARQUIS, d'un ton impérieux.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="">, d'un ton impérieux.
+</stage>
 <p id="1">
 	<s id="1">Rangez-vous, Monsieur, et faites-moi place.</s>
 </p>
@@ -183,7 +184,8 @@
 	<s id="1">Non : mais quelques vieux soldats me pleureraient peut-être.</s>
 </p>
 </sp>
-<sp stage="sad" who="LE MARQUIS"><speaker>LE MARQUIS, d'un ton amer.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="sad">, d'un ton amer.
+</stage>
 <p id="26">
 	<s id="1">Je le crois bien, vous avez été leur camarade.</s>
 </p>

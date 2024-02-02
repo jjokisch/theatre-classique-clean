@@ -102,7 +102,8 @@
 </front>
 <body>
 <div1 type="livre" n="1"><head>CONVERSATIONS DE MADAME LA MARQUISE DE MAINTENON.</head>
-<div2 type="conversation" n="1"><head>CONVERSATION I. SUR LA SOCIÉTÉ.</head>
+<div2 type="conversation" n="1"><head>CONVERSATION I.</head><stage> SUR LA SOCIÉTÉ.
+</stage>
 <sp who="VICTOIRE"><speaker>VICTOIRE.</speaker>
 <p id="1">
 	<s id="1">Une personne, parlant d'une autre, disait qu'elle était sociable ; je n'entends pas bien ce que ce mot signifie.</s>
@@ -267,7 +268,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="2"><head>CONVERSATION II. SUR LA RAISON.</head>
+<div2 type="conversation" n="2"><head>CONVERSATION II.</head><stage> SUR LA RAISON.
+</stage>
 <sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
 <p id="1">
 	<s id="1">Si j'osais me mettre de la partie, je dirais que le hasard assemble aujourd'hui une très bonne compagnie.</s>
@@ -493,7 +495,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="3"><head>CONVERSATION III. SUR LA CONTRAINTE.</head>
+<div2 type="conversation" n="3"><head>CONVERSATION III.</head><stage> SUR LA CONTRAINTE.
+</stage>
 <sp who="MÉLANIE"><speaker>MÉLANIE.</speaker>
 <p id="1">
 	<s id="1">Voici l'heure de causer ensemble : je pensais à vous demander à toutes en quoi vous feriez consister le bonheur ?</s>
@@ -680,7 +683,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="4"><head>CONVERSATION IV. SUR L'AMOUR-PROPRE.</head>
+<div2 type="conversation" n="4"><head>CONVERSATION IV.</head><stage> SUR L'AMOUR-PROPRE.
+</stage>
 <sp who="ROSALIE"><speaker>ROSALIE.</speaker>
 <p id="1">
 	<s id="1">Ne troublons-nous point, mademoiselle, le plaisir que vous prenez à lire ?</s>
@@ -927,7 +931,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="5"><head>CONVERSATION V. SUR LE BON ESPRIT.</head>
+<div2 type="conversation" n="5"><head>CONVERSATION V.</head><stage> SUR LE BON ESPRIT.
+</stage>
 <sp who="AGATHINE"><speaker>AGATHINE.</speaker>
 <p id="1">
 	<s id="1">Il y a longtemps, Mesdemoiselles, que je cherche une personne qui me dise la différence qu'il y a entre avoir de l'esprit et un bon esprit.</s>
@@ -1094,7 +1099,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="6"><head>CONVERSATION VI. SUR LA BONNE GLOIRE.</head>
+<div2 type="conversation" n="6"><head>CONVERSATION VI.</head><stage> SUR LA BONNE GLOIRE.
+</stage>
 <sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
 <p id="1">
 	<s id="1">Je voudrais bien vous faire juge d'un différend que je viens d'avoir ; mademoiselle Sophie et moi nous passions dans la place où il n'y avait que du peuple : tout le monde nous saluait, je rendais le salut ; elle se moque de moi et prétend qu'on ne doit la révérence qu'à des gens de considération.</s>
@@ -1344,7 +1350,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="7"><head>CONVERSATION VII. SUR LE MENSONGE.</head>
+<div2 type="conversation" n="7"><head>CONVERSATION VII.</head><stage> SUR LE MENSONGE.
+</stage>
 <sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
 <p id="1">
 	<s id="1">Je suis ravie de vous trouver, Mesdemoiselles, pour vous faire mes plaintes de ce que Mademoiselle de *** s'accommode et s'amuse même du commerce d'une personne qui ne saurait s'empêcher de mentir.</s>
@@ -1571,7 +1578,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="8"><head>CONVERSATION VIII. SUR LES ÉGARDS.</head>
+<div2 type="conversation" n="8"><head>CONVERSATION VIII.</head><stage> SUR LES ÉGARDS.
+</stage>
 <sp who="ODILE"><speaker>ODILE.</speaker>
 <p id="1">
 	<s id="1">Je suis surprise de ce qu'en nous parlant autant qu'on le fait des égards qu'on se doit mutuellement, on ne nous en ait pas fait une conversation pour nous faire bien comprendre ce que c'est.</s>
@@ -1813,7 +1821,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="9"><head>CONVERSATION IX. SUR LES QUATRE VERTUS CARDINALES.</head>
+<div2 type="conversation" n="9"><head>CONVERSATION IX.</head><stage> SUR LES QUATRE VERTUS CARDINALES.
+</stage>
 <sp who="VICTOIRE"><speaker>VICTOIRE.</speaker>
 <p id="1">
 	<s id="1">Pour entrer dans le dessein que l'on a de nous rendre capables de conversations raisonnables, j'ai pensé que nous devions prendre aujourd'hui les vertus cardinales pour sujet de la nôtre, et dire sur chacune ce qui nous viendra dans l'esprit.</s>
@@ -2099,7 +2108,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="10"><head>CONVERSATION X. SUR L'AJUSTEMENT.</head>
+<div2 type="conversation" n="10"><head>CONVERSATION X.</head><stage> SUR L'AJUSTEMENT.
+</stage>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 <p id="1">
 	<s id="1">On veut nous faire haïr, ou du moins mépriser les ajustements : y a-t-il rien de si naturel que de les aimer ?</s>
@@ -2389,7 +2399,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="11"><head>CONVERSATION XI. SUR L'INDISCRÉTION.</head>
+<div2 type="conversation" n="11"><head>CONVERSATION XI.</head><stage> SUR L'INDISCRÉTION.
+</stage>
 <sp who="VICTOIRE"><speaker>VICTOIRE.</speaker>
 <p id="1">
 	<s id="1">Je sors d'un lieu où j'ai bien souffert : il y avait un très honnête homme qui était bossu ; une jeune dame a parlé longtemps devant lui des avantages d'une belle taille : nous avons toussé et fait nos efforts pour la faire apercevoir de l'embarras qu'elle causait, ou pour changer de conversation ; mais elle a toujours continué, et s'est enfin emportée sur l'imprudence des bossus qui vont par le monde : je suis sortie aussi embarrassée que celui pour qui je l'étais.</s>
@@ -2548,7 +2559,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n=""><head>CONVERSATION XII. SUR L'ORDRE.</head>
+<div2 type="conversation" n=""><head>CONVERSATION XII.</head><stage> SUR L'ORDRE.
+</stage>
 <sp who="ATHÉNAÏS"><speaker>ATHÉNAÏS.</speaker>
 <p id="1">
 	<s id="1">Quoique je me sois bien divertie ce carnaval, mesdemoiselles, je suis pourtant ravie de ce qu'il s'est passé.</s>
@@ -2728,7 +2740,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="13"><head>CONVERSATION XIII. SUR LE COURAGE.</head>
+<div2 type="conversation" n="13"><head>CONVERSATION XIII.</head><stage> SUR LE COURAGE.
+</stage>
 <sp who="FAUSTINE"><speaker>FAUSTINE.</speaker>
 <p id="36">
 	<s id="1">Je suis bien lasse de m'entendre gronder toujours sur le courage, et je voudrais bien savoir précisément en quoi il consiste.</s>
@@ -2940,7 +2953,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="14"><head>CONVERSATION XIV. SUR LA DROITURE.</head>
+<div2 type="conversation" n="14"><head>CONVERSATION XIV.</head><stage> SUR LA DROITURE.
+</stage>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
 <p id="1">
 	<s id="1">Les conversations qu'on nous fait faire m'éclairent si bien sur des choses que je ne faisais qu'entrevoir, que je voudrais que nous en eussions. une sur ce qu'on appelle Droiture.</s>
@@ -3115,7 +3129,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="15"><head>CONVERSATION XV. SUR LA RAILLERIE.</head>
+<div2 type="conversation" n="15"><head>CONVERSATION XV.</head><stage> SUR LA RAILLERIE.
+</stage>
 <sp who="AURÉLIE"><speaker>AURÉLIE.</speaker>
 <p id="1">
 	<s id="1">Je craignais fort, Mesdemoiselles, que le petit voyage que j'ai fait à la campagne ne me privât de l'honneur que vous me faites, et des avantages de vos conversations : je veux profiter aujourd'hui de cette occasion pour vous faire une question que vous pourriez mieux décider que personne.</s>
@@ -3266,7 +3281,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="16"><head>CONVERSATION XVI. SUR LES AGRÉMENTS.</head>
+<div2 type="conversation" n="16"><head>CONVERSATION XVI.</head><stage> SUR LES AGRÉMENTS.
+</stage>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 <p id="1">
 	<s id="1">Nous étions l'autre jour si occupées de la raillerie, que nous passâmes fort légèrement sur ce que l'on disait, que les agréments se pouvaient acquérir.</s>
@@ -3385,7 +3401,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="17"><head>CONVERSATION XVII. SUR LA DOUCEUR,</head>
+<div2 type="conversation" n="17"><head>CONVERSATION XVII.</head><stage> SUR LA DOUCEUR,
+</stage>
 <sp who="ROSALIE"><speaker>ROSALIE.</speaker>
 <p id="1">
 	<s id="1">Je sors d'un lieu où l'on a bien disputé ; les uns soutenaient que Madame de Barcelien était douce, et les autres prétendaient qu'elle ne l'était point du tout.</s>
@@ -3638,7 +3655,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="18"><head>CONVERSATION XVIII. SUR L'ÉMULATION.</head>
+<div2 type="conversation" n="18"><head>CONVERSATION XVIII.</head><stage> SUR L'ÉMULATION.
+</stage>
 <sp who="MARCELLE"><speaker>MARCELLE.</speaker>
 <p id="1">
 	<s id="1">On parle souvent d'émulation, surtout aux jeunes personnes.Je trouve qu'il est difficile de ne la pas confondre avec l'en vie.</s>
@@ -3796,7 +3814,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="19"><head>CONVERSATION XIX. SUR L'ÉDUCATION DE SAINT-CYR ET L'USAGE DES CONVERSATIONS.</head>
+<div2 type="conversation" n="19"><head>CONVERSATION XIX.</head><stage> SUR L'ÉDUCATION DE SAINT-CYR ET L'USAGE DES CONVERSATIONS.
+</stage>
 <sp who="ÉLÉONORE"><speaker>ÉLÉONORE.</speaker>
 <p id="1">
 	<s id="1">Je suis charmée, mesdemoiselles, des conversations dont on nous prescrit l'usage ; jamais on ne pouvait trouver de moyen plus agréable et plus utile en même temps.</s>
@@ -3977,7 +3996,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="20"><head>CONVERSATION XX. SUR LA DÉPENDANCE.</head>
+<div2 type="conversation" n="20"><head>CONVERSATION XX.</head><stage> SUR LA DÉPENDANCE.
+</stage>
 <sp who="ODILE"><speaker>ODILE.</speaker>
 <p id="1">
 	<s id="1">Divertissons-nous à imaginer aujourd'hui ce que nous ferions dans le monde, si nous y étions.</s>
@@ -4277,7 +4297,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="21"><head>CONVERSATION XXI. SUR LE MARIAGE ET LES DEVOIRS D'UNE HONNÊTE ÉPOUSE.</head>
+<div2 type="conversation" n="21"><head>CONVERSATION XXI.</head><stage> SUR LE MARIAGE ET LES DEVOIRS D'UNE HONNÊTE ÉPOUSE.
+</stage>
 <sp who="CLOTILDE"><speaker>CLOTILDE.</speaker>
 <p id="1">
 	<s id="1">Je suis bien aise de me trouver avec vous, Mesdemoiselles ; et quand je vous aurais choisies, je n'aurais pas mieux fait que ce que le hasard vient de faire.</s>
@@ -4540,7 +4561,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="22"><head>CONVERSATION XXII. SUR L'ESPRIT DU MONDE.</head>
+<div2 type="conversation" n="22"><head>CONVERSATION XXII.</head><stage> SUR L'ESPRIT DU MONDE.
+</stage>
 <sp who="ANASTASIE"><speaker>ANASTASIE.</speaker>
 <p id="1">
 	<s id="1">Je suis ravie de vous revoir, Mesdemoiselles, et je vous assure que j'avais bien de l'impatience d'être avec vous.</s>
@@ -4599,7 +4621,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="23"><head>CONVERSATION XXIII. SUR LA BONNE HUMEUR.</head>
+<div2 type="conversation" n="23"><head>CONVERSATION XXIII.</head><stage> SUR LA BONNE HUMEUR.
+</stage>
 <stage type="title">SCÈNE PREMIÈRE.</stage>
 <sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 <p id="1">
@@ -4881,7 +4904,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="24"><head>CONVERSATION XXIV. SUR LES DIFFÉRENTS CARACTÈRES D'ESPRIT.</head>
+<div2 type="conversation" n="24"><head>CONVERSATION XXIV.</head><stage> SUR LES DIFFÉRENTS CARACTÈRES D'ESPRIT.
+</stage>
 <sp who="CÉLESTINE"><speaker>CÉLESTINE.</speaker>
 <p id="1">
 	<s id="1">Je voudrais de tout mon coeur que nous pussions établir entre nous ces conversations raisonnables qu'on nous demande.</s>
@@ -5125,7 +5149,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="25"><head>CONVERSATION XXV. SUR LA CONTRAINTE DE TOUS LES ÉTATS.</head>
+<div2 type="conversation" n="25"><head>CONVERSATION XXV.</head><stage> SUR LA CONTRAINTE DE TOUS LES ÉTATS.
+</stage>
 <sp who="LA DAME"><speaker>UNE VIEILLE DAME.</speaker>
 <p id="1">
 	<s id="1">Par quelle aventure vois-je quatre demoiselles de Saint-Cyr à la fois ? </s>
@@ -5350,7 +5375,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="concersation" n="26"><head>CONVERSATION XXVI. SUR LE TRAVAIL.</head>
+<div2 type="concersation" n="26"><head>CONVERSATION XXVI.</head><stage> SUR LE TRAVAIL.
+</stage>
 <sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
 <p id="1">
 	<s id="1">Quoi ! mademoiselle, vous travaillez un jour de récréation ?</s>
@@ -5531,7 +5557,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="concersation" n="27"><head>CONVERSATION XXVII. SUR LA BONNE CONDUITE.</head>
+<div2 type="concersation" n="27"><head>CONVERSATION XXVII.</head><stage> SUR LA BONNE CONDUITE.
+</stage>
 <sp who="VICTOIRE"><speaker>VICTOIRE.</speaker>
 <p id="1">
 	<s id="1">Quand on loue une personne d'une bonne conduite, qu'est-ce qu'on entend dire ?</s>
@@ -5711,7 +5738,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="concersation" n="28"><head>CONVERSATION XXVIII. SUR LA RECONNAISSANCE.</head>
+<div2 type="concersation" n="28"><head>CONVERSATION XXVIII.</head><stage> SUR LA RECONNAISSANCE.
+</stage>
 <sp who="ÉMILIE"><speaker>ÉMILIE.</speaker>
 <p id="1">
 	<s id="1">Il y a bien des personnes qui conviennent d'avoir quelques défauts, mais je n'en ai jamais vu qui avouent qu'elles soient ingrates.</s>
@@ -5911,7 +5939,8 @@ qui passe et qui repasse ?</s>
 	<s id="2">Car, si vous êtes raisonnable, vous voyez quand vous avez tort.</s>
 </p>
 </sp>
-<sp stage="toward" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, à Éléonore.</speaker>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE</speaker><stage type="toward">, à Éléonore.
+</stage>
 <p id="40">
 	<s id="1">Vous avez trop bon esprit pour ne pas voir quand vous vous égarez ; il faut que tout soit réglé et modéré pour être des vertus : donner sans règle, c'est prodigalité, et non pas libéralité : ne donner jamais, c'est avarice et non pas économie : souffrir le désordre dans les personnes dont nous sommes chargées, c'est lâcheté, mollesse, et non patience et douceur, et ainsi de tout le reste, qui serait trop long à dire.</s>
 </p>
@@ -5944,7 +5973,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="29"><head>CONVERSATION XXIX. SUR L'ÉLÉVATION DES SENTIMENTS.</head>
+<div2 type="conversation" n="29"><head>CONVERSATION XXIX.</head><stage> SUR L'ÉLÉVATION DES SENTIMENTS.
+</stage>
 <sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
 <p id="1">
 	<s id="1">Que veut-on dire quand on dit : Cette personne a de l'élévation ? </s>
@@ -6111,7 +6141,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="30"><head>CONVERSATION XXX. SUR LA GÉNÉROSITÉ.</head>
+<div2 type="conversation" n="30"><head>CONVERSATION XXX.</head><stage> SUR LA GÉNÉROSITÉ.
+</stage>
 <sp who="ROSALIE"><speaker>ROSALIE.</speaker>
 <p id="1">
 	<s id="1">Je suis ravie de ce que nous nous trouvons toutes cinq ensemble pour avoir de ces conversations dont je trouve que nous tirons toujours quelque utilité.</s>
@@ -6404,7 +6435,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="concersation" n="31"><head>CONVERSATION XXXI. SUR LA DIFFÉRENCE DES ÉTATS ET DES CONDITIONS.</head>
+<div2 type="concersation" n="31"><head>CONVERSATION XXXI.</head><stage> SUR LA DIFFÉRENCE DES ÉTATS ET DES CONDITIONS.
+</stage>
 <sp who="LUCILE"><speaker>LUCILE.</speaker>
 <p id="1">
 	<s id="1">J'entends dire souvent que tous les états sont confondus ; je ne comprends pas bien clairement ce qu'on veut dire.</s>
@@ -6579,7 +6611,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="32"><head>CONVERSATION XXXII. SUR LA BONNE CONTENANCE.</head>
+<div2 type="conversation" n="32"><head>CONVERSATION XXXII.</head><stage> SUR LA BONNE CONTENANCE.
+</stage>
 <sp who="VALÉRIE"><speaker>VALÉRIE.</speaker>
 <p id="1">
 	<s id="1">Je voudrais bien m'instruire sur une chose que j'entendis dire l'autre jour : on disait qu'une personne avait une bonne contenance ; qu'est-ce que cela signifie ?</s>
@@ -6850,7 +6883,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="concersation" n="33"><head>CONVERSATION XXXIII. SUR LE MYSTÈRE, OPPOSÉ AU SECRET.</head>
+<div2 type="concersation" n="33"><head>CONVERSATION XXXIII.</head><stage> SUR LE MYSTÈRE, OPPOSÉ AU SECRET.
+</stage>
 <sp who="CAMILLE"><speaker>CAMILLE.</speaker>
 <p id="1">
 	<s id="1">On nous a instruites sur bien des sujets ; mais il y en a un dont il me semble qu'on ne nous a rien dit, c'est le mystère.</s>
@@ -7062,7 +7096,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="34"><head>CONVERSATION XXXIV. SUR LES AMITIÉS.</head>
+<div2 type="conversation" n="34"><head>CONVERSATION XXXIV.</head><stage> SUR LES AMITIÉS.
+</stage>
 <sp who="MÉLANIE"><speaker>MÉLANIE.</speaker>
 <p id="1">
 	<s id="1">Je suis affligée du démêlé qui est survenu entre Mademoiselle ** et Mademoiselle *** comme si j'y avais un grand intérêt, quoique je les connaisse peu l'une et l'autre.</s>
@@ -7235,7 +7270,8 @@ qui passe et qui repasse ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="35"><head>CONVERSATION XXXV. SUR LA BONNE FOI.</head>
+<div2 type="conversation" n="35"><head>CONVERSATION XXXV.</head><stage> SUR LA BONNE FOI.
+</stage>
 <sp who="ALEXANDRINE"><speaker>ALEXANDRINE.</speaker>
 <p id="1">
 	<s id="1">Nous eûmes l'autre jour une conversation qui nous instruisit sur le courage ; nous en voudrions une aujourd'hui qui nous expliquât ce que c'est que la bonne foi qu'on nous recommande si souvent.</s>
@@ -7414,7 +7450,8 @@ nés.</s>
 </p>
 </sp>
 </div2>
-<div2 type="conversation" n="36"><head>CONVERSATION XXXVI. SUR LE POINT D'HONNEUR.</head>
+<div2 type="conversation" n="36"><head>CONVERSATION XXXVI.</head><stage> SUR LE POINT D'HONNEUR.
+</stage>
 <sp who="FAUSTINE"><speaker>FAUSTINE.</speaker>
 <p id="1">
 	<s id="1">J'entends quelquefois parler du point d'honneur pour les hommes : est-ce qu'il n'y en a point pour les femmes ?</s>

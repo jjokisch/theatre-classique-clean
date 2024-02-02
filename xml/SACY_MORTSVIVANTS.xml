@@ -46,7 +46,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LES MORTS VIVANTS</head>
-<div2 type="scene" n="1" stage=""><head>SCÈNE PREMIÈRE. D'Orfeuil, Blinval, tous deux à moitié ivres, et sortant d'un Café.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage type=""> D'Orfeuil, Blinval, tous deux à moitié ivres, et sortant d'un Café.
+</stage>
 <stage type="">Le Théâtre représente une place publique, tant laquelle on voit l'Hôtel de l'Intendance, un café, et plusieurs maisons. La Scène se passe dans
 la nuit.</stage>
 <sp who="BLINVAL"><speaker>BLINVAL.</speaker>
@@ -186,7 +187,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 	<s id="1">L'air terrible dont j'ai tiré l'épée.</s>
 </p>
 </sp>
-<sp stage="laugh" who="BLINVAL"><speaker>BLINVAL, riant.</speaker>
+<sp who="BLINVAL"><speaker>BLINVAL</speaker><stage type="laugh">, riant.
+</stage>
 <p id="26">
 	<s id="1">L'air terrible de Monsieur d'Orfeuil ! </s>
 	<s id="2">L'air terrible !</s>
@@ -267,7 +269,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </sp>
 </div2>
 <div2 type="scene" n=""><head>SCÈNE II.</head>
-<sp stage="alone" who="D'ORFEUIL"><speaker>D'ORFEUIL, seul.</speaker>
+<sp who="D'ORFEUIL"><speaker>D'ORFEUIL</speaker><stage type="alone">, seul.
+</stage>
 <stage type="stand">D'Orfeuil est resté un moment étourdi de sa chute ; il se relève.</stage>
 <p id="1">
 	<s id="1">Je crois pas être cause de ma chute ; un pur hasard m'a fait tomber. </s>
@@ -298,7 +301,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
 <stage type="decor">Le Théâtre représente le Bureau de Durand.</stage>
-<sp stage="alone" who="BLINVAL"><speaker>BLINVAL, seul.</speaker>
+<sp who="BLINVAL"><speaker>BLINVAL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Que fais je ? </s>
 	<s id="2">Où vais-je ? </s>
@@ -310,7 +314,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Blinval, Lafleur.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Blinval, Lafleur.
+</stage>
 <sp who="BLINVAL"><speaker>BLINVAL.</speaker>
 <p id="1">
 	<s id="1">Lafleur ?... </s>
@@ -412,7 +417,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp stage="alone" who="BLINVAL"><speaker>BLINVAL, seul.</speaker>
+<sp who="BLINVAL"><speaker>BLINVAL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Si cependant cet homme allait jouer le Magistrat, le vengeur des Lois... </s>
 	<s id="2">Cruelle incertitude !... </s>
@@ -422,7 +428,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6" stage="costume"><head>SCENE VI. Blinval, Durand en robe de chambre.</head>
+<div2 type="scene" n="6"><head>SCENE VI.</head><stage type="costume"> Blinval, Durand en robe de chambre.
+</stage>
 <sp who="DURAND"><speaker>DURAND.</speaker>
 <p id="1">
 	<s id="1">Qu'avez-vous donc, Blinval ? </s>
@@ -604,7 +611,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCENE VII.</head>
-<sp stage="alone" who="D'ORFEUIL"><speaker>D'ORFEUIL, seul.</speaker>
+<sp who="D'ORFEUIL"><speaker>D'ORFEUIL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Oui, le parti que j'ai pris est le plus sage. </s>
 	<s id="2">Monsieur Durand sait les usages ; il me laissera le temps de m'enfuir, avant de me faire poursuivre... </s>
@@ -633,8 +641,10 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 	<l id="5">Au sein de mon ami, j'enfonce le couteau !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Durand, D'Orfeuil.</head>
-<sp stage="aparte" who="DURAND"><speaker>DURAND, à part.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Durand, D'Orfeuil.
+</stage>
+<sp who="DURAND"><speaker>DURAND</speaker><stage type="aparte">, à part.
+</stage>
 <p id="1">
 	<s id="1">Que vois-je ? </s>
 	<s id="2">C'est d'Orfeuil ? Se sont-ils joués de moi ? </s>
@@ -684,7 +694,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 	<s id="1">Et ce n'est pas moi, Monsieur, qui ai reçu le coup ; c'est cette main barbare qui l'a porté ; c'est Blinval qui en a été la victime.</s>
 </p>
 </sp>
-<sp stage="aparte" who="DURAND"><speaker>DURAND, à part.</speaker>
+<sp who="DURAND"><speaker>DURAND</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Feignons : amusons-nous un instant de cette comédie.</s>
 </p>
@@ -989,7 +1000,8 @@ je dois jouer demain ; il faut que j'aille l'apprendre.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Durand, D'Orfeuil, Blinval.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Durand, D'Orfeuil, Blinval.
+</stage>
 <sp who="DURAND"><speaker>DURAND.</speaker>
 <p id="1">
 	<s id="1">Partez ensemble, Messieurs, et dépêcher vous. </s>

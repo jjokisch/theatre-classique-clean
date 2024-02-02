@@ -59,7 +59,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>[I]. Ulysse, Arlangin, Panarete, Floridan, Pallas.</head>
+<div2 type="scene" n="1"><head>[I].</head><stage> Ulysse, Arlangin, Panarete, Floridan, Pallas.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="1">Hé ! Grands dieux, quel soleil chamarré de lumière</l>
 	<l id="2">Vient sur mes yeux, brillant d'une rouge crinièr,</l>
@@ -267,7 +268,8 @@
 	<l id="160">À ne sais quel appât sur cet homme fatal.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>[II]. Pallas, Ulysse.</head>
+<div2 type="scene" n="2"><head>[II].</head><stage> Pallas, Ulysse.
+</stage>
 <sp who="PALLAS"><speaker>PALLAS.</speaker>
 	<l id="161">Délaissant le séjour des tours Cecropiennes,</l>
 	<l id="162">Mon peuple tant aimé, mes eaux Tritonniennes,</l>
@@ -395,7 +397,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>[I]. Télémaque, Eumée, Philete.</head>
+<div2 type="scene" n="1"><head>[I].</head><stage> Télémaque, Eumée, Philete.
+</stage>
 <sp who="TÉLÉMAQUE"><speaker>TÉLÉMAQUE.</speaker>
 	<l id="256">Si d'un brave seigneur la prouesse admirable,</l>
 	<l id="257">Malgré les envieux, doit être redoutable,</l>
@@ -621,7 +624,8 @@
 	<l id="437">De dresser ses troupeaux en l'herbeuse commune.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>[II]. Les Mêmes, Ulysse.</head>
+<div2 type="scene" n="2"><head>[II].</head><stage> Les Mêmes, Ulysse.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 <note type="L">Fureter : Fig. Fouiller, chercher partout. [L]</note>
 	<l id="438">Je sens un feu brûlant, qui furète mes os</l>
@@ -765,7 +769,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>[I]. Pénélope, Laerte.</head>
+<div2 type="scene" n="1"><head>[I].</head><stage> Pénélope, Laerte.
+</stage>
 <sp who="PÉNÉLOPE"><speaker>PÉNÉLOPE.</speaker>
 	<l id="554">Puis-je pas bien blâmer les mouvements des cieux,</l>
 	<l id="555">Vénus, reine d'Eryce, et son fils furieux ?</l>
@@ -1093,7 +1098,8 @@
 </div2>
 </div1>
 <div1 type="act" n="4"><head>ACTE IIII</head>
-<div2 type="scene" n="1"><head>[I]. Ulysse.</head>
+<div2 type="scene" n="1"><head>[I].</head><stage> Ulysse.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="782">le sais de fil en fil l'état de ma maison.</l>
 	<l id="783">Me reste seulement prendre l'occasion</l>
@@ -1142,7 +1148,8 @@
 	<l id="817">Dévot j'appenderai l'honneur de ce trophée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>[II]. Pénélope, puis le messager</head>
+<div2 type="scene" n="2"><head>[II].</head><stage> Pénélope, puis le messager
+</stage>
 <sp who="PÉNÉLOPE"><speaker>PÉNÉLOPE.</speaker>
 	<l id="818">Las ! Soit que le soleil dresse sur nous son cours,</l>
 	<l id="819">Ou qu'il gagne les eaux, je travaille toujours</l>
@@ -1252,7 +1259,8 @@
 	<l id="883">A mis en sûr repos la chaste Pénélope.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>[III]. Ulysse, Pénélope.</head>
+<div2 type="scene" n="3"><head>[III].</head><stage> Ulysse, Pénélope.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="884">Pénélope, mon coeur, ma vie et mon amour,</l>
 	<l id="885">Me voici retourné de mon fâcheux séjour,</l>
@@ -1334,7 +1342,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>[I]. Ulysse, Télémaque.</head>
+<div2 type="scene" n="1"><head>[I].</head><stage> Ulysse, Télémaque.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="944">Pourquoi, destin, plutôt travailles-tu un Roi</l>
 	<l id="945">Qu'un champêtre bouvier, le mettant en émoi ?</l>
@@ -1430,7 +1439,8 @@
 	<l id="1012">Mais il faut m'écarter en quelque lieu désert.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>{II]. Télémaque, Télégon.</head>
+<div2 type="scene" n="2"><head>{II].</head><stage> Télémaque, Télégon.
+</stage>
 <sp who="TÉLÉMAQUE"><speaker>TÉLÉMAQUE.</speaker>
 	<l id="1013">Las ! Contre le destin le changement peu sert.</l>
 </sp>
@@ -1486,7 +1496,8 @@
 	<l id="1044" syll="6" part="i">Venons donc au combat.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>[III]. Télémaque, Télégon, Ulysse.</head>
+<div2 type="scene" n="3"><head>[III].</head><stage> Télémaque, Télégon, Ulysse.
+</stage>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="1044" syll="6" part="f">Hé ! Bon Dieu, tout s'enfuit.</l>
 <note type="L">Choquement : Action de choquer ou de se choquer. [L]</note>

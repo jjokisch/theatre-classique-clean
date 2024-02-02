@@ -47,8 +47,10 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>LA DÉFENSE</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Céphise, Nérine.</head>
-<sp stage="entrance" who="CÉPHISE"><speaker>CÉPHISE, sortant d'une allée.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Céphise, Nérine.
+</stage>
+<sp who="CÉPHISE"><speaker>CÉPHISE</speaker><stage type="entrance">, sortant d'une allée.
+</stage>
 <p id="1">
 	<s id="1">Arrêtons-nous ici ; ne passons point au-delà de ces bornes. </s>
 	<s id="2">C'est là que commence cette Terre de Champfleur, qui fut, tu le sais, enlevée à mon père par le père du Comte. L'arrêt, qui la donna à notre persécuteur m'enleva les deux tiers de mon patrimoine.</s>
@@ -165,8 +167,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Comte, Valentin.</head>
-<sp stage="toward" who="LE COMTE"><speaker>LE COMTE, à Valentin.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Comte, Valentin.
+</stage>
+<sp who="LE COMTE"><speaker>LE COMTE</speaker><stage type="toward">, à Valentin.
+</stage>
 <p id="1">
 	<s id="">Hâte-toi d'ouvrir la barriere.</s>
 </p>
@@ -285,7 +289,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Céphise, Nérine.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Céphise, Nérine.
+</stage>
 <sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
 <p id="1">
 	<s id="1">Ils se sont retirés... </s>
@@ -368,13 +373,16 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Comte, Céphise, Nérine, Valentin.</head>
-<sp stage="entrance" who="LE COMTE"><speaker>LE COMTE, paraissant tout- à-coup.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Le Comte, Céphise, Nérine, Valentin.
+</stage>
+<sp who="LE COMTE"><speaker>LE COMTE</speaker><stage type="entrance">, paraissant tout- à-coup.
+</stage>
 <p id="1">
 	<s id="1">Eh bien, Madame, j'ai donc obtenu par ma défense, ce que vous aviez refusé à mes prières ; et vous avez enfin daigné mettre le pied sur ma Terre ?</s>
 </p>
 </sp>
-<sp stage="offended" who="CÉPHISE"><speaker>CÉPHISE, fièrement.</speaker>
+<sp who="CÉPHISE"><speaker>CÉPHISE</speaker><stage type="offended">, fièrement.
+</stage>
 <p id="2">
 	<s id="1">Sur votre Terre, Monsieur !</s>
 </p>

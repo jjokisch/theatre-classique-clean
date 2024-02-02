@@ -45,7 +45,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LA QUINE</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Colette, Mignonnet.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Colette, Mignonnet.
+</stage>
 <sp who="MIGNONNET"><speaker>MIGNONNET.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -115,7 +116,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Madame Jourdain, Mignonnet.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Madame Jourdain, Mignonnet.
+</stage>
 <sp who="MIGNONET"><speaker>MIGNONNET.</speaker>
 <p id="1">
 	<s id="1">Eh bien, Madame, êtes-vous contente du résultat de vos calculs ? </s>
@@ -207,7 +209,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Madame Jourdain, Mignonnet, Colette.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Madame Jourdain, Mignonnet, Colette.
+</stage>
 <sp who="COLETTE"><speaker>COLETTE.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -287,7 +290,8 @@
 	<s id="2">Je me retire ; et tandis que vous ferez avec ce vieillard , je m'en vais gronder votre nièce, et lui apprendre à mieux juger de votre âge.</s>
 </p>
 </sp>
-<sp stage="low" who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN , bas à Mignonnet.</speaker>
+<sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN </speaker><stage type="low">, bas à Mignonnet.
+</stage>
 <p id="15">
 	<s id="1">Prends bien avec elle le ton d'un oncle irrité : tu en as le droit ; j'espère que tu le seras bientôt.</s>
 </p>
@@ -303,7 +307,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCENE V. Madame Jourdain, Mignonnet, déguisé en Rabbin, ayant un nez postiche, une longue barbe, des moustaches, et contrefaisant sa voix.</head>
+<div2 type="scene" n="5"><head>SCENE V.</head><stage> Madame Jourdain, Mignonnet, déguisé en Rabbin, ayant un nez postiche, une longue barbe, des moustaches, et contrefaisant sa voix.
+</stage>
 <sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN.</speaker>
 <p id="1">
 	<s id="1">Ma nièce avait bien raison de dire que sa figure était effrayante. </s>
@@ -418,7 +423,8 @@
 	<s id="1">Encore moins : tous ces mots diaboliques me font trembler.</s>
 </p>
 </sp>
-<sp stage="emphasis" who="MIGNONNET"><speaker>MIGNONNET, avec emphase.</speaker>
+<sp who="MIGNONNET"><speaker>MIGNONNET</speaker><stage type="emphasis">, avec emphase.
+</stage>
 <p id="23">
 	<s id="1">Alla Meth che huth Kan.</s>
 </p>
@@ -539,7 +545,8 @@
 	<s id="">Ne serait-il pas possible que le Génie s'éloignât un peu ?</s>
 </p>
 </sp>
-<sp stage="magic" who="MIGNONNET"><speaker>MIGNONNET, fait un signe avec sa baguette.</speaker>
+<sp who="MIGNONNET"><speaker>MIGNONNET</speaker><stage type="magic">, fait un signe avec sa baguette.
+</stage>
 <p id="42">
 	<s id="1">Il est déjà à plus de cent lieues d'ici ; je le rappellerai quand il me plaira. </s>
 	<s id="2">Parlez maintenant.</s>
@@ -687,7 +694,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp stage="alone" who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN, seule.</speaker>
+<sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN</speaker><stage type="alone">, seule.
+</stage>
 <p id="1">
 	<s id="1">En vérité, cet homme-là est étonnant ! </s>
 	<s id="2">Et qu'on me dise encore qu'il n'y a point de Génies ! </s>
@@ -709,7 +717,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Madame Jourdain, Mignonnet.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Madame Jourdain, Mignonnet.
+</stage>
 <sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN.</speaker>
 <p id="1">
 	<s id="1">Eh bien, mon cher Mignonnet, ma longue entrevue avec cet homme-là ne t'a-t-elle point inquiété ?</s>
@@ -847,7 +856,8 @@
 	<s id="2">Tu vas nier sans doute qu'il y ait des Génies, que ce vieillard converse avec eux ?</s>
 </p>
 </sp>
-<sp stage="laugh" who="MIGNONET"><speaker>MIGNONNET, riant.</speaker>
+<sp who="MIGNONET"><speaker>MIGNONNET</speaker><stage type="laugh">, riant.
+</stage>
 <p id="26">
 	<s id="1">Ah ! </s>
 	<s id="2">C'est encore un charlatan.</s>
@@ -924,7 +934,8 @@
 	<s id="1">Pèse donc mieux tes paroles ; si le Génie t'entendait , il pourrait bien te tordre le cou.</s>
 </p>
 </sp>
-<sp stage="laugh" who="MIGNONET"><speaker>MIGNONNET, riant.</speaker>
+<sp who="MIGNONET"><speaker>MIGNONNET</speaker><stage type="laugh">, riant.
+</stage>
 <p id="40">
 	<s id="1">Cela serait plaisant.</s>
 </p>
@@ -999,7 +1010,8 @@
 	<s id="5">M'aimer n'est pas un crime ; et quand je lui ai fait l'éloge de tes belles qualités...</s>
 </p>
 </sp>
-<sp stage="aparte" who="MIGNONET"><speaker>MIGNONNET, à part.</speaker>
+<sp who="MIGNONET"><speaker>MIGNONNET</speaker><stage type="aparte">, à part.
+</stage>
 <p id="50">
 	<s id="1">Fort bien.</s>
 </p>
@@ -1026,7 +1038,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp stage="alone" who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN, seule.</speaker>
+<sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN</speaker><stage type="alone">, seule.
+</stage>
 <p id="1">
 	<s id="1">Le Génie ne nous aurait-il pas entendus ? </s>
 	<s id="2">Ne serait-ce pas mon artifice qui aurAit empêché l'effet du charme ? </s>
@@ -1038,8 +1051,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Madame Jourdain, Mignonnet déguisé en  vieillard.</head>
-<sp stage="anger" who="MIGNONNET"><speaker>MIGNONNET, furieux.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Madame Jourdain, Mignonnet déguisé en  vieillard.
+</stage>
+<sp who="MIGNONNET"><speaker>MIGNONNET</speaker><stage type="anger">, furieux.
+</stage>
 <p id="1">
 	<s id="1">Ô complot horrible ! </s>
 	<s id="2">Ô fourbe abominable ! </s>
@@ -1116,7 +1131,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Madame Jourdain, Mignonnet, Colette.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Madame Jourdain, Mignonnet, Colette.
+</stage>
 <sp who="MADAME JOURDAIN"><speaker>MADAME JOURDAIN.</speaker>
 <p id="1">
 	<s id="1">Mon cher Mignonnet, quel coup affreux ! </s>

@@ -46,7 +46,8 @@
 <body>
 <div1 type="acte" n="1"><head>LE RETOUR DU DISTRAIT</head>
 <div2 type="scene" n=""><head>SCÈNE PREMIÈRE.</head>
-<sp stage="alone" who="DAMON"><speaker>DAMON, seul.</speaker>
+<sp who="DAMON"><speaker>DAMON</speaker><stage type="alone">, seul.
+</stage>
 <stage type="entrance/decor/knock">Il entre d'un air distrait, et frappe à la porte d'un Cabinet qui donne dans le salon.</stage>
 <p id="1">
 	<s id="1">Je frappe en vain, on ne m'entend pas ; Dieu me damne, ces gens-là sont sourds... </s>
@@ -56,7 +57,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Damon, Merlin.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Damon, Merlin.
+</stage>
 <sp who="DAMON"><speaker>DAMON.</speaker>
 <p id="1">
 	<s id="1">Il y a une heure que je frappe à cette porte ; crois-moi donc pourquoi on ne m'ouvre pas. </s>
@@ -323,7 +325,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Damon, Merlin, Lucinde.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Damon, Merlin, Lucinde.
+</stage>
 <sp who="LUCINDE"><speaker>LUCINDE.</speaker>
 <p id="1">
 	<s id="1">3En vérité, Monsieur, vous êtes un homme affreux ; me laisser un quart-d'heure, au milieu d'un jardin, exposée à la pluie !</s>
@@ -386,7 +389,8 @@
 </p>
 <stage type="carry/give/drink">Merlin apporte un verre d'eau pour Lucinde, Damon le prend et le boit.</stage>
 </sp>
-<sp stage="aparte" who="LUCINDE"><speaker>LUCINDE, à part.</speaker>
+<sp who="LUCINDE"><speaker>LUCINDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Voilà un homme bien maussade. </s>
 	<s id="2">La gloire d'asservir ce coeur novice n'en vaut ma foi pas la peine.</s>
@@ -447,7 +451,8 @@
 	<s id="1">Madame, c'est une figure purement idéale, dont un peintre de ses amis lui a fait présent.</s>
 </p>
 </sp>
-<sp stage="show" who="DAMON"><speaker>DAMON, lui montrant le portrait.</speaker>
+<sp who="DAMON"><speaker>DAMON</speaker><stage type="show">, lui montrant le portrait.
+</stage>
 <p id="19">
 	<s id="1">Que dites-vous de ces yeux ? </s>
 	<s id="2">Ne sont-ils pas bien animés, et cette bouche ne semble-t-elle pas appeler le baiser ?</s>
@@ -472,7 +477,8 @@
 <stage type="exit">Elle s'en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Damon, Merlin.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Damon, Merlin.
+</stage>
 <stage type="sit/watch">Merlin s'assoit sur le fauteuil de Lucinde, et le recule un peu pour n'être pas aperçu de Damon, qui, pendant toute cette scène, a les yeux
 fixés sur le portrait.</stage>
 <sp who="DAMON"><speaker>DAMON.</speaker>
@@ -481,7 +487,8 @@ fixés sur le portrait.</stage>
 	<s id="2">Je perdis à la fois mon amante et mon ami.</s>
 </p>
 </sp>
-<sp stage="imitate" who="MERLIN"><speaker>MERLIN, imitant la voix de Lucinde.</speaker>
+<sp who="MERLIN"><speaker>MERLIN</speaker><stage type="imitate">, imitant la voix de Lucinde.
+</stage>
 <p id="2">
 	<s id="1">Ce n'était donc pas un portrait purement idéal, comme Merlin me l'assurait ?</s>
 </p>
@@ -492,7 +499,8 @@ fixés sur le portrait.</stage>
 	<s id="2">Il y a un an que je l'ai perdue, et cependant je la pleure encore tous les jours.</s>
 </p>
 </sp>
-<sp stage="imitate" who="MERLIN"><speaker>MERLIN, imitant toujours la voix de Lucinde.</speaker>
+<sp who="MERLIN"><speaker>MERLIN</speaker><stage type="imitate">, imitant toujours la voix de Lucinde.
+</stage>
 <p id="4">
 	<s id="">Vous ne me croyez donc pas capable de vous la faire oublier ?</s>
 </p>

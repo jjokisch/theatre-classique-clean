@@ -491,7 +491,8 @@ Seine, Choeurs de Peuples, Suite de Flore, Suite de Zephire;
 	<l id="212">Celle qui reçoit nos hommages,</l>
 	<l id="213">Soumet tous les coeurs à vos lois.</l>
 </sp>
-<sp stage="carry/danse" who="UN BERGER"><speaker>UN BERGER avec sa musette conduisant des Bergères qui dansent autour de lui.</speaker>
+<sp who="UN BERGER"><speaker>UN BERGER</speaker><stage type="carry/danse"> avec sa musette conduisant des Bergères qui dansent autour de lui.
+	</stage>
 	<l id="214">Venez, jeunes Bergères,</l>
 	<l id="215">Sortez de vos Hameaux,</l>
 	<l id="216">Dansez sur les fougères</l>
@@ -860,7 +861,8 @@ Seine, Choeurs de Peuples, Suite de Flore, Suite de Zephire;
 <div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Choeurs de Peuples, Aufide, Corite, Camille.
 </stage>
 <stage type="listen">On entend les choeurs des peuples qui conduisent en triomphe Camille.</stage>
-<sp stage="location" who="CHOEURS"><speaker>CHOEURS derrière le théâtre.</speaker>
+<sp who="CHOEURS"><speaker>CHOEURS</speaker><stage type="location"> derrière le théâtre.
+	</stage>
 	<l id="444">Régnez, sur tous les coeurs, régnez, beauté charmante,</l>
 	<l id="445">Venez, par vos attraits embellissez ces lieux.</l>
 </sp>

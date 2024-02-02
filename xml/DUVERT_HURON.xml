@@ -1822,14 +1822,9 @@ Kerkabon, Le Huron, Mademoiselle Saint-Yves.
 	<s id="1">Est-il possible ! </s>
 	<s id="2">Vous auriez pu croire... </s>
 	<s id="3">Vous ne l'aimeriez pas ?</s>
-</p>
+</p><stage>On entend Kerkabon appeler au dehors : Tête-de-Castor ! Tête-de-Castor !</stage>
 </sp>
-<sp stage="location" who="KERKABON"><speaker>On entend Kerkabon appeler au dehors.</speaker>
-<p id="4">
-	<s id="1">Tête-de-Castor ! </s>
-	<s id="2">Tête-de-Castor !</s>
-</p>
-</sp>
+
 <sp who="MADEMOISELLE SAINT-YVES"><speaker>MADEMOISELLE SAINT-YVES. </speaker>
 <p id="5">
 	<s id="1">Silence ! </s>

@@ -102,7 +102,8 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <stage tyep="decor">Le Théâtre représente un Salon. Sur le devant, on voit deux tables. Sur l'une, sont des Sphères ; sur l'autre, sont des Livres, des Plans, des Compas, etc. Dans le reste de l'Appartement, on voit des Bustes et des Antiques.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Forlis, Dorci fils.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Forlis, Dorci fils.
+</stage>
 <sp who="DORCI FILS"><speaker>DORCI FILS.</speaker>
 	<l id="1">Forlis, je crains pour toi leur animosité.</l>
 </sp>
@@ -253,7 +254,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Monsieur de Norville, Dorci père, Dorci fils.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Monsieur de Norville, Dorci père, Dorci fils.
+</stage>
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
 	<l id="111">Ah ! Te voilà ! Bonjour. D'où vient cet air timide ?</l>
 </sp>
@@ -269,7 +271,8 @@
 	<l id="114">Va rêver à ta belle ; on va parier pour toi.  </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Dorci père, Monsieur de Norville.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Dorci père, Monsieur de Norville.
+</stage>
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
 	<l id="115">J'ai jeté l'ancre : allons, mes courses sont finies.</l>
 	<l id="116">J'ai visité nos ports, j'ai vu nos colonies,</l>
@@ -380,7 +383,8 @@
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
 	<l id="193" syll="3" part="i">Il redouble !</l>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE NORVILLE"><speaker>NORVILLE, à part.</speaker>
+<sp who="MONSIEUR DE NORVILLE"><speaker>NORVILLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="193" syll="9" part="f">Ah ! Vraiment, l'ouvrage a réussi.</l>
 </sp>
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
@@ -408,7 +412,8 @@
 <sp who="MONSIEUR DE NORVILLE"><speaker>NORVILLE.</speaker>
 	<l id="198" syll="6" part="f">Eh ! Non pas ; mais on lit.</l>
 </sp>
-<sp who="DORCI PÈRE"><speaker>DORCI PÈRE, riant avec éclat.</speaker>
+<sp who="DORCI PÈRE"><speaker>DORCI PÈRE</speaker><stage>, riant avec éclat.
+	</stage>
 	<l id="199">Tu ne plaisantes pas ? La burlesque aventure !</l>
 	<l id="200">Oh ! C'est être endiablé de la littérature.</l>
 </sp>
@@ -440,7 +445,8 @@
 	<l id="212">Peste soit du Lecteur, et de son beau génie !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les mêmes, Finette.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les mêmes, Finette.
+</stage>
 <sp who="FINETTE"><speaker>FINETTE.</speaker>
 	<l id="213" syll="6" part="i">Ah ! Monsieur, je me meurs !</l>
 </sp>
@@ -531,23 +537,28 @@
 	<l id="256" syll="6" part="i">Oh ! Cela saute aux yeux.....</l>
 <stage type="kiss">Dorci père embrasse Finette malgré elle.</stage>
 </sp>
-<sp who="MONSIEUR DE NORVILLE"><speaker>NORVILLE, en riant.</speaker>
+<sp who="MONSIEUR DE NORVILLE"><speaker>NORVILLE</speaker><stage>, en riant.
+	</stage>
 	<l id="256" syll="6" part="f">Comme tu t'émancipes !</l>
 	<l id="257">Chut. La docte cohue approche de ces lieux.</l>
 </sp>
-<sp stage="get/dress" who="DORCI PÈRE"><speaker>DORCI, ramassant son chapeau qu'il a laissé tomber en embrassant Finette.</speaker>
+<sp who="DORCI PÈRE"><speaker>DORCI</speaker><stage type="get/dress">, ramassant son chapeau qu'il a laissé tomber en embrassant Finette.
+	</stage>
 	<l id="258">Et moi, très brusquement, je te fais mes adieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Madame de Norville, Célimène, Bélise, Callidès, Broussin, l'Abbé Durcet, Versac, Fatmé, Forlis.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Madame de Norville, Célimène, Bélise, Callidès, Broussin, l'Abbé Durcet, Versac, Fatmé, Forlis.
+</stage>
 <stage type="sit/alone/think">Broussin s'assied seul, appuyé sur sa canne. Versac réfléchit profondément.</stage>
-<sp stage="toward" who="CÉLIMENE"><speaker>CÉLIMENE, à Callidès.</speaker>
+<sp who="CÉLIMENE"><speaker>CÉLIMENE</speaker><stage type="toward">, à Callidès.
+	</stage>
 	<l id="259" syll="3" part="i">Parlez-donc.</l>
 </sp>
 <sp who="BÉLISE"><speaker>BÉLISE.</speaker>
 	<l id="259" syll="3" part="m">Prononcez.</l>
 </sp>
-<sp stage="expression" who="FATMÉ"><speaker>FATMÉ, en grasseyant.</speaker>
+<sp who="FATMÉ"><speaker>FATMÉ</speaker><stage type="expression">, en grasseyant.
+	</stage>
 	<l id="259" syll="6" part="f">Rompez ce dur silence.</l>
 </sp>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
@@ -557,13 +568,15 @@
 <note type="L">Melpomène : Nom d'une des neuf Muses, à laquelle on attribue l'invention du chant, de l'harmonie musicale et de la tragédie.</note>
 	<l id="261">Mesdames... C'est un pas que Melpomène a fait.</l>
 </sp>
-<sp stage="expression" who="FATMÉ"><speaker>FATMÉ, en grasseyant.</speaker>
+<sp who="FATMÉ"><speaker>FATMÉ</speaker><stage type="expression">, en grasseyant.
+	</stage>
 	<l id="262" syll="6" part="i">Le jugement est juste.</l>
 </sp>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="262" syll="6" part="f">Et le mot est parfait.</l>
 </sp>
-<sp stage="watch" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, regardant Forlis.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="watch">, regardant Forlis.
+	</stage>
 	<l id="263">C'est un vrai phénomène ! Il faut qu'il aille aux nues.</l>
 </sp>
 <sp who="BÉLISE"><speaker>BÉLISE.</speaker>
@@ -587,16 +600,20 @@
 	<l id="268">Et l'art approfondi dans ses moindres mystères ?</l>
 	<l id="269">Jusqu'à ce Roi cruel, tout a su m'attendrir.</l>
 </sp>
-<sp stage="expression" who="FATMÉ"><speaker>FATMÉ, en grasseyant.</speaker>
+<sp who="FATMÉ"><speaker>FATMÉ</speaker><stage type="expression">, en grasseyant.
+	</stage>
 	<l id="270">Tenez, j'ai le coeur gros de l'avoir vu mourir.</l>
 </sp>
-<sp stage="shout/toward" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, criant très fort à l'oreille de Broussin.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="shout/toward">, criant très fort à l'oreille de Broussin.
+	</stage>
 	<l id="271">Que dites-vous, Monsieur, de cette Tragédie ?</l>
 </sp>
-<sp stage="stand/nervous" who="BROUSSIN"><speaker>BROUSSIN, se levant comme pour sortir, et frappant le plancher avec sa canne.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="stand/nervous">, se levant comme pour sortir, et frappant le plancher avec sa canne.
+	</stage>
 	<l id="272">Dialogue plaisant !... Très bonne Comédie !</l>
 </sp>
-<sp stage="estonnish" who="FORLIS"><speaker>FORLIS, étonné.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="estonnish">, étonné.
+	</stage>
 	<l id="273" syll="1" part="i">Hem !...</l>
 </sp>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
@@ -612,10 +629,12 @@
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="274" syll="1" part="m">Quoi !</l>
 </sp>
-<sp stage="show" who="FORLIS"><speaker>FORLIS, montrant Versac.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="show">, montrant Versac.
+	</stage>
 	<l id="274" syll="6" part="f">Monsieur est-il muet ?</l>
 </sp>
-<sp stage="awake" who="VERSAC"><speaker>VERSAC, sortant de sa rêverie.</speaker>
+<sp who="VERSAC"><speaker>VERSAC</speaker><stage type="awake">, sortant de sa rêverie.
+	</stage>
 	<l id="275" syll="6" part="i">Je parle peu, Monsieur.</l>
 <stage type="low/listen">Versac et Durcet se disent quelques mots bas ; Broussin prête l'oreille.</stage>
 </sp>
@@ -625,7 +644,8 @@
 <sp who="BÉLISE"><speaker>BÉLISE.</speaker>
 	<l id="276">Eh quoi! n'avez-vous pas entendu son silence?</l>
 </sp>
-<sp stage="toward" who="DURCET"><speaker>DURCET, à Forlis.</speaker>
+<sp who="DURCET"><speaker>DURCET</speaker><stage type="toward">, à Forlis.
+	</stage>
 	<l id="277">Vous allez me causer un terrible embarras,</l>
 	<l id="278" syll="6" part="i">Votre chef-d'oeuvre, et vous !</l>
 </sp>
@@ -646,12 +666,14 @@
 	<l id="285">Oh ! De vous bien louer, je me fais un devoir ;</l>
 	<l id="286" syll="6" part="i">Et vanter les talents...</l>
 </sp>
-<sp stage="aparte" who="FORLIS"><speaker>FORLIS, à part.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="286" syll="6" part="f">Dispense d'en avoir.</l>
 <stage type="exit">BROUSSIN, VERSAC et DURCET, sortent en donnant des signes d'approbation. Madame de Norville, par des gestes, a l'air de leur recommander Forlis.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Les mêmes, excepté Broussin, Versac et Durcet.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Les mêmes, excepté Broussin, Versac et Durcet.
+</stage>
 <stage type="sit">Les femmes, dans cette scène, sont assises.</stage>
 <sp who="FORLIS"><speaker>FORLIS.</speaker>
 	<l id="287">Mesdames, à propos, irez-vous voir la pièce</l>
@@ -660,20 +682,23 @@
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="288" syll="6" part="f">Ah ! La belle finesse !</l>
 </sp>
-<sp stage="expression" who="FATMÉ"><speaker>FATMÉ, en grasseyant.</speaker>
+<sp who="FATMÉ"><speaker>FATMÉ</speaker><stage type="expression">, en grasseyant.
+	</stage>
 	<l id="289" syll="6" part="i">Un ouvrage sans titre.</l>
 </sp>
 <sp who="CÉLIMÈNE"><speaker>CÉLIMÈNE.</speaker>
 <note type="L">Floridor : Célèbre comédien, de son vrai Josias de Soulas. Il joua de 1640 à 1672 au théâtre du Marais et au théâtre de l'Hôtel de Bourgogne. Il n'est dont pas de l'époque où se situe l'action de la pièce.</note>
 	<l id="289" syll="6" part="f">Il est de Floridor.</l>
 </sp>
-<sp stage="think" who="CALLIDÈS"><speaker>CALLIDÈS, d'un ton pénétré.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="think">, d'un ton pénétré.
+	</stage>
 	<l id="290" syll="6" part="i">L'infortuné l'avoue.</l>
 </sp>
 <sp who="FORLIS"><speaker>FORLIS.</speaker>
 	<l id="290" syll="4" part="m">Il écrit bien.</l>
 </sp>
-<sp stage="sign" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, lui faisant signe.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="sign">, lui faisant signe.
+	</stage>
 	<l id="290" syll="2" part="f">Encor ?</l>
 	<l id="291">Ce Floridor, Monsieur, est, dit-on, très honnête ;</l>
 	<l id="292">Mais, c'est un homme, au fait, qui n'a rien dans la tête :</l>
@@ -696,7 +721,8 @@
 <sp who="FATMÉ"><speaker>FATMÉ.</speaker>
 	<l id="299" syll="2" part="i">Charmant!</l>
 </sp>
-<sp stage="show" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, montrant Callidès.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="show">, montrant Callidès.
+	</stage>
 	<l id="299" syll="6" part="m">C'est notre oracle,</l>
 </sp>
 <sp who="BÉLISE"><speaker>BÉLISE.</speaker>
@@ -705,7 +731,8 @@
 <sp who="CÉLIMÈNE"><speaker>CÉLIMÈNE.</speaker>
 	<l id="300" syll="3" part="i">Notre guide.</l>
 </sp>
-<sp stage="search" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, cherchant dans ses poches.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="search">, cherchant dans ses poches.
+	</stage>
 	<l id="300" syll="9" part="f">À présent... Bon ! je n'ai point l'épître.</l>
 	<l id="301">Je dois en convenir, elle a su m'enchanter :</l>
 <note type="L">Chaulieu (Guillaume Amfrye, abbé de) [1639-1720] : poète épicurien auteur d'odes et lié au Marquis de la Fare.</note>
@@ -717,14 +744,16 @@
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="303" syll="10" part="f">C'est... c'est Dorci ; ce n'est plus un mystère.</l>
 </sp>
-<sp stage="work" who="FATMÉ"><speaker>FATMÉ, parfilant.</speaker>
+<sp who="FATMÉ"><speaker>FATMÉ</speaker><stage type="work">, parfilant.
+</stage>
 <note type="L">Parfiler : Défaire fil à fil une étoffe ou un galon, soit d'or, soit d'argent, et séparer l'or et l'argent. [L]</note>
 	<l id="304">Ce jeune homme si doux, qui ne sait que se taire ?</l>
 </sp>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="305">Oui ; le fils du Marin, si fameux sur les flots.</l>
 </sp>
-<sp stage="work" who="CÉLIMENE"><speaker>CÉLIMENE, faisant des noeuds.</speaker>
+<sp who="CÉLIMENE"><speaker>CÉLIMENE</speaker><stage type="work">, faisant des noeuds.
+	</stage>
 	<l id="306" syll="6" part="i">Mais, odieux sur terre.</l>
 </sp>
 <sp who="FATMÉ"><speaker>FATMÉ.</speaker>
@@ -762,7 +791,8 @@
 <sp who="CÉLIMÈNE"><speaker>CÉLIMÈNE.</speaker>
 	<l id="315" syll="4" part="f">Comptez sur nous.</l>
 </sp>
-<sp stage="stand" who="BÉLISE"><speaker>BÉLISE, se levant.</speaker>
+<sp who="BÉLISE"><speaker>BÉLISE</speaker><stage type="stand">, se levant.
+	</stage>
 	<l id="315" syll="6" part="f">En honneur, on s'oublie.</l>
 <stage type="stand">Tout le monde se lève.</stage>
 </sp>
@@ -803,7 +833,8 @@
 <stage type="exit/entrance/low/toward">Célimène, Bélise et Fatmé sortent. Finette entre, et vient parler à l'oreille de Madame de Norville.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Madame de Norville, Callidès, Forlis, Finette, dans le fond.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Madame de Norville, Callidès, Forlis, Finette, dans le fond.
+</stage>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
 	<l id="329">Je vais faire partir mes paquets pour Pékin,</l>
 	<l id="330" syll="6" part="i">Car le Chinois se forme.</l>
@@ -821,12 +852,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp stage="alone" who="FINETTE"><speaker>FINETTE, seule.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="alone">, seule.
+	</stage>
 	<l id="335">Bon ! La voilà qui part avec le grand arbitre....</l>
 	<l id="336">J'ignore quel effet aura produit l'épître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Hortense, Finette.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Hortense, Finette.
+</stage>
 <sp who="HORTENSE"><speaker>HORTENSE.</speaker>
 	<l id="337">Ah ! Finette, c'est vous, de grâce, allez savoir...</l>
 </sp>
@@ -887,16 +920,20 @@
 	<l id="354">Je crains de vous laisser à vos tendres ennuis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Dorci père, Dorci fils, Hortense, Finette.</head>
-<sp stage="closer" who="DORCI FILS"><speaker>DORCI fils, s'élançant vers Hortense.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Dorci père, Dorci fils, Hortense, Finette.
+</stage>
+<sp who="DORCI FILS"><speaker>DORCI fils</speaker><stage type="closer">, s'élançant vers Hortense.
+	</stage>
 	<l id="355" syll="9" part="i">Mademoiselle !... Ô Ciel !... Finette!</l>
 </sp>
-<sp stage="exit" who="FINETTE"><speaker>FINETTE, en s'en allant.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="exit">, en s'en allant.
+	</stage>
 	<l id="355" syll="3" part="m">Point d'affaire.</l>
 	<l id="356" syll="3" part="i">Nous boudons...</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Dorci père, Dorci fils.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Dorci père, Dorci fils.
+</stage>
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
 	<l id="356" syll="9" part="f">Il paraît que le vent t'est contraire :</l>
 	<l id="357">Mais va, console-toi, je vais tout hasarder.</l>
@@ -1022,7 +1059,8 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1" stage="watch/attitude"><head>SCÈNE I. Callidès, observant longtemps Forlis, avant que de parler, Forlis, d'un air soumis et respectueux.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage type="watch/attitude"> Callidès, observant longtemps Forlis, avant que de parler, Forlis, d'un air soumis et respectueux.
+</stage>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
 	<l id="447">Vous avez l'esprit juste, et cet utile ensemble,</l>
 	<l id="448">Qui joint les fils épars que le travail assemble.</l>
@@ -1158,7 +1196,8 @@
 	<l id="551">De là notre pouvoir, longtemps problématique,</l>
 	<l id="552" syll="6" part="i">Souple dans son principe,</l>
 </sp>
-<sp stage="low" who="FORLIS"><speaker>FORLIS, à demi-voix.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="low">, à demi-voix.
+	</stage>
 	<l id="552" syll="6" part="f">Aujourd'hui despotique.</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -1236,7 +1275,8 @@
 	<l id="612">Parler à l'univers qui se fait à leur style,</l>
 	<l id="613">Et fouler à leurs pieds leurs rivaux abattus.</l>
 </sp>
-<sp stage="low" who="FORLIS"><speaker>FORLIS, à demi voix.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="low">, à demi voix.
+	</stage>
 	<l id="614">Qui n'ont que des talents, des moeurs et des vertus.</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -1257,7 +1297,8 @@
 <sp who="FORLIS"><speaker>FORLIS.</speaker>
 	<l id="623" syll="10" part="f">Est-il possible ? À tout je me résigne.</l>
 </sp>
-<sp who="CALLIDÈS"><speaker>CALLIDÈS, l'embrassant.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage>, l'embrassant.
+	</stage>
 	<l id="624" syll="6" part="i">Et voici le garant.</l>
 </sp>
 <sp who="FORLIS"><speaker>FORLIS.</speaker>
@@ -1270,7 +1311,8 @@
 <stage type="entrance/exit">Les autres Preneurs entrent. Forlis les salue avec l'air de la ferveur et de la plus grande humilité, et sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Callidès, La société des prôneurs.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Callidès, La société des prôneurs.
+</stage>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
 	<l id="627" syll="6" part="f">Messieurs, ce Prosélyte</l>
 	<l id="628">Voit son insuffisance, et sent votre mérite....</l>
@@ -1291,8 +1333,10 @@
 <stage type="sit/listen/sleep">Broussin s'assied, a l'air d'écouter pendant quelque temps, et s'assoupit par intervalle.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les mêmes, Furet.</head>
-<sp stage="sweat/sit/breathless" who="FURET"><speaker>FURET, essoufflé, tout en eau, et se jetant dans un fauteuil.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les mêmes, Furet.
+</stage>
+<sp who="FURET"><speaker>FURET</speaker><stage type="sweat/sit/breathless">, essoufflé, tout en eau, et se jetant dans un fauteuil.
+	</stage>
 	<l id="637" syll="6" part="f">Ouf ! Ouf ! Je suis rendu.</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -1304,7 +1348,8 @@
 <sp who="VERSAC"><speaker>VERSAC.</speaker>
 	<l id="639" syll="6" part="i">Comment ? Expliquez-vous.</l>
 </sp>
-<sp stage="toward" who="FURET"><speaker>FURET, à Callidès.</speaker>
+<sp who="FURET"><speaker>FURET</speaker><stage type="toward">, à Callidès.
+	</stage>
 	<l id="639" syll="6" part="f">Mêlez-vous-en vous-même.</l>
 	<l id="640">Depuis deux jours, que dis-je ? aujourd'hui, le troisième,</l>
 	<l id="641">Je cours pour établir, pour rhabiller encor</l>
@@ -1445,7 +1490,8 @@
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="695" syll="6" part="i">Vite, le crayon noir.</l>
 </sp>
-<sp stage="dream/write" who="VERSAC"><speaker>VERSAC, d'un air distrait, et écrivant.</speaker>
+<sp who="VERSAC"><speaker>VERSAC</speaker><stage type="dream/write">, d'un air distrait, et écrivant.
+	</stage>
 	<l id="695" syll="6" part="f">La tiédeur est coupable.</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -1500,7 +1546,8 @@
 	<l id="721">Broussin... maudit dormeur... Broussin, réveillez-vous.</l>
 	<l id="722">Il a le sommeil dur ; conspirez avec nous.</l>
 </sp>
-<sp stage="awake/stand" who="BROUSSIN"><speaker>BROUSSIN, se réveillant et se levant.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="awake/stand">, se réveillant et se levant.
+	</stage>
 	<l id="723">Moi, je suis toujours prêt ; me voilà. Je conspire.</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -1529,14 +1576,16 @@
 <sp who="VERSAC"><speaker>VERSAC.</speaker>
 	<l id="741">Charme de l'union ! Quel groupe ! Il m'attendrit.</l>
 </sp>
-<sp stage="watch" who="BROUSSIN"><speaker>BROUSSIN, les lorgnant.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="watch">, les lorgnant.
+	</stage>
 	<l id="742" syll="6" part="i">Diable ! Le bel effet !</l>
 </sp>
 <sp who="FURET"><speaker>FURET.</speaker>
 	<l id="742" syll="6" part="f">Ce n'est rien que l'esprit,</l>
 	<l id="743" syll="6" part="i">Sans la bonté du coeur !</l>
 </sp>
-<sp stage="away" who="CALLIDÈS"><speaker>CALLIDÈS, sortant des bras de Durcet.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="away">, sortant des bras de Durcet.
+	</stage>
 	<l id="743" syll="6" part="f">C'est ce que j'allais dire.</l>
 </sp>
 <sp who="FURET"><speaker>FURET.</speaker>
@@ -1557,8 +1606,10 @@
 	<l id="746">Hem ! Qu'est-ce ? Hem ! J'entends mal ; mais je comprends fort bien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4" stage="entrance"><head>SCÈNE IV. Les mêmes, Madame de Norville, Dorci père, entrant par deux côtés opposés.</head>
-<sp who="DORCI PÈRE"><speaker>DORCI père, à Madame de Norville.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage type="entrance"> Les mêmes, Madame de Norville, Dorci père, entrant par deux côtés opposés.
+</stage>
+<sp who="DORCI PÈRE"><speaker>DORCI père</speaker><stage>, à Madame de Norville.
+	</stage>
 	<l id="747">Madame, excusez-moi si j'ai forcé la porte.</l>
 	<l id="748">Un valet incivil, et que le Diable emporte,</l>
 	<l id="749">M'a dit d'un ton capable, « on ne peut entrer là. »</l>
@@ -1568,7 +1619,8 @@
 	<l id="753">Ils s'aiment, vous savez qu'ils doivent être unis,</l>
 	<l id="754">Et je viens réclamer tout ce qu'on m'a promis.</l>
 </sp>
-<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, aux Prôneurs.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage>, aux Prôneurs.
+	</stage>
 	<l id="755">Peut-être ai-je tardé : mais vous avez, je pense,</l>
 	<l id="756">Plutôt que de coutume, ouvert votre séance.</l>
 	<l id="757">Vous venez, si j'en crois votre sérénité,</l>
@@ -1670,23 +1722,27 @@
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="801" syll="6" part="f">Quelle obstination !</l>
 </sp>
-<sp stage="turn" who="CALLIDÈS"><speaker>CALLIDÈS, tournant le dos.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="turn">, tournant le dos.
+	</stage>
 	<l id="802" syll="6" part="i">L'Hymen est si bourgeois !</l>
 </sp>
-<sp stage="away" who="DURCET"><speaker>DURCET, s'éloignant.</speaker>
+<sp who="DURCET"><speaker>DURCET</speaker><stage type="away">, s'éloignant.
+	</stage>
 	<l id="802" syll="6" part="f">Et de si mauvais ton !</l>
 </sp>
 <sp who="BROUSSIN"><speaker>BROUSSIN.</speaker>
 	<l id="803" syll="6" part="i">Ne se fâche-t-on pas ?</l>
 </sp>
-<sp stage="toward" who="DORCI"><speaker>DORCI, à Madame de Norville.</speaker>
+<sp who="DORCI"><speaker>DORCI</speaker><stage type="toward">, à Madame de Norville.
+	</stage>
 	<l id="803" syll="6" part="f">Écoutez-moi, de grâce...</l>
 	<l id="804" syll="1" part="i">Et...</l>
 </sp>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="804" syll="11" part="f">Vous n'avez point pris, et cela m'embarrasse.</l>
 </sp>
-<sp stage="watch" who="DORCI"><speaker>DORCI, observant les attitudes différentes des Prôneurs, et se levant.</speaker>
+<sp who="DORCI"><speaker>DORCI</speaker><stage type="watch">, observant les attitudes différentes des Prôneurs, et se levant.
+	</stage>
 	<l id="805">Père trop attentif, ami trop empressé,</l>
 	<l id="806">Dans ces lieux, en effet, je me crois déplacé.</l>
 	<l id="807">Je suis édifié de l'humeur de vos sages ;</l>
@@ -1703,7 +1759,8 @@
 	<l id="818">J'ai vu des fous partout ; mais partout, moins qu'ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les mêmes, excepté Dorci.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les mêmes, excepté Dorci.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="819" syll="6" part="i">Qu'entends-je ! Ah ! Pardonnez.</l>
 </sp>
@@ -1717,7 +1774,8 @@
 	<l id="820">Mais ce qu'il vient de dire, est, je crois, une injure.  </l>
 	<l id="821">Cela va s'ébruiter ; notre honneur est perdu.</l>
 </sp>
-<sp stage="write" who="VERSAC"><speaker>VERSAC, qui écrivait sur une table.</speaker>
+<sp who="VERSAC"><speaker>VERSAC</speaker><stage type="write">, qui écrivait sur une table.
+	</stage>
 	<l id="822" syll="6" part="i">Qu'est-ce que l'on a dit ?</l>
 </sp>
 <sp who="BROUSSIN"><speaker>BROUSSIN.</speaker>
@@ -1726,12 +1784,14 @@
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="823" syll="6" part="i">Ce brutal me paiera.</l>
 </sp>
-<sp who="CALLIDÈS"><speaker>CALLIDÈS, à Durcet et aux autres, avec l'air de les congédier.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage>, à Durcet et aux autres, avec l'air de les congédier.
+	</stage>
 	<l id="823" syll="6" part="f">Quel courroux vous enflamme ?</l>
 	<l id="824">Je vais, à ce sujet, entretenir Madame.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Madame de Norville, Callidès.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Madame de Norville, Callidès.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="825" syll="6" part="i">Tous mes sens sont émus.</l>
 </sp>
@@ -1798,13 +1858,15 @@
 	<l id="862">Pour la Littérature affliger deux amants,</l>
 	<l id="863">Et ma fille, surtout. Je suis épouse et mère.</l>
 </sp>
-<sp stage="smile" who="CALLIDÈS"><speaker>CALLIDÈS, avec un sourire.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="smile">, avec un sourire.
+	</stage>
 	<l id="864" syll="6" part="i">Vous êtes faible encor.</l>
 </sp>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="864" syll="4" part="m">J'y songerai.</l>
 </sp>
-<sp stage="serious" who="CALLIDÈS"><speaker>CALLIDÈS, plus sérieusement.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="serious">, plus sérieusement.
+	</stage>
 	<l id="864" syll="2" part="f">J'espère</l>
 	<l id="865">Que vous dépouillerez tous ces vieux préjugés,</l>
 	<l id="866">Pour qui les grands objets sont toujours négligés.</l>
@@ -1814,14 +1876,16 @@
 	<l id="868">Je ne discerne rien ; tout sert à me confondre:</l>
 	<l id="869">Mais l'amour maternel ne peut être une erreur.</l>
 </sp>
-<sp stage="smile" who="CALLIDÈS"><speaker>CALLIDÈS, recommençant à sourire.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="smile">, recommençant à sourire.
+	</stage>
 	<l id="870">Suivez votre raison, et craignez votre coeur.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, seule, assise près d'une table couverte de Brochures, tenant un poème in-quarto.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage>, seule, assise près d'une table couverte de Brochures, tenant un poème in-quarto.
+	</stage>
 	<l id="871">Ou voit par les effets, qu'il a scruté les causes.</l>
 	<l id="872">Quel tact ! Oh, ce poème est vraiment fort de choses.</l>
 	<l id="873">C'est un secret nouveau, je crois cela prouvé ;</l>
@@ -1837,7 +1901,8 @@
 	<l id="882">Et j'ai toujours bien dit, avant d'avoir parlé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Dorci père, Madame de Norville.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Dorci père, Madame de Norville.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="883">Que vois-je ? Encor Dorci, tout bouffi de colère !</l>
 	<l id="884">Dieu ! Quel homme illettré ! Que lui dire, et qu'en faire ?</l>
@@ -1922,7 +1987,8 @@
 	<l id="953">Il nous faut du bonheur, rien qui soit compassé,</l>
 	<l id="954">Et des plaisirs, surtout, pour un âge avancé.</l>
 </sp>
-<sp stage="stress/quiet" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, d'un ton froid et tranquille.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="stress/quiet">, d'un ton froid et tranquille.
+	</stage>
 	<l id="955">Pour les moeurs d'autre fois, vous êtes plein de zèle,</l>
 	<l id="956">Et vous venez d'en faire un tableau très fidèle,</l>
 	<l id="957" syll="6" part="i">Même assez pathétique.</l>
@@ -1944,7 +2010,8 @@
 	<l id="962">Il faut, sans y penser, agir par sentiment.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les mêmes, un Valet apportant une lettre.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les mêmes, un Valet apportant une lettre.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="963" syll="9" part="i">Je voulais être seule. Hé bien ! Qu'est-ce ?</l>
 </sp>
@@ -1967,7 +2034,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone/read" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, seule, lisant la lettre.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="alone/read">, seule, lisant la lettre.
+	</stage>
 	<l id="971">« MADAME, prenez garde : on cabale, on intrigue,</l>
 	<l id="972">Et contre nos amis il se forme une ligue.</l>
 	<l id="973">Le génie est en butte à tant de détracteurs !</l>
@@ -1981,11 +2049,13 @@
 	<l id="981">On ne peut donc pas être utile impunément !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Madame de Norville, Callidès.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Madame de Norville, Callidès.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="982">Vite, approchez ; lisez, et calmez mon tourment.</l>
 </sp>
-<sp stage="get" who="CALLIDÈS"><speaker>CALLIDÈS, prenant le billet.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="get">, prenant le billet.
+	</stage>
 	<l id="983">Bagatelle ! Écoutez, et tâchez de comprendre.....</l>
 	<l id="984">Le fleuve se répand ; mais la source, où la prendre ?</l>
 	<l id="985">Nous ne faisons point corps : unis ou sans liens,</l>
@@ -2068,7 +2138,8 @@
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
 	<l id="1040">C'est que ces vérités sont trop fortes pour elles.</l>
 </sp>
-<sp stage="ring" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, sonnant.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="ring">, sonnant.
+	</stage>
 	<l id="1041">Ah ça, vous n'allez point voir cette nouveauté ?</l>
 </sp>
 <sp who="CALLIDÈS"><speaker>CALLIDÈS.</speaker>
@@ -2130,7 +2201,8 @@
 	<l id="1074">D'avoir un chef, un juge, un ami tel que vous !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hortense, Finette, les mêmes.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Hortense, Finette, les mêmes.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 <stage type="toward">À Finette.</stage>
 	<l id="1075" syll="6" part="i">Mon éventail, mes gants... </l>
@@ -2143,7 +2215,8 @@
 <stage type="exit/touch">Elle sort, Callidès lui donne la main.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Hortense, Finette.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Hortense, Finette.
+</stage>
 <sp who="FINETTE"><speaker>FINETTE.</speaker>
 	<l id="1079" syll="6" part="i">Quoi ! Vous ne lisez pas ?</l>
 </sp>
@@ -2156,7 +2229,8 @@
 <sp who="HORTENSE"><speaker>HORTENSE.</speaker>
 	<l id="1080" syll="3" part="f">Laisse-moi.</l>
 </sp>
-<sp stage="get" who="FINETTE"><speaker>FINETTE, prenant le livre.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="get">, prenant le livre.
+	</stage>
 	<l id="1080" syll="6" part="f">C'est de la poésie,</l>
 	<l id="1081" syll="4" part="i">Rimée encor.</l>
 </sp>
@@ -2182,7 +2256,8 @@
 	<l id="1089">Mais, si Dorci m'aimait, il n'aurait pas, je crois,</l>
 	<l id="1090">Fait d'aussi jolis vers pour une autre que moi.</l>
 </sp>
-<sp who="FINETTE"><speaker>FINETTE, riant et observant Hortense.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage>, riant et observant Hortense.
+	</stage>
 	<l id="1091" syll="6" part="i">Eh mais ! Écoutez donc...</l>
 </sp>
 <sp who="HORTENSE"><speaker>HORTENSE.</speaker>
@@ -2261,7 +2336,8 @@
 	<l id="1127" syll="6" part="f">Dissipez ce nuage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Dorci fils, les mêmes.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Dorci fils, les mêmes.
+</stage>
 <sp who="DORCI FILS"><speaker>DORCI FILS.</speaker>
 	<l id="1128">Mademoiselle, enfin, j'ai su vaincre l'orage,</l>
 	<l id="1129">Qui m'écarta longtemps... Mais quoi ! Quelle froideur ?</l>
@@ -2300,10 +2376,12 @@
 	<l id="1146">Mais sa prose !... Oh ! Je crois qu'elle vaut encor mieux.</l>
 <stage type="noise/run">On entend du bruit derrière le Théâtre. Finette y court.</stage>
 </sp>
-<sp stage="toward" who="HORTENSE"><speaker>HORTENSE, à Dorci.</speaker>
+<sp who="HORTENSE"><speaker>HORTENSE</speaker><stage type="toward">, à Dorci.
+	</stage>
 	<l id="1147" syll="6" part="i">Quoi ! J'ai pu... pardonnez...</l>
 </sp>
-<sp stage="frighten/back" who="FINETTE"><speaker>FINETTE, toute effrayée, et revenant.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="frighten/back">, toute effrayée, et revenant.
+	</stage>
 	<l id="1147" syll="6" part="f">Que mon âme est troublée !</l>
 	<l id="1148">De nos savants voici la salle d'assemblée.</l>
 	<l id="1149">S'ils allaient y venir ! Ils ignorent le prix</l>
@@ -2327,25 +2405,30 @@
 <sp who="HORTENSE"><speaker>HORTENSE.</speaker>
 	<l id="1158">S'ils nous voyaient ensemble, ils iraient nous trahir.</l>
 </sp>
-<sp who="FINETTE"><speaker>FINETTE, les séparant.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage>, les séparant.
+	</stage>
 	<l id="1159" syll="6" part="i">Ils n'y manqueraient pas.</l>
 <stage type="exit/stay">Ils sortent. Finette reste.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Les Proneurs, Finette.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Les Proneurs, Finette.
+</stage>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="1159" syll="6" part="f">La friponne est jolie!</l>
 </sp>
-<sp stage="watch" who="BROUSSIN"><speaker>BROUSSIN, la lorgnant.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="watch">, la lorgnant.
+	</stage>
 	<l id="1160" syll="6" part="i">Une taille à la grecque !  </l>
 </sp>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="1160" syll="6" part="f">Un air qui fait envie.</l>
 </sp>
-<sp stage="away" who="FINETTE"><speaker>FINETTE, s'en allant.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="away">, s'en allant.
+	</stage>
 	<l id="1161" syll="6" part="i">Miséricorde ! Il lorgne !</l>
 </sp>
-<sp stage="pull" who="DURCET"><speaker>DURCET, la retenant.</speaker>
+<sp who="DURCET"><speaker>DURCET</speaker><stage type="pull">, la retenant.
+	</stage>
 	<l id="1161" syll="6" part="f">Et pourquoi vous presser ?</l>
 	<l id="1162">On peut, si vous voulez, vous apprendre à penser.</l>
 </sp>
@@ -2357,13 +2440,16 @@
 <sp who="VERSAC"><speaker>VERSAC.</speaker>
 	<l id="1165" syll="6" part="f">Ce ton est cavalier !</l>
 </sp>
-<sp stage="aparte/away" who="FINETTE"><speaker>FINETTE, à part, et en s'en allant.</speaker>
+<sp who="FINETTE"><speaker>FINETTE</speaker><stage type="aparte/away">, à part, et en s'en allant.
+	</stage>
 	<l id="1166">Il faut que je leur joue un tour de mon métier.</l>
 </sp>
-<sp stage="carry/exit/location" who="BROUSSIN"><speaker>BROUSSIN, la lorgnette à la main, la suit jusques dans la coulisse.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="carry/exit/location">, la lorgnette à la main, la suit jusques dans la coulisse.
+</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Les mêmes, excepté Finette.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Les mêmes, excepté Finette.
+</stage>
 <sp who="BROUSSIN"><speaker>BROUSSIN.</speaker>
 <note type="L">Et fugit : le temps fuit.</note>
 	<l id="1167" syll="2" part="i">Et_fugit.</l>
@@ -2388,7 +2474,8 @@
 	<l id="1180">Je veux qu'on soit, du moins, tolérant pour les filles.</l>
 	<l id="1181" syll="6" part="i">J'écrirai là-dessus....</l>
 </sp>
-<sp stgage="awake/gesticulate" who="VERSAC"><speaker>VERSAC, sortant d'une profonde rêverie, et écartant tout le monde par ses gesticulations.</speaker>
+<sp stgage="awake/gesticulate" who="VERSAC"><speaker>VERSAC</speaker><stage>, sortant d'une profonde rêverie, et écartant tout le monde par ses gesticulations.
+	</stage>
 	<l id="1181" syll="6" part="f">Amis trop généreux,</l>
 	<l id="1182">Mon livre est achevé, l'univers est heureux.</l>
 	<l id="1183">Licurgue, porte ailleurs ton austérité sotte :</l>
@@ -2427,8 +2514,10 @@
 <stage type="silence/listen/gesticulate">Quoique Versac ne parle plus, Broussin a toujours l'air d'écouter, et continue ses gestes de satisfaction.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Dorci père, entrant tout bouffi de colere ; Les mêmes.</head>
-<sp stage="interrupt/shout" who="DORCI PÈRE"><speaker>DORCI PÈRE, criant très haut, et interrompant l'enthousiasme de  Broussin.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Dorci père, entrant tout bouffi de colere ; Les mêmes.
+</stage>
+<sp who="DORCI PÈRE"><speaker>DORCI PÈRE</speaker><stage type="interrupt/shout">, criant très haut, et interrompant l'enthousiasme de  Broussin.
+	</stage>
 	<l id="1211">C'est encor moi, Messieurs ; quand on doit, on s'acquitte,</l>
 	<l id="1212">Et vous allez savoir d'où vous vient ma visite.</l>
 	<l id="1213">J'apprends que l'un de vous, ce n'est plus un secret,</l>
@@ -2466,7 +2555,8 @@
 	<l id="1239">Morbleu, s'ils m'avaient fait un tour de cette espèce,</l>
 	<l id="1240">J'aurais exterminé les sept sages de Grèce !</l>
 </sp>
-<sp who="CALLIDÈS"><speaker>CALLIDÈS, avec un rire dédaigneux.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage>, avec un rire dédaigneux.
+	</stage>
 	<l id="1241" syll="3" part="i">Il faut donc...</l>
 </sp>
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
@@ -2475,12 +2565,14 @@
 <stage type="exit">Il sort, les Prôneurs se moquent de lui. Il se retourne avec fureur, et ils reprennent l'air sérieux.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Les mêmes, excepté Dorci père.</head>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Les mêmes, excepté Dorci père.
+</stage>
 <sp who="BROUSSIN"><speaker>BROUSSIN.</speaker>
 	<l id="1243">Quoiqu'il parle un peu bas, et qu'on n'ait pu le suivre,</l>
 	<l id="1244">Je gage que cet homme est difficile à vivre.  </l>
 </sp>
-<sp stage="quiet" who="CALLIDÈS"><speaker>CALLIDÈS, avec tranquillité.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="quiet">, avec tranquillité.
+	</stage>
 	<l id="1245">Nul goût, pas une idée, aveuglement total !</l>
 	<l id="1246">Automate étranger dans l'univers moral!</l>
 </sp>
@@ -2500,7 +2592,8 @@
 	<l id="1254">Ils ne le lâcheront qu'à son dernier soupir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Finette, les mêmes.</head>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Finette, les mêmes.
+</stage>
 <sp who="FINETTE"><speaker>FINETTE.</speaker>
 	<l id="1255" syll="6" part="i">Ah ! Messieurs, savez-vous ?</l>
 </sp>
@@ -2553,7 +2646,8 @@
 <stage type="exit/hurry">Finette s'enfuit.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Les mêmes, excepté Finette.</head>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Les mêmes, excepté Finette.
+</stage>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 <note type="L">Atome : Fig. Extrême petitesse de certains corps relativement à d'autres. [L]</note>
 	<l id="1271" syll="9" part="f">Un atome, avoir cette impudence !</l>
@@ -2562,13 +2656,15 @@
 <sp who="VERSAC"><speaker>VERSAC.</speaker>
 	<l id="1273">Que sait-on ? De ce coup je suis tout étourdi.</l>
 </sp>
-<sp stage="sad" who="CALLIDÈS"><speaker>CALLIDÈS, avec la plus grande aigreurs.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="sad">, avec la plus grande aigreurs.
+	</stage>
 	<l id="1274">Si ce bourreau d'Auteur allait être applaudi !</l>
 </sp>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="1275">J'ai mis ordre à cela. Non, il aura beau faire.</l>
 </sp>
-<sp stage="sensitive" who="CALLIDÈS"><speaker>CALLIDÈS, avec sensibilité.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="sensitive">, avec sensibilité.
+	</stage>
 	<l id="1276">On vous reconnaît là. C'est un trait de confrère.</l>
 </sp>
 <sp who="VERSAC"><speaker>VERSAC.</speaker>
@@ -2582,17 +2678,20 @@
 	<l id="1282">Son désastre est pour nous un point trop important.</l>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Furet, les mêmes.</head>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Furet, les mêmes.
+</stage>
 <sp who="DURCET"><speaker>DURCET.</speaker>
 	<l id="1283" syll="6" part="i">Furet... La pièce... Hé bien?</l>
 </sp>
 <sp who="FURET"><speaker>FURET.</speaker>
 	<l id="1283" syll="6" part="f">Quelle horrible aventure !</l>
 </sp>
-<sp stage="toward" who="VERSAC"><speaker>VERSAC, à Durcet.</speaker>
+<sp who="VERSAC"><speaker>VERSAC</speaker><stage type="toward">, à Durcet.
+	</stage>
 	<l id="1284">Mais ceci, ce me semble, est d'un sinistre augure!</l>
 </sp>
-<sp stage="touch" who="FURET"><speaker>FURET, s'appuyant sur Dorcet.</speaker>
+<sp who="FURET"><speaker>FURET</speaker><stage type="touch">, s'appuyant sur Dorcet.
+	</stage>
 	<l id="1285">Laissez-moi raffermir mes esprits effrayés...</l>
 	<l id="1286">Plus de foi, plus d'honneur ! C'est nous qu'on a joués.</l>
 </sp>
@@ -2628,7 +2727,8 @@
 	<l id="1295">Alors, je suis resté triste, confus et blême.</l>
 	<l id="1296">De mes propres sifflets, ils m'ont sifflé moi-même.</l>
 </sp>
-<sp stage="watch" who="BROUSSIN"><speaker>BROUSSIN, voyant que Furet s'échauffe.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="watch">, voyant que Furet s'échauffe.
+	</stage>
 	<l id="1297" syll="2" part="i">Fort bien!</l>
 </sp>
 <sp who="FURET"><speaker>FURET.</speaker>
@@ -2653,7 +2753,8 @@
 	<l id="1309">Sages, Législateurs, l'un sur l'autre égorgés......</l>
 	<l id="1310">Dieu! qui vois leurs revers, permets qu'ils soient vengés.</l>
 </sp>
-<sp stage="quiet" who="CALLIDÈS"><speaker>CALLIDÈS, tranquillement.</speaker>
+<sp who="CALLIDÈS"><speaker>CALLIDÈS</speaker><stage type="quiet">, tranquillement.
+	</stage>
 	<l id="1311" syll="4" part="i">Ils le seront.</l>
 </sp>
 <sp who="FURET"><speaker>FURET.</speaker>
@@ -2698,11 +2799,13 @@
 	<l id="1320">On nous arrache un masque, il faut en prendre un autre.</l>
 <stage type="exit">Ils s'en vont.</stage>
 </sp>
-<sp stage="location" who="BROUSSIN"><speaker>BROUSSIN, derrière.</speaker>
+<sp who="BROUSSIN"><speaker>BROUSSIN</speaker><stage type="location">, derrière.
+	</stage>
 	<l id="1321" syll="2" part="i">Marchons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="16"><head>SCÈNE XVI et DERNIÈRE. Monsieur et Madame de Norville, Hortense, Finette, Dorci père, et Dorci fils, Forlis.</head>
+<div2 type="scene" n="16"><head>SCÈNE XVI et DERNIÈRE.</head><stage> Monsieur et Madame de Norville, Hortense, Finette, Dorci père, et Dorci fils, Forlis.
+</stage>
 <sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE.</speaker>
 	<l id="1321" syll="10" part="f">On n'a rien vu d'égal à ce train-là !</l>
 	<l id="1322">C'est un assassinat !... Et l'on souffre cela ?</l>
@@ -2728,7 +2831,8 @@
 	<l id="1333" syll="6" part="f">Je n'en veux pour garant,</l>
 	<l id="1334">Que l'Hymen de ma fille et de son digne amant.</l>
 </sp>
-<sp stage="kiss" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, embrassant son mari.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="kiss">, embrassant son mari.
+	</stage>
 	<l id="1335" syll="9" part="i">Tout comme il vous plaira : décidez.</l>
 </sp>
 <sp who="HORTENSE"><speaker>HORTENSE.</speaker>
@@ -2744,7 +2848,8 @@
 	<l id="1337" syll="6" part="f">Je fais ce que je dois.</l>
 	<l id="1338" syll="6" part="i">Votre épître est charmante !</l>
 </sp>
-<sp stage="frighten" who="DORCI FILS"><speaker>DORCI FILS, d'un air tremblant.</speaker>
+<sp who="DORCI FILS"><speaker>DORCI FILS</speaker><stage type="frighten">, d'un air tremblant.
+	</stage>
 	<l id="1338" syll="6" part="f">Elle n'est point de moi ;</l>
 	<l id="1339">Elle est de Floridor, c'est encore une adresse.</l>
 </sp>
@@ -2754,14 +2859,17 @@
 <sp who="DORCI PÈRE"><speaker>DORCI PÈRE.</speaker>
 	<l id="1341" syll="6" part="i">Sa pièce, à quand ? J'irai.</l>
 </sp>
-<sp stage="toward/watch" who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE, à Forlis qu'elle aperçoit.</speaker>
+<sp who="MADAME DE NORVILLE"><speaker>MADAME DE NORVILLE</speaker><stage type="toward/watch">, à Forlis qu'elle aperçoit.
+	</stage>
 	<l id="1341" syll="6" part="f">Vous, Monsieur, vous ici !</l>
 </sp>
-<sp stage="toward" who="FORLIS"><speaker>FORLIS, à Madame de Norville.</speaker>
+<sp who="FORLIS"><speaker>FORLIS</speaker><stage type="toward">, à Madame de Norville.
+	</stage>
 	<l id="1342">Il faut que vous daigniez me pardonner aussi;</l>
 	<l id="1343" syll="6" part="i">Car j'étais du complot.</l>
 </sp>
-<sp stage="toward" who="DORCI PÈRE"><speaker>DORCI PÈRE, à Forlis.</speaker>
+<sp who="DORCI PÈRE"><speaker>DORCI PÈRE</speaker><stage type="toward">, à Forlis.
+	</stage>
 	<l id="1343" syll="6" part="f">Vous avez fait justice.</l>
 <stage type="toward">À son fils.</stage>
 	<l id="1344">Allons..; voguons gaiement.. tout nous devient propice.</l>

@@ -584,7 +584,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="ALISON"><speaker>ALISON seule.</speaker>
+<sp who="ALISON"><speaker>ALISON</speaker><stage> seule.
+</stage>
 <stage type="title">ARIETTE.</stage>
 	<l id="138">Il est convenable</l>
 	<l id="139">Qu'une femme raisonnable,</l>

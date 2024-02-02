@@ -47,7 +47,8 @@
 <body>
 <div1 type="act" n="1"><head>LE GASCON À PARIS</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="alone" who="LE BARON"><speaker>LE BARON, seul.</speaker>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="alone">, seul.
+</stage>
 <note type="L">Orthez : Ville française du Béarn entre Pau et Bayonne.</note>
 <p id="1">
 	<s id="1">Me voilà donc enfin arrivé à Paris. </s>
@@ -66,7 +67,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Baron, Géronte.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Baron, Géronte.
+</stage>
 <sp who="GÉRONTE"><speaker>GÉRONTE.</speaker>
 <p id="2">
 	<s id="1">Ah ! </s>
@@ -75,7 +77,8 @@
 	<s id="4">Bonjour ; quel heureux hasard vous a conduit à Paris ?</s>
 </p>
 </sp>
-<sp stage="cold" who="LE BARON"><speaker>LE BARON, froidement.</speaker>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="cold">, froidement.
+</stage>
 <p id="3">
 	<s id="1">ADiou fias, Monsieur.</s>
 </p>
@@ -192,9 +195,11 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Géronte, Le Baron, Une Dame, Un Abbé.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Géronte, Le Baron, Une Dame, Un Abbé.
+</stage>
 <stage type="sit">La Dame et l'Abbé sont assis sur une face du banc, Géronte et le Baron sur l'autre ; la Scène se passe à la brune.</stage>
-<sp stage="toward" who="L'ABBÉ"><speaker>L'ABBÉ, à la Dame.</speaker>
+<sp who="L'ABBÉ"><speaker>L'ABBÉ</speaker><stage type="toward">, à la Dame.
+</stage>
 <p id="1">
 	<s id="1">Vous ne pensez donc pas qu'il rentre avant minuit ?</s>
 </p>
@@ -206,7 +211,8 @@
 	<s id="3">Non.</s>
 </p>
 </sp>
-<sp stage="toward" who="GÉRONTE"><speaker>GÉRONTE, au Baron.</speaker>
+<sp who="GÉRONTE"><speaker>GÉRONTE</speaker><stage type="toward">, au Baron.
+</stage>
 <p id="3">
 	<s id="1">Ne vous l'avais-je pas bien dit ?</s>
 </p>
@@ -216,7 +222,8 @@
 	<s id="1">Paix : écoutons jusqu'au bout.</s>
 </p>
 </sp>
-<sp stage="toward" who="L'ABBÉ"><speaker>L'ABBÉ, à la Dame.</speaker>
+<sp who="L'ABBÉ"><speaker>L'ABBÉ</speaker><stage type="toward">, à la Dame.
+</stage>
 <p id="5">
 	<s id="1">Mais si, par malheur, il ne trouvait pas les gens chez qui il va souper ?</s>
 </p>
@@ -244,7 +251,8 @@
 	<s id="4">Je mettrai moins d'apprêt dans ma parure ; j'affecterai un air modeste, sévère, cafard même ; et vous direz à votre époux que vous m'avez choisi pour le Directeur de votre conscience.</s>
 </p>
 </sp>
-<sp stage="toward" who="LE BARON"><speaker>LE BARON, à Géronte.</speaker>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="toward">, à Géronte.
+</stage>
 <p id="10">
 	<s id="1">Ne vous disais-je pas bien qu'il dirigeait la conscience de la Dame ?...</s>
 </p>
@@ -258,7 +266,8 @@
 	<s id="4">Quelque jaloux qu'il soit , il est encore plus avare ; j'ai été généreuse, et j'ai gagné la duègne.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRONTE"><speaker>GÉRONTE, à part.</speaker>
+<sp who="GÉRONTE"><speaker>GÉRONTE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="12">
 	<s id="1">Tout ceci commence à m'inquiéter.</s>
 </p>
@@ -297,7 +306,8 @@
 <stage type="exit">L'Abbé s'enfuit d'un coté, la Dame de l'autre. </stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Géronte, Le Baron.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Géronte, Le Baron.
+</stage>
 <sp who="GÉRONTE"><speaker>GÉRONTE.</speaker>
 <p id="1">
 	<s id="1">Monsieur, vous venez d'être témoin de ma honte ; je vous en conjure, n'allez pas la révéler.</s>

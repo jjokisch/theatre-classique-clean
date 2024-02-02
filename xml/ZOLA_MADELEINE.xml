@@ -157,7 +157,8 @@
 	<s id="2">La vérité est que vous vous ennuyez ici.</s>
 </p>
 </sp>
-<sp who="MADELEINE"><speaker>MADELEINE. avec étonnement.</speaker>
+<sp who="MADELEINE"><speaker>MADELEINE</speaker><stage>, avec étonnement.
+</stage>
 <p id="7">
 	<s id="1">Je m'ennuie ici...</s>
 </p>
@@ -2063,7 +2064,8 @@ I<stage type="exit">Il va pour sortir.</stage>
 	<s id="1">Oui.</s>
 </p>
 </sp>
-<sp who="MADELEINE"><speaker>MADELEINE? remettant son manteau.</speaker>
+<sp who="MADELEINE"><speaker>MADELEINE</speaker><stage>, remettant son manteau.
+</stage>
 <p id="39">
 	<s id="1">Allons !... </s>
 	<s id="2">C'est le dernier espoir.</s>

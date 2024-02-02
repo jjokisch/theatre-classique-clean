@@ -123,7 +123,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SALUT DES NATIONS.</head>
-<sp stage="wave" who="LA NATION HURONNE"><speaker>LA NATION HURONNE salue Monseigneur le Gouverneur.</speaker>
+<sp who="LA NATION HURONNE"><speaker>LA NATION HURONNE</speaker><stage type="wave"> salue Monseigneur le Gouverneur.
+</stage>
 <stage type="wave">Charles Denys.</stage>
 <p id="3">
 	<s id="1">Monseigneur, je reconnais aujourd'hui que je suis condamné à des larmes perpétuelles. </s>
@@ -132,7 +133,8 @@
 	<s id="4">Mon frère, l'Algonquin, que je reconnais comme mon ancien, et sur les terres duquel vous commandez, vous expliquera mieux que moi les sentiments communs de nos coeurs.</s>
 </p>
 </sp>
-<sp stage="wave" who="LA NATION ALGONQUINE"><speaker>LA NATION ALGONQUINE salue Monseigneur le Gouverneur.</speaker>
+<sp who="LA NATION ALGONQUINE"><speaker>LA NATION ALGONQUINE</speaker><stage type="wave"> salue Monseigneur le Gouverneur.
+</stage>
 <stage type="explicit">Jean-François Bourdon.</stage>
 <p id="4">
 	<s id="1">Monseigneur, vous voyez en moi, un peuple errant et vagabond, qui n'a pu être captivé ici à Québec parmi les Français que par les liens de la foi. </s>
@@ -142,7 +144,7 @@
 	<s id="5">Les témoignages les plus sincères du respect, et de l'amour que j'aurai pour vous toute ma vie, seront de verser pour votre service non des larmes, mais mon sang jusques à la dernière goutte.</s>
 </p>
 </sp>
-<sp who="LE GÉNIE UNIVERSEL"><speaker>LE GÉNIE UNIVERSEL de la Nouvelle-France présente les Nations Étrangères à Monseigneur le Gouverneur</speaker><stage type="wave">, lesquelles le saluent en leur langue.
+<sp who="LE GÉNIE UNIVERSEL"><speaker>LE GÉNIE UNIVERSEL de la Nouvelle-France</speaker><stage type="wave"> présente les Nations Étrangères à Monseigneur le Gouverneur, lesquelles le saluent en leur langue.
 </stage>
 <stage type="wave">Pierre du Quet</stage>****
 <p id="5">
@@ -156,7 +158,8 @@
 	<s id="">Kastátsik etoüagahronguen chia echionrá8aton, gannen ïogareni to ke entagastiáron aguéra nonnio aguektonda onnontio hahoïratindha : onna aguion agat katoûa toguens niguek en hoïon d'anh8atsik achiend8annen onnontio haiatsik.</s>
 </p>
 </sp>
-<sp stage="translate" who="LE GÉNIE DES FORÊTS"><speaker>LE GÉNIE DES FORÊTS interprète.</speaker>
+<sp who="LE GÉNIE DES FORÊTS"><speaker>LE GÉNIE DES FORÊTS</speaker><stage type="translate"> interprète.
+</stage>
 <stage type="explicit">René Chartier.</stage>
 <p id="7">
 	<s id="1">Monseigneur, ce Sauvage d'une nation inconnue aux peuples européens, vous dit en son langage, qu'ayant ouï de bien loin un grand bruit, il a appris de quelques chasseurs que c'étaient les salves dont on honorait l'arrivée du grand Capitaine Onontio, et que depuis ce temps-là, il a toujours couru à perte d'haleine, pour venir joindre au plus tôt ses cris de joie et d'allégresse au bruit des canons.</s>

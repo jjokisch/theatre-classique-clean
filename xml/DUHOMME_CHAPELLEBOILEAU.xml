@@ -50,7 +50,8 @@
 <div2 type="scene" n="1"><head/>
 <stage type="decor">Le théâtre représente à gauche un cabaret avec des tables à la porte ; à droite, des arbres ; au fond, une rue.</stage>
 <stage type="decor/location/silence">Chapelle sort du cabaret un peu échauffé par les fumées du vin qui devront se dissiper par degrés ; il s'avance sur le bord du théâtre et met ses doigt unis sur sa bouche.</stage>
-<sp stage="show" who="CHAPELLE"><speaker>CHAPELLE, montrant le cabaret.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="show">, montrant le cabaret.
+	</stage>
 	<l id="1">Il faut rendre justice au maître de céans :</l>
 	<l id="2">Sa cave est honorable et ses vins excellents !</l>
 	<l id="3">Aussi, las ! Ce que c'est que la faiblesse humaine !</l>
@@ -159,7 +160,8 @@
 	<l id="74">Il vous faut travailler à sortir de ce gouffre,</l>
 	<l id="75">Dût-il vous en coûter d'héroïques efforts.</l>
 </sp>
-<sp stage="cry" who="CHAPELLE"><speaker>CHAPELLE, essuyant une larme.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="cry">, essuyant une larme.
+	</stage>
 	<l id="76">Oui, vous avez raison, je reconnais mes torts ;</l>
 	<l id="77">Je sens, mon cher ami, combien je suis coupable :</l>
 	<l id="78">Je suis un scélérat, un gueux, un misérable.</l>
@@ -203,7 +205,8 @@
 <sp who="LA SERVANTE"><speaker>LA SERVANTE.</speaker>
 	<l id="102" syll="3" part="i">Vous verrez.</l>
 </sp>
-<sp stage="continue" who="BOILEAU"><speaker>BOILEAU, continuant son sermon.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="continue">, continuant son sermon.
+	</stage>
 	<l id="102" syll="9" part="f">Par le vin vous vous laissez surprendre</l>
 	<l id="103">Et vous vous enivrez involontairement ?...</l>
 	<l id="104">Mais il faut se roidir contre l'entraînement.</l>
@@ -228,7 +231,8 @@
 	<l id="117">Ce petit vin d'Arbois, il est fort agréable :</l>
 	<l id="118">Buvez-en deux flacons, il sera détestable.</l>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="119" syll="6" part="i">Parbleu, nous allons voir.</l>
 <stage type="pour/loud">Il verse à boire et jette son eau, manège qu'il continue pendant presque toute la pièce. Haut.</stage>
 	<l id="119" syll="6" part="f">Cela peut être vrai,</l>
@@ -265,7 +269,8 @@
 	<l id="144">On l'entend s'écrier : Encor, encor, encor !</l>
 <stage type="show/get">Il tend son verre ; Chapelle a pris une troisième bouteille.</stage>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="145">Il va bien ; il remplit à merveille son rôle,</l>
 	<l id="146">Et joint éloquemment le geste à la parole.</l>
 <stage type="loud">Haut.</stage>
@@ -307,13 +312,15 @@
 	<l id="164">Mais comme vous disiez, il fait une chaleur.</l>
 	<l id="165">Jamais je ne sentis soif plus opiniâtre.</l>
 </sp>
-<sp stage="show" who="CHAPELLE"><speaker>CHAPELLE, montrant sa carafe à moitié vide.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="show">, montrant sa carafe à moitié vide.
+	</stage>
 	<l id="166" syll="6" part="i">Et moi donc ! Regardez !</l>
 </sp>
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
 	<l id="166" syll="3" part="m">C'est fort bien.</l>
 </sp>
-<sp stage="get/aparte" who="CHAPELLE"><speaker>CHAPELLE, prenant une bouteille. À part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="get/aparte">, prenant une bouteille. À part.
+	</stage>
 	<l id="166" syll="3" part="f">Et de quatre.</l>
 </sp>
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
@@ -391,7 +398,8 @@
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
 	<l id="200">Oh ! Non pas : je vous tiens, je veux vous convertir.</l>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="201">Nous verrons qui des deux s'en va convertir l'autre.</l>
 <stage type="pour">Il verse à boire à Boileau.</stage>
 </sp>
@@ -407,7 +415,8 @@
 <sp who="CHAPELLE"><speaker>CHAPELLE.</speaker>
 	<l id="203" syll="3" part="f">La chaleur.</l>
 </sp>
-<sp stage="drunk" who="BOILEAU"><speaker>BOILEAU, un peu échauffé.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="drunk">, un peu échauffé.
+	</stage>
 	<l id="204">Le fait est que le vin vous met la joie au coeur !</l>
 	<l id="205">Et jusqu'à certain point je vous trouve excusable :</l>
 	<l id="206">Aimer un peu le vin n'est pas un cas pendable.</l>
@@ -454,13 +463,16 @@
 	<l id="228">Voyons, encore un peu que je le goûte mieux...</l>
 	<l id="229">Buvez aussi : j'allège enfin la pénitence.</l>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="230">Au fait, il est lancé, c'est mon tour, je me lance.</l>
 </sp>
-<sp stage="drunk" who="BOILEAU"><speaker>BOILEAU, très aviné.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="drunk">, très aviné.
+	</stage>
 	<l id="231" syll="6" part="i">Il est assez coulant.</l>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="231" syll="6" part="f">Mais je m'en aperçois.</l>
 </sp>
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
@@ -525,12 +537,14 @@
 <sp who="CHAPELLE"><speaker>CHAPELLE.</speaker>
 	<l id="273">Bravo, mon cher ami, bravo ! mais c'est superbe !</l>
 </sp>
-<sp stage="continue" who="BOILEAU"><speaker>BOILEAU, continuant.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="continue">, continuant.
+	</stage>
 	<l id="274">Moi-même quand j'ai bu je deviens moins acerbe :</l>
 	<l id="275">Les mauvais vers alors me semblent moins mauvais ;</l>
 	<l id="276">Je voudrais au carquois remettre bien des traits.</l>
 </sp>
-<sp stage="sing" who="CHAPELLE"><speaker>CHAPELLE, chantant.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="sing">, chantant.
+</stage>
 <poem type="chanson">
 <lg n="1">
 	<l id="277">Ah ! Combien j'épargnai de bile</l>
@@ -541,7 +555,8 @@
 </poem>
 <stage type="drink">Ils boivent.</stage>
 </sp>
-<sp stage="drunk" who="BOILEAU"><speaker>BOILEAU, tout à fait échauffé.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="drunk">, tout à fait échauffé.
+	</stage>
 	<l id="281">Tu comprends bien : le vin n'est pas ce que je blâme.</l>
 </sp>
 <sp who="CHAPELLE"><speaker>CHAPELLE.</speaker>
@@ -559,7 +574,8 @@
 	<l id="287">Cette conversion devra me faire honneur.</l>
 <stage type="pour">Chapelle verse à boire.</stage>
 </sp>
-<sp stage="drink" who="CHAPELLE"><speaker>CHAPELLE, trinquant.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="drink">, trinquant.
+	</stage>
 	<l id="288">À la tienne !... Cela te portera bonheur.</l>
 <stage type="knock">Frappant sur la table.</stage>
 	<l id="289" syll="2" part="i">Du vin !</l>
@@ -576,7 +592,8 @@
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
 	<l id="292" syll="4" part="m">Écoute ici.</l>
 </sp>
-<sp stage="aparte" who="CHAPELLE"><speaker>CHAPELLE, à part.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="292" syll="2" part="f">Fort bien !</l>
 	<l id="293">Notre sage à la fin s'échauffe et s'émancipe ;</l>
 	<l id="294">Je vais fermer les yeux pour l'honneur du principe.</l>
@@ -590,7 +607,8 @@
 	<l id="298">Et que ton frais minois est agaçant en diable !</l>
 <stage type="touch">Il lui prend le menton.</stage>
 </sp>
-<sp stage="simper" who="LA SERVANTE"><speaker>LA SERVANTE, minaudant.</speaker>
+<sp who="LA SERVANTE"><speaker>LA SERVANTE</speaker><stage type="simper">, minaudant.
+	</stage>
 	<l id="299" syll="6" part="i">Je n'en crois pas un mot.</l>
 </sp>
 <sp who="BOILEAU"><speaker>BOILEAU.</speaker>
@@ -674,16 +692,19 @@
 	<l id="340" syll="6" part="i">Mais c'est un vrai démon.</l>
 <stage type="follow/laugh">En poursuivant la Servante qui lui échappe, il se jette dans les bouteilles qui sont auprès de Chapelle, et qui se brisent, aux éclats de rire de la Servante.</stage>
 </sp>
-<sp stage="awake" who="CHAPELLE"><speaker>CHAPELLE, faisant mine de se réveiller en sursaut.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="awake">, faisant mine de se réveiller en sursaut.
+	</stage>
 	<l id="340" syll="6" part="f">Quel est donc ce fracas ?</l>
 </sp>
-<sp stage="location" who="BOILEAU"><speaker>BOILEAU, reprenant sa place au plus vite.</speaker>
+<sp who="BOILEAU"><speaker>BOILEAU</speaker><stage type="location">, reprenant sa place au plus vite.
+	</stage>
 	<l id="341" syll="3" part="i">Ce n'est rien.</l>
 <stage type="pour/drink">Il verse à boire à Chapelle, et boit pour se donner une contenance.</stage>
 	<l id="341" syll="9" part="f">La chaleur est vraiment étouffante.</l>
 	<l id="342" syll="2" part="i">Buvons.</l>
 </sp>
-<sp stage="show/exit/laugh" who="CHAPELLE"><speaker>CHAPELLE, montrant la Servante qui sort en riant.</speaker>
+<sp who="CHAPELLE"><speaker>CHAPELLE</speaker><stage type="show/exit/laugh">, montrant la Servante qui sort en riant.
+	</stage>
 	<l id="342" syll="10" part="f">Oui, mais dis-moi, qu'a donc cette servante ?</l>
 	<l id="343">Est-ce que tu voulais la convertir aussi ?</l>
 	<l id="344">Tu n'as pas, que je crois, tout à fait réussi :</l>

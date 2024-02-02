@@ -49,7 +49,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LA SERPETTE MAGIQUE</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Léandre, Crispin, tous deux  déguisé en vendangeurs.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Léandre, Crispin, tous deux  déguisé en vendangeurs.
+</stage>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <p id="1">
 	<s id="1">Dis-moi ; ce déguisement me sied-il bien ? </s>
@@ -279,7 +280,8 @@
 <stage type="hide">Ils se cachent dans les vignes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Céphise, Angélique, Lisette.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Céphise, Angélique, Lisette.
+</stage>
 <sp who="CÉPHISE"><speaker>CÉPHISE.</speaker>
 <p id="1">
 	<s id="1">Que regardez-vous donc, ma nièce ?</s>
@@ -397,21 +399,25 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Céphise, Angélique, Léandre, Lisette, Crispin.</head>
-<sp stage="entrance/carry" who="LÉANDRE"><speaker>LÉANDRE, sortant d'entre les ceps, et prenant le panier.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Céphise, Angélique, Léandre, Lisette, Crispin.
+</stage>
+<sp who="LÉANDRE"><speaker>LÉANDRE</speaker><stage type="entrance/carry">, sortant d'entre les ceps, et prenant le panier.
+</stage>
 <p id="1">
 	<s id="1">Mademoiselle, oserai-je vous offrir cette grappe ?</s>
 </p>
 <stage type="get">Angélique prend la grappe, la porte, à sa bouche, en regardant Léandre, le reconnaît, jette un cri, et tombe presque évanouie dans le bras de sa tante.</stage>
 </sp>
-<sp stage="low/toward" who="LÉANDRE"><speaker>LÉANDRE, bas à Crispin.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE</speaker><stage type="low/toward">, bas à Crispin.
+</stage>
 <p id="2">
 	<s id="1">Je t'avais bien dit que sa surprise nous trahirait... </s>
 	<s id="2">Que faire ? </s>
 	<s id="3">Sa tante va soupçonner que sous ce déguisement...</s>
 </p>
 </sp>
-<sp stage="low/toward" who="CRISPIN"><speaker>CRISPIN, bas à Léandre.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="low/toward">, bas à Léandre.
+</stage>
 <p id="3">
 	<s id="1">Ne craignez rien, je vais tout réparer...</s>
 </p>
@@ -461,7 +467,8 @@ Ali ! quand vous ne tomberiez pas en syncope, cela ne prouveroic pas beaucoup
 contre la magie.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LISETTE"><speaker>LISETTE, à part.</speaker>
+<sp who="LISETTE"><speaker>LISETTE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="">
 	<s id="1">L'impertinent ! il mériteroit bien que je me
 venge : mais je veux , en le fervant , fervir
@@ -511,7 +518,8 @@ Maîtrefle. Ton Crîfpin eft à toi pour la vie*</s>
 	<s id="1">Ah ! je reviens à moi , je renais.</s>
 </p>
 </sp>
-<sp stage="toxard" who="CÉPHISE"><speaker>CÉPHISE, à Lisette.</speaker>
+<sp who="CÉPHISE"><speaker>CÉPHISE</speaker><stage type="toxard">, à Lisette.
+</stage>
 <p id="">
 	<s id="1">Que te disait-il ?</s>
 </p>
@@ -554,7 +562,8 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Léandre, Angélique, Crispin, Lisette, Catau, Perrette, Colette.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Léandre, Angélique, Crispin, Lisette, Catau, Perrette, Colette.
+</stage>
 <sp who="COLETTE"><speaker>COLETTE.</speaker>
 <p id="1">
 	<s id="1">Qu'avez-vous donc, Mademoiselle Angélique ?</s>
@@ -676,7 +685,8 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 	<s id="5">Vous hésitez ?</s>
 </p>
 </sp>
-<sp stage="toward" who="COLETTE"><speaker>COLETTE, à Perrette.</speaker>
+<sp who="COLETTE"><speaker>COLETTE</speaker><stage type="toward">, à Perrette.
+</stage>
 <p id="23">
 	<s id="1">Eh bien, ma cousine, prends donc ce raisin que Monsieur te présente.</s>
 </p>	
@@ -686,7 +696,8 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 	<s id="1">Prends-le toi-même ; tu es mon aînée, je ce dois pas être servie avant toi.</s>
 </p>
 </sp>
-<sp stage="toward" who="COLETTE"><speaker>COLETTE, à Catau.</speaker>
+<sp who="COLETTE"><speaker>COLETTE</speaker><stage type="toward">, à Catau.
+</stage>
 <p id="25">
 	<s id="1">Allons a Catau, choisis donc une grappe.</s>
 </p>
@@ -746,7 +757,8 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCENE V. Léandre, Angélique, Crispin, Lisette.</head>
+<div2 type="scene" n="5"><head>SCENE V.</head><stage> Léandre, Angélique, Crispin, Lisette.
+</stage>
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
 <p id="1">
 	<s id="1">Avouez que je suis un homme de tête, et que je ne perds pas cette présence d'esprit si nécessaire dans les grandes occasions.</s>
@@ -817,8 +829,10 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 <stage type="kneel">Il se jette à ses genoux, et lui baise la main. Pendant ce temps, Céphise s'avance y fans être aperçue, à travers les vignes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCENE VI. Léandre, Céphise, Angélique, Crispin, Lisette.</head> 
-<sp stage="dress" who="CÉPHISE"><speaker>CÉPHISE, se découvrant.</speaker>
+<div2 type="scene" n="6"><head>SCENE VI.</head><stage> Léandre, Céphise, Angélique, Crispin, Lisette. 
+</stage> 
+<sp who="CÉPHISE"><speaker>CÉPHISE</speaker><stage type="dress">, se découvrant.
+</stage>
 <p id="1">
 	<s id="1">Ciel ! </s>
 	<s id="2">Que vois-je ? </s>
@@ -898,7 +912,8 @@ jufqu'au logis chercher quelqu'eaufpiritueufe?</s>
 	<s id="1">Avec lui, toute ma vie.</s>
 </p>
 </sp>
-<sp stage="wait.think" who="CÉPHISE"><speaker>CÉPHISE, après un moment de réflexion.</speaker>
+<sp who="CÉPHISE"><speaker>CÉPHISE</speaker><stage type="wait.think">, après un moment de réflexion.
+</stage>
 <p id="15">
 	<s id="1">Je sens bien que cette aventure, votre évanouissement, la prétendue magie, ce déguisement, ce tête-à-tête, vont faire un éclat ; et que, pour sauver le scandale, il faut vous marier. </s>
 	<s id="2">J'y consens ; vous êtes assez punie d'obtenir ce que vous désirez. </s>

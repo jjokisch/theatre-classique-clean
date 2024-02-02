@@ -966,7 +966,8 @@
 	<l id="612" syll="5" part="f">Achevez de lire :</l>
 	<l id="613">Votre âme pour ce mot ne doit pas s'interdire ?</l>
 </sp>
-<sp who="DON GARCIE"><speaker>DON GARCIE lit.</speaker>
+<sp who="DON GARCIE"><speaker>DON GARCIE</speaker><stage> lit.
+</stage>
 <poem type="lettre">
 <lg n="1">
 	<l id="614">Quoique votre rival, Prince, alarme votre âme,</l>

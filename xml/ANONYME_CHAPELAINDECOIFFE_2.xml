@@ -43,7 +43,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>PARODIE</head>
-<div2 type="scene" n="1"><head>SCENE I. LA SERRE, CHAPELAIN.</head>
+<div2 type="scene" n="1"><head>SCENE I.</head><stage> LA SERRE, CHAPELAIN.
+</stage>
 <sp who="LA SERRE"><speaker>LA SERRE.</speaker>
 	<l id="1">Enfin vous l'emportez, et la faveur du Roi</l>
 	<l id="2">Vous accable de dons, qui n'étaient dus qu'à moi</l>
@@ -234,7 +235,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp stage="alone" who="CHAPELAIN"><speaker>CHAPELAIN, seul.</speaker>
+<sp who="CHAPELAIN"><speaker>CHAPELAIN</speaker><stage type="alone">, seul.
+</stage>
 <note type="L">Parodie du début de la scène 5 de l'Acte I du Cid de Pierre Corneille.</note>
 	<l id="113">Ô rage! Ô désespoir ! Ô ma chère perruque !</l>
 	<l id="114">Qui couvrant seulement le sommet de ma nuque, </l>

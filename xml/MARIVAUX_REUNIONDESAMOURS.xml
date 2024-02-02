@@ -877,7 +877,8 @@
 	<s id="1">Vous croyez avoir autant d'esprit que moi, je pense ?</s>
 </p>
 </sp>
-<sp who="MERCURE"><speaker>MERCURE rit.</speaker>
+<sp who="MERCURE"><speaker>MERCURE</speaker><stage> rit.
+</stage>
 <p id="7">
 	<s id="1">Hé, hé, hé, hé.</s>
 </p>

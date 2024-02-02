@@ -1259,7 +1259,7 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Arlequin, Un Valetde chambre, tjcfiemfnt yen».
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Arlequin, Un Valetde chambre, richement yen».
 </stage>
 <sp who="ARLEQUIN"><speaker>ARLEQUIN. </speaker>
 <p id="1">
@@ -1316,7 +1316,8 @@
 	<s id="1">Que votre Hautesse commande.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.d/wr.</speaker>
+<sp who="ARLEQUIN"><speaker>ARLEQUIN</speaker><stage>, à part.
+</stage>
 <p id="11">
 	<s id="1">Commande ! </s>
 	<s id="2">Je n'en ai pas encore bien pris l'habitude. </s>

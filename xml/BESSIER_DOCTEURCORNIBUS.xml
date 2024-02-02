@@ -47,7 +47,8 @@
 <body>
 <div1 type="acte" n="1"><head>LE DOCTEUR CORNIBUS</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="entrance" who="LE DOCTEUR"><speaker>LE DOCTEUR, entrant.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="1">
 	<s id="1">Déjà dix_heures et le nouveau domestique qu'on m'a annoncé n'arrive pas. </s>
 	<s id="2">- C'est très ennuyeux, et cela aujourd'huijustement où j'ai besoin de sortir. </s>
@@ -62,7 +63,8 @@
 <stage type="open">Il va ouvrir.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Guignol, Le Docteur.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Guignol, Le Docteur.
+</stage>
 <sp who="GUIGNOL"><speaker>GUIGNOL.</speaker>
 <p id="1">
 	<s id="1">Le docteur_Bornibus ?</s>
@@ -179,7 +181,8 @@
 	<s id="1">Comme ceci.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE DOCTEUR"><speaker>LE DOCTEUR, à part.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="aparte">, à part.
+</stage>
 <p id="23">
 	<s id="1">Il est paresseux et brutal, mais il le faut. </s>
 </p>
@@ -208,7 +211,8 @@
 	<s id="2">Vous croyez peut-être que je vais vous servir à l'oeil, vieille morue !</s>
 </p>
 </sp>
-<sp stage="wave/impatient" who="LE DOCTEUR"><speaker>LE DOCTEUR, fait un geste d'impatience, puis se contient.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="wave/impatient">, fait un geste d'impatience, puis se contient.
+</stage>
 <p id="29">
 	<s id="1">Non, mon cher Guignol.</s>
 </p>
@@ -219,7 +223,8 @@
 	<s id="2">Faut être poli, vieux mollusque !</s>
 </p>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR, même jeu.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage>, même jeu.
+</stage>
 <p id="31">
 	<s id="1">Pardon,mon cher monsieur_Guignol.</s>
 </p>
@@ -275,7 +280,8 @@
 	<s id="2">Est-il bête ?</s>
 </p>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR, se contenant toujours.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage>, se contenant toujours.
+</stage>
 <p id="42">
 	<s id="1">Tu les auras.</s>
 </p>
@@ -285,7 +291,8 @@
 	<s id="1">Le matin, le chocolat.</s>
 </p>
 </sp>
-<sp stage="" who="LE DOCTEUR"><speaker>LE DOCTEUR, mêmejeu.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="">, mêmejeu.
+</stage>
 <p id="44">
 	<s id="1">Tu l'auras.</s>
 </p>
@@ -387,13 +394,15 @@
 </p>
 <stage type="hit">Il cogne avec son bâton.</stage>
 </sp>
-<sp stage="shout" who="LE DOCTEUR"><speaker>LE DOCTEUR, criant.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="shout">, criant.
+</stage>
 <p id="61">
 	<s id="1">Mais il m'assomme ! </s>
 	<s id="2">Au secours !</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, même jeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, même jeu.
+</stage>
 <p id="62">
 	<s id="1">Veux tu ne pas crier comme ça. </s>
 	<s id="2">Ah ! </s>
@@ -487,7 +496,8 @@
 	<s id="2">Tu peux filer, maintenant, vieux singe !</s>
 </p>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.dporl.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage>, à part.
+</stage>
 <p id="77">
 	<s id="1">Il est trop familier. </s>
 	<s id="2">Enfin - il se corrigera peut-être !</s>
@@ -508,7 +518,8 @@
 	<s id="1">Et n'oublie aucune de mes recommandations.</s>
 </p>
 </sp>
-<sp stage="push/location" who="GUIGNOL"><speaker>GUIGNOL, le poussant dehors. </speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="push/location">, le poussant dehors. 
+</stage>
 <p id="81">
 	<s id="1">Mais oui ! </s>
 	<s id="2">Mais oui ! </s>
@@ -518,7 +529,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp stage="alone" who="GUIGNOL"><speaker>GUIGNOL, seul.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Maintenant si j'allais faire un tour à la cuisine. </s>
 </p>
@@ -530,7 +542,8 @@
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Guignol puis une dame.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Guignol puis une dame.
+</stage>
 <stage type="ring">On entend sonner, une fois, deux fois, trois fois, puis la sonnerie carillonne sans s'arrêter.</stage>
 <sp who="GUIGNOL"><speaker>GUIGNOL.</speaker>
 <p id="1">
@@ -577,7 +590,8 @@
 	<s id="3">Tu sais, toi, ne recommence pas, ou ça va se gâter.</s>
 </p>
 </sp>
-<sp stage="furious" who="LA DAME"><speaker>LA DAME, furieuse.</speaker>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage type="furious">, furieuse.
+</stage>
 <p id="9">
 	<s id="1">Où est le docteur ?</s>
 </p>
@@ -627,14 +641,16 @@
 	<s id="1">Tenez, voici pour la migraine, pour les foulures, pour les brûlures, pour les luxures, pour la phtisie, l'hydropisie, la pulmonie, et toutes les autres maladies.</s>
 </p>
 </sp>
-<sp who="LA DAME"><speaker>LA DAME, sesauvant poursuivie par Guignol.</speaker>
+<sp who="LA DAME"><speaker>LA DAME</speaker><stage>, sesauvant poursuivie par Guignol.
+</stage>
 <p id="18">
 	<s id="1">Au secours ! </s>
 	<s id="2">Au secours ! </s>
 	<s id="3">On m'assassine!</s>
 </p>
 </sp>
-<sp stage="" who="GUIGNOL"><speaker>GUIGNOL, mêmejeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="">, mêmejeu.
+</stage>
 <p id="19">
 	<s id="1">Non, je vous consulte. </s>
 	<s id="2">Et aïe donc !... </s>
@@ -642,7 +658,8 @@
 </p>
 <stage type="lazzi"> Lazzis. - Ils s'arrachent le balai mutuellement, puis, la dame s'enfuit, sans chapeau, sans perruque, appelant au secours.</stage>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, seul.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, seul.
+</stage>
 <p id="20">
 	<s id="1">Tiens ! </s>
 	<s id="2">Elle a oublié de médire son nom. </s>
@@ -672,7 +689,8 @@
 <stage type="open">Il va ouvrir.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Guignol, entrant suivi d'un vieux monsieur.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Guignol, entrant suivi d'un vieux monsieur.
+</stage>
 <sp who="LE VIEUX MONSIEUR"><speaker>LE VIEUX MONSIEUR.</speaker>
 <p id="1">
 	<s id="1">Le docteur_Cornibus, s'il vous plaît ! </s>
@@ -697,7 +715,8 @@
 	<s id="2">Le grand, l'illustre, le célèbre, le seul docteur Cornibus, inventeur de la poudre de ce nom, arracheur_de_dents du Schah_de_Perse, pédicure de l'Éléphant Blanc du roi_de_Siam, médecin breveté du grand Lama, etc, etc...</s>
 </p>
 </sp>
-<sp stage="wave" who="LE VIEUX MONSIEUR"><speaker>LE VIEUX MONSIEUR, s'inclinant.</speaker>
+<sp who="LE VIEUX MONSIEUR"><speaker>LE VIEUX MONSIEUR</speaker><stage type="wave">, s'inclinant.
+</stage>
 <p id="5">
 	<s id="1">Un de mes amis que vous avez soigné, m'a prié de vous remettre le prix de visites à lui faites, et j'ai été très heureux de me charger de celte commission, d'autant plus que j'avais moi-même une consultation à vous demander.</s>
 </p>
@@ -718,7 +737,8 @@
 	<s id="3">Est-ce bien votre compte ?</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, premnt Faryent.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, premnt Faryent.
+</stage>
 <p id="10">
 	<s id="1">Parfaitement.</s>
 </p>
@@ -806,7 +826,8 @@
 	<s id="1">Que je me tourne ?</s>
 </p>
 </sp>
-<sp stage="location" who="GUIGNOL"><speaker>GUIGNOL, le plaçant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="location">, le plaçant.
+</stage>
 <p id="26">
 	<s id="1">Oui, là, comme ceci. </s>
 </p>
@@ -830,7 +851,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp stage="alone" who="GUIGNOL"><speaker>GUIGNOL, seul.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Mais c'est très amusant d'être domestique chez un docteur. </s>
 	<s id="2">De l'argent, de bons repas. </s>
@@ -851,7 +873,8 @@
 <stage type="hit/open">Il va à la porte prend son bâton, ouvre et en donne un grand coup sur l'apothicaire qui entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Guignol, L'Apothicaire, tenant une bouteille.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Guignol, L'Apothicaire, tenant une bouteille.
+</stage>
 <sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
@@ -903,7 +926,8 @@
 	<s id="1">Au revoir !</s>
 </p>
 </sp>
-<sp stage="pull" who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE, le retenant.</speaker>
+<sp who="L'APOTHICAIRE"><speaker>L'APOTHICAIRE</speaker><stage type="pull">, le retenant.
+</stage>
 <p id="10">
 	<s id="1">Non, vous savez, restez là. </s>
 	<s id="2">No m'accompagnez pas. </s>
@@ -962,8 +986,10 @@
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Le Docteur, puis Guignol.</head>
-<sp stage="entrance" who="LE DOCTEUR"><speaker>LE DOCTEUR, entrant.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Le Docteur, puis Guignol.
+</stage>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="1">
 	<s id="1">J'ai eu fini mes affaires plus tôt que je ne pensais et je me suis hâté de rentrer, parce que j'ai peur que mon nouveau domestique ne soit pas encore assez bien au courant. </s>
 	<s id="2">Il m'a bien promis d'être poli... </s>
@@ -983,7 +1009,8 @@
 	<s id="5">Guignol !</s>
 </p>
 </sp>
-<sp stage="entrance/sick" who="GUIGNOL"><speaker>GUIGNOL apparaît, pâle, se soutenant à peine, les mains sur le ventre.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="entrance/sick"> apparaît, pâle, se soutenant à peine, les mains sur le ventre.
+</stage>
 <p id="3">
 	<s id="1">Voilà ! </s>
 	<s id="2">Voilà !</s>
@@ -1167,7 +1194,8 @@
 	<s id="3">Le coeur me manque.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE DOCTEUR"><speaker>LE DOCTEUR, à part, prenant Purgent.</speaker>
+<sp who="LE DOCTEUR"><speaker>LE DOCTEUR</speaker><stage type="aparte">, à part, prenant Purgent.
+</stage>
 <p id="33">
 	<s id="1">Je rentre dans mes fonds.</s>
 </p>

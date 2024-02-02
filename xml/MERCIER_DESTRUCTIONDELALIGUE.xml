@@ -18,7 +18,7 @@
 				<type>prose</type>
 				<periode>1781-1790</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72748t</permalien>
+				<permalien>https://gallica.bnf.fr/ark:/12148/bpt6k9767687b</permalien>
 			</SourceDesc>
 		</fileDesc>
 </teiHeader>
@@ -188,7 +188,7 @@
 	<s id="2">Chaque coup me perce l'âme et me trouble d'effroi.</s>
 </p>
 </sp>
-<sp who="UNE-VOIX"><speaker>Au-dehors de la porte une voix s'écrie : </speaker>
+<sp who="UNE-VOIX"><stage>Au-dehors de la porte une voix s'écrie : </stage>
 <p id="11">
 	<s id="1">Ouvrez, par miséricorde ; ouvrez, au nom de dieu : ouvrez, je vous en conjure !</s>
 </p>
@@ -2677,7 +2677,7 @@
 	<s id="2">Nous sommes perdus.</s>
 </p>
 </sp>
-<sp who="VOIX"><speaker>On entend plusieurs voix confuses et terribles qui disent : </speaker>
+<sp who="VOIX"><stage>On entend plusieurs voix confuses et terribles qui disent : </stage>
 <p id="10">
  	<s id="1">c'est ici, c'est ici. </s>
 </p>
@@ -4684,7 +4684,7 @@
 	<s id="">Hilaire, cher Hilaire, respires-tu dans ces horribles lieux ?</s>
 </p>
 </sp>
-<sp who="VOIX"><speaker>Ils répondent très-fortement d'un seul cri : </speaker>
+<sp who="VOIX"><stage>Ils répondent très-fortement d'un seul cri : </stage>
 <p id="2">
 	<s id="1">Oui, oui, nous y sommes.</s>
 </p>
@@ -4882,7 +4882,7 @@
 	<s id="24">Je vous embrasse avec joie, et je bénis mille fois le ciel qui a mis fin à nos maux, en nous réunissant, en nous donnant un bon roi et la paix. </s>
 </p>
 </sp>
-<sp who="LE-PEUPLE"><speaker>Nouveaux Cris Du Peuple.</speaker>
+<sp who="LE-PEUPLE"><stage>Nouveaux Cris Du Peuple.</stage>
 <p id="6">
 	<s id="1">Vive le grand Henri ! </s>
 	<s id="2">Vive le grand Henri !</s>

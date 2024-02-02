@@ -1549,7 +1549,8 @@
 	<l id="1087">Où connaîtrais-je mieux un ami légitime</l>
 	<l id="1088">Qu'en une occasion où le destin m'opprime.</l>
 </sp>
-<sp who="CALLISTHENE"><speaker>CALLISTHÈNE en s'en allant.</speaker>
+<sp who="CALLISTHENE"><speaker>CALLISTHÈNE</speaker><stage> en s'en allant.
+	</stage>
 	<l id="1089">Ce destin qui vous perd, est votre passion.</l>
 </sp>
 <sp who="ALCIONEE"><speaker>ALCIONÉE.</speaker>

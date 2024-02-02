@@ -49,8 +49,10 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LE TESTAMENT</head>
-<div2 type="scene" n="1" stage="drunk"><head>SCÈNE PREMIÈRE. Pontanus, Rondon, La Tranchée, tous trois ivres ; Madame Bontemps.</head>
-<sp stage="toward" who="PONTANUS"><speaker>PONTANUS, à Rondon.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage type="drunk"> Pontanus, Rondon, La Tranchée, tous trois ivres ; Madame Bontemps.
+</stage>
+<sp who="PONTANUS"><speaker>PONTANUS</speaker><stage type="toward">, à Rondon.
+</stage>
 <p id="1">
 	<s id="1">Te rappelles-tu, compère, le sujet de notre conversation ?... </s>
 	<s id="2">Elle était fort intéressante.</s>
@@ -75,7 +77,8 @@
 	<s id="6">Et le sujet de la conversation.</s>
 </p>
 </sp>
-<sp stage="drop" who="MADAME PRINTEMPS"><speaker>MADAME PRINTEMPS, mettant une bouteille de vin sur la table.</speaker>
+<sp who="MADAME PRINTEMPS"><speaker>MADAME PRINTEMPS</speaker><stage type="drop">, mettant une bouteille de vin sur la table.
+</stage>
 <p id="4">
 	<s id="1">Faut-il que je fois obligée de recevoir chez moi de pareils ivrognes ?</s>
 </p>
@@ -98,7 +101,8 @@
 	<s id="1">À votre santé , mon oncle.</s>
 </p>
 </sp>
-<sp stage="drink" who="RONDON"><speaker>RONDON, après avoir bu.</speaker>
+<sp who="RONDON"><speaker>RONDON</speaker><stage type="drink">, après avoir bu.
+</stage>
 <note type="L">Vaisseau : ce mot a deux sens ; navire et contenant de liquide.</note>
 <p id="9">
 	<s id="1">Mais il me semble que le plancher chancelle aussi sous nos pieds, et que nous avons beaucoup de peine à nous tenir debout... Ne ferait ce pas une tempête qui agite notre vaisseau, et qui nous fait trébucher de la sorte ?</s>
@@ -125,7 +129,8 @@
 </p>
 <stage type="fall">Il chancelle et se laisse tomber.</stage>
 </sp>
-<sp stage="help/stand" who="LA TRANCHÉE"><speaker>LA TRANCHÉE, en le relevant.</speaker>
+<sp who="LA TRANCHÉE"><speaker>LA TRANCHÉE</speaker><stage type="help/stand">, en le relevant.
+</stage>
 <p id="13">
 	<s id="1">Je vous avais bien dit que vous n'aviez pas le pied marin. </s>
 	<s id="2">Si vous aviez fait, comme moi, un voyage en Amérique, vous vous soutiendriez mieux.</s>
@@ -191,7 +196,8 @@
 </p>
 <stage type="drink/throw">Ils boivent, prennent tous les meubles et les jettent par la fenêtre dans la rue.</stage>
 </sp>
-<sp stage="toward" who="PONTANUS"><speaker>PONTANUS, à la tranchée.</speaker>
+<sp who="PONTANUS"><speaker>PONTANUS</speaker><stage type="toward">, à la tranchée.
+</stage>
 <p id="25">
 	<s id="1">Mon neveu, détache aussi cette pendule.</s>
 </p>
@@ -224,8 +230,10 @@
 <stage type="break/enrance">La porte est enfoncée ; la Garda entre, précédée du Bourguemestre et de Madame Printemps.</stage>
 </sp>
 </div2> 
-<div2 type="scene" n="2"><head>SCÈNE II. Les Acteurs précédents, Un Bourguemestre, Madame Printemps, des gardes.</head> 
-<sp stage="show" who="PONTANUS"><speaker>PONTANUS, montrant le Bourguemestre.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les Acteurs précédents, Un Bourguemestre, Madame Printemps, des gardes. 
+</stage> 
+<sp who="PONTANUS"><speaker>PONTANUS</speaker><stage type="show">, montrant le Bourguemestre.
+</stage>
 <p id="1">
 	<s id="1">Voilà sans doute Monsieur le Notaire qui vient pour écrire notre testament.</s>
 </p>

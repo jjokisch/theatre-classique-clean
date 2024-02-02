@@ -66,7 +66,8 @@
 	</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Louise, Geneviève.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Louise, Geneviève.
+</stage>
 <sp who="LOUISE"><speaker>LOUISE.</speaker>
 <note type="L">Muser : S'amuser, perdre son temps à des riens. [L]</note>
 <p id="1">
@@ -278,7 +279,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="NIVELET"><speaker>NIVELET, Laquais de Rodomont.</speaker>
+<sp who="NIVELET"><speaker>NIVELET</speaker><stage>, Laquais de Rodomont.
+</stage>
 <p id="1">
 	<s id="1">J'ai eu beau faire, mais je n'ai su empêcher que ces dames ne m'aient aussitôt reconnu qu'elles m'ont vu, bien que mon maître m'ait donné l'ordre de ne pas me faire connaître ; car il dit que ce n'est une chose guère bienséante que de guetter les passants. </s>
 	<s id="2">Mais qui diable est celui qui ne me connaîtrait en ces rues ici, que je sais par coeur mieux que mon Deus det, et mieux que l'âne qui tire l'eau aux Chartreux ne sait son chemin. </s>
@@ -294,7 +296,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Rodomont, Capitaine ; Nivelet, son laquais.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Rodomont, Capitaine ; Nivelet, son laquais.
+</stage>
 <sp who="RODOMONT"><speaker>RODOMONT.</speaker> 
 <p id="1">
  	<s id="1">Il faut bien dire que ce petit dieu Cupidon est beaucoup plus puissant que Mars, le grand dieu des batailles, puisque sa force m'a pu réduire sous son obéissance et vaincre mon courage invincible, ce qu'un camp de cinquante mille hommes n'eût su faire. </s>
@@ -404,7 +407,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Basile, jeune homme ; Antoine, son serviteur ; Rodomont, Nivelet.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Basile, jeune homme ; Antoine, son serviteur ; Rodomont, Nivelet.
+</stage>
 <sp who="BASILE"><speaker>BASILE.</speaker> 
 <p id="1">
  	<s id="1">Antoine, trouves-tu que cet habit neuf me soit bien fait ?</s> 
@@ -636,7 +640,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Françoise, vieille ; Antoine, Basile.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Françoise, vieille ; Antoine, Basile.
+</stage>
 <sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker> 
 <p id="1">
  	<s id="1">Mon ami, votre maître a l'occasion d'aimer Geneviève, pour les qualités qui sont en elle ; et croyez que je n'en eusse pas mis si en avant les fers au feu si je n'eusse bien su de quel bois elle se chauffe, pour l'avoir connue dès le berceau.</s> 
@@ -754,7 +759,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp stage="alone" who="NIVELET"><speaker>NIVELET, seul.</speaker>
+<sp who="NIVELET"><speaker>NIVELET</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Par la morbleu ! </s>
 	<s id="2">Mon maître, reçois là un rude coup, et si j'ai grand peur que ses bravades n'y serviront de rien. </s>
@@ -775,7 +781,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Françoise, Genevieve, Nivelet, Antoine.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Françoise, Genevieve, Nivelet, Antoine.
+</stage>
 <sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker> 
 <p id="1">
  	<s id="1">Geneviève, m'amie, je ne vous conseille pas une chose que je ne fisse si j'étais en votre place, et certes vous devez la faire, puisqu'il n'y va en rien de votre honneur.</s> 
@@ -995,7 +1002,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. </head>
-<sp stage="alone" who="NIVELET"><speaker>NIVELET, seul.</speaker>
+<sp who="NIVELET"><speaker>NIVELET</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Et par la vertubleu, j'en avertirai mon maître, et puis nous verrons beau jeu si la corde ne rompt. </s>
 	<s id="2">J'ai bien tout entendu, Dieu merci, encore n'en fallait-il pas tant : à bon entendeur il ne faut pas une charretée de paroles. </s>
@@ -1008,7 +1016,8 @@
 </div2> 
 </div1> 
 <div1 type="acte" n="2"><head>ACTE II</head> 
-<div2 type="scene" n="1"><head>SCÈNE I. Girard, Vieillard ; Eustache, Fils de Girard.</head> 
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Girard, Vieillard ; Eustache, Fils de Girard. 
+</stage> 
 <sp who="GIRARD"><speaker>GIRARD.</speaker> 
 <p id="1">
  	<s id="1">Eustache, tu vois que de tous les enfants qu'il a plu à Dieu de me donner, il ne me reste que toi en ce monde ; et par là tu peux penser que ce que j'en fais n'est que pour ton avancement ; aussi que je suis bien aise, avant que Dieu m'ôte de ce monde, de te voir bien pourvu et allié à quelque bonne maison : car quant aux biens, Dieu merci, tu en auras assez, et je serais bien étonné si, ta mère et moi étant morts, tu ne pouvais vivre seul de ce qui suffit bien maintenant à en entretenir trois. </s>
@@ -1134,7 +1143,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Louise, Françoise, Girard, Eustache.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Louise, Françoise, Girard, Eustache.
+</stage>
 <sp who="LOUISE"><speaker>LOUISE.</speaker> 
 <p id="1">
  	<s id="1">Mon_Dieu, ma commère, que le sermon m'a ennuyée cette matinée ! </s>
@@ -1540,7 +1550,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="EUSTACHE"><speaker>EUSTACHE, seul.</speaker>
+<sp who="EUSTACHE"><speaker>EUSTACHE</speaker><stage>, seul.
+</stage>
 <p id="1">
 	<s id="1">Vraiment, j'en avais bien dans le dos si je n'eusse trouvé cette bonne femme, laquelle, sans y penser, m'a découvert un vice de Geneviève qui est suffisant pour éteindre toute l'affection que je lui ai jusqu'ici portée. </s>
 	<s id="">Je crois, en bonne foi, qu'il n'y a eu que cela qui a tant fait traîner le mariage de Basile et d'elle, et a été cause à la fin de le rompre tout à fait. </s>
@@ -1553,7 +1564,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE IV. Rodomont, Eustache, Gentilly, Laquais d'Eustache.</head>
+<div2 type="scene" n="7"><head>SCÈNE IV.</head><stage> Rodomont, Eustache, Gentilly, Laquais d'Eustache.
+</stage>
 <sp who="RODOMONT"><speaker>RODOMONT.</speaker> 
 <p id="1">
  	<s id="1">J'avais toujours jusqu'ici pensé que tout ce qu'on lit dans Perceforest, Amadis de Gaule, Palmerin d'Olive, Roland le furieux et autres romans, fussent des choses controuvées à plaisir, comme parfaitement impossibles, ne me pouvant mettre en la tête que l'amour ait peu induire ces chevaliers et paladins à faire des choses si étranges ; et toutes les fois que je lisais le désespoir du brun Ténébreux, les preuves de Florisel, les combats d'Agesilan, les folies de Roland et d'autres semblables, je ne pouvais croire qu'une seule défaveur de leurs dames ou une petite jalousie qu'ils se forgeaient en la tête les put faire entrer en telle furie que les uns en perdaient le sens, les autres ne craignaient de s'exposer à des aventures étranges, qu'ils mettaient heureusement à fin, échappant des dangers incroyables. </s>
@@ -1706,7 +1718,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Saucisson, écornifleur et maquereau ; Eustache.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Saucisson, écornifleur et maquereau ; Eustache.
+</stage>
 <sp who="SAUCISSON"><speaker>SAUCISSON.</speaker> 
 <p id="1">
  	<s id="1">Holà ! </s>
@@ -1818,7 +1831,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Eustache, Rodomont, Gentilly.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Eustache, Rodomont, Gentilly.
+</stage>
 <sp who="EUSTACHE"><speaker>EUSTACHE.</speaker> 
 <p id="1">
  	<s id="1">Vîtes-vous jamais un plus gentil falot que ce vénérable Saucisson ?</s> 
@@ -1930,7 +1944,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Françoise, Basile.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Françoise, Basile.
+</stage>
 <sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker> 
 <p id="1">
  	<s id="1">Je ne sais où je pourrai trouver Basile. </s>
@@ -2136,7 +2151,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Thomas, marchand ; trois sergents.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Thomas, marchand ; trois sergents.
+</stage>
 <sp who="THOMAS"><speaker>THOMAS.</speaker> 
 <p id="1">
  	<s id="1">L'on dit bien vrai que pour faire plaisir on reçoit souvent du déplaisir, et qu'en prêtant à un mauvais rendeur, d'un ami on en fait un ennemi. </s>
@@ -2175,7 +2191,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rodomont, Nivelet, Trois Sergents.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Rodomont, Nivelet, Trois Sergents.
+</stage>
 <sp who="RODOMONT"><speaker>RODOMONT.</speaker> 
 <p id="1">
  	<s id="1">Adieu, seigneur Eustache ; je reviendrai vous trouver vite, s'il m'est possible. </s>
@@ -2304,7 +2321,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp stage="alone" who="BASILE"><speaker>BASILE, seul. </speaker>
+<sp who="BASILE"><speaker>BASILE</speaker><stage type="alone">, seul. 
+</stage>
 <p id="1">
 	<s id="1">J'ai eu du plaisir pour plus de dix mille francs de voir ce fendeur de naseaux si empêché au milieu de ces sergents qui veulent, à ce que je crois, le mettre en cage pour lui apprendre à parler. </s>
 	<s id="2">Mon_Dieu ! </s>
@@ -2319,7 +2337,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Saucisson, Ecornifleur ; Alix, Femme de Thomas ; Basile.</head> 
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Saucisson, Ecornifleur ; Alix, Femme de Thomas ; Basile. 
+</stage> 
 <sp who="SAUCISSON"><speaker>SAUCISSON.</speaker> 
 <p id="1">
  	<s id="1">Vous verrez un jeune homme aussi gaillard que vous en ayez éprouvé.</s> 
@@ -2399,7 +2418,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alix, Saucisson.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Alix, Saucisson.
+</stage>
 <sp who="ALIX"><speaker>ALIX.</speaker> 
 <p id="1">
  	<s id="1">Vraiment, Saucisson, vous avez bonne grâce de me mener chez un homme que vous ne connaissez pas. </s>
@@ -2429,7 +2449,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="-"><head>SCÈNE VI. </head>
-<sp who="ANTOINE"><speaker>ANTOINE, seul.</speaker>
+<sp who="ANTOINE"><speaker>ANTOINE</speaker><stage>, seul.
+</stage>
 <note type="L">Satyrion : Plante de la famille des orchis qui exhale une odeur de bouc fort désagréable, et dont les racines tuberculeuses ont de la ressemblance avec un scrotum, satyrium hircinum, L. [L]</note>
 <p id="1">
 	<s id="1">C'est à ce coup que mon maître sera payé content de tous les travaux et peines qu'il a soufferts en cette poursuite ! </s>
@@ -2457,7 +2478,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Louise, Antoine.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Louise, Antoine.
+</stage>
 <sp who="LOUISE"><speaker>LOUISE.</speaker> 
 <p id="1">
  	<s id="1">Jamais je ne vis un temps si morfondant, si ce n'est l'année du grand hiver ; s'il gelait à pierre fendre, je n'aurais aussi froid de la moitié. </s>
@@ -2533,7 +2555,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Gentilly, Louise.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Gentilly, Louise.
+</stage>
 <sp who="GENTILLY"><speaker>GENTILLY.</speaker>
 <p id="1">
 	<s id="1">Qu'au diable soit donné le brouillon de tavernier qui m'a fait attendre près d'un quart_d_heure avant que de me rendre ma bouteille ! </s>
@@ -2846,7 +2869,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Thomas, Basile, Alix, Antoine.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Thomas, Basile, Alix, Antoine.
+</stage>
 <sp who="THOMAS"><speaker>THOMAS.</speaker> 
 <note type="C">Notre Dame de Liesse : Basilique située à Liesse-Notre-Dame dans le département de l'Aisne. Lieu de pèlerinage de la Vierge noire.</note>
 <p id="1">
@@ -2933,7 +2957,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eustache, Rodomont.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Eustache, Rodomont.
+</stage>
 <sp who="EUSTACHE"><speaker>EUSTACHE.</speaker> 
 <p id="1">
  	<s id="1">Que je suis marri que le seigneur Basile ne m'a pas plus tôt déclaré l'affection mutuelle que Geneviève et lui se portaient ! </s>
@@ -3105,7 +3130,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Rodomont, Girard.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Rodomont, Girard.
+</stage>
 <sp who="RODOMONT"><speaker>RODOMONT.</speaker>
 <p id="1">
 	<s id="1">Amour est une étrange passion : car, pour tout le malheur qui m'est aujourd'hui arrivé, je ne saurais tant faire que je ne pense toujours aux beautés de Geneviève, et à la belle commodité que ce poltron de marchant m'a fait perdre. </s>
@@ -3156,7 +3182,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Girard, Louise, Alphonse.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Girard, Louise, Alphonse.
+</stage>
 <sp who="GIRARD"><speaker>GIRARD.</speaker> 
 <p id="1">
  	<s id="1">Je ne sais quel temps il fait maintenant ; pour un mois de janvier, il fait merveilleusement vilain, au lieu qu'il devrait faire sec et geler à bon escient. </s>
@@ -3571,7 +3598,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Louise, Alphonse, Girard, Eustache. </head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Louise, Alphonse, Girard, Eustache. 
+</stage>
 <sp who="LOUISE"><speaker>LOUISE.</speaker> 
 <p id="1">
  	<s id="1">Voilà un grand cas : tous tant que vous êtes à qui je conte ma mauvaise fortune vous me conseillez de ne le mettre point en procès, et d'accepter le parti que l'on me présente. </s>
@@ -3841,7 +3869,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Antoine, Basile, Françoise. </head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Antoine, Basile, Françoise. 
+</stage>
 <sp who="ANTOINE"><speaker>ANTOINE.</speaker> 
 <p id="1">
  	<s id="1">J'ai fait, à ce que je pense, près de deux mille lieues depuis une heure par cette ville pour trouver Françoise ; mais au diable si je l'ai pu jamais rencontrer ! </s>
@@ -3976,7 +4005,8 @@
 </p> 
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Louise, Alphonse. </head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Louise, Alphonse. 
+</stage>
 <sp who="LOUISE"><speaker>LOUISE.</speaker> 
 <p id="1">
  	<s id="1">Je vous dis que je ne suis point bien édifiée de cette mascarade, et ne suis guère aise que cette belle madame Alix, que nous avons fait sortir par l'huis de derrière, soit venue voir ma fille.</s> 
@@ -4037,7 +4067,8 @@
 </p> 
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Françoise, Basile, Perrette, Geneviève.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Françoise, Basile, Perrette, Geneviève.
+</stage>
 <sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker> 
 <p id="1">
  	<s id="1">Eh bien ! </s>
@@ -4218,7 +4249,8 @@
 </p> 
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Rodomont, Nivelet, Antoine.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Rodomont, Nivelet, Antoine.
+</stage>
 <sp who="RODOMONT"><speaker>RODOMONT.</speaker> 
 <p id="1">
  	<s id="1">Que j'endure une telle bravade ! </s>
@@ -4333,7 +4365,8 @@
 </p> 
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Girard, Louise, Rodomont, Alphonse, Antoine.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Girard, Louise, Rodomont, Alphonse, Antoine.
+</stage>
 <sp who="GIRARD"><speaker>GIRARD.</speaker> 
 <p id="1">
  	<s id="1">Quant à moi, je ne pense pas pouvoir disposer le capitaine à épouser votre fille, quelque mine qu'il fasse de l'aimer, et je ne le lui conseillerais pas, ni à vous.</s> 
@@ -4665,7 +4698,8 @@
 </p> 
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Basile, Antoine, Louise, Girard, Alphonse, Rodomont.</head> 
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Basile, Antoine, Louise, Girard, Alphonse, Rodomont. 
+</stage> 
 <sp who="BASILE"><speaker>BASILE.</speaker> 
 <p id="1">
  	<s id="1">Es-tu bien assuré que Louise a tout su ?</s> 

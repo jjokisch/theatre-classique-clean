@@ -46,7 +46,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>MERLIN PRÉCEPTEUR</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Merlin, Lisette.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Merlin, Lisette.
+</stage>
 <stage type="costume">Merlin est vêtu en Abbé.</stage>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
@@ -170,8 +171,10 @@
 <stage type="kiss">Il l'embrasse.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Baron, Merlin, Lisette.</head>
-<sp stage="toward" who="LE BARON"><speaker>LE BARON, à Lisette.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Baron, Merlin, Lisette.
+</stage>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="toward">, à Lisette.
+</stage>
 <p id="1">
 	<s id="1">Tudieu ! </s>
 	<s id="2">La Belle, il me semble que vous n'êtes pas sévère avec ce jeune abbé, comme vous l'étiez avec ce vieux précepteur que vous m'avez fait renvoyer.</s>
@@ -201,7 +204,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Baron, Merlin.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Baron, Merlin.
+</stage>
 <sp who="LE BARON"><speaker>LE BARON.</speaker>
 <p id="1">
 	<s id="1">Et vous, Monsieur, que venez-vous chercher dans ma maison ?</s>
@@ -250,7 +254,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Baron, Le Chevalier, Merlin.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Baron, Le Chevalier, Merlin.
+</stage>
 <sp who="LE BARON"><speaker>LE BARON.</speaker>
 <p id="1">
 	<s id="1">Mon fils, voila le nouveau Gouverneur que je vous destine : respectez-le, obéissez-lui comme à moi-même...</s>
@@ -276,7 +281,8 @@
 	<s id="4">Je voudrais que vous l'instruisiez de toutes les sciences relatives à sa profession ; que vous lui fassiez faire d'abord un cours abrégé de l'Art Hippiatrique.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MERLIN"><speaker>MERLIN, à part.</speaker>
+<sp who="MERLIN"><speaker>MERLIN</speaker><stage type="aparte">, à part.
+</stage>
 <p id="5">
 	<s id="1">Hippiatrique ! </s>
 	<s id="2">Quel diable de nom ! </s>
@@ -294,7 +300,8 @@
 	<s id="1">Mon fils est assez instruit pour connaître la définition de cette science.</s>
 </p>
 </sp>
-<sp stage="toward" who="MERLIN"><speaker>MERLIN, au Baron.</speaker>
+<sp who="MERLIN"><speaker>MERLIN</speaker><stage type="toward">, au Baron.
+</stage>
 <p id="8">
 	<s id="1">Eh ! </s>
 	<s id="2">Monsieur, ne faut-il pas toujours commencer par les premiers principes.</s>
@@ -404,7 +411,8 @@
 	<s id="1">Ma foi, je n'aurais pas mieux répondu.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE BARON"><speaker>LE BARON, à part.</speaker>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="29">
 	<s id="1">Je commence à le croire.</s>
 </p>
@@ -436,7 +444,8 @@
 	<s id="3">Ma foi, je ne saurais parler, tant vous m'avez mis en colère.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE BARON"><speaker>LE BARON, à part.</speaker>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="35">
 	<s id="1">Je soupçonne que tout cet art n'est que le masque de l'ignorance. </s>
 	<s id="2">Examinons cet homme, et sachons par Lisette qui il est.</s>
@@ -487,7 +496,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Merlin, Le Chevalier.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Merlin, Le Chevalier.
+</stage>
 <sp who="MERLIN"><speaker>MERLIN.</speaker>
 <p id="1">
 	<s id="1">Allons, Monsieur, souvenez- vous de l'ordre de Monsieur votre père ; obéissez-moi comme à lui-même ; placez-vous devant cette table ; prenez cette plume, cette feuille de papier, et voyons si vous savez écrire.</s>
@@ -524,7 +534,8 @@
 	<s id="1">Vous êtes un petit raisonneur, corrigez-vous de ce défaut-là ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE CHEVALIER"><speaker>LE CHEVALIER, à part.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="6">
 	<s id="1">Voilà un Gouverneur impayable. </s>
 	<s id="2">Ses leçons ne sont pas fort instructives, mais elles sont courtes, et c'est ainsi que je les aime.</s>
@@ -532,7 +543,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp stage="alone" who="MERLIN"><speaker>MERLIN, seul.</speaker>
+<sp who="MERLIN"><speaker>MERLIN</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Voilà donc mon nom écrit en gros caractères ! </s>
 	<s id="2">J'ai bien observé comment le chevalier tenait sa plume, comment il la conduisait... </s>
@@ -553,8 +565,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Le Baron, Merlin, Le Chevalier, Lisette.</head>
-<sp stage="htreat/threat" who="LE BARON"><speaker>LE BARON, saisissant Merlin au collet.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Le Baron, Merlin, Le Chevalier, Lisette.
+</stage>
+<sp who="LE BARON"><speaker>LE BARON</speaker><stage type="htreat/threat">, saisissant Merlin au collet.
+</stage>
 <p id="1">
 	<s id="1">Eh ! </s>
 	<s id="2">Maître fourbe : tu viens donc ici jouer le rôle de Gouverneur ! </s>

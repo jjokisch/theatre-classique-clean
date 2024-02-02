@@ -50,7 +50,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>PARODIE</head>
-<div2 type="scene" n="1"><head>SCÈNE I. La Serre, Chapelain.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> La Serre, Chapelain.
+</stage>
 <sp who="LA SERRE"><speaker>LA SERRE.</speaker>
 <note type="C">Toute la pièce est une parodie du premier acte du Cid de Pierre Corneille.</note>
 <note type="C">Puget de La Serre, Jean (1594-1665) : écrivain prolixe et auteur dramatique dont Thomas Morus ou le triomphe de la Foi, et de la constance, Le Martyre de Sainte Catherine, le Sac de Carthage ou encore Pandoste ou la Princesse malheureuse.</note>
@@ -209,7 +210,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp stage="alone" who="CHAPELAIN"><speaker>CHAPELAIN, seul.</speaker>
+<sp who="CHAPELAIN"><speaker>CHAPELAIN</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="91">Ô rage ! Ô desespoir ! Ô perruque m'amie !</l>
 	<l id="92">N'as tu donc tant vécu, que pour cette infamie,</l>
 	<l id="93">N'as tu trompé l'espoir de tant de perruquiers,</l>
@@ -236,7 +238,8 @@
 	<l id="114">Qui tombe sur mon chef, rejaillit sur son front.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCENE III. Chapelain, Cassaigne.</head>
+<div2 type="scene" n="3"><head>SCENE III.</head><stage> Chapelain, Cassaigne.
+</stage>
 <sp who="CHAPELAIN"><speaker>CHAPELAIN.</speaker>
 	<l id="115" syll="6" part="i">Cassaigne as tu du coeur ? </l>
 </sp>
@@ -296,7 +299,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone" who="CASSAIGNE"><speaker>CASSAIGNE, seul.</speaker>
+<sp who="CASSAIGNE"><speaker>CASSAIGNE</speaker><stage type="alone">, seul.
+</stage>
 <poem type="stances">
 <lg n="1">
 	<l id="141">Percé jusques au fond du coeur</l>
@@ -372,7 +376,8 @@
 </poem>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cassaigne, La Serre.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Cassaigne, La Serre.
+</stage>
 <sp who="CASSAIGNE"><speaker>CASSAIGNE.</speaker>
 	<l id="200" syll="6" part="i">Moi, La Serre, un mot.</l>
 </sp>

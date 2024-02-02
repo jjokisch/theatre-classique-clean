@@ -1413,7 +1413,8 @@
 	<l id="915">Si mon malheureux fils eût péri par ma main,</l>
 	<l id="916">La flèche que tu vois, t'aurait percé le sein.</l>
 </sp>
-<sp who="GESLER"><speaker>GESLER arrache la flèche. </speaker>
+<sp who="GESLER"><speaker>GESLER</speaker><stage> arrache la flèche. 
+	</stage>
 	<l id="917">Et de son meurtrier punissant la furie,</l>
 	<l id="918">J'eusse encor d'un tyran délivré ma patrie.</l>
 </sp>

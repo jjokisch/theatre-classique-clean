@@ -54,7 +54,8 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE PREMIER</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp stage="alone" who="ÉGLATOR"><speaker>ÉGLATOR, seul.</speaker>
+<sp who="ÉGLATOR"><speaker>ÉGLATOR</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="1">Ô nuit ; nuit désastreuse, et vous songes affreux,</l>
 	<l id="2">Ennemis du seul bien qui reste aux malheureux ;</l>
 	<l id="3">De nos calamités renaissantes images</l>
@@ -84,7 +85,8 @@
 	<l id="27" syll="3" part="i">Mais on vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Églator, Phédime.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Églator, Phédime.
+</stage>
 <sp who="ÉGLATOR"><speaker>ÉGLATOR.</speaker>
 	<l id="27" syll="9" part="f">Seul appui qui reste à ma vieillesse</l>
 	<l id="28">Cher ami, dans mes bras est-ce toi que je presse ?</l>
@@ -233,8 +235,10 @@
 	<l id="138">Tu le vois comme un traître, et moi comme un vengeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Énarus, Églator, Phédime.</head>
-<sp stage="toward" who="ÉNARUS"><speaker>ÉNARUS, à Phédime.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Énarus, Églator, Phédime.
+</stage>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="toward">, à Phédime.
+	</stage>
 	<l id="139">Si j'en crois les soupçons dont mon âme est remplie</l>
 	<l id="140">Aux destins d'Églator un noeud secret vous lie.</l>
 	<l id="141">Vous puis-je en sûreté confier mes projets ?</l>
@@ -311,7 +315,8 @@
 <sp who="ÉGLATOR"><speaker>ÉGLATOR.</speaker>
 	<l id="187">Ah ! Phédime, il est temps qu'Églator se déclare.</l>
 </sp>
-<sp stage="toward" who="PHÉDIME"><speaker>PHÉDIME, à Éranus.</speaker>
+<sp who="PHÉDIME"><speaker>PHÉDIME</speaker><stage type="toward">, à Éranus.
+	</stage>
 	<l id="188" syll="6" part="i">Maïs quels sont vos desseins ?</l>
 </sp>
 <sp who="ÉNARUS"><speaker>ÉNARUS.</speaker>
@@ -331,7 +336,8 @@
 <sp who="ÉNARUS"><speaker>ÉNARUS.</speaker>
 	<l id="191" syll="2" part="m">Hé bien...</l>
 </sp>
-<sp stage="toward" who="PHÉDIME"><speaker>PHÉDIME, à Églator.</speaker>
+<sp who="PHÉDIME"><speaker>PHÉDIME</speaker><stage type="toward">, à Églator.
+	</stage>
 	<l id="191" syll="6" part="f">Ô dieux qu'allez-vous faire ?</l>
 	<l id="192" syll="2" part="i">Tremblez...</l>
 </sp>
@@ -534,7 +540,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE SECOND</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Arétaphile, Oxiane.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Arétaphile, Oxiane.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="329">Oui, ma fille, j'ai peine à concevoir l'effroi,</l>
 	<l id="330">Qui depuis quelques jours s'est emparé de toi.</l>
@@ -660,7 +667,8 @@
 	<l id="438">Devant lui garde-toi de les faire éclater.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Énarus, Arétaphile, Oxiane.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Énarus, Arétaphile, Oxiane.
+</stage>
 <sp who="ÉNARUS"><speaker>ÉNARUS.</speaker>
 	<l id="439">Au succès de nos voeux, Madame, tout conspire.</l>
 	<l id="440">La vengeance s'apprête, et votre époux respire.</l>
@@ -827,7 +835,8 @@
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Arétaphile, Oxiane.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Arétaphile, Oxiane.
+</stage>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="550">Il s'éloigne... Ah ! ma mère, où va-t-il s'engager ?</l>
 	<l id="551">Tous mes sens sont glacés et d'horreur et de crainte.</l>
@@ -864,26 +873,31 @@
 	<l id="569">Oubliant nos périls pour m'occuper des siens ,</l>
 	<l id="570">Pour épargner ses jours, je donnerais les miens.</l>
 </sp>
-<sp stage="aparte" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à part.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="571">Malheureuse, à quel point sa folle ardeur l'entraîne !</l>
 </sp>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="572">On vient... C'est Énarus... Ah ! Je respire à peine.</l>
 </sp>
 </div2>
-<div2 stage="location" type="scene" n="4"><head>SCÈNE IV. Énarus désarmé, Arétaphile, Oxiane, Eurymène
-dans le fond du théâtre, Soldats.</head> 
-<sp stage="toward" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à Énarus.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage type="location"> Énarus désarmé, Arétaphile, Oxiane, Eurymène
+dans le fond du théâtre, Soldats. 
+</stage> 
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="toward">, à Énarus.
+	</stage>
 	<l id="573">Eh bien, en est-ce fait ? Mais qui vois-je ? Grands Dieux !</l>
 </sp>
-<sp stage="low/toward" who="ÉNARUS"><speaker>ÉNARUS, bas à Arétaphile.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="low/toward">, bas à Arétaphile.
+	</stage>
 	<l id="574">Des gardes du tyran, c'est le chef odieux... </l>
 	<l id="575">Cachez-lui les terreurs où votre âme est en proie.</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="576" syll="4" part="i">Que nous veut-il ?</l>
 </sp>
-<sp stage="low" who="ÉNARUS"><speaker>ÉNARUS, à voix basse.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="low">, à voix basse.
+	</stage>
 	<l id="576" syll="8" part="f">Norate auprès de vous l'envoie :</l>
 	<l id="577">Il n'est point informé du sort qui vous attend ;</l>
 	<l id="578">Mais il doit au palais vous conduire à l'instant.</l>
@@ -900,17 +914,20 @@ dans le fond du théâtre, Soldats.</head>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="580" syll="1" part="m">Quoi !</l>
 </sp>
-<sp stage="low/toward" who="ÉNARUS"><speaker>ÉNARUS, bas à Arétaphile.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="low/toward">, bas à Arétaphile.
+	</stage>
 	<l id="580" syll="10" part="f">L'usurpateur sait que j'ai vu Phédime...</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="581">Et le monstre à la tour ne s'est donc pas rendu ?...</l>
 </sp>
-<sp stage="low" who="ÉNARUS"><speaker>ÉNARUS, toujours à voix basse.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="low">, toujours à voix basse.
+	</stage>
 	<l id="582">Non... Mais quelque projet que sa rage ait conçu,</l>
 	<l id="583">Reposez-vous sur moi du soin de le détruire.</l>
 </sp>
-<sp stage="aparte" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à part.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="584">Allons, et si j'en crois l'espoir qui vient me luire,</l>
 	<l id="585">C'est à moi seule, à moi que les Dieux ont remis</l>
 	<l id="586">La vengeance et l'honneur que tu t'étais promis.</l>
@@ -918,14 +935,16 @@ dans le fond du théâtre, Soldats.</head>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE TROISIÈME</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Norate, Enarus, Gardes.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Norate, Enarus, Gardes.
+</stage>
 <sp who="NORATE"><speaker>NORATE.</speaker>
 	<l id="587">On dit qu'aux yeux du peuple Églator va paraître ;</l>
 	<l id="588">On prétend qu'en secret toi-même as vu le traître,</l>
 	<l id="589">Qui, de ce chef coupable annonçant le trépas ,</l>
 	<l id="590">Sous ce mensonge adroit cache ses attentats ?</l>
 </sp>
-<sp stage="aparte" who="ÉNARUS"><speaker>ÉNARUS, à part.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="591">Ô ciel, de mes complots la trame est découverte \</l>
 	<l id="592" syll="3" part="i">Mais feignons.</l>
 </sp>
@@ -1009,13 +1028,15 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="aparte/enit">À part, en sortant.</stage>
 	<l id="644">Vous, aidez-moi, grands Dieux, à sauver l'innocence !</l>
 </sp>
-<sp stage="toward" who="NORATE"><speaker>NORATE, aux Gardés.</speaker>
+<sp who="NORATE"><speaker>NORATE</speaker><stage type="toward">, aux Gardés.
+	</stage>
 	<l id="645">Qu'on le suive, Soldats, et qu'à sa voix soumis,</l>
 	<l id="646">On soutienne les droits qu'en ses mains j'ai remis.</l>
 <stage type="exit">Une partie des Gardes suit Énarus.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arétaphile, Norate, Gardes.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Arétaphile, Norate, Gardes.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="647">Tyran, je viens savoir quelle rage nouvelle</l>
 	<l id="648">T'arme contre mon sang, et près de toi m'appelle :</l>
@@ -1120,7 +1141,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="725">Va porter ta menace à qui craint de périr.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Oxiane, Arétaphile.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Oxiane, Arétaphile.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="726">Ô toi, qui n'as reçu le jour que pour souffrir,</l>
 	<l id="727">J'ai rejeté pour toi les voeux de ce perfide :</l>
@@ -1190,23 +1212,27 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="766">Énarus a le coeur trop grand, trop généreux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Norate, Arétaphile, Oxiane, Gardes.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Norate, Arétaphile, Oxiane, Gardes.
+</stage>
 <sp who="NORATE"><speaker>NORATE.</speaker>
 	<l id="767">Énarus d'Églator a saisi le complice.</l>
 </sp>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="768" syll="1" part="i">Dieux !</l>
 </sp>
-<sp stage="aparte" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à part.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="768" syll="11" part="f">De sa perfidie attends-tu d'autre indice !</l>
 </sp>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="769" syll="2" part="i">Hélas !</l>
 </sp>
-<sp stage="aparte" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à part.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="769" syll="4" part="m">Cache tes pleurs...</l>
 </sp>
-<sp stage="aparte" who="OXIANE"><speaker>OXIANE, à part.</speaker>
+<sp who="OXIANE"><speaker>OXIANE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="769" syll="6" part="f">À ce point nous tromper !...</l>
 	<l id="770" syll="3" part="i">Le cruel !</l>
 </sp>
@@ -1225,7 +1251,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="778">Ne rien faire d'indigne et de nous et de lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Énarus, et les mêmes.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Énarus, et les mêmes.
+</stage>
 <sp who="ÉNARUS"><speaker>ÉNARUS.</speaker>
 	<l id="779">Ah ! Seigneur, paraissez : tout un peuple en furie</l>
 	<l id="780">A repoussé la garde à mon ordre asservie.</l>
@@ -1241,7 +1268,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="788">Le ciel avec ma haine agit d'intelligence :</l>
 	<l id="789">Pour te chasser du trône, il arme tes sujets.</l>
 </sp>
-<sp stage="toward" who="NORATE"><speaker>NORATE, aux Soldats.</speaker>
+<sp who="NORATE"><speaker>NORATE</speaker><stage type="toward">, aux Soldats.
+	</stage>
 	<l id="790">Allons, et d'Églator confondant les projets,</l>
 	<l id="791">Éteignons dans son sang son impuissante rage.</l>
 <stage type="toward">À Arétaphile.</stage>
@@ -1253,8 +1281,10 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="exit">Norate sort suivi de ses Gardes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Énarus, Arétaphile, Oxiane.</head>
-<sp stage="toward" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à Énarus.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Énarus, Arétaphile, Oxiane.
+</stage>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="toward">, à Énarus.
+	</stage>
 	<l id="794">Et toi, qui du tyran sers si bien les complots,</l>
 	<l id="795" syll="6" part="i">Que ne suis-tu ses pas ?</l>
 </sp>
@@ -1302,7 +1332,8 @@ dans le fond du théâtre, Soldats.</head>
 <sp who="ÉNARUS"><speaker>ÉNARUS.</speaker>
 	<l id="811" syll="1" part="i">Dieux !</l>
 </sp>
-<sp stage="toward" who="OXIANE"><speaker>OXIANE, à Arétaphile.</speaker>
+<sp who="OXIANE"><speaker>OXIANE</speaker><stage type="toward">, à Arétaphile.
+	</stage>
 	<l id="811" syll="5" part="f">Que lui dites-vous ?</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
@@ -1328,20 +1359,24 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="828">Comme si la vertu nous était étrangère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Eurymène et les mêmes.</head>
-<sp stage="toward" who="EURYMÈNE"><speaker>EURYMÈNE, à Énarus.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Eurymène et les mêmes.
+</stage>
+<sp who="EURYMÈNE"><speaker>EURYMÈNE</speaker><stage type="toward">, à Énarus.
+	</stage>
 	<l id="829">Norate a des mutins apaisé le courroux.</l>
 </sp>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="830" syll="6" part="i">Ô jour du désespoir !</l>
 </sp>
-<sp stage="toward" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à Eurymène.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="toward">, à Eurymène.
+	</stage>
 	<l id="830" syll="6" part="f">Et que fait mon époux ?</l>
 </sp>
 <sp who="EURYMÈNE"><speaker>EURYMÈNE.</speaker>
 	<l id="831">Des Soldats au palais ont traîné ce rebelle...</l>
 </sp>
-<sp stage="toward" who="ÉNARUS"><speaker>ÉNARUS, à part.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="toward">, à part.
+	</stage>
 	<l id="832" syll="6" part="i">Dieux !... Quel prix de mes soins !</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
@@ -1358,8 +1393,10 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="exit">Eurymène sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Arétaphile, Oxiane, Énarus.</head>
-<sp stage="toward" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à Oxiane.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Arétaphile, Oxiane, Énarus.
+</stage>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="toward">, à Oxiane.
+	</stage>
 	<l id="838" syll="6" part="f">Ainsi, ce peuple ingrat</l>
 	<l id="839">À des juges sans moeurs abandonne ton père...</l>
 	<l id="840">Mais j'irai, j'entendrai ce sénat mercenaire.</l>
@@ -1380,14 +1417,16 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="847" syll="9" part="f">Ah ! Voilà le regret qui m'accable ,</l>
 	<l id="848">Tant que vivra ce monstre, on me croira coupable.</l>
 </sp>
-<sp stage="exit/location" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, en sortant avec sa fille d'un autre côté.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="exit/location">, en sortant avec sa fille d'un autre côté.
+	</stage>
 	<l id="849">Va donc laver ta honte au sang de l'inhumain,</l>
 	<l id="850">Et ne reparAis plus que sa tête à la main.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE QUATRIÈME</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Norate, Sénateurs, Gardes.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Norate, Sénateurs, Gardes.
+</stage>
 <sp who="NORATE"><speaker>NORATE.</speaker>
 	<l id="851">Je ne viens point ici par un lâche artifice</l>
 	<l id="852">Contre ce chef coupable armer votre justice.</l>
@@ -1407,8 +1446,10 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="away">Les Gardes s'éloignent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Norate, Églator, Sénateurs.</head>
-<sp stage="toward" who="ÉGLATOR"><speaker>ÉGLATOR, aux Sénateurs.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Norate, Églator, Sénateurs.
+</stage>
+<sp who="ÉGLATOR"><speaker>ÉGLATOR</speaker><stage type="toward">, aux Sénateurs.
+	</stage>
 	<l id="865">Esclaves d'un tyran, que voulez-vous de moi ?</l>
 	<l id="866">Mais Norate au Sénat ! Qu'y fait-il ? Et pourquoi,</l>
 	<l id="867">Depuis quand, parmi vous les tyrans ont-ils place ?</l>
@@ -1528,18 +1569,22 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="949">Jamais ces dieux oisifs n'ont abaissé les yeux. »</l>
 	<l id="950">Mais que le tyran meure, et j'absoudrai vos dieux.</l>
 </sp>
-<sp stage="stand" who="NORATE"><speaker>NORATE, en se levant.</speaker>
+<sp who="NORATE"><speaker>NORATE</speaker><stage type="stand">, en se levant.
+	</stage>
 	<l id="951">Sénateurs, vous voyez la rage qui l'inspire.</l>
 </sp>
-<sp stage="stand" who="ÉGLATOR"><speaker>ÉGLATOR, se levant aussi.</speaker>
+<sp who="ÉGLATOR"><speaker>ÉGLATOR</speaker><stage type="stand">, se levant aussi.
+	</stage>
 	<l id="952">Esclaves, prononcez, je n'ai plus rien à dire.</l>
 </sp>
 <sp who="UN SÉNATEUR"><speaker>UN SÉNATEUR.</speaker>
 	<l id="953">Sa mort seule à la paix peut ramener l'État.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Eurymène, Norate, Églator, Sénateurs.</head>
-<sp stage="toward" who="EURYMÈNE"><speaker>EURYMÈNE, à Norate.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Eurymène, Norate, Églator, Sénateurs.
+</stage>
+<sp who="EURYMÈNE"><speaker>EURYMÈNE</speaker><stage type="toward">, à Norate.
+	</stage>
 	<l id="954">Seigneur, Arétaphile aux portes du Sénat,</l>
 	<l id="955">Jette des cris de rage, en veut forcer l'entrée ;</l>
 	<l id="956">Oxiane près d'elle au désespoir livrée</l>
@@ -1551,7 +1596,8 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="exit">Eurymène sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Norate, Églator, Sénateurs.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Norate, Églator, Sénateurs.
+</stage>
 <sp who="ÉGLATOR"><speaker>ÉGLATOR.</speaker>
 	<l id="959">Quoi ! Monstre, quoi ! tu peux dicter cet ordre impie,</l>
 	<l id="960">Et quand ta main s'apprête à m'arracher la vie,</l>
@@ -1577,7 +1623,8 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="exit/together">Norate sort avec les Sénateurs.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Églator et Énarus qui parait dans le fond du théâtre.</head> 
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Églator et Énarus qui parait dans le fond du théâtre. 
+</stage> 
 <sp who="ÉGLATOR"><speaker>ÉGLATOR.</speaker>
 	<l id="975">Aussi bien il est tems que je rompe la chaîne</l>
 	<l id="976">Des maux que sur ma tête a rassemblés sa haine....</l>
@@ -1586,7 +1633,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="979">Et demander aux Dieux dont on me dit l'image,</l>
 	<l id="980">Raison du peu de soin qu'ils ont de leur ouvrage.</l>
 </sp>
-<sp stage="closer" who="ÉNARUS"><speaker>ÉNARUS, s'approchant.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="closer">, s'approchant.
+	</stage>
 	<l id="981">Dieux ! De quel désespoir ses sens sont possédés !</l>
 </sp>
 <sp who="ÉGLATOR"><speaker>ÉGLATOR.</speaker>
@@ -1658,26 +1706,32 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1034" syll="9" part="f">Oui, Seigneur, je l'adore et je sens</l>
 	<l id="1035">Que si de son trépas il faut être complice...</l>
 </sp>
-<sp stage="give" who="ÉGLATOR"><speaker>ÉGLATOR, en lui donnant la lettre et le poison.</speaker>
+<sp who="ÉGLATOR"><speaker>ÉGLATOR</speaker><stage type="give">, en lui donnant la lettre et le poison.
+	</stage>
 	<l id="1036">Prends... Tu te connais mal ; je te rends mieux justice.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Eurymène, Églator, Énarus, Soldats.</head>
-<sp stage="toward" who="EURYMÈNE"><speaker>EURYMÈNE, aux Soldats.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Eurymène, Églator, Énarus, Soldats.
+</stage>
+<sp who="EURYMÈNE"><speaker>EURYMÈNE</speaker><stage type="toward">, aux Soldats.
+	</stage>
 	<l id="1037" syll="6" part="i">Qu'on le mène à la tour.</l>
 </sp>
-<sp stage="low/toward" who="ÉGLATOR"><speaker>ÉGLATOR, bas à Enarus.</speaker>
+<sp who="ÉGLATOR"><speaker>ÉGLATOR</speaker><stage type="low/toward">, bas à Enarus.
+	</stage>
 	<l id="1037" syll="6" part="f">Mon ami, souviens-toi</l>
 	<l id="1038">Du service fatal que j'attends de ta foi.</l>
 </sp>
-<sp stage="low" who="ÉNARUS"><speaker>ÉNARUS, bas.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="low">, bas.
+	</stage>
 	<l id="1039">Allez, je remplirai votre affreuse espérance.</l>
 <stage type="aparte">À part.</stage>
 	<l id="1040">À quelle épreuve, ô Dieux, mettez-vous ma constance.</l>
 <stage type="pull/exit">Les Soldats emmènent Églator.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Ëurymène, Énarus.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Ëurymène, Énarus.
+</stage>
 <sp who="EURYMÈNE"><speaker>EURYMÈNE.</speaker>
 	<l id="1041">Tandis que du Sénat le décret publié</l>
 	<l id="1042">Doit imposer silence à ce peuple effrayé,</l>
@@ -1696,7 +1750,8 @@ dans le fond du théâtre, Soldats.</head>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp stage="alone" who="ÉNARUS"><speaker>ÉNARUS, seul.</speaker>
+<sp who="ÉNARUS"><speaker>ÉNARUS</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="1052">Ainsi de tous côtés l'infortune m'accable.</l>
 	<l id="1053">Triste jouet d'un sort qu'on n'éprouva jamais,</l>
 	<l id="1054">Je trahis ce que j'aime, et sers Ce que je hais ;</l>
@@ -1706,7 +1761,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1058">Je ne puis me laver qu'en leur portant la mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Arétaphile, Énarus.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Arétaphile, Énarus.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="1059">Un ordre de Norate auprès de toi m'amène.</l>
 	<l id="1060" syll="3" part="i">Que veux-tu ?</l>
@@ -1768,7 +1824,8 @@ dans le fond du théâtre, Soldats.</head>
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X.</head>
-<sp stage="alone" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, seule.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="alone">, seule.
+	</stage>
 	<l id="1081">Pour mieux dans le piège attirer le perfide,</l>
 	<l id="1082">Cachons à tous les yeux le transport qui me guide,</l>
 	<l id="1083">Et que ma fille même ignore par quels coups</l>
@@ -1783,7 +1840,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1092">Sur mon front pâlissant ne fais voir que l'effroi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Norate, Arétaphile, Gardes.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Norate, Arétaphile, Gardes.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="1093">Tu l'emportes, Norate, et puisque ta clémence,</l>
 	<l id="1094">Veut bien des sénateurs révoquer la sentence,</l>
@@ -1821,8 +1879,10 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII.  Arétaphile, Gardes.</head>
-<sp stage="alone" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, seule.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage>  Arétaphile, Gardes.
+</stage>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="alone">, seule.
+	</stage>
 	<l id="1117">Oui, tyran, ton hymen sera cher à Cyrène.</l>
 	<l id="1118">La vengeance des dieux s'accorde avec la mienne :</l>
 	<l id="1119">Il semble qu'un esprit d'imprudence et d'erreur,</l>
@@ -1835,7 +1895,8 @@ dans le fond du théâtre, Soldats.</head>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE CINQUIÈME.</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Arétaphile, une coupe à la main, Oxiane, Suite.</head> 
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Arétaphile, une coupe à la main, Oxiane, Suite. 
+</stage> 
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="1125">Qu'est-ce donc qui s'apprête, ô mère infortunée ?</l>
 	<l id="1126">Cet appareil, ce temple où je suis entraînée :</l>
@@ -1850,7 +1911,8 @@ dans le fond du théâtre, Soldats.</head>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
 	<l id="1132">Vous avez sur mon âme un pouvoir absolu.</l>
 </sp>
-<sp stage="drop" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, après avoir posé la coupe sur l'autel.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="drop">, après avoir posé la coupe sur l'autel.
+	</stage>
 	<l id="1133">Écoute, à tous nos voeux Énarus est fidèle...</l>
 </sp>
 <sp who="OXIANE"><speaker>OXIANE.</speaker>
@@ -1862,14 +1924,16 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1137">Lis, et dans ce billet que nous écrit ton père,</l>
 	<l id="1138">Vois de son amitié la marque la plus chère.</l>
 </sp>
-<sp stage="read/low" who="OXIANE"><speaker>OXIANE, après avoir lu tout bas.</speaker>
+<sp who="OXIANE"><speaker>OXIANE</speaker><stage type="read/low">, après avoir lu tout bas.
+	</stage>
 	<l id="1139">« Énarus s'est chargé de remettre en vos mains</l>
 	<l id="1140" syll="3" part="i">Un poison. »</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="1140" syll="3" part="m">Tu pâlis.</l>
 </sp>
-<sp stage="give" who="OXIANE"><speaker>OXIANE, en rendant la lettre à sa mère.</speaker>
+<sp who="OXIANE"><speaker>OXIANE</speaker><stage type="give">, en rendant la lettre à sa mère.
+	</stage>
 	<l id="1140" syll="6" part="f">Quels horribles destins !</l>
 </sp>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
@@ -1929,7 +1993,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1176">Nous n'aurons pas longtemps à subir tant d'affronts.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arétaphile, Oxiane, Norate, Prêtres, Soldats.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Arétaphile, Oxiane, Norate, Prêtres, Soldats.
+</stage>
 <sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE.</speaker>
 	<l id="1177">J'ai cru que, d'Églator terminant l'esclavage,</l>
 	<l id="1178">Tu le rendrais témoin du noeud qui nous engage :</l>
@@ -1974,7 +2039,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1209">Elle aurait succombé sous la fureur commune,</l>
 	<l id="1210">Si je n'eusse à la tour caché son infortune.</l>
 </sp>
-<sp stage="interrupt" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, l'interrompant.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="interrupt">, l'interrompant.
+	</stage>
 	<l id="1211">Je rends grâce en effet aux moyens généreux</l>
 	<l id="1212">Que ta pitié trouva pour nous sauver tous deux ;</l>
 	<l id="1213">J'admire avec quel art tu pris notre défense,</l>
@@ -1983,7 +2049,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1216">Mon coeur à tes bienfaits prépare un digne fruit....</l>
 	<l id="1217" syll="3" part="i">Mais achève.</l>
 </sp>
-<sp stage="toward" who="NORATE"><speaker>NORATE, au peuple.</speaker>
+<sp who="NORATE"><speaker>NORATE</speaker><stage type="toward">, au peuple.
+	</stage>
 	<l id="1217" syll="9" part="f">Aujourd'hui, qu'enflammés d'un faux zèle,</l>
 	<l id="1218">Vous osiez d'Églator embrasser la querelle ;</l>
 	<l id="1219">Lorsqu'il est dans les fers ; et qu'enfin le sénat</l>
@@ -2000,10 +2067,12 @@ dans le fond du théâtre, Soldats.</head>
 <stage type="aparte">À part.</stage>
 	<l id="1226" syll="6" part="i">Tiens, Norate... Ô vengeance !</l>
 </sp>
-<sp stage="drink/toward" who="NORATE"><speaker>NORATE, après avoir bu, à Oxiane.</speaker>
+<sp who="NORATE"><speaker>NORATE</speaker><stage type="drink/toward">, après avoir bu, à Oxiane.
+	</stage>
 	<l id="1226" syll="4" part="m">Et vous, Madame...</l>
 </sp>
-<sp stage="toward" who="ARÉTAPHILE"><speaker>ARÉTAPHILE, à Norate.</speaker>
+<sp who="ARÉTAPHILE"><speaker>ARÉTAPHILE</speaker><stage type="toward">, à Norate.
+	</stage>
 	<l id="1226" syll="2" part="f">Arrête.</l>
 <stage type="steal/drop">Elle lui arrache la coupe des mains et la pose sur l'autel.</stage>
 </sp>
@@ -2023,7 +2092,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1232">C'est d'ordonner soudain que l'on change pour toi</l>
 	<l id="1233">La pompe nuptiale en apprêts funéraires...</l>
 </sp>
-<sp stage="aparte" who="OXIANE"><speaker>OXIANE, à part.</speaker>
+<sp who="OXIANE"><speaker>OXIANE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="1234" syll="3" part="i">Dieux ! Qu'entends-je ?</l>
 </sp>
 <sp who="NORATE"><speaker>NORATE.</speaker>
@@ -2054,7 +2124,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1248">Mais celui qui te perd, l'est encor plus de moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÊNE III. Eurymène et les mêmes</head>
+<div2 type="scene" n="3"><head>SCÊNE III.</head><stage> Eurymène et les mêmes
+</stage>
 <sp who="EURYMÈNE"><speaker>EURYMÈNE.</speaker>
 	<l id="1249">Ah ! Seigneur, d'Églator la prison est forcée,</l>
 	<l id="1250">Et, chef des factieux dont la rage insensée</l>
@@ -2074,7 +2145,8 @@ dans le fond du théâtre, Soldats.</head>
 	<l id="1255">Les rebelles vers nous précipitent leurs pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Églator, Énarus et les mêmes.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Églator, Énarus et les mêmes.
+</stage>
 <sp who="NORATE"><speaker>NORATE.</speaker>
 	<l id="1256" syll="6" part="i">Qu'on saisisse Églator.</l>
 </sp>

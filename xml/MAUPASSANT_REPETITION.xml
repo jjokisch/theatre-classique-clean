@@ -111,13 +111,15 @@
 	<l id="25">C'est l'accompagnement forcé de toute idylle :</l>
 	<l id="26">L'usage en est resté depuis le doux Virgile.</l>
 </sp>
-<sp stage="ironic" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, ironique.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="ironic">, ironique.
+	</stage>
 	<l id="27">Je ne vous savais point si pétillant d'esprit.</l>
 	<l id="28">J'avais, jusqu'à ce jour, méconnu mon mari.</l>
 	<l id="29">À présent je voudrais vous faire prendre un rôle ;</l>
 	<l id="30">En marquis Pompadour vous seriez vraiment... drôle.</l>
 </sp>
-<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, un peu blessé.</speaker>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage>, un peu blessé.
+	</stage>
 	<l id="31">Madame, c'est très vrai. Qui pourrait faire bien</l>
 	<l id="32">Une chose à laquelle on n'entend juste rien ?</l>
 </sp>
@@ -133,17 +135,20 @@
 	<l id="39">Quand on a, par hasard, un public devant soi.</l>
 	<l id="40">Votre grand naturel est de_mauvais_aloi.</l>
 </sp>
-<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, nerveuse.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage>, nerveuse.
+	</stage>
 	<l id="41">Je sais depuis longtemps cette vieille rengaine.</l>
 </sp>
-<sp stage="proud" who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, pédantesquement.</speaker>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage type="proud">, pédantesquement.
+	</stage>
 	<l id="42">Le vrai dans un salon est du faux sur la scène,</l>
 	<l id="43">Et le vrai sur la scène est faux dans un salon !</l>
 	<l id="44">L'actrice, dans le monde, a souvent mauvais ton,</l>
 	<l id="45">Je vous l'accorde, mais, quand vous prenez sa place,</l>
 	<l id="46">Votre plus doux sourire a l'air d'une grimace.</l>
 </sp>
-<sp stage="strong" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, sèchement.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="strong">, sèchement.
+	</stage>
 	<l id="47">Et vos charmants conseils ont l'air impertinent.</l>
 	<l id="48" syll="4" part="i">Est-ce fini ?</l>
 </sp>
@@ -186,17 +191,20 @@
 <stage type="hesitate">Il hésite et cherche ce qu'il doit dire.</stage>
 	<l id="83">Sont d'un mauvais exemple aux gens de la maison.</l>
 </sp>
-<sp stage="offended" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, très blessée.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="offended">, très blessée.
+	</stage>
 	<l id="84">Vraiment ! Je n'aurais pas prévu cette raison !</l>
 	<l id="85">Mais comme je veux être une femme soumise,</l>
 	<l id="86">Que je ne veux pas voir ma vertu compromise</l>
 	<l id="87">Aux yeux de Rosalie ou de votre cocher,</l>
 	<l id="88" syll="6" part="i">Je renonce à jouer.</l>
 </sp>
-<sp stage="wave" who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, haussant les épaules</speaker>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage type="wave">, haussant les épaules
+	</stage>
 	<l id="88" syll="6" part="f">Bon ! Pourquoi vous fâcher ?</l>
 </sp>
-<sp stage="stress" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, la voix tremblante, exaspérée.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="stress">, la voix tremblante, exaspérée.
+	</stage>
 	<l id="89">Rien que ce tête-à-tête à présent m'épouvante !</l>
 	<l id="90">Personne encor sur moi n'a rien dit, je m'en vante !</l>
 	<l id="91">Songez : si le concierge apprend par un valet</l>
@@ -210,11 +218,13 @@
 	<l id="99">Qui roulent leur voiture avec les : « ce qu'on dit »</l>
 	<l id="100">Me toiseront, des pieds au front, d'un air hardi !</l>
 </sp>
-<sp stage="embarrassed/humble" who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, embarrassé, humble.</speaker>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage type="embarrassed/humble">, embarrassé, humble.
+	</stage>
 	<l id="101">Voyons, si j'ai tenu quelque propos maussade,</l>
 	<l id="102">Ce n'était, après tout, qu'une simple boutade.</l>
 </sp>
-<sp stage="desparate/cry" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, suffoquant, les larmes aux yeux.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="desparate/cry">, suffoquant, les larmes aux yeux.
+	</stage>
 	<l id="103">Je sais que nous devons tout supporter, soupçons,</l>
 	<l id="104">Injures, mots blessants de toutes les façons !</l>
 	<l id="105">Nous devons obéir à la moindre parole,</l>
@@ -224,7 +234,8 @@
 	<l id="109">Rôdent autour de nous ainsi que des gendarmes,</l>
 	<l id="110" syll="9" part="i">Nous accusent sans cesse, espionnent...</l>
 </sp>
-<sp stage="sweet" who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, caressant.</speaker>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage type="sweet">, caressant.
+	</stage>
 	<l id="110" syll="3" part="f">Pas de larmes,</l>
 	<l id="111">Je t'en prie ; et faisons la paix. Pardon, C'est vrai,</l>
 	<l id="112">Je fus brutal et sot... je l'avoue, et suis prêt</l>
@@ -233,21 +244,26 @@
 	<l id="115">J'y veux mettre ce soir deux gros bracelets d'or ;</l>
 	<l id="116" syll="9" part="i">Mais tu joueras. M'as-tu pardonné ?</l>
 </sp>
-<sp stage="proud" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, très digne.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="proud">, très digne.
+	</stage>
 	<l id="116" syll="3" part="f">Pas encor.</l>
 </sp>
 <sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES.</speaker>
 	<l id="117" syll="4" part="i">Non ? Mais bientôt.</l>
 </sp>
-<sp stage="proud" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, de même.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="proud">, de même.
+	</stage>
 	<l id="117" syll="2" part="m">Qui sait ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les Mêmes, René Lapierre, en  marquis Louis XV.</head>
-<sp stage="declamate" who="UN DOMESTIQUE"><speaker>UN DOMESTIQUE, annonçant.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Les Mêmes, René Lapierre, en  marquis Louis XV.
+</stage>
+<sp who="UN DOMESTIQUE"><speaker>UN DOMESTIQUE</speaker><stage type="declamate">, annonçant.
+	</stage>
 	<l id="117" syll="6" part="f">Monsieur René Lapierre.</l>
 </sp>
-<sp stage="entrance" who="RENÉ"><speaker>RENÉ, entrant.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="entrance">, entrant.
+	</stage>
 	<l id="118" syll="6" part="i">En marquis Louis_XV.</l>
 </sp>
 <sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES.</speaker>
@@ -264,8 +280,10 @@
 <stage type="exit/kiss">Il sort. - René baise la main de madame Destournelles.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Madame Destournelles, René.</head>
-<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, nerveuse, la voix sèche.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Madame Destournelles, René.
+</stage>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage>, nerveuse, la voix sèche.
+	</stage>
 	<l id="121">Au moins, avez-vous bien retenu votre rôle ?</l>
 </sp>
 <sp who="RENÉ"><speaker>RENÉ.</speaker>
@@ -285,23 +303,27 @@
 <sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES.</speaker>
 	<l id="128" syll="9" part="i">Soyez plus libre et plus naturel.</l>
 </sp>
-<sp stage="stop" who="RENÉ"><speaker>RENÉ, s'arrêtant.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="stop">, s'arrêtant.
+	</stage>
 	<l id="128" syll="3" part="f">Je ne puis ;</l>
 	<l id="129">J'en suis fort empêché, car mon habit me gêne.</l>
 <stage type="fall">Son épée se prend entre ses jambes.</stage>
 </sp>
-<sp stage="strong" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, sèchement.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="strong">, sèchement.
+	</stage>
 	<l id="130">Votre rapière va s'échapper de sa gaine.</l>
 	<l id="131">Vous paraissez épais et lourd. Recommençons.</l>
 <stage type="wave">Il fait le même manège que tout à l'heure, mais d'une façon encore plus maniérée.</stage>
 	<l id="132">Vous n'avez pas besoin de toutes ces façons,</l>
 	<l id="133" syll="2" part="i">Monsieur.</l>
 </sp>
-<sp who="MADAME DESTOURNELLES"><speaker>RENÉ, vexé.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>RENÉ</speaker><stage>, vexé.
+	</stage>
 	<l id="133" syll="10" part="f">Je voudrais bien vous voir prendre ma place,</l>
 	<l id="134">Madame. Comment donc voulez-vous que je fasse ?</l>
 </sp>
-<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, impatiente.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage>, impatiente.
+	</stage>
 	<l id="135">Comme si vous étiez un marquis naturel ;</l>
 	<l id="136">Un vrai marquis. Quittez cet air trop solennel,</l>
 	<l id="137">Et marchez simplement comme un monsieur qui passe.</l>
@@ -361,10 +383,12 @@
 	<l id="174">Vous n'avez pas de temps à perdre. Allons, en route</l>
 	<l id="175" syll="2" part="i">Eh bien ?</l>
 </sp>
-<sp who="RENÉ"><speaker>RENÉ, après une longue hésitation.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage>, après une longue hésitation.
+	</stage>
 	<l id="175" syll="10" part="f">Je ne sais plus du tout le premier vers.</l>
 </sp>
-<sp stage="furious" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, furieuse.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="furious">, furieuse.
+	</stage>
 	<l id="176">Monsieur, vous commencez à m'agacer les nerfs.</l>
 </sp>
 <sp who="RENÉ"><speaker>RENÉ.</speaker>
@@ -373,7 +397,8 @@
 <sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES.</speaker>
 	<l id="178">Certes, ils viendront. À moins qu'ils ne prennent la fuite.</l>
 </sp>
-<sp who="RENÉ"><speaker>RENÉ, se frappant le front.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage>, se frappant le front.
+	</stage>
 	<l id="179">Comme on oublie ! Allons, soufflez-moi, rien qu'un peu.</l>
 </sp>
 <sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES.</speaker>
@@ -381,7 +406,8 @@
 <stage type="stress">Elle souffle</stage>
 	<l id="181">Je te vis, charmante bergère</l>
 </sp>
-<sp stage="declamate" who="RENÉ"><speaker>RENÉ, il récite avec embarras.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="declamate">, il récite avec embarras.
+	</stage>
 	<l id="182">Je te vis, charmante bergère,</l>
 	<l id="183">Assise, un jour, sur la fougère ;</l>
 	<l id="184">Oui, là-bas, je te vis un jour ;</l>
@@ -406,7 +432,8 @@
 	<l id="195">Votre voix, votre corps, vos gestes sont en bois.</l>
 	<l id="196" syll="5" part="i">Avez-vous aimé ?</l>
 </sp>
-<sp stage="estonish" who="RENÉ"><speaker>RENÉ, très étonné</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="estonish">, très étonné
+	</stage>
 	<l id="196" syll="1" part="m">Moi ?</l>
 </sp>
 <sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES.</speaker>
@@ -469,7 +496,8 @@
 <stage type="stress">Changeant de ton. D'une voix brève.</stage>
 	<l id="226">Çà, nous ne ferons rien. Cher monsieur, c'est assez.</l>
 </sp>
-<sp stage="abrupt" who="RENÉ"><speaker>RENÉ, brusquement.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="abrupt">, brusquement.
+	</stage>
 	<l id="227">Je suis mauvais, la faute en est à mon costume ;</l>
 	<l id="228">Si j'étais en habit tout simple, je présume</l>
 	<l id="229">Que je saurais sans peine exprimer mon amour.</l>
@@ -563,7 +591,8 @@
 	<l id="267">Je n'autorise pas ces manières trop lestes ;</l>
 	<l id="268">La parole suffit, monsieur, gardez vos gestes.</l>
 </sp>
-<sp who="RENÉ"><speaker>RENÉ, tombant à ses genoux.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage>, tombant à ses genoux.
+	</stage>
 	<l id="269">Certes, j'étais timide et grotesque. Pourquoi ?</l>
 	<l id="270">Je craignais que mon coeur éclatât malgré moi !</l>
 	<l id="271">Et qu'au lieu des fadeurs de ces propos frivoles,</l>
@@ -587,7 +616,8 @@
 	<l id="289">Il saisit sa main et la pose sur son coeur</l>
 	<l id="290">Tenez, sentez-vous pas comme mon coeur palpite ?</l>
 </sp>
-<sp stage="estonish" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, effarée.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="estonish">, effarée.
+	</stage>
 	<l id="291">C'est trop. On vous croirait la cervelle égarée ;</l>
 	<l id="292">Et la diction même a l'air exagérée.</l>
 <stage type="open/stop/watch">La porte du fond s'ouvre sans bruit, et Monsieur Destournelles apparaît, tenant à chaque main un écrin à bracelet. Il s'arrête et écoute sans être vu.</stage>
@@ -604,27 +634,35 @@
 	<l id="301">Et mes bras, malgré moi, s'ouvrent pour vous saisir,</l>
 	<l id="302">Tant me pousse vers vous un immense désir.</l>
 </sp>
-<sp stage="escape" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, lui échappant.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="escape">, lui échappant.
+	</stage>
 	<l id="303">Je me fâche. Cessez cette plaisanterie.</l>
 </sp>
-<sp who="RENÉ"><speaker>RENÉ, se traînant à ses pieds.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage>, se traînant à ses pieds.
+	</stage>
 	<l id="304" syll="7" part="i">Je vous aime, je vous aime.</l>
 </sp>
-<sp stage="frighten" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, effrayée.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="frighten">, effrayée.
+	</stage>
 	<l id="304" syll="5" part="f">Assez, ou je crie.</l>
 </sp>
-<sp stage="desparate" who="RENÉ"><speaker>RENÉ, avec accablement.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="desparate">, avec accablement.
+	</stage>
 	<l id="305" syll="2" part="i">Pardon.</l>
 </sp>
-<sp stage="proud" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, avec hauteur.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="proud">, avec hauteur.
+	</stage>
 	<l id="305" syll="10" part="f">Relevez-vous, Monsieur, je vais sonner.</l>
 </sp>
-<sp stage="desparate" who="RENÉ"><speaker>RENÉ, désespéré.</speaker>
+<sp who="RENÉ"><speaker>RENÉ</speaker><stage type="desparate">, désespéré.
+	</stage>
 	<l id="306">Mon_Dieu ! Vous ne pourrez jamais me pardonner.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les Mêmes, Monsieur Destournelles.</head>
-<sp stage="applause" who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES, applaudissant.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les Mêmes, Monsieur Destournelles.
+</stage>
+<sp who="MONSIEUR DESTOURNELLES"><speaker>MONSIEUR DESTOURNELLES</speaker><stage type="applause">, applaudissant.
+	</stage>
 	<l id="307">Bravo ! bravo ! Très bien ! vous jouez à merveille !</l>
 	<l id="308">Je ne vous croyais pas une chaleur pareille.</l>
 	<l id="309">Mes compliments, Monsieur, c'est très bien. Et j'avais</l>
@@ -640,7 +678,8 @@
 	<l id="319">Car cela va toujours très bien quand on répète ;</l>
 	<l id="320">Mais aux jours de Première on perd un peu la tête.</l>
 </sp>
-<sp stage="smile/get" who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES, avec un sourire imperceptible, et prenant les bracelets des mains de son mari.</speaker>
+<sp who="MADAME DESTOURNELLES"><speaker>MADAME DESTOURNELLES</speaker><stage type="smile/get">, avec un sourire imperceptible, et prenant les bracelets des mains de son mari.
+	</stage>
 	<l id="321">Mon ami, demeurez tranquille sur ce point,</l>
 	<l id="322">Car si Monsieur la perd... je ne la perdrai point.</l>
 </sp>

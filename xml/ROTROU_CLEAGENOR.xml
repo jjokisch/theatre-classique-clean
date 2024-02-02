@@ -725,7 +725,8 @@
 <sp who="PHILEMOND"><speaker>PHILEMOND.</speaker>
 	<l id="416" part="f">Vous verrez au besoin.</l>
 </sp>
-<sp who="PREMIER_VOLEUR"><speaker>1er VOLEUR le posant en embuscade.</speaker>
+<sp who="PREMIER_VOLEUR"><speaker>1er VOLEUR</speaker><stage> le posant en embuscade.
+	</stage>
 	<l id="417">De là, sans être vu, tu découvres de loin.</l>
 </sp>
 <sp who="PHILEMOND"><speaker>PHILEMOND.</speaker>
@@ -737,7 +738,8 @@
 	<l id="420">Je vais un peu plus haut, où les arbres pressés </l>
 	<l id="421">Font que sans être vu l'on voit pourtant assez.</l>
 </sp>
-<sp who="PHILEMOND"><speaker>PHILEMOND en embuscade.</speaker>
+<sp who="PHILEMOND"><speaker>PHILEMOND</speaker><stage> en embuscade.
+	</stage>
 	<l id="422">Le gentil exercice. Ô Ciel me peux-tu luire,</l>
 	<l id="423">Et voir toujours le sort si constant à me nuire :</l>
 	<l id="424">Ce corps est menacé, fait esclave, ravi </l>

@@ -46,7 +46,8 @@ Tour Blanche Nesster
 <body>
 <div1 type="acte" n="1"><head>GUIGNOL EN ENFER</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="GUIGNOL"><speaker>GUIGNOL, seu1, entrant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, seu1, entrant.
+</stage>
 <stage type="sing">Chantant.</stage>
 	<l id="1">Vive la rouge bouteille,</l>
 	<l id="2">Ou sommeille,</l>
@@ -113,13 +114,16 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Guignol, Le Diable.</head>
-<sp stage="entrance/quick" who="LE DIABLE"><speaker>LE DIABLE, surgissant devant lui.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Guignol, Le Diable.
+</stage>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="entrance/quick">, surgissant devant lui.
+</stage>
 <p id="1">
 	<s id="1">Bonsoir, Guignol.</s>
 </p>
 </sp>
-<sp stage="away" who="GUIGNOL"><speaker>GUIGNOL, reculant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="away">, reculant.
+</stage>
 <p id="2">
 	<s id="1">Hein ! </s>
 	<s id="2">Qui est là ? </s>
@@ -143,7 +147,8 @@ Tour Blanche Nesster
 	<s id="1">Tu l'as dit.</s>
 </p>
 </sp>
-<sp stage="touch" who="GUIGNOL"><speaker>GUIGNOL, lui tendant la main.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="touch">, lui tendant la main.
+</stage>
 <p id="6">
 	<s id="1">Et ça va bien, autrement, depuis que je n'ai eu le plaisir de vous voir ?</s>
 </p>
@@ -225,7 +230,8 @@ Tour Blanche Nesster
 	<s id="1">Vous croyez...</s>
 </p>
 </sp>
-<sp who="LE DIABLE"><speaker>LE DIABLE, continuant.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage>, continuant.
+</stage>
 <p id="21">
 	<s id="1">À cette condition que dans un an, à pareil jour, à pareille heure, tu m'appartiendrais.</s>
 </p>
@@ -315,7 +321,8 @@ Tour Blanche Nesster
 	<s id="1">Es-tu prêt ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="GUIGNOL"><speaker>GUIGNOL, à part.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="aparte">, à part.
+</stage>
 <p id="38">
 	<s id="1">Ah ! </s>
 	<s id="2">Si je pouvais cogner dessus. </s>
@@ -330,7 +337,8 @@ Tour Blanche Nesster
 	<s id="1">Ne discutons plus.</s>
 </p>
 </sp>
-<sp stage="cry" who="GUIGNOL"><speaker>GUIGNOL, pleurant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="cry">, pleurant.
+</stage>
 <p id="41">
 	<s id="1">Oh ! </s>
 	<s id="2">La ! la ! la !</s>
@@ -367,7 +375,8 @@ Tour Blanche Nesster
 	<s id="1">Vous savez - s'il faut prendre le bateau, je crains la mer.</s>
 </p>
 </sp>
-<sp stage="touch" who="LE DIABLE"><speaker>LE DIABLE, le prenant par la main.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="touch">, le prenant par la main.
+</stage>
 <p id="48">
 	<s id="1">Enlevé !</s>
 </p>
@@ -409,7 +418,8 @@ Tour Blanche Nesster
 	<s id="1">Tu ne le regretteras bientôt plus.</s>
 </p>
 </sp>
-<sp stage="watch" who="GUIGNOL"><speaker>GUIGNOL,regardant autour de tut.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="watch">,regardant autour de tut.
+</stage>
 <p id="5">
 	<s id="1">Ainsi me voilà en enfer ?</s>
 </p>
@@ -454,7 +464,8 @@ Tour Blanche Nesster
 	<s id="3">Du moment qu'il n'y a pas moyen.</s>
 </p>
 </sp>
-<sp who="LE DIABLE"><speaker>LE DIABLE, lui montrant.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage>, lui montrant.
+</stage>
 <p id="12">
 	<s id="1">Là, à gauche, la première salle de punition - celle où l'on commence à vous faire griller de temps en temps, avant de vous plonger dans la chaudière, histoire de vous habituer.</s>
 </p>
@@ -507,7 +518,8 @@ Tour Blanche Nesster
 	<s id="2">Allons, adieu !</s>
 </p>
 </sp>
-<sp stage="stop" who="GUIGNOL"><speaker>GUIGNOL, l'arrêtant.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="stop">, l'arrêtant.
+</stage>
 <p id="21">
 	<s id="1">Monsieur le diable, voyons...</s>
 </p>
@@ -528,7 +540,8 @@ Tour Blanche Nesster
 	<s id="2">Tu rencontreras plus d'un visage de la connaissance...</s>
 </p>
 </sp>
-<sp stage="pull" who="GUIGNOL"><speaker>GUIGNOL, voulant encore le retenir.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="pull">, voulant encore le retenir.
+</stage>
 <p id="25">
 	<s id="1">Si nous remontions là-haut ?</s>
 </p>
@@ -538,7 +551,8 @@ Tour Blanche Nesster
 	<s id="1">Ton tour va venir !</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, même jeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, même jeu.
+</stage>
 <p id="27">
 	<s id="1">J'ai oublié mon mouchoir !...</s>
 </p>
@@ -559,7 +573,8 @@ Tour Blanche Nesster
 	<s id="1">Monseigneur, mon doux Monseigneur, mon...</s>
 </p>
 </sp>
-<sp stage="away/laugh" who="LE DIABLE"><speaker>LE DIABLE, t'en allant, riant.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="away/laugh">, t'en allant, riant.
+</stage>
 <p id="30">
 	<s id="1">Ah ! </s>
 	<s id="2">Ah ! </s>
@@ -568,7 +583,8 @@ Tour Blanche Nesster
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp stage="alone" who="GUIGNOL"><speaker>GUIGNOL, seul.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Gueusard ! </s>
 	<s id="2">Bandit ! </s>
@@ -607,7 +623,8 @@ Tour Blanche Nesster
 </p>²
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Guignol, L'Apothicaire.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Guignol, L'Apothicaire.
+</stage>
 <sp who="GUIGNOL"><speaker>GUIGNOL.</speaker>
 <p id="1">
 	<s id="1">Pas possible ? </s>
@@ -677,12 +694,14 @@ Tour Blanche Nesster
 	<s id="1">Tu verras ça tout à l'heure.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GUIGNOL"><speaker>GUIGNOL, à part.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="aparte">, à part.
+</stage>
 <p id="13">
 	<s id="1">J'ai envie de me payer un petit acompte sur lui...</s>
 </p>
 </sp>
-<sp stage="location" who="LA VOIX"><speaker>UNE VOIX, au dehors.</speaker>
+<sp who="LA VOIX"><speaker>UNE VOIX</speaker><stage type="location">, au dehors.
+</stage>
 <p id="14">
 	<s id="1">L'apothicaire !</s>
 </p>
@@ -692,7 +711,8 @@ Tour Blanche Nesster
 	<s id="1">Tu vois, on m'appelle.</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, te cognant avec sa tête.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, te cognant avec sa tête.
+</stage>
 <p id="16">
 	<s id="1">Et va donc ! </s>
 	<s id="2">Va donc ! </s>
@@ -726,7 +746,8 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Maître Férulard, Guignol.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Maître Férulard, Guignol.
+</stage>
 <sp who="GUIGNOL"><speaker>GUIGNOL.</speaker>
 <p id="1">
 	<s id="1">Eh ! </s>
@@ -844,25 +865,29 @@ Tour Blanche Nesster
 	<s id="1">Ce qui ne m'empêchera pas de protester...</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, même jeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, même jeu.
+</stage>
 <p id="22">
 	<s id="1">Tiens ! </s>
 	<s id="2">Proteste...</s>
 </p>
 </sp>
-<sp who="LA VOIX"><speaker>LA VOIX, appelant.</speaker>
+<sp who="LA VOIX"><speaker>LA VOIX</speaker><stage>, appelant.
+</stage>
 <p id="23">
 	<s id="1">Maître_Férulard !</s>
 </p>
 </sp>
-<sp who="GUIGNOL"><speaker>GUIGNOL, même jeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage>, même jeu.
+</stage>
 <p id="24">
 	<s id="1">Mais va donc ! </s>
 	<s id="2">On t'appelle !</s>
 </p>
 <stage type="exit/entrance">Maître Férulard parait et reparaît encore deux fois et Guignol frappe dessus chaque fois.</stage>
 </sp>
-<sp stage="alone" who="GUIGNOL"><speaker>GUIGNOL, seul.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="alone">, seul.
+</stage>
 <p id="25">
 	<s id="1">Eh bien ! </s>
 	<s id="2">S'ils sont tous aussi bêtes, ça va être gai ! - </s>
@@ -885,7 +910,8 @@ Tour Blanche Nesster
 	<s id="14">Si je pouvais lui reprendre mon billet ; si je pouvais même mettre un pied dehors, le reste suivrait bien, et une fois dehors, sauvé....</s>
 </p>
 </sp>
-<sp stage="call" who="LA VOIX"><speaker>LA VOIX, appelle.</speaker>
+<sp who="LA VOIX"><speaker>LA VOIX</speaker><stage type="call">, appelle.
+</stage>
 <p id="27">
 	<s id="1">Guignol !</s>
 </p>
@@ -920,7 +946,8 @@ Tour Blanche Nesster
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Diable, Guignol.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Le Diable, Guignol.
+</stage>
 <sp who="LE DIABLE"><speaker>LE DIABLE.</speaker>
 <p id="1">
 	<s id="1">Eh bien ! </s>
@@ -933,7 +960,8 @@ Tour Blanche Nesster
 	<s id="8">Allons !</s>
 </p>
 </sp>
-<sp stage="away/aparte" who="GUIGNOL"><speaker>GUIGNOL, se reculant, à part.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="away/aparte">, se reculant, à part.
+</stage>
 <p id="2">
 	<s id="1">Si je pouvais le mordre, toi.</s>
 </p>
@@ -969,7 +997,8 @@ Tour Blanche Nesster
 	<s id="1">Empoignez-moi ce particulier là, et portez-le sur le gril.</s>
 </p>
 </sp>
-<sp stage="toward" who="GUIGNOL"><speaker>GUIGNOL, aux deux diables.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="toward">, aux deux diables.
+</stage>
 <p id="9">
 	<s id="1">Voulez-vous bien me lâcher, vous autres !</s>
 </p>
@@ -1032,22 +1061,26 @@ Tour Blanche Nesster
 	<s id="3">Tu ne veux pas ?</s>
 </p>
 </sp>
-<sp stage="threat" who="LE DIABLE"><speaker>LE DIABLE, le menaçant de sa fourche.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="threat">, le menaçant de sa fourche.
+</stage>
 <p id="20">
 	<s id="1">Tremble !</s>
 </p>
 </sp>
-<sp stage="hit" who="GUIGNOL"><speaker>GUIGNOL,lui donnant un coup de la sienne.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="hit">,lui donnant un coup de la sienne.
+</stage>
 <p id="21">
 	<s id="1">Reçois !</s>
 </p>
 </sp>
-<sp stage="hit" who="LE DIABLE"><speaker>LE DIABLE, même jeu.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="hit">, même jeu.
+</stage>
 <p id="22">
 	<s id="1">Je te ferai bouillir dans une marmite d'huile !</s>
 </p>
 </sp>
-<sp stage="hit" who="GUIGNOL"><speaker>GUIGNOL, même jeu.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="hit">, même jeu.
+</stage>
 <p id="23">
 	<s id="1">Pile ! </s>
 	<s id="2">Face ! </s>
@@ -1132,7 +1165,8 @@ Tour Blanche Nesster
 	<s id="2">Je n'ai pas confiance.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE DIABLE"><speaker>LE DIABLE, à part.</speaker>
+<sp who="LE DIABLE"><speaker>LE DIABLE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="38">
 	<s id="1">Quand je te tiendrai, toi, tu me payeras tout cet arriéré.</s>
 </p>
@@ -1242,7 +1276,8 @@ Tour Blanche Nesster
 	<s id="3">Nous ne pourrons plus le ravoir !</s>
 </p>
 </sp>
-<sp stage="entrance" who="GUIGNOL"><speaker>GUIGNOL, passant sa tête par l'oeil de boeuf au-dessus de la porte.</speaker>
+<sp who="GUIGNOL"><speaker>GUIGNOL</speaker><stage type="entrance">, passant sa tête par l'oeil de boeuf au-dessus de la porte.
+</stage>
 <p id="58">
 	<s id="1">Bien des choses chez vous. </s>
 	<s id="2">Et excusez-moi si je ne vous reconduis pas !</s>

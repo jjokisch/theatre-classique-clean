@@ -1017,7 +1017,8 @@
 	<s id="3">Parlez !</s>
 </p>
 </sp>
-<sp stage="get" who="MONSIEUR"><speaker>MONSIEUR tire de sa poche un écrin qu'il ouvre et qu'il présente à sa femme.</speaker>
+<sp who="MONSIEUR"><speaker>MONSIEUR</speaker><stage type="get"> tire de sa poche un écrin qu'il ouvre et qu'il présente à sa femme.
+</stage>
 <p id="141">
 	<s id="1">. . .</s>
 </p>

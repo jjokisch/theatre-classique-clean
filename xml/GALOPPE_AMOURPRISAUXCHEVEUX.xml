@@ -54,7 +54,8 @@
 <div2 type="scene/costume/furniture" n="1"><head/>
 <stage type="decor">Un salon de coiffeur. Une toilette à droite, premier plan. Une nuire toilette à gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table à la gauche du fond, avec perruques, idem. — Un réchaud sous la table. Une robe de chambre noire d'un côté et d'une autre couleur de l'autre.  Portes latérales ; porte d'entrée au fond ; une croisée à droite. Chaises, 
 fauteuil. etc.</stage>
-<sp stage="entrance/costume" who="LE COIFFEUR"><speaker>LE COIFFEUR, entrant par le fond. Il est en perruque blonde, fort légère de cheveux ; il a un habit, une redingote et un pardessus. Il est trèsagité et jette son chapeau avec colère.</speaker>
+<sp who="LE COIFFEUR"><speaker>LE COIFFEUR</speaker><stage type="entrance/costume">, entrant par le fond. Il est en perruque blonde, fort légère de cheveux ; il a un habit, une redingote et un pardessus. Il est trèsagité et jette son chapeau avec colère.
+	</stage>
 	<l id="1">Plus d'espoir !... C'en est fait !... Paméla m'abandonne !</l>
 	<l id="2">Le portier me l'a dit : Il n'est venu personne !...</l>
 	<l id="3">Pas de lettre aujourd'hui !... L'impassible facteur</l>
@@ -305,7 +306,8 @@ fauteuil. etc.</stage>
 	<l id="203">Et, jusques à bonjour, il dit tout en latin.</l>
 <stage type="imitate/decor/furniture">Il l'imite, et prend une chaise qu'il place devant lui en guise de tribune.</stage>
 </sp>
-<sp stage="slow" who="LE FOURNI"><speaker>LE FOURNI, avec un peu de lenteur.</speaker>
+<sp who="LE FOURNI"><speaker>LE FOURNI</speaker><stage type="slow">, avec un peu de lenteur.
+	</stage>
 	<l id="204">Messieurs du tribunal, en prenant la parole,</l>
 	<l id="205">J'ai dessein de combattre un affreux-monopole</l>
 	<l id="206">Qui tend à s'emparer du commerce français, .</l>
@@ -324,7 +326,8 @@ fauteuil. etc.</stage>
 	<l id="219">Voilà pourquoi, Messieurs, notre procès est sûr !</l>
 <stage type="dress">Changeant de perruque.</stage>
 </sp>
-<sp stage="enthousiasm" who="LE CHAUVE"><speaker>LE CHAUVE, avec énergie et volubilité.</speaker>
+<sp who="LE CHAUVE"><speaker>LE CHAUVE</speaker><stage type="enthousiasm">, avec énergie et volubilité.
+	</stage>
 	<l id="220">Messieurs du tribunal, mon éloquent confrère,</l>
 	<l id="221">Profond jurisconsulte, et savant adversaire, ,</l>
 	<l id="222">Est un âne, entre nous, qui, dans chaque procès.</l>
@@ -351,7 +354,8 @@ fauteuil. etc.</stage>
 	<l id="242">Rome ne consultant que sa reconnaissance...</l>
 <stage type="dress/sit">Tirant sa perruque et s'asseyant.</stage>
 </sp>
-<sp stage="imitate" who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT, avec une voix cassée.</speaker>
+<sp who="LE PRÉSIDENT"><speaker>LE PRÉSIDENT</speaker><stage type="imitate">, avec une voix cassée.
+	</stage>
 	<l id="243" syll="6" part="i">Avocat, permettez...</l>
 <stage type="dress/stand">Remettant sa perruque et se levant.</stage>
 </sp>
@@ -420,7 +424,8 @@ fauteuil. etc.</stage>
 <stage type="knock">Il va pour mettre le feu au charbon. On frappe.</stage>
 	<l id="280" syll="6" part="i">Qu'est-ce ? Que me veut-on ?</l>
 </sp>
-<sp stage="location" who="LE VALET"><speaker>LE VALET, du dehors.</speaker>
+<sp who="LE VALET"><speaker>LE VALET</speaker><stage type="location">, du dehors.
+	</stage>
 	<l id="280" syll="2" part="m">Ouvrez !</l>
 </sp>
 <sp who="LE COIFFEUR"><speaker>LE COIFFEUR.</speaker>
@@ -441,10 +446,12 @@ fauteuil. etc.</stage>
 <stage type="toward">Au valet.</stage>
 	<l id="287" syll="6" part="i">Eh bien ! Que fais-tu là ?</l>
 </sp>
-<sp stage="give" who="LE VALET"><speaker>LE VALET, tendant la main.</speaker>
+<sp who="LE VALET"><speaker>LE VALET</speaker><stage type="give">, tendant la main.
+	</stage>
 	<l id="287" syll="6" part="f">Pour le commissionnaire ?</l>
 </sp>
-<sp stage="offended" who="LE COIFFEUR"><speaker>LE COIFFEUR, indigné.</speaker>
+<sp who="LE COIFFEUR"><speaker>LE COIFFEUR</speaker><stage type="offended">, indigné.
+	</stage>
 	<l id="288">Et sa tête à la main, demande son salaire !</l>
 	<l id="289">Ah ! Tiens voilà deux sous, c'est plus que ça ne vaut </l>
 	<l id="290">Message et messager, dix centimes !... C'est trop !</l>

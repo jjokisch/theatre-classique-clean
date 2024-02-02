@@ -56,7 +56,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>BOIS-ROSÉ</head>
-<div2 type="scene" n="2"><head>SCÈNE PREMIÈRE. Le Marquis, Laforest.</head>
+<div2 type="scene" n="2"><head>SCÈNE PREMIÈRE.</head><stage> Le Marquis, Laforest.
+</stage>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="1">
 	<s id="1">Penses-tu que cet accident retienne longtemps Monsieur de Rosny dans cette auberge ?</s>
@@ -116,7 +117,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp stage="alone" who="LE MARQUIS"><speaker>LE MARQUIS, seul.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="alone">, seul.
+</stage>
 <note type="C">Fécamp est un port de la Manche en Normandie. Sacy est originaire de Fécamp.</note>
 <note type="C">L'Amiral de Villars se nomme André Baptiste de Brancas, il a appartenu à la Ligue catholique et tenta de faire de la Normandie une seigneurie indépendante.</note>
 <p id="1">
@@ -137,7 +139,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Marquis, Laforest.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Marquis, Laforest.
+</stage>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="1">
 	<s id="1">Monsieur Discret est-il occupé avec Monsieur de Rosny ?</s>
@@ -155,7 +158,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone" who="LE MARQUIS"><speaker>LE MARQUIS, seul.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Il est bien sur, pour un homme de qualité, de ramper devant ces nouveaux parvenus, de les caresser, de les flatter ! </s>
 	<s id="2">Que diraient mes aïeux, s'ils voyaient leur descendant faire honteusement sa cour à un homme obscur, à un plat roturier ?... </s>
@@ -165,7 +169,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Marquis, Monsieur Discret.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Le Marquis, Monsieur Discret.
+</stage>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="1">
 	<s id="1">Mon cher Monsieur Discret ,vous savez, je crois, que vous n'avez pas en France un meilleur ami que moi ?...</s>
@@ -585,7 +590,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Marquis, Monsieur Discret, Une Veuve.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Le Marquis, Monsieur Discret, Une Veuve.
+</stage>
 <sp who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET.</speaker>
 <p id="1">
 	<s id="1">Puis-je savoir, Madame, ce qui me procure une visite si agréable ?</s>
@@ -711,7 +717,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCENE VII. Le Marquis, Monsieur Discret.</head>
+<div2 type="scene" n="7"><head>SCENE VII.</head><stage> Le Marquis, Monsieur Discret.
+</stage>
 <sp who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET.</speaker>
 <p id="1">
 	<s id="1">Ma foi, elle m'a ému.</s>
@@ -846,7 +853,8 @@
 	<s id="1">Elle a très bien profité de la leçon.</s>
 </p>
 </sp>
-<sp stage="read" who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET, lit.</speaker>
+<sp who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET</speaker><stage type="read">, lit.
+</stage>
 <p id="23">
 	<s id="1">« J'augure bien du succès de cette affaire. J'offre à l'économe Monsieur de Rosny les moyens de vous pensionner, sans tirer une obole des coffres du Roi. </s>
 	<s id="2">Vous demandez dans ce Mémoire une pension de trois mille livres sur les revenus du Gouvernement de Fécamp, vacant par la démission forcée de Bois-Rosé. »</s>
@@ -858,7 +866,8 @@
 	<s id="2">Trois mille livres sur mon Gouvernement !</s>
 </p>
 </sp>
-<sp stage="read" who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET, lit.</speaker>
+<sp who="MONSIEUR DISCRET"><speaker>MONSIEUR DISCRET</speaker><stage type="read">, lit.
+</stage>
 <p id="25">
 	<s id="1">« Adieu, charmante Veuve ; j'irai dans peu de jours apprendre de vous le succès du Mémoire, et en recevoir le prix. »</s>
 </p>
@@ -886,7 +895,8 @@
 	<s id="1">La lettre est anonyme.</s>
 </p>
 </sp>
-<sp stage="steal" who="LE MARQUIS"><speaker>LE MARQUIS, arrachant la lettre des mains de Monsieur Discret.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="steal">, arrachant la lettre des mains de Monsieur Discret.
+</stage>
 <p id="30">
 	<s id="1">Voyons.</s>
 </p>
@@ -937,8 +947,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Marquis, Monsieur Discret, Laforest.</head>
-<sp stage="hurry" who="LA FOREST"><speaker>LA FOREST, d'un air empressé.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Le Marquis, Monsieur Discret, Laforest.
+</stage>
+<sp who="LA FOREST"><speaker>LA FOREST</speaker><stage type="hurry">, d'un air empressé.
+</stage>
 <p id="1">
 	<s id="1">Monsieur !...</s>
 </p>
@@ -954,7 +966,8 @@
 	<s id="1">Je viens vous avertir que Monsieur de Bois-Rosé vient de descendre dans cette auberge.</s>
 </p>
 </sp>
-<sp stage="anxious" who="LE MARQUIS"><speaker>LE MARQUIS, d'un air inquiet.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="anxious">, d'un air inquiet.
+</stage>
 <p id="4">
 	<s id="1">Bois-Rosé !... </s>
 	<s id="2">Que fait-il...? </s>
@@ -1007,7 +1020,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp stage="alone" who="LE MARQUIS"><speaker>LE MARQUIS, seul.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Monsieur de Bois-Rosé, vous voulez des conseils ! </s>
@@ -1017,7 +1031,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Le Marquis, Bois-Rosé.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Le Marquis, Bois-Rosé.
+</stage>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="1">
 	<s id="1">Ah ! Mon cher Bois-Rosé, que je suis enchanté de vous revoir ! </s>
@@ -1067,7 +1082,8 @@
 	<s id="4">Son nom seul me rend, toute ma fureur.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE MARQUIS"><speaker>LE MARQUIS, à part.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Bien, fort bien : mon ami, appuyez.</s>
 </p>
@@ -1300,7 +1316,8 @@
 	<s id="1">Écoutez, il y a ici un Seigneur qui voyages incognito, et que le Roi envoie secrètement pour épier la conduite de ses Ministres, s'informer de leurs injustices, écouter les plaintes du Peuple, et lui en rendre compte.</s>
 </p>
 </sp>
-<sp stage="quick" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, vivement.</speaker>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="quick">, vivement.
+</stage>
 <p id="47">
 	<s id="1">Où est-il ? </s>
 	<s id="2">Il faut que je le voie ! </s>
@@ -1320,7 +1337,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="11"><head>SCÈNE XI.</head>
-<sp stage="alone" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, seul.</speaker>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="alone">, seul.
+</stage>
 <p id="1">
 	<s id="1">Enfin je vais être vengé... </s>
 	<s id="2">Je les verrat pâlir à mon retour ces subalternes qui triomphaient à mon départ, et qui s'applaudissaient de ma chute... </s>
@@ -1330,8 +1348,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Monsieur de Rosny, Bois-Rosé.</head>
-<sp stage="aparte" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, à part.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Monsieur de Rosny, Bois-Rosé.
+</stage>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="1">
 	<s id="1">Il semble plongé dans des réflexions profondes ! </s>
 	<s id="2">Comment l'aborder ! </s>
@@ -1350,7 +1370,8 @@
 	<s id="1">Que souhaitez-vous ?</s>
 </p>
 </sp>
-<sp stage="embarrassed" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, avec embarras.</speaker>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="embarrassed">, avec embarras.
+</stage>
 <p id="4">
 	<s id="1">Vous entretenir de mes malheurs.</s>
 </p>
@@ -1382,7 +1403,8 @@
 	<s id="2">Convenez qu'il n'en est point de plus injuste que Monsieur de Rosny.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="10">
 	<s id="1">Que veut dire ceci ? </s>
 	<s id="2">M'insulter en face !...</s>
@@ -1392,7 +1414,8 @@
 	<s id="1">Vous ignorez sans doute à qui vous parlez ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, à part.</speaker>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="12">
 	<s id="1">Comme ces courtisans savent dissimuler !</s>
 </p>
@@ -1401,7 +1424,8 @@
 	<s id="1">Non, Mondieur ; je sais que je parle à un homme qui a été, ainsi que moi, la victime de l'humeur vindicative de Monsieur de Rosny.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="14">
 	<s id="1">Il ne me connaît pas, laissons-le dans son erreur. </s>
 	<s id="2">Ces sortes de méprises m'ont été plus d'une fois utiles, ainsi qu'à mon cher Maître ; et l'on nous a donné quelquefois à l'un et à l'autre, dans de pareilles aventures, des leçons très utiles.</s>
@@ -1436,7 +1460,8 @@
 	<s id="1">Je suis Bois-Rosé.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="18">
 	<s id="1">Vous, à qui l'on vient d'ôter le Gouvernement de Fécamp ?</s>
 </p>
@@ -1448,7 +1473,8 @@
 	<s id="3">N'est-il pas de votre intérêt, du mien, de celui de l'État, de nous réunir tous deux contre un homme dont le pouvoir s'accroît chaque jour ; qui, chaque jour, abuse de la confiance du Roi, pour servir ses passions ; qui repousse loin du trône tout ce qui n'est pas sa créature ; qui excite à la vengeance un Prince clément et généreux ?...</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="20">
 	<s id="1">Vraiment, si ce portrait est vrai, je suis un homme abominable.</s>
 </p>
@@ -1458,7 +1484,8 @@
 	<s id="1">Contre un favori qui donne au Roi ses préjugés, lui peint ses plus fidèles serviteurs avec des couleurs odieuses, dispose des places au gré de ses caprices, enrichit ses flatteurs de la dépouille des gens de bien, et qui, du meilleur des Rois, fera peut-être un Roi injuste comme son ministre ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="22">
 	<s id="1">Ma foi, je ne crois pas qu'on en ait dit davantage du Cardinal Batue.</s>
 </p>
@@ -1468,7 +1495,8 @@
 	<s id="1">Préserve-nous de ce malheur, grand Dieu ; conserve à Henri son équité, sa vertu, sa gloire, l'amour de ses sujets, et hâte la chute du favori dont les perfides conseils corrompraient un Prince qui, sans lui, serait ton image sur la terre !</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="24">
 	<s id="1">Ce Catholique n'est pas fort charitable dans ses prières.</s>
 </p>
@@ -1506,7 +1534,8 @@
 	<s id="8">Le jour de son exil ne serait-il pas un jour de fête pour vous ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="30">
 	<s id="1">Cet homme est vindicatif : voyons s'il est lâche dans sa vengeance.</s>
 </p>
@@ -1564,7 +1593,8 @@
 	<s id="1">Oui, Monsieur, je les ai.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="39">
 	<s id="1">Aurais-je été trompé ?</s>
 </p>
@@ -1585,7 +1615,8 @@
 	<s id="1">Si vous en doutez, allez à Fécamp ; vous verrez le vaisseau dans le port, et mes prisonniers enchaînés dans la Citadelle.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="43">
 	<s id="1">Allons, Rosny, tu croyais punir Bois-Rosé de sa perfidie, et c'est lui qui te punit de ton erreur.</s>
 </p>
@@ -1607,7 +1638,8 @@
 	<s id="9">Oui, Monsieur, si Monsieur de Rosny savait ce qui se passe dans mon coeur, s'il savait combien j'aime mon Roi, il en mourrait de dépit.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY, à part.</speaker>
+<sp who="MONSIEUR DE ROSNY"><speaker>MONSIEUR DE ROSNY</speaker><stage type="aparte">, à part.
+</stage>
 <p id="46">
 	<s id="1">Il aime Henri IV, je lui pardonne de me haïr.</s>
 </p>
@@ -1666,7 +1698,8 @@
 	<s id="2">Oui ... je vous le dis , ... mon cher ; Bois-Rosé, ce sera un triomphe pour moi.</s>
 </p>
 </sp>
-<sp stage="aparte" who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ, à part.</speaker>
+<sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="56">
 	<s id="1">Mon ami ! </s>
 	<s id="2">Mon cher Bois-Rosé ! </s>
@@ -1674,7 +1707,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Monsieur de Rosny, Bois-Rosé, Le Marquis.</head>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Monsieur de Rosny, Bois-Rosé, Le Marquis.
+</stage>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 <p id="1">
 	<s id="1">Je me suis chargé de vous dire que votre voiture est prête ; j'ai moi-même aiguillonné la lenteur des ouvriers. </s>
@@ -1714,7 +1748,8 @@
 <stage type="exit">Le Marquis s'en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCENE XIV. Monsieur de Rosny, Bois-Rosé.</head>
+<div2 type="scene" n="14"><head>SCENE XIV.</head><stage> Monsieur de Rosny, Bois-Rosé.
+</stage>
 <sp who="BOIS-ROSÉ"><speaker>BOIS-ROSÉ.</speaker>
 <p id="1">
 	<s id="1">Non, il ne s'en ira pas ainsi ; il faut que ce fer...</s>

@@ -45,7 +45,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La Marquis, La Chevalier.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> La Marquis, La Chevalier.
+</stage>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 <p id="1">
 	<s id="1">Entrons ici, en attendant la Comtesse.</s>
@@ -470,7 +471,8 @@
 	<s id="1">Voilà ton affaire.</s>
 </p>
 </sp>
-<sp stage="read" who="LE CHEVALIER"><speaker>LE CHEVALIER, lisant.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="read">, lisant.
+</stage>
 <p id="79">
 	<s id="1">« Vous avez bien fait, Monsieur, de ne pas venir souper chez moi avant-hier, nous aurions été seuls ; venez demain, je ferai ce que je pourrai pour avoir du monde ; mais je ne vous en réponds pas ; cette incertitude vous fera-t-elle peur ? </s>
 	<s id="2">Adieu, je vous attends , je le veux.» </s>
@@ -504,7 +506,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Marquis, Le Chevalier, Dupré.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Marquis, Le Chevalier, Dupré.
+</stage>
 <sp who="DUPRÉ"><speaker>DUPRÉ.</speaker>
 <p id="1">
 	<s id="1">Monsieur_le_Marquis, Madame_la_Comtesse va passer, ici tout à l'heure.</s>
@@ -545,7 +548,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. La Comtesse, Le Chevalier.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> La Comtesse, Le Chevalier.
+</stage>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 <p id="1">
 	<s id="1">Chevalier, j'ai été bien longtemps, n'est-ce pas ? </s>
@@ -584,7 +588,8 @@
 	<s id="2">Asseyez-vous donc.</s>
 </p>
 </sp>
-<sp stage="sit" who="LE CHEVALIER"><speaker>LE CHEVALIER, s'asseyant.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="sit">, s'asseyant.
+</stage>
 <p id="7">
 	<s id="1">Je vous jure que je n'ai rien du tout.</s>
 </p>
@@ -604,7 +609,8 @@
 	<s id="1">Je veux savoir ce que c'est.</s>
 </p>
 </sp>
-<sp stage="embarrassed" who="LE CHEVALIER"><speaker>LE CHEVALIER, embarrassé.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="embarrassed">, embarrassé.
+</stage>
 <p id="11">
 	<s id="1">C'est... que... je me suis chargé de faire un couplet, et cela me tracasse.</s>
 </p>
@@ -696,7 +702,8 @@
 	<s id="1">Tenez, je ne sais ce que vous avez, mais je ne vous reconnais pas.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE CHEVALIER"><speaker>LE CHEVALIER, à part.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="29">
 	<s id="1">Ah, ni moi non plus.</s>
 </p>
@@ -706,7 +713,8 @@
 	<s id="1">Vous ne m'avez jamais menti, et je suis tentée de croire, d'après votre embarras...</s>
 </p>	
 </sp>
-<sp stage="happy" who="LE CHEVALIER"><speaker>LE CHEVALIER, affectant un air gai.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="happy">, affectant un air gai.
+</stage>
 <p id="31">
 	<s id="1">Hé bien , voyons, que croyez-vous ?</s>
 </p>
@@ -816,7 +824,8 @@
 	<s id="1">Avec vous, je ne connais que ceux de l'absence ; car je compte sur vous comme sur moi-même.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE CHEVALIER"><speaker>LE CHEVALIER, à part.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="51">
 	<s id="1">Le Marquis a raison.</s>
 </p>
@@ -867,7 +876,8 @@
 	<s id="1">Non ; parce que vous pourriez croire...</s>
 </p>
 </sp>
-<sp stage="get" who="LA COMTESSE"><speaker>LA COMTESSE, arrachant le billet des mains du Chevalier.</speaker>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="get">, arrachant le billet des mains du Chevalier.
+</stage>
 <note type="L">Billet : se dit aussi des poulets qu'on envoie à des maîtresses. Billet doux, billet galant, billet tendre. [F]</note>
 <p id="61">
 	<s id="1">C'est un billet ?</s>
@@ -883,18 +893,21 @@
 	<s id="1">Vous avez l'air inquiet ?</s>
 </p>
 </sp>
-<sp stage="stress" who="LE CHEVALIER"><speaker>LE CHEVALIER, voulant se rassurer.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="stress">, voulant se rassurer.
+</stage>
 <p id="64">
 	<s id="1">Moi ?... </s>
 	<s id="2">Ah, point du tout.</s>
 </p>
 </sp>
-<sp stage="read" who="LA COMTESSE"><speaker>LA COMTESSE, lisant.</speaker>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="read">, lisant.
+</stage>
 <p id="65">
 	<s id="1">Voyons.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE CHEVALIER"><speaker>LE CHEVALIER, à part.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="aparte">, à part.
+</stage>
 <p id="66">
 	<s id="1">Le Marquis me perd.</s>
 </p>
@@ -919,7 +932,8 @@
 	<s id="1">Il est vrai.</s>
 </p>
 </sp>
-<sp stage="stress" who="LA COMTESSE"><speaker>LA COMTESSE, émue.</speaker>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="stress">, émue.
+</stage>
 <p id="71">
 	<s id="1">Vous êtes sur ce ton-là avec elle ?</s>
 </p>
@@ -939,7 +953,8 @@
 	<s id="1">Je ne crois pas que vous me le permettiez.</s>
 </p>
 </sp>
-<sp stage="stress/quiet" who="LA COMTESSE"><speaker>LA COMTESSE, sérieusement, affectant l'air tranquille.</speaker>
+<sp who="LA COMTESSE"><speaker>LA COMTESSE</speaker><stage type="stress/quiet">, sérieusement, affectant l'air tranquille.
+</stage>
 <p id="75">
 	<s id="1">Pardonnnez-moi, parce que demain je ne vous verrai pas de la journée, et je suis bien aise que vous vous amusiez quelquefois quand vous ne me voyez pas.</s>
 </p>
@@ -955,7 +970,8 @@
 	<s id="2">Je ne suis pas jalouse.</s>
 </p>
 </sp>
-<sp stage="anxious" who="LE CHEVALIER"><speaker>LE CHEVALIER, très inquiet.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="anxious">, très inquiet.
+</stage>
 <p id="78">
 	<s id="1">Je le sais bien.</s>
 </p>
@@ -1038,7 +1054,8 @@
 	<s id="1">Comment, il faut que je fois jalouse absolument pour vous calmer, que je vous querelle ?</s>
 </p>
 </sp>
-<sp stage="stress/sigh" who="LE CHEVALIER"><speaker>LE CHEVALIER, agité et soupirant.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="stress/sigh">, agité et soupirant.
+</stage>
 <p id="94">
 	<s id="1">Ah !</s>
 </p>
@@ -1143,7 +1160,8 @@
 	<s id="1">Je conçois que cette crainte avait pu vous retenir ; mais vous n'avez pas eu celle de me voir souffrir par cette épreuve, ce spectacle vous aurait sans doute enchanté !</s>
 </p>
 </sp>
-<sp stage="confuse" who="LE CHEVALIER"><speaker>LE CHEVALIER, avec confusion.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="confuse">, avec confusion.
+</stage>
 <p id="114">
 	<s id="1">Ô Ciel ! </s>
 	<s id="2">Que dites-vous ?</s>
@@ -1171,8 +1189,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Marquis, Le Chevalier.</head>
-<sp stage="stop" who="LE-MARQUIS"><speaker>LE MARQUIS, arrêtant le Chevalier.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Le Marquis, Le Chevalier.
+</stage>
+<sp who="LE-MARQUIS"><speaker>LE MARQUIS</speaker><stage type="stop">, arrêtant le Chevalier.
+</stage>
 <p id="1">
 	<s id="1">Hé bien, hé bien, que dis-tu donc là ?</s>
 </p>
@@ -1260,12 +1280,14 @@
 	<s id="1">Laisse passer le premier moment ; si elle t'aime véritablement, l'amour lui parlera en ta faveur, et si elle ne te pardonne pas, elle ne t'aurait pas aimé encore longtemps.</s>
 </p>
 </sp>
-<sp stage="away" who="LE CHEVALIER"><speaker>LE CHEVALIER, s'en allant.</speaker>
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER</speaker><stage type="away">, s'en allant.
+</stage>
 <p id="18">
 	<s id="1">Non, je ne vous écoute plus.</s>
 </p>
 </sp>
-<sp stage="together" who="LE-MARQUIS"><speaker>LE MARQUIS, le suivant.</speaker>
+<sp who="LE-MARQUIS"><speaker>LE MARQUIS</speaker><stage type="together">, le suivant.
+</stage>
 <p id="19">
 	<s id="1">Dans quelque temps, je suis bien sûr que tu penseras comme moi.</s>
 </p>

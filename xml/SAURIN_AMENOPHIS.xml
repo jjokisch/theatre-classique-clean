@@ -1646,7 +1646,8 @@
 	<l id="883">Des soupçons du public confirmerait l'erreur.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
-<sp stage="alone" who="ARTHÉSIS"><speaker>ARTHÉSIS? seule.</speaker>
+<sp who="ARTHÉSIS"><speaker>ARTHÉSIS</speaker><stage type="alone">, seule.
+	</stage>
 	<l id="884">Dieux ! Vous n'aviez frappé jusqu'ici que mon coeur ;</l>
 	<l id="885">On attaque aujourd'hui jusqu'à ma gloire même?</l>
 	<l id="886">Mais de quoi m'occupai-je en ce péril extrême ?</l>
@@ -2358,7 +2359,8 @@
 	<l id="1291">Et dans ce moment même une fidèle main,</l>
 	<l id="1292">Ramesses plonge au Prince un poignard dans le sein.</l>
 </sp>
-<sp stage="aparte" who="NEPHTÉ"><speaker>NEPHTÉ à part.</speaker>
+<sp who="NEPHTÉ"><speaker>NEPHTÉ</speaker><stage type="aparte"> à part.
+	</stage>
 	<l id="1293">Ramesses, a-t-il dit ? Dieux, serais-je vengée ?</l>
 </sp>
 <sp who="ARTHÉSIS"><speaker>ARTHÉSIS</speaker><stage type="aparte">, à part.

@@ -55,7 +55,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Antiochus, Tigrane.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Antiochus, Tigrane.
+</stage>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="1">En vain à cet appas vous voulez que je cède,</l>
 	<l id="2">C'est redoubler mon mal que m'offrir ce remède,</l>
@@ -266,7 +267,8 @@
 	<l id="175">Fuyons, ce seul moyen m'épargne le souci...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Stratonice, Antiochus, Phénice.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Stratonice, Antiochus, Phénice.
+</stage>
 <sp who="STRATONICE"><speaker>STRATONICE.</speaker>
 	<l id="176">Quoi, Prince, c'est donc moi qui vous chasse d'ici ?</l>
 </sp>
@@ -369,7 +371,8 @@
 	<l id="240">Penser, fuir, et me taire, est tout ce que je puis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Stratonice, Phénice.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Stratonice, Phénice.
+</stage>
 <sp who="PHÉNICE"><speaker>PHÉNICE.</speaker>
 	<l id="241">Ou j'ai peu de lumière, ou le Prince, Madame,</l>
 	<l id="242">Cherche à cacher un mal dont la source est dans l'âme.</l>
@@ -480,7 +483,8 @@
 	<l id="328">Me laissât deviner ce qu'il ne dirait pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Seleucus, Stratonice, Phénice, Suite.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Seleucus, Stratonice, Phénice, Suite.
+</stage>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
 	<l id="329">Madame, tout est prêt, et la Syrie en peine</l>
 	<l id="330">De rendre promptement son hommage à sa Reine,</l>
@@ -555,7 +559,8 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Arsinoé, Barsine.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Arsinoé, Barsine.
+</stage>
 <sp who="BARSINE"><speaker>BARSINE.</speaker>
 	<l id="389">Quoi, lorsque sa langueur va jusques à l'extrême,</l>
 	<l id="390">Le trouble qui la suit fait connaître qu'il aime ?</l>
@@ -672,7 +677,8 @@
 	<l id="469">Pour le contraindre moins, Barsine, éloigne-toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Antiochus, Arsinoé.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Antiochus, Arsinoé.
+</stage>
 <sp who="ARSINOÉ"><speaker>ARSINOÉ.</speaker>
 	<l id="470">Seigneur, est-il possible, et pourra-t-on le croire,</l>
 	<l id="471">Que vous même ayez mis obstacle à votre gloire,</l>
@@ -746,7 +752,8 @@
 	<l id="513">Dites-moi d'un coup d'oeil ce que vous en pensez,</l>
 	<l id="514" syll="9" part="i">Les traits en sont hardis, et la main...</l>
 </sp>
-<sp who="ANTIOCHUS"><speaker>ANTIOCHUS l'empêchant d'ouvrir la boëte.</speaker>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker><stage> l'empêchant d'ouvrir la boëte.
+	</stage>
 	<l id="514" syll="3" part="f">Non, Madame,</l>
 	<l id="515">Déjà la rêverie occupe trop mon âme,</l>
 	<l id="516">Et du moins devant vous c'est à moi d'éviter</l>
@@ -760,7 +767,8 @@
 	<l id="521">La Reine qui paraît m'oblige à vous quitter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Stratonice, Antiochus.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Stratonice, Antiochus.
+</stage>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="522">Et bien, Madame, enfin le Roi me fait-il grâce ?</l>
 	<l id="523">Consent-il au destin dont la rigueur me chasse,</l>
@@ -1008,7 +1016,8 @@
 	<l id="678">Comme il peut tout pour vous, vous lui pouvez tout dire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Antiochus, Tigrane.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Antiochus, Tigrane.
+</stage>
 <sp who="TIGRANE"><speaker>TIGRANE.</speaker>
 	<l id="679">Pour adoucir les maux dont votre coeur soupire,</l>
 	<l id="680">Seigneur, se pourrait-il que mon zèle et mes soins...</l>
@@ -1040,7 +1049,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Seleucus, Antiochus, Suite.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Seleucus, Antiochus, Suite.
+</stage>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
 	<l id="694">Prince, n'espérez point que jamais je consente</l>
 	<l id="695">À ce cruel départ qui flatte votre attente.</l>
@@ -1062,7 +1072,8 @@
 	<l id="707">Vous me l'épargneriez à m'en dire la cause.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Seleucus, Stratonice, Antiochus, Phenice, Suite.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Seleucus, Stratonice, Antiochus, Phenice, Suite.
+</stage>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
 	<l id="708">Qu'avez-vous fait pour moi ? Vous avez vu mon fils,</l>
 	<l id="709">Madame, et de vos soins je me suis tout promis,</l>
@@ -1148,7 +1159,8 @@
 	<l id="759">Ce Portrait vous dira ce qu'il n'ose vous dire,</l>
 	<l id="760">Seigneur, voyez pour qui son coeur est prévenu.</l>
 </sp>
-<sp stage="watch" who="ANTIOCHUS"><speaker>ANTIOCHUS pendant que Seleucus regarde le Portrait.</speaker>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker><stage type="watch"> pendant que Seleucus regarde le Portrait.
+	</stage>
 	<l id="761">Enfin, l'on sait mon crime, et tout vous est connu,</l>
 	<l id="762">L'Astre qui m'en a fait un destin nécessaire</l>
 	<l id="763">Dérobe à mon respect la gloire de me taire,</l>
@@ -1192,8 +1204,10 @@
 	<l id="789" syll="9" part="f">Le voici, laisse parler ton roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Seleucus, Antiochus, Stratonice, Tigrane, Phenice, Suite.</head>
-<sp who="SELEUCUS"><speaker>SELEUCUS, à Tigrane.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Seleucus, Antiochus, Stratonice, Tigrane, Phenice, Suite.
+</stage>
+<sp who="SELEUCUS"><speaker>SELEUCUS</speaker><stage>, à Tigrane.
+	</stage>
 	<l id="790">Pour arracher ton Prince au tourment qui l'accable,</l>
 	<l id="791">D'un grand et rare effort sens-tu ton coeur capable ?</l>
 </sp>
@@ -1236,7 +1250,8 @@
 	<l id="813">Va voir Arsinoé, je te rends son Portrait,</l>
 	<l id="814">D'un gage si charmant la garde est toujours chère.</l>
 </sp>
-<sp stage="watch" who="ANTIOCHUS"><speaker>ANTIOCHUS, regardant le Portrait.</speaker>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker><stage type="watch">, regardant le Portrait.
+	</stage>
 	<l id="815">Confus, hors de moi-même, et contraint de me taire...</l>
 </sp>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
@@ -1257,7 +1272,8 @@
 	<l id="825">Je vous y servirai comme je l'ai promis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Antiochus, Tigrane.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Antiochus, Tigrane.
+</stage>
 <sp who="TIGRANE"><speaker>TIGRANE.</speaker>
 	<l id="826">Je ne demande plus d'où partait le silence</l>
 	<l id="827">Qui de votre secret m'ôtait la connaissance,</l>
@@ -1379,7 +1395,8 @@
 	<l id="914">Pour l'espérer jamais ma disgrâce est trop forte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antiochus, Arsinoé, Tigrane, Barsine.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Antiochus, Arsinoé, Tigrane, Barsine.
+</stage>
 <sp who="ANTIOCHUS"><speaker>ANTIOCHUS.</speaker>
 	<l id="915">Madame, retenez un amant qui s'emporte,</l>
 	<l id="916">Sa mort sera l'effet d'un ordre qu'il reçoit,</l>
@@ -1397,7 +1414,8 @@
 	<l id="924">Et que pressé d'ennuis, la langueur qui les suit</l>
 	<l id="925">Est l'effet de l'état où vous l'avez réduit.</l>
 </sp>
-<sp stage="toward" who="ARSINOÉ"><speaker>ARSINOÉ, à Antiochus.</speaker>
+<sp who="ARSINOÉ"><speaker>ARSINOÉ</speaker><stage type="toward">, à Antiochus.
+	</stage>
 	<l id="926">Sous quelque dur soupçon que Tigrane languisse,</l>
 	<l id="927">Je me connais, Seigneur, et je vous rends justice,</l>
 	<l id="928">Ce qui le fait trembler foi ;</l>
@@ -1462,7 +1480,8 @@
 	<l id="961">Les effets parleront si je n'ose parler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Arsinoé, Tigrane, Barsine.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Arsinoé, Tigrane, Barsine.
+</stage>
 <sp who="TIGRANE"><speaker>TIGRANE.</speaker>
 	<l id="962" syll="6" part="i">Madame, c'est donc là...</l>
 </sp>
@@ -1577,7 +1596,8 @@
 	<l id="1035">Dures extrémités où l'âme partagée...</l>
 </sp>
 </div2>
- <div2 type="scene"><head>SCÈNE II. Stratonice, Phénice.</head>
+ <div2 type="scene"><head>SCÈNE II.</head><stage> Stratonice, Phénice.
+</stage>
 <sp who="PHÉNICE"><speaker>PHÉNICE.</speaker>
 	<l id="1036">Madame, savez-vous que vous êtes vengée ?</l>
 	<l id="1037">En vain Antiochus se flattait d'être heureux,</l>
@@ -1679,7 +1699,8 @@
 	<l id="1114">Va savoir, s'il se peut, les sentiments du Roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Stratonice, Tigrane.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Stratonice, Tigrane.
+</stage>
 <sp who="STRATONICE"><speaker>STRATONICE.</speaker>
 	<l id="1115">Un revers trop cruel traverse votre flamme</l>
 	<l id="1116">Pour pouvoir m'étonner du trouble de vôtre âme ;</l>
@@ -1760,7 +1781,8 @@
 	<l id="1174">N'immole dans son coeur l'amour à l'amitié.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Stratonice, Antiochus.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Stratonice, Antiochus.
+</stage>
 <sp who="STRATONICE"><speaker>STRATONICE.</speaker>
 	<l id="1175">Prince, enfin il est temps que ce chagrin s'efface,</l>
 	<l id="1176">Tigrane sans murmure accepte sa disgrâce,</l>
@@ -1971,7 +1993,8 @@
 	<l id="1301">Et qu'un moment encor... Elle fuit, et je vois...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antiochus, Arsinoé.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Antiochus, Arsinoé.
+</stage>
 <sp who="ARSINOÉ"><speaker>ARSINOÉ.</speaker>
 	<l id="1302">Seigneur, le Roi me mande, et vous savez pourquoi.</l>
 	<l id="1303">Avant que lui parler j'ai crû devoir m'instruire</l>
@@ -2062,7 +2085,8 @@
 </div2>
 </div1>
 <div1 type="acte"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Seleucus, Arsinoé.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Seleucus, Arsinoé.
+</stage>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
 	<l id="1359">Princesse, enfin c'est trop vous en vouloir défendre,</l>
 	<l id="1360">Il est temps de céder, il est temps de vous rendre,</l>
@@ -2289,7 +2313,8 @@
 	<l id="1534">Ne se pourrait-il point qu'il n'eût jamais aimé ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Seleucus, Antiochus.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Seleucus, Antiochus.
+</stage>
 <sp who="SELEUCUS"><speaker>SELEUCUS.</speaker>
 	<l id="1535">Prince, ôtez-moi d'un doute, il ne faut plus rien taire,</l>
 	<l id="1536">Si ce que l'on m'a dit est un rapport sincère,</l>
@@ -2453,7 +2478,8 @@
 	<l id="1628">Vous savez mieux après ce que vous pourrez faire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Seleucus, Stratonice, Antiochus, Tigrane, Phénice, suite.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Seleucus, Stratonice, Antiochus, Tigrane, Phénice, suite.
+</stage>
 <sp who="STRATONICE"><speaker>STRATONICE.</speaker>
 	<l id="1629">Seigneur, Tigrane a crû devoir encor par moi</l>
 	<l id="1630">Vous donner aujourd'hui des preuves de sa foi,</l>
@@ -2527,7 +2553,8 @@
 	<l id="1668" syll="6" part="i">Je la laisse à ton choix.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Seleucus, Stratonice, Antiochus, Arsinoé, Tigrane, Phénice, Barsine, Suite.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Seleucus, Stratonice, Antiochus, Arsinoé, Tigrane, Phénice, Barsine, Suite.
+</stage>
 <sp who="ARSINOÉ"><speaker>ARSINOÉ.</speaker>
 	<l id="1668" syll="6" part="f">Elle est à lui, Seigneur,</l>
 	<l id="1669">S'il peut pour l'accepter faire suivre le coeur,</l>
@@ -2549,7 +2576,8 @@
 	<l id="1677">Seigneur, c'est de Tigrane assurer le trépas,</l>
 	<l id="1678">Des jours qu'il m'a sauvez est-la récompense ?</l>
 </sp>
-<sp stage="give" who="ARSINOÉ"><speaker>ARSINOÉ, donnant au Roi le Portrait de Stratonice.</speaker>
+<sp who="ARSINOÉ"><speaker>ARSINOÉ</speaker><stage type="give">, donnant au Roi le Portrait de Stratonice.
+	</stage>
 	<l id="1679">Ce Portrait confondra son obstiné silence,</l>
 	<l id="1680">L'ayant trouvé, Seigneur, sans qu'il en ait su rien.</l>
  

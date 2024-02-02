@@ -58,7 +58,8 @@
 </front>			
 <body>
 <div1 type="acte" n="1"><head>LE DEUIL.</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Timante, Crispin, en grand deuil.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Timante, Crispin, en grand deuil.
+</stage>
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
 	<l id="1">Par ma foi, nous voilà plaisamment équipés,</l>
 	<l id="2">Noirs du bas jusqu'en haut, et des mieux encrêpés.</l>
@@ -76,7 +77,8 @@
 	<l id="9">Pas un neveu, pas même un arrière-cousin,</l>
 	<l id="10" syll="9" part="i">Et le grand deuil vous plaît à porter ?</l>
 </sp>
-<sp stage="laugh" who="TIMANTE"><speaker>TIMANTE, riant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="laugh">, riant.
+	</stage>
 	<l id="10" syll="3" part="f">Oui, Crispin.</l>
 </sp>
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
@@ -244,50 +246,60 @@
 	<l id="90">De ne lui point récrire ; outre cela, Crispin,</l>
 	<l id="91" syll="9" part="i">J'ai su... Mais taisons-nous, quelqu'un vient.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Timante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="91" syll="3" part="f">C'est Perrette.</l>
 	<l id="92" syll="6" part="i">Et Madame_Babet.</l>
 <stage type="low">Bas.</stage>
 	<l id="92" syll="6" part="f">La friponne est bien faite,</l>
 	<l id="93">Monsieur, et vaudrait bien, soit dit, sans faire tort...</l>
 </sp>
-<sp stage="low/toward" who="TIMANTE"><speaker>TIMANTE, bas, à Crispin.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="low/toward">, bas, à Crispin.
+	</stage>
 	<l id="94">Songe à l'apoplexie, et que mon père est mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Perrette, Babet, Timante, Crispin.</head>
-<sp stage="toward/watch" who="PERRETTE"><speaker>PERRETTE, à Babet, regardant Timante.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Perrette, Babet, Timante, Crispin.
+</stage>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward/watch">, à Babet, regardant Timante.
+	</stage>
 	<l id="95">Je ne me trompe point, c'est notre jeune Maître.</l>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
 	<l id="96">Dans un pareil habit, j'ai pu le méconnaître.</l>
 	<l id="97">Quoi ! Timante, c'est vous ? D'où vient donc ce grand deuil ?</l>
 </sp>
-<sp stage="cry" who="TIMANTE"><speaker>TIMANTE, pleurant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="98" syll="3" part="i">Ah, Babet !</l>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
 	<l id="98" syll="2" part="m">Crispin ?</l>
 </sp>
-<sp stage="cry" who="CRISPIN"><speaker>CRISPIN, pleurant.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="98" syll="1" part="m">Ah !</l>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
 	<l id="98" syll="6" part="f">Tous deux la larme à l'oeil.</l>
 </sp>
-<sp stage="cry" who="TIMANTE"><speaker>TIMANTE, pleurant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="99" syll="3" part="i">Quel malheur !</l>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Crispin.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Crispin.
+	</stage>
 	<l id="99" syll="9" part="f">Apprends-nous quelle perte il a faite.</l>
 </sp>
-<sp stage="cry/toward" who="CRISPIN"><speaker>CRISPIN, pleurant, à Perrette.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="cry/toward">, pleurant, à Perrette.
+	</stage>
 	<l id="100" syll="2" part="i">Son père...</l>
 </sp>
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 	<l id="100" syll="4" part="m">Eh bien ! son père ?</l>
 </sp>
-<sp stage="cry" who="CRISPIN"><speaker>CRISPIN, pleurant.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="100" syll="6" part="f">Il est gîté, Perrette.</l>
 	<l id="101">Le Pauvre homme ! Il m'aimait, comme si.... Mais, enfin,</l>
 	<l id="102" syll="6" part="i">Dieu veuille avoir son âme.</l>
@@ -299,7 +311,8 @@
 	<l id="102" syll="3" part="f">Quoi ! Crispin,</l>
 	<l id="103" syll="4" part="i">Pirante est mort !</l>
 </sp>
-<sp stage="cry/toward" who="CRISPIN"><speaker>CRISPIN, pleurant, à Babet.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="cry/toward">, pleurant, à Babet.
+	</stage>
 	<l id="103" syll="8" part="f">Malgré tout ce qu'on a pu faire,</l>
 	<l id="104" syll="3" part="i">Il est... Ah !</l>
 </sp>
@@ -309,17 +322,20 @@
 	<l id="105" syll="3" part="i">Soutiens-moi.</l>
 <stage type="help">Elle s'appuie sur elle.</stage>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Babet.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Babet.
+	</stage>
 	<l id="105" syll="7" part="m">Ce malheur est touchant ; mais...</l>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
 	<l id="105" syll="2" part="f">Hélas !</l>
 </sp>
-<sp stage="low/toward" who="CRISPIN"><speaker>CRISPIN, bas, à Timante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="low/toward">, bas, à Timante.
+	</stage>
 	<l id="106">Que ne la prenez-vous, Monsieur, entre vos bras ?</l>
 	<l id="107" syll="8" part="i">Ses ennuis passeraient plus tôt.</l>
 </sp>
-<sp stage="low/toward" who="TIMANTE"><speaker>TIMANTE, bas, à Crispin.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="low/toward">, bas, à Crispin.
+	</stage>
 	<l id="107" syll="4" part="f">Ils m'embarrassent.</l>
 </sp>
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
@@ -329,17 +345,21 @@
 	<l id="109">Là, revenez à vous ; puisque le mort est mort,</l>
 	<l id="110">Quel remède, et pourquoi s'en affliger si fort ?</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Babet.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Babet.
+	</stage>
 	<l id="111">Perrette le prend bien : point de mélancolie.</l>
 	<l id="112">Les morts ne vivent plus ; les pleurer, c'est folie.</l>
 </sp>
-<sp stage="cry" who="BABET"><speaker>BABET, en pleurant.</speaker>
+<sp who="BABET"><speaker>BABET</speaker><stage type="cry">, en pleurant.
+	</stage>
 	<l id="113">Il était mon parrain ; et j'aurais peu de coeur...</l>
 </sp>
-<sp stage="cry" who="TIMANTE"><speaker>TIMANTE, larmoyant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="cry">, larmoyant.
+	</stage>
 	<l id="114">Suffit, Babet ; c'est trop partager ma douleur.</l>
 </sp>
-<sp stage="cry" who="BABET"><speaker>BABET, larmoyant.</speaker>
+<sp who="BABET"><speaker>BABET</speaker><stage type="cry">, larmoyant.
+	</stage>
 	<l id="115" syll="3" part="i">Si mes larmes...</l>
 </sp>
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
@@ -358,8 +378,10 @@
 	<l id="119">Je m'en vais le chercher ; consolez-vous ensemble. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Timante, Babet, Crispin.</head>
-<sp stage="laugh" who="TIMANTE"><speaker>TIMANTE, riant.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Timante, Babet, Crispin.
+</stage>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="laugh">, riant.
+	</stage>
 	<l id="120" syll="4" part="i">Hé bien ! Babet ?</l>
 </sp>
 <sp who="BABET"><speaker>BABET.</speaker>
@@ -421,8 +443,10 @@
 	<l id="139">Je vais partir, avant que mon père survienne. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Timante, Crispin.</head>
-<sp stage="show/location" who="CRISPIN"><speaker>CRISPIN, montrant du doigt l'endroit où Babet est rentrée.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Timante, Crispin.
+</stage>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="show/location">, montrant du doigt l'endroit où Babet est rentrée.
+	</stage>
 	<l id="140" syll="3" part="i">Monsieur, hem ?</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
@@ -587,36 +611,46 @@
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="215" syll="3" part="i">Tu crois donc...</l>
 </sp>
-<sp stage="show" who="CRISPIN"><speaker>CRISPIN, montrant Jaquemin.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="show">, montrant Jaquemin.
+	</stage>
 	<l id="215" syll="1" part="m">St.</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="215" syll="8" part="f">J'entends ce que tu veux me dire.</l>
 </sp>
-<sp stage="low/toward" who="CRISPIN"><speaker>CRISPIN, bas à Timante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="low/toward">, bas à Timante.
+	</stage>
 	<l id="216">Songeons à larmoyer ; il n'est plus temps de rire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Jaquemin, Perrette, Timante, Crispin.</head>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Timante.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Jaquemin, Perrette, Timante, Crispin.
+</stage>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="217" syll="6" part="i">Monsieur, que m'apprend-on ?</l>
 </sp>
-<sp stage="cry" who="TIMANTE"><speaker>TIMANTE, pleurant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="217" syll="6" part="f">Ah ! Monsieur Jaquemin...</l>
 </sp>
-<sp stage="cry" who="JAQUEMIN"><speaker>JAQUEMIN, pleurant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="218" syll="6" part="i">Mon pauvre Maître ; ah ! ah !</l>
 </sp>
-<sp stage="cry" who="TIMANTE"><speaker>TIMANTE, pleurant.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="218" syll="1" part="m">Ah !</l>
 </sp>
-<sp stage="cry" who="CRISPIN"><speaker>CRISPIN, pleurant.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="218" syll="2" part="m">Hon, hon.</l>
 </sp>
-<sp stage="cry" who="PERRETTE"><speaker>PERRETTE, pleurant.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="218" syll="3" part="f">Hin, hin, hin.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Timante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="219">Hé ! Monsieur, un esprit de la trempe du vôtre...</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
@@ -636,10 +670,12 @@
 	<l id="231" syll="6" part="i">Je n'y pense point, sans...</l>
 <stage type="steal">Arrachant le mouchoir que Timante tient à ses yeux.</stage>
 </sp>
-<sp stage="cry" who="JAQUEMIN"><speaker>JAQUEMIN, pleurant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="231" syll="6" part="f">Crispin me perce l'âme.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Jaquemin.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="232" syll="3" part="i">Monsieur... ah !</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
@@ -648,7 +684,8 @@
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 	<l id="232" syll="2" part="m">Hin, hin.</l>
 </sp>
-<sp stage="cry" who="JAQUEMIN"><speaker>JAQUEMIN, pleurant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="232" syll="6" part="f">Quand je perdis ma femme,</l>
 	<l id="233" syll="6" part="i">Il m'en souvient encor...</l>
 </sp>
@@ -656,7 +693,8 @@
 	<l id="233" syll="6" part="f">Hé ! Monsieur Jaquemin,</l>
 	<l id="234" syll="10" part="i">Laissez-là votre femme ; elle est bien morte.</l>
 </sp>
-<sp stage="cry" who="JAQUEMIN"><speaker>JAQUEMIN, pleurant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="cry">, pleurant.
+	</stage>
 	<l id="234" syll="2" part="f">Enfin,</l>
 	<l id="235">Il nous faut tous mourir. Je suis vieux ; et peut-être...</l>
 </sp>
@@ -686,10 +724,12 @@
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
 	<l id="245" syll="3" part="m">Dieu le veuille !</l>
 </sp>
-<sp stage="low/toward" who="PERRETTE"><speaker>PERRETTE, bas, à Jaquemin.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="low/toward">, bas, à Jaquemin.
+	</stage>
 	<l id="245" syll="6" part="f">Hé ! Là donc, parlez-lui.</l>
 </sp>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Timante.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="246">Nous avons, tous les deux, un grand sujet d'ennui,</l>
 	<l id="247">Et, tous deux, nous perdons, sans y pouvoir que faire,</l>
 	<l id="248">Moi, Monsieur, un bon Maître, et vous, un brave père ;</l>
@@ -721,13 +761,15 @@
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
 	<l id="260">Il avait la valeur de quatre apoplexies.</l>
 </sp>
-<sp stage="sad" who="JAQUEMIN"><speaker>JAQUEMIN, redoublant sa tristesse.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="sad">, redoublant sa tristesse.
+	</stage>
 	<l id="261" syll="1" part="i">Ah !</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="261" syll="11" part="f">Quel nouveau chagrin vous rend si consterné ?</l>
 </sp>
-<sp stage="desparate" who="JAQUEMIN"><speaker>JAQUEMIN, se désespérant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="desparate">, se désespérant.
+	</stage>
 	<l id="262" syll="2" part="i">Ah Ciel !</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
@@ -770,7 +812,8 @@
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
 	<l id="271" syll="3" part="i">Apparu !</l>
 </sp>
-<sp stage="show" who="CRISPIN"><speaker>CRISPIN, montrant son maître.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="show">, montrant son maître.
+	</stage>
 	<l id="271" syll="3" part="m">Demandez.</l>
 </sp>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
@@ -796,11 +839,13 @@
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="282" syll="2" part="i">Autant.</l>
 </sp>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Timante.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="282" syll="10" part="f">J'ai fait tenir quelque chose de plus,</l>
 	<l id="283">Mais n'importe. Il faut donc, s'il vous plaît, me déduire...</l>
 </sp>
-<sp stage="toward" who="TIMANTE"><speaker>TIMANTE, à Jaquemin.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="284">Il suffit que le mort soit venu m'en instruire,</l>
 	<l id="285" syll="4" part="i">Cela vaut fait.</l>
 </sp>
@@ -815,7 +860,8 @@
 	<l id="288">Le pauvre homme ! Être exprès venu de l'autre monde !</l>
 	<l id="289" syll="3" part="i">Quelle peine !</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Jaquemin.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="289" syll="9" part="f">Pour vous, s'il eût été besoin,</l>
 	<l id="290">Il serait encor bien revenu de plus loin.</l>
 	<l id="291">Possible s'il voyait, s'agissant de finance,</l>
@@ -853,14 +899,17 @@
 	<l id="304" syll="8" part="f">Monsieur, depuis soixante-quatre,</l>
 	<l id="305">C'est misère, et les grains n'ont nulle valeur.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Timante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="306">L'avarice ne peut que vous porter malheur,</l>
 	<l id="307" syll="7" part="i">Il faut que chacun vive, et...</l>
 </sp>
-<sp stage="low/toward" who="JAQUEMIN"><speaker>JAQUEMIN, bas, à Crispin.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="low/toward">, bas, à Crispin.
+	</stage>
 	<l id="307" syll="5" part="f">Parle, et je te donne...</l>
 </sp>
-<sp stage="toward/loud" who="CRISPIN"><speaker>CRISPIN, à Timante, haut.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward/loud">, à Timante, haut.
+	</stage>
 	<l id="308">Monsieur le Receveur ne veut tromper personne :</l>
 	<l id="309">S'il y trouvait son compte, il ne le dirait pas.</l>
 </sp>
@@ -935,7 +984,8 @@
 	<l id="335">Et, dans l'accablement où sa perte me plonge,</l>
 	<l id="336" syll="7" part="i">Je n'y saurais entrer, sans...</l>
 </sp>
-<sp stage="sad" who="JAQUEMIN"><speaker>JAQUEMIN, s'affligeant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="sad">, s'affligeant.
+	</stage>
 	<l id="336" syll="5" part="f">Monsieur, quand j'y songe...</l>
 </sp>
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
@@ -944,22 +994,26 @@
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
 	<l id="337" syll="6" part="f">Oui, sans doute, Crispin.</l>
 </sp>
-<sp stage="show" who="CRISPIN"><speaker>CRISPIN, montrant son Maître.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="show">, montrant son Maître.
+	</stage>
 	<l id="338" syll="6" part="i">Ne pleurez plus. Songez...</l>
 </sp>
-<sp stage="away" who="JAQUEMIN"><speaker>JAQUEMIN, s'en allant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="away">, s'en allant.
+	</stage>
 	<l id="338" syll="6" part="f">J'entends. Oh ! Mathurin !</l>
 	<l id="339">Perrette, promptement qu'il apporte une table.</l>
 <stage type="exit">Perrette rentre.</stage>
 </sp>
-<sp who="CRISPIN"><speaker>CRISPIN, allant après Jaquemin.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage>, allant après Jaquemin.
+	</stage>
 	<l id="340">Monsieur le Receveur, je suis un pauvre diable ;</l>
 	<l id="341">Souvenez-vous de moi, j'ai parlé comme il faut.</l>
 <stage type="toward">À Timante.</stage>
 	<l id="342" syll="6" part="i">Tout va bien, Monsieur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Timante, Jaquemin, Crispin.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Timante, Jaquemin, Crispin.
+</stage>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="342" syll="6" part="f">Oui, délogeons au plutôt,</l>
 	<l id="343">Cours à l'hôtellerie ; et, pour partir sur l'heure,</l>
@@ -972,7 +1026,8 @@
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 	<l id="345" syll="6" part="f">Tu reviendras après. </l>
 </sp>
-<sp who="PERRETTE"><speaker>PERRETTE, à Timante.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage>, à Timante.
+</stage>
 <note type="L">Barbet : Chien à long poil et frisé. [L]</note>
 	<l id="346">Je m'en vais avoir peur de tous les chiens barbets :</l>
 	<l id="347">Je viens d'en voir un là plus grand qu'à l'ordinaire,</l>
@@ -1006,7 +1061,8 @@
 <stage type="exit">Crispin sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Timante, Perrette.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Timante, Perrette.
+</stage>
 <sp who="TIMANTE"><speaker>TIMANTE.</speaker>
 	<l id="355" syll="6" part="i">Babet est donc partie ?</l>
 </sp>
@@ -1025,12 +1081,15 @@
 	<l id="360">Si rempli de bonté, si discret, que je gage... </l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Jaquemin, Perrette, Timante.</head>
-<sp stage="carry" who="JAQUEMIN"><speaker>JAQUEMIN, une bourse à la main, à Timante.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Jaquemin, Perrette, Timante.
+</stage>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="carry">, une bourse à la main, à Timante.
+	</stage>
 	<l id="361">Cette bourse a, Monsieur, de quoi vous contenter.</l>
 	<l id="362" syll="6" part="i">Sept cent Louis... Voyons si...</l>
 </sp>
-<sp stage="toward" who="TIMANTE"><speaker>TIMANTE, à Jaquemin.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="362" syll="6" part="f">Je prends sans compter.</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
@@ -1061,12 +1120,14 @@
 	<l id="373">Mais, Monsieur, je crains bien qu'il revienne céans :</l>
 	<l id="374">Un certain grand barbet que j'ai vu là-dedans...</l>
 </sp>
-<sp stage="write" who="TIMANTE"><speaker>TIMANTE, achevant d'écrire.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="write">, achevant d'écrire.
+</stage>
 <p id="1">
 	<s id="1">« Fait ce... 1673. Timante. »</s>
 </p>
 </sp>
-<sp stage="read/loud" who="JAQUEMIN"><speaker>JAQUEMIN, lit haut.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="read/loud">, lit haut.
+</stage>
 <p id="2">
 	<s id="1">« Je soussigné confesse avoir reçu de Monsieur Jaquemin la somme de six mille six cents livres, qui, jointe à deux mille quatre cents livres qu'il avait payées à feu mon père sans quittance, l'acquitte de l'année échue à Pâques dernier. </s>
 	<s id="2">Plus, j'ai reçu cent Louis d'or, pour le pot-de-vin du nouveau bail, que je m'oblige de lui passer devant les Notaires toutes fois et quantes, aux mêmes clauses et conditions de celui-ci, à la réserve du prix, qui ne sera à l'avenir que de huit mille cinq cents livres. Fait ce... mille six cent soixante et treize.</s>
@@ -1075,7 +1136,8 @@
 	<s id="1">TIMANTE. »</s>
 </p>
 </sp>
-<sp stage="toward" who="TIMANTE"><speaker>TIMANTE, à Jaquemin.</speaker>
+<sp who="TIMANTE"><speaker>TIMANTE</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="375" syll="4" part="i">En est-ce assez ?</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
@@ -1094,7 +1156,8 @@
 <stage type="give">Lui donnant deux pistoles.</stage>
 	<l id="384" syll="1" part="i">Crois...</l>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Timante.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Timante.
+	</stage>
 	<l id="384" syll="8" part="m">Vous aurez, Monsieur, tout pouvoir.</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
@@ -1109,7 +1172,8 @@
 	<l id="387" syll="9" part="i">Il est bon que chacun soit content.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Perrette, Jaquemin.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Perrette, Jaquemin.
+</stage>
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 	<l id="387" syll="3" part="f">Notre maître,</l>
 	<l id="388">Le brave jeune homme ! Ah ! Quand je l'ai vu paraître,</l>
@@ -1196,8 +1260,10 @@
 	<l id="428" syll="3" part="i">La marier ! </l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Perrette, Jaquemin, Pirante.</head>
-<sp stage="watch/pull/escape" who="PERRETTE"><speaker>PERRETTE, apercevant Pirante, et tirant Jaquemin par le bras, voulant fuir.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Perrette, Jaquemin, Pirante.
+</stage>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="watch/pull/escape">, apercevant Pirante, et tirant Jaquemin par le bras, voulant fuir.
+	</stage>
 	<l id="428" syll="9" part="f">Monsieur ! Ah je perds la parole.</l>
 	<l id="429" syll="4" part="i">Miséricorde !</l>
 </sp>
@@ -1209,15 +1275,19 @@
 <stage type="escape">En s'enfuyant.</stage>
 	<l id="430" syll="1" part="i">Ah ! </l>
 </sp>
-<sp stage="back/location" who="JAQUEMIN"><speaker>JAQUEMIN, revenant sur le bord du théâtre.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="back/location">, revenant sur le bord du théâtre.
+	</stage>
 	<l id="430" syll="5" part="m">Que veut-elle dire ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Pirante, Jaquemin.</head>
-<sp stage="touch" who="PIRANTE"><speaker>PIRANTE, frappant sur l'épaule de Jaquemin.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Pirante, Jaquemin.
+</stage>
+<sp who="PIRANTE"><speaker>PIRANTE</speaker><stage type="touch">, frappant sur l'épaule de Jaquemin.
+	</stage>
 	<l id="430" syll="6" part="m">Ho ! Monsieur Jaquemin !</l>
 </sp>
-<sp who="JAQUEMIN"><speaker>JAQUEMIN, s'enfuyant avec précipitation.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage>, s'enfuyant avec précipitation.
+	</stage>
 	<l id="431" syll="2" part="i">À l'aide ! </l>
 </sp>
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
@@ -1228,8 +1298,10 @@
 	<l id="435">L'un d'eux vient à propos. </l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Pirante, Nicodème.</head>
-<sp who="NICODÈME"><speaker>NICODÈME, venant avec une grande fourche de bois sur son épaule, et chantant cette chanson, sur le chant :</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Pirante, Nicodème.
+</stage>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage>, venant avec une grande fourche de bois sur son épaule, et chantant cette chanson, sur le chant :
+	</stage>
 	<l id="436">Une et deux et trois et quatre et cinq et six,</l>
 	<l id="437">Sept et huit et neuf et dix,</l>
 	<l id="438">Onze et douze et treize,</l>
@@ -1251,7 +1323,8 @@
 </lg>
 </poem>
 </sp>
-<sp stage="toward" who="PIRANTE"><speaker>PIRANTE, abordant Nicodème.</speaker>
+<sp who="PIRANTE"><speaker>PIRANTE</speaker><stage type="toward">, abordant Nicodème.
+	</stage>
 	<l id="450">Dieu te gard', Nicodème.</l>
 </sp>
 <sp who="NICODÈME"><speaker>NICODÈME.</speaker>
@@ -1341,13 +1414,15 @@
 	<l id="478">Depuis, je ne dis pas, mais j'allons voir. Parrette ! </l>
 <stage type="knock">Frappant à la porte.</stage>
 </sp>
-<sp stage="location" who="PERRETTE"><speaker>PERRETTE, en dedans.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="location">, en dedans.
+	</stage>
 	<l id="479" syll="2" part="i">Qui frappe ?</l>
 </sp>
 <sp who="NICODÈME"><speaker>NICODÈME.</speaker>
 	<l id="479" syll="5" part="m">Nicodème. Ouvre.</l>
 </sp>
-<sp stage="open" who="PERRETTE"><speaker>PERRETTE, ouvrant la porte, et voyant Pirante, la referme en disant.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="open">, ouvrant la porte, et voyant Pirante, la referme en disant.
+	</stage>
 	<l id="479" syll="1" part="m">Ah ! </l>
 </sp>
 <sp who="NICODÈME"><speaker>NICODÈME.</speaker>
@@ -1365,7 +1440,8 @@
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="482" syll="11" part="f">Le mal du Maître a gagné la servante. </l>
 </sp>
-<sp who="PERRETTE"><speaker>PERRETTE, en dedans.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage>, en dedans.
+	</stage>
 	<l id="483" syll="2" part="i">Qui heurte ?</l>
 </sp>
 <sp who="NICODÈME"><speaker>NICODÈME.</speaker>
@@ -1401,7 +1477,8 @@
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="492" syll="2" part="i">Mais, si...</l>
 </sp>
-<sp stage="threat" who="NICODÈME"><speaker>NICODÈME, lui présentant sa fourche.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage type="threat">, lui présentant sa fourche.
+	</stage>
 	<l id="492" syll="10" part="f">N'approchez pas ; palsangué ! voyez-vous !</l>
 	<l id="493">Je vous enfourcherions par le chignon du cou.</l>
 	<l id="494" syll="2" part="i">Adieu.</l>
@@ -1414,13 +1491,15 @@
 	<l id="495" syll="8" part="f">Oui : vous. N'est-il pas vrai, Perrette,</l>
 	<l id="496" syll="6" part="i">Que tu dis qu'il est mort ?</l>
 </sp>
-<sp stage="location" who="PERRETTE"><speaker>PERRETTE, en dedans.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="location">, en dedans.
+	</stage>
 	<l id="496" syll="6" part="f">Il l'est plus de six fois :</l>
 	<l id="497">Ce n'est que son fantôme à présent que tu vois ;</l>
 	<l id="498">Garde qu'il ne t'approche, et qu'il ne te secoue.</l>
 	<l id="499" syll="6" part="i">Le moindre de ses doigts... </l>
 </sp>
-<sp stage="theat" who="NICODÈME"><speaker>NICODÈME, lui montrant sa fourche.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage type="theat">, lui montrant sa fourche.
+	</stage>
 	<l id="499" syll="6" part="f">Ah ! Morgué ! Qu'il s'y joue ;</l>
 	<l id="500" syll="3" part="i">Il varra...</l>
 </sp>
@@ -1471,7 +1550,8 @@
 	<l id="517">Pourquoi non ? Quand on a du coeur on ne craint rien.</l>
 	<l id="518" syll="2" part="i">Parrette !</l>
 </sp>
-<sp stage="location" who="PERRETTE"><speaker>PERRETTE, en dedans.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="location">, en dedans.
+	</stage>
 	<l id="518" syll="8" part="f">Est-il parti, Nicodème ?</l>
 </sp>
 <sp who="NICODÈME"><speaker>NICODÈME.</speaker>
@@ -1496,8 +1576,10 @@
 	<l id="527">Que d'un homme entarré vous avez la grimace. </l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Jaquemin, Pirante, Nicodème.</head>
-<sp stage="location" who="JAQUEMIN"><speaker>JAQUEMIN, à la fenêtre.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Jaquemin, Pirante, Nicodème.
+</stage>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="location">, à la fenêtre.
+	</stage>
 	<l id="528">Il faut me hasarder. On me l'avait bien dit,</l>
 	<l id="529">Que vous pourriez venir m'apporter un acquit :</l>
 	<l id="530">Mais des huit cents écus je ne suis plus en peine ;</l>
@@ -1519,10 +1601,12 @@
 	<l id="542">Et qui porte un grand deuil, lui-même a pris la peine</l>
 	<l id="543" syll="6" part="i">De venir m'annoncer...</l>
 </sp>
-<sp stage="closer" who="PIRANTE"><speaker>PIRANTE, s'avançant.</speaker>
+<sp who="PIRANTE"><speaker>PIRANTE</speaker><stage type="closer">, s'avançant.
+	</stage>
 	<l id="543" syll="3" part="m">Quoi ! Mon fils ?...</l>
 </sp>
-<sp stage="threat" who="NICODÈME"><speaker>NICODÈME, présentant sa fourche à Pirante.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage type="threat">, présentant sa fourche à Pirante.
+	</stage>
 	<l id="543" syll="3" part="f">Ah ! Morguenne !</l>
 	<l id="544" syll="4" part="i">N'avancez point.</l>
 </sp>
@@ -1544,7 +1628,8 @@
 	<l id="551">Enfin j'ouvre les yeux, et vois qu'on m'a fait pièce.</l>
 	<l id="552" syll="3" part="i">Je descends.</l>
 </sp>
-<sp stage="toward" who="NICODÈME"><speaker>NICODÈME, à Pirante.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage type="toward">, à Pirante.
+	</stage>
 	<l id="552" syll="9" part="f">Vous voyez qu'ous êtes satisfait.</l>
 	<l id="553">Mais point de trahison ; car, franchement, tout net,</l>
 	<l id="554" syll="6" part="i">Fussiez-vous un Satan...</l>
@@ -1552,20 +1637,24 @@
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="554" syll="6" part="f">Ne crains rien, Nicodème. </l>
 </sp>
-<sp stage="exit" who="JAQUEMIN"><speaker>JAQUEMIN, sortant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="exit">, sortant.
+	</stage>
 	<l id="555" syll="3" part="i">Ah, Monsieur !</l>
 </sp>
-<sp who="NICODÈME"><speaker>NICODÈME, à Jaquemin.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage>, à Jaquemin.
+	</stage>
 	<l id="555" syll="9" part="f">Point de peur, et ne soyez point blême.</l>
 </sp>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Pirante.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Pirante.
+	</stage>
 	<l id="556">Votre fils, par son deuil, a trop su me duper,</l>
 	<l id="557">Et n'a feint votre mort qu'afin de m'attraper.</l>
 	<l id="558">Comme à votre héritier, après ce coup funeste,</l>
 	<l id="559">Trouvant que je devais six cents Louis de reste,</l>
 	<l id="560" syll="10" part="i">Je viens présentement de les compter...</l>
 </sp>
-<sp stage="toward" who="PIRANTE"><speaker>PIRANTE, à Jaquemin.</speaker>
+<sp who="PIRANTE"><speaker>PIRANTE</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="560" syll="2" part="f">À lui ?</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
@@ -1583,7 +1672,8 @@
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="565" syll="3" part="f">Le coquin ! </l>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Pirante.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Pirante.
+	</stage>
 	<l id="566" syll="8" part="i">Vous n'êtes donc pas mort, Monsieur ?</l>
 </sp>
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
@@ -1597,12 +1687,15 @@
 	<l id="568">Ils ne se doutaient pas qu'il en fût revenu. </l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Perrette, Nicodème, Crispin, Jaquemin.</head>
-<sp who="NICODÈME"><speaker>NICODÈME, approchant Crispin, et allant au-devant.</speaker>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Perrette, Nicodème, Crispin, Jaquemin.
+</stage>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage>, approchant Crispin, et allant au-devant.
+	</stage>
 	<l id="569">Morgué ! Comm'te vlà fait ! Qui t'aurait reconnu ?</l>
 	<l id="570" syll="3" part="i">Queul habit !</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Nicodème.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Nicodème.
+	</stage>
 	<l id="570" syll="9" part="f">Tout un an, il faut être de même ;</l>
 	<l id="571">Notre vieux Maître est mort, mon pauvre Nicodème.</l>
 </sp>
@@ -1627,7 +1720,8 @@
 	<l id="577" syll="8" part="f">Crispin, viens çà, je craignais fort</l>
 	<l id="578">Qu'on ne te fît partir sans que je te revisse.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Jaquemin.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="579">Ah ! Je suis pour cela trop à votre service.</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
@@ -1654,7 +1748,8 @@
 <sp who="CRISPIN"><speaker>CRISPIN.</speaker>
 	<l id="587" syll="10" part="i">Il faut lui proposer : attendez-moi.</l>
 </sp>
-<sp stage="pull" who="JAQUEMIN"><speaker>JAQUEMIN, le retenant.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="pull">, le retenant.
+	</stage>
 	<l id="587" syll="2" part="f">Demeure :</l>
 	<l id="588">Puisqu'il n'est pas parti, je veux t'accompagner.</l>
 </sp>
@@ -1674,16 +1769,19 @@
 	<l id="596">Quoique pour notre joie il soit mort un peu tard,</l>
 	<l id="597" syll="6" part="i">C'est toujours être mort.</l>
 </sp>
-<sp stage="listen" who="PIRANTE"><speaker>PIRANTE, qui écoute.</speaker>
+<sp who="PIRANTE"><speaker>PIRANTE</speaker><stage type="listen">, qui écoute.
+	</stage>
 	<l id="597" syll="6" part="f">Ah ! Je te tiens, pendard !</l>
 </sp>
-<sp stage="frighten" who="CRISPIN"><speaker>CRISPIN, feignant d'avoir peur.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="frighten">, feignant d'avoir peur.
+	</stage>
 	<l id="598" syll="3" part="i">Au secours.</l>
 </sp>
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="598" syll="7" part="f">Tu me crains ! Je suis donc mort ?</l>
 </sp>
-<sp stage="toward" who="PERRETTE"><speaker>PERRETTE, à Crispin.</speaker>
+<sp who="PERRETTE"><speaker>PERRETTE</speaker><stage type="toward">, à Crispin.
+	</stage>
 	<l id="598" syll="2" part="f">Courage.</l>
 	<l id="599" syll="9" part="i">Dis que c'est son esprit qui revient.</l>
 </sp>
@@ -1732,7 +1830,8 @@
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
 	<l id="611" syll="9" part="f">Il l'aimait : il l'épouse, que faire ?</l>
 </sp>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Perrette.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Perrette.
+	</stage>
 	<l id="612" syll="4" part="i">Tu l'as donc su ?</l>
 </sp>
 <sp who="PERRETTE"><speaker>PERRETTE.</speaker>
@@ -1741,12 +1840,14 @@
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
 	<l id="613" syll="6" part="i">Qu'on la fasse venir.</l>
 </sp>
-<sp stage="toward" who="CRISPIN"><speaker>CRISPIN, à Pirante.</speaker>
+<sp who="CRISPIN"><speaker>CRISPIN</speaker><stage type="toward">, à Pirante.
+	</stage>
 	<l id="613" syll="6" part="f">Elle est allée à Sens :</l>
 	<l id="614">Mon Maître l'y doit joindre ; et, de là, ce me semble,</l>
 	<l id="615">Ils se sont dit le mot pour s'en aller ensemble.</l>
 </sp>
-<sp stage="toward" who="JAQUEMIN"><speaker>JAQUEMIN, à Pirante.</speaker>
+<sp who="JAQUEMIN"><speaker>JAQUEMIN</speaker><stage type="toward">, à Pirante.
+	</stage>
 	<l id="616" syll="6" part="i">Monsieur, je suis fâché...</l>
 </sp>
 <sp who="PIRANTE"><speaker>PIRANTE.</speaker>
@@ -1768,7 +1869,8 @@
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>
 	<l id="623" syll="10" part="f">Ah ! C'est, Monsieur, trop d'honneur pour ma fille.</l>
 </sp>
-<sp stage="toward" who="NICODÈME"><speaker>NICODÈME, à Jaquemin.</speaker>
+<sp who="NICODÈME"><speaker>NICODÈME</speaker><stage type="toward">, à Jaquemin.
+	</stage>
 	<l id="624" syll="8" part="i">Comme vous êtes riche, il faut...</l>
 </sp>
 <sp who="JAQUEMIN"><speaker>JAQUEMIN.</speaker>

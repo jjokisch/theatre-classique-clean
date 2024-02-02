@@ -1257,8 +1257,7 @@
 </div2>
 <div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> La Fée, Arlequin, Silvia.
 </stage>
-<sp who="LA FÉE"><speaker>Ici La Fée qui les cherchait arrive</speaker><stage type="entrance/search/aparte">, et dit à part en retournant son anneau.
-</stage>
+<sp stage="entrance/search/aparte" who="LA FÉE"><stage>Ici La Fée qui les cherchait arrive, et dit à part en retournant son anneau.</stage>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Je vois mon malheur !</s>

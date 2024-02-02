@@ -57,7 +57,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>À LA FEUILLE DE ROSE</head>
-<div2 type="scene" n="1"><head>Scène I. Miché - Crête-de-Coq.</head>
+<div2 type="scene" n="1"><head>Scène I.</head><stage> Miché - Crête-de-Coq.
+</stage>
 <stage type="decor">Un salon, tenture d'Orient, trois portes au fond, divans à droite et à gauche.</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
@@ -81,7 +82,8 @@
 </p>
 <stage type="give">Il lui donne un paquet.</stage>
 </sp>
-<sp stage="read" who="MICHÉ"><speaker>MICHÉ, lisant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="read">, lisant.
+</stage>
 <p id="5">
 	<s id="1">Ah ! </s>
 	<s id="2">Bien, il faudra tâcher d'en distribuer discrètement.</s>
@@ -105,7 +107,8 @@
 	<s id="1">Bien meublés.</s>
 </p>
 </sp>
-<sp stage="read" who="MICHÉ"><speaker>MICHÉ, lisant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="read">, lisant.
+</stage>
 <p id="10">	<s id="1">« Société choisie, sécurité, petits soins et discrétion. Cette maison organisée sur un pied tout nouveau à l'instar de la Turquie, se recommande tout particulièrement à l'attention du high-life. </s>
 	<s id="2">On emploie toutes les langues. »</s>
 </p>
@@ -177,7 +180,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, alone.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage>, alone.
+</stage>
 <p id="1">
 	<s id="1">Raphaële !</s>
 </p>
@@ -237,8 +241,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Crête-de-Coq - Un vidangeur.</head>
-<sp stage="toward" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, au vidangeur.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Crête-de-Coq - Un vidangeur.
+</stage>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="toward">, au vidangeur.
+</stage>
 <p id="1">
 	<s id="1">Qu'est-ce que vous voulez ?</s>
 </p>
@@ -286,7 +292,8 @@
 	<s id="3">Allons, foutez-moi le camp, vous m'emmerdez.</s>
 </p>
 </sp>
-<sp stge="anger" who="LE VIDANGEUR"><speaker>LE VIDANGEUR, en colère.</speaker>
+<sp stge="anger" who="LE VIDANGEUR"><speaker>LE VIDANGEUR</speaker><stage>, en colère.
+</stage>
 <p id="10">
 	<s id="1">Non, Monsieur, je n'emmé... merde pas... </s>
 	<s id="2">Au con... au con... au contraire, je désemmerde ! </s>
@@ -301,8 +308,10 @@
 <stage type="exit">Le vidangeur sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Crête-de-Coq - Miché - Monsieur et Madame Beauflanquet.</head>
-<sp stage="wave" who="MICHÉ"><speaker>MICHÉ, saluant cérémonieusement.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Crête-de-Coq - Miché - Monsieur et Madame Beauflanquet.
+</stage>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="wave">, saluant cérémonieusement.
+</stage>
 <p id="1">
 	<s id="1">Parfaitement, Monsieur. </s>
 	<s id="2">Mais à qui ai-je l'honneur de parler ?</s>
@@ -347,14 +356,16 @@
 	<s id="2">Mon ami, je crois que Léon a très bien fait de nous envoyer ici.</s>
 </p>
 </sp>
-<sp who="MICHÉ"><speaker>MICHÉ, à Crête-de-Coq.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage>, à Crête-de-Coq.
+</stage>
 <p id="9">
 	<s id="1">Conduis Madame et Monsieur à la chambre jaune.</s>
 </p>
 <stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Miché - Le vidangeur.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Miché - Le vidangeur.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Qu'est-ce que vous demandez ?</s>
@@ -400,15 +411,18 @@
 <stage type="push/exit">Miché le pousse et le vidangeur sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Miché - Crête-de-Coq.</head>
-<sp stage="smell" who="MICHÉ"><speaker>MICHÉ, sentant sa main.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Miché - Crête-de-Coq.
+</stage>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="smell">, sentant sa main.
+</stage>
 <p id="1">
 	<s id="1">Pouah ! </s>
 	<s id="2">Pouah ! </s>
 	<s id="3">Faut-il qu'il y ait des gens assez peu dégoûtés pour faire des métiers pareils.</s>
 </p>
 </sp>
-<sp stage="entrance" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, entrant.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="2">
 	<s id="1">Qu' qu' ça veut dire tout ça ? </s>
 	<s id="2">Quels sont les gens que je viens de conduire ?</s>
@@ -457,7 +471,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Miché - Crête-de-Coq - Léon.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Miché - Crête-de-Coq - Léon.
+</stage>
 <sp who="LÉON"><speaker>LÉON.</speaker>
 <p id="1">
 	<s id="1">Bonjour, Miché.</s>
@@ -527,7 +542,8 @@
 <stage type="exit">Léon et Crête-de-Coq sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Miché - Un bossu.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Miché - Un bossu.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Connaissez-vous une de ces dames ?</s>
@@ -558,7 +574,8 @@
 <stage type="entrance">Les femmes entrent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Le bossu - Raphaële - Blondinette - Fatma</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Le bossu - Raphaële - Blondinette - Fatma
+</stage>
 <sp who="LES FEMMES"><speaker>LES FEMMES.</speaker>
 <p id="1">
 	<s id="1">Bonjour, Monsieur.</s></p>
@@ -652,7 +669,8 @@
 	<s id="1">Parce que tu es de la Beauce.</s>
 </p>
 </sp>
-<sp stage="offended" who="LE BOSSU"><speaker>LE BOSSU, piqué.</speaker>
+<sp who="LE BOSSU"><speaker>LE BOSSU</speaker><stage type="offended">, piqué.
+</stage>
 <p id="18">
 	<s id="1">Toi, tu dois être d'Asnières.</s>
 </p>
@@ -734,14 +752,16 @@
 <stage type="wave/desparate">Crête-de-Coq fait un mouvement désespéré.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Miché - Crête-de-Coq - Fatma - Blondinette - Madame Beauflanquet.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Miché - Crête-de-Coq - Fatma - Blondinette - Madame Beauflanquet.
+</stage>
 <sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ.</speaker>
 <stage type="give">Versant l'argent dans les mains de Miché.</stage>
 <p id="1">
 	<s id="1">Une passe à Madame Raphaële.</s>
 </p>
 </sp>
-<sp stage="entrance" who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET, qui entre.</speaker>
+<sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET</speaker><stage type="entrance">, qui entre.
+</stage>
 <p id="2">
 	<s id="1">Il me semble que j'ai entendu la voix de Monsieur Léon.</s></p>
 </sp>
@@ -760,13 +780,15 @@
 	<s id="1">Ce n'est pas la peine, je vais y aller.</s>
 </p>
 </sp>
-<sp stage="watch" who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET, apercevant Fatma et Blondinette.</speaker>
+<sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET</speaker><stage type="watch">, apercevant Fatma et Blondinette.
+</stage>
 <p id="6">
 	<s id="1">Ah ! </s>
 	<s id="2">Ces dames, quel singulier costume !</s>
 </p>
 </sp>
-<sp stage="touch" who="MICHÉ"><speaker>MICHÉ, se grattant l'oreille.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="touch">, se grattant l'oreille.
+</stage>
 <stage type="aparte">À part. </stage>
 <p id="7">
 	<s id="1">Ah diable !</s>
@@ -797,7 +819,8 @@
 	<s id="2">Pardon elles parlent le français comme vous et moi.</s>
 </p>
 </sp>
-<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, entrant.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage>, entrant.
+</stage>
 <p id="13">
 	<s id="1">Monsieur Miché, le bossu se dispute avec Mademoiselle Raphaële.</s>
 </p>
@@ -811,8 +834,10 @@
 <stage type="hit">Il frappe sur ses bras et sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Raphaële - Fatma - Blondinette - Madame Beauflanquet - Crête-de-Coq.</head>
-<sp stage="entrance" who="RAPHAËLE"><speaker>RAPHAËLE, entrant « à elle-même ».</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Raphaële - Fatma - Blondinette - Madame Beauflanquet - Crête-de-Coq.
+</stage>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="entrance">, entrant « à elle-même ».
+</stage>
 <p id="1">
 	<s id="1">Cet animal là sous prétexte qu'il a déchargé dans sa culotte, il ne voulait pas me donner mes gants.</s>
 </p>
@@ -926,7 +951,8 @@
 	<s id="1">Le postillon - le gamin - soixante-neuf - la paresseuse - la brouette ?</s>
 </p>
 </sp>
-<sp stage="estonish" who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET, étonné.</speaker>
+<sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET</speaker><stage type="estonish">, étonné.
+</stage>
 <p id="23">
 	<s id="1">Oui, je connais ces choses.</s>
 </p>
@@ -960,12 +986,14 @@
 	<s id="2">Je suis très privée quand je n'en ai pas.</s>
 </p>
 </sp>
-<sp stage="carress" who="RAPHAËLE"><speaker>RAPHAËLE, la caressant.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="carress">, la caressant.
+</stage>
 <p id="29">
 	<s id="1">Nous nous entendrons très bien, ma mignonne.</s>
 </p>
 </sp>
-<sp stage="entrance" who="MICHÉ"><speaker>MICHÉ, entrant avec Crête-de-Coq.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="entrance">, entrant avec Crête-de-Coq.
+</stage>
 <p id="30">
 	<s id="1">Madame, Monsieur Léon vous attend.</s>
 </p>
@@ -982,7 +1010,8 @@
 <stage type="exit">Madame Beauflanquet et Crête-de-Coq sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Raphaële - Miché - Fatma.</head>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Raphaële - Miché - Fatma.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Allons, mes enfants, il s'agit aujourd'hui de vous signaler. </s>
@@ -1009,13 +1038,15 @@
 	<s id="1">Soyez tranquille.</s>
 </p>
 </sp>
-<sp stage="entrance" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, entrant.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="5">
 	<s id="1">Y a du monde. C'est le Capitaine.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Les mêmes - Le Capitaine.</head>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Les mêmes - Le Capitaine.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Allons placez vous, mes enfants. </s>
@@ -1034,12 +1065,14 @@
 	<s id="1">Toujours Général.</s>
 </p>
 </sp>
-<sp stage="wave" who="LE CAPITAINE"><speaker>LE CAPITAINE, faisant un geste d'escrime.</speaker>
+<sp who="LE CAPITAINE"><speaker>LE CAPITAINE</speaker><stage type="wave">, faisant un geste d'escrime.
+</stage>
 <p id="4">
 	<s id="1">Est-on prêt pour un petit assaut ?</s>
 </p>
 </sp>
-<sp stage="wave" who="RAPHAËLE"><speaker>RAPHAËLE, imitant son geste.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="wave">, imitant son geste.
+</stage>
 <p id="5">
 	<s id="1">Certainement Général, à vous l'honneur.</s>
 </p>
@@ -1090,12 +1123,14 @@ Les femmes l'entourent et le pelotent.
 	<s id="3">Peloton, tour droite - Beau cul la première - Peloton tour droite - Numéro 1 trois pas avant, marche.</s>
 </p>
 </sp>
-<sp stage="location" who="RAPHAËLE"><speaker>RAPHAËLE, fait trois pas en avant.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="location">, fait trois pas en avant.
+</stage>
 <p id="15">
 	<s id="1">Merci du choix, mon Général.</s>
 </p>
 </sp>
-<sp stage="aparte" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, à part.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="16">
 	<s id="1">Encore Raphaële !</s>
 </p>
@@ -1108,20 +1143,23 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Voulez-vous un fourreau pour votre sabre ?</s>
 </p>
 </sp>
-<sp stage="give" who="LE CAPITAINE"><speaker>LE CAPITAINE, refusant une capote que lui offre Crête-de-Coq.</speaker>
+<sp who="LE CAPITAINE"><speaker>LE CAPITAINE</speaker><stage type="give">, refusant une capote que lui offre Crête-de-Coq.
+</stage>
 <p id="19">
 	<s id="1">Jamais. </s>
 	<s id="2">Est-ce que je me sers de cette machine là ! </s>
 	<s id="3">Est-ce qu'on met son sabre au fourreau pour aller à la charge ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, à part.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="20">
 	<s id="1">À la décharge.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Fatma - Blondinette - Crête-de-Coq - Miché.</head>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><stage> Fatma - Blondinette - Crête-de-Coq - Miché.
+</stage>
 <sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ.</speaker>
 <p id="1">
 	<s id="1">Une passe à Madame_Raphaële.</s>
@@ -1205,7 +1243,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">C'est lui qui m'engueule ct'égoutteur de goupillon.</s>
 </p>
 </sp>
-<sp stage="toward" who="MICHÉ"><speaker>MICHÉ, à Fatma.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="toward">, à Fatma.
+</stage>
 <p id="17">
 	<s id="1">Veux-tu bien te taire.</s>
 </p>
@@ -1215,7 +1254,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Pourquoi débine-t-elle Raphaële, cte sale garce ?</s>
 </p>
 </sp>
-<sp stage="toward" who="MICHÉ"><speaker>MICHÉ, à Crête-de-Coq.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="toward">, à Crête-de-Coq.
+</stage>
 <p id="19">
 	<s id="1">Est-ce fini !</s>
 </p>
@@ -1226,7 +1266,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Faudra-t-il pas prendre des gants pour parler de ta foutue rouchie ?</s>
 </p>
 </sp>
-<sp stage="furious" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, furieux.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="furious">, furieux.
+</stage>
 <p id="21">
 	<s id="1">Répète ça, je te fous mon poing sur la gueule.</s>
 </p>
@@ -1241,7 +1282,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Oui, moi.</s>
 </p>
 </sp>
-<sp stage="separate" who="MICHÉ"><speaker>MICHÉ, les séparant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="separate">, les séparant.
+</stage>
 <p id="24">
 	<s id="1">Voyons, j'vas vous régler bougre d'arsouilles.</s>
 </p>
@@ -1256,7 +1298,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="6">Au lieu de médire de notre prochain, efforçons nous...</s>
 </p>
 </sp>
-<sp stage="laugh" who="FATMA"><speaker>FATMA, riant.</speaker>
+<sp who="FATMA"><speaker>FATMA</speaker><stage type="laugh">, riant.
+</stage>
 <p id="26">
 	<s id="1">Allons, zut ! </s>
 	<s id="2">Voilà l'abbé qui prêche. </s>
@@ -1269,14 +1312,17 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="16"><head>SCÈNE XVI. Les mêmes - Raphaële - Un Marseillais.</head>
-<sp stage="rentrant" who="RAPHAËLE"><speaker>RAPHAËLE, rentrant.</speaker>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><stage> Les mêmes - Raphaële - Un Marseillais.
+</stage>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="rentrant">, rentrant.
+</stage>
 <p id="1">
 	<s id="1">À la bonne heure ! </s>
 	<s id="2">V'là un homme que j'aime ; il vous fait ça en deux temps.</s>
 </p>
 </sp>
-<sp stage="entrance" who="LE MARSEILLAIS"><speaker>UN MARSEILLAIS, entrant.</speaker>
+<sp who="LE MARSEILLAIS"><speaker>UN MARSEILLAIS</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="2">
 	<s id="1">Et bonjour mes toutes belles.</s>
 </p>
@@ -1373,7 +1419,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Eh bien merci, tu peux te fouiller que je baise avec toi.</s>
 </p>
 </sp>
-<sp who="MICHÉ"><speaker>MICHÉ, blaguant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage>, blaguant.
+</stage>
 <p id="18">
 	<s id="1">Eh bien, et moi, et bibi, dans un incendie un jour je monte au quatrième étage d'une maison qui était en feu. </s>
 	<s id="2">Il y avait quatre personnes à sauver. </s>
@@ -1481,7 +1528,8 @@ Les femmes l'entourent et le pelotent.
 </p>
 <stage type="work">Il essaye de baiser Raphaële.</stage>
 </sp>
-<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, faisant aller la manivelle.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage>, faisant aller la manivelle.
+</stage>
 <p id="35">
 	<s id="1">Ah ! </s>
 	<s id="2">Malheur, quel supplice ! </s>
@@ -1544,7 +1592,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">Ce n'est rien, c'est de naissance.</s>
 </p>
 </sp>
-<sp stage="frighten/wash" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, épouvanté lui apporte une cuvette.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="frighten/wash">, épouvanté lui apporte une cuvette.
+</stage>
 <p id="44">
 	<s id="1">Allons bon, lave-toi bien vite.</s>
 </p>
@@ -1578,7 +1627,8 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="17"><head>SCÈNE XVII. Miché - Monsieur Beauflanquet.</head>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><stage> Miché - Monsieur Beauflanquet.
+</stage>
 <sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET.</speaker>
 <p id="1">
 	<s id="1">Vous n'avez pas vu Madame Beauflanquet ?</s>
@@ -1590,7 +1640,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">Elle est en ce moment dans les appartements particuliers de ces dames, qu'avec l'agrément de Son Excellence Monseigneur l'Ambassadeur de Turquie, je lui ai octroyé la permission de visiter.</s>
 </p>
 </sp>
-<sp stage="watch" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, apercevant les femmes.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="watch">, apercevant les femmes.
+</stage>
 <p id="3">
 	<s id="1">Ah ! </s>
 	<s id="2">Ces dames !</s>
@@ -1623,18 +1674,21 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Pas du tout, Son Excellence n'est jamais plus couverte que cela, et souvent elle l'est moins.</s>
 </p>
 </sp>
-<sp stage="sweet" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, minaudant.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="sweet">, minaudant.
+</stage>
 <p id="9">
 	<s id="1">Pour cela il faudrait avoir les privilèges de Son Excellence. </s>
 	<s id="2">Il est vrai que je ne demande pas mieux.</s>
 </p>
 </sp>
-<sp stage="laugh" who="RAPHAËLE"><speaker>RAPHAËLE, riant.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="laugh">, riant.
+</stage>
 <p id="10">
 	<s id="1">Demande, mon chouchou.</s>
 </p>
 </sp>
-<sp stage="estonish" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, stupefait.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="estonish">, stupefait.
+</stage>
 <p id="11">
 	<s id="1">Hein ?</s>
 </p>
@@ -1683,7 +1737,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Elles vous trancheraient la tête, Monsieur.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, à part.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="aparte">, à part.
+</stage>
 <p id="20">
 	<s id="1">Ah ! </s>
 	<s id="2">Diable.</s>
@@ -1733,7 +1788,8 @@ Les femmes l'entourent et le pelotent.
 <stage type="exit">Il sort avec Miché.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="18"><head>SCÈNE XVIII. Les femmes - Monsieur Beauflanquet.</head>
+<div2 type="scene" n="18"><head>SCÈNE XVIII.</head><stage> Les femmes - Monsieur Beauflanquet.
+</stage>
 <sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET.</speaker>
 <p id="1">
 	<s id="1">Mesdames, je vous prie de croire que jamais serviteur plus empressé et plus respectueux ne s'est incliné devant vous.</s>
@@ -1746,7 +1802,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="3">Qu'éque tu veux qu'on te fasse ?</s>
 </p>
 </sp>
-<sp stage="sit/entrance" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, assis entre Raphaële et Fatma.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="sit/entrance">, assis entre Raphaële et Fatma.
+</stage>
 <p id="3">
 	<s id="1">C'est un bien beau pays que la Turquie avec ses tours, ses minarets, ses harems, ses forêts vierges.</s>
 </p>
@@ -1757,7 +1814,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">Des vierges, tu ne trouveras pas ça ici, mon vieux.</s>
 </p>
 </sp>
-<sp stage="sweet" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, minaudant.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="sweet">, minaudant.
+</stage>
 <p id="5">
 	<s id="1">Il paraît que Son Excellence l'Ambassadeur a bien défriché ses bois, c'est une belle place ça ambassadeur ; moi je suis Maire_de_Conville.</s>
 </p>
@@ -1780,7 +1838,8 @@ Les femmes l'entourent et le pelotent.
 </p>
 <stage type="touch">Raphaële le pelote d'un côté et Fatma de l'autre.</stage>
 </sp>
-<sp stage="aparte/jump" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, à part, faisant des petits sauts.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="aparte/jump">, à part, faisant des petits sauts.
+</stage>
 <p id="9">
 	<s id="1">Quelle aventure ! </s>
 	<s id="2">Il me paraît qu'elles me trouvent bien.</s>
@@ -1795,14 +1854,16 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Elles sont enragées ces turques !</s>
 </p>
 </sp>
-<sp stage="entrance" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, entrant avec les consommations et sur le point de laisser tout tomber.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="entrance">, entrant avec les consommations et sur le point de laisser tout tomber.
+</stage>
 <p id="12">
 	<s id="1">Encore Raphaële ! </s>
 	<s id="2">Je ne m'y accoutumerai jamais !</s>
 </p>
 <stage type="drop/escape">Il dispose ses verres sur la table et se sauve.</stage>
 </sp>
-<sp stage="stand" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, se relevant.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="stand">, se relevant.
+</stage>
 <p id="13">
 	<s id="1">Ah ! </s>
 	<s id="2">Mesdames, après cela on peut bien...</s>
@@ -1813,7 +1874,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">Une turque.</s>
 </p>
 </sp>
-<sp stage="location" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, sur la porte.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="location">, sur la porte.
+</stage>
 <p id="15">
 	<s id="1">Attention ! </s>
 	<s id="2">Vla quelqu'un.</s>
@@ -1821,7 +1883,8 @@ Les femmes l'entourent et le pelotent.
 <stage type="stand/escape">Monsieur Beauflanquet se relève d'un bond et se sauve déculotté.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="19"><head>SCÈNE XIX. Les femmes - Un jeune homme - Crête-de-Coq</head>
+<div2 type="scene" n="19"><head>SCÈNE XIX.</head><stage> Les femmes - Un jeune homme - Crête-de-Coq
+</stage>
 <sp who="LES FEMMES"><speaker>LES FEMMES.</speaker>
 <p id="1">
 	<s id="1">Entre donc mon petit mignon, mon bébé, mon petit chéri, très polissonnes, très cochonnes, entre donc mon petit chéri, entre donc.</s>
@@ -1832,7 +1895,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Entrez donc, Monsieur, ces dames sont très aimables.</s>
 </p>
 </sp>
-<sp stage="location" who="LE JEUNE HOMME"><speaker>LE JEUNE HOMME, restant à la porte.</speaker>
+<sp who="LE JEUNE HOMME"><speaker>LE JEUNE HOMME</speaker><stage type="location">, restant à la porte.
+</stage>
 <p id="3">
 	<s id="1">J'entrerai, si je veux, laissez-moi donc tranquille.</s>
 </p>
@@ -1854,13 +1918,15 @@ Les femmes l'entourent et le pelotent.
 </p>
 <stage type="exit">Le jeune homme s'en va sans rien dire.</stage>
 </sp>
-<sp stage="together" who="LES FEMMES"><speaker>LES FEMMES, toutes ensemble.</speaker>
+<sp who="LES FEMMES"><speaker>LES FEMMES</speaker><stage type="together">, toutes ensemble.
+</stage>
 <p id="7">
 	<s id="1">Eh bien ! </s>
 	<s id="2">Va chier !</s>
 </p>
 </sp>
-<sp stage="entrance" who="MICHÉ"><speaker>MICHÉ, entrant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="entrance">, entrant.
+</stage>
 <p id="8">
 	<s id="1">Eh bien ?</s>
 </p>
@@ -1889,7 +1955,8 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="20"><head>SCÈNE XX. Les femmes - Crête-de-Coq - Un sapeur</head>
+<div2 type="scene" n="20"><head>SCÈNE XX.</head><stage> Les femmes - Crête-de-Coq - Un sapeur
+</stage>
 <sp who="LE SAPEUR"><speaker>LE SAPEUR.</speaker>
 <p id="1">
 	<s id="1">Voulez-vous monter ?</s>
@@ -2028,7 +2095,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">Voilà !</s>
 </p>
 </sp>
-<sp who="LE SAPEUR"><speaker>LE SAPEUR, à Raphaële.</speaker>
+<sp who="LE SAPEUR"><speaker>LE SAPEUR</speaker><stage>, à Raphaële.
+</stage>
 <p id="26">
 	<s id="1">Que vous seriez aimable pour pisser quelques gouttes dans le vase.</s>
 </p>
@@ -2067,7 +2135,8 @@ Les femmes l'entourent et le pelotent.
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="21"><head>SCÈNE XXI. Miché - Les femmes - Crête-de-Coq.</head>
+<div2 type="scene" n="21"><head>SCÈNE XXI.</head><stage> Miché - Les femmes - Crête-de-Coq.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Eh bien ! </s>
@@ -2083,7 +2152,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Dix sous Raphaële !!!</s>
 </p>
 </sp>
-<sp stage="toward" who="RAPHAËLE"><speaker>RAPHAËLE, à Miché.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="toward">, à Miché.
+</stage>
 <p id="4">
 	<s id="1">(Monsieur, pouvons nous remonter cinq minutes dans nos chambres ?</s>
 </p>
@@ -2107,13 +2177,15 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="23"><head>SCÈNE XXIII. Miché, Un Anglais.</head>
+<div2 type="scene" n="23"><head>SCÈNE XXIII.</head><stage> Miché, Un Anglais.
+</stage>
 <sp who="L'ANGLAIS"><speaker>L'ANGLAIS.</speaker>
 <p id="1">
 	<s id="1">Bonjour, Monsieur.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MICHÉ"><speaker>MICHÉ, à part.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="2">
 	<s id="1">Ah ! </s>
 	<s id="2">Un Anglais, bonne affaire.</s>
@@ -2177,7 +2249,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Oh yes, very good, Miché.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MICHÉ"><speaker>MICHÉ, à part.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="14">
 	<s id="1">Oh quelle idée !</s>
 </p>
@@ -2249,7 +2322,8 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="24"><head>SCÈNE XXIV. Miché - Les femmes.</head>
+<div2 type="scene" n="24"><head>SCÈNE XXIV.</head><stage> Miché - Les femmes.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Il y a gros à gagner. </s>
@@ -2265,8 +2339,10 @@ Les femmes l'entourent et le pelotent.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="25"><head>SCÈNE XXV. Les mêmes - L'Anglais.</head>
-<sp stage="watch" who="L'ANGLAIS"><speaker>L'ANGLAIS, examinant les femmes.</speaker>
+<div2 type="scene" n="25"><head>SCÈNE XXV.</head><stage> Les mêmes - L'Anglais.
+</stage>
+<sp who="L'ANGLAIS"><speaker>L'ANGLAIS</speaker><stage type="watch">, examinant les femmes.
+</stage>
 <p id="1">
 	<s id="1">Aoh ! </s>
 	<s id="2">Ce été très joli, très joli, très, très natiourel, très natiourel, all_right, all_right.</s>
@@ -2278,7 +2354,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="2">C'est la représentation exacte du corps humain, vous pouvez voir, rien n'y manque.</s>
 </p>
 </sp>
-<sp stage="watch/closer" who="L'ANGLAIS"><speaker>L'ANGLAIS, regardant de près Raphaële.</speaker>
+<sp who="L'ANGLAIS"><speaker>L'ANGLAIS</speaker><stage type="watch/closer">, regardant de près Raphaële.
+</stage>
 <p id="3">
 	<s id="1">Oh ! </s>
 	<s id="2">Yes.</s>
@@ -2288,7 +2365,8 @@ Les femmes l'entourent et le pelotent.
 	<s id="1">Elle avait même le odeur.</s>
 </p>
 </sp>
-<sp stage="aparte" who="RAPHAËLE"><speaker>RAPHAËLE, à part.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="5">
 	<s id="1">Je crois bien, j'ai pété.</s>
 </p>
@@ -2308,14 +2386,16 @@ Les femmes l'entourent et le pelotent.
 	<s id="5">Cela a déterminé une lésion des intestins, et elle est morte un soir, comme je vous le disais, en sortant du bal.</s>
 </p>
 </sp>
-<sp stage="sad" who="L'ANGLAIS"><speaker>L'ANGLAIS, mélancolique.</speaker>
+<sp who="L'ANGLAIS"><speaker>L'ANGLAIS</speaker><stage type="sad">, mélancolique.
+</stage>
 <p id="8">
 	<s id="1">Aoh ! </s>
 	<s id="2">Comme il disait votre grand poète, elle aimé trop le bal, ça été ce qui l'avait faire miourir ! </s>
 	<s id="3">Je désiré maintenant vois les accouchements.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MICHÉ"><speaker>MICHÉ, à part.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Ah diable !</s>
 </p>
@@ -2392,7 +2472,8 @@ Montrant Blondinette.
 	<s id="1">Voilà la pièce qui vous montre deux fois grossi le membre viril.</s>
 </p>
 </sp>
-<sp stage="danse" who="L'ANGLAIS"><speaker>L'ANGLAIS, dansant la gigue devant.</speaker>
+<sp who="L'ANGLAIS"><speaker>L'ANGLAIS</speaker><stage type="danse">, dansant la gigue devant.
+</stage>
 <p id="23">
 	<s id="1">Oh ! </s>
 	<s id="2">Très joli, all_right. </s>
@@ -2421,7 +2502,8 @@ Montrant Blondinette.
 	<s id="4">Ce été pas la peine.</s>
 </p>
 </sp>
-<sp stage="laugh" who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ, riant.</speaker>
+<sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ</speaker><stage type="laugh">, riant.
+</stage>
 <p id="27">
 	<s id="1">Faut toujours se méfier.</s>
 </p>
@@ -2451,7 +2533,8 @@ Montrant Blondinette.
 	<s id="2">Encore Raphaële.</s>
 </p>
 </sp>
-<sp stage="kiss" who="L'ANGLAIS"><speaker>L'ANGLAIS, baisant.</speaker>
+<sp who="L'ANGLAIS"><speaker>L'ANGLAIS</speaker><stage type="kiss">, baisant.
+</stage>
 <p id="32">
 	<s id="1">Aoh ! </s>
 	<s id="2">Très natiourel. </s>
@@ -2476,21 +2559,24 @@ Montrant Blondinette.
 <stage type="exit">L'Anglais sort, Miché aussi.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="26"><head>SCÈNE XXVI. Crête-de-Coq - Les femmes.</head>
+<div2 type="scene" n="26"><head>SCÈNE XXVI.</head><stage> Crête-de-Coq - Les femmes.
+</stage>
 <sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ.</speaker>
 <p id="1">
 	<s id="1">Ah ! </s>
 	<s id="2">Ma pauvre Raphaële, si tu savais quel coup ça vous donne de te voir toujours entre les bras de ces individus.</s>
 </p>
 </sp>
-<sp stage="throw" who="RAPHAËLE"><speaker>RAPHAËLE, lui jetant sa capote au nez.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="throw">, lui jetant sa capote au nez.
+</stage>
 <p id="2">
 	<s id="1">Allons lave ça et tais-toi.</s>
 </p>
 <stage type="exit">Crète de Coq sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="27"><head>SCÈNE XXVII. Les femmes - Madame Beauflanquet.</head>
+<div2 type="scene" n="27"><head>SCÈNE XXVII.</head><stage> Les femmes - Madame Beauflanquet.
+</stage>
 <sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET.</speaker>
 <p id="1">
 	<s id="1">Monsieur_Beauflanquet ne m'a pas demandée ?</s>
@@ -2505,7 +2591,8 @@ Montrant Blondinette.
 	<s id="1">Ce n'est pas toi qu'il a demandée.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET, à part.</speaker>
+<sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET</speaker><stage type="aparte">, à part.
+</stage>
 <p id="4">
 	<s id="1">Ah ! </s>
 	<s id="2">Quelle misérable je fais ! </s>
@@ -2553,7 +2640,8 @@ Montrant Blondinette.
 	<s id="1">Je m'occupe de ma maison.</s>
 </p>
 </sp>
-<sp stage="touch" who="RAPHAËLE"><speaker>RAPHAËLE, la pelotant tout doucement.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="touch">, la pelotant tout doucement.
+</stage>
 <p id="11">
 	<s id="1">Ça ne vous déplaît pas ce que je fais-là ?</s>
 </p>
@@ -2582,14 +2670,16 @@ Montrant Blondinette.
 	<s id="3">Il me semble que si les lumières étaient éteintes...</s>
 </p>
 </sp>
-<sp stage="toward" who="RAPHAËLE"><speaker>RAPHAËLE, aux femmes.</speaker>
+<sp who="RAPHAËLE"><speaker>RAPHAËLE</speaker><stage type="toward">, aux femmes.
+</stage>
 <p id="16">
 	<s id="1">Voulez-vous éteindre les lumières.</s>
 </p>
 <stage type="light">On éteint les lumières.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="28"><head>SCÈNE XXVIII. Les mêmes - Monsieur Beauflanquet puis Léon.</head>
+<div2 type="scene" n="28"><head>SCÈNE XXVIII.</head><stage> Les mêmes - Monsieur Beauflanquet puis Léon.
+</stage>
 <sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET.</speaker>
 <p id="1">
 	<s id="1">Je suis dans une excitation ! </s>
@@ -2603,7 +2693,8 @@ Montrant Blondinette.
 	<s id="2">Léon !</s>
 </p>
 </sp>
-<sp stage="shout" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, avec éclat.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="shout">, avec éclat.
+</stage>
 <p id="3">
 	<s id="1">Madame Beauflanquet !</s>
 </p>
@@ -2635,7 +2726,8 @@ Montrant Blondinette.
 </p>
 <stage type="kiss">Il commence à baiser Raphaële sur le canapé. Léon qui est entré à tâtons pendant le mouvement rencontre Madame Beauflanquet dans l'obscurité.</stage>
 </sp>
-<sp stage="frighten" who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET, effrayée.</speaker>
+<sp who="MADAME BEAUFLANQUET"><speaker>MADAME BEAUFLANQUET</speaker><stage type="frighten">, effrayée.
+</stage>
 <p id="9">
 	<s id="1">Qui est là ?</s>
 </p>
@@ -2652,8 +2744,10 @@ Montrant Blondinette.
 <stage type="entrance/kiss">Léon l'entraîne sur le canapé et il la baise.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="29"><head>SCÈNE XXIX. Les mêmes - Miché.</head>
-<sp type="entrance" who="MICHÉ"><speaker>MICHÉ, entrant.</speaker>
+<div2 type="scene" n="29"><head>SCÈNE XXIX.</head><stage> Les mêmes - Miché.
+</stage>
+<sp type="entrance" who="MICHÉ"><speaker>MICHÉ</speaker><stage>, entrant.
+</stage>
 <p id="1">
 	<s id="1">Qui est-ce qui a éteint les lumières, ici ? </s>
 	<s id="2">Vous savez bien que je n'admets pas ça. </s>
@@ -2672,13 +2766,15 @@ Montrant Blondinette.
 </p>
 <stage type="faint">Madame Beauflanquet s'évanouit.</stage>
 </sp>
-<sp stage="toward" who="LÉON"><speaker>LÉON, à Miché.</speaker>
+<sp who="LÉON"><speaker>LÉON</speaker><stage type="toward">, à Miché.
+</stage>
 <p id="4">
 	<s id="1">Cinq louis pour vous si vous me tirez de là.</s>
 </p>
 <stage type="away">Il se sauve.</stage>
 </sp>
-<sp stage="toward" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, à sa femme.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="toward">, à sa femme.
+</stage>
 <p id="5">
 	<s id="1">Ah ! </s>
 	<s id="2">Madame, cette conduite criminelle aura son châtiment.</s>
@@ -2702,20 +2798,23 @@ Montrant Blondinette.
 	<s id="1">Si j'ai un conseil à vous donner dans votre intérêt, c'est d'éviter tout scandale, et d'étouffer cette affaire qui pourrait avoir pour vous les conséquences les plus graves et j'espère que vous saurez récompenser ma complaisance à votre égard.</s>
 </p>
 </sp>
-<sp stage="pay/toward" who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET, après avoir payé, à sa femme.</speaker>
+<sp who="MONSIEUR BEAUFLANQUET"><speaker>MONSIEUR BEAUFLANQUET</speaker><stage type="pay/toward">, après avoir payé, à sa femme.
+</stage>
 <p id="9">
 	<s id="1">Nous retournerons ce soir à Conville, Madame.</s>
 </p>
 <stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="30"><head>SCÈNE XXX. Les mêmes moins Monsieur et Madame Beauflanquet, Le vidangeur.</head>
+<div2 type="scene" n="30"><head>SCÈNE XXX.</head><stage> Les mêmes moins Monsieur et Madame Beauflanquet, Le vidangeur.
+</stage>
 <sp who="MICHÉ"><speaker>MICHÉ.</speaker>
 <p id="1">
 	<s id="1">Qu'est-ce qu'il veut encore celui-là ?</s>
 </p>
 </sp>
-<sp stage="drunk" who="LE VIDANGEUR"><speaker>LE VIDANGEUR, pochard.</speaker>
+<sp who="LE VIDANGEUR"><speaker>LE VIDANGEUR</speaker><stage type="drunk">, pochard.
+</stage>
 <p id="2">
 	<s id="1">Je ne viens pas pour vider les ca... ca... les ca... cabinets, j'ai renoncé au mé... au métier.</s>
 </p>
@@ -2812,13 +2911,15 @@ Montrant Blondinette.
 	<s id="1">Allons, viens ma vieille.</s>
 </p>
 </sp>
-<sp stage="sing/faint" who="MICHÉ"><speaker>MICHÉ, soutient le vidangeur qui chancelle en chantant.</speaker>
+<sp who="MICHÉ"><speaker>MICHÉ</speaker><stage type="sing/faint">, soutient le vidangeur qui chancelle en chantant.
+	</stage>
 	<l id="3">« Ah ! Je suis dégoûté d'la merde, </l>
 	<l id="4">D'puis qu' j'ai trouvé d'ans un cheveu ! »</l>
 <stage type="exit">Miché et le vidangeur sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="31"><head>SCÈNE XXXI. Les femmes, Crête-de-Coq.</head>
+<div2 type="scene" n="31"><head>SCÈNE XXXI.</head><stage> Les femmes, Crête-de-Coq.
+</stage>
 <sp who="CRÊTE DE COQ"><speaker>CRÊTE DE COQ.</speaker>
 <stage type="toward">À Raphaële.</stage>
 <p id="1">

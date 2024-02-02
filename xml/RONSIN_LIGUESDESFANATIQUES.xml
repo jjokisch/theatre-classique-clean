@@ -65,7 +65,8 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <stage type="decor">Le théâtre représente le vestibule d'un Hôtel-de-Ville.</stage>
-<div2 type="scene" n=""><head>SCÈNE PREMIÈRE. Le maire, Officiers municipaux.</head>
+<div2 type="scene" n=""><head>SCÈNE PREMIÈRE.</head><stage> Le maire, Officiers municipaux.
+</stage>
 <sp who="LE MAIRE"><speaker>LE MAIRE.</speaker>
 	<l id="1">Oui, nos législateurs ont vers nous député</l>
 	<l id="2">Un généreux appui de notre liberté ;</l>
@@ -127,7 +128,8 @@
 	<l id="54">Suivi de Sélimars, du peuple et des soldats.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Député, Le Maire, Sélimars, Officiers municipaux, Soldats nationaux, Troupes de ligne, Peuple.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Député, Le Maire, Sélimars, Officiers municipaux, Soldats nationaux, Troupes de ligne, Peuple.
+</stage>
 <stage type="music">Marche guerrière.</stage>
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 	<l id="55">Deux ans sont écoulés ; et la liberté règne /</l>
@@ -262,7 +264,8 @@
 	<l id="169" syll="3" part="i">Mais qu'entends-je ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les précédents et Madame Sélimars.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Les précédents et Madame Sélimars.
+</stage>
 <stage type="light">Le jour baisse.</stage>
 <sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS.</speaker>
 	<l id="169" syll="9" part="f">Ah ! Venez aux champs de la victoire,</l>
@@ -307,7 +310,8 @@
 	<l id="201">Et de la liberté ; si la France est le temple,</l>
 	<l id="202">À ses adorateurs donnons un grand exemple.</l>
 </sp>
-<sp stage="toward" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ, aux Soldats nationaux.</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward">, aux Soldats nationaux.
+	</stage>
 	<l id="203">Ô de la liberté magnanimes enfants,</l>
 	<l id="204">Vous, dont le coup d'essai fut l'exil des tyrans !</l>
 	<l id="205">Que j'aime à vous voir tous opposer aux tempêtes,</l>
@@ -320,7 +324,8 @@
 	<l id="210">Quand nos rois au combat vous menaient en esclaves,</l>
 	<l id="211">Pour la patrie armés, que ne vaincra—vous pas ?</l>
 </sp>
-<sp stage="show" who="SÉLIMARS"><speaker>SÉLIMARS, en montrant les troupes de ligne.</speaker>
+<sp who="SÉLIMARS"><speaker>SÉLIMARS</speaker><stage type="show">, en montrant les troupes de ligne.
+	</stage>
 	<l id="212">Oui, je vous réponds d'eux, comme de nos soldats.</l>
 	<l id="213">Citoyens connue nous, il auront ce courage</l>
 	<l id="214">Qui nous fait préférer la mort à l'esclavage ;</l>
@@ -350,7 +355,8 @@
 	<l id="235">Prévenons leur audace, et que de toutes parts,</l>
 	<l id="236">Nos braves légions veillent sur les remparts.</l>
 </sp>
-<sp stage="toward" who="SÉLIMARS"><speaker>SÉLIMARS, aux soldats.</speaker>
+<sp who="SÉLIMARS"><speaker>SÉLIMARS</speaker><stage type="toward">, aux soldats.
+	</stage>
 	<l id="237">Vous, qui pour la patrie enflammés d'un saint zèle,</l>
 	<l id="238">Brûlez tous de me suivre où l'honneur nous appelle ;</l>
 	<l id="239">Soldats d'un peuple libre, allons par nos exploits,</l>
@@ -404,7 +410,8 @@
 <stage type="ext/march">Il sort, l'armée défile ; marche guerrière.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Député, Le Maire.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Le Député, Le Maire.
+</stage>
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 	<l id="281">De la fraternité quelle image touchante ! </l>
 	<l id="282">Liberté, sur nos coeurs, que ta voix est puissante !</l>
@@ -488,8 +495,10 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <stage type="decor">Le Théâtre représente un camp, et dans le lointain une ville : on voit sur les remparts des soldats nationaux et des troupes de ligne.</stage>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. LE GÉNÉRAL ennemi, LE PRË'LAT fugitg'f, Ha;—' sasz noir: avec une tête de mon sur le bras, dans le fond du Théâtre; suite d'rfficien.</head>
-<sp stage="toward" who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL, à un officier.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> LE GÉNÉRAL ennemi, LE PRË'LAT fugitg'f, Ha;—' sasz noir: avec une tête de mon sur le bras, dans le fond du Théâtre; suite d'rfficien.
+</stage>
+<sp who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL</speaker><stage type="toward">, à un officier.
+	</stage>
 	<l id="349">Du sénat près de moi l'envoyé peut se rendre ;</l>
 	<l id="350">Quelque soit son dessein, je consens à l'entendre.</l>
 	<l id="351">Allez... et vous, prélat, espérez qu'à ma voix</l>
@@ -497,8 +506,10 @@
 <stage type="exit">L'officier sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Général ennemi, Le Prélat fugitif, Officiers ennemis.</head> 
-<sp stage="toward" who="LE PRÉLAT"><speaker>LE PRÉLAT, au Général.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Le Général ennemi, Le Prélat fugitif, Officiers ennemis. 
+</stage> 
+<sp who="LE PRÉLAT"><speaker>LE PRÉLAT</speaker><stage type="toward">, au Général.
+	</stage>
 	<l id="353">Qu'il m'est doux de vous voir avec autant de zèle,</l>
 	<l id="354">Des maîtres de la terre embrasser la querelle ! '</l>
 	<l id="355">Leur intérêt, leur sceptre en vos mains est remis :</l>
@@ -554,8 +565,10 @@
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Général ennemi, Officiers ennemis.</head>
-<sp stage="toward" who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL, aux Officiers.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Le Général ennemi, Officiers ennemis.
+</stage>
+<sp who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL</speaker><stage type="toward">, aux Officiers.
+	</stage>
 	<l id="401">Ennemi déclaré du prêtre d'Italie,</l>
 	<l id="402">Je sais qu'au souverains lorsque Rome s'allie,</l>
 	<l id="403">C'est moins pour raffermir leurs trônes que le sien,</l>
@@ -573,8 +586,10 @@
 <stage type="exit">Les officiers sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Général ennemi, Le Député.</head>
-<sp stage="toward" who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL, au Député.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Le Général ennemi, Le Député.
+</stage>
+<sp who="LE GÉNÉRAL"><speaker>LE GÉNÉRAL</speaker><stage type="toward">, au Député.
+	</stage>
 	<l id="415">Prenez place... orateur d'un peuple infortuné,</l>
 	<l id="416">Qui de tant de périls se voit environné,</l>
 	<l id="417">Venez-vous abjurer ses erreurs, son audace,</l>
@@ -815,8 +830,10 @@
 	<l id="599">Mais quel est ce prélat ?... Ah ! J'en frémis d'horreur...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Prélat et les mêmes.</head>
-<sp stage="toward" who="LE PRÉLAT"><speaker>LE PRÉLAT, au Général.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Le Prélat et les mêmes.
+</stage>
+<sp who="LE PRÉLAT"><speaker>LE PRÉLAT</speaker><stage type="toward">, au Général.
+	</stage>
 	<l id="600">J'ai parcouru l'armée, et la sainte fureur</l>
 	<l id="601">Dont l'intérêt du ciel me pénètre et m'enflamme,</l>
 	<l id="602">A saisi le soldat, a passé dans son arme.</l>
@@ -837,14 +854,16 @@
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 	<l id="611" syll="4" part="i">Quoi ! Des Français !</l>
 </sp>
-<sp stage="toward" who="LE PRÉLAT"><speaker>LE PRÉLAT, au député.</speaker>
+<sp who="LE PRÉLAT"><speaker>LE PRÉLAT</speaker><stage type="toward">, au député.
+	</stage>
 	<l id="611" syll="8" part="f">Leur chef porte vers nous ses pas...</l>
 </sp>
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 	<l id="612" syll="6" part="i">Ô crime ! Ô trahison !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÉNE V. Le Chef des fugitifs et les mêmes.</head> 
+<div2 type="scene" n="5"><head>SCÉNE V.</head><stage> Le Chef des fugitifs et les mêmes. 
+</stage> 
 <sp who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS en regardant le député.</speaker>
 	<l id="612" syll="6" part="f">Je ne m'attendais pas</l>
 	<l id="613">À trouver, sous ces murs, que la guerre environne,</l>
@@ -863,7 +882,8 @@
 <sp who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS.</speaker>
 	<l id="619">C'est d'un peuple égaré qu'il faut ouvrir les yeux.</l>
 </sp>
-<sp stage="toward" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ, au Prélat et au Chef dés fugitifs.</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward">, au Prélat et au Chef dés fugitifs.
+	</stage>
 	<l id="620">Ne puis-je, sans témoins, (vous parler à tous deux ?</l>
 </sp>
 <sp who="LE PRÉLAT"><speaker>LE PRÉLAT.</speaker>
@@ -878,7 +898,8 @@
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Député, Le Prélat, Le Chef des Fugitifs.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Le Député, Le Prélat, Le Chef des Fugitifs.
+</stage>
 <sp who="LE PRÉLAT"><speaker>LE PRÉLAT.</speaker>
 	<l id="625">Des malheurs de la France artisan téméraire,</l>
 	<l id="626">Défenseur d'un pouvoir cent fois plus arbitraire</l>
@@ -1026,7 +1047,8 @@
 	<l id="740">Qui, le glaive à la main, redemandent des fers ! '</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le prélat, le chef des fugitifs.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Le prélat, le chef des fugitifs.
+</stage>
 <sp who="LE PRÉLAT"><speaker>LE PRÉLAT.</speaker>
 	<l id="741" syll="4" part="i">Vous l'entendez.</l>
 </sp>
@@ -1046,7 +1068,8 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <stage type="decor">Le théâtre représente le vestibule d'un hôtel de villel.</stage>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Le Député, Un Officier municipal.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Le Député, Un Officier municipal.
+</stage>
 <sp who="L'OFFICIER MUNICIPAL"><speaker>L'OFFICIER MUNICIPAL.</speaker>
 	<l id="749">Ainsi, de cette ligue, insolente et parjure,</l>
 	<l id="750">Vous n'avez obtenu que menace et qu'injure.</l>
@@ -1122,8 +1145,10 @@
 	<l id="807">Mais des f0udres d'airain n'entends—je pas le bruit ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Madame Sélimars et les mêmes.</head>
-<sp stage="toward" who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS, aux députés.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Madame Sélimars et les mêmes.
+</stage>
+<sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS</speaker><stage type="toward">, aux députés.
+	</stage>
 	<l id="808">Ah ! Sortez de ces lieux où la mort vous poursuit :</l>
 	<l id="809">On a rompu la trêve et des prêtres rebelles</l>
 	<l id="810">Ourdissant dans la nuit leurs trames criminelles,</l>
@@ -1142,12 +1167,15 @@
 	<l id="823">Ne privez point l'état de son plus cher appui.</l>
 	<l id="824" syll="3" part="i">Hâtez vous.</l>
 </sp>
-<sp stage="toward" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ à I'(Wc'icr Ji'Izmz'cz}wl.&gt;</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward"> à l'Officier Municipal
+	</stage>
 	<l id="824" syll="9" part="f">Ah ! Courons vaincre ou périr pour luui.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE III. Le Chef des Fugitifs, Madame Sélimars, Les précédents ; Soldats de la suite des chefs des fugitifs.</head>
-<sp stage="toward" who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS, au Député.</speaker>
+<div2 type="scene" n=""><head>SCÈNE III.</head><stage> Le Chef des Fugitifs, Madame Sélimars, Les précédents ; Soldats de la suite des chefs des fugitifs.
+</stage>
+<sp who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS</speaker><stage type="toward">, au Député.
+	</stage>
 	<l id="825">Arrête... Aux champs d'honneur ta mort serait trop belle,</l>
 	<l id="826">Je te réserve un sort plus digne d'un rebelle :</l>
 	<l id="827">Est-ce à toi d'aspirer au trépas des héros,</l>
@@ -1167,25 +1195,30 @@
 <stage type="towrd">Aux soldats.</stage>
 	<l id="836">Soldats, que dans nos camps ce traître soit conduit.</l>
 </sp>
-<sp stage="toward" who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS, aux soldats.</speaker>
+<sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS</speaker><stage type="toward">, aux soldats.
+	</stage>
 	<l id="837" syll="3" part="i">Vous osez.</l>
 </sp>
-<sp stage="toward" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ, aux soldats.</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward">, aux soldats.
+	</stage>
 	<l id="837" syll="9" part="f">Oui, suivez ses ordres sanguinaires,</l>
 	<l id="838">Enfoncez le poignard dans le sein de vos frères,</l>
 	<l id="839">Soldats, rompez les noeuds, les devoirs les plus saints...</l>
 	<l id="840">Imitez votre chef... Ne soyez qu'assassins...</l>
 </sp>
-<sp stage="toward" who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS, aux Soldats.</speaker>
+<sp who="LE CHEF DES FUGITIFS"><speaker>LE CHEF DES FUGITIFS</speaker><stage type="toward">, aux Soldats.
+	</stage>
 	<l id="841" syll="2" part="i">Allez.</l>
 </sp>
 <sp who="L'OFFICIER MUNICIPAL"><speaker>L'OFFICIER MUNICIPAL.</speaker>
 	<l id="841" syll="4" part="m">Ciel ! On l'entraîne...</l>
 </sp>
-<sp stage="toward" who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS, au chef des fugitifs.</speaker>
+<sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS</speaker><stage type="toward">, au chef des fugitifs.
+	</stage>
 	<l id="841" syll="6" part="f">Eh quoi, tes mains perfides...</l>
 </sp>
-<sp stage="toward/exit" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ, à Madame Se'limurs en sortaizt.</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward/exit">, à Madame Se'limurs en sortaizt.
+	</stage>
 	<l id="842">Je mourrai... mais couvert du sang des parricides.</l>
 <stage type="show">En montrant le chef des fugitifs.</stage>
 	<l id="843">Du sang de ce rebelle... et m'es derniers regards</l>
@@ -1197,7 +1230,8 @@
 <stage type="exit">Il sort, précédé du député que les soldats emmènent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Madame Sél1mars, L'Officier Municipal.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Madame Sél1mars, L'Officier Municipal.
+</stage>
 <sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS.</speaker>
 	<l id="847">Il n'a point démenti son premier attentat.</l>
 	<l id="848">Sa fuite eut pour prélude un lâche assassinat,</l>
@@ -1222,7 +1256,8 @@
 	<l id="865" syll="3" part="i">Mais on vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Madame Sélimars, Le Maire, L'Officier municipal.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Madame Sélimars, Le Maire, L'Officier municipal.
+</stage>
 <sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS.</speaker>
 	<l id="865" syll="9" part="f">Ah ! La joie éclate dans vos yeux...</l>
 	<l id="866">Parlez, que fait mon fils ? Est-il victorieux ?</l>
@@ -1301,7 +1336,8 @@
 	<l id="931" syll="1" part="i">Ciel !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI.  Les acteurs précédents, Le Député, Le Chef des fugitifs, et Le Prélat ; Soldats, Peuple.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage>  Les acteurs précédents, Le Député, Le Chef des fugitifs, et Le Prélat ; Soldats, Peuple.
+</stage>
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 <stage type="show">En montrant le Chef des fugitifs et le Prélat, qui doivent être dans le fond du théâtre.</stage>
 	<l id="931" syll="11" part="f">Qu'on mène à la tour ce traître et ses complices :</l>
@@ -1311,13 +1347,15 @@
 <stage type="exit/together">Les soldats emmènent le chef des fugitifs et le prélat, qui, en sortant, jettent des regards des regards sur le député.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Le Député, Madame Sélimars, 1LE l\hmn,
-L'Officier Municipal, Soldats, Peuple.</head> 
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Le Député, Madame Sélimars, 1LE l\hmn,
+L'Officier Municipal, Soldats, Peuple. 
+</stage> 
 <sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS.</speaker>
 	<l id="934" syll="10" part="f">Quel trouble affreux s'élève dans mon sein !...</l>
 	<l id="935" syll="6" part="i">Mon fils ne revient point.</l>
 </sp>
-<sp stage="toward" who="LE MAIRE"><speaker>LE MAIRE, au député.</speaker>
+<sp who="LE MAIRE"><speaker>LE MAIRE</speaker><stage type="toward">, au député.
+	</stage>
 	<l id="935" syll="6" part="f">Et quel Dieu tutélaire </l>
 	<l id="936" syll="10" part="i">À de ces furieux désarmé la colère ?</l>
 </sp>
@@ -1374,7 +1412,8 @@ L'Officier Municipal, Soldats, Peuple.</head>
 	<l id="965">Dieu ! Cachons-lui les pleurs dont mes yeux sont chargés..</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI et DERNIÈRE. Les Acteurs précédents, Sélimars porté sur des drapeaux ; soldats, peuple.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI et DERNIÈRE.</head><stage> Les Acteurs précédents, Sélimars porté sur des drapeaux ; soldats, peuple.
+</stage>
 <sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS.</speaker>
 	<l id="966" syll="3" part="i">Ô mon fils !</l>
 </sp>
@@ -1411,7 +1450,8 @@ L'Officier Municipal, Soldats, Peuple.</head>
 <sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ.</speaker>
 	<l id="983">Ô d'un coeur maternel élan rare et sublime !</l>
 </sp>
-<sp stage="toward" who="SÉLIMARS"><speaker>SÉLIMARS, à sa mère.</speaker>
+<sp who="SÉLIMARS"><speaker>SÉLIMARS</speaker><stage type="toward">, à sa mère.
+	</stage>
 	<l id="984">Si j'emporte au tombeau votre amour, votre estime,</l>
 	<l id="985">Mourant libre et vainqueur je dois mourir content...</l>
 	<l id="986">J'appréhendais pour vous ce douloureux instant.</l>
@@ -1449,10 +1489,12 @@ L'Officier Municipal, Soldats, Peuple.</head>
 	<l id="1009" syll="6" part="i">Ma mère... Adieu... Je meurs.</l>
 <stage type="carry/exit">On l'emmène.</stage>
 </sp>
-<sp stage="hugh" who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS, se jetant sur lui.</speaker>
+<sp who="MADAME SÉLIMARS"><speaker>MADAME SÉLIMARS</speaker><stage type="hugh">, se jetant sur lui.
+	</stage>
 	<l id="1009" syll="6" part="f">Mon fils, mon cher fils !</l>
 </sp>
-<sp stage="toward" who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ, aux Soldats et au Peuple.</speaker>
+<sp who="LE DÉPUTÉ"><speaker>LE DÉPUTÉ</speaker><stage type="toward">, aux Soldats et au Peuple.
+	</stage>
 	<l id="1010">Compagnons d'un héros, vengeur de son pays,</l>
 	<l id="1011">Allons rendre à son ombre un hommage funèbre ;</l>
 	<l id="1012">Et qu'aux pieds des autels un monument célèbre,</l>

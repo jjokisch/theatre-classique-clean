@@ -5623,7 +5623,8 @@ Murel et Gruchet, à la fin Rousselin.
 	<s id="1">Plût au ciel que nous puissions recevoir en abondance les céréales, les bestiaux !</s>
 </p>
 </sp>
-<sp stage="costume" who="L'AGRICULTEUR"><speaker>UN AGRICULTEUR en blouse.</speaker>
+<sp who="L'AGRICULTEUR"><speaker>UN AGRICULTEUR</speaker><stage type="costume"> en blouse.
+</stage>
 <p id="38">
 	<s id="1">Eh bien, vous êtes gentil pour l'agriculture !...</s>
 </p>

@@ -1426,7 +1426,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="CÉPHALIE"><speaker>CÉPHALIE etc.</speaker>
+<sp who="CÉPHALIE"><speaker>CÉPHALIE</speaker><stage> etc.
+	</stage>
 	<l id="771" part="i">Le voici.</l>
 </sp>
 <sp who="ALCMÈNE"><speaker>ALCMÈNE.</speaker>

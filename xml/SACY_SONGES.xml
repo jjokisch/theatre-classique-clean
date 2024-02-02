@@ -47,7 +47,8 @@
 <body>
 <div1 type="act" n="1"><head>LES SONGES</head>
 <div2 type="scene" n="1"><head>SCÈNE UNIQUE.</head>
-<sp stage="toward" who="LE CAPITAINE"><speaker>LE CAPITAINE, à l'Aumonier.</speaker>
+<sp who="LE CAPITAINE"><speaker>LE CAPITAINE</speaker><stage type="toward">, à l'Aumonier.
+</stage>
 <p id="1">
 	<s id="1">Il y faisait chaud, n'est-ce pas ? </s>
 	<s id="2">Avez-vous vu cette dernière action ? </s>
@@ -104,7 +105,8 @@
 	<s id="3">Mais on me les remboursera.</s>
 </p>
 </sp>
-<sp stage="aparte" who="LE CAPITAINE"><speaker>LE CAPITAINE, à part.</speaker>
+<sp who="LE CAPITAINE"><speaker>LE CAPITAINE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="8">
 	<s id="1">On ne me rembourse pas à moi mes équipages que j'ai perdus, et qui ne valaient que six cents livres, tandis que ce fripon est dédommagé d'une perte énorme qu'il n'a peut-être pas faite.</s>
 </p>

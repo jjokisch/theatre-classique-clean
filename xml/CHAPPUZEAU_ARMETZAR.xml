@@ -66,7 +66,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE PREMIER.</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Armetzar, Organte.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Armetzar, Organte.
+</stage>
 <sp who="ORGANTE"><speaker>ORGANTE.</speaker>
 	<l id="1">Seigneur, il ne faut pas consulter davantage,</l>
 	<l id="2">Évitez les périls où l'amour vous engage ;</l>
@@ -299,7 +300,8 @@
 	<l id="196">Seigneur, le Roi qui vient vous en rendra certain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zinton, Artaban, Armetzar, Organte, Gardes du Roi.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Zinton, Artaban, Armetzar, Organte, Gardes du Roi.
+</stage>
 <sp who="ZINTON"><speaker>ZINTON.</speaker>
 	<l id="197">En vain à m'attaquer Tamerlan se prépare,</l>
 	<l id="198">Je ne redoute point les efforts du Tartare ;</l>
@@ -346,7 +348,8 @@
 	<l id="239">Oui, je veux aujourd'hui me venger par ton bras...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Un garde, et les précédents.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Un garde, et les précédents.
+</stage>
 <sp who="LE GARDE"><speaker>LE GARDE.</speaker>
 	<l id="240" syll="6" part="i">Sire, le Prince arrive.</l>
 </sp>
@@ -376,8 +379,10 @@
 	<l id="253">Mais il faut l'imiter, et cacher ce grand trouble.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Zinton, Artaban, Vanlie, Mennon, Armetzar,  Organte, Garde du Roy.</head>
-<sp stage="kiss" who="ZINTON"><speaker>ZINTON, embrassant son fils.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Zinton, Artaban, Vanlie, Mennon, Armetzar,  Organte, Garde du Roy.
+</stage>
+<sp who="ZINTON"><speaker>ZINTON</speaker><stage type="kiss">, embrassant son fils.
+	</stage>
 	<l id="254">Je te revois, mon fils, et mon plaisir redouble</l>
 	<l id="255">Lorsque je te revois pour offrir à ton bras</l>
 	<l id="256">Un illustre exercice, et pour toi plein d'appas.</l>
@@ -408,7 +413,8 @@
 	<l id="279">Il marche sur mes pas, et j'amène avec moi</l>
 	<l id="280">Trente mille Chinois pleins de zèle et de foi.</l>
 </sp>
-<sp stage="show" who="ZINTON"><speaker>ZINTON, lui montrant Armetzar.</speaker>
+<sp who="ZINTON"><speaker>ZINTON</speaker><stage type="show">, lui montrant Armetzar.
+	</stage>
 	<l id="281">Approche derechef, mon fils, que je t'embrasse,</l>
 	<l id="282">Et daigne après souffrir ce guerrier en ma place ;</l>
 	<l id="283">Tu dois à mon exemple honorer sa vertu</l>
@@ -429,7 +435,8 @@
 	<l id="295">Leur audace s'accroît plus vous les élevés,</l>
 	<l id="296">Et vous connaissez mal ceux dont vous vous servez.</l>
 </sp>
-<sp stage="low" who="ARMETZAR"><speaker>ARMETZAR, bas.</speaker>
+<sp who="ARMETZAR"><speaker>ARMETZAR</speaker><stage type="low">, bas.
+	</stage>
 	<l id="297">Ha Dieux ! Je suis perdu, ce discours me regarde.</l>
 </sp>
 <sp who="VANLIE"><speaker>VANLIE.</speaker>
@@ -474,12 +481,14 @@
 	<l id="330">Il faut que j'y donne ordre, et je vous laisse ensemble.</l>
 	<l id="331" syll="6" part="i">Vous, Prince, suivez moi.</l>
 </sp>
-<sp stage="low/away" who="ARMETZAR"><speaker>ARMETZAR, bas, tandis que le Roi s'en va.</speaker>
+<sp who="ARMETZAR"><speaker>ARMETZAR</speaker><stage type="low/away">, bas, tandis que le Roi s'en va.
+	</stage>
 	<l id="331" syll="6" part="f">Rassure toi, mon coeur,</l>
 	<l id="332">Et de tes faux soupçons condamne la rigueur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Vanlie, Armetzar, Mennon, Organte.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Vanlie, Armetzar, Mennon, Organte.
+</stage>
 <stage type="hugh">Après s'être tenus un peu de temps embrassés : les deux confidents en faisant de même de leur côté.</stage>
 <sp who="VANLIE"><speaker>VANLIE.</speaker>
 	<l id="333">C'est trop, il faut enfin pour étaler ma joie,</l>
@@ -635,7 +644,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE SECOND</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Ladice, Iliane.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Ladice, Iliane.
+</stage>
 <sp who="ILIANE"><speaker>ILIANE.</speaker>
 	<l id="465">Quoi, paraître si triste en un jour plein de joie !</l>
 	<l id="466">C'est peu goûter les biens que le Ciel vous envoie.</l>
@@ -782,7 +792,8 @@
 	<l id="578">Cette injuste marâtre et trop superbe Reine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zarimene, Ladice, Iliane, Ulanie.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Zarimene, Ladice, Iliane, Ulanie.
+</stage>
 <sp who="ZARIMENE"><speaker>ZARIMENE.</speaker>
 	<l id="579">Je viens mêler ma joie à vos ravissements,</l>
 	<l id="580">Et nous devons au Ciel mille remerciements ;</l>
@@ -865,14 +876,16 @@
 	<l id="631">Elle ne s'étend point jusques à votre fils</l>
 	<l id="632">Qui doit borner sa gloire à nous être soumis.</l>
 </sp>
-<sp stage="low" who="ZARIMENE"><speaker>ZARIMENE, bas.</speaker>
+<sp who="ZARIMENE"><speaker>ZARIMENE</speaker><stage type="low">, bas.
+	</stage>
 	<l id="633">C'est par trop endurer d'un insolent caprice,</l>
 	<l id="634">Le Roi vient à propos pour m'en faire justice :</l>
 	<l id="635">Mais il faut à présent lui cacher mon dépit,</l>
 	<l id="636">Et pour mieux me venger, feindre qu'il s'assoupit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Zinton, Vanlie, Armetzar, Artaban, Organte, Mennon, Zarimene, Ladice, Iliane, Ulanie, Gardes.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Zinton, Vanlie, Armetzar, Artaban, Organte, Mennon, Zarimene, Ladice, Iliane, Ulanie, Gardes.
+</stage>
 <sp who="ZINTON"><speaker>ZINTON.</speaker>
 	<l id="637">Madame, et vous, ma fille, après le noir orage</l>
 	<l id="638">Que vient de dissiper ce généreux courage,</l>
@@ -917,12 +930,14 @@
 	<l id="675">Et me donne moyen de pouvoir assouvir</l>
 	<l id="676">La forte passion que j'ai de la servir.</l>
 </sp>
-<sp stage="hesitate" who="ZARIMENE"><speaker>ZARIMENE, d'un ton qui témoigne qu'elle le prend d'un autre biais.</speaker>
+<sp who="ZARIMENE"><speaker>ZARIMENE</speaker><stage type="hesitate">, d'un ton qui témoigne qu'elle le prend d'un autre biais.
+	</stage>
 	<l id="677">Oui, cette passion nous est assez connue,</l>
 	<l id="678">Vous la cachez en vain sous trop de retenue,</l>
 	<l id="679">Et j'en ai toujours fait un digne jugement.</l>
 </sp>
-<sp stage="hesitate" who="ARTABAN"><speaker>ARTABAN, du même ton.</speaker>
+<sp who="ARTABAN"><speaker>ARTABAN</speaker><stage type="hesitate">, du même ton.
+	</stage>
 	<l id="680">Recevez d'Artaban le même compliment.</l>
 </sp>
 <sp who="VANLIE"><speaker>VANLIE.</speaker>
@@ -1004,7 +1019,8 @@
 <stage type="exit">Les Gardes se retirent avec Artaban et Armetzar.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Zinton, Vanlie, Zarimene, Ladice, Iliane, Ulanie.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Zinton, Vanlie, Zarimene, Ladice, Iliane, Ulanie.
+</stage>
 <sp who="ZINTON"><speaker>ZINTON.</speaker>
 	<l id="741">La chose est d'importance, et je veux qu'on l'avoue.</l>
 	<l id="742">Madame, la vertu mérite qu'on la loue :</l>
@@ -1122,7 +1138,8 @@
 	<l id="818">Ma soeur, avec Phocate on ne perd rien au change.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ladice, Iliane.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Ladice, Iliane.
+</stage>
 <sp who="LADICE"><speaker>LADICE.</speaker>
 	<l id="819">Dans quels nouveaux soucis vient on de m'engager !</l>
 	<l id="820">J'entends parler de change, et n'ai point à changer.</l>
@@ -1171,7 +1188,8 @@
 	<l id="853">Mais voyons à quel point peut monter son audace.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Armetzar, Ladice, Iliane.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Armetzar, Ladice, Iliane.
+</stage>
 <sp who="ARMETZAR"><speaker>ARMETZAR.</speaker>
 	<l id="854">Je viens ici, Madame, avec mauvaise grâce,</l>
 	<l id="855">Et vous aurez sujet de vous plaindre de moi :</l>
@@ -1181,7 +1199,8 @@
 	<l id="857">Je tiens ici sa place, et pourrai vous entendre ;</l>
 	<l id="858" syll="6" part="i">Qu'avez vous à lui dire ?</l>
 </sp>
-<sp stage="low" who="ARMETZAR"><speaker>ARMETZAR, bas.</speaker>
+<sp who="ARMETZAR"><speaker>ARMETZAR</speaker><stage type="low">, bas.
+	</stage>
 	<l id="858" syll="6" part="f">À quoi me dois-je attendre ?</l>
 	<l id="859">Rien qu'on ne put, Madame, un moment différer.</l>
 </sp>
@@ -1330,7 +1349,8 @@
 </poem>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Armetzar, Organte.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Armetzar, Organte.
+</stage>
 <sp who="ORGANTE"><speaker>ORGANTE.</speaker>
 	<l id="967" syll="2" part="i">Seigneur.</l>
 </sp>
@@ -1345,7 +1365,8 @@
 	<l id="968" syll="6" part="f">Que faut il que je croie !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Vanlie, Armetzar, Organte, Mennon.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Vanlie, Armetzar, Organte, Mennon.
+</stage>
 <sp who="VANLIE"><speaker>VANLIE.</speaker>
 	<l id="969" syll="6" part="i">Hé bien, mon cher Phocate !</l>
 </sp>
@@ -1490,7 +1511,8 @@
 	<l id="1074">Suis mon père au combat, j'y vais suivre le tien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Armetzar, Organte.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Armetzar, Organte.
+</stage>
 <sp who="ARMETZAR"><speaker>ARMETZAR.</speaker>
 	<l id="1075">Effet prodigieux d'une flamme amoureuse !</l>
 	<l id="1076">Illustre emportement d'une âme genereuse !</l>
@@ -1550,7 +1572,8 @@
 	<l id="1109">Allons, Seigneur, allons, je vous suis en tous lieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ladice, Iliane.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Ladice, Iliane.
+</stage>
 <sp who="LADICE"><speaker>LADICE.</speaker>
 	<l id="1110">Iliane, c'est lui qui se cache à mes yeux.</l>
 	<l id="1111">L'insolent m'obéit, et le cruel me tue,</l>
@@ -1608,7 +1631,8 @@
 	<l id="1154">Le discours qu'il m'apprête aura peu de crédit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Artaban, Ladice, Iliane.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Artaban, Ladice, Iliane.
+</stage>
 <sp who="ARTABAN"><speaker>ARTABAN.</speaker>
 	<l id="1155">Madame, ayant appris qu'on veut vous faire outrage,</l>
 	<l id="1156">Que contre vos désirs un père vous engage ;</l>
@@ -1676,7 +1700,8 @@
 	<l id="1202">Laissons la consentir à cette lâcheté.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Zarimene, Artaban, Ulanie.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Zarimene, Artaban, Ulanie.
+</stage>
 <sp who="ZARIMENE"><speaker>ZARIMENE.</speaker>
 	<l id="1203">Hé bien, as tu gagné quelque chose sur elle ?</l>
 	<l id="1204">Mon fils, il faut enfin vaincre cette rebelle,</l>
@@ -1758,7 +1783,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE QUATRIÈME</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Zinton, Artaban, Gardes.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Zinton, Artaban, Gardes.
+</stage>
 <sp who="ZINTON"><speaker>ZINTON.</speaker>
 	<l id="1259">Quoi tous deux à la fois, et mon fils et Phocate</l>
 	<l id="1260" syll="6" part="i">Abandonner mon camp ?</l>
@@ -1798,7 +1824,8 @@
 	<l id="1286">Je sais pourtant en faire un autre jugement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zinton, Artaban, Un garde.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Zinton, Artaban, Un garde.
+</stage>
 <sp who="LE GARDE"><speaker>LE GARDE.</speaker>
 	<l id="1287">Le Prince est de retour, Sire, et par sa vaillance</l>
 	<l id="1288">Quinsay vient de se rendre en votre obéissance.</l>
@@ -1812,7 +1839,8 @@
 	<l id="1294">Ô mon fils ! ô Phocate ! Auquel dois-je courir !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Zinton, Artaban, Armetzar, deux habitants de Quinsay.</head> 
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Zinton, Artaban, Armetzar, deux habitants de Quinsay. 
+</stage> 
 <sp who="ARMETZAR"><speaker>ARMETZAR.</speaker>
 	<l id="1295">Sire, voici le bras qui venge votre offense,</l>
 	<l id="1296">Mais de qui vous devez châtier l'insolence,</l>
@@ -1959,7 +1987,8 @@
 	<l id="1414">Ne nous exposons plus aux traits de sa rigueur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ladice, Iliane.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Ladice, Iliane.
+</stage>
 <sp who="LADICE"><speaker>LADICE.</speaker>
 <stage type="get/show">Elle entre tenant une lettre ouverte en la main.</stage>
 	<l id="1415">Que de biens à la fois ! Que de maux tout ensemble !</l>
@@ -2042,7 +2071,8 @@
 	<l id="1480">Mais, Madame, Armetzar vient chasser votre peur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Ladice, Armtezar, Iliane.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Ladice, Armtezar, Iliane.
+</stage>
 <sp who="LADICE"><speaker>LADICE. </speaker>
 <stage type="surprise">Armetzar qui ne croyoit pas que Ladice le connust encore, parest fort surpris.</stage>
 	<l id="1481">Armetzar, approchez, je vous permets ma vUe ;</l>
@@ -2159,7 +2189,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE CINQUIEME</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Zarimene, Ladice, Iliane, Ulanie.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><stage> Zarimene, Ladice, Iliane, Ulanie.
+</stage>
 <sp who="ZARIMENE"><speaker>ZARIMENE.</speaker>
 	<l id="1577">Princesse, avec raison votre noble arrogance</l>
 	<l id="1578">Méprise la vertu qu'obscurcit la naissance :</l>
@@ -2194,7 +2225,8 @@
 	<l id="1598" syll="6" part="f">Dieux ! Qu'en faut il attendre ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zarimene, Ladice, Iliane, Ulanie, Un garde.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Zarimene, Ladice, Iliane, Ulanie, Un garde.
+</stage>
 <sp who="LE GARDE"><speaker>LE GARDE.</speaker>
 	<l id="1599">Princesses, c'en est fait, le Tartare est vainqueur.</l>
 </sp>
@@ -2223,7 +2255,8 @@
 <sp who="ZARIMENE"><speaker>ZARIMENE.</speaker>
 	<l id="1613">C'est là ce digne amant, ou plutôt ce perfide.</l>
 </sp>
-<sp stage="faint" who="LADICE"><speaker>LADICE, comme pâmée.</speaker>
+<sp who="LADICE"><speaker>LADICE</speaker><stage type="faint">, comme pâmée.
+	</stage>
 	<l id="1614" syll="4" part="i">Iliane !</l>
 </sp>
 <sp who="LE GARDE"><speaker>LE GARDE.</speaker>
@@ -2268,7 +2301,8 @@
 	<l id="1632">Puisque mon fils est mort, il faut mourir aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ladice, Iliane, Le Garde.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Ladice, Iliane, Le Garde.
+</stage>
 <sp who="LADICE"><speaker>LADICE.</speaker>
 	<l id="1633">Est-ce un songe, Iliane ? Et puis-je avec justice</l>
 	<l id="1634">Croire sur ce rapport qu'Armetzar nous trahisse ?</l>
@@ -2293,7 +2327,8 @@
 	<l id="1645" syll="6" part="i">Fuyons, chère Iliane.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Armetzar, Ladice, Iliane, Le garde.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Armetzar, Ladice, Iliane, Le garde.
+</stage>
 <sp who="ARMETZAR"><speaker>ARMETZAR. </speaker>
 <stage type="entrance/threat/hurry">Il entre l'epée nue à la main, comme hors d'haleine, et sortant de la mêlée.</stage>
 	<l id="1645" syll="6" part="f">Oui, fuyons, ma Princesse,</l>
@@ -2350,7 +2385,8 @@
 	<l id="1678" syll="6" part="f">Dieux ! Apaisez mon père...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Tamerlan, Odmar, Axalla, Vanlie, Gardes.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Tamerlan, Odmar, Axalla, Vanlie, Gardes.
+</stage>
 <sp who="TAMERLAN"><speaker>TAMERLAN.</speaker>
 	<l id="1679">Enfin, je suis vainqueur de tous mes ennemis,</l>
 	<l id="1680">Tous les Rois de l'Asie à mes pieds sont soumis,</l>
@@ -2458,7 +2494,8 @@
 	<l id="1772">Les États de Zinton lui devaient être ouverts.</l>
 	<l id="1773">Justes Dieux, qu'à ce nom mon âme est combattue !</l>
 </sp>
-<sp stage="low" who="TAMERLAN"><speaker>TAMERLAN, bas.</speaker>
+<sp who="TAMERLAN"><speaker>TAMERLAN</speaker><stage type="low">, bas.
+	</stage>
 	<l id="1774">Oui de ce fier Zinton l'audace est abattue,</l>
 	<l id="1775">Je tiens en mon pouvoir ce superbe ennemi,</l>
 	<l id="1776">Qui par notre combat n'est vaincu qu'à demi.</l>
@@ -2467,7 +2504,8 @@
 	<l id="1779">Il faut que j'en triomphe une seconde fois.</l>
 	<l id="1780">Et que j'aie à mes pieds le plus altier des Rois.</l>
 </sp>
-<sp stage="low" who="VANLIE"><speaker>VANLIE, bas.</speaker>
+<sp who="VANLIE"><speaker>VANLIE</speaker><stage type="low">, bas.
+	</stage>
 	<l id="1781" syll="8" part="i">De quel oeil le verrai-je ? Ha Dieux !</l>
 </sp>
 <sp who="TAMERLAN"><speaker>TAMERLAN.</speaker>
@@ -2512,12 +2550,14 @@
 <sp who="UN GARDE"><speaker>UN GARDE.</speaker>
 	<l id="1805" syll="6" part="i">Seigneur, on vous l'amène.</l>
 </sp>
-<sp stage="low" who="VANLIE"><speaker>VANLIE, bas.</speaker>
+<sp who="VANLIE"><speaker>VANLIE</speaker><stage type="low">, bas.
+	</stage>
 	<l id="1805" syll="6" part="f">Ô mandement sévère !</l>
 	<l id="1806">Pourrai-je supporter la présence d'un père !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Tamerlan, Odmar, Axalla, Zinton, Armetzar, Vanlie, Gardes.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Tamerlan, Odmar, Axalla, Zinton, Armetzar, Vanlie, Gardes.
+</stage>
 <sp who="TAMERLAN"><speaker>TAMERLAN.</speaker>
 	<l id="1807">Que Zinton est heureux de t'avoir pour appui,</l>
 	<l id="1808">Phocate ! Le voilà : mais qui vois-je avec lui ?</l>

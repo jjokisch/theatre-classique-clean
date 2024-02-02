@@ -47,8 +47,10 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LA RIVALITÉ INUTILE</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Orgon, Lucette, Damon.</head>
-<sp stage="toward" who="ORGON"><speaker>ORGON, à Lucette.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Orgon, Lucette, Damon.
+</stage>
+<sp who="ORGON"><speaker>ORGON</speaker><stage type="toward">, à Lucette.
+</stage>
 <p id="1">
 	<s id="1">Eh ! </s>
 	<s id="2">Pourquoi ne m'en as-tu pas parlé plutôt ? </s>
@@ -128,7 +130,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Orgon, Cursac.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Orgon, Cursac.
+</stage>
 <sp who="CURSAC"><speaker>CURSAC.</speaker>
 <p id="1">
 	<s id="1">Eh ! </s>
@@ -259,7 +262,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Orgon, Monsieur de la Taupinière.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Orgon, Monsieur de la Taupinière.
+</stage>
 <sp who="MONSIEUR DE LA TAUPINIÈRE"><speaker>MONSIEUR DE LA TAUPINIÈRE.</speaker>
 <p id="1">
 	<s id="1">Notre cher et féal beau-père, salut. </s>
@@ -405,13 +409,16 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Cursac, Monsieur de la Taupinière.</head>
-<sp stage="dress" who="CURSAC"><speaker>CURSAC, enfonçant son chapeau.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Cursac, Monsieur de la Taupinière.
+</stage>
+<sp who="CURSAC"><speaker>CURSAC</speaker><stage type="dress">, enfonçant son chapeau.
+</stage>
 <p id="1">
 	<s id="1">C'est donc vous, Monsieur, qui prétendez m'enlever le coeur, et, qui pis est, la dot de Mademoiselle Lucette ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="MONSIEUR DE LA TAUPINIÈRE"><speaker>MONSIEUR DE LA TAUPINIÈRE, à part.</speaker>
+<sp who="MONSIEUR DE LA TAUPINIÈRE"><speaker>MONSIEUR DE LA TAUPINIÈRE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="2">
 	<s id="1">Oh ! </s>
 	<s id="2">Je ne savais pas que je trouverais ici une partie adverse qui formerait opposition.</s>
@@ -455,7 +462,8 @@
 <stage type="fight">Tous deux tirent l'épée, et ferraillent en se tenant fort éloignés.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cursac, Monsieur de la Taupinière, Orgon, Lucette, Damon.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Cursac, Monsieur de la Taupinière, Orgon, Lucette, Damon.
+</stage>
 <sp who="LUCETTE"><speaker>LUCETTE.</speaker>
 <p id="1">
 	<s id="1">Ah ! Mon père, on s'égorge chez vous : Messieurs , de grâce...</s>
@@ -497,7 +505,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCENE VI. Cursac, Monsieur de la Taupiniere.</head>
+<div2 type="scene" n="6"><head>SCENE VI.</head><stage> Cursac, Monsieur de la Taupiniere.
+</stage>
 <sp who="CURSAC"><speaker>CURSAC.</speaker>
 <p id="1">
 	<s id="1">Faut-il qu'une si belle prairie soit fauchée par un autre que moi ?... </s>

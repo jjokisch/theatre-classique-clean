@@ -70,9 +70,11 @@
 </front>			
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Florence, Philipin.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Florence, Philipin.
+</stage>
 <stage type="knock">Philipin frappe à la porte d'Anselme.</stage>
-<sp stage="open" who="FLORENCE"><speaker>FLORENCE, ouvrant la porte.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="open">, ouvrant la porte.
+	</stage>
 	<l id="1">Est-ce toi, Philipin ? Hé ! Qui t'amène ici ?</l>
 </sp>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
@@ -280,7 +282,8 @@
 	<l id="92">Mais je les vois là-bas. Adieu, je me retire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Anselme, Géraste.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Anselme, Géraste.
+</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="93" syll="6" part="i">Votre logis est loin.</l>
 </sp>
@@ -474,8 +477,10 @@
 	<l id="229">Je l'aperçois qui sort, et qui vient droit à nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Lucrèce, Florence, Anselme, Géraste.</head>
-<sp type="closer" who="ANSELME"><speaker>ANSELME, allant au-devant de Lucrèce..</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Lucrèce, Florence, Anselme, Géraste.
+</stage>
+<sp type="closer" who="ANSELME"><speaker>ANSELME</speaker><stage>, allant au-devant de Lucrèce..
+	</stage>
 	<l id="230">Ma fille, saluez Géraste, votre époux ;</l>
 	<l id="231">C'est en lui que je mets l'espoir de ma famille.</l>
 <stage type="toward">À Géraste.</stage>
@@ -538,7 +543,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="255" syll="10" part="i">Vous pouvez tout ici. Là, ma fille.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Lucrèce.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="255" syll="2" part="f">Madame,</l>
 	<l id="256">Puisque dans peu l'hymen vous doit rendre ma femme ;</l>
 	<l id="257">Je veux donc entre nous bannir le sérieux.</l>
@@ -601,17 +607,20 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="287">Elle eut vingt et trois ans à la Saint Jean dernière.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="288">La fille, à mon avis, n'est pas fort printanière :</l>
 	<l id="289">N'importe, elle me plaît, j'y vois de la santé.</l>
 <stage type="toward">À Lucrèce.</stage>
 	<l id="290">Aurez-vous des enfants en grande quantité ?</l>
 	<l id="291" syll="2" part="i">Parlez.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="291" syll="10" part="f">Sur ce sujet, quelle réponse faire ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="292">Elle peut se régler sur sa défunte mère.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -716,14 +725,16 @@
 	<l id="362">Ils pourraient me causer mille et mille chagrins.</l>
 <stage type="laugh">Florence rit.</stage>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Florence.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Florence.
+	</stage>
 	<l id="363" syll="6" part="i">Hé quoi ! vous riez donc ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="363" syll="6" part="f">C'est une impertinente ;</l>
 	<l id="364" syll="6" part="i">Excusez-la, Monsieur.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="364" syll="6" part="f">Est-ce votre servante ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -749,7 +760,8 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="370" syll="1" part="m">Quoi ?</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="370" syll="5" part="f">Vous l'embarrassez.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -768,7 +780,8 @@
 	<l id="379">Si j'en sais bien juger, entre nous deux, je gage</l>
 	<l id="380">Que vous la mitonnez depuis, votre veuvage.</l>
 </sp>
-<sp stage="smile" who="ANSELME"><speaker>ANSELME, en souriant.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="smile">, en souriant.
+	</stage>
 	<l id="381" syll="2" part="i">Ah ! Point.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -798,7 +811,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone/read" who="ANSELME"><speaker>ANSELME, seul, lit la lettre.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="alone/read">, seul, lit la lettre.
+</stage>
 <p id="1">
 	<s id="1">« Anselme, mon très cher ami,</s>
 </p>
@@ -833,9 +847,11 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Ariste, Philipin.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Ariste, Philipin.
+</stage>
 <stage type="decor">La scène est dans la chambre d'Ariste.</stage>
-<sp stage="dream" who="ARISTE"><speaker>ARISTE, sortant d'une profonde rêverie.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="dream">, sortant d'une profonde rêverie.
+	</stage>
 	<l id="401">Tu rêves, Philipin, et tu ne me dis mot.</l>
 </sp>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
@@ -900,7 +916,8 @@
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="428" syll="3" part="m">Quel malheur !</l>
 </sp>
-<sp stage="aparte" who="PHILIPIN"><speaker>PHILIPIN, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="428" syll="6" part="f">Sa fureur le va prendre ;</l>
 	<l id="429" syll="3" part="i">Fuyons vite.</l>
 </sp>
@@ -957,7 +974,8 @@
 	<l id="448" syll="6" part="f">Monsieur, voici Florence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Florence, Ariste, Philipin.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Florence, Ariste, Philipin.
+</stage>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="449">Hé bien ? Viens-tu, Florence, augmenter mon ennui ?</l>
 	<l id="450" syll="11" part="i">Me dire que Géraste est avec Anselme ?</l>
@@ -972,7 +990,8 @@
 	<l id="451" syll="6" part="f">Non ; mais lisez cette lettre :</l>
 	<l id="452">Vous verrez quel espoir elle peut vous permettre.</l>
 </sp>
-<sp stage="read" who="ARISTE"><speaker>ARISTE, lit.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="read">, lit.
+</stage>
 <p id="1">
 	<s id="1">« Vous me mandez que votre père doit arriver dans peu ; et moi, je vous avertis que Géraste est arrivé, qu'il presse fort notre mariage, et veut, dit-il, qu'il se fasse demain : c'est à vous à chercher quelque obstacle pour le reculer : en voici un, que Florence et moi avons imaginé, et dont vous pourrez aisément vous servir. </s>
 	<s id="2">Vous savez que mon père n'a nulle connaissance de votre amour, et qu'il ne vous a jamais vu ; ainsi je vous conseille de venir au logis, sous le nom de Géraste, et de soutenir que c'est un imposteur qui prend votre nom pour nous abuser : comme mon père ne l'a vu de sa vie qu'aujourd'hui, il me semble qu'il vous sera facile de réussir ; et, par là, vous aurez aisément les huit jours que vous me demandez encore. </s>
@@ -1016,7 +1035,8 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="467" syll="3" part="m">Gardez-les.</l>
 </sp>
-<sp stage="toward/read" who="ARISTE"><speaker>ARISTE, à Philipin, après avoir lu bas la lettre de Sbroct à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward/read">, à Philipin, après avoir lu bas la lettre de Sbroct à Anselme.
+	</stage>
 	<l id="467" syll="6" part="f">La fin de cette lettre,</l>
 	<l id="468">Dans ce que j'entreprends, semble tout me promettre.</l>
 <stage type="read">Il lit.</stage>
@@ -1049,11 +1069,13 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="478">C'est en vain là-dessus vous donner du souci.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE, s'en allant dans son cabinet.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage>, s'en allant dans son cabinet.
+	</stage>
 	<l id="479" syll="6" part="i">La chose en ira mieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Florence, Philipin.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Florence, Philipin.
+</stage>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="479" syll="6" part="f">Et sera plus faisable.</l>
 	<l id="480">Pour contrefaire un seing, il est adroit en diable :</l>
@@ -1090,7 +1112,8 @@
 	<l id="498">À raisonner pourtant je suis peu préparé ;</l>
 	<l id="499">Mais lorsqu'en raisonnant un esprit raisonnable...</l>
 </sp>
-<sp stage="laugh" who="FLORENCE"><speaker>FLORENCE, en riant.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="laugh">, en riant.
+	</stage>
 	<l id="500" syll="6" part="i">Ta raison est fort bonne.</l>
 </sp>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
@@ -1135,7 +1158,8 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="516" syll="1" part="i">Non...</l>
 </sp>
-<sp stage="touch" who="PHILIPIN"><speaker>PHILIPIN, la voulant caresser.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="touch">, la voulant caresser.
+	</stage>
 	<l id="516" syll="5" part="f">Tu me fais tort ; car...</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
@@ -1162,7 +1186,8 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="522" syll="1" part="m">Oui.</l>
 </sp>
-<sp stage="touch" who="PHILIPIN"><speaker>PHILIPIN, la prenant par la main.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="touch">, la prenant par la main.
+	</stage>
 	<l id="522" syll="1" part="m">Viens.</l>
 <stage type="push">Florence le repousse.</stage>
 </sp>
@@ -1227,7 +1252,8 @@
 <note type="L">Hobereau : Oiseau de leurre pour prendre de petits oideaux. Se dit figurément et ironiquement dans le discours satirique et burlesque, des petits nobles de campagne qui n'ont point de bien, et qui vont manger les autres ; on le dit aussi de ceux qui sont apprentifs et novices dans le monde. [F]</note>
 	<l id="534">Et je pourrais frotter ce Monsieur l'hobereau.</l>
 </sp>
-<sp stage="sweet" who="FLORENCE"><speaker>FLORENCE, le caressant.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="sweet">, le caressant.
+	</stage>
 	<l id="535">Que rien, cher Philipin, ne trouble ta cervelle ;</l>
 	<l id="536">Crois que, jusqu'au tombeau, je te serai fidèle,</l>
 	<l id="537">Que d'être ta moitié je fais tous mes souhaits.</l>
@@ -1245,14 +1271,17 @@
 	<l id="547">Celle qui veut tromper, a toujours sa défaite.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ariste, Florence, Philipin.</head>
-<sp stage="back" who="ARISTE"><speaker>ARISTE, revenant.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Ariste, Florence, Philipin.
+</stage>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="back">, revenant.
+	</stage>
 	<l id="548" syll="2" part="i">Florence ?</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="548" syll="2" part="m">Monsieur.</l>
 </sp>
-<sp stage="show" who="ARISTE"><speaker>ARISTE, lui montrant sa copie.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="show">, lui montrant sa copie.
+	</stage>
 	<l id="548" syll="8" part="f">Tiens, vois ; ma copie est faite.</l>
 	<l id="549" syll="6" part="i">Que t'en semble ? dis-moi.</l>
 </sp>
@@ -1260,7 +1289,8 @@
 	<l id="549" syll="6" part="f">Rien ne ressemble mieux ;</l>
 	<l id="550">Et, pour les distinguer, il faudrait de bons yeux.</l>
 </sp>
-<sp stage="watch" who="PHILIPIN"><speaker>PHILIPIN, regardant aussi la lettre.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="watch">, regardant aussi la lettre.
+	</stage>
 	<l id="551">Le Maître qui cet art fut si bien vous apprendre,</l>
 	<l id="552" syll="6" part="i">Vous apprit le secret...</l>
 </sp>
@@ -1296,7 +1326,8 @@
 	<l id="562">Géraste... Il vient, fuyons, qu'il ne nous voie pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Géraste, Anselme.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Géraste, Anselme.
+</stage>
 <stage type="wave">Anselme reconduisant Géraste, et lui fait des civilités.</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="563" syll="3" part="i">Demeurez.</l>
@@ -1379,8 +1410,10 @@
 	<l id="609" syll="6" part="i">Mais que veut ce garçon ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Licaste, Anselme, Géraste.</head>
-<sp stage="toward" who="LICASTE"><speaker>LICASTE, à Géraste.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Licaste, Anselme, Géraste.
+</stage>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="609" syll="6" part="f">Je vous cherche, Monsieur ?</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -1486,12 +1519,14 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="637">Trois pintes à dîner ! Il ne boit pas trop mal.</l>
 </sp>
-<sp stage="toward" who="LICASTE"><speaker>LICASTE, à Anselme.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="638">Pour boire sans tricher, on voit peu mon égal.</l>
 	<l id="639">Quand je serai chez vous, je veux trinquer sans cesse ;</l>
 	<l id="640" syll="6" part="i">Vous verrez si quelqu'un...</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Licaste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Licaste.
+	</stage>
 	<l id="640" syll="6" part="f">Halte à cette prouesse ;</l>
 	<l id="641">Car boire incessamment peut troubler la raison,</l>
 	<l id="642">Et causer du malheur dedans une maison.</l>
@@ -1500,7 +1535,8 @@
 	<l id="643">Monsieur, sur ce sujet, que rien ne vous étonne.</l>
 	<l id="644">Pour mon Maître, il sait boire aussi bien qu'il raisonne.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="645">Il est plus raisonnable, étant de sens rassis ;</l>
 	<l id="646">Mais il faut excuser le vice du pays :</l>
 	<l id="647" syll="6" part="i">D'ailleurs il sert fort bien.</l>
@@ -1519,7 +1555,8 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="650" syll="3" part="f">Je le crois.</l>
 </sp>
-<sp stage="toward" who="LICASTE"><speaker>LICASTE, à Géraste.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="651" syll="8" part="i">S'il n'est pas revenu, Monsieur ?</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -1553,7 +1590,8 @@
 <sp who="LICASTE"><speaker>LICASTE.</speaker>
 	<l id="661" syll="10" part="f">Que ce jour-là je boirai comme il faut !</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Licaste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Licaste.
+	</stage>
 	<l id="662" syll="6" part="i">Veux-tu boire à présent ?</l>
 </sp>
 <sp who="LICASTE"><speaker>LICASTE.</speaker>
@@ -1561,7 +1599,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp stage="alone" who="ANSELME"><speaker>ANSELME, seul.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="663">Mon gendre a de l'esprit ; mais il est trop critique,</l>
 	<l id="664">Et croit que ce qu'il dit, doit être sans réplique,</l>
 	<l id="665">À le combattre aussi je dois peu m'arrêter,</l>
@@ -1574,7 +1613,8 @@
 	<l id="672" syll="4" part="i">Ho, ma fille !</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Lucrèce, Florence, Anselme.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Lucrèce, Florence, Anselme.
+</stage>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
 	<l id="672" syll="2" part="m">Mon père !</l>
 </sp>
@@ -1650,7 +1690,8 @@
 	<l id="709">Il n'affecte en ses moeurs aucun déguisement,</l>
 	<l id="710">Et dans tout ce qu'il fait, il agit franchement.</l>
 </sp>
-<sp stage="toward" who="FLORENCE"><speaker>FLORENCE, à Lucrèce.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="711">Avec un tel époux, que vous ferez heureuse !</l>
 	<l id="712">Vous pourrez bien jurer de n'être jamais gueuse.</l>
 </sp>
@@ -1659,7 +1700,8 @@
 	<l id="714">Que Géraste est ici. Toi, vas te divertir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Lucrèce, Florence.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Lucrèce, Florence.
+</stage>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="715">Hé bien ! Qu'en dites-vous ? N'êtes-vous pas contente ?</l>
 	<l id="716">Tout semble apparemment répondre à notre attente.</l>
@@ -1733,7 +1775,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Géraste, Licaste.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Géraste, Licaste.
+</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="763">Vas, retourne à l'auberge, et surtout qu'on attende</l>
 	<l id="764">Cet homme qui, dis-tu, me cherche et me demande :</l>
@@ -1777,7 +1820,8 @@
 	<l id="784" syll="6" part="f">Monsieur, laissez-moi faire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Anselme, Géraste.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Anselme, Géraste.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="785" syll="9" part="i">Hé bien ? Avez-vous vu cet homme ?</l>
 </sp>
@@ -1793,8 +1837,10 @@
 	<l id="787" syll="2" part="i">Qu'est-ce ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Géraste, Anselme, Licaste.</head>
-<sp who="LICASTE"><speaker>LICASTE, à Géraste.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Géraste, Anselme, Licaste.
+</stage>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage>, à Géraste.
+	</stage>
 	<l id="787" syll="10" part="f">Si ce Monsieur ne me voulait rien dire,</l>
 	<l id="788" syll="6" part="i">Ni venir en ce lieu ?</l>
 </sp>
@@ -1831,32 +1877,41 @@
 	<l id="797" syll="2" part="i">J'y vais.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ariste, Philipin, Anselme.</head>
-<sp stage="low/toward" who="ARISTE"><speaker>ARISTE, bas à Philipin.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Ariste, Philipin, Anselme.
+</stage>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="low/toward">, bas à Philipin.
+	</stage>
 	<l id="797" syll="4" part="m">Vois-tu bien l'homme ?</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="797" syll="6" part="f">Oui, Monsieur, je le vois.</l>
 </sp>
-<sp stage="low/toward" who="ARISTE"><speaker>ARISTE, haut à Philipin.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="low/toward">, haut à Philipin.
+	</stage>
 	<l id="798" syll="6" part="i">Cherche Anselme en ce lieu.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Philipin.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Philipin.
+	</stage>
 	<l id="798" syll="6" part="f">Que lui veux-tu ? C'est moi.</l>
 </sp>
-<sp stage="toward" who="PHILIPIN"><speaker>PHILIPIN, à Anselme.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="799" syll="6" part="i">Bon. On veut lui parler.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="799" syll="2" part="m">Et qui ?</l>
 </sp>
-<sp stage="show" who="PHILIPIN"><speaker>PHILIPIN, montrant Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="show">, montrant Ariste.
+	</stage>
 	<l id="799" syll="4" part="f">Ce Gentilhomme.</l>
 </sp>
-<sp stage="wave" who="ARISTE"><speaker>ARISTE, saluant Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="wave">, saluant Anselme.
+	</stage>
 	<l id="800" syll="2" part="i">Monsieur...</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Ariste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="800" syll="4" part="m">Que vous plaît-il ?</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
@@ -1916,13 +1971,15 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="807" syll="2" part="i">Plaît-il ?</l>
 </sp>
-<sp stage="toward" who="PHILIPIN"><speaker>PHILIPIN, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="807" syll="10" part="f">Criez bien fort ; Monsieur est sourd, sans doute.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="808">Hé, je ne suis pas sourd, puisque je vous écoute.</l>
 </sp>
-<sp stage="toward" who="PHILIPIN"><speaker>PHILIPIN, à Anselme.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="809">Oui-dà, vous écoutez ; mais vous n'entendez pas.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -1931,13 +1988,15 @@
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="810" syll="2" part="m">Tais-toi.</l>
 </sp>
-<sp stage="toward" who="PHILIPIN"><speaker>PHILIPIN, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="810" syll="9" part="f">Mais aussi, pourquoi tous ces débats ?</l>
 	<l id="811">Faut-il tant répéter, pour lui faire comprendre</l>
 	<l id="812">Que vous êtes Géraste, ainsi son futur gendre ?</l>
 	<l id="813" syll="6" part="i">Et que votre oncle est Sbroct.</l>
 </sp>
-<sp stage="toward/give" who="ARISTE"><speaker>ARISTE, donne une lettre à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward/give">, donne une lettre à Anselme.
+	</stage>
 	<l id="813" syll="6" part="f">Monsieur, il vous écrit :</l>
 	<l id="814" syll="2" part="i">Tenez.</l>
 </sp>
@@ -1947,7 +2006,8 @@
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="815" syll="2" part="i">Lisez.</l>
 </sp>
-<sp stage="read/low" who="ANSELME"><speaker>ANSELME, après avoir lu bas.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="read/low">, après avoir lu bas.
+	</stage>
 	<l id="815" syll="10" part="f">Cette lettre est toute semblable à l'autre.</l>
 	<l id="816">L'un de ces deux Messieurs est un malin apôtre ;</l>
 	<l id="817">Il est fourbe, trompeur, et me veut affronter,</l>
@@ -1963,7 +2023,8 @@
 <note type="L">apostille : Annotation en marge ou au bas d'un écrit. [L]</note>
 	<l id="820">Rien n'y manque, et j'y vois jusques à l'apostille.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="821">Nous avons, ce me semble, assez bien commencé.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
@@ -1975,7 +2036,8 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="823" syll="3" part="i">La voilà.</l>
 </sp>
-<sp stage="read" who="ANSELME"><speaker>ANSELME, comparant les deux lettres.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="read">, comparant les deux lettres.
+	</stage>
 	<l id="823" syll="9" part="f">Ça, voyons. Ah ! rien n'est si semblable,</l>
 	<l id="824">Il faut, pour cette fourbe, être faussaire en diable.</l>
 	<l id="825">Monsieur, pour m'expliquer avec vous sans façon,</l>
@@ -1997,7 +2059,8 @@
 	<l id="830" syll="6" part="i">Mettez-vous à l'écart.</l>
 <stage type="location/call">Il va à la porte de sa maison appeler Géraste.</stage>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="830" syll="6" part="f">Monsieur, point de courroux</l>
 	<l id="831" syll="1" part="i">Car...</l>
 </sp>
@@ -2005,14 +2068,18 @@
 	<l id="831" syll="5" part="m">Tais-toi ; les voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Anselme, Géraste, Ariste, Philipin.</head>
-<sp stage="entrance" who="GÉRASTE"><speaker>GÉRASTE, sortant de la maison d'Anselme.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Anselme, Géraste, Ariste, Philipin.
+</stage>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="entrance">, sortant de la maison d'Anselme.
+	</stage>
 	<l id="831" syll="1" part="f">Qu'est-ce ?</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="831" syll="5" part="f">Êtes-vous Géraste ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="832" syll="1" part="i">Oui.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -2049,10 +2116,12 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="840">Je dis ce qu'il m'a dit, et te voici lui-même.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Ariste.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="841" syll="6" part="i">Quoi ! Vous êtes Géraste ?</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Géraste.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="841" syll="6" part="f">Oui, Monsieur, je le suis.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -2078,7 +2147,8 @@
 	<l id="844" syll="6" part="f">Qui des deux est mon gendre ?</l>
 	<l id="845" syll="6" part="i">Est-ce vous ? Est-ce vous ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="845" syll="3" part="m">C'est Géraste.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
@@ -2111,7 +2181,8 @@
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="853" syll="6" part="f">Pourquoi ? Non, il est mort.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="854">Que diable savez-vous ? Vous vous hasardez fort.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
@@ -2121,41 +2192,50 @@
 	<l id="855" syll="6" part="f">Hé, pour nous satisfaire,</l>
 	<l id="856">Apprenez-nous encor le nom de votre mère.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="857">Et croyez-vous, par là, me désorienter ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="858" syll="2" part="i">Ho, non.</l>
 </sp>
-<sp stage="aparte" who="PHILIPIN"><speaker>PHILIPIN, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="858" syll="1" part="m">Non.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="858" syll="9" part="f">Sur ce point je veux vous contenter.</l>
 	<l id="859">Son surnom est La Roche, et son nom propre, Hortense.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas à Ariste.
+	</stage>
 	<l id="860" syll="6" part="i">De qui le tenez-vous ?</l>
 </sp>
-<sp stage="low/toward" who="ARISTE"><speaker>ARISTE, bas, à Philipin.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="low/toward">, bas, à Philipin.
+	</stage>
 	<l id="860" syll="6" part="f">Des lettres que Florence...</l>
 </sp>
-<sp stage="low" who="PHILIPIN"><speaker>PHILIPIN, bas.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low">, bas.
+	</stage>
 	<l id="861" syll="4" part="i">J'entends, suffit.</l>
 </sp>
-<sp sstage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp sstage="toward" who="ANSELME"><speaker>ANSELME</speaker><stage>, à Géraste.
+	</stage>
 	<l id="861" syll="2" part="m">Hé bien ?</l>
 </sp>
-<sp stage="toward/dream" who="GÉRASTE"><speaker>GÉRASTE, à Ariste, après avoir un peu rêvé.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward/dream">, à Ariste, après avoir un peu rêvé.
+	</stage>
 	<l id="861" syll="6" part="f">Quel est votre parrain ?</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Géraste.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="862">Il en faudrait ainsi nommer jusqu'à demain.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="863" syll="4" part="i">Il a raison.</l>
 </sp>
-<sp stage="low" who="PHILIPIN"><speaker>PHILIPIN, bas.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low">, bas.
+	</stage>
 	<l id="863" syll="2" part="f">Bon, bon.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -2167,7 +2247,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="864" syll="11" part="f">Ses réponses sont tout à fait convaincantes.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="865">Quoi ! Bonhomme, déjà vous prenez son parti ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -2188,13 +2269,16 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="871" syll="4" part="i">Comment, les lettres !</l>
 </sp>
-<sp stage="give" who="ANSELME"><speaker>ANSELME, lui donnant les deux lettres.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="give">, lui donnant les deux lettres.
+	</stage>
 	<l id="871" syll="3" part="m">Oui, tenez.</l>
 </sp>
-<sp stage="open" who="GÉRASTE"><speaker>GÉRASTE, ouvrant celle d'Ariste.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="open">, ouvrant celle d'Ariste.
+	</stage>
 	<l id="871" syll="5" part="f">Voici la mienne.</l>
 </sp>
-<sp stage="watch" who="ANSELME"><speaker>ANSELME, regardant la lettre.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="watch">, regardant la lettre.
+	</stage>
 	<l id="872" syll="2" part="i">La vôtre ?</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -2219,16 +2303,19 @@
 	<l id="877">Jugez si j'ai sujet d'être dans l'embarras.</l>
 	<l id="878" syll="6" part="i">Entendez-vous ceci ?</l>
 </sp>
-<sp stage="watch" who="GÉRASTE"><speaker>GÉRASTE, considérant les deux lettres.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="watch">, considérant les deux lettres.
+	</stage>
 	<l id="878" syll="6" part="f">Non, je ne l'entends pas.</l>
 	<l id="879">Je ne me vis jamais surpris de telle sorte.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Géraste.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="880">Mais à prendre mon nom, quel intérêt vous porte ?</l>
 	<l id="881">Vous êtes quelque fourbe, ou bien de ces filous,</l>
 	<l id="882" syll="6" part="i">Qui pour tromper les gens...</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Ariste.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="882" syll="6" part="f">Monsieur, allons tout doux ;</l>
 	<l id="883" syll="1" part="i">Car...</l>
 </sp>
@@ -2256,15 +2343,18 @@
 	<l id="887" syll="6" part="f">Ah ! Trêve de potence,</l>
 	<l id="888" syll="5" part="i">Monsieur, au moins ; car...</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Philipin.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Philipin.
+	</stage>
 	<l id="888" syll="1" part="m">Paix.</l>
 </sp>
-<sp stage="call" who="ANSELME"><speaker>ANSELME, appelant sa fille et sa servante.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="call">, appelant sa fille et sa servante.
+	</stage>
 	<l id="888" syll="6" part="f">Ho, Lucrèce et Florence,</l>
 	<l id="889" syll="2" part="i">Venez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE IV. Lucrèce, Florence, Anselme, Ariste, Géraste, Philipin.</head>
+<div2 type="scene" n="6"><head>SCÈNE IV.</head><stage> Lucrèce, Florence, Anselme, Ariste, Géraste, Philipin.
+</stage>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
 	<l id="889" syll="4" part="m">Que vous plaît-il ?</l>
 </sp>
@@ -2274,11 +2364,13 @@
 	<l id="891">Vous les donner tous deux j'y vois peu d'apparence.</l>
 <stage type="low/toward">Anselme parle bas à sa fille.</stage>
 </sp>
-<sp stage="aparte" who="PHILIPIN"><speaker>PHILIPIN, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="892">Elle en pourrait, par-là, faire la différence,</l>
 	<l id="893">Et savoir qui des deux ferait mieux à son point.</l>
 </sp>
-<sp stage="laugh" who="LUCRÈCE"><speaker>LUCRÈCE, riotant.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="laugh">, riotant.
+</stage>
 <note type="L">Rioter : Rire un p9eu, rire dédaigneusement. [L]</note>
 	<l id="894" syll="6" part="i">Vous vous raillez de nous.</l>
 </sp>
@@ -2330,15 +2422,19 @@
 	<l id="910" syll="9" part="f">Maugrebleu de la duplicité !</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE IIV. Kerlonte, Licaste, Anselme, Géraste, Ariste, Lucrèce, Florence, Philipin.</head>
-<sp stage="toward" who="LICASTE"><speaker>LICASTE, à Kerlonte.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE IIV.</head><stage> Kerlonte, Licaste, Anselme, Géraste, Ariste, Lucrèce, Florence, Philipin.
+</stage>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="toward">, à Kerlonte.
+	</stage>
 	<l id="911">Monsieur, voici mon Maître, et Monsieur son beau-père.</l>
 </sp>
-<sp stage="toward/wave" who="KERLONTE"><speaker>KERLONTE, après avoir salué négligemment dit à Anselme.</speaker>
+<sp who="KERLONTE"><speaker>KERLONTE</speaker><stage type="toward/wave">, après avoir salué négligemment dit à Anselme.
+	</stage>
 	<l id="912">Monsieur, en peu de mots, une importante affaire</l>
 	<l id="913" syll="6" part="i">Me fait venir ici.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Kerlonte.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Kerlonte.
+	</stage>
 	<l id="913" syll="6" part="f">Pour l'apprendre de vous,</l>
 	<l id="914">Dois-je, dans ce moment, les faire éloigner tous ?</l>
 </sp>
@@ -2357,7 +2453,8 @@
 	<l id="921">Pour vous parler, Monsieur, comme un homme d'honneur.</l>
 	<l id="922">Apprenez que Géraste est un franc suborneur.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas à Ariste.
+	</stage>
 	<l id="923" syll="6" part="i">Tout est perdu, Monsieur.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -2386,16 +2483,19 @@
 	<l id="932">Sur ce chapitre-là, j'ai de quoi le confondre :</l>
 	<l id="933" syll="3" part="i">Qu'il parle.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à tous deux.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à tous deux.
+	</stage>
 	<l id="933" syll="3" part="m">Là, parlez.</l>
 </sp>
 <sp who="KERLONTE"><speaker>KERLONTE.</speaker>
 	<l id="933" syll="6" part="f">Que peut-il m'objecter ?</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="934" syll="6" part="i">Répondez donc, Monsieur.</l>
 </sp>
-<sp stage="low/toward" who="ARISTE"><speaker>ARISTE, bas.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="low/toward">, bas.
+	</stage>
 	<l id="934" syll="6" part="f">Non, je veux écouter.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -2406,7 +2506,8 @@
 	<l id="937">Il ne répondra points, il est trop interdit,</l>
 	<l id="938">Et ce silence enfin prouve ce que j'ai dit.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Kerlonte.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Kerlonte.
+	</stage>
 	<l id="939">Ce que vous nous contez est une étrange affaire :</l>
 	<l id="940">Mais, Monsieur, aidez-nous à percer un mystère,</l>
 	<l id="941" syll="5" part="i">Vous êtes de Nantes ?</l>
@@ -2455,7 +2556,8 @@
 <sp who="KERLONTE"><speaker>KERLONTE.</speaker>
 	<l id="960" syll="6" part="f">Ce n'est point une fable.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à tous deux, l'un après l'autre.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à tous deux, l'un après l'autre.
+	</stage>
 	<l id="961">Or sus, Monsieur Géraste, et vous, Géraste aussi,</l>
 	<l id="962">Vous pouvez là-dessus nous ôter de souci ;</l>
 	<l id="963">Il nous faut maintenant expliquer face à face.</l>
@@ -2473,7 +2575,8 @@
 <sp who="KERLONTE"><speaker>KERLONTE.</speaker>
 	<l id="969" syll="6" part="i">Il s'en faut éclaircir.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, parlant à eux.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, parlant à eux.
+	</stage>
 	<l id="969" syll="4" part="f">Quoi ! Vous êtes muets ?</l>
 	<l id="970">Soutenez, pour le moins, ici vos intérêts,</l>
 	<l id="971" syll="6" part="i">Répondez à Monsieur.</l>
@@ -2508,25 +2611,32 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="983" syll="6" part="f">Et moi, j'en veux à l'autre.</l>
 </sp>
-<sp stage="low" who="PHILIPIN"><speaker>PHILIPIN, bas.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low">, bas.
+	</stage>
 	<l id="984">Monsieur, songez à vous ; cette affaire est la vôtre.</l>
 </sp>
-<sp stage="low/toward" who="KERLONTE"><speaker>KERLONTE, après avoir parlé bas à Anselme.</speaker>
+<sp who="KERLONTE"><speaker>KERLONTE</speaker><stage type="low/toward">, après avoir parlé bas à Anselme.
+	</stage>
 	<l id="985">Adieu, pour le connaître, appliquez tous vos soins ;</l>
 	<l id="986">Et moi, de mon côté, je n'en ferai pas moins.</l>
 </sp>
-<sp stage="toward/exit" who="ANSELME"><speaker>ANSELME, à Kerlonte, qui s'en va.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward/exit">, à Kerlonte, qui s'en va.
+	</stage>
 	<l id="987">Le temps nous en pourra donner quelque lumière.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Anselme, Lucrèce, Florence, Géraste, Ariste, Licaste, Philipin.</head>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à Ariste.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Anselme, Lucrèce, Florence, Géraste, Ariste, Licaste, Philipin.
+</stage>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à Ariste.
+	</stage>
 	<l id="988">Je vous vois engagé dans une étrange affaire.</l>
 </sp>
-<sp stage="low/toward" who="ARISTE"><speaker>ARISTE, bas, à Philipin.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="low/toward">, bas, à Philipin.
+	</stage>
 	<l id="989" syll="6" part="i">J'en saurai bien sortir.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à tous deux.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à tous deux.
+	</stage>
 	<l id="989" syll="6" part="f">Çà, parlons franchement.</l>
 	<l id="990">Ce que cet homme dit a bien du fondement ;</l>
 	<l id="991">Par vos lettres, j'y vois beaucoup de certitude.</l>
@@ -2536,10 +2646,12 @@
 </p>
 	<l id="992" syll="2" part="i">Hé ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="992" syll="10" part="f">Cela ne me cause aucune inquiétude.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="993">Pour moi, je ne crains rien, le temps vous l'apprendra.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -2554,11 +2666,13 @@
 	<l id="997" syll="9" part="f">Je soutiens que ce nom est à moi,</l>
 	<l id="998" syll="6" part="i">Et que rien n'est plus vrai.</l>
 </sp>
-<sp stage="toward" who="LICASTE"><speaker>LICASTE, à Géraste.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="998" syll="6" part="f">Qu'est-ce donc que je vois,</l>
 	<l id="999" syll="2" part="i">Monsieur ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Licaste.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Licaste.
+	</stage>
 	<l id="999" syll="" part="f">N'entends-tu pas ? Monsieur se dit Géraste.</l>
 </sp>
 <sp who="LICASTE"><speaker>LICASTE.</speaker>
@@ -2581,7 +2695,8 @@
 	<l id="1009">Je vous donne à tous deux la même liberté,</l>
 	<l id="1010">Pourvu qu'on ne s'emporte à nulle extrémité.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1011">Par-là, je me ferais un trop grand préjudice ;</l>
 	<l id="1012">Et le temps seul, Monsieur, doit me rendre justice.</l>
 </sp>
@@ -2624,16 +2739,20 @@
 <stage type="toward">À Ariste.</stage>
 	<l id="1033">Venez vous reposer quelques moments chez nous.</l>
 </sp>
-<sp stage="pull" who="ARISTE"><speaker>ARISTE, prenant Lucrèce.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="pull">, prenant Lucrèce.
+	</stage>
 	<l id="1034" syll="3" part="i">Je le veux.</l>
 </sp>
-<sp stage="toward/touch" who="ANSELME"><speaker>ANSELME, à Géraste, lui touchant dans la main.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward/touch">, à Géraste, lui touchant dans la main.
+	</stage>
 	<l id="1034" syll="9" part="f">Serviteur. Une autre fois pour vous</l>
 	<l id="1035" syll="6" part="i">J'en saurai bien user.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Licaste, Philipin.</head>
-<sp stage="pull" who="LICASTE"><speaker>LICASTE, tirant Philipin, qui veut entrer chez Anselme.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Licaste, Philipin.
+</stage>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="pull">, tirant Philipin, qui veut entrer chez Anselme.
+	</stage>
 	<l id="1035" syll="6" part="f">Quoi ! Ton Maître est Géraste ?</l>
 </sp>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
@@ -2700,7 +2819,8 @@
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1051" syll="6" part="f">Hé... J'y connais du monde.</l>
 </sp>
-<sp stage="aparte" who="LICASTE"><speaker>LICASTE, à part.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="1052">Et quel monde ? Voyons, il faut que je le sonde.</l>
 	<l id="1053" syll="6" part="i">Là, nomme donc les gens.</l>
 </sp>
@@ -2823,28 +2943,34 @@
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1074" syll="6" part="f">C'en est trop : un bâton.</l>
 </sp>
-<sp stage="escape" who="LICASTE"><speaker>LICASTE, fuyant.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="escape">, fuyant.
+	</stage>
 	<l id="1075" syll="3" part="i">Un bâton !</l>
 </sp>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1075" syll="1" part="m">Viens.</l>
 </sp>
-<sp stage="threat/location" who="LICASTE"><speaker>LICASTE, menaçant de loin.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="threat/location">, menaçant de loin.
+	</stage>
 	<l id="1075" syll="2" part="m">Viens, toi.</l>
 </sp>
-<sp stage="closer" who="PHILIPIN"><speaker>PHILIPIN, allant à lui.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="closer">, allant à lui.
+	</stage>
 	<l id="1075" syll="6" part="f">Je te romprai la tête.</l>
 </sp>
-<sp stage="away" who="LICASTE"><speaker>LICASTE, s'en allant.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="away">, s'en allant.
+	</stage>
 	<l id="1076" syll="1" part="i">Hé...</l>
 </sp>
-<sp stage="aparte/exit" who="PHILIPIN"><speaker>PHILIPIN, à part, en s'en allant.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte/exit">, à part, en s'en allant.
+	</stage>
 	<l id="1076" syll="11" part="f">Tout va bien pour nous ; ne troublons point la fête.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Anselme, Ariste, Philipin.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Anselme, Ariste, Philipin.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1077">Monsieur, vous savez bien ce que j'ai tantôt dit,</l>
 	<l id="1078">Pour fuir l'occasion de s'altérer l'esprit :</l>
@@ -2867,7 +2993,8 @@
 </sp>
 </div2>
 <div2 type="scene" n="1"><head>SCÈNE II.</head>
-<sp stage="alone" who="ANSELME"><speaker>ANSELME, seul.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="1085">Je suis seul à présent ; çà, raisonnons ici ;</l>
 	<l id="1086">Et cherchons ce qui peut me tirer de souci.</l>
 <note type="L">Happelourde :  Fig. et familièrement. Personne d'un extérieur agréable, mais dépourvue d'esprit. [L]</note>
@@ -2905,7 +3032,8 @@
 	<l id="1118">Et, pour en bien parler, on voit peu son pareil.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Florame, Anselme.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Florame, Anselme.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1119">Mais que vois-je ? c'est lui que le hasard m'amène.</l>
 <stage type="toward">À Florame.</stage>
@@ -2925,7 +3053,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1124">Ce que je vous dirai, regarde votre nièce.</l>
 </sp>
-<sp stage="sad" who="FLORAME"><speaker>FLORAME, grondant.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="sad">, grondant.
+	</stage>
 	<l id="1125" syll="3" part="i">Son honneur...</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -3182,7 +3311,8 @@
 	<l id="1264">Quoi ! vous pourrez souffrir qu'alors il en jouisse ?</l>
 	<l id="1265">Point ; il faut enterrer votre bien avec vous.</l>
 </sp>
-<sp stage="anger" who="FLORAME"><speaker>FLORAME, se mettant en colère.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="anger">, se mettant en colère.
+	</stage>
 	<l id="1266" syll="6" part="i">C'est donc pour me railler...</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -3197,12 +3327,14 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1271" syll="3" part="i">Adieu donc.</l>
 </sp>
-<sp stage="exit" who="FLORAME"><speaker>FLORAME, s'en allant.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="exit">, s'en allant.
+	</stage>
 	<l id="1271" syll="3" part="m">Adieu donc.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone" who="ANSELME"><speaker>ANSELME, seul.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="1271" syll="6" part="f">Qu'il a l'humeur étrange !</l>
 	<l id="1272">Si vous ne l'approuvez, quand vous seriez un Ange,</l>
 	<l id="1273">Vous êtes, à son sens, un homme sans esprit,</l>
@@ -3210,8 +3342,10 @@
 	<l id="1275" syll="3" part="i">Mais rentrons.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE V. Anselme, Lucrèce, Florence.</head>
-<sp stage="watch" who="ANSELME"><speaker>ANSELME, rencontrant Lucrèce.</speaker>
+<div2 type="scene" n=""><head>SCÈNE V.</head><stage> Anselme, Lucrèce, Florence.
+</stage>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="watch">, rencontrant Lucrèce.
+	</stage>
 	<l id="1275" syll="3" part="m">Où vas-tu ?</l>
 </sp>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
@@ -3244,7 +3378,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1284" syll="6" part="f">Tout doux, et sans colère.</l>
 </sp>
-<sp stage="toxard" who="FLORENCE"><speaker>FLORENCE, à Lucrèce.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="toxard">, à Lucrèce.
+	</stage>
 	<l id="1285">Votre oncle, de malice ose vous soupçonner ?</l>
 	<l id="1286">Ah ! Que n'étais-je là, pour l'ouïr raisonner ?</l>
 	<l id="1287" syll="6" part="i">Je l'aurais entrepris.</l>
@@ -3275,22 +3410,26 @@
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="1303" syll="6" part="f">De plus, il est avare...</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Florence.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Florence.
+	</stage>
 	<l id="1304">Tais-toi. L'on fait qu'en tout il est assez bizarre ;</l>
 	<l id="1305">Mais c'est toujours mon oncle ; il le faut excuser,</l>
 	<l id="1306">Et nous ne devons point nous en formaliser.</l>
 </sp>
-<sp stage="toward" who="FLORENCE"><speaker>FLORENCE, à Lucrèce.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1307">Quoi ! Vouloir l'épargner, alors qu'il vous offense ?</l>
 </sp>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
 	<l id="1308">Tu fais qu'à tort souvent l'on blâme l'innocence.</l>
 </sp>
-<sp who="ANSELME"><speaker>ANSELME, à Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage>, à Lucrèce.
+	</stage>
 	<l id="1309">Ne t'inquiète point, laisse agir son esprit ;</l>
 	<l id="1310">Je te connais à fond, et cela me suffit.</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Anselme.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1311">Il est pourtant fâcheux de voir qu'on me soupçonne</l>
 	<l id="1312" syll="6" part="i">À tort et sans raison.</l>
 </sp>
@@ -3311,10 +3450,12 @@
 	<l id="1318">Et sur Monsieur son fils chapitrer, déchirer ;</l>
 	<l id="1319">Pour se venger de lui, c'est un champ assez vaste.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1320">Dis-moi, lequel des deux crois-tu le vrai Géraste ?</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Anselme.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1321" syll="3" part="i">Je ne sais.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -3383,7 +3524,8 @@
 	<l id="1354" syll="6" part="i">Je reviendrai dans peu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Lucrèce, Florence.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Lucrèce, Florence.
+</stage>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
 	<l id="1354" syll="6" part="f">Florence, en vérité,</l>
 	<l id="1355">Je me trouve, à ce coup, assez embarrassée.</l>
@@ -3408,12 +3550,14 @@
 	<l id="1366">J'aime Ariste, il est vrai ; mais j'aime mon devoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Philipin, Lucrèce, Florence.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Philipin, Lucrèce, Florence.
+</stage>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="1367">Vraiment, je le fais bien, je n'en suis pas en doute ;</l>
 	<l id="1368">Et toujours... Mais voyez ; Philipin nous écoute.</l>
 </sp>
-<sp stage="toward" who="PHILIPIN"><speaker>PHILIPIN, à Florence.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="toward">, à Florence.
+	</stage>
 	<l id="1369">Mon Maître est près d'ici, qui brûle de vous voir,</l>
 	<l id="1370" syll="6" part="i">Et m'envoyait exprès...</l>
 </sp>
@@ -3422,15 +3566,18 @@
 	<l id="1371" syll="6" part="i">Qu'il vienne promptement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Ariste, Lucrèce, Florence, Philipin.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><stage> Ariste, Lucrèce, Florence, Philipin.
+</stage>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1371" syll="6" part="f">Le voilà qui s'avance.</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Ariste.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1372">Nous pouvons nous parler avec toute assurance,</l>
 	<l id="1373" syll="6" part="i">Car mon père est en ville.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Lucrèce.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1373" syll="6" part="f">Ah ! Quel bonheur pour moi !</l>
 	<l id="1374">Souffrez que, de nouveau, je vous donne ma foi ;</l>
 	<l id="1375">Que je vous jure encor que mon ardeur extrême...</l>
@@ -3444,24 +3591,30 @@
 	<l id="1378">Augmente ma tendresse, et redouble mon feu !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE IX. Géraste, Lucrèce, Ariste, Florence, Philipin, Licaste.</head>
-<sp stage="continue" who="ARISTE"><speaker>ARISTE, continuant.</speaker>
+<div2 type="scene" n=""><head>SCÈNE IX.</head><stage> Géraste, Lucrèce, Ariste, Florence, Philipin, Licaste.
+</stage>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="continue">, continuant.
+	</stage>
 	<l id="1379">Permettez qu'un moment je me livre à la joie,</l>
 	<l id="1380">Que sur ces belles mains mon amour se déploie.</l>
 <stage type="kiss">Il lui baise la main.</stage>
 </sp>
-<sp stage="pull/show" who="FLORENCE"><speaker>FLORENCE, tirant Lucrèce, et lui montrant Géraste.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="pull/show">, tirant Lucrèce, et lui montrant Géraste.
+	</stage>
 	<l id="1381" syll="3" part="i">Ah, Madame !</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Ariste et à Lucrèce.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Ariste et à Lucrèce.
+	</stage>
 	<l id="1381" syll="3" part="m">À votre aise.</l>
 </sp>
-<sp stage="low.toward" who="FLORENCE"><speaker>FLORENCE, bas, à Ariste.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="low.toward">, bas, à Ariste.
+	</stage>
 	<l id="1381" syll="6" part="f">Allez-vous-en, Adieu.</l>
 <stage id="exit/locaation">Lucrèce et Florence rentrent dans la maison. Ariste et Philipin s'en vont d'un autre côté.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Géraste, Licaste.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Géraste, Licaste.
+</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1382">Pourquoi si promptement s'en aller de ce lieu ;</l>
 	<l id="1383" syll="6" part="i">Et nous quitter ainsi ?</l>
@@ -3556,11 +3709,13 @@
 	<l id="1428" syll="6" part="i">Lucrèce, après cela...</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Anselme, Géraste, Licaste.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Anselme, Géraste, Licaste.
+</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1428" syll="6" part="f">Vas-t'en ; voici son père.</l>
 </sp>
-<sp stage="loud" who="LICASTE"><speaker>LICASTE, haussant la voix.</speaker>
+<sp who="LICASTE"><speaker>LICASTE</speaker><stage type="loud">, haussant la voix.
+	</stage>
 	<l id="1429" syll="6" part="i">Monsieur, contez-lui tout.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -3572,7 +3727,8 @@
 	<l id="1431">Je vais me rafraîchir un peu la gargamelle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Anselme, Géraste.</head>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Anselme, Géraste.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1432" syll="6" part="i">Qu'est-il donc arrivé ?</l>
 </sp>
@@ -3608,7 +3764,8 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1444" syll="6" part="f">La chose est sans réplique.</l>
 </sp>
-<sp stage="call" who="ANSELME"><speaker>ANSELME, appelant Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="call">, appelant Lucrèce.
+	</stage>
 	<l id="1445">Lucrèce ! Devant vous je veux la confronter.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -3618,7 +3775,8 @@
 	<l id="1446" syll="6" part="f">Il la faut écouter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Lucrèce, Anselme, Géraste.</head>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Lucrèce, Anselme, Géraste.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1447">Ma fille, à ce qu'on dit dois-je donner croyance ?</l>
 	<l id="1448">Monsieur t'accuse ici de grande intelligence</l>
@@ -3633,17 +3791,20 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1453" syll="6" part="i">Ce que je viens de voir.</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Géraste.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1453" syll="6" part="f">Et qu'avez-vous donc vu ?</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1454">Vous baiser une main, sans vous avoir déplu :</l>
 	<l id="1455" syll="2" part="i">Ainsi...</l>
 </sp>
-<sp stage="anger/toward" who="ANSELME"><speaker>ANSELME, en colère, à Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="anger/toward">, en colère, à Lucrèce.
+	</stage>
 	<l id="1455" syll="4" part="m">Quoi ! Dit-il vrai ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1455" syll="6" part="f">Pensez-vous que j'impose ?</l>
 </sp>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
@@ -3652,7 +3813,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1457" syll="3" part="i">Volontiers.</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Anselme.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1457" syll="9" part="f">Vous sortiez d'ici, voyez un peu !</l>
 	<l id="1458">Quand cet autre Géraste est venu dans ce lieu.</l>
 	<l id="1459">D'abord il m'a parlé de soupirs et de flamme,</l>
@@ -3670,7 +3832,8 @@
 <stage type="toward">À Géraste.</stage>
 	<l id="1471">Dites s'il n'est pas vrai, c'est ce que je demande.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1472">Si la chose est ainsi, la faute n'est pas grande.</l>
 	<l id="1473">Non ; mais vous la croyez un peu facilement :</l>
 	<l id="1474">Ah ! beau-père, avouez qu'on vous trompe aisément.</l>
@@ -3705,7 +3868,8 @@
 <stage type="toward">À Lucrèce.</stage>
 	<l id="1485">La Belle, répondez. Pourquoi donc me quitter ?</l>
 </sp>
-<sp stage="toxard" who="LUCRÈCE"><speaker>LUCRÈCE, à Géraste.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toxard">, à Géraste.
+	</stage>
 	<l id="1486">J'ai jugé que d'abord vous alliez éclater ;</l>
 	<l id="1487">Et j'ai cru que, de vous la chose étant connue,</l>
 	<l id="1488">Il n'était pas saison de rester dans la rue ;</l>
@@ -3715,10 +3879,12 @@
 	<l id="1492">Et vous montrer que rien ne tournait à ma honte ;</l>
 	<l id="1493">Voilà ce qui m'a fait rentrer si brusquement.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1494">Êtes-vous satisfait ? parlez-nous nettement.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1495">Oui ; mais ce faux Géraste a causé tout le crime.</l>
 </sp>
 <sp who="LUCRÈCE"><speaker>LUCRÈCE.</speaker>
@@ -3733,11 +3899,13 @@
 	<l id="1500">D'accord ; laissons cela. Faites qu'elle nous quitte,</l>
 	<l id="1501">Pour pouvoir en secret vous dire quatre mots.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1502">Rentre ; pour un moment, laisse nous en repos.</l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Anselme, Géraste.</head>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><stage> Anselme, Géraste.
+</stage>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1503">Comme j'agis toujours avec grande franchise,</l>
 	<l id="1504">Ou pour, ou contre moi, jamais je ne déguise.</l>
@@ -3757,7 +3925,8 @@
 	<l id="1511">Hé bien ! quand on aura découvert qui vous êtes,</l>
 	<l id="1512">Nous trouverons alors cent honnêtes défaites.</l>
 </sp>
-<sp stage="anger" who="GÉRASTE"><speaker>GÉRASTE, se mettant en colère.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="anger">, se mettant en colère.
+	</stage>
 	<l id="1513" syll="6" part="i">C'est moi qui suis Géraste.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -3777,7 +3946,8 @@
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1520" syll="1" part="m">Oui.</l>
 </sp>
-<sp stage="exit" who="ANSELME"><speaker>ANSELME, s'en allant.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="exit">, s'en allant.
+	</stage>
 	<l id="1520" syll="3" part="m">Serviteur.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -3786,11 +3956,14 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n=""><head>SCÈNE PREMIÈRE. Florame, Lisidan.</head>
-<sp stage="entrance" who="FLORAME"><speaker>FLORAME, sortant d'un côté du théâtre.</speaker>
+<div2 type="scene" n=""><head>SCÈNE PREMIÈRE.</head><stage> Florame, Lisidan.
+</stage>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="entrance">, sortant d'un côté du théâtre.
+	</stage>
 	<l id="1521" syll="6" part="i">Que vois-je ? Lisidan !</l>
 </sp>
-<sp stage="exit" who="LISIDAN"><speaker>LISIDAN, sortant de l'autre côté.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="exit">, sortant de l'autre côté.
+	</stage>
 	<l id="1521" syll="6" part="f">Ah ! Florame ! C'est vous ?</l>
 </sp>
 <sp who="FLORAME"><speaker>FLORAME.</speaker>
@@ -4007,7 +4180,8 @@
 	<l id="1596" syll="6" part="i">J'entends des gens, allons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Ariste, Philipin.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Ariste, Philipin.
+</stage>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1596" syll="6" part="f">Mais, qu'il ne vous déplaise</l>
 	<l id="1597" syll="2" part="i">Monsieur...</l>
@@ -4102,14 +4276,17 @@
 	<l id="1630">C'est-à-dire, en deux mots, de bien prendre mon temps.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Florence, Ariste, Philipin.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Florence, Ariste, Philipin.
+</stage>
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1631">Mais la voici qui vient, pour vous ôter de peine.</l>
 </sp>
-<sp stage="toward" who="FLORENCE"><speaker>FLORENCE, à Ariste.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1632" syll="6" part="i">J'allais chez vous, Monsieur.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Florence.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Florence.
+	</stage>
 	<l id="1632" syll="6" part="f">Quelle affaire t'y mène ?</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
@@ -4123,7 +4300,8 @@
 	<l id="1635">Entrez, vous le pourrez apprendre de Lucrèce ;</l>
 	<l id="1636" syll="4" part="i">Elle est seule.</l>
 </sp>
-<sp stage="touch" who="ARISTE"><speaker>ARISTE, la caressant.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="touch">, la caressant.
+	</stage>
 	<l id="1636" syll="2" part="m">Ma chère...</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
@@ -4146,8 +4324,10 @@
 	<l id="1641" syll="2" part="i">Entrez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Florence, Philipin.</head>
-<sp stage="stop/touch" who="PHILIPIN"><speaker>PHILIPIN, arrêtant Florence, et la caressant.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Florence, Philipin.
+</stage>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="stop/touch">, arrêtant Florence, et la caressant.
+	</stage>
 	<l id="1641" syll="3" part="m">Tu m'aimes ?</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
@@ -4179,8 +4359,10 @@
 	<l id="1644">Voudrais-tu que je fisse une telle bévue ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Anselme, Philipin, Florence.</head>
-<sp stage="exit/aparte" who="ANSELME"><speaker>ANSELME, sortant de sa maison, à part.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Anselme, Philipin, Florence.
+</stage>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="exit/aparte">, sortant de sa maison, à part.
+	</stage>
 	<l id="1645">Prenons l'occasion de sonder ce valet.</l>
 <stage type="toward">À Florence.</stage>
 	<l id="1646">Que fais-tu dans la rue ? as-tu quelque secret ?...</l>
@@ -4196,13 +4378,16 @@
 <stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Philipin, Anselme.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Philipin, Anselme.
+</stage>
 <stage type="follow">Philipin va pour suivre Florence.</stage>
-<sp stage="call" who="ANSELME"><speaker>ANSELME, l'appelle.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="call">, l'appelle.
+	</stage>
 	<l id="1648" syll="10" part="f">Toi, viens ici. Dis-moi quelque nouvelle</l>
 	<l id="1649" syll="2" part="i">De Sbroct.</l>
 </sp>
-<sp stage="aparte" who="PHILIPIN"><speaker>PHILIPIN, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="1649" syll="2" part="m">Peste !</l>
 <stage type="loud">Haut.</stage>
 	<l id="1649" syll="8" part="f">Monsieur, il est assez gaillard ;</l>
@@ -4289,7 +4474,8 @@
 	<l id="1670">Pour moi, j'ai grand plaisir à m'en ressouvenir.</l>
 	<l id="1671" syll="6" part="i">Là, conte m'en quelqu'un.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à part.
+	</stage>
 	<l id="1671" syll="6" part="f">Que lui ferai-je croire ?</l>
 <stage type="loud">Haut.</stage>
 	<l id="1672">Mais il me faut, Monsieur, les remettre en mémoire.</l>
@@ -4297,13 +4483,15 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1673" syll="6" part="i">Vas, vas, je t'aiderai.</l>
 </sp>
-<sp stage="aparte" who="PHILIPIN"><speaker>PHILIPIN, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="1673" syll="3" part="m">Que lui dire ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1673" syll="1" part="m">Hé ?</l>
 </sp>
-<sp stage="loud" who="PHILIPIN"><speaker>PHILIPIN, haut.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="loud">, haut.
+	</stage>
 	<l id="1673" syll="2" part="f">Monsieur,</l>
 	<l id="1674">Quand sa goutte le quitte, et qu'il est sans douleur ;</l>
 	<l id="1675">Il en dit... Mais aussi, quand sa goutte le presse,</l>
@@ -4317,11 +4505,14 @@
 	<l id="1677" syll="6" part="f">Ô maudit entretien !</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Florence, Anselme, Philipin.</head>
-<sp stage="toward" who="FLORENCE"><speaker>FLORENCE, à Philipin.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><stage> Florence, Anselme, Philipin.
+</stage>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="toward">, à Philipin.
+	</stage>
 	<l id="1678">Viens parler à ton maître ; il te demande ; viens.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Florence.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Florence.
+	</stage>
 	<l id="1679" syll="3" part="i">Il y va.</l>
 <stage type="toward">À Philipin.</stage>
 	<l id="1679" syll="3" part="m">Mais achève.</l>
@@ -4332,25 +4523,30 @@
 	<l id="1680">Je reviens à l'instant. Tu me tires d'affaire,</l>
 	<l id="1681" syll="6" part="i">Et m'obliges beaucoup.</l>
 </sp>
-<sp stage="low/toward" who="FLORENCE"><speaker>FLORENCE, bas à Philipin.</speaker>
+<sp who="FLORENCE"><speaker>FLORENCE</speaker><stage type="low/toward">, bas à Philipin.
+	</stage>
 	<l id="1681" syll="6" part="f">Je le fais tout exprès.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp stage="alone" who="ANSELME"><speaker>ANSELME, seul.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="alone">, seul.
+	</stage>
 	<l id="1682">Je veux questionner ces Messieurs les Valets,</l>
 	<l id="1683">Les prendre tour-à-tour, puis les mettre en matière,</l>
 	<l id="1684">Et les faire jaser de la bonne manière.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Florame, Lisidan, Anselme.</head>
-<sp stage="toward" who="FLORAME"><speaker>FLORAME, à Lisidan.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage> Florame, Lisidan, Anselme.
+</stage>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="toward">, à Lisidan.
+	</stage>
 	<l id="1685" syll="6" part="i">Voilà votre beau-frère.</l>
 <stage type="toward">À Anselme.</stage>
 	<l id="1685" syll="6" part="f">On vous trouve à propos :</l>
 	<l id="1686">Pourrait-on en secret vous dire quatre mots ?</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Florame.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Florame.
+	</stage>
 	<l id="1687">Je suis seul en ce lieu ; la plaisante demande !</l>
 </sp>
 <sp who="FLORAME"><speaker>FLORAME.</speaker>
@@ -4377,7 +4573,8 @@
 <sp who="FLORAME"><speaker>FLORAME.</speaker>
 	<l id="1693" syll="6" part="f">Oui, fort, et Sbroct aussi.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Lisidan.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Lisidan.
+	</stage>
 	<l id="1694">Vous pouvez donc, Monsieur, nous tirer de souci.</l>
 	<l id="1695">Savez-vous la raison de notre inquiétude ?</l>
 </sp>
@@ -4385,10 +4582,12 @@
 	<l id="1696">Oui, je sais le sujet de votre incertitude</l>
 	<l id="1697" syll="6" part="i">Touchant le vrai Géraste.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, montrant Florame.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, montrant Florame.
+	</stage>
 	<l id="1697" syll="6" part="f">Il vous a donc conté ?...</l>
 </sp>
-<sp stage="toward" who="LISIDAN"><speaker>LISIDAN, à Anselme.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1698">Oui ; mais je viens ici montrer la vérité,</l>
 	<l id="1699">Et confondre l'auteur d'un si noir artifice.</l>
 </sp>
@@ -4409,7 +4608,8 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1704">De vos soins obligeants je leur rendrai bon compte.</l>
 </sp>
-<sp stage="toward" who="FLORAME"><speaker>FLORAME, à Anselme.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1705" syll="6" part="i">Verrons-nous ces Messieurs ?</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -4417,7 +4617,8 @@
 	<l id="1706" syll="3" part="i">Et l'autre...</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Géraste, dans le fond du théâtre, Florame, Lisidan, Anselme.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><stage> Géraste, dans le fond du théâtre, Florame, Lisidan, Anselme.
+</stage>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1706" syll="3" part="m">Le voici.</l>
 </sp>
@@ -4432,14 +4633,16 @@
 	<l id="1707" syll="3" part="f">C'est lui-même ;</l>
 	<l id="1708">D'en douter, c'est lui faire une injustice extrême.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1709" syll="6" part="i">Je venais vous chercher...</l>
 <stage type="toward">À Lisidan.</stage>
 	<l id="1709" syll="6" part="f">Lisidan en ce lieu !</l>
 	<l id="1710" syll="6" part="i">Comment va le procès ?</l>
 <stage type="kiss">Il embrasse Lisidan.</stage>
 </sp>
-<sp stage="toward" who="LISIDAN"><speaker>LISIDAN, à Géraste.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1710" syll="6" part="f">Fort bien, grâces à Dieu.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -4480,26 +4683,32 @@
 	<l id="1722" syll="9" part="f">Nous verrons comme il s'en tirera :</l>
 	<l id="1723" syll="6" part="i">Faites-le donc venir.</l>
 </sp>
-<sp who="ANSELME"><speaker>ANSELME, à la porte, appelle.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage>, à la porte, appelle.
+	</stage>
 	<l id="1723" syll="3" part="m">Géraste !</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Ariste, Lisidan, Anselme, Géraste, Florame, Philipin.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Ariste, Lisidan, Anselme, Géraste, Florame, Philipin.
+</stage>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="1723" syll="3" part="f">Qui m'appelle ?</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Ariste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1724">C'est moi, pour vous apprendre une grande nouvelle.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1725" syll="4" part="i">Quelle est-elle ?</l>
 </sp>
-<sp stage="pull" who="ANSELME"><speaker>ANSELME, l'amenant par le bras.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="pull">, l'amenant par le bras.
+	</stage>
 	<l id="1725" syll="2" part="m">Venez.</l>
 <stage type="toward">À Lisidan.</stage>
 	<l id="1725" syll="3" part="m">Le voici.</l>
 </sp>
-<sp stage="watch" who="LISIDAN"><speaker>LISIDAN, le regardant.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="watch">, le regardant.
+	</stage>
 	<l id="1725" syll="3" part="f">C'est mon fils.</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
@@ -4508,11 +4717,13 @@
 <sp who="LISIDAN"><speaker>LISIDAN.</speaker>
 	<l id="1726" syll="3" part="m">Oui, mon fils.</l>
 </sp>
-<sp stage="low/toward" who="PHILIPIN"><speaker>PHILIPIN, bas, à part.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="low/toward">, bas, à part.
+	</stage>
 	<l id="1726" syll="6" part="f">Ah ! voici bien le pis.</l>
 	<l id="1727" syll="4" part="i">Tout est perdu.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Lisidan.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Lisidan.
+	</stage>
 	<l id="1727" syll="2" part="m">Mon père...</l>
 </sp>
 <sp who="FLORAME"><speaker>FLORAME.</speaker>
@@ -4522,7 +4733,8 @@
 <sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>
 	<l id="1728" syll="6" part="f">Que le Ciel nous assiste !</l>
 </sp>
-<sp stage="toward" who="LISIDAN"><speaker>LISIDAN, à Ariste.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1729">Pourquoi changer de nom, mon fils, et hautement</l>
 	<l id="1730">Vouloir être Géraste, et nous faire un roman ?</l>
 	<l id="1731">Quel dessein vous oblige à ces métamorphoses ?</l>
@@ -4545,13 +4757,16 @@
 	<l id="1746">Différé son hymen jusqu'à votre retour.</l>
 	<l id="1747">De mon déguisement voilà la seule cause.</l>
 </sp>
-<sp stage="toward" who="LISIDAN"><speaker>LISIDAN, à Ariste.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1748">Qu'espérer, si son père à tes désirs s'oppose ?</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Ariste.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1749">Si bien, à vous ouïr, que Lucrèce me hait.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Géraste.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1750" syll="2" part="i">Sans doute.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
@@ -4572,7 +4787,8 @@
 	<l id="1753" syll="11" part="f">D'un mépris si grand je saurai me venger :</l>
 	<l id="1754">Je la veux épouser, pour la faire enrager.</l>
 </sp>
-<sp stage="toward" who="FLORAME"><speaker>FLORAME, à Anselme.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1755">Hé ! Vous ne dites rien ? Quel grand soin vous occupe ?</l>
 	<l id="1756">Avouez, maintenant, que vous êtes bien dupe ;</l>
 	<l id="1757">Que votre fille, enfin, trop féconde en détours,</l>
@@ -4582,25 +4798,30 @@
 	<l id="1759" syll="8" part="i">Il la faut écouter. Lucrèce !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE XII. Lucrèce, Anselme, Ariste, Lisidan, Géraste, Florame, Philipin, Florence.</head>
-<sp stage="location" who="LUCRÈCE"><speaker>LUCRÈCE, de dedans la maison.</speaker>
+<div2 type="scene" n=""><head>SCÈNE XII.</head><stage> Lucrèce, Anselme, Ariste, Lisidan, Géraste, Florame, Philipin, Florence.
+</stage>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="location">, de dedans la maison.
+	</stage>
 	<l id="1759" syll="2" part="f">Hé bien ?</l>
 <stage type="entrance">Elle entre sur la scène.</stage>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Lucrèce.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1759" syll="2" part="f">Ma fille,</l>
 	<l id="1760">Quel désordre aujourd'hui vois-je dans ma famille ?</l>
 	<l id="1761">Vous aimez donc Monsieur ? et, pour mieux m'attraper,</l>
 	<l id="1762">Par lui, sous un faux nom, vous me laissez tromper !</l>
 	<l id="1763" syll="9" part="i">Vous m'en faites la dupe, et souffrez...</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Anselme.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1763" syll="3" part="f">Moi, mon père !</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1764">Oseriez-vous encor soutenir le contraire ?</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Lucrèce.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1765">Madame, il n'est plus temps de rien dissimuler ;</l>
 	<l id="1766">Mon père, que voilà, m'a forcé de parler ;</l>
 	<l id="1767" syll="3" part="i">J'ai tout dit.</l>
@@ -4617,14 +4838,17 @@
 	<l id="1773">C'est à vous, là-dessus, à disposer de moi,</l>
 	<l id="1774">Et voir auquel des deux il faut donner ma foi.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Lucrèce.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Lucrèce.
+	</stage>
 	<l id="1775">Vous me haïssez donc, Madame la coquette ?</l>
 	<l id="1776">Je ne veux point de vous, c'est une affaire faite.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Géraste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Géraste.
+	</stage>
 	<l id="1777" syll="3" part="i">Quoi donc ! Vous...</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Anselme.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1777" syll="9" part="f">En un mot, c'est un point résolu.</l>
 	<l id="1778">Je vois trop qu'en idée on me ferait cocu.</l>
 	<l id="1779">Que ferais-je du corps, quand Monsieur aurait l'âme ?</l>
@@ -4632,29 +4856,35 @@
 	<l id="1781">Mais à condition de mander, s'il vous plaît,</l>
 	<l id="1782">À mon cher oncle Sbroct la chose comme elle est.</l>
 </sp>
-<sp who="FLORAME"><speaker>FLORAME, à Géraste.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage>, à Géraste.
+	</stage>
 	<l id="1783" syll="6" part="i">Votre demande est juste.</l>
 </sp>
 <sp who="GÉRASTE"><speaker>GÉRASTE.</speaker>
 	<l id="1783" syll="6" part="f">Au moins, il me le semble.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Lisidan.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Lisidan.
+	</stage>
 	<l id="1784" syll="3" part="i">Mon père...</l>
 </sp>
-<sp stage="toward" who="LISIDAN"><speaker>LISIDAN, à Ariste.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1784" syll="9" part="f">Je consens que le Ciel vous assemble ;</l>
 	<l id="1785">Et donne, pour cela, quatre-vingt mille écus.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1786" syll="2" part="i">Monsieur...</l>
 </sp>
-<sp stage="toward" who="FLORAME"><speaker>FLORAME, à Anselme.</speaker>
+<sp who="FLORAME"><speaker>FLORAME</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1786" syll="10" part="f">Vous devez bien répondre là-dessus.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="1787" syll="6" part="i">Accordez-moi Lucrèce.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Ariste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1787" syll="6" part="f">Allez, je vous la donne.</l>
 </sp>
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
@@ -4674,11 +4904,13 @@
 <sp who="ARISTE"><speaker>ARISTE.</speaker>
 	<l id="1791" syll="6" part="f">Ah ! Monsieur, quelle grâce !</l>
 </sp>
-<sp stage="toward" who="LUCRÈCE"><speaker>LUCRÈCE, à Anselme.</speaker>
+<sp who="LUCRÈCE"><speaker>LUCRÈCE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1792">Souffrez, pour un tel bien, qu'ici je vous embrasse,</l>
 	<l id="1793" syll="6" part="i">Mon père, et qu'à vos pieds...</l>
 </sp>
-<sp stage="stand/help" who="ANSELME"><speaker>ANSELME, la relevant.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="stand/help">, la relevant.
+	</stage>
 	<l id="1793" syll="6" part="f">Je ne suis point fâché ;</l>
 	<l id="1794">Et m'en tiens, pour ce coup, quitte à fort bon marché.</l>
 	<l id="1795">Ariste, de grand coeur, je vous reçois pour gendre.</l>
@@ -4691,18 +4923,22 @@
 <sp who="LISIDAN"><speaker>LISIDAN.</speaker>
 	<l id="1798">Vas, tantôt, là-dessus, tu seras éclairci.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Lisidan.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Lisidan.
+	</stage>
 	<l id="1799" syll="6" part="i">Entrons chez moi : venez.</l>
 </sp>
-<sp stage="wave" who="LISIDAN"><speaker>LISIDAN, faisant des cérémonies.</speaker>
+<sp who="LISIDAN"><speaker>LISIDAN</speaker><stage type="wave">, faisant des cérémonies.
+	</stage>
 	<l id="1799" syll="1" part="m">Mais...</l>
 </sp>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1799" syll="5" part="f">Entrez sans scrupules.</l>
 </sp>
 </div2>
-<div2 type="scene" n="23"><head>SCÈNE XIII. Kerlonte, Lisidan, Anselme, Florame, Ariste, Géraste, Philipin, Lucrèce, Florence.</head>
-<sp stage="watch" who="ANSELME"><speaker>ANSELME, voyant Kerlonte.</speaker>
+<div2 type="scene" n="23"><head>SCÈNE XIII.</head><stage> Kerlonte, Lisidan, Anselme, Florame, Ariste, Géraste, Philipin, Lucrèce, Florence.
+</stage>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="watch">, voyant Kerlonte.
+	</stage>
 	<l id="1800" syll="4" part="i">Voici l'autre.</l>
 <stage type="toward">À Kerlonte.</stage>
 	<l id="1800" syll="6" part="f">Monsieur, sans un grand préambule,</l>
@@ -4713,7 +4949,8 @@
 	<l id="1803">Si la chose est ainsi, j'ai fait quelque fortune,</l>
 	<l id="1804">Qu'avec joie, entre nous, je veux rendre commune.</l>
 </sp>
-<sp stage="toward" who="GÉRASTE"><speaker>GÉRASTE, à Kerlonte.</speaker>
+<sp who="GÉRASTE"><speaker>GÉRASTE</speaker><stage type="toward">, à Kerlonte.
+	</stage>
 	<l id="1805">Il n'est rien de plus vrai, je suis ce qu'on vous dit :</l>
 	<l id="1806">J'aime, j'aime Irénée, et cela seul suffit.</l>
 </sp>
@@ -4724,20 +4961,24 @@
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="1808" syll="11" part="f">Entrez avec nous, on vous dira l'histoire.</l>
 </sp>
-<sp stage="pull" who="PHILIPIN"><speaker>PHILIPIN, tirant son maître.</speaker>
+<sp who="PHILIPIN"><speaker>PHILIPIN</speaker><stage type="pull">, tirant son maître.
+	</stage>
 	<l id="1809">Quoi donc ! en ce grand jour, Florence et Philipin,</l>
 	<l id="1810">Quand vous vous saoulerez, enrageront de faim ?</l>
 </sp>
 <sp who="FLORENCE"><speaker>FLORENCE.</speaker>
 	<l id="1811" syll="3" part="i">En effet.</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Philipin.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Philipin.
+	</stage>
 	<l id="1811" syll="3" part="m">Je t'entends.</l>
 </sp>
-<sp stage="toward" who="ANSELME"><speaker>ANSELME, à Ariste.</speaker>
+<sp who="ANSELME"><speaker>ANSELME</speaker><stage type="toward">, à Ariste.
+	</stage>
 	<l id="1811" syll="3" part="m">Que dit-il ?</l>
 </sp>
-<sp stage="toward" who="ARISTE"><speaker>ARISTE, à Anselme.</speaker>
+<sp who="ARISTE"><speaker>ARISTE</speaker><stage type="toward">, à Anselme.
+	</stage>
 	<l id="1811" syll="3" part="f">Pour partage,</l>
 	<l id="1812">Il vous demande aussi Florence en mariage.</l>
 </sp>

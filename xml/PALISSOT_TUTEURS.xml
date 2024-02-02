@@ -567,7 +567,8 @@
 <sp who="MARTON"><speaker>MARTON.</speaker>
 	<l id="280" part="f">Le débat est très original.</l>
 </sp>
-<sp who="ORGON"><speaker>ORGON st Julie. </speaker>
+<sp who="ORGON"><speaker>ORGON</speaker><stage> à Julie. 
+	</stage>
 	<l id="281">Va, ne l'écoute point, Julie ; il faut qu'un homme</l>
 	<l id="282">Connaisse les beautés de la Grèce et de Rome,</l>
 <note type="L">Galba, Servius Sulpitius (-4, -68) : Empereur romain. Sa sévérité et son avarice le rendirent bientôt odieux aux Prétoriens. Othon qui n'avit pu se faire choisir par Galba pour son successeur, profita de ces dispositions du peuple à son égard pour le faire assassiner, ainsi que Pison, son fils adoptif, et se fit proclamer à sa place. Galba n'a régné que huit mois. [B]</note>
@@ -617,7 +618,8 @@
 <sp who="JULIE"><speaker>JULIE.</speaker>
 	<l id="316" part="f">Encor moins.</l>
 </sp>
-<sp who="GÉRONTE"><speaker>GÉRONTE piqué. </speaker>
+<sp who="GÉRONTE"><speaker>GÉRONTE</speaker><stage> piqué. 
+	</stage>
 	<l id="317" part="i">Point du tout, encor moins...</l>
 </sp>
 <sp who="MARTON"><speaker>MARTON.</speaker>

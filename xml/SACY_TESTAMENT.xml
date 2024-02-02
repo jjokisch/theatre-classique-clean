@@ -48,7 +48,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>LE TESTAMENT</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Jourdain, Griffon.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Jourdain, Griffon.
+</stage>
 <sp who="GRIFFON"><speaker>GRIFFON.</speaker>
 <p id="1">
 	<s id="1">Enfin, Monsieur, vous voilà revenu en France, et j'en suis enchanté. </s>
@@ -113,7 +114,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jourdain, Griffon, Hortensius.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Jourdain, Griffon, Hortensius.
+</stage>
 <sp who="HORTENSIUS"><speaker>HORTENSIUS.</speaker>
 <p id="1">
 	<s id="1">J'ai appris, Monsieur, que vous deviez élever quatre statues aux meilleurs écrivains de notre siècle. </s>
@@ -201,8 +203,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jourdain, Hortensius, Un Abbé, Griffon.</head>
-<sp stage="toward" who="L'ABBÉ"><speaker>L'ABBÉ, s'adressant à Griffon.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Jourdain, Hortensius, Un Abbé, Griffon.
+</stage>
+<sp who="L'ABBÉ"><speaker>L'ABBÉ</speaker><stage type="toward">, s'adressant à Griffon.
+</stage>
 <p id="1">
 	<s id="1">Bon ! </s>
 	<s id="2">Voilà précisément ce que je cherchais. Monsieur est homme de plume sans doute ? </s>
@@ -257,14 +261,17 @@
 	<s id="10">En vérité on meurt de faim ; cela est affreux.</s>
 </p>
 </sp>
-<sp stage="toward" who="GRIFFON"><speaker>GRIFFON, à Jourdain.</speaker>
+<sp who="GRIFFON"><speaker>GRIFFON</speaker><stage type="toward">, à Jourdain.
+</stage>
 <p id="8">
 	<s id="1">Parbleu, Monsieur, vous ne vous plaindrez pas de la rareté des grands hommes : en voilà encore un qui s'avance.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les Acteurs précédents, Blazonnet.</head>
-<sp stage="toward" who="JOURDAIN"><speaker>JOURDAIN, à Blaçonnet.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Les Acteurs précédents, Blazonnet.
+</stage>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="toward">, à Blaçonnet.
+</stage>
 <p id="1">
 	<s id="1">Puis-je savoir, Monsieur, qui vous êtes, et pourquoi vous venez ?</s>
 </p>
@@ -295,7 +302,8 @@
 	<s id="9">Mais il me paya de la plus notre ingratitude ; et, pour m'en venger, je le ramenai dans sa patrie Trottin comme auparavant : car d'un mot j'ôte la noblesse comme je la donne.</s>
 </p>
 </sp>
-<sp stage="pull" who="JOURDAIN"><speaker>JOURDAIN, tirant Blazonnet à l'écart.</speaker>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="pull">, tirant Blazonnet à l'écart.
+</stage>
 <p id="5">
 	<s id="1">Il faut cependant que je vous fasse un aveu qui pourra vous embarrasser. </s>
 	<s id="2">Mon aïeul était laquais chez un Duc.</s>
@@ -306,7 +314,8 @@
 	<s id="1">Vous vous trompez ; il était page , je le prouverai.</s>
 </p>
 </sp>
-<sp stage="low" who="JOURDAIN"><speaker>JOURDAIN, bas.</speaker>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="low">, bas.
+</stage>
 <p id="7">
 	<s id="1">Mon bisaïeul était un pauvre valet de charrue.</s>
 </p>
@@ -318,7 +327,8 @@
 	<s id="3">Non : c'était un Gentilhomme ruiné par la guerre, qui cultivait de ses mains triomphantes le peu de terre qui lui restait.</s>
 </p>
 </sp>
-<sp stage="low" who="JOURDAIN"><speaker>JOURDAIN, bas.</speaker>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="low">, bas.
+</stage>
 <p id="9">
 	<s id="1">Un de mes oncles était homme d'affaires d'un Seigneur fort connu.</s>
 </p>
@@ -371,7 +381,8 @@
 	<s id="1">Il avait une charge à la Cour, et dans son château il avait une Cour lui même.</s>
 </p>
 </sp>
-<sp stage="proud" who="JOURDAIN"><speaker>JOURDAIN, fièrement.</speaker>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="proud">, fièrement.
+</stage>
 <p id="17">
 	<s id="1">Fort bien : je commence à vous croire ; je
 n'oublierai pas vos fervices ; la reconnoiflance
@@ -393,7 +404,8 @@ eft la vertu la plus chérie des Nobles.</s>
 	<s id="1">Ce Jourdain paraît descendre d'un Jordana qui avait marché aux Croisades avec la plus haute Noblesse de l'Italie, et il est clair que Jourdain vient de Jordana.</s>
 </p>
 </sp>
-<sp stage="proud" who="JOURDAIN"><speaker>JOURDAIN, d'un ton plus arrogant.</speaker>
+<sp who="JOURDAIN"><speaker>JOURDAIN</speaker><stage type="proud">, d'un ton plus arrogant.
+</stage>
 <p id="18">
 	<s id="1">Ce que vous dites est évident. </s>
 	<s id="2">Pour un roturier, vous me paraissez avoir assez de mérite, et je vous recevrai chez moi avec plaisir.</s>
@@ -444,8 +456,10 @@ eft la vertu la plus chérie des Nobles.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les Acteurs précédents, Coulé.</head>
-<sp stage="toward" who="GOULÉ"><speaker>GOULÉ, à Monsieur Jourdain.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Les Acteurs précédents, Coulé.
+</stage>
+<sp who="GOULÉ"><speaker>GOULÉ</speaker><stage type="toward">, à Monsieur Jourdain.
+</stage>
 <p id="1">
 	<s id="1">Vous voyez un des plus habiles écrivains qui aient paru en France. </s>
 	<s id="2">Personne ne me conteste cette gloire. </s>

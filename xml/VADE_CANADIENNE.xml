@@ -1425,7 +1425,7 @@
 	<l id="572" part="f">Ah, Monsieur ! quel dommage</l>
 	<l id="573">Que vous n'écoutiez pas celle que vous avez !</l>
 </sp>
-<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>.(r/v**.)
+<sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker><stage>révant</stage>
 	<l id="574" part="i">Je trouve... que... Zinca...</l>
 </sp>
 <sp who="FRONTIN"><speaker>FRONTIN.</speaker>

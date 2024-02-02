@@ -66,7 +66,7 @@
 <div1 type="act" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIERE.</head><stage> Lépide, Aurilcar.
 </stage>
-<sp who="LÉPIDE"><speaker>LÉPIDE</speaker>/speaker&gt;
+<sp who="LÉPIDE"><speaker>LÉPIDE</speaker>
 	<l id="1">Seigneur, en attendant que Scipion vous voit,</l>
 	<l id="2">Je me tiens honoré de l'ordre qu'il m'envoie,</l>
 	<l id="3">De vous entretenir pendant quelques moments,</l>

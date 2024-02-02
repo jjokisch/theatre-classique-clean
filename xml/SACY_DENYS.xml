@@ -49,7 +49,8 @@
 </front>
 <body>
 <div1 type="act" n="1"><head>DENYS II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cratés, Euphémon.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Cratés, Euphémon.
+</stage>
 <stage type="entrance/run/liss">Euphémon descend d'un vaisseau ; Cratès court au-devant de lui et l'embrasse.</stage>
 <sp who="CRATÈS"><speaker>CRATÈS.</speaker>
 <p id="1">
@@ -153,15 +154,18 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Denys, Euphémon.</head>
-<sp stage="aparte" who="EUPHÉMON"><speaker>EUPHÉMON, à part.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><stage> Denys, Euphémon.
+</stage>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="1">
 	<s id="1">Cratès est trop généreux : j'ai bien de la peine à pardonner à ce Tyran la ruine et l'exil de mon ami, et les impôts énormes qu'il mettait sur nos marchandises, lorsque nos vaisseaux entraient dans ses ports. </s>
 	<s id="2">Mais mon ami le veut, il faut oublier ces outrages. </s>
 	<s id="3">Je ferai plus ; j'offrirai un asile à ce malheureux.</s>
 </p>
 </sp>
-<sp stage="aparte/entrance/location" who="DENYS"><speaker>DENYS, à part, sortant du même vaisseau qu'Euphémon.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="aparte/entrance/location">, à part, sortant du même vaisseau qu'Euphémon.
+</stage>
 <p id="2">
 	<s id="1">Il est bien singulier que le Sénat n'envoie pas des Députés au devant de moi. </s>
 	<s id="2">Peut-être n'a-t-il pas encore avis de mon arrivée ; attendons ici sa députation.</s>
@@ -225,7 +229,8 @@
 	<s id="3">Je fais plus, je vous offre ma maison ; car je doute qu'aucun de mes concitoyens voulût habiter sous le même toit avec vous.</s>
 </p>
 </sp>
-<sp stage="aparte" who="DENYS"><speaker>DENYS, à part.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="aparte">, à part.
+</stage>
 <p id="12">
 	<s id="1">Ciel ! </s>
 	<s id="2">À quoi me réduis-tu ? </s>
@@ -262,13 +267,15 @@
 	<s id="2">Vos vers même, vos vers qu'ils préféraient à ceux d'Homère, sont aujourd'hui jugés détestables ; et vous n'aurez plus le plaisir d'envoyer aux carrières ceux qui les siffleront.</s>
 </p>
 </sp>
-<sp stage="furious" who="DENYS"><speaker>DENYS, furieux.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="furious">, furieux.
+</stage>
 <p id="17">
 	<s id="1">Ah ! </s>
 	<s id="2">Je n'y puis plus tenir, la rage m« suffoque ; où sont mes gardes, mes bourreaux !</s>
 </p>
 </sp>
-<sp stage="laugh" who="EUPHÉMON"><speaker>EUPHÉMON, riant.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="laugh">, riant.
+</stage>
 <p id="18">
 	<s id="1">Je vois qu'il est encore plus dangereux d'outrager le poète, que le Roi. </s>
 	<s id="2">Tant mieux. </s>
@@ -278,7 +285,8 @@
 	<s id="6">Si même, pour vous consoler dans vos disgrâces, il faut écouter la lecture de vos vers, je les entendrai.</s>
 </p>
 </sp>
-<sp stage="aparte" who="DENYS"><speaker>DENYS, à part.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="aparte">, à part.
+</stage>
 <p id="19">
 	<s id="1">Ah ! </s>
 	<s id="2">Combien d'affronts il faut que je dévore !</s>
@@ -289,7 +297,8 @@
 	<s id="2">Mais dans ma Cour, quel rang, quelle charge prétendez-vous obtenir auprès de ma personne ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="EUPHÉMON"><speaker>EUPHÉMON, à part.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="21">
 	<s id="1">Quel rang, quelle charge j'obtiendrai dans ma propre maison ! </s>
 	<s id="2">La question est singulière ; ces Rois, lorsqu'ils cessent de l'être, sont bien étonnants !</s>
@@ -302,7 +311,8 @@
 	<s id="3">Ces charges-là, je ne vous les vends que six talents, et je donne la survivance à votre fils.</s>
 </p>
 </sp>
-<sp stage="aparte" who="EUPHÉMON"><speaker>EUPHÉMON, à part.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="23">
 	<s id="1">Ses trésors ! </s>
 	<s id="2">Ses finances ! </s>
@@ -343,8 +353,10 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Denys, Euphémon, Un Patron, Plusieurs Soldats.</head>
-<sp stage="à Denys" who="LE PATRON"><speaker>LE PATRON, á Denys.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Denys, Euphémon, Un Patron, Plusieurs Soldats.
+</stage>
+<sp who="LE PATRON"><speaker>LE PATRON</speaker><stage type="à Denys">, á Denys.
+</stage>
 <p id="1">
 	<s id="1">Quand vous plaira-t-il de me payer la traversée que vous avez faite dans mon vaisseau ? </s>
 	<s id="2">Pensez-vous que l'honneur d'avoir porté un Roi détrôné sera toute ma récompense ?</s>
@@ -355,12 +367,14 @@
 	<s id="1">Quel insolent me parle de ce ton audacieux ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="EUPHÉMON"><speaker>EUPHÉMON, à part.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="aparte">, à part.
+</stage>
 <p id="3">
 	<s id="1">Jouissons un instant de son embarras.</s>
 </p>
 </sp>
-<sp stage="toward" who="LE PATRON"><speaker>LE PATRON, à Denys.</speaker>
+<sp who="LE PATRON"><speaker>LE PATRON</speaker><stage type="toward">, à Denys.
+</stage>
 <p id="4">
 	<s id="1">Vous ne prétendez donc pas me payer ?</s>
 </p>
@@ -379,13 +393,15 @@
 	<s id="1">Gardes, arrêtez cet homme-là, et conduisez-le à la prison des débiteurs.</s>
 </p>
 </sp>
-<sp stage="toward" who="DENYS"><speaker>DENYS, aux soldats.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="toward">, aux soldats.
+</stage>
 <p id="8">
 	<s id="1">Gardes, arrêtez ce coquin-là ; conduisez-le sur le champ aux carrières, ou je vous fais trancher la tête à tous.</s>
 </p>
 <stage type="laugh">Les soldats se mettent à rire.</stage>
 </sp>
-<sp stage="toward" who="EUPHÉMON"><speaker>EUPHÉMON, au Patron.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="toward">, au Patron.
+</stage>
 <p id="9">
 	<s id="1">Faites retirer ces soldats, je vais vous payer.</s>
 </p>
@@ -396,7 +412,8 @@
 <stage type="get/count/entrance/frighten">Il tire de l'argent ; tandis qu'il le compte, Cratès paraît, et Denys recule d'effroi.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Denys, Euphémon, Cratès, Le Patron, Plusieurs soldats.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Denys, Euphémon, Cratès, Le Patron, Plusieurs soldats.
+</stage>
 <sp who="DENYS"><speaker>DENYS.</speaker>
 <p id="1">
 	<s id="1">Ciel ! </s>
@@ -414,7 +431,8 @@
  <stage type="give/exit">Il paie le Patron, qui se retire, ainsi que les soldats.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Denys, Euphémon, Cratès.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><stage> Denys, Euphémon, Cratès.
+</stage>
 <sp who="DENYS"><speaker>DENYS.</speaker>
 <p id="1">
 	<s id="1">Quoi ! </s>
@@ -441,7 +459,8 @@
 	<s id="2">Si le malheur épure votre âme, si vous devenez l'ami de vos semblables, si je vois couler de vos yeux les larmes du repentir, je vous adopte pour mon fils, je vous donne ma fille, et je vous associe à mes travaux.</s>
 </p>
 </sp>
-<sp stage="desdain" who="DENYS"><speaker>DENYS, avec dédain.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="desdain">, avec dédain.
+</stage>
 <p id="5">
 	<s id="1">De quels travaux voulez-vous donc parler ?</s>
 </p>
@@ -462,7 +481,8 @@
 	<s id="1">Oui, je commande, je me fais obéir, je punis, je pardonne.</s>
 </p>
 </sp>
-<sp stage="enthousiasm" who="DENYS"><speaker>DENYS, avec transport.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="enthousiasm">, avec transport.
+</stage>
 <p id="9">
 	<s id="1">Vous commandez ! </s>
 	<s id="2">On vous obéit ! </s>
@@ -472,7 +492,8 @@
 	<s id="6">Dès cet instant même, je veux être votre gendre.</s>
 </p>
 </sp>
-<sp stage="aparte" who="EUPHÉMON"><speaker>EUPHÉMON, à part.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="aparte">, à part.
+</stage>
 <note type="L">Férule : Petite palette de bois ou de cuir avec laquelle on frappe les écoliers dans la main. [L]</note>
 <p id="10">
 	<s id="1">Il prend la chaire pour un trône, et la férule pour un sceptre.</s>
@@ -523,14 +544,16 @@
 <stage type="">Il l'entraîne.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Denys, Ramnès, Euphémon, Cratès.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Denys, Ramnès, Euphémon, Cratès.
+</stage>
 <sp who="CRATÈS"><speaker>CRATÈS.</speaker>
 <p id="1">
 	<s id="1">Le voici lui-même qui se promène sur le port, je vais l'appeler. </s>
 	<s id="2">Ramnès !...</s>
 </p>
 </sp>
-<sp stage="toward" who="DENYS"><speaker>DENYS, à Cratès.</speaker>
+<sp who="DENYS"><speaker>DENYS</speaker><stage type="toward">, à Cratès.
+</stage>
 <p id="2">
 	<s id="1">Il paraît plongé dans des réflexions profondes. </s>
 	<s id="2">Il veut être seul sans doute et vous osez ainsi l'interrompre ! .</s>
@@ -546,7 +569,8 @@
 	<s id="1">Je m'en fuis aperçu.</s>
 </p>
 </sp>
-<sp stage="toward" who="EUPHÉMON"><speaker>EUPHÈMON, à Ramnès.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÈMON</speaker><stage type="toward">, à Ramnès.
+</stage>
 <p id="5">
 	<s id="1">Nous vous présentons un Roi qui, ainsi que vous, a eu le malheur de...</s>
 </p>
@@ -557,7 +581,8 @@
 	<s id="2">Contentez-vous d'être mon Intendant des finances ; il est bien juste que Cratès soi ; mon Chancelier.</s>
 </p>
 </sp>
-<sp stage="toward" who="EUPHÉMON"><speaker>EUPHÉMON, à Ramnès.</speaker>
+<sp who="EUPHÉMON"><speaker>EUPHÉMON</speaker><stage type="toward">, à Ramnès.
+</stage>
 <p id="7">
 	<s id="1">À ce nouveau trait de vanité, vous devez reconnaître Denys de Syracuse.</s>
 </p>
@@ -567,7 +592,8 @@
 	<s id="1">Oui, je viens d'apprendre ses malheurs ; ils m'ont attendri, et j'accourais pour embrasser mon semblable.</s>
 </p>
 </sp>
-<sp stage="toward" who="CRATÈS"><speaker>CRATÈS, à Ramnès et à Denys.</speaker>
+<sp who="CRATÈS"><speaker>CRATÈS</speaker><stage type="toward">, à Ramnès et à Denys.
+</stage>
 <p id="9">
 	<s id="1">Allons, embrassez-vous.</s>
 </p>
@@ -612,7 +638,8 @@
 	<s id="3">Il vaut mieux ennuyer le genre humain que de le détruire.</s>
 </p>
 </sp>
-<sp stage="toward" who="RAMNÈS"><speaker>RAMNÈS, à Denys.</speaker>
+<sp who="RAMNÈS"><speaker>RAMNÈS</speaker><stage type="toward">, à Denys.
+</stage>
 <p id="17">
 	<s id="1">Euphémon a raison : indigents et faibles comme nous sommes, il nous est plus aisé de faire une étroite alliance que de nous faire la guerre ! </s>
 	<s id="2">L'amitié se forme sans frais ; et pour faire la guerre, il en coûte une armée et de l'argent. Nous n'avons ni l'un ni l'autre. Croyez-moi, les malheureux sont faits pour s'unir ; soyons amis, touchez-là.</s>

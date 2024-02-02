@@ -51,13 +51,15 @@
 <body>
 <div1 type="act" n="1"><head>L'AUTEUR DANS SON MÉNAGE.</head>
 <stage type="decor">Le Théâtre représente Le cabinet de Géralde ; sur La gauche est une table, couverte de papiers en désordre ; sur sa droite, un clavecin ; une bibliothèque, dans Le fond.</stage>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Madame Géralde; occupée à ranger des papiers; CÉLESTINE, lisant.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><stage> Madame Géralde; occupée à ranger des papiers; CÉLESTINE, lisant.
+</stage>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
 <p id="1">
 	<s id="1">Qu'as-tu, ma chère Célestine ?</s>
 </p>
 </sp>
-<sp who="CÉLESTINE"><speaker>CÉLESTINE, d'un air triste.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage>, d'un air triste.
+</stage>
 <p id="2">
 	<s id="1">Je n'ai rien, ma mère.</s>
 </p>
@@ -67,7 +69,8 @@
 	<s id="1">Reprends donc ta gaîté ordinaire.</s>
 </p>
 </sp>
-<sp stage="sad" who="CÉLESTINE"><speaker>CÉLESTINE, d'un air triste.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="sad">, d'un air triste.
+</stage>
 <p id="4">
 	<s id="1">Je suis fort gaie aussi.</s>
 </p>
@@ -77,7 +80,8 @@
 	<s id="1">C'est bien assez des ennuis que te donne l'étude.</s>
 </p>
 </sp>
-<sp stage="sigh" who="CÉLESTINE"><speaker>CÉLESTINE, en soupirant.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="sigh">, en soupirant.
+</stage>
 <p id="6">
 	<s id="1">Voici bientôt l'heure, où je vais prendre ma leçon de musique, de dessin, de morale et de philosophie.</s>
 </p>
@@ -127,7 +131,8 @@
 	<s id="1">Oui ; mais, les savants sont fort ennuyeux.</s>
 </p>
 </sp>
-<sp stage="shy" who="CÉLESTINE"><speaker>CÉLESTINE, rougissant et baissant les yeux.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="shy">, rougissant et baissant les yeux.
+</stage>
 <p id="16">
 	<s id="1">Il en est d'aimables, maman.</s>
 </p>
@@ -142,7 +147,8 @@
 	<s id="1">Je ne dois rien vous cacher.</s>
 </p>
 </sp>
-<sp stage="serious" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, d'un ton sérieux.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="serious">, d'un ton sérieux.
+</stage>
 <p id="19">
 	<s id="1">Parlez, Mademoiselle.</s>
 </p>
@@ -204,7 +210,8 @@
 	<s id="1">Depuis le lever du jour, ton père se promène dans la grande allée de notre jardin ; en rentrant il va composer.</s>
 </p>
 </sp>
-<sp stage="happy" who="CÉLESTINE"><speaker>CÉLESTINE, gaiment.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="happy">, gaiment.
+</stage>
 <p id="28">
 	<s id="2">À son retour, nous descendrons au jardin ; nous nous assiérons vers le petit treillage. </s>
 	<s id="2">J'ai encore beaucoup de choses à vous dire.</s>
@@ -215,7 +222,8 @@
 	<s id="1">Sur quoi ?</s>
 </p>
 </sp>
-<sp stage="quick" who="CÉLESTINE"><speaker>CÉLESTINE, vivement.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="quick">, vivement.
+</stage>
 <p id="30">
 	<s id="1">Sur Alexis.</s>
 </p>
@@ -225,12 +233,14 @@
 	<s id="1">Il sera maintenant le grand sujet de nos conversations.</s>
 </p>
 </sp>
-<sp stage="sweet" who="CÉLESTINE"><speaker>CÉLESTINE, caressant sa mère.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="sweet">, caressant sa mère.
+</stage>
 <p id="32">
 	<s id="1">Alexis ne me fera point oublier ma bonne maman.</s>
 </p>
 </sp>
-<sp stage="kiss" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, l'embrassant.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="kiss">, l'embrassant.
+</stage>
 <p id="33">
 	<s id="1">Ma chère Célestine ! </s>
 	<s id="2">Je vais voir ce que fait ton père, et s'il va  bientôt rentrer.</s>
@@ -266,7 +276,8 @@
 	<l id="34">Ah ! J'irai tout dire à ma mère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Célestine, Madame Géralde.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><stage> Célestine, Madame Géralde.
+</stage>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
 <p id="1">
 	<s id="1">Descends au jardin, Célestine ; j'ai aperçu de loin ton père ; voilà son attitude.</s>
@@ -279,18 +290,22 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Madame Géralde, Célestine, Géralde.</head>
-<sp stage="alone/agitated" who="GÉRALDE"><speaker>GÉRALDE, se croyant seul, d'un ton animé.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><stage> Madame Géralde, Célestine, Géralde.
+</stage>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="alone/agitated">, se croyant seul, d'un ton animé.
+</stage>
 <p id="1">
 	<s id="1">Ô mon génie, ne m'abandonne pas !...</s>
 </p>
 </sp>
-<sp stage="aparte" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, à part.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="2">
 	<s id="1">Il va se fâcher en me voyant.</s>
 </p>
 </sp>
-<sp who="CÉLESTINE"><speaker>CÉLESTINE, dans un coin du théâtre.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage>, dans un coin du théâtre.
+</stage>
 <p id="3">
 	<s id="1">Je n'ose bouger.</s>
 </p>
@@ -300,7 +315,8 @@
 	<s id="1">Je vais chanter les charmes de l'union conjugale.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, à part.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="5">
 	<s id="1">L'idée est aimable.</s>
 </p>
@@ -310,17 +326,20 @@
 	<s id="1">Si je pouvais sortir sans qu'il me vît.</s>
 </p>
 </sp>
-<sp stage="furious" who="GÉRALDE"><speaker>GÉRALDE, en fureur.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="furious">, en fureur.
+</stage>
 <p id="7">
 	<s id="1">Femmes célèbres par vos forfaits, éloignez-vous de ma pensée !</s>
 </p>
 </sp>
-<sp stage="aparte" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, à part.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="8">
 	<s id="1">Voilà du noir.</s>
 </p>
 </sp>
-<sp stage="frighten" who="CÉLESTINE"><speaker>CÉLESTINE, tremblante.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="frighten">, tremblante.
+</stage>
 <p id="9">
 	<s id="1">Je serai grondée.</s>
 </p>
@@ -338,7 +357,8 @@
 	<l id="37">Maman, il a bien du chagrin</l>
 	<l id="38">Maman, descendons au jardin.</l>
 </sp>
-<sp who="GÉRALDE"><speaker>GÉRALDE, inspiré.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage>, inspiré.
+	</stage>
 	<l id="39">Implacable Médée,</l>
 	<l id="40">Reprends le chemin des enfers.</l>
 </sp>
@@ -348,7 +368,8 @@
 <sp who="CÉLESTINE"><speaker>CÉLESTINE.</speaker>
 	<l id="42">Ô ciel ! Sa tête est égarée.</l>
 </sp>
-<sp stage="toward" who="GÉRALDE"><speaker>GÉRALDE, à sa fille.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="toward">, à sa fille.
+	</stage>
 	<l id="43">Antigone, fille adorée</l>
 	<l id="44">Tu sers d'exemple à l'univers, </l>
 <stage type="toward">À sa femme :</stage>
@@ -361,13 +382,15 @@
 <sp who="MADAME GÉRALDE, CÉLESTINE"><speaker>MADAME GÉRALDE, CÉLESTINE.</speaker>
 	<l id="49">Quel bonheur ! Il ne gronde pas.</l>
 </sp>
-<sp stage="sweet" who="CÉLESTINE"><speaker>CÉLESTINE, caressant Géralde.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="sweet">, caressant Géralde.
+	</stage>
 	<l id="50">Vous le savez, mon père ;</l>
 	<l id="51">Vous aimer fait tout mon bonheur ;</l>
 	<l id="52">Auprès de vous, près de ma mère, </l>
 	<l id="53">Tout remplit, tout charme mon coeur. </l>
 </sp>
-<sp stage="kiss" who="GÉRALDE"><speaker>GÉRALDE, les embrassant.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="kiss">, les embrassant.
+	</stage>
 	<l id="54">Ô ma femme, ô ma fille !</l>
 	<l id="55">Toutes deux, venez dans mes bras : </l>
 	<l id="56">Oui, les plaisirs qu'on éprouve en famille</l>
@@ -420,7 +443,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCENE VI. Géralde, Madame Géralde.</head>
+<div2 type="scene" n="6"><head>SCENE VI.</head><stage> Géralde, Madame Géralde.
+</stage>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
 <p id="1">
 	<s id="1">Que voulez-vous ?</s>
@@ -442,7 +466,8 @@
 	<s id="1">Il est vrai.</s>
 </p>
 </sp>
-<sp stage="get" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, prenant les notes dans le secrétaire.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="get">, prenant les notes dans le secrétaire.
+</stage>
 <p id="5">
 	<s id="1">Les voici.</s>
 </p>
@@ -458,12 +483,14 @@
 	<s id="1">Je vous laisse.</s>
 </p>
 </sp>
-<sp stage="follow/run" who="GÉRALDE"><speaker>GÉRALDE, courant après elle.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="follow/run">, courant après elle.
+</stage>
 <p id="8">
 	<s id="1">Pardonne ma vivacité ; j'avais tort ; ma chère femme.</s>
 </p>
 </sp>
-<sp stage="aparte" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, à part.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="9">
 	<s id="1">Il est fou !... </s>
 </p>
@@ -496,7 +523,8 @@
 	<s id="">Mais voici votre ami Mainfroi.</s>
 </p>
 </sp>
-<sp stage="LISTEN" who="GÉRALDE"><speaker>GÉRALDE, qui n'a point entendu.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="LISTEN">, qui n'a point entendu.
+	</stage>
 	<l id="64">De l'homme heureux.</l>
 </sp>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
@@ -505,13 +533,15 @@
 </p>
 <stage type="exit">Elle sort.</stage>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="16">
 	<s id="1">On vient encore me déranger !....</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Géralde, composant ; Mainfroi.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><stage> Géralde, composant ; Mainfroi.
+</stage>
 <sp who="MAINFROI"><speaker>MAINFROI.</speaker>
 <p id="1">
 	<s id="1">Bonjour, Géralde.</s>
@@ -651,7 +681,8 @@
 	<s id="1">Vingt fois vous m'avez traité de fou ; la poésie est une chimère, disiez-vous.</s>
 </p>
 </sp>
-<sp stage="prey" who="MAINFROI"><speaker>MAINFROI, le priant.</speaker>
+<sp who="MAINFROI"><speaker>MAINFROI</speaker><stage type="prey">, le priant.
+</stage>
 <p id="29">
 	<s id="">Mon ami...</s>
 </p>
@@ -691,7 +722,8 @@
 	<s id="1">Voilà une raison.</s>
 </p>
 </sp>
-<sp stage="aprte" who="MAINFROI"><speaker>MAINFROI, à part.</speaker>
+<sp who="MAINFROI"><speaker>MAINFROI</speaker><stage type="aprte">, à part.
+</stage>
 <p id="37">
 	<s id="1">Il est pris.</s>
 </p>
@@ -721,7 +753,8 @@
 	<s id="1">Je n'oserais le tenter : un mathématicien lutter contre un poète ?</s>
 </p>
 </sp>
-<sp stage="enthousiasm" who="GÉRALDE"><speaker>GÉRALDE, avec enthousiasme.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="enthousiasm">, avec enthousiasme.
+</stage>
 <p id="43">
 	<s id="1">La poésie nourrit l'âme, l'élève, l'embrase ; et ce n'est qu'au sein des arts, que l'on peut oublier la méchanceté des hommes, et l'inconstance des femmes.</s>
 </p>
@@ -778,7 +811,8 @@
 	<s id="1">Que je le mets sous la protection de ma Muse.</s>
 </p>
 </sp>
-<sp stage="ironic" who="MAINFROI"><speaker>MAINFROI, d'un ton railleur.</speaker>
+<sp who="MAINFROI"><speaker>MAINFROI</speaker><stage type="ironic">, d'un ton railleur.
+</stage>
 <p id="52">
 	<s id="1">Et tu crois que sa jeune amante sera attendrie par le charme de ta poésie.</s>
 </p>
@@ -857,8 +891,10 @@
 </p>
 </sp>
 </div2>
-<div2 stage="carry" type="scene" n="9"><head>SCÈNE IX. Géralde, Célestine, portant un gros livre, des dessins et de la musique.</head>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><stage type="carry"> Géralde, Célestine, portant un gros livre, des dessins et de la musique.
+</stage>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="1">
 	<s id="1">Qu'elle est jolie ! </s>
 	<s id="2">Approche, ma chère Célestine ; embrasse ton père. </s>
@@ -868,17 +904,20 @@
 	<s id="1">Tu m'as promis d'étudier.</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉLESTINE"><speaker>CÉLESTINE, à part.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="3">
 	<s id="1">Il va bien me gronder.</s>
 </p>
 </sp>
-<sp stage="serious" who="GÉRALDE"><speaker>GÉRALDE, gravement.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="serious">, gravement.
+</stage>
 <p id="4">
 	<s id="">Je vous ai recommandé le chapitre douzième de mon livre élémentaire, ce chapitre important qui traite de la morale, de la philosophie et qui m'a coûté tant de veilles.</s>
 </p>
 </sp>
-<sp who="CÉLESTINE"><speaker>CÉLESTINE, à part.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage>, à part.
+</stage>
 <p id="5">
 	<s id="1">Il m'en a coûté bien davantage.</s>
 </p>
@@ -915,12 +954,14 @@
 	<s id="1">Ne vous fâchez pas.</s>
 </p>
 </sp>
-<sp stage="open" who="GÉRALDE"><speaker>GÉRALDE, ouvrant son livre.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="open">, ouvrant son livre.
+</stage>
 <p id="12">
 	<s id="1">Lisez, Mademoiselle, lisez.</s>
 </p>
 </sp>
-<sp who="CÉLESTINE"><speaker>CÉLESTINE, ouvre le gros livre en tremblant.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage>, ouvre le gros livre en tremblant.
+</stage>
 <p id="13">
 	<s id="1">La morale est l'art de distinguer le vice, et de suivre la vertu et....</s>
 </p>
@@ -965,7 +1006,8 @@
 	<s id="1">En voici de nouveaux.</s>
 </p>
 </sp>
-<sp stage="watch" who="GÉRALDE"><speaker>GÉRALDE, examinant les dessins.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="watch">, examinant les dessins.
+</stage>
 <p id="22">
 	<s id="1">Venez me les expliquer.</s>
 </p>
@@ -976,7 +1018,8 @@
 	<s id="2">Tandis qu'elle prouve ainsi son respect filial, son oeil fixé sur son époux, sa main étroitement serrée dans la sienne, prouvent l'amour...</s>
 </p>
 </sp>
-<sp stage="serious" who="GÉRALDE"><speaker>GÉRALDE, gravement.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="serious">, gravement.
+</stage>
 <p id="24">
 	<s id="1">L'amour.</s>
 </p>
@@ -986,12 +1029,14 @@
 	<s id="1">L'attachement qu'elle a pour son époux.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="26">
 	<s id="1">L'amour, voilà la première fois que ce mot lui échappe.</s>
 </p>
 </sp>
-<sp stage="aparte" who="CÉLESTINE"><speaker>CÉLESTINE, à part.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="27">
 	<s id="1">Il va se fâcher.</s>
 </p>
@@ -1029,7 +1074,8 @@
 	<s id="1">Mais point de romance langoureuse.</s>
 </p>
 </sp>
-<sp stage="choose" who="CÉLESTINE"><speaker>CÉLESTINE, choisissant un morceau de musique.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="choose">, choisissant un morceau de musique.
+</stage>
 <p id="34">
 	<s id="1">Ce morceau est assez gai, je l'ai distingué.</s>
 </p>
@@ -1061,7 +1107,8 @@
 </lg>
 </poem>
 </sp>
-<sp stage="angry" who="GÉRALDE"><speaker>GÉRALDE, en colère.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="angry">, en colère.
+</stage>
 <p id="35">
 	<s id="1">Sont esclaves d'amour. </s>
 	<s id="2">Pourquoi avez-vous choisi ces paroles ?</s>
@@ -1082,7 +1129,8 @@
 	<s id="1">Quel sujet avez-vous pour me gronder ?</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="39">
 	<s id="1">Il serait dangereux de m'expliquer.</s>
 </p>
@@ -1097,7 +1145,8 @@
 	<s id="1">Ne m'interrogez pas ; retournez à l'étude ; réfléchissez sur vos cours de morale, de philosophie ; étudiez mon livre élémentaire ; et surtout, que l'hymen, n'entre plus dans la composition de vos dessins ; une petite fille ne doit point inventer de semblables tableaux.</s>
 </p>
 </sp>
-<sp stage="cry" who="CÉLESTINE"><speaker>CÉLESTINE, en pleurant.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="cry">, en pleurant.
+</stage>
 <p id="42">
 	<s id="1">Une petite fille ! </s>
 	<s id="2">Ah, pauvre Alexis.</s>
@@ -1135,13 +1184,15 @@
 	<l id="116">Ainsi la femme est un dieu...</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Géralde, Madame Géralde.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><stage> Géralde, Madame Géralde.
+</stage>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
 <p id="1">
 	<s id="1">On vous demande.</s>
 </p>
 </sp>
-<sp stage="abrupt" who="GÉRALDE"><speaker>GÉRALDE, brusquement.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="abrupt">, brusquement.
+</stage>
 <p id="2">
 	<s id="1">Laissez-moi.</s>
 </p>
@@ -1155,7 +1206,8 @@
 	<s id="1">M'avez-vous entendue ?</s>
 </p>
 </sp>
-<sp who="GÉRALDE"><speaker>GÉRALDE, cherchant ses vers.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage>, cherchant ses vers.
+	</stage>
 	<l id="120">Ainsi la femme est un dieu...</l>
 </sp>
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
@@ -1163,7 +1215,8 @@
 	<s id="1">Répondez.</s>
 </p>
 </sp>
-<sp stage="anger" who="GÉRALDE"><speaker>GÉRALDE, en colère.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="anger">, en colère.
+</stage>
 <p id="5">
 	<s id="1">Au diable !</s>
 </p>
@@ -1174,7 +1227,8 @@
 	<s id="1">Un jeune homme vous demande.</s>
 </p>
 </sp>
-<sp stage="quick" who="GÉRALDE"><speaker>GÉRALDE, vivement.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="quick">, vivement.
+</stage>
 <p id="7">
 	<s id="1">Tant pis pour lui.</s>
 </p>
@@ -1184,7 +1238,8 @@
 	<s id="1">Écoutez-moi.</s>
 </p>
 </sp>
-<sp stage="anger/hurry" who="GÉRALDE"><speaker>GÉRALDE, en colère et vivement.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="anger/hurry">, en colère et vivement.
+</stage>
 <p id="9">
 	<s id="1">Ne parlez pas ; vous allez détruire mon enthousiasme ; je compose ; je chante les douceurs de l'hyménée ; et je vous prie, ma chère femme, de ne pas m'impatienter.</s>
 </p>
@@ -1255,7 +1310,8 @@
 	<s id="1">Sans doute ; ne vantez pas les femmes étrangères ; et soyez plus honnête envers la vôtre.</s>
 </p>
 </sp>
-<sp who="GÉRALDE"><speaker>GÉRALDE, en colère.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage>, en colère.
+</stage>
 <p id="22">
 	<s id="">Madame Géralde, vous me poussez à bout ; vous me devenez insupportable !...</s>
 </p> 
@@ -1292,13 +1348,15 @@
 <stage type="write">Il compose.</stage>
 	<l id="126">L'hymen fut inventé pour charmer l'existence.</l>
 </sp>
-<sp stage="hurry" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, vivement.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="hurry">, vivement.
+</stage>
 <p id="29">
 	<s id="1">Que penserait-on de vous si l'on était témoin d'une semblable scène ; eh quoi ? </s>
 	<s id="2">Dirait-on, celui qui paraît si reconnaissant envers les mères, si tendre envers les épouses, il maltraite sa compagne : votre conduite sera la critique de votre ouvrage ; pour qu'on vous croie, messieurs les écrivains, il faut que vos actions soient semblables à vos écrits.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="30">
 	<s id="1">Elle a raison, je crois, ma femme.</s>
 </p>
@@ -1308,7 +1366,8 @@
 	<s id="1">Le mot affreux que vous avez prononcé ne m'est pas échappé ; et quoique rassurée par l'amitié que vous portez à votre Célestine, je ne peux m'empêcher de pleurer en me le rappelant.</s>
 </p>
 </sp>
-<sp stage="confuse" who="GÉRALDE"><speaker>GÉRALDE, confus.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="confuse">, confus.
+</stage>
 <p id="32">
 	<s id="1">Qu'ai-je dit ?</s>
 </p>
@@ -1331,7 +1390,8 @@
 	<s id="1">C'en est assez, mon ami ; tout est oublié.</s>
 </p>
 </sp>
-<sp who="GÉRALDE"><speaker>GÉRALDE,  ému.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage>,  ému.
+</stage>
 <p id="36">
 	<s id="1">Je n'entends point que mon talent pour la poésie trouble la paix dé mon ménage ; si tu l'exiges, je vais déchirer devant toi toutes mes productions ; je te sacrifierai jusqu'à mon poème en dix-huit chants.</s>
 </p>
@@ -1362,7 +1422,8 @@
 </p>
 <stage type="away">Elle va sortir.</stage>
 </sp>
-<sp stage="pull/back" who="GÉRALDE"><speaker>GÉRALDE, la remenant, ému.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="pull/back">, la remenant, ému.
+</stage>
 <p id="42">
 	<s id="1">Veux-tu que je déchire mon poème, et que je renonce au Parnasse pour la vie.</s>
 </p>
@@ -1384,13 +1445,15 @@
 <stage type="kiss">Ils s'embrassent.</stage>
 <stage type="exit">Elle sort.</stage>
 </sp>
-<sp stage="alone" who="GÉRALDE"><speaker>GÉRALDE, seul.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="alone">, seul.
+</stage>
 <p id="46">
 	<s id="1">Oh, c'en est fait, je dois renoncer, à la poésie, cela me rend d'une humeur insupportable; cependant j'avais bien commencé mon poème sur les femmes ; je suis fâché de l'avoir déchiré ; il me vient encore une bonne idée.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Géralde, Alexis</head>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><stage> Géralde, Alexis
+</stage>
 <sp who="ALEXIS"><speaker>ALEXIS.</speaker>
 <p id="1">
 	<s id="1">Je vous prie d'excuser la liberté... </s>
@@ -1476,14 +1539,16 @@
 	<l id="133">Que l'image de ma maîtresse</l>
 	<l id="134">L'inspire et parle à son coeur.</l>
 </sp>
-<sp stage="compose" who="GÉRALDE"><speaker>GÉRALDE, composant.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="compose">, composant.
+	</stage>
 	<l id="135">Fort bien ; quelle chaleur !</l>
 	<l id="136">Mes vers parleront à son coeur.</l>
 <p id="15">
 	<s id="1">Lisez.</s>
 </p>
 </sp>
-<sp stage="" who="ALEXIS"><speaker>ALEXIS, après avoir lu avec émotion.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="">, après avoir lu avec émotion.
+</stage>
 <p id="16">
 	<s id="1">L'esprit et le sentiment brillent tour-à-tour dans vos vers.</s>
 </p>
@@ -1517,24 +1582,29 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Géralde, Alexis, Madame Célestine, Célestine.</head>
-<sp who="ALEXIS"><speaker>ALEXIS, allant au-devant de mad. Géralde.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><stage> Géralde, Alexis, Madame Célestine, Célestine.
+</stage>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage>, allant au-devant de mad. Géralde.
+</stage>
 <p id="1">
 	<s id="1">Madame... </s>
 	<s id="2">Ciel, que vois-je, Célestine !</s>
 </p>
 </sp>
-<sp stage="recognize" who="CÉLESTINE"><speaker>CÉLESTINE, le reconnaissant.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="recognize">, le reconnaissant.
+</stage>
 <p id="2">
 	<s id="1">Alexis !</s>
 </p>
 </sp>
-<sp stage="aparte" who="ALEXIS"><speaker>ALEXIS, à part.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="aparte">, à part.
+</stage>
 <p id="3">
 	<s id="1">Le coeur me bat.</s>
 </p>
 </sp>
-<sp stage="low/toward" who="GÉRALDE"><speaker>GÉRALDE, bas à Alexis.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="low/toward">, bas à Alexis.
+</stage>
 <p id="4">
 	<s id="1">Vous permettrez que ma fille se retire ; je ne veux point qu'elle entende mes vers.</s>
 </p>
@@ -1548,7 +1618,8 @@
 	<s id="1">Personne n'en peut mieux juger qu'elle.</s>
 </p>
 </sp>
-<sp stage="low/toward" who="GÉRALDE"><speaker>GÉRALDE, bas à sa femme.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="low/toward">, bas à sa femme.
+</stage>
 <p id="7">
 	<s id="1">Restez, mais renvoyez Célestine.</s>
 </p>
@@ -1558,22 +1629,26 @@
 	<s id="1">De quoi s'agit-il ?</s>
 </p>
 </sp>
-<sp stage="quick/watch" who="ALEXIS"><speaker>ALEXIS, vivement, regardant Célestine.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="quick/watch">, vivement, regardant Célestine.
+</stage>
 <p id="9">
 	<s id="1">D'une déclaration d'amour.</s>
 </p>
 </sp>
-<sp stage="agitated/low/toward" who="GÉRALDE"><speaker>GÉRALDE, agité, bas à Alexis.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="agitated/low/toward">, agité, bas à Alexis.
+</stage>
 <p id="10">
 	<s id="1">N'en parlez pas devant cette petite fille : jamais ce mot n'a frappé  son oreille.</s>
 </p>
 </sp>
-<sp stage="quick" who="CÉLESTINE"><speaker>CÉLESTINE, vivement.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="quick">, vivement.
+</stage>
 <p id="11">
 	<s id="1">Je voudrais bien l'entendre.</s>
 </p>
 </sp>
-<sp stage="toward" who="GÉRALDE"><speaker>GÉRALDE, à sa femme.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="toward">, à sa femme.
+</stage>
 <p id="12">
 	<s id="1">Ma fille ne se connaît point en vers.</s>
 </p>
@@ -1590,12 +1665,14 @@
 	<s id="3">Je raisonne avec elle, et j'ai peur avec vous.</s>
 </p>
 </sp>
-<sp stage="low/toward" who="ALEXIS"><speaker>ALEXIS, bas à Géralde.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="low/toward">, bas à Géralde.
+</stage>
 <p id="15">
 	<s id="1">Vos vers ne peuvent inspirer que des sentiments délicats.</s>
 </p>
 </sp>
-<sp stage="happy" who="GÉRALDE"><speaker>GÉRALDE, content.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="happy">, content.
+</stage>
 <p id="16">
 	<s id="1">Il est vrai.</s>
 </p>
@@ -1605,17 +1682,20 @@
 	<s id="1">Le bon goût les distingue.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="18">
 	<s id="1">Ce jeune homme est connaisseur.</s>
 </p>
 </sp>
-<sp stage="sweet" who="CÉLESTINE"><speaker>CÉLESTINE, en caressant Madame Géralde.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="sweet">, en caressant Madame Géralde.
+</stage>
 <p id="19">
 	<s id="1">Je voudrais bien entendre les vers de mon papa.</s>
 </p>
 </sp>
-<sp stage="low/toward" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, bas à son mari.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="low/toward">, bas à son mari.
+</stage>
 <p id="20">
 	<s id="1">Vous l'humilieriez par un refus.</s>
 </p>
@@ -1630,7 +1710,8 @@
 	<s id="1">Eh bien, je vais vous les lire.</s>
 </p>
 </sp>
-<sp stage="quick" who="ALEXIS"><speaker>ALEXIS, vivement.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="quick">, vivement.
+</stage>
 <p id="23">
 	<s id="1">Il s'agit d'un amour pur et délicat.</s>
 </p>
@@ -1640,12 +1721,14 @@
 	<s id="1">Je le crois.</s>
 </p>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, vivement, en regardant Célestine.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage>, vivement, en regardant Célestine.
+</stage>
 <p id="25">
 	<s id="1">L'objet a mille qualités : esprit, grâces, talents, modestie ; elle  réunit tout.</s>
 </p>
 </sp>
-<sp stage="touch" who="CÉLESTINE"><speaker>CÉLESTINE, émue.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="touch">, émue.
+</stage>
 <p id="26">
 	<s id="1">Cela doit être intéressant.</s>
 </p>
@@ -1660,7 +1743,8 @@
 	<s id="1">Écoutons.</s>
 </p>
 </sp>
-<sp stage="declamate/toward" who="GÉRALDE"><speaker>GÉRALDE, déclamant les vers à sa fille.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="declamate/toward">, déclamant les vers à sa fille.
+	</stage>
 	<l id="137">Pourquoi cacher le beau feu qui m'anime,</l>
 	<l id="138">Et me livrer à de cruels efforts ;</l>
 	<l id="139">Lorsque l'amour est le fruit de l'estime,</l>
@@ -1709,12 +1793,14 @@
 	<s id="1">Écoutez le second couplet.</s>
 </p>
 </sp>
-<sp stage="toward" who="ALEXIS"><speaker>ALEXIS, à Géralde.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage type="toward">, à Géralde.
+</stage>
 <p id="36">
 	<s id="1">La modestie vous empêche d'appuyer sur les beaux endroits de votre  ouvrage.</s>
 </p>
 </sp>
-<sp stage="aparte" who="GÉRALDE"><speaker>GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="aparte">, à part.
+</stage>
 <p id="37">
 	<s id="1">C'est la vérité.</s>
 </p>
@@ -1734,7 +1820,8 @@
 	<l id="153">Ton Alexis chérit la vie, </l>
 	<l id="154">Pour la passer auprès de toi.</l>
 </sp>
-<sp stage="aparte" who="CÉLESTINE"><speaker>CÉLESTINE, à part.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="155">Quel trouble agite tous mes sens ;</l>
 	<l id="156">Papa, vos vers sont excellents.</l>
 </sp>
@@ -1743,14 +1830,17 @@
 <stage type="toward">À Géralde.</stage>
 	<l id="158">Vos vers sont excellents.</l>
 </sp>
-<sp stage="aparte" who="GÉRALDE, MADAME GÉRALDE"><speaker>GÉRALDE, MADAME GÉRALDE, à part.</speaker>
+<sp who="GÉRALDE, MADAME GÉRALDE"><speaker>GÉRALDE, MADAME GÉRALDE</speaker><stage type="aparte">, à part.
+	</stage>
 	<l id="159">Oh, c'est charmant !</l>
 <stage type="toward">À Alexis.</stage>
 	<l id="160">Que de feu !... Que de sentiment !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE DERNIÈRE. Géralde, Alexis, Madame Géralde,  Célestine ; Mainfroi : paraît dans le fond ; son geste annonce le plaisir qu'il éprouve, en voyant lire Alexis.</head>
-<sp who="ALEXIS"><speaker>ALEXIS, les feux fixées sur Célestine.</speaker>
+<div2 type="scene" n=""><head>SCÈNE DERNIÈRE.</head><stage> Géralde, Alexis, Madame Géralde,  Célestine ; Mainfroi : paraît dans le fond ; son geste annonce le plaisir qu'il éprouve, en voyant lire Alexis.
+</stage>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage>, les feux fixées sur Célestine.
+	</stage>
 	<l id="161">Ô toi que j'aime, sois sensible</l>
 	<l id="162">Aux voeux de mon premier amour ;</l>
 	<l id="163">Que ton âme soit moins paisible,</l>
@@ -1758,7 +1848,8 @@
 	<l id="165">Célestine !... Célestine.</l>
 <stage type="touch/watch">Alexis croyant que Géralde ne le voit pas, prends la main de Célestine.</stage>
 </sp>
-<sp stage="surprise" who="GÉRALDE"><speaker>GÉRALDE, surpris.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="surprise">, surpris.
+	</stage>
 	<l id="166">Célestine que dites-vous ;</l>
 	<l id="167">Quel est donc ce transport bizarre ?</l>
 </sp>
@@ -1767,7 +1858,8 @@
 <stage type="toward">À Géralde.</stage>
 	<l id="169">Cachez votre courroux.</l>
 </sp>
-<sp stage="watch" who="GÉRALDE"><speaker>GÉRALDE, apercevant Mainfroi, et courant à lui.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="watch">, apercevant Mainfroi, et courant à lui.
+	</stage>
 	<l id="170">Approche, explique-moi cet étrange mystère ;</l>
 	<l id="171">J'ai composé mes vers ; à tous ils ont su plaire.</l>
 	<l id="172">Célestine est émue ; Alexis enivré ;</l>
@@ -1775,7 +1867,8 @@
 	<l id="174">En déclamant mes vers, il nomme Célestine.</l>
 	<l id="175">Apprends-moi le secret de son coeur égaré.</l>
 </sp>
-<sp stage="ironic" who="MAINFROI"><speaker>MAINFROI, d'un ton railleur.</speaker>
+<sp who="MAINFROI"><speaker>MAINFROI</speaker><stage type="ironic">, d'un ton railleur.
+	</stage>
 	<l id="176">Tes vers sont composés ; à tous ils ont su plaire.</l>
 	<l id="177">Célestine est émue ; Alexis entraîné...</l>
 	<l id="178">Dans leurs yeux tour-à-tour le sentiment pétille ;</l>
@@ -1802,14 +1895,17 @@
 	<l id="185" syll="6" part="f">Je suis le seul coupable.</l>
 	<l id="186">L'amitié rend tout excusable.</l>
 </sp>
-<sp stage="toward/sweet" who="CÉLESTINE"><speaker>CÉLESTINE, à Géralde en le caressant.</speaker>
+<sp who="CÉLESTINE"><speaker>CÉLESTINE</speaker><stage type="toward/sweet">, à Géralde en le caressant.
+	</stage>
 	<l id="187">Ah ! Mon père, il n'est point coupable ;</l>
 	<l id="188">Faites le bonheur de tous deux.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, à Madame Géralde.</speaker>
+<sp who="ALEXIS"><speaker>ALEXIS</speaker><stage>, à Madame Géralde.
+	</stage>
 	<l id="189">Ah ! Madame, comblez nos voeux.</l>
 </sp>
-<sp stage="toward" who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE, à Géralde.</speaker>
+<sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE</speaker><stage type="toward">, à Géralde.
+	</stage>
 	<l id="190" syll="4" part="i">Qu'en pensez-vous ?</l>
 </sp>
 <sp who="GÉRALDE"><speaker>GÉRALDE.</speaker>
@@ -1818,7 +1914,8 @@
 <sp who="MADAME GÉRALDE"><speaker>MADAME GÉRALDE.</speaker>
 	<l id="191">Ah !... Pourquoi retarder leur bonheur ?</l>
 </sp>
-<sp stage="sweet" who="GÉRALDE"><speaker>GÉRALDE, entraîné par les caresses de sa famille.</speaker>
+<sp who="GÉRALDE"><speaker>GÉRALDE</speaker><stage type="sweet">, entraîné par les caresses de sa famille.
+	</stage>
 	<l id="192">Soyez unis ; soyez mon gendre ;</l>
 	<l id="193">Et surtout faites son bonheur.</l>
 <stage type="toward/show">À Célestine, en lui présentant Alexis.</stage>

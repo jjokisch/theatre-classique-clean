@@ -941,7 +941,7 @@
 	<l id="421">Je me retire donc après un tel avis,</l>
 	<l id="422">Vous êtes en colère, et je crains de voir pis.</l>
 </sp>
-<sp who="DON-FERNAND"><speaker>DON FERNAND.</speaker>l'arrêtant. 
+<sp who="DON-FERNAND"><speaker>DON FERNAND.</speaker><stage>l'arrêtant.</stage> 
 	<l id="423" part="i">Sans ouïr mes raisons ?</l>
 </sp>
 <sp who="LUCRECE"><speaker>LUCRÈCE.</speaker> 
@@ -963,7 +963,7 @@
 	<l id="436">Qu'un galant quoi qu'absent vienne à l'heure promise,</l>
 	<l id="437">Qu'un voyage à dessein soit longtemps publié.</l>
 </sp>
-<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker>bas. 
+<sp who="PHILIPIN"><speaker>PHILIPIN.</speaker><stage>bas.</stage>
 	<l id="438">Il a bonne mémoire, il n'a rien oublié ;</l>
 	<l id="439">Au diable soit le maître avecque sa harangue.</l>
 	<l id="440">Où me suis-je adressé pour jouer de la langue ? </l>
@@ -993,7 +993,8 @@
 	</stage> 
 	<l id="446">Voyez, on va chasser la pauvre Béatrix.</l>
 </sp>
-<sp stage="toward" who="BEATRIX"><speaker>BEATRIX à Lucrece.</speaker>
+<sp who="BEATRIX"><speaker>BEATRIX</speaker><stage type="toward"> à Lucrece.
+	</stage>
 	<l id="447">Plut au Ciel que vous-même avec votre colère</l>
 	<l id="448">N'eussiez pas avoué ce que j'avais su taire,</l>
 	<l id="449" part="i">Et que par ce reproche...</l>
