@@ -22,7 +22,4 @@ I have corrected this in the following manner:
 ```
 
 # Results
-The number of stage directions has increased from 43,318 to 117,577, i.e., by over 271%. The number of words now explicitely marked up as stage directions has increased from 333,360 to 642,176, i.e., by over 190%.
-
-
-
+The number of stage directions has increased from 43,386 to 120,321, i.e., by over 277%. The number of words now explicitely marked up as stage directions has increased from roughly 340,000 to roughly 655,000, i.e., by over 190%.
