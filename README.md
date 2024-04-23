@@ -47,11 +47,11 @@ My correction changed the speaker node into a stage node, skipping the speaker n
 <s id='1'>Ouvrez, par miséricorde ; ouvrez, au nom de dieu : ouvrez, je vous en conjure !</s>
 </p>
 ```
-We can find an even more egregious example in the TC markup of Jean de La Fontaine’s <i>Daphné</i> (1682). First, the beautiful the original passage:
+We can find an even more egregious example in the TC markup of Jean de La Fontaine’s <i>Daphné</i> (1682). First, the beautiful original passage:
 
 ![Poëmes_du_quinquinia_et_autres_ La_Fontaine_bpt6k576021](https://github.com/jjokisch/theatre-classique-clean/assets/112176243/8fd8421b-b4ac-4b5b-8ba5-e01b4585ec33)
 
-TC, in its need for stage directions renders it as follows:
+TC, in its need for speaker prefixes renders it as follows:
 ```bash
 <stage type="action/danse">Mercure revole au ciel, ayant laissé Pégase sur le double mont. Quatre auteurs lyriques et
 autant de Muses du même genre viennent danser en témoignage de joie ; puis les ridicules se mêlent avec eux, formant de
