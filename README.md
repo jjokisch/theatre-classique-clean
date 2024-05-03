@@ -125,7 +125,7 @@ Ignoring the parallelism in speech expressed typographically through the two col
 Due to a lack of proper markup option, I opted to keep the handful of "impossible" stage directions in their original form as encoded by TC.
 
 # Results
-Employing my changes to the best of my knowledged, the number of stage directions has increased from 43,386 to 120,321, i.e., by over 277%. The number of words now explicitely marked up as stage directions has increased from roughly 340,000 to roughly 655,000, i.e., by over 190%.
+Employing my changes to the best of my knowledged, the number of stage directions has increased from 43,386 to 120,321, i.e., by over 177%. The number of words now explicitely marked up as stage directions has increased from roughly 340,000 to roughly 655,000, i.e., by over 90%.
 
 
 [^1]: Wehde, Susanne. Typographische Kultur: eine zeichentheoretische und kulturgeschichtliche Studie zur Typographie und ihrer Entwicklung. M. Niemeyer, 2000, pp. 14, 125.
