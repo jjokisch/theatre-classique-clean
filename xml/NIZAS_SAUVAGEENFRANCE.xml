@@ -869,8 +869,8 @@
 <p id="35">
 	<s id="1">Oui, compte sur moi si tes projets sont justes.</s>
 </p>
-<stage type="explicit">Fin du premier acte.</stage>
-<stage type="date">À Metz, le 15 avril 1760.</stage>
+<trailer type="explicit">Fin du premier acte.</trailer>
+<trailer type="date">À Metz, le 15 avril 1760.</trailer>
 </sp>
 </div2>
 </div1>
@@ -2424,8 +2424,8 @@
 <p id="24">
 	<s id="1">Voici l'heure où les visites viennent, allons nous promener au jardin en les attendant.</s>
 </p>
-<stage type="explicit">Fin du 2e acte.</stage>
-<stage type="date">À Metz, le 18 avril 1760.</stage>
+<trailer type="explicit">Fin du 2e acte.</trailer>
+<trailer type="date">À Metz, le 18 avril 1760.</trailer>
 </sp>
 </div2>
 </div1>
@@ -4016,7 +4016,7 @@
 	<s id="1">Suivons son avis, la sagesse a parlé par sa bouche. </s>
 	<s id="2">Après avoir terminé cette double alliance, allons vivre avec lui dans cette heureuse contrée où l'innocence et la vertu ont fixé le vrai bonheur.</s>
 </p>
-<stage type="explicit">Fin de la pièce.</stage>
+<trailer type="explicit">Fin de la pièce.</trailer>
 </sp>
 </div2>
 </div1>

@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>LA GRISETTE ET L'ÉTUDIANT, SAYNÈTE.</title>
+			<author type="texte" ISNI="0000 0001 0910 1850 ">Henri MONNIER (1799-1877)</author>
+		</titleStmt>
+		<publicationStmt>	
+			<editor>Texte établi par Paul FIÈVRE, janvier 2023</editor>
+			<publisher>Publié par Paul FIEVRE, février 2023</publisher>
+			<idno>MONNIER_ETUDIANTGRISETTE</idno>
+			<rights>Creative Commons BY-NC-SA</rights>
+		</publicationStmt>
+		<SourceDesc>
+			<genre>Pièce</genre>
+			<inspiration>moeurs françaises</inspiration>
+			<structure>Un acte</structure>
+			<type>prose</type>
+			<periode>1861-1870</periode>
+			<taille>(mesure non pertinente)</taille>
+			<permalien cote="BnF Enfer 146">https://gallica.bnf.fr/ark:/12148/bpt6k1525565j</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA GRISETTE ET L'ÉTUDIANT</titlePart>
+			<titlePart type="main">Pièce en un acte.</titlePart>
+		</docTitle> 
+		<docDate value="1866">M. DCCC. LXIV. M. DCCC. LXVI.</docDate>
+		<docAuthor id="MONNIER, Henri">par M. HENRI MONNIER</docAuthor>
+		<div type="preface"><head>AVERTISSEMENT</head>
+			<p>M. Henry Monnier répudie énergiquement la paternité de cette comédie</p>
+			<p>Que Joseph Prudhomme, à l'instar de l'Eumolpe de Pétrone, rougisse au moyen du fard des gaîtés de sa jeunesse, devant les imbéciles divers, nous le voulons bien : ; mais, de lui à nous, cette pudeur empruntée à la chimie est hors de propos.</p>
+			<p>Lorsqu'il vint offrir la Grisette et l'Étudiant à l'administration du théâtre de la rue de la Santé, Monnier avait passé la soixantaine.</p>
+			<p>Lui-même fit parler les trois personnages de la comédie.</p>
+			<p>Lui-même vint recevoir, avec l'im-per-tur-ba-bi-li-té cons-ti-tu-ti-in-neel-le du cabotin induré des fé-li-ci-ta-tions des spectateurs idolâtres et vertueux, parmi lesquels on remarquait MM. Paul Féval, Paul Blaquière, alors mélancolique et poitrinaire(*), Charles Bataille, Edmond Duranty, etc., etc, sur lesquels planaient visiblement les ombres de tous les rapporteurs éventuels du prix Monthyon.</p>
+			<p>Le manuscrit autographe de M. Henry Monnier, dont nous sommes l'heureux possesseur, ne peut d'ailleurs laisser de doute sur le concubinage auquel cet égrillard funèbre s'est livré avec Mademoiselle Musa, afin de procrée La Grisette et l'Étudiant.</p>
+			<p>Voyons, Monnier, tu as vraiment tort de renier ton essai de comédie libre. Il te sera compté pour plus que les rengaines sont tu attristes les soupers où ta place est marquée comme auteur des bas-Fonds ; - et il vaut mieux, mille fois, que ta pièce Peintres et Bourgeois, faite en collaboration avec un commis voyageur mis à pied, et qui a obtenu un four si funèbre, dedans l'Odéon, noir caveau. </p>
+			<p>M. Monnier a donné deux représentation de la Grisette et l'étudiant sur le Théâtre de la rue de la Santé.</p>
+			<p>Nous le jurons !</p>
+			<p>Et il nie le récidiviste !</p>
+			<p>* Thérésa lui a depuis fait deux files ; La Vénus aux Carottes et La Femme à barbe. La mère et les enfants se portent bien.</p>
+		</div>
+		<castList><head>PERSONNAGES.</head>
+			<castItem><role id="L'ÉTUDIANT" sex="1" type="H" statut="étudiant" age="A" stat_amour="néant">L'ÉTUDIANT</role>.</castItem>
+			<castItem><role id="LA GRISETTE" sex="2" type="H" statut="employé" age="A" stat_amour="néant">LA GRISETTE</role>.</castItem>
+			<castItem><role id="LA VOIX DE MONSIEUR PRUDHOMME" sex="1" type="H" statut="bourgeois" age="A" stat_amour="néant">LA VOIX DE MONSIEUR PRUDHOMME</role>.</castItem>
+		</castList>
+		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">La scène se passe à Paris, dans une chambre meublée, rue de la Harpe, en 1830 au plus tôt, et 1840 au plus tard.</set>
+		<note>Extrait de "Théâtre érotique de la rue de la Santé - Son histoiree partie - Première partie", BAtignolles, 1866. pp 15-31</note>
+</front>
+<body>
+<div1 type="acte" n="1"><head>LA GRISETTE ET L'ÉTUDIANT</head>
+<div2 type="scene" n="1"><head/>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="read">, lisant une lettre.
+</stage>
+<p id="1">
+	<s id="1">... Mardi, à midi, je serai chez toi, plutôt avant qu'après. </s>
+	<s id="2">Aime-moi toujours comme je t'aime. </s>
+	<s id="3">Sois bien sage et bien raisonnable, mais pas trop cochon. </s>
+	<s id="4">Si nous voulons, nous ferons des bêtises... </s>
+</p>
+<stage type="speak">Parlé.</stage>
+<p id="2">
+	<s id="1">Onze heures dix... </s>
+	<s id="2">Elle ne viendra pas.</s>
+</p>
+<stage type="read">Relisant.</stage>
+<p id="3">
+	<s id="1">... Mardi, à midi...</s>
+</p>
+<stage type="speak">Parlé.</stage>
+<p id="4">
+	<s id="1">Elle n'est pas en retard... </s>
+	<s id="2">Mettons sa chaise... </s>
+	<s id="3">Onze_heures_et_demie ! </s>
+</p>
+<stage type="read">Relisant.</stage>
+<p id="5">
+	<s id="1">... Je serai chez toi plutôt avant qu'après...</s>
+</p>
+<stage type="speak">Parlé.</stage>
+<p id="6">
+	<s id="1">Onze heures trois quart !...</s>
+</p>
+<stage type="knock">On entend toc, toc, à la porte.</stage>
+<p id="7">
+	<s id="1">Qui est là ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>UNE VOIX FLUTÉE.</speaker>
+<p id="8">
+	<s id="1">Moi !</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="imitate">, faisant semblant de na pas la reconnaître.
+</stage>
+<p id="9">
+	<s id="1">Qui ça, vous ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA MÊME VOIX FLUTÉE.</speaker>
+<p id="10">
+	<s id="1">Moi !!...</s>
+</p>
+<stage type="open/tired">Il ouvre. Entre la grisette, rouge comme une pivoine qui aurait monté aux étages.</stage>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<note type="L">Endêver : Avoir grand dépit de quelque chose. [L]</note>
+<note type="L">Bosco : Petit bossu, petite bossue. [L]</note>
+<p id="11">
+	<s id="1">Bonjour mon chien. </s>
+	<s id="2">Comment ça va ?... </s>
+	<s id="3">Dieu que c'est haut ! </s>
+	<s id="4">Je suis toute essoufflée... </s>
+	<s id="5">Et ta portière qui me demande toujours où je vais, comprends-tu ça ?</s>
+	<s id="6">Elle me fait répéter pour me faire endêver... aussi je l'abomine, cette vieille bosco-là !... </s>
+	<s id="7">M'embrasses-tu ?... </s>
+	<s id="8">Laisse-moi ôter mon chapeau.</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="hurry">, avec l'empressement de l'homme qui bande.
+</stage>
+<p id="12">
+	<s id="1">Donne le moi, mon ange.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="drop">, se débarrassant de son chapeau.
+</stage>
+<p id="13">
+	<s id="1">Tiens... M'aimes-tu mon chat ?... </s>
+	<s id="3">Viens m'embrasser.</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="hugh">, qui la tient dans ses bras.
+</stage>
+<p id="14">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="closer">, avançant son petit museau contre les lèvres de son amant.
+</stage>
+<p id="15">
+	<s id="1">Nous serons bien sages, par exemple !</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="kiss/erection">, qui bande plus que jamais, lui faisant une langue.
+</stage>
+<p id="16">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="17">
+	<s id="1">Ah ! </s>
+	<s id="2">Pas comme ça, tit_chat, pas comme ça... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">T'es cochon !... </s>
+	<s id="5">Pas la langue, non, t'en prie, pas la langue... </s>
+	<s id="6">Devine ce que j'ai sous mon châle ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="erection">, qui bande trop pour deviner quoi que ce soit.
+</stage>
+<p id="18">
+	<s id="1">Des bretelles brodées par toi ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="away/danse">, qui s'est soustraite, pour un instant, aux langues de son amant, et qui sautille dans la chambre comme une bergeronnette.
+</stage>
+<p id="19">
+	<s id="1">Non... </s>
+	<s id="2">Dans un pot ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="laugh">, riant aux éclats.
+</stage>
+<note type="L">Raisiné : Confiture faite avec du jus de raisin et des fruits, surtout des poires. [L]</note>
+<p id="20">
+	<s id="1">T'es bête ! </s>
+	<s id="2">Dans un pot, c'est un raisiné que maman m'a envoyé pour mon hiver...</s>
+	<s id="3">Tu l'aimes, le raisiné, n'est-ce pas gros minet ? </s>
+	<s id="4">Nous le mangerons.</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="erection">, qui n'a d'autres préoccupation que de baiser la grisette.
+</stage>
+<p id="21">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="stop/location">, s'arrêtant devant le cheminée.
+</stage>
+<p id="22">
+	<s id="1">Tiens ! </s>
+	<s id="2">Où est la pendule ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="23">
+	<s id="1">Chez l'horloger.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="24">
+	<s id="1">Et le verre, n'est-ce pas ? </s>
+	<s id="2">Elle est chez ma tante !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="25">
+	<s id="1">J'en ai peur.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="26">
+	<s id="1">Ah !</s>
+	<s id="2">Oui, je sais... </s>
+	<s id="3">C'est pour l'autre jour, avec ta Madame_Machin, que vous avez été à Meudon me faire des queues...</s>
+</p>
+<stage type="enthousiasm">Avec élan.</stage>
+<p id="27">
+	<s id="1">J'avais justement l'argent, vingt-cinq_francs... </s>
+	<s id="2">Je te les aurais prêtés !...</s>
+</p>
+
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="closer/sit/furniture">, qui est parvenu à l'attirer sur une chaise.
+</stage>
+<p id="28">
+	<s id="1">T'es bête, va !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="29">
+	<s id="1">Baisez-moi vite, mauvais sujet... </s>
+	<s id="2">Baisez-moi !...</s>
+</p>
+<stage type="kiss">Il lui fait une langue prolongée.</stage>
+<p id="30">
+	<s id="1">Non... </s>
+	<s id="2">Pas comme ça mon chien, pas comme ça... </s>
+	<s id="3">T'en prie !... </s>
+	<s id="4">Recommencez... </s>
+	<s id="5">Pas de bêtises, tit_chat !... </s>
+	<s id="6">T'en prie !... </s>
+</p>
+<stage type="touch">Il lui pince amoureusement la cul.</stage>
+<p id="31">
+	<s id="1">Je ne veux pas... </s>
+	<s id="2">Non !... </s>
+	<s id="3">Travaille !...</s>
+</p>
+<stage type="touch">Il lui patine le poitrine.</stage>
+<p id="32">
+	<s id="1">Non... </s>
+	<s id="2">Laisse-moi... </s>
+	<s id="3">Te dis... </s>
+	<s id="4">Je viens ici pour que tu travailles... </s>
+	<s id="5">Je vais me mettre à côté de toi... </s>
+</p>
+<stage type="site/furniture">Elle saute sur une chaise voisine.</stage>
+<p id="33">
+	<s id="1">C'est ça... </s>
+	<s id="2">Sois bien gentil !... </s>
+	<s id="3">Y a-t-il longtemps que je t'ai vu !... </s>
+	<s id="4">Baisez-moi, vilain méchant... </s>
+	<s id="5">Baisez-moi mieux que ça... </s>
+	<s id="6">Dis donc, a-t-elle autant de gorge que moi, ta madame ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="touch">, qui en a plein les mains.
+</stage>
+<p id="34">
+	<s id="1">Hou ! </s>
+	<s id="2">Hou !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="show">, se cambrant pour mieux faire saillir ses tétons.
+</stage>
+<p id="35">
+	<s id="1">Je suis sûre qu'elle ne se tient pas comme la mienne... </s>
+	<s id="2">C'est que tu n'en trouveras pas comme ça tous les deux jours, sais-tu tit_chat ? </s>
+	<s id="3">Non !... </s>
+	<s id="4">Elle est mieux mise, ta dédame, mais elle n'a pas mon corps... </s>
+	<s id="5">Tiens, vois mes nénets, comme ils sont engraissés... </s>
+</p>
+<stage type="show">Elle les met à la fenêtre de son corsage.</stage>
+<p id="36">
+	<s id="1">Les aimes-tu, mes pommes ?... </s>
+</p>
+<stage type="touch">Il les branle du doigt et de la langue.</stage>
+<p id="37">
+	<s id="1">Oh ! </s>
+	<s id="2">Non... </s>
+	<s id="3">N'y touchez pas, monsieur :... </s>
+	<s id="4">Je veux les conserver longtemps... </s>
+	<s id="5">Non, t'en prie... </s>
+	<s id="6">Ah !... </s>
+	<s id="7">Non... </s>
+	<s id="8">Tit_chat... </s>
+	<s id="9">Non... </s>
+	<s id="10">Travaille... </s>
+	<s id="11">Ah !... </s>
+	<s id="12">Cochon !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>L'ÉTUDIANT</speaker><stage type="pull">, l'attirant  sur ses genoux, et lui retroussant la robe.
+</stage>
+<p id="38">
+	<s id="1">Mais je travaille aussi.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="39">
+	<s id="1">Pas ce travail-là... </s>
+	<s id="2">Je veux que tu sois raisonnable... </s>
+</p>
+<stage type="touch">Il lui écarte les cuisses.</stage>
+<p id="40">
+	<s id="1">Eh bien !... </s>
+	<s id="2">Eh bien ! </s>
+	<s id="3">Où vas-tu comme ça ?... </s>
+	<s id="4">Qu'est ce que tu fourrages là-dedans ?... </s>
+	<s id="5">Ah ! </s>
+	<s id="6">Comme t'es cochon ! </s>
+	<s id="7">Comme t'es cochon !... </s>
+	<s id="8">Je ne veux pas, non... </s>
+	<s id="9">Je te connais : quand tu l'as fais, tu me renvoies... </s>
+	<s id="10">Non... </s>
+	<s id="11">T'en prie ! </s>
+	<s id="12">Non... </s>
+	<s id="13">Te dis... </s>
+	<s id="14">Tit_chat... </s>
+	<s id="15">Non !... </s>
+	<s id="16">Non !... </s>
+	<s id="17">Pas comme ça... </s>
+	<s id="18">ça me tire l'estomac...</s>
+</p>
+<stage type="touch">Il la branle.</stage>
+<p id="41">
+	<s id="1">Laisse mon bouton... </s>
+	<s id="2">Mon tit bouton... </s>
+	<s id="3">Bien !... </s>
+	<s id="4">Ah !... </s>
+	<s id="5">Oui !... </s>
+</p>
+<stage type="weak">D'une voix languissante.</stage>
+<p id="42">
+	<s id="1">Travaille...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="touch">, remplaçant son doigt par sa pine.
+</stage>
+<p id="43">
+	<s id="1">Je travaillerai après...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, qui commence à faire ses yeux blancs.
+</stage>
+<p id="44">
+	<s id="1">Non... </s>
+	<s id="2">Tit_chat... </s>
+	<s id="3">Sais bien ce que t'as fais l'autre fois... </s>
+	<s id="4">Non ! </s>
+	<s id="5">Oh ! </s>
+	<s id="6">Non !... </s>
+	<s id="7">Faut donc toujours vous céder ?... </s>
+	<s id="8">Oui... </s>
+	<s id="9">Tu veux le faire... </s>
+	<s id="10">Ah !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="push">, poussant sa pointe.
+</stage>
+<p id="45">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="46">
+	<s id="1">Sur le lit mon chien... </s>
+	<s id="2">Sur le lit... </s>
+	<s id="3">On est mieux pour faire ça... </s>
+</p>
+<stage type="carry/location">Il la porte sur le lit, et commence l'assaut avec une certaine furie.</stage>
+<p id="47">
+	<s id="1">Attends... </s>
+	<s id="2">Attends donc que je relève ma robe du dessous... </s>
+	<s id="3">Tu veux donc tout me déchirer !... </s>
+	<s id="4">Tiens... </s>
+	<s id="5">Ma voilà... </s>
+	<s id="6">Va... </s>
+	<s id="7">Pas comme ça, donc ! </s>
+	<s id="8">Tu vas chez le voisin... </s>
+	<s id="9">Laisse moi le conduire... </s>
+	<s id="10">Na !... </s>
+	<s id="11">Attends, mon petit homme... </s>
+	<s id="12">Oh !... </s>
+	<s id="13">Attends !... </s>
+	<s id="14">Faisons le longtemps, bien longtemps ; n'est-ce pas, tit_chien ?... </s>
+	<s id="15">Tu y es... </s>
+	<s id="16">Me sens-tu ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="work">, jouant avec vigueur des reins.
+</stage>
+<p id="48">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy/shout">, jouissant, et ne pouvant retenir ses soupirs de  bonheur, qui ressemble au cri du geindre. 
+</stage> 
+<p id="49">
+	<s id="1">Han !... </s>
+	<s id="2">Han !... </s>
+	<s id="3">Han !... </s>
+	<s id="4">Que c'est bon !... </s>
+	<s id="5">Je jouis !... </s>
+	<s id="6">Va !.... </s>
+	<s id="7">Han !... </s>
+	<s id="8">Ah ! </s>
+	<s id="9">Que c'est bon...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="happy">, jouissant aussi, mais plus silencieusement.
+</stage>
+<p id="50">
+	<s id="1">Cher ange !... </s>
+	<s id="2">Je t'aime !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="move/happy">, répondant aux coupsde pine de son amant par autant de coups de cul.
+</stage>
+<p id="51">
+	<s id="1">Tu... m'ai... meras... tou... toujours ?....</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="happy">, qui n'est pas encore désarçonné.
+</stage>
+<p id="52">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, au paroxisme de la jouissance, et criant.
+</stage>
+<p id="53">
+	<s id="1">Va !.. Va !... Va !... Petit homme... Pas tout de suite... Pars encore... Ah ! Cela vient... Tu me mouilles.... Ah ! Come je jouis, Mon Dieu ! Comme je jouis !... ça me va dans la plante des cheveux... Ah ! Oui ! Tue-moi !... Ah ! Tue-moi... Ah ! Tu-moi !...</s>
+</p>
+</sp>
+<sp who="LA VOIX DE MONSIEUR PRUDHOMME"><speaker>LA VOIX DE MONSIEUR PRUDHOMME.</speaker>
+<p id="54">
+	<s id="1">Pas d'assassinats dans la maison s'il vous plaît !... </s>
+	<s id="2">Eh ! </s>
+	<s id="3">Là-bas, avez vous bientôt fini vos turpitudes ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, gigotant encore.
+</stage>
+<p id="55">
+	<s id="1">Qu'est ce qu'est donc là, à côté ?</s>
+</p>
+</sp>
+<sp who="LA VOIX DE MONSIEUR PRUDHOMME"><speaker>LA VOIX DE MONSIEUR PRUDHOMME.</speaker>
+<p id="56">
+	<s id="1">Vous allez me porter à de regrettables attentats sur ma personne...</s>
+</p>
+<stage type="move/noise">Les deux amants qui n'ont pas encore tout-à-fait fini, ne soufflent mot ; le lit sul parle pour eux, éloquemment.</stage>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="move">, dans les dernières convulsions du bonheur.
+</stage>
+<p id="57">
+	<s id="1">Qu'est-ce donc là à côté ?</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="move">, limant encore, pour l'acquit de sa conscience, car il ne bande plus aussi raide.
+</stage>
+<p id="58">
+	<s id="1">Une vieille bête !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, qui bande encore.
+</stage>
+<p id="59">
+	<s id="1">Nous le faisions si bien !... </s>
+	<s id="2">Je voudrais recommencer... </s>
+	<s id="3">Et toi, tit_chat ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="touch">, la branlant, pour laisser un instant souffler sa pine.
+</stage>
+<p id="60">
+	<s id="1">Moi aussi...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="explicit">, qui est pour la jouissance sérieuse, et non  pour les a-peu-près.
+</stage>
+<p id="61">
+	<s id="1">Pas comme ça !... </s>
+	<s id="2">Polyte, mon Lilyte ôte ta main ; ôte ta main... </s>
+	<s id="3">Non ! </s>
+	<s id="4">Veux pas... </s>
+	<s id="5">Ôte te main... </s>
+	<s id="6">T'en prie !...</s>
+</p>
+</sp>
+<sp who="LA VOIX DE MONSIEUR PRUDHOMME"><speaker>LA VOIX DE MONSIEUR PRUDHOMME.</speaker>
+<p id="62">
+	<s id="1">Hippolyte, ôtez donc votre main !</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="toward">, à Monsieur Prudhomme.
+</stage>
+<p id="63">
+	<s id="1">Vous n'allez pas nous foutre la paix, vous !...</s>
+</p>
+</sp>
+<sp who="LA VOIX DE MONSIEUR PRUDHOMME"><speaker>LA VOIX DE MONSIEUR PRUDHOMME.</speaker>
+<p id="64">
+	<s id="1">Très bien, Monsieur... </s>
+	<s id="2">Vous me faites sortir de mon lit... </s>
+	<s id="3">J'abandonne la place... </s>
+	<s id="4">Je vais achever ma sieste dans une chambre voisine, pendant que vous achèverez vos impudicités dans la vôtre...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="65">
+	<s id="1">Enfin, il est parti, cet imbécile... </s>
+	<s id="2">Qu'est ce que nous disions déjà ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="touch">, qui ne perd pas son sujet de vue et de main.
+</stage>
+<p id="66">
+	<s id="1">Nous disions, tit_chat, que nous faisions des bêtises... </s>
+	<s id="2">Je voudrais bien vous embrasser... </s>
+	<s id="3">Donnez-moi votre petit bécot...</s>
+</p>
+<stage type="touch">Lui pelotant les couilles et lui chatouillant le membre.</stage>
+<p id="67">
+	<s id="1">Je veux voir si vous êtes en état.</s>
+</p>
+<stage type="watch">S'apercevant qu'il bande.</stage>
+<p id="68">
+	<s id="1">Oui, vous êtes en état, cochon !...</s>
+</p>
+<stage type="happy/estonish">Avec admiration, et voulant profiter de l'occasion.</stage>
+<p id="69">
+	<s id="1">Il est plus fort qu'il n'était tout_à_l_heure... </s>
+	<s id="2">Et dur ! </s>
+	<s id="3">On dirait du fer !... </s>
+	<s id="4">Comment une si grosse affaire ne vous crève-t-elle pas le ventre quand elle entre ?...</s>
+</p>
+<stage type="get/touch">Elle s'en empare avidement et de l'introduit.</stage>
+<p id="70">
+	<s id="1">Attends, mon chien, attends... </s>
+	<s id="2">ça y est bien, à présent... </s>
+	<s id="3">Va !... </s>
+	<s id="4">Ah !... </s>
+	<s id="5">Maman !... </s>
+	<s id="6">Maman !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="happy">, qui jouit plus silencieusement, mais tout aussi profondément. félicités.
+</stage>
+<p id="71">
+	<s id="1">Ah ! </s>
+	<s id="2">Cher ange! </s>
+	<s id="3">Cher ange !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, nageant dons un lac de félicités.
+</stage>
+<p id="72">
+	<s id="1">Oh ! </s>
+	<s id="2">Va ! </s>
+	<s id="3">Va !... </s>
+	<s id="4">Mais va donc !... </s>
+	<s id="5">Pousse, tit_homme... </s>
+	<s id="6">Pousse... </s>
+	<s id="7">Mais pousse donc !... </s>
+	<s id="8">Ah ! </s>
+	<s id="9">Comme je te sens bien !... </s>
+	<s id="10">Ah ! </s>
+	<s id="11">Maman, maman, que c'est bon !... </s>
+	<s id="12">Comme tu fais bien ça, mon chéri... </s>
+	<s id="13">As-tu autant de bonheur que moi ?... </s>
+	<s id="14">Parle-moi, t'en prie... </s>
+	<s id="15">Ah ! </s>
+	<s id="16">Que c'est bon !... </s>
+	<s id="17">Dis que tu m'aimes bien... </s>
+	<s id="18">Mais, là, bien !</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="move">, poussant toujours.
+</stage>
+<p id="73">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="move">, tortillant des fesses..
+</stage>
+<p id="74">
+	<s id="1">Dis-le toi-même !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="75">
+	<s id="1">Je t'aime bien.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="pray">, suppliante.
+</stage>
+<p id="76">
+	<s id="1">Donne moi ta langue... </s>
+	<s id="2">Ta chère bonne petite languette...</s>
+</p>
+<stage type="strong">Impérieusement.</stage>
+<p id="77">
+	<s id="1">Ta langue ! </s>
+	<s id="2">Ta langue ! </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Mon minet... </s>
+	<s id="5">Ah !... </s>
+	<s id="6">Ah !... </s>
+	<s id="7">Ah !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="75">
+	<s id="1">Ma poulette !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="happy">, pâmée.
+</stage>
+<p id="76">
+	<s id="1">Ta poulette, oui... </s>
+	<s id="2">Ta petite poule chérie... </s>
+	<s id="3">Ta... Ta... poule... chérie...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="77">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="wave">, faisant casse-noisette.
+</stage>
+<note type="L">Casse-noisette : Familièrement. Figure, menton de casse-noisette, en casse-noisette, menton qui se relève et se porte vers le nez. </note>
+<p id="78">
+	<s id="1">Sans-tu comme je te le serre ?... </s>
+	<s id="2">Va au fond... </s>
+	<s id="3">Bien au fond... </s>
+	<s id="4">Pousse, mon petit homme... </s>
+	<s id="5">Pousse... </s>
+	<s id="6">Tu me dira quand ça viendra...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="move">, précipitant ses coups.
+</stage>
+<p id="79">
+	<s id="1">Oui... </s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="prey">, suppliant.
+</stage>
+<p id="80">
+	<s id="1">Pas sans moi ! </s>
+	<s id="2">Pas sans moi !... </s>
+	<s id="3">Ensemble !... </s>
+	<s id="4">Jouis... </s>
+	<s id="5">Jouissons... ensemble... bien... ensemble ... </s>
+	<s id="6">Oh ! </s>
+	<s id="7">Maman !... </s>
+	<s id="8">Maman !... </s>
+	<s id="9">Maman !... </s>
+	<s id="10">Que c'est bon !... </s>
+	<s id="11">Tue-moi !... </s>
+	<s id="12">Tue-moi !... </s>
+	<s id="13">Tue-moi !... </s>
+	<s id="14">Oh !</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="happy">, qui a déchargé.
+</stage>
+<p id="81">
+	<s id="1">Oui...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="stress">, crispant pieds et mains.
+</stage>
+<p id="82">
+	<s id="1">Ah !... </s>
+	<s id="2">Ah !... </s>
+	<s id="3">Ah !... </s>
+	<s id="4">J'ai bien joui... </s>
+	<s id="5">Oui !... </s>
+	<s id="6">Et toi tit_chat ? </s>
+	<s id="7">Et toi ?...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="away">, retirant sa queue.
+</stage>
+<p id="83">
+	<s id="1">Moi aussi...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="reproach">, avec reproche.
+</stage>
+<p id="84">
+	<s id="1">Ah ! </s>
+	<s id="2">Tu te retires !... </s>
+	<s id="3">Pourquoi ne l'as-tu pas laissée dans moi ?... </s>
+	<s id="4">Je ne l'aurais pas mangé, va !... </s>
+	<s id="5">Reste encore comme avant... là contre mon ventre... </s>
+	<s id="6">Déjà fini !... </s>
+	<s id="7">Ah ! </s>
+	<s id="8">C'est bête !... </s>
+	<s id="9">Ça devrait durer toute le vie...</s>
+</p>
+<stage type="narration">Silence... Les deux amants, toujours entrelacés, se bécotent tendrement encore, mais sans jouer des reins. La grisette serre avec énergie l'étudiant contre sa poitrine, en soupirant et en tressaillant sous les derniers frissons de la jouissance ; pour un peu, elle recommencerait ; déjà même, sa main, se faufilant, sous les couilles de son amant, s'apprête à les chatouiller et à réveiller en elles le sperme qui dort ; mais l'étudiant, qui n'a que deux coups à son arc, se soustrait brusquement à cette incitation, en sautant au bas du lit.</stage>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="85">
+	<s id="1">Est-ce que je ne t'ai pas dit que j'avais à sortir ?</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="estonish">, étonnée.
+</stage>
+<p id="86">
+	<s id="1">Non... </s>
+	<s id="2">Vois comme tu es cochon... </s>
+	<s id="3">Quand tu l'as fait tu me renvoies !... </s>
+	<s id="4">C'est toujours la même chanson...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="87">
+	<s id="1">Puisque j'ai à sortir.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="cry/furniture">, toujours sur le lit et plurant à chaudes larmes.
+</stage>
+<p id="88">
+	<s id="1">Hi ! Hi ! Hi !... </s>
+	<s id="2">Hi ! Hi !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="stress">, contrarié.
+</stage>
+<p id="89">
+	<s id="1">Ah ! </s>
+	<s id="2">Si tu pleures, nous allons gentiment nous amuser.</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="cry">, toujours pleurant.
+</stage>
+<p id="90">
+	<s id="1">Moi qui comptais tant que nous sortirions ensemble !... </s>
+	<s id="2">Hi ! He ! Hi !...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="nervous">, avec impatience.
+</stage>
+<p id="91">
+	<s id="1">Puisque je te dis que j'ai une commission pour ma mère !</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="92">
+	<s id="1">Elle vient donc d'arriver, ta mère ?</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="93">
+	<s id="1">Je ne te l'ai pas dit ?...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE.</speaker>
+<p id="94">
+	<s id="1">Tu me l'as dit la dernière fois... </s>
+	<s id="2">Ah ! </s>
+	<s id="3">Je suis pas heureuse, moi... </s>
+	<s id="4">Non... </s>
+	<s id="5">J'ai pas de chance.... </s>
+	<s id="6">C'est comme le robe que tu m'avais promise...</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="95">
+	<s id="1">Tu l'auras !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="down">, sautant au bas du lit.
+</stage>
+<note type="L">Le semaine des quatre jeudis : expression pour exprimer une date hypothétique voire inexistante.</note>
+<p id="96">
+	<s id="1">Quand ?... Le semaine_des_quatre_jeudis, n'est ce pas ?....</s>
+</p>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT</speaker><stage type="closer/furniture">, allant à son secrétaire.
+</stage>
+<p id="97">
+	<s id="1">Tiens, la voilà, ta robe !...</s>
+</p>
+<stage type="throw">Il lui jette avec colère une pièce de vingt francs.</stage>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="pain">, éclatant de douleur.
+</stage>
+<p id="98">
+	<s id="1">C'est pas comme ça que je la voulais !... </s>
+	<s id="2">C'est pas comme ça !... </s>
+	<s id="3">Ah ! </s>
+	<s id="4">Mon Dieu !... </s>
+	<s id="5">Mon Dieu !...</s>
+</p>
+<stage type="cry/faint">Elle sanglote et se pâme.</stage>
+</sp>
+<sp who="L'ÉTUDIANT"><speaker>L'ÉTUDIANT.</speaker>
+<p id="99">
+	<s id="1">Eh bien ! </s>
+	<s id="2">Quoi ! i</s>
+	<s id="3">Tu vas te trouver mal à présent ! </s>
+	<s id="4">Fanny ! </s>
+	<s id="5">Fanny !... </s>
+	<s id="6">Je t'en prie !...</s>
+</p>
+<stage type="hugh/tender">Il la prend dans ses bras, et la caresse tendrement.</stage>
+<p id="100">
+	<s id="1">Tu pleure !... </s>
+	<s id="2">Fi ! </s>
+	<s id="3">Que c'est vilain !... </s>
+	<s id="4">Voulez-vous bien vite essuyer ces vilaines larmes-là !...</s>
+</p>
+</sp>
+<sp who="LA GRISETTE"><speaker>LA GRISETTE</speaker><stage type="laugh/cry">, riant d'un oeil et pleurant encore de l'autre.
+</stage>
+<p id="101">
+	<s id="1">Non ! </s>
+	<s id="2">Je pleure plus... </s>
+	<s id="3">Je ris...</s>
+	<s id="4">Tiens !... </s>
+	<s id="5">Et toi aussi, t'as pleuré... </s>
+	<s id="6">Baise-moi, et sois plus méchant, tit_chat !... </s>
+	<s id="7">T'en veux plus, mais plus du tout !...</s>
+</p>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

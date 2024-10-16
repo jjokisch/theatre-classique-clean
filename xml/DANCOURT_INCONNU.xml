@@ -593,7 +593,7 @@
 <sp who="LA JEUNESSE"><speaker>LA JEUNESSE.</speaker>
 	<l id="321">Vos traits ne me font point de peur. </l>
 	<l id="322">Mais finissons un discours qui vous gêne. </l>
-<stage type="explicit">Fin du Dialogue.</stage>
+<trailer type="explicit">Fin du Dialogue.</trailer>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
@@ -702,7 +702,7 @@
 <sp who="VIRGINE"><speaker>VIRGINE.</speaker>
 	<l id="379">Laissez-moi faire, </l>
 	<l id="380">En badinant je les ferai jaser. </l>
-<stage type="explicit">Fin du Divertissement du premier Acte.</stage>
+<trailer type="explicit">Fin du Divertissement du premier Acte.</trailer>
 </sp>
 </div2>
 </div1>
@@ -952,7 +952,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="518" part="f">Il faut tâcher d'en rire, </l>
 	<l id="519">En attendant que ce temps soit venu. </l>
-<stage type="explicit">Fin du Divertissement du second Acte.</stage>
+<trailer type="explicit">Fin du Divertissement du second Acte.</trailer>
 </sp>
 </div2>
 </div1>
@@ -1156,7 +1156,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="641" part="f">Suivez-les, Virgine, et que l'on fasse </l>
 	<l id="642">Tout ce qui se pourra pour les bien régaler. </l>
-<stage type="explicit">Fin du Divertissement du troisième Acte.</stage>
+<trailer type="explicit">Fin du Divertissement du troisième Acte.</trailer>
 </sp>
 </div2>
 </div1>
@@ -1321,7 +1321,7 @@
 <sp who="AMINTE"><speaker>AMINTE.</speaker>
 	<l id="709">Ah ! S'il brûle de m'en instruire, </l>
 	<l id="710">Adieu, Berger, adieu, je n'en veux rien savoir. </l>
-<stage type="explicit">Fin du Dialogue.</stage>
+<trailer type="explicit">Fin du Dialogue.</trailer>
 </sp>
 <sp who="OLIMPE"><speaker>OLIMPE.</speaker>
 	<l id="711">Madame, après cela que l'Inconnu hasarde </l>
@@ -1368,7 +1368,7 @@
 <sp who="LE VICOMTE"><speaker>LE VICOMTE.</speaker>
 	<l id="734" part="f">Allons-y faire travailler, </l>
 	<l id="735">Et leur choisir un lieu commode à s'habiller. </l>
-<stage type="explicit">Fin du Divertissement du quatrième Acte.</stage>
+<trailer type="explicit">Fin du Divertissement du quatrième Acte.</trailer>
 </sp>
 </div2>
 </div1>
@@ -1953,7 +1953,7 @@
 </sp>
 <sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="965" part="f">Puisse l'Amour ne nous quitter jamais. </l>
-<stage type="explicit">Fin du Divertissement du cinquième Acte.</stage>
+<trailer type="explicit">Fin du Divertissement du cinquième Acte.</trailer>
 </sp>
 </div2>
 </div1>

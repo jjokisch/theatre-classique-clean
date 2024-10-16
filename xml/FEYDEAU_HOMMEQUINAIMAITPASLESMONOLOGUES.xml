@@ -172,7 +172,7 @@
 	<s id="6">C'est une idée, si le grand blond n'a pas encore fini son monologue, je vais rentrer dans la salle, et je lui crierai : « Allez-vous-en ! allez-vous-en ! allez-vous-en ! »</s>
 </p>
 <stage type="exit">Il sort en courant.</stage>
-<stage type="END">Fin</stage>
+<trailer type="END">Fin</trailer>
 </sp>
 </div2>
 </div1>

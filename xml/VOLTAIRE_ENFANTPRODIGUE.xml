@@ -2511,7 +2511,8 @@
 <sp who="EUPHÉMON FILS"><speaker>EUPHÉMON Fils.</speaker>
 	<l id="1337">Que dites-vous ? Juste ciel ! Vous pleurez ?</l>
 </sp>
-<sp who="LISE"><speaker>LISE à Marthe.</speaker>
+<sp who="LISE"><speaker>LISE</speaker><stage> à Marthe.
+	</stage>
 	<l id="1338">Ah ! Soutiens-moi, mes sens sont égarés ;</l>
 	<l id="1339">Moi, je serais l'épouse de son frère ?...</l>
 	<l id="1340">N'avez-vous point vu déjà votre père ?</l>
