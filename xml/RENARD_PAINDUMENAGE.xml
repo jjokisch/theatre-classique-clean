@@ -2066,8 +2066,8 @@ la force armée.</s>
 	<s id="3">Elle vous attend. </s>
 	<s id="4">Approchez-vous d'elle, sans bruit, et, de tout votre coeur, embrassez-la bien.</s>
 </p>
-<stage type="decor">RIDEAU.</stage>
 </sp>
+<trailer type="decor">RIDEAU.</trailer>
 </div2>
 </div1>
 </body>

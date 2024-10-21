@@ -1313,7 +1313,7 @@ le Juge d'Instruction, le Directeur de la prison, un aide du Bourreau, puis l'Au
 <p id="42">
 	<s id="1">Venez, mon enfant. </s>
 </p>
-RIDEAU. 
+<trailer>RIDEAU.</trailer> 
 </sp>
 </div2>
 </div1>
@@ -2114,13 +2114,15 @@ On entend par instants à la cantonade des coups de marteau, des bruits de foule
 	<s id="1">Au nom de la Société... </s>
 	<s id="2">Au nom de la Justice, en mon âme et conscience, je vous demande la tête de cet homme !... </s>
 </p>
-<stage type="decor">Rideau. </stage>
-<stage type="explicit">SUBSTITUTION DE LA TÊTE. 
-Au lever du rideau du second acte, l'acteur qui interprète le rôle de Moralès, est couché dans la table, dont la partie supérieure porte une ouverture dissimulée par un voile noir. 
-Pendant que le professeur, entouré des autres acteurs, fait sa démonstration, cachant la table aux yeux du public, l'acteur sort la tête et l'appuie sur un support échancré au milieu de façon à lui emboîter le menton, ce qui empêchera la tête de bouger.</stage> 
 </sp>
+<trailer>Rideau.</trailer>
 </div2>
 </div1>
 </body>
+<back>
+<p>SUBSTITUTION DE LA TÊTE. 
+Au lever du rideau du second acte, l'acteur qui interprète le rôle de Moralès, est couché dans la table, dont la partie supérieure porte une ouverture dissimulée par un voile noir. 
+Pendant que le professeur, entouré des autres acteurs, fait sa démonstration, cachant la table aux yeux du public, l'acteur sort la tête et l'appuie sur un support échancré au milieu de façon à lui emboîter le menton, ce qui empêchera la tête de bouger.</p> 
+</back>
 </text>
 </TEI>

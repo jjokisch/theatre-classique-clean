@@ -236,8 +236,8 @@
 <stage type="away">Au moment où il s'enfuit, une robe bien connue se montre au loin.</stage>
 <stage type="happy">Avec le ciel dans le coeur : </stage>
 	<l id="142" syll="6" part="f">Ah ! La voilà !... Georgette !</l>
-<stage type="decor">Rideau.</stage>
 </sp>
+<trailer type="decor">Rideau.</trailer>
 </div2>
 </div1>
 </body>
