@@ -4623,7 +4623,7 @@ qui passe et qui repasse ?</s>
 </div2>
 <div2 type="conversation" n="23"><head>CONVERSATION XXIII.</head><head> SUR LA BONNE HUMEUR.
 </head>
-<stage type="title">SCÈNE PREMIÈRE.</head>
+<head type="title">SCÈNE PREMIÈRE.</head>
 <sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 <p id="1">
 	<s id="1">On dit que mademoiselle Victoire est allée à la campagne, et qu'elle mène avec elle mademoiselle Hortense.</s>
@@ -4659,7 +4659,7 @@ qui passe et qui repasse ?</s>
 	<s id="1">Voici mademoiselle Constance, la bonne amie d'Hortense.</s>
 </p>
 </sp>
-<stage type="title">SCÈNE II.</head>
+<head type="title">SCÈNE II.</head>
 <sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 <p id="8">
 	<s id="1">Vous avez perdu pour quelque temps votre compagnie ordinaire.</s>
@@ -4745,7 +4745,7 @@ qui passe et qui repasse ?</s>
 	<s id="1">Mon amie s'accommode de tout ; je vous laisse pour aller lui écrire.</s>
 </p>
 </sp>
-<stage type="title">SCÈNE III.</head>
+<head type="title">SCÈNE III.</head>
 <sp who="BLANDINE"><speaker>BLANDINE.</speaker>
 <p id="24">
 	<s id="1">Savez-vous que mademoiselle Irène est brouillée avec la meilleure de ses amies ?</s>
@@ -4762,7 +4762,7 @@ qui passe et qui repasse ?</s>
 	<s id="1">On m'en a dit quelque chose : mais voici mademoiselle Lucile qui sait toujours tout, et qui nous le dira.</s>
 </p>
 </sp>
-<stage type="title">SCÈNE IV.</head>
+<head type="title">SCÈNE IV.</head>
 <sp who="BLANDINE"><speaker>BLANDINE.</speaker>
 <p id="27">
 	<s id="1">Nous parlions du démêlé de mademoiselle Alexandrine avec son amie Mademoiselle Irène : en savez-vous les particularités ?</s>
@@ -4796,7 +4796,7 @@ qui passe et qui repasse ?</s>
 	<s id="1">Si une autre que vous me disait ce que vous venez de raconter, je ne le pourrais croire.</s>
 </p>
 </sp>
-<stage type="title">SCÈNE V.</head>
+<head type="title">SCÈNE V.</head>
 <sp who="PLACIDE"><speaker>PLACIDE.</speaker>
 <p id="32">
 	<s id="1">Vous voilà de retour, mademoiselle, et dans la meilleure santé du monde.</s>
